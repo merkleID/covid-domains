@@ -5730,6 +5730,104 @@ local-zone: "www.coronavirus-shop.online" redirect
 local-data: "www.coronavirus-shop.online A 0.0.0.0"
 local-zone: "covid19meter.info" redirect
 local-data: "covid19meter.info A 0.0.0.0"
+local-zone: "covid19.wongselo.com" redirect
+local-data: "covid19.wongselo.com A 0.0.0.0"
+local-zone: "corona-virus.wiki" redirect
+local-data: "corona-virus.wiki A 0.0.0.0"
+local-zone: "covid19.codecombat.com" redirect
+local-data: "covid19.codecombat.com A 0.0.0.0"
+local-zone: "www.ayudacovid19.com" redirect
+local-data: "www.ayudacovid19.com A 0.0.0.0"
+local-zone: "covid-19.go123.biz" redirect
+local-data: "covid-19.go123.biz A 0.0.0.0"
+local-zone: "www.covid19enalemania.family.blog" redirect
+local-data: "www.covid19enalemania.family.blog A 0.0.0.0"
+local-zone: "covid19tracking.narrativa.com" redirect
+local-data: "covid19tracking.narrativa.com A 0.0.0.0"
+local-zone: "worldhelpcovid-19.com" redirect
+local-data: "worldhelpcovid-19.com A 0.0.0.0"
+local-zone: "coronavirustrackingapp.com" redirect
+local-data: "coronavirustrackingapp.com A 0.0.0.0"
+local-zone: "coronavirus.ipueiras.ce.gov.br" redirect
+local-data: "coronavirus.ipueiras.ce.gov.br A 0.0.0.0"
+local-zone: "covid19fight.org" redirect
+local-data: "covid19fight.org A 0.0.0.0"
+local-zone: "emergenzacovid19.altervista.org" redirect
+local-data: "emergenzacovid19.altervista.org A 0.0.0.0"
+local-zone: "coronavirus-stat.su" redirect
+local-data: "coronavirus-stat.su A 0.0.0.0"
+local-zone: "covid19.harmonhall.com" redirect
+local-data: "covid19.harmonhall.com A 0.0.0.0"
+local-zone: "server.coronavirustelesalud.com" redirect
+local-data: "server.coronavirustelesalud.com A 0.0.0.0"
+local-zone: "covid19.iesalud.edu.mx" redirect
+local-data: "covid19.iesalud.edu.mx A 0.0.0.0"
+local-zone: "www.cpacovid19.com" redirect
+local-data: "www.cpacovid19.com A 0.0.0.0"
+local-zone: "www.cpacovid19.net" redirect
+local-data: "www.cpacovid19.net A 0.0.0.0"
+local-zone: "cpacovid19.com" redirect
+local-data: "cpacovid19.com A 0.0.0.0"
+local-zone: "cpacovid19.net" redirect
+local-data: "cpacovid19.net A 0.0.0.0"
+local-zone: "coronavirusmyths.co.uk" redirect
+local-data: "coronavirusmyths.co.uk A 0.0.0.0"
+local-zone: "covid19update.living-arts-institute.com" redirect
+local-data: "covid19update.living-arts-institute.com A 0.0.0.0"
+local-zone: "www.ayudacovid19.com" redirect
+local-data: "www.ayudacovid19.com A 0.0.0.0"
+local-zone: "www.kn95forcoronavirus.com" redirect
+local-data: "www.kn95forcoronavirus.com A 0.0.0.0"
+local-zone: "test-for-covid19.com" redirect
+local-data: "test-for-covid19.com A 0.0.0.0"
+local-zone: "attestation-coronavirus.com" redirect
+local-data: "attestation-coronavirus.com A 0.0.0.0"
+local-zone: "coronavirusarchive.com" redirect
+local-data: "coronavirusarchive.com A 0.0.0.0"
+local-zone: "coronavirusarchives.com" redirect
+local-data: "coronavirusarchives.com A 0.0.0.0"
+local-zone: "coronavirus-warning.com" redirect
+local-data: "coronavirus-warning.com A 0.0.0.0"
+local-zone: "covid-19.rmutto.ac.th" redirect
+local-data: "covid-19.rmutto.ac.th A 0.0.0.0"
+local-zone: "cuarentenacovid19.es" redirect
+local-data: "cuarentenacovid19.es A 0.0.0.0"
+local-zone: "covid19.portailpro.net" redirect
+local-data: "covid19.portailpro.net A 0.0.0.0"
+local-zone: "covid19info.weltlink.uz" redirect
+local-data: "covid19info.weltlink.uz A 0.0.0.0"
+local-zone: "coronavirusfinancialsupport.com" redirect
+local-data: "coronavirusfinancialsupport.com A 0.0.0.0"
+local-zone: "covid19.esriuk.com" redirect
+local-data: "covid19.esriuk.com A 0.0.0.0"
+local-zone: "www.coronavirus-shop.ru" redirect
+local-data: "www.coronavirus-shop.ru A 0.0.0.0"
+local-zone: "covid19.popup.wiki" redirect
+local-data: "covid19.popup.wiki A 0.0.0.0"
+local-zone: "www.ocoronaviruse.site" redirect
+local-data: "www.ocoronaviruse.site A 0.0.0.0"
+local-zone: "covid19.online-apply.fr" redirect
+local-data: "covid19.online-apply.fr A 0.0.0.0"
+local-zone: "www.cpacovid19.org" redirect
+local-data: "www.cpacovid19.org A 0.0.0.0"
+local-zone: "covid19.popup.wiki" redirect
+local-data: "covid19.popup.wiki A 0.0.0.0"
+local-zone: "www.coronavirus-shop.ru" redirect
+local-data: "www.coronavirus-shop.ru A 0.0.0.0"
+local-zone: "covid19ug.com" redirect
+local-data: "covid19ug.com A 0.0.0.0"
+local-zone: "covid19.esriuk.com" redirect
+local-data: "covid19.esriuk.com A 0.0.0.0"
+local-zone: "covid-19.edvard.cz" redirect
+local-data: "covid-19.edvard.cz A 0.0.0.0"
+local-zone: "aboutcovid19.online" redirect
+local-data: "aboutcovid19.online A 0.0.0.0"
+local-zone: "covid19.popup.wiki" redirect
+local-data: "covid19.popup.wiki A 0.0.0.0"
+local-zone: "covid19updates-india.bhooraj.com" redirect
+local-data: "covid19updates-india.bhooraj.com A 0.0.0.0"
+local-zone: "corona-virus-stats.now.sh" redirect
+local-data: "corona-virus-stats.now.sh A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -5996,3 +6094,11 @@ local-zone: "aboutcoronavirus.me" redirect
 local-data: "aboutcoronavirus.me A 0.0.0.0"
 local-zone: "covid19infotracker.it" redirect
 local-data: "covid19infotracker.it A 0.0.0.0"
+local-zone: "adioscoronavirus.es" redirect
+local-data: "adioscoronavirus.es A 0.0.0.0"
+local-zone: "taskforcecovid19.com" redirect
+local-data: "taskforcecovid19.com A 0.0.0.0"
+local-zone: "covid19-survey.com" redirect
+local-data: "covid19-survey.com A 0.0.0.0"
+local-zone: "wecanbeatcoronavirus.co.uk" redirect
+local-data: "wecanbeatcoronavirus.co.uk A 0.0.0.0"
