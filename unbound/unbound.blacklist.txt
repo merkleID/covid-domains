@@ -5828,6 +5828,68 @@ local-zone: "covid19updates-india.bhooraj.com" redirect
 local-data: "covid19updates-india.bhooraj.com A 0.0.0.0"
 local-zone: "corona-virus-stats.now.sh" redirect
 local-data: "corona-virus-stats.now.sh A 0.0.0.0"
+local-zone: "covid19.edovel.fr" redirect
+local-data: "covid19.edovel.fr A 0.0.0.0"
+local-zone: "vegascoronavirus.com" redirect
+local-data: "vegascoronavirus.com A 0.0.0.0"
+local-zone: "vegascoronavirus.com" redirect
+local-data: "vegascoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusathometest.com" redirect
+local-data: "coronavirusathometest.com A 0.0.0.0"
+local-zone: "coronavirus-world.online" redirect
+local-data: "coronavirus-world.online A 0.0.0.0"
+local-zone: "www.antiviruscoronacovid19maskmedical.com" redirect
+local-data: "www.antiviruscoronacovid19maskmedical.com A 0.0.0.0"
+local-zone: "coronaviruslegaldaily.com" redirect
+local-data: "coronaviruslegaldaily.com A 0.0.0.0"
+local-zone: "www.covid19safety.care" redirect
+local-data: "www.covid19safety.care A 0.0.0.0"
+local-zone: "coronavirusreport.co.uk" redirect
+local-data: "coronavirusreport.co.uk A 0.0.0.0"
+local-zone: "mycoronavirustestkit.co.uk" redirect
+local-data: "mycoronavirustestkit.co.uk A 0.0.0.0"
+local-zone: "examencoronavirus.cl" redirect
+local-data: "examencoronavirus.cl A 0.0.0.0"
+local-zone: "coronavirus2.online" redirect
+local-data: "coronavirus2.online A 0.0.0.0"
+local-zone: "gameofcovid19.com" redirect
+local-data: "gameofcovid19.com A 0.0.0.0"
+local-zone: "www.thecoronavirusdoc.com" redirect
+local-data: "www.thecoronavirusdoc.com A 0.0.0.0"
+local-zone: "coronavirus-pandemia.site" redirect
+local-data: "coronavirus-pandemia.site A 0.0.0.0"
+local-zone: "coronavirusneprojdet.online" redirect
+local-data: "coronavirusneprojdet.online A 0.0.0.0"
+local-zone: "coronavirusneprojdet.ru" redirect
+local-data: "coronavirusneprojdet.ru A 0.0.0.0"
+local-zone: "coronaviruso.ru" redirect
+local-data: "coronaviruso.ru A 0.0.0.0"
+local-zone: "covid19.afpikerala.in" redirect
+local-data: "covid19.afpikerala.in A 0.0.0.0"
+local-zone: "coronavirus-ukraine.site" redirect
+local-data: "coronavirus-ukraine.site A 0.0.0.0"
+local-zone: "avertcoronavirus.com" redirect
+local-data: "avertcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirus.tvdoutor.com.br" redirect
+local-data: "coronavirus.tvdoutor.com.br A 0.0.0.0"
+local-zone: "coronavirus.amnhealthcare.com" redirect
+local-data: "coronavirus.amnhealthcare.com A 0.0.0.0"
+local-zone: "covid19.wongselo.com" redirect
+local-data: "covid19.wongselo.com A 0.0.0.0"
+local-zone: "www.coronaviruspatientobservation.com" redirect
+local-data: "www.coronaviruspatientobservation.com A 0.0.0.0"
+local-zone: "www.avertcoronavirus.com" redirect
+local-data: "www.avertcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusny.blog" redirect
+local-data: "coronavirusny.blog A 0.0.0.0"
+local-zone: "stopcovid19.cloud" redirect
+local-data: "stopcovid19.cloud A 0.0.0.0"
+local-zone: "stopcovid19bot.org" redirect
+local-data: "stopcovid19bot.org A 0.0.0.0"
+local-zone: "stopcovid19bot.com" redirect
+local-data: "stopcovid19bot.com A 0.0.0.0"
+local-zone: "coronavirus.nzte.govt.nz" redirect
+local-data: "coronavirus.nzte.govt.nz A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -6102,3 +6164,11 @@ local-zone: "covid19-survey.com" redirect
 local-data: "covid19-survey.com A 0.0.0.0"
 local-zone: "wecanbeatcoronavirus.co.uk" redirect
 local-data: "wecanbeatcoronavirus.co.uk A 0.0.0.0"
+local-zone: "coronavirusandcompanies.com" redirect
+local-data: "coronavirusandcompanies.com A 0.0.0.0"
+local-zone: "donacionescoronavirus.es" redirect
+local-data: "donacionescoronavirus.es A 0.0.0.0"
+local-zone: "willigetcovid19.com" redirect
+local-data: "willigetcovid19.com A 0.0.0.0"
+local-zone: "donacionescoronavirus.es" redirect
+local-data: "donacionescoronavirus.es A 0.0.0.0"
