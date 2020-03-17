@@ -4850,6 +4850,68 @@ local-zone: "mail.cartcoronavirus.tk" redirect
 local-data: "mail.cartcoronavirus.tk A 0.0.0.0"
 local-zone: "actoncovid19.zendesk.com" redirect
 local-data: "actoncovid19.zendesk.com A 0.0.0.0"
+local-zone: "agcovid19.zendesk.com" redirect
+local-data: "agcovid19.zendesk.com A 0.0.0.0"
+local-zone: "cnnmoney-coronavirus.ch" redirect
+local-data: "cnnmoney-coronavirus.ch A 0.0.0.0"
+local-zone: "antivirus-covid19.ru" redirect
+local-data: "antivirus-covid19.ru A 0.0.0.0"
+local-zone: "kitprevencioncoronavirus.emprendimientodesalud.com" redirect
+local-data: "kitprevencioncoronavirus.emprendimientodesalud.com A 0.0.0.0"
+local-zone: "covid19.seie-madagascar.org" redirect
+local-data: "covid19.seie-madagascar.org A 0.0.0.0"
+local-zone: "covid19pg.antwebstudio.com" redirect
+local-data: "covid19pg.antwebstudio.com A 0.0.0.0"
+local-zone: "covid19-20.ru" redirect
+local-data: "covid19-20.ru A 0.0.0.0"
+local-zone: "coronavirus-nn.ru" redirect
+local-data: "coronavirus-nn.ru A 0.0.0.0"
+local-zone: "covid19-20.ru" redirect
+local-data: "covid19-20.ru A 0.0.0.0"
+local-zone: "aid4covid19.com" redirect
+local-data: "aid4covid19.com A 0.0.0.0"
+local-zone: "www.covid19-dz.info" redirect
+local-data: "www.covid19-dz.info A 0.0.0.0"
+local-zone: "coronavirus-covid019.online" redirect
+local-data: "coronavirus-covid019.online A 0.0.0.0"
+local-zone: "kitprevencioncoronavirus.emprendimientodesalud.com" redirect
+local-data: "kitprevencioncoronavirus.emprendimientodesalud.com A 0.0.0.0"
+local-zone: "coronavirus-covid019.ru" redirect
+local-data: "coronavirus-covid019.ru A 0.0.0.0"
+local-zone: "covid19insure.com" redirect
+local-data: "covid19insure.com A 0.0.0.0"
+local-zone: "coronavirusstructures.com" redirect
+local-data: "coronavirusstructures.com A 0.0.0.0"
+local-zone: "covid19.app.keyreply.com" redirect
+local-data: "covid19.app.keyreply.com A 0.0.0.0"
+local-zone: "coronavirusindia.org.in" redirect
+local-data: "coronavirusindia.org.in A 0.0.0.0"
+local-zone: "covid19.xtreamafrica.com" redirect
+local-data: "covid19.xtreamafrica.com A 0.0.0.0"
+local-zone: "2019-ncovs.com" redirect
+local-data: "2019-ncovs.com A 0.0.0.0"
+local-zone: "2019-ncovs.com" redirect
+local-data: "2019-ncovs.com A 0.0.0.0"
+local-zone: "covid19.8k.no" redirect
+local-data: "covid19.8k.no A 0.0.0.0"
+local-zone: "qa-covid19-homepage-2yome3y-3ov5xxmyr7g5a.eu.platform.sh" redirect
+local-data: "qa-covid19-homepage-2yome3y-3ov5xxmyr7g5a.eu.platform.sh A 0.0.0.0"
+local-zone: "covid19.amo0.com" redirect
+local-data: "covid19.amo0.com A 0.0.0.0"
+local-zone: "www.covid19gp.eql.ai" redirect
+local-data: "www.covid19gp.eql.ai A 0.0.0.0"
+local-zone: "covid19ciap.sparktechnomedia.com" redirect
+local-data: "covid19ciap.sparktechnomedia.com A 0.0.0.0"
+local-zone: "iseverythingstillcanceledbecausecoronavirus.com" redirect
+local-data: "iseverythingstillcanceledbecausecoronavirus.com A 0.0.0.0"
+local-zone: "atxcoronavirus.com" redirect
+local-data: "atxcoronavirus.com A 0.0.0.0"
+local-zone: "www.covid19.eql.ai" redirect
+local-data: "www.covid19.eql.ai A 0.0.0.0"
+local-zone: "covid-19.coolrunner.dk" redirect
+local-data: "covid-19.coolrunner.dk A 0.0.0.0"
+local-zone: "covid19bcp.maxis.com.my" redirect
+local-data: "covid19bcp.maxis.com.my A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
