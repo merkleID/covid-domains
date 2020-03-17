@@ -5384,6 +5384,76 @@ local-zone: "mexicocovid19.com" redirect
 local-data: "mexicocovid19.com A 0.0.0.0"
 local-zone: "covid19.kolegji-heimerer.eu" redirect
 local-data: "covid19.kolegji-heimerer.eu A 0.0.0.0"
+local-zone: "www.yousurvivedthecoronavirus.com" redirect
+local-data: "www.yousurvivedthecoronavirus.com A 0.0.0.0"
+local-zone: "yousurvivedthecoronavirus.com" redirect
+local-data: "yousurvivedthecoronavirus.com A 0.0.0.0"
+local-zone: "losmexicanosinmunesalcoronavirus.com" redirect
+local-data: "losmexicanosinmunesalcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusvaccine2.weirdnews24.com" redirect
+local-data: "coronavirusvaccine2.weirdnews24.com A 0.0.0.0"
+local-zone: "coronaviruseprofessionisanitarie.spazioiris.it" redirect
+local-data: "coronaviruseprofessionisanitarie.spazioiris.it A 0.0.0.0"
+local-zone: "higienecoronavirus.com" redirect
+local-data: "higienecoronavirus.com A 0.0.0.0"
+local-zone: "covid19-checker.com" redirect
+local-data: "covid19-checker.com A 0.0.0.0"
+local-zone: "losmexicanosinmunesalcoronavirus.com" redirect
+local-data: "losmexicanosinmunesalcoronavirus.com A 0.0.0.0"
+local-zone: "corona-virus-map.ru" redirect
+local-data: "corona-virus-map.ru A 0.0.0.0"
+local-zone: "coronavirusinformacion.com" redirect
+local-data: "coronavirusinformacion.com A 0.0.0.0"
+local-zone: "coronavirusnews.tv" redirect
+local-data: "coronavirusnews.tv A 0.0.0.0"
+local-zone: "coronavirus-trend.com" redirect
+local-data: "coronavirus-trend.com A 0.0.0.0"
+local-zone: "www.coronavirusnews.tv" redirect
+local-data: "www.coronavirusnews.tv A 0.0.0.0"
+local-zone: "coronavirus.magaiverservicos.com.br" redirect
+local-data: "coronavirus.magaiverservicos.com.br A 0.0.0.0"
+local-zone: "svmcovid19.com" redirect
+local-data: "svmcovid19.com A 0.0.0.0"
+local-zone: "memescoronavirus.com" redirect
+local-data: "memescoronavirus.com A 0.0.0.0"
+local-zone: "pruebacoronavirus.com" redirect
+local-data: "pruebacoronavirus.com A 0.0.0.0"
+local-zone: "umgang-mit-angst-vor-coronavirus.com" redirect
+local-data: "umgang-mit-angst-vor-coronavirus.com A 0.0.0.0"
+local-zone: "www.coronavirusprevention.online" redirect
+local-data: "www.coronavirusprevention.online A 0.0.0.0"
+local-zone: "coronavirusprevention.online" redirect
+local-data: "coronavirusprevention.online A 0.0.0.0"
+local-zone: "itscovid19time.com" redirect
+local-data: "itscovid19time.com A 0.0.0.0"
+local-zone: "covid19utah.org" redirect
+local-data: "covid19utah.org A 0.0.0.0"
+local-zone: "coronaviruspandemia.com.br" redirect
+local-data: "coronaviruspandemia.com.br A 0.0.0.0"
+local-zone: "livefromcovid19.com" redirect
+local-data: "livefromcovid19.com A 0.0.0.0"
+local-zone: "www.livefromcovid19.com" redirect
+local-data: "www.livefromcovid19.com A 0.0.0.0"
+local-zone: "covid-19hub.govops.ca.gov" redirect
+local-data: "covid-19hub.govops.ca.gov A 0.0.0.0"
+local-zone: "firstcoronavirustest.com" redirect
+local-data: "firstcoronavirustest.com A 0.0.0.0"
+local-zone: "nblawcovid19.com" redirect
+local-data: "nblawcovid19.com A 0.0.0.0"
+local-zone: "covid19.revolution.ca" redirect
+local-data: "covid19.revolution.ca A 0.0.0.0"
+local-zone: "covid19.pt" redirect
+local-data: "covid19.pt A 0.0.0.0"
+local-zone: "noticiascovid-19.com" redirect
+local-data: "noticiascovid-19.com A 0.0.0.0"
+local-zone: "www.nscoronavirusmap.com" redirect
+local-data: "www.nscoronavirusmap.com A 0.0.0.0"
+local-zone: "nscoronavirusmap.com" redirect
+local-data: "nscoronavirusmap.com A 0.0.0.0"
+local-zone: "covid-19.themicrobiota.space" redirect
+local-data: "covid-19.themicrobiota.space A 0.0.0.0"
+local-zone: "covid19.anthurian.com" redirect
+local-data: "covid19.anthurian.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -5622,3 +5692,11 @@ local-zone: "coronavirus-supplies.org" redirect
 local-data: "coronavirus-supplies.org A 0.0.0.0"
 local-zone: "coronavirus-supplies.org" redirect
 local-data: "coronavirus-supplies.org A 0.0.0.0"
+local-zone: "humansofcovid19.com" redirect
+local-data: "humansofcovid19.com A 0.0.0.0"
+local-zone: "humansofcoronavirus.com" redirect
+local-data: "humansofcoronavirus.com A 0.0.0.0"
+local-zone: "covid19nepal.com" redirect
+local-data: "covid19nepal.com A 0.0.0.0"
+local-zone: "coronavirusdigitalselftestandtracker.com" redirect
+local-data: "coronavirusdigitalselftestandtracker.com A 0.0.0.0"
