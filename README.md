@@ -1,4 +1,5 @@
 # covid-domains
+
 DNS blacklist-domain to use with BIND, Unbound, dnsmasq.
 
 It's up to the dns-admin to properly install those lists and configure his own dns resolver.
