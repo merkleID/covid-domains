@@ -2641,6 +2641,18 @@ local-zone: "covid19.awesomesit.es" static
 local-zone: "floridahealthcovid19.gov" static
 local-zone: "covid19.dispal.com" static
 local-zone: "covid-19.napoleon.com" static
+local-zone: "coronavirusfinancialhelp.com" static
+local-zone: "getcoronavirussolutions.com" static
+local-zone: "coronavirus.ravenpack.com" static
+local-zone: "coronaviruslivestats.live" static
+local-zone: "news.coronaviruslivestats.live" static
+local-zone: "covid-19.tacc.utexas.edu" static
+local-zone: "coronavirus-news.club" static
+local-zone: "covid19.digitale-patientenakte.org" static
+local-zone: "www.wesccovid19.net" static
+local-zone: "covid-19.2jprocess.com" static
+local-zone: "info-coronavirus.ch" static
+local-zone: "covid-19-staging.tacc.utexas.edu" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -2757,3 +2769,4 @@ local-zone: "coronavirusni.com" static
 local-zone: "coronavirus-oubreak.com" static
 local-zone: "covid-19war.com" static
 local-zone: "infezionecoronavirus.it" static
+local-zone: "humansofcovid19.com" static

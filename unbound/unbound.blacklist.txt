@@ -5284,6 +5284,30 @@ local-zone: "covid19.dispal.com" redirect
 local-data: "covid19.dispal.com A 0.0.0.0"
 local-zone: "covid-19.napoleon.com" redirect
 local-data: "covid-19.napoleon.com A 0.0.0.0"
+local-zone: "coronavirusfinancialhelp.com" redirect
+local-data: "coronavirusfinancialhelp.com A 0.0.0.0"
+local-zone: "getcoronavirussolutions.com" redirect
+local-data: "getcoronavirussolutions.com A 0.0.0.0"
+local-zone: "coronavirus.ravenpack.com" redirect
+local-data: "coronavirus.ravenpack.com A 0.0.0.0"
+local-zone: "coronaviruslivestats.live" redirect
+local-data: "coronaviruslivestats.live A 0.0.0.0"
+local-zone: "news.coronaviruslivestats.live" redirect
+local-data: "news.coronaviruslivestats.live A 0.0.0.0"
+local-zone: "covid-19.tacc.utexas.edu" redirect
+local-data: "covid-19.tacc.utexas.edu A 0.0.0.0"
+local-zone: "coronavirus-news.club" redirect
+local-data: "coronavirus-news.club A 0.0.0.0"
+local-zone: "covid19.digitale-patientenakte.org" redirect
+local-data: "covid19.digitale-patientenakte.org A 0.0.0.0"
+local-zone: "www.wesccovid19.net" redirect
+local-data: "www.wesccovid19.net A 0.0.0.0"
+local-zone: "covid-19.2jprocess.com" redirect
+local-data: "covid-19.2jprocess.com A 0.0.0.0"
+local-zone: "info-coronavirus.ch" redirect
+local-data: "info-coronavirus.ch A 0.0.0.0"
+local-zone: "covid-19-staging.tacc.utexas.edu" redirect
+local-data: "covid-19-staging.tacc.utexas.edu A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -5516,3 +5540,5 @@ local-zone: "covid-19war.com" redirect
 local-data: "covid-19war.com A 0.0.0.0"
 local-zone: "infezionecoronavirus.it" redirect
 local-data: "infezionecoronavirus.it A 0.0.0.0"
+local-zone: "humansofcovid19.com" redirect
+local-data: "humansofcovid19.com A 0.0.0.0"
