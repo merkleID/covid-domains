@@ -5556,6 +5556,94 @@ local-zone: "www.mascaracovid19.com" redirect
 local-data: "www.mascaracovid19.com A 0.0.0.0"
 local-zone: "stopthe-coronavirus.com" redirect
 local-data: "stopthe-coronavirus.com A 0.0.0.0"
+local-zone: "www.mycovid19supplies.com" redirect
+local-data: "www.mycovid19supplies.com A 0.0.0.0"
+local-zone: "www.mascaracovid19.com" redirect
+local-data: "www.mascaracovid19.com A 0.0.0.0"
+local-zone: "deplacement-covid19.fr" redirect
+local-data: "deplacement-covid19.fr A 0.0.0.0"
+local-zone: "coronaviruskarta.online" redirect
+local-data: "coronaviruskarta.online A 0.0.0.0"
+local-zone: "covid19.bmunyoki.com" redirect
+local-data: "covid19.bmunyoki.com A 0.0.0.0"
+local-zone: "covid19.babcock.ml" redirect
+local-data: "covid19.babcock.ml A 0.0.0.0"
+local-zone: "covid19.tvaccess.com" redirect
+local-data: "covid19.tvaccess.com A 0.0.0.0"
+local-zone: "covid19-russia.ru" redirect
+local-data: "covid19-russia.ru A 0.0.0.0"
+local-zone: "allaboutcoronavirus.net" redirect
+local-data: "allaboutcoronavirus.net A 0.0.0.0"
+local-zone: "covid19.vogueoptical.com" redirect
+local-data: "covid19.vogueoptical.com A 0.0.0.0"
+local-zone: "coronavirusnewsbrasil.com.xn--coronavrusnewsbrasil-v4b.com" redirect
+local-data: "coronavirusnewsbrasil.com.xn--coronavrusnewsbrasil-v4b.com A 0.0.0.0"
+local-zone: "nscoronavirusmap.com" redirect
+local-data: "nscoronavirusmap.com A 0.0.0.0"
+local-zone: "www.nscoronavirusmap.com" redirect
+local-data: "www.nscoronavirusmap.com A 0.0.0.0"
+local-zone: "mapacoronavirusmexico.com" redirect
+local-data: "mapacoronavirusmexico.com A 0.0.0.0"
+local-zone: "covid19.portima.be" redirect
+local-data: "covid19.portima.be A 0.0.0.0"
+local-zone: "n95saleforcoronavirus.com" redirect
+local-data: "n95saleforcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.ly" redirect
+local-data: "covid19.ly A 0.0.0.0"
+local-zone: "coronaviruslebanon.com" redirect
+local-data: "coronaviruslebanon.com A 0.0.0.0"
+local-zone: "coronavirus.developerswork.online" redirect
+local-data: "coronavirus.developerswork.online A 0.0.0.0"
+local-zone: "qa.covid19.ag.org" redirect
+local-data: "qa.covid19.ag.org A 0.0.0.0"
+local-zone: "www.shpcovid19.com" redirect
+local-data: "www.shpcovid19.com A 0.0.0.0"
+local-zone: "coronaviruswestpalmbeach.com" redirect
+local-data: "coronaviruswestpalmbeach.com A 0.0.0.0"
+local-zone: "shpcovid19.com" redirect
+local-data: "shpcovid19.com A 0.0.0.0"
+local-zone: "www.shpcovid19.com" redirect
+local-data: "www.shpcovid19.com A 0.0.0.0"
+local-zone: "www.reducecoronavirusanxiety.org" redirect
+local-data: "www.reducecoronavirusanxiety.org A 0.0.0.0"
+local-zone: "www.reducecoronavirusanxiety.com" redirect
+local-data: "www.reducecoronavirusanxiety.com A 0.0.0.0"
+local-zone: "reducecoronavirusanxiety.org" redirect
+local-data: "reducecoronavirusanxiety.org A 0.0.0.0"
+local-zone: "prescreencovid-19.org" redirect
+local-data: "prescreencovid-19.org A 0.0.0.0"
+local-zone: "www.covid19pet.com" redirect
+local-data: "www.covid19pet.com A 0.0.0.0"
+local-zone: "duplessiscoronavirusupdate.com" redirect
+local-data: "duplessiscoronavirusupdate.com A 0.0.0.0"
+local-zone: "covid-19-gov.com" redirect
+local-data: "covid-19-gov.com A 0.0.0.0"
+local-zone: "attestation-covid19.com" redirect
+local-data: "attestation-covid19.com A 0.0.0.0"
+local-zone: "www.duplessiscoronavirusupdate.com" redirect
+local-data: "www.duplessiscoronavirusupdate.com A 0.0.0.0"
+local-zone: "coronavirus.bwhi.org" redirect
+local-data: "coronavirus.bwhi.org A 0.0.0.0"
+local-zone: "suckitcoronavirus.com" redirect
+local-data: "suckitcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.rtfm.si" redirect
+local-data: "covid19.rtfm.si A 0.0.0.0"
+local-zone: "covid19tech.org" redirect
+local-data: "covid19tech.org A 0.0.0.0"
+local-zone: "www.coronavirusnews1.com" redirect
+local-data: "www.coronavirusnews1.com A 0.0.0.0"
+local-zone: "www.reducecoronavirusanxiety.com" redirect
+local-data: "www.reducecoronavirusanxiety.com A 0.0.0.0"
+local-zone: "www.savecoronavirus.store" redirect
+local-data: "www.savecoronavirus.store A 0.0.0.0"
+local-zone: "covid19.telecom.mu" redirect
+local-data: "covid19.telecom.mu A 0.0.0.0"
+local-zone: "prevent-covid19.com" redirect
+local-data: "prevent-covid19.com A 0.0.0.0"
+local-zone: "protegete-coronavirus.com" redirect
+local-data: "protegete-coronavirus.com A 0.0.0.0"
+local-zone: "covid-19.youngpreneur.co.id" redirect
+local-data: "covid-19.youngpreneur.co.id A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -5810,3 +5898,9 @@ local-zone: "coronavirus-covid19-tests.com" redirect
 local-data: "coronavirus-covid19-tests.com A 0.0.0.0"
 local-zone: "coronavirus-covid19-tests.com" redirect
 local-data: "coronavirus-covid19-tests.com A 0.0.0.0"
+local-zone: "coronavirus-covid19-tests.com" redirect
+local-data: "coronavirus-covid19-tests.com A 0.0.0.0"
+local-zone: "coronavirus-covid19-tests.com" redirect
+local-data: "coronavirus-covid19-tests.com A 0.0.0.0"
+local-zone: "coronavirusik.ru" redirect
+local-data: "coronavirusik.ru A 0.0.0.0"
