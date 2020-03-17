@@ -1,3 +1,5 @@
+#tune domain example.net to your needs	
+
 ; BIND db file for ad servers - point all addresses to an invalid IP
 $TTL    864000    ; ten days
 
