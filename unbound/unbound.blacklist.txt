@@ -5260,6 +5260,30 @@ local-zone: "facemaskcovid-19.com" redirect
 local-data: "facemaskcovid-19.com A 0.0.0.0"
 local-zone: "www.fcovid-19.com" redirect
 local-data: "www.fcovid-19.com A 0.0.0.0"
+local-zone: "coronavirusposters.co.uk" redirect
+local-data: "coronavirusposters.co.uk A 0.0.0.0"
+local-zone: "kitcoronavirus.ro" redirect
+local-data: "kitcoronavirus.ro A 0.0.0.0"
+local-zone: "www.covid19morocco.tk" redirect
+local-data: "www.covid19morocco.tk A 0.0.0.0"
+local-zone: "coronavirus.publicsquare.digital" redirect
+local-data: "coronavirus.publicsquare.digital A 0.0.0.0"
+local-zone: "covid19.grupounipharm.com" redirect
+local-data: "covid19.grupounipharm.com A 0.0.0.0"
+local-zone: "coronavirusdiaries.blog" redirect
+local-data: "coronavirusdiaries.blog A 0.0.0.0"
+local-zone: "www.covid19morocco.tk" redirect
+local-data: "www.covid19morocco.tk A 0.0.0.0"
+local-zone: "www.coronavirusoptions.com" redirect
+local-data: "www.coronavirusoptions.com A 0.0.0.0"
+local-zone: "covid19.awesomesit.es" redirect
+local-data: "covid19.awesomesit.es A 0.0.0.0"
+local-zone: "floridahealthcovid19.gov" redirect
+local-data: "floridahealthcovid19.gov A 0.0.0.0"
+local-zone: "covid19.dispal.com" redirect
+local-data: "covid19.dispal.com A 0.0.0.0"
+local-zone: "covid-19.napoleon.com" redirect
+local-data: "covid-19.napoleon.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
