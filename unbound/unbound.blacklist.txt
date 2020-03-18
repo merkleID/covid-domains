@@ -6146,6 +6146,68 @@ local-zone: "covid19.leclubdes100.fr" redirect
 local-data: "covid19.leclubdes100.fr A 0.0.0.0"
 local-zone: "covid19smallbusinessloans.com" redirect
 local-data: "covid19smallbusinessloans.com A 0.0.0.0"
+local-zone: "www.covid19shirts.ca" redirect
+local-data: "www.covid19shirts.ca A 0.0.0.0"
+local-zone: "covid19shirts.ca" redirect
+local-data: "covid19shirts.ca A 0.0.0.0"
+local-zone: "covid19business.completebs.host" redirect
+local-data: "covid19business.completebs.host A 0.0.0.0"
+local-zone: "covid19community.org" redirect
+local-data: "covid19community.org A 0.0.0.0"
+local-zone: "covid19faqs.org" redirect
+local-data: "covid19faqs.org A 0.0.0.0"
+local-zone: "api.coronavirusstop.org" redirect
+local-data: "api.coronavirusstop.org A 0.0.0.0"
+local-zone: "www.covid19tshirts.ca" redirect
+local-data: "www.covid19tshirts.ca A 0.0.0.0"
+local-zone: "covid19tshirts.ca" redirect
+local-data: "covid19tshirts.ca A 0.0.0.0"
+local-zone: "covid19.angkasa.coop" redirect
+local-data: "covid19.angkasa.coop A 0.0.0.0"
+local-zone: "covid-19-staging.sennalabs.com" redirect
+local-data: "covid-19-staging.sennalabs.com A 0.0.0.0"
+local-zone: "covid19.thelookout.org.au" redirect
+local-data: "covid19.thelookout.org.au A 0.0.0.0"
+local-zone: "covid19.thelookout.org.au" redirect
+local-data: "covid19.thelookout.org.au A 0.0.0.0"
+local-zone: "covid19.co.ua" redirect
+local-data: "covid19.co.ua A 0.0.0.0"
+local-zone: "coronavirus.reisen" redirect
+local-data: "coronavirus.reisen A 0.0.0.0"
+local-zone: "sintomas-do-coronavirus.com.br" redirect
+local-data: "sintomas-do-coronavirus.com.br A 0.0.0.0"
+local-zone: "terminate-coronavirus.com" redirect
+local-data: "terminate-coronavirus.com A 0.0.0.0"
+local-zone: "fight-covid19.autobestinfo.com" redirect
+local-data: "fight-covid19.autobestinfo.com A 0.0.0.0"
+local-zone: "test-covid-19.ro" redirect
+local-data: "test-covid-19.ro A 0.0.0.0"
+local-zone: "covid19.coronavirusinelpaso.com" redirect
+local-data: "covid19.coronavirusinelpaso.com A 0.0.0.0"
+local-zone: "covid19.coronavirusinelpaso.com" redirect
+local-data: "covid19.coronavirusinelpaso.com A 0.0.0.0"
+local-zone: "covid19.theorangealliance.org" redirect
+local-data: "covid19.theorangealliance.org A 0.0.0.0"
+local-zone: "www.coronavirus-symptom.ru" redirect
+local-data: "www.coronavirus-symptom.ru A 0.0.0.0"
+local-zone: "coronavirus-monitor.su" redirect
+local-data: "coronavirus-monitor.su A 0.0.0.0"
+local-zone: "covid19.amyfaithho.com" redirect
+local-data: "covid19.amyfaithho.com A 0.0.0.0"
+local-zone: "www.covid19.pdavim.com" redirect
+local-data: "www.covid19.pdavim.com A 0.0.0.0"
+local-zone: "covid-19survival.club" redirect
+local-data: "covid-19survival.club A 0.0.0.0"
+local-zone: "coronavirusquarantineincome.com" redirect
+local-data: "coronavirusquarantineincome.com A 0.0.0.0"
+local-zone: "covid19.scatter.wiki" redirect
+local-data: "covid19.scatter.wiki A 0.0.0.0"
+local-zone: "covid19.p5.pt" redirect
+local-data: "covid19.p5.pt A 0.0.0.0"
+local-zone: "coronavirus.reisen" redirect
+local-data: "coronavirus.reisen A 0.0.0.0"
+local-zone: "covid19.goodinfo.eu" redirect
+local-data: "covid19.goodinfo.eu A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -6444,3 +6506,5 @@ local-zone: "nifcovid19.com" redirect
 local-data: "nifcovid19.com A 0.0.0.0"
 local-zone: "covid-19worlddata.org" redirect
 local-data: "covid-19worlddata.org A 0.0.0.0"
+local-zone: "covid-19.geo.ca" redirect
+local-data: "covid-19.geo.ca A 0.0.0.0"
