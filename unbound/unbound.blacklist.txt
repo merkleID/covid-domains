@@ -7410,6 +7410,56 @@ local-zone: "www.covid19realdata.com" redirect
 local-data: "www.covid19realdata.com A 0.0.0.0"
 local-zone: "coronavirus.agenciamoustache.com.br" redirect
 local-data: "coronavirus.agenciamoustache.com.br A 0.0.0.0"
+local-zone: "covid19.esf-r.org" redirect
+local-data: "covid19.esf-r.org A 0.0.0.0"
+local-zone: "covid19.patriothomecare.org" redirect
+local-data: "covid19.patriothomecare.org A 0.0.0.0"
+local-zone: "tmscovid19.com" redirect
+local-data: "tmscovid19.com A 0.0.0.0"
+local-zone: "www.tmscovid19.com" redirect
+local-data: "www.tmscovid19.com A 0.0.0.0"
+local-zone: "irancovid19.com" redirect
+local-data: "irancovid19.com A 0.0.0.0"
+local-zone: "coronavirustesting.gov" redirect
+local-data: "coronavirustesting.gov A 0.0.0.0"
+local-zone: "www.iscoronavirusover.com" redirect
+local-data: "www.iscoronavirusover.com A 0.0.0.0"
+local-zone: "34681a97.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "34681a97.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "www.prevenirlecoronavirus.com" redirect
+local-data: "www.prevenirlecoronavirus.com A 0.0.0.0"
+local-zone: "athomecovid19test.com" redirect
+local-data: "athomecovid19test.com A 0.0.0.0"
+local-zone: "www.offcovid19.com" redirect
+local-data: "www.offcovid19.com A 0.0.0.0"
+local-zone: "offcovid19.com" redirect
+local-data: "offcovid19.com A 0.0.0.0"
+local-zone: "truecoronaviruscases.com" redirect
+local-data: "truecoronaviruscases.com A 0.0.0.0"
+local-zone: "coronavirus.stoneagefuel.com" redirect
+local-data: "coronavirus.stoneagefuel.com A 0.0.0.0"
+local-zone: "allocoronavirus.com" redirect
+local-data: "allocoronavirus.com A 0.0.0.0"
+local-zone: "attestationcoronavirus.fr" redirect
+local-data: "attestationcoronavirus.fr A 0.0.0.0"
+local-zone: "covid-19.clinicalrules.eu" redirect
+local-data: "covid-19.clinicalrules.eu A 0.0.0.0"
+local-zone: "covid19-vaccine.imageduverrier.com" redirect
+local-data: "covid19-vaccine.imageduverrier.com A 0.0.0.0"
+local-zone: "covid19.careboard.pro" redirect
+local-data: "covid19.careboard.pro A 0.0.0.0"
+local-zone: "coronavirus-inoculation.cf" redirect
+local-data: "coronavirus-inoculation.cf A 0.0.0.0"
+local-zone: "ncov19.wiki" redirect
+local-data: "ncov19.wiki A 0.0.0.0"
+local-zone: "ec9abe38.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "ec9abe38.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "api.ec9abe38.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.ec9abe38.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "www.killcovid19.com" redirect
+local-data: "www.killcovid19.com A 0.0.0.0"
+local-zone: "sanidadcoronavirus.com" redirect
+local-data: "sanidadcoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
