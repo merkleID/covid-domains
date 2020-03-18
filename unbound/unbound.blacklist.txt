@@ -7144,6 +7144,36 @@ local-zone: "preprodcasos.coronavirus.gub.uy" redirect
 local-data: "preprodcasos.coronavirus.gub.uy A 0.0.0.0"
 local-zone: "coronavirus.iq" redirect
 local-data: "coronavirus.iq A 0.0.0.0"
+local-zone: "blog.endcoronavirus.org" redirect
+local-data: "blog.endcoronavirus.org A 0.0.0.0"
+local-zone: "en.covid-19.md" redirect
+local-data: "en.covid-19.md A 0.0.0.0"
+local-zone: "www.ukcovid19.co.uk" redirect
+local-data: "www.ukcovid19.co.uk A 0.0.0.0"
+local-zone: "covid19.synology.me" redirect
+local-data: "covid19.synology.me A 0.0.0.0"
+local-zone: "www.covid19.direct" redirect
+local-data: "www.covid19.direct A 0.0.0.0"
+local-zone: "88003c15.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "88003c15.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "api.88003c15.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.88003c15.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19.stevensportfolio.com" redirect
+local-data: "covid19.stevensportfolio.com A 0.0.0.0"
+local-zone: "coronavirus.country" redirect
+local-data: "coronavirus.country A 0.0.0.0"
+local-zone: "covid-19.climbsoill.com" redirect
+local-data: "covid-19.climbsoill.com A 0.0.0.0"
+local-zone: "www.freecoronavirusscreening.com" redirect
+local-data: "www.freecoronavirusscreening.com A 0.0.0.0"
+local-zone: "yotuvecoronavirus.net" redirect
+local-data: "yotuvecoronavirus.net A 0.0.0.0"
+local-zone: "coronavirus.thechickenman.repl.run" redirect
+local-data: "coronavirus.thechickenman.repl.run A 0.0.0.0"
+local-zone: "88003c15.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "88003c15.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "ipfs.stopcoronavirus.tech" redirect
+local-data: "ipfs.stopcoronavirus.tech A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -7480,6 +7510,8 @@ local-zone: "coronavirusmalta.com" redirect
 local-data: "coronavirusmalta.com A 0.0.0.0"
 local-zone: "covid-19-hotline.com" redirect
 local-data: "covid-19-hotline.com A 0.0.0.0"
+local-zone: "ntucoronavirusinformation.info" redirect
+local-data: "ntucoronavirusinformation.info A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
