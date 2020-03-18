@@ -5890,6 +5890,72 @@ local-zone: "stopcovid19bot.com" redirect
 local-data: "stopcovid19bot.com A 0.0.0.0"
 local-zone: "coronavirus.nzte.govt.nz" redirect
 local-data: "coronavirus.nzte.govt.nz A 0.0.0.0"
+local-zone: "covid19.ilguru.eu" redirect
+local-data: "covid19.ilguru.eu A 0.0.0.0"
+local-zone: "covid-19.gov.cv" redirect
+local-data: "covid-19.gov.cv A 0.0.0.0"
+local-zone: "coronavirus-morts.fr" redirect
+local-data: "coronavirus-morts.fr A 0.0.0.0"
+local-zone: "covid19-info.fr" redirect
+local-data: "covid19-info.fr A 0.0.0.0"
+local-zone: "covid19.pink" redirect
+local-data: "covid19.pink A 0.0.0.0"
+local-zone: "medicleancoronavirus.actioncleaninggroup.com.au" redirect
+local-data: "medicleancoronavirus.actioncleaninggroup.com.au A 0.0.0.0"
+local-zone: "news-coronavirus.fr" redirect
+local-data: "news-coronavirus.fr A 0.0.0.0"
+local-zone: "www.coronavirusvpo.com" redirect
+local-data: "www.coronavirusvpo.com A 0.0.0.0"
+local-zone: "www.coronavirustelehealth.co" redirect
+local-data: "www.coronavirustelehealth.co A 0.0.0.0"
+local-zone: "www.coronaviruspatientmonitoring.com" redirect
+local-data: "www.coronaviruspatientmonitoring.com A 0.0.0.0"
+local-zone: "www.covid-19vpo.com" redirect
+local-data: "www.covid-19vpo.com A 0.0.0.0"
+local-zone: "autorisation-covid19.fr" redirect
+local-data: "autorisation-covid19.fr A 0.0.0.0"
+local-zone: "www.covid19apparel.store" redirect
+local-data: "www.covid19apparel.store A 0.0.0.0"
+local-zone: "kartacoronavirusa.online" redirect
+local-data: "kartacoronavirusa.online A 0.0.0.0"
+local-zone: "covid-19mask.co" redirect
+local-data: "covid-19mask.co A 0.0.0.0"
+local-zone: "www.wwwcoronavirus.ru" redirect
+local-data: "www.wwwcoronavirus.ru A 0.0.0.0"
+local-zone: "coronavirusupdate.co.za" redirect
+local-data: "coronavirusupdate.co.za A 0.0.0.0"
+local-zone: "test4coronavirus.ru" redirect
+local-data: "test4coronavirus.ru A 0.0.0.0"
+local-zone: "autorisation-covid19.fr" redirect
+local-data: "autorisation-covid19.fr A 0.0.0.0"
+local-zone: "www.coronavirusremotepatientobservation.com" redirect
+local-data: "www.coronavirusremotepatientobservation.com A 0.0.0.0"
+local-zone: "covid19apparel.store" redirect
+local-data: "covid19apparel.store A 0.0.0.0"
+local-zone: "www.coronavirusvpo.com" redirect
+local-data: "www.coronavirusvpo.com A 0.0.0.0"
+local-zone: "coronavirus-forum.online" redirect
+local-data: "coronavirus-forum.online A 0.0.0.0"
+local-zone: "covid19.appsquest.org" redirect
+local-data: "covid19.appsquest.org A 0.0.0.0"
+local-zone: "www.covid19.pdavim.com" redirect
+local-data: "www.covid19.pdavim.com A 0.0.0.0"
+local-zone: "covid19.markrogers1.repl.run" redirect
+local-data: "covid19.markrogers1.repl.run A 0.0.0.0"
+local-zone: "covid19telemed.org" redirect
+local-data: "covid19telemed.org A 0.0.0.0"
+local-zone: "coronavirus.nzte.govt.nz" redirect
+local-data: "coronavirus.nzte.govt.nz A 0.0.0.0"
+local-zone: "covid19riskassessment.com" redirect
+local-data: "covid19riskassessment.com A 0.0.0.0"
+local-zone: "covid19.ketapangkab.go.id" redirect
+local-data: "covid19.ketapangkab.go.id A 0.0.0.0"
+local-zone: "rxcovid-19.com" redirect
+local-data: "rxcovid-19.com A 0.0.0.0"
+local-zone: "covid19pandemic.in" redirect
+local-data: "covid19pandemic.in A 0.0.0.0"
+local-zone: "www.covid19resources.info" redirect
+local-data: "www.covid19resources.info A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -6172,3 +6238,15 @@ local-zone: "willigetcovid19.com" redirect
 local-data: "willigetcovid19.com A 0.0.0.0"
 local-zone: "donacionescoronavirus.es" redirect
 local-data: "donacionescoronavirus.es A 0.0.0.0"
+local-zone: "willicatchcoronavirus.com" redirect
+local-data: "willicatchcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirus-treatment.co.uk" redirect
+local-data: "coronavirus-treatment.co.uk A 0.0.0.0"
+local-zone: "coronavirus-treatment.co.uk" redirect
+local-data: "coronavirus-treatment.co.uk A 0.0.0.0"
+local-zone: "covid19checkup.net" redirect
+local-data: "covid19checkup.net A 0.0.0.0"
+local-zone: "willicatchcoronavirus.com" redirect
+local-data: "willicatchcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirus-treatment.co.uk" redirect
+local-data: "coronavirus-treatment.co.uk A 0.0.0.0"
