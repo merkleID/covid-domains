@@ -6266,6 +6266,68 @@ local-zone: "covid19.specops.network" redirect
 local-data: "covid19.specops.network A 0.0.0.0"
 local-zone: "www.kickcoronavirus.com" redirect
 local-data: "www.kickcoronavirus.com A 0.0.0.0"
+local-zone: "www.coronavirussystem.com" redirect
+local-data: "www.coronavirussystem.com A 0.0.0.0"
+local-zone: "covid-19test.eu" redirect
+local-data: "covid-19test.eu A 0.0.0.0"
+local-zone: "stopcovid19.codeforfukuoka.org" redirect
+local-data: "stopcovid19.codeforfukuoka.org A 0.0.0.0"
+local-zone: "foro.coronavirusmakers.org" redirect
+local-data: "foro.coronavirusmakers.org A 0.0.0.0"
+local-zone: "api.coronavirusstop.org" redirect
+local-data: "api.coronavirusstop.org A 0.0.0.0"
+local-zone: "www.coronavirusremoval.org" redirect
+local-data: "www.coronavirusremoval.org A 0.0.0.0"
+local-zone: "coronavirus-bulgaria.org" redirect
+local-data: "coronavirus-bulgaria.org A 0.0.0.0"
+local-zone: "covid19prevention.org" redirect
+local-data: "covid19prevention.org A 0.0.0.0"
+local-zone: "covid19-alert.org" redirect
+local-data: "covid19-alert.org A 0.0.0.0"
+local-zone: "webmail.covid19misinfo.org" redirect
+local-data: "webmail.covid19misinfo.org A 0.0.0.0"
+local-zone: "covid19helpwa.org" redirect
+local-data: "covid19helpwa.org A 0.0.0.0"
+local-zone: "coronavirus.epidemixs.org" redirect
+local-data: "coronavirus.epidemixs.org A 0.0.0.0"
+local-zone: "beatcovid19.nyc" redirect
+local-data: "beatcovid19.nyc A 0.0.0.0"
+local-zone: "he.endcoronavirus.org" redirect
+local-data: "he.endcoronavirus.org A 0.0.0.0"
+local-zone: "coronavirus.petersmmtest.xyz" redirect
+local-data: "coronavirus.petersmmtest.xyz A 0.0.0.0"
+local-zone: "coronavirus.petersmmtest.xyz" redirect
+local-data: "coronavirus.petersmmtest.xyz A 0.0.0.0"
+local-zone: "www.coronaviruscheck.us" redirect
+local-data: "www.coronaviruscheck.us A 0.0.0.0"
+local-zone: "covid-19.vc" redirect
+local-data: "covid-19.vc A 0.0.0.0"
+local-zone: "mycovid19.co" redirect
+local-data: "mycovid19.co A 0.0.0.0"
+local-zone: "covid-19-status.anexia.com" redirect
+local-data: "covid-19-status.anexia.com A 0.0.0.0"
+local-zone: "www.corona-virus-info.ru" redirect
+local-data: "www.corona-virus-info.ru A 0.0.0.0"
+local-zone: "coronaviruseprofessionisanitarie.spazioiris.it" redirect
+local-data: "coronaviruseprofessionisanitarie.spazioiris.it A 0.0.0.0"
+local-zone: "waroncoronavirus.org" redirect
+local-data: "waroncoronavirus.org A 0.0.0.0"
+local-zone: "covid19test.com.mx" redirect
+local-data: "covid19test.com.mx A 0.0.0.0"
+local-zone: "www.covid19schoolfunding.com" redirect
+local-data: "www.covid19schoolfunding.com A 0.0.0.0"
+local-zone: "stage.fightcoronavirus.xyz" redirect
+local-data: "stage.fightcoronavirus.xyz A 0.0.0.0"
+local-zone: "viruscovid19.co.uk" redirect
+local-data: "viruscovid19.co.uk A 0.0.0.0"
+local-zone: "www.coronaviruscheck.us" redirect
+local-data: "www.coronaviruscheck.us A 0.0.0.0"
+local-zone: "coronavirusresilience.infinityc-group.com" redirect
+local-data: "coronavirusresilience.infinityc-group.com A 0.0.0.0"
+local-zone: "covid19safety.org" redirect
+local-data: "covid19safety.org A 0.0.0.0"
+local-zone: "ko.covid-19now.info" redirect
+local-data: "ko.covid-19now.info A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -6570,3 +6632,5 @@ local-zone: "anti-covid19.kz" redirect
 local-data: "anti-covid19.kz A 0.0.0.0"
 local-zone: "coronavirus-dashboard.online" redirect
 local-data: "coronavirus-dashboard.online A 0.0.0.0"
+local-zone: "coronavirusarmy.org" redirect
+local-data: "coronavirusarmy.org A 0.0.0.0"
