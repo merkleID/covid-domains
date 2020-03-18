@@ -7530,6 +7530,50 @@ local-zone: "coronavirus-masques.fr" redirect
 local-data: "coronavirus-masques.fr A 0.0.0.0"
 local-zone: "venceremoscovid19.es" redirect
 local-data: "venceremoscovid19.es A 0.0.0.0"
+local-zone: "covid19.uk.com" redirect
+local-data: "covid19.uk.com A 0.0.0.0"
+local-zone: "coronavirus.controlled.com.br" redirect
+local-data: "coronavirus.controlled.com.br A 0.0.0.0"
+local-zone: "covid19.myfbf.com" redirect
+local-data: "covid19.myfbf.com A 0.0.0.0"
+local-zone: "covid19.betterworldanalytics.net" redirect
+local-data: "covid19.betterworldanalytics.net A 0.0.0.0"
+local-zone: "covid19algeria.com" redirect
+local-data: "covid19algeria.com A 0.0.0.0"
+local-zone: "covid19travelscreening.ou.edu" redirect
+local-data: "covid19travelscreening.ou.edu A 0.0.0.0"
+local-zone: "covid19.videotron.com" redirect
+local-data: "covid19.videotron.com A 0.0.0.0"
+local-zone: "coronavirus.bj" redirect
+local-data: "coronavirus.bj A 0.0.0.0"
+local-zone: "coronavirusemploymentlawyers.net" redirect
+local-data: "coronavirusemploymentlawyers.net A 0.0.0.0"
+local-zone: "coronavirus-russia.online" redirect
+local-data: "coronavirus-russia.online A 0.0.0.0"
+local-zone: "coronavirus.hospital.euprotegido.com.br" redirect
+local-data: "coronavirus.hospital.euprotegido.com.br A 0.0.0.0"
+local-zone: "vencealcoronavirus.buuzeo.com" redirect
+local-data: "vencealcoronavirus.buuzeo.com A 0.0.0.0"
+local-zone: "kissimmeecoronavirus.com" redirect
+local-data: "kissimmeecoronavirus.com A 0.0.0.0"
+local-zone: "how-likely-would-you-be-to-die-of-covid-19.gnomato.repl.run" redirect
+local-data: "how-likely-would-you-be-to-die-of-covid-19.gnomato.repl.run A 0.0.0.0"
+local-zone: "coronavirus.bj" redirect
+local-data: "coronavirus.bj A 0.0.0.0"
+local-zone: "covid19companyease.com" redirect
+local-data: "covid19companyease.com A 0.0.0.0"
+local-zone: "covid-19-stat.com" redirect
+local-data: "covid-19-stat.com A 0.0.0.0"
+local-zone: "covid19icu.com" redirect
+local-data: "covid19icu.com A 0.0.0.0"
+local-zone: "about.covid19webapp.com" redirect
+local-data: "about.covid19webapp.com A 0.0.0.0"
+local-zone: "covid19entraide.fr" redirect
+local-data: "covid19entraide.fr A 0.0.0.0"
+local-zone: "covid19ng.dataport.com.ng" redirect
+local-data: "covid19ng.dataport.com.ng A 0.0.0.0"
+local-zone: "f.fukcoronavirus.com" redirect
+local-data: "f.fukcoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -7882,6 +7926,8 @@ local-zone: "covid19.seed.dev" redirect
 local-data: "covid19.seed.dev A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
 local-data: "anticoronavirustienda.com A 0.0.0.0"
+local-zone: "loveintheageofcoronavirus.net" redirect
+local-data: "loveintheageofcoronavirus.net A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
