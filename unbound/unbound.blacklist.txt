@@ -6676,6 +6676,98 @@ local-zone: "www.coronavirus-india.net" redirect
 local-data: "www.coronavirus-india.net A 0.0.0.0"
 local-zone: "covid19.cloteh.com" redirect
 local-data: "covid19.cloteh.com A 0.0.0.0"
+local-zone: "19coronavirus.info" redirect
+local-data: "19coronavirus.info A 0.0.0.0"
+local-zone: "anwalt-coronavirus.de" redirect
+local-data: "anwalt-coronavirus.de A 0.0.0.0"
+local-zone: "contraelcoronavirusajedrez.com" redirect
+local-data: "contraelcoronavirusajedrez.com A 0.0.0.0"
+local-zone: "coronavirus-pandemie.ch" redirect
+local-data: "coronavirus-pandemie.ch A 0.0.0.0"
+local-zone: "coronavirus.gliese.pro" redirect
+local-data: "coronavirus.gliese.pro A 0.0.0.0"
+local-zone: "vaccinecovid-19fundraisingforresearch.com" redirect
+local-data: "vaccinecovid-19fundraisingforresearch.com A 0.0.0.0"
+local-zone: "coronavirussystem.com" redirect
+local-data: "coronavirussystem.com A 0.0.0.0"
+local-zone: "coronavirusathometestkits.com" redirect
+local-data: "coronavirusathometestkits.com A 0.0.0.0"
+local-zone: "www.coronavirusman.com" redirect
+local-data: "www.coronavirusman.com A 0.0.0.0"
+local-zone: "coronavirusopendata.com" redirect
+local-data: "coronavirusopendata.com A 0.0.0.0"
+local-zone: "coronavirusontario.com" redirect
+local-data: "coronavirusontario.com A 0.0.0.0"
+local-zone: "www.covid19espanol.com" redirect
+local-data: "www.covid19espanol.com A 0.0.0.0"
+local-zone: "covid-1918.com" redirect
+local-data: "covid-1918.com A 0.0.0.0"
+local-zone: "covid-19-live.com" redirect
+local-data: "covid-19-live.com A 0.0.0.0"
+local-zone: "covid19rapid.com" redirect
+local-data: "covid19rapid.com A 0.0.0.0"
+local-zone: "www.covid19breaking.com" redirect
+local-data: "www.covid19breaking.com A 0.0.0.0"
+local-zone: "covid19testingsite.com" redirect
+local-data: "covid19testingsite.com A 0.0.0.0"
+local-zone: "covid19compendium.com" redirect
+local-data: "covid19compendium.com A 0.0.0.0"
+local-zone: "www.covid19disruption.com" redirect
+local-data: "www.covid19disruption.com A 0.0.0.0"
+local-zone: "covid19disaster.com" redirect
+local-data: "covid19disaster.com A 0.0.0.0"
+local-zone: "covid19clothes.com" redirect
+local-data: "covid19clothes.com A 0.0.0.0"
+local-zone: "covid19repository.com" redirect
+local-data: "covid19repository.com A 0.0.0.0"
+local-zone: "covid19api.com" redirect
+local-data: "covid19api.com A 0.0.0.0"
+local-zone: "covid19conference.com" redirect
+local-data: "covid19conference.com A 0.0.0.0"
+local-zone: "www.covid19product.com" redirect
+local-data: "www.covid19product.com A 0.0.0.0"
+local-zone: "www.covid-19quiz.com" redirect
+local-data: "www.covid-19quiz.com A 0.0.0.0"
+local-zone: "www.covid-19-pandemisi.com" redirect
+local-data: "www.covid-19-pandemisi.com A 0.0.0.0"
+local-zone: "covid19armor.com" redirect
+local-data: "covid19armor.com A 0.0.0.0"
+local-zone: "covid19spain.com" redirect
+local-data: "covid19spain.com A 0.0.0.0"
+local-zone: "covid19worldoutbreak.com" redirect
+local-data: "covid19worldoutbreak.com A 0.0.0.0"
+local-zone: "covid19-alerts.com" redirect
+local-data: "covid19-alerts.com A 0.0.0.0"
+local-zone: "www.covid19churchsummit.com" redirect
+local-data: "www.covid19churchsummit.com A 0.0.0.0"
+local-zone: "www.covid-19storiesfromthefrontline.com" redirect
+local-data: "www.covid-19storiesfromthefrontline.com A 0.0.0.0"
+local-zone: "covid19positive.com" redirect
+local-data: "covid19positive.com A 0.0.0.0"
+local-zone: "www.covid19maptrack.com" redirect
+local-data: "www.covid19maptrack.com A 0.0.0.0"
+local-zone: "covid19dailydigest.com" redirect
+local-data: "covid19dailydigest.com A 0.0.0.0"
+local-zone: "covid19-merch.com" redirect
+local-data: "covid19-merch.com A 0.0.0.0"
+local-zone: "covid19testi.com" redirect
+local-data: "covid19testi.com A 0.0.0.0"
+local-zone: "covid19project.com" redirect
+local-data: "covid19project.com A 0.0.0.0"
+local-zone: "www.vaccinecovid-19fundraisingforresearch.com" redirect
+local-data: "www.vaccinecovid-19fundraisingforresearch.com A 0.0.0.0"
+local-zone: "covid19tp.com" redirect
+local-data: "covid19tp.com A 0.0.0.0"
+local-zone: "coronavirus.stream.danielmagical.stream" redirect
+local-data: "coronavirus.stream.danielmagical.stream A 0.0.0.0"
+local-zone: "anwalt-coronavirus.de" redirect
+local-data: "anwalt-coronavirus.de A 0.0.0.0"
+local-zone: "covid19.usts.fr" redirect
+local-data: "covid19.usts.fr A 0.0.0.0"
+local-zone: "ecovid19.harpiasecurity.com.br" redirect
+local-data: "ecovid19.harpiasecurity.com.br A 0.0.0.0"
+local-zone: "491aa455.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "491aa455.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -6988,6 +7080,12 @@ local-zone: "bbb-covid19.com" redirect
 local-data: "bbb-covid19.com A 0.0.0.0"
 local-zone: "covid19game.co.uk" redirect
 local-data: "covid19game.co.uk A 0.0.0.0"
+local-zone: "covid-19-deep-clean-scotland.com" redirect
+local-data: "covid-19-deep-clean-scotland.com A 0.0.0.0"
+local-zone: "covid19-gunma.com" redirect
+local-data: "covid19-gunma.com A 0.0.0.0"
+local-zone: "covid19-autorisation.me" redirect
+local-data: "covid19-autorisation.me A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
