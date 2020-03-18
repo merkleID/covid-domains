@@ -6986,6 +6986,8 @@ local-zone: "mamparasprotectorascovid19.es" redirect
 local-data: "mamparasprotectorascovid19.es A 0.0.0.0"
 local-zone: "bbb-covid19.com" redirect
 local-data: "bbb-covid19.com A 0.0.0.0"
+local-zone: "covid19game.co.uk" redirect
+local-data: "covid19game.co.uk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

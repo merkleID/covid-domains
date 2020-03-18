@@ -3492,6 +3492,7 @@ zone "bbb-covid19.com" { type master; notify no; file null.zone.file; };
 zone "coronaviruserrandsminneapolis.com" { type master; notify no; file null.zone.file; };
 zone "mamparasprotectorascovid19.es" { type master; notify no; file null.zone.file; };
 zone "bbb-covid19.com" { type master; notify no; file null.zone.file; };
+zone "covid19game.co.uk" { type master; notify no; file null.zone.file; };
 zone "123corona.com" { type master; notify no; file null.zone.file; };
 zone "123coronavirus.com" { type master; notify no; file null.zone.file; };
 zone "1800covid19.com" { type master; notify no; file null.zone.file; };
