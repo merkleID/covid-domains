@@ -8,8 +8,6 @@ File 0.0.0.0-domains is for general purpose, usually Unbound
 
 File full-domains-list.txt can be used with Pi-Hole.
 
-File source-domains.txt is the original file as I fetch it on which I do cat, awk, cut.
-
 
 
 Credits:
@@ -23,4 +21,4 @@ and then it outputs to dns daemons related zone-file format.
 
 Crontab updates every 30 mins.
 
-Current number of domains: 9171
+Current number of domains: 9173

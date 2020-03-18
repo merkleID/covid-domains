@@ -6768,6 +6768,10 @@ local-zone: "ecovid19.harpiasecurity.com.br" redirect
 local-data: "ecovid19.harpiasecurity.com.br A 0.0.0.0"
 local-zone: "491aa455.dev.covid-19.forms.digital.nhs.uk" redirect
 local-data: "491aa455.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "dailycoronavirusupdates.com" redirect
+local-data: "dailycoronavirusupdates.com A 0.0.0.0"
+local-zone: "coronavirus-outbreak.ru" redirect
+local-data: "coronavirus-outbreak.ru A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
