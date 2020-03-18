@@ -6208,6 +6208,64 @@ local-zone: "coronavirus.reisen" redirect
 local-data: "coronavirus.reisen A 0.0.0.0"
 local-zone: "covid19.goodinfo.eu" redirect
 local-data: "covid19.goodinfo.eu A 0.0.0.0"
+local-zone: "covid19.social" redirect
+local-data: "covid19.social A 0.0.0.0"
+local-zone: "covid19ciap.sparktechnomedia.com" redirect
+local-data: "covid19ciap.sparktechnomedia.com A 0.0.0.0"
+local-zone: "coronavirusvaccine.weirdnews24.com" redirect
+local-data: "coronavirusvaccine.weirdnews24.com A 0.0.0.0"
+local-zone: "handwashing.adayinthelifeofcovid-19.com" redirect
+local-data: "handwashing.adayinthelifeofcovid-19.com A 0.0.0.0"
+local-zone: "covid-19.weolive.com" redirect
+local-data: "covid-19.weolive.com A 0.0.0.0"
+local-zone: "coronaviruscare.xyz" redirect
+local-data: "coronaviruscare.xyz A 0.0.0.0"
+local-zone: "coronavirustips.xyz" redirect
+local-data: "coronavirustips.xyz A 0.0.0.0"
+local-zone: "covid19stats.xyz" redirect
+local-data: "covid19stats.xyz A 0.0.0.0"
+local-zone: "coronavirusfacts.xyz" redirect
+local-data: "coronavirusfacts.xyz A 0.0.0.0"
+local-zone: "coronaviruscures.xyz" redirect
+local-data: "coronaviruscures.xyz A 0.0.0.0"
+local-zone: "covid19cure.xyz" redirect
+local-data: "covid19cure.xyz A 0.0.0.0"
+local-zone: "covid19facts.xyz" redirect
+local-data: "covid19facts.xyz A 0.0.0.0"
+local-zone: "virus-covid19.net" redirect
+local-data: "virus-covid19.net A 0.0.0.0"
+local-zone: "www.covid19morocco.tk" redirect
+local-data: "www.covid19morocco.tk A 0.0.0.0"
+local-zone: "covid-19.netseven.it" redirect
+local-data: "covid-19.netseven.it A 0.0.0.0"
+local-zone: "anti-covid19.kz" redirect
+local-data: "anti-covid19.kz A 0.0.0.0"
+local-zone: "covid19vis.com" redirect
+local-data: "covid19vis.com A 0.0.0.0"
+local-zone: "support.coronavirusms.com" redirect
+local-data: "support.coronavirusms.com A 0.0.0.0"
+local-zone: "covid19.bjc.org" redirect
+local-data: "covid19.bjc.org A 0.0.0.0"
+local-zone: "covid19.nrw" redirect
+local-data: "covid19.nrw A 0.0.0.0"
+local-zone: "media.coronavirussymptom.nu" redirect
+local-data: "media.coronavirussymptom.nu A 0.0.0.0"
+local-zone: "covid-19liveupdates.com" redirect
+local-data: "covid-19liveupdates.com A 0.0.0.0"
+local-zone: "covid19-info.online" redirect
+local-data: "covid19-info.online A 0.0.0.0"
+local-zone: "coronavirusanxietyhelp.online" redirect
+local-data: "coronavirusanxietyhelp.online A 0.0.0.0"
+local-zone: "fuckcovid19.online" redirect
+local-data: "fuckcovid19.online A 0.0.0.0"
+local-zone: "iodanticovid19.ru" redirect
+local-data: "iodanticovid19.ru A 0.0.0.0"
+local-zone: "covid-19indo.com" redirect
+local-data: "covid-19indo.com A 0.0.0.0"
+local-zone: "covid19.specops.network" redirect
+local-data: "covid19.specops.network A 0.0.0.0"
+local-zone: "www.kickcoronavirus.com" redirect
+local-data: "www.kickcoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -6508,3 +6566,7 @@ local-zone: "covid-19worlddata.org" redirect
 local-data: "covid-19worlddata.org A 0.0.0.0"
 local-zone: "covid-19.geo.ca" redirect
 local-data: "covid-19.geo.ca A 0.0.0.0"
+local-zone: "anti-covid19.kz" redirect
+local-data: "anti-covid19.kz A 0.0.0.0"
+local-zone: "coronavirus-dashboard.online" redirect
+local-data: "coronavirus-dashboard.online A 0.0.0.0"
