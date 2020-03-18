@@ -6620,6 +6620,44 @@ local-zone: "coronavirusnewssummary.com" redirect
 local-data: "coronavirusnewssummary.com A 0.0.0.0"
 local-zone: "dev1.covid19.seie-madagascar.org" redirect
 local-data: "dev1.covid19.seie-madagascar.org A 0.0.0.0"
+local-zone: "beatcoronavirus.tjn.co.za" redirect
+local-data: "beatcoronavirus.tjn.co.za A 0.0.0.0"
+local-zone: "covid19-charts.com" redirect
+local-data: "covid19-charts.com A 0.0.0.0"
+local-zone: "supportbusinesscovid19.com" redirect
+local-data: "supportbusinesscovid19.com A 0.0.0.0"
+local-zone: "coronavirus-porn.world" redirect
+local-data: "coronavirus-porn.world A 0.0.0.0"
+local-zone: "covid19newsnow.com" redirect
+local-data: "covid19newsnow.com A 0.0.0.0"
+local-zone: "www.masscoronavirus.com" redirect
+local-data: "www.masscoronavirus.com A 0.0.0.0"
+local-zone: "coronavirus-news.app" redirect
+local-data: "coronavirus-news.app A 0.0.0.0"
+local-zone: "staging.covid-19.beecan.org" redirect
+local-data: "staging.covid-19.beecan.org A 0.0.0.0"
+local-zone: "covid19kitz.com" redirect
+local-data: "covid19kitz.com A 0.0.0.0"
+local-zone: "www.covid19.pdavim.com" redirect
+local-data: "www.covid19.pdavim.com A 0.0.0.0"
+local-zone: "covid19.markrogers1.repl.run" redirect
+local-data: "covid19.markrogers1.repl.run A 0.0.0.0"
+local-zone: "www.covid-19.logimetrix.info" redirect
+local-data: "www.covid-19.logimetrix.info A 0.0.0.0"
+local-zone: "verizoncovid19.info" redirect
+local-data: "verizoncovid19.info A 0.0.0.0"
+local-zone: "covid19.bsts.com.br" redirect
+local-data: "covid19.bsts.com.br A 0.0.0.0"
+local-zone: "covid19kit.nyc" redirect
+local-data: "covid19kit.nyc A 0.0.0.0"
+local-zone: "ccovid19masks.com" redirect
+local-data: "ccovid19masks.com A 0.0.0.0"
+local-zone: "corona-virus.moscow" redirect
+local-data: "corona-virus.moscow A 0.0.0.0"
+local-zone: "noncovid19.zbox7.eu" redirect
+local-data: "noncovid19.zbox7.eu A 0.0.0.0"
+local-zone: "covid19.cda.ug" redirect
+local-data: "covid19.cda.ug A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -6924,6 +6962,8 @@ local-zone: "coronaviruslegalrights.net" redirect
 local-data: "coronaviruslegalrights.net A 0.0.0.0"
 local-zone: "bbb-covid19.com" redirect
 local-data: "bbb-covid19.com A 0.0.0.0"
+local-zone: "coronaviruserrandsminneapolis.com" redirect
+local-data: "coronaviruserrandsminneapolis.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
