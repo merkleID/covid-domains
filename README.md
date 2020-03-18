@@ -18,7 +18,7 @@ https://1984.sh/covid19-domains-feed.txt
 
 https://www.malwarepatrol.net/wp-content/uploads/2020/03/covid-19-domains.txt
 
-and then it outputs to dns daemons related zone-file format.
+and then it outputs to dns daemons respective zone-file formats.
 
 Crontab updates every 30 mins.
 
