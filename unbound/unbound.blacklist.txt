@@ -5956,6 +5956,56 @@ local-zone: "covid19pandemic.in" redirect
 local-data: "covid19pandemic.in A 0.0.0.0"
 local-zone: "www.covid19resources.info" redirect
 local-data: "www.covid19resources.info A 0.0.0.0"
+local-zone: "sanering-coronavirus.siden.lv" redirect
+local-data: "sanering-coronavirus.siden.lv A 0.0.0.0"
+local-zone: "coronavirus.eadhmmd.com" redirect
+local-data: "coronavirus.eadhmmd.com A 0.0.0.0"
+local-zone: "coronavirus.democrat" redirect
+local-data: "coronavirus.democrat A 0.0.0.0"
+local-zone: "coronavirus.curagohealth.com" redirect
+local-data: "coronavirus.curagohealth.com A 0.0.0.0"
+local-zone: "www.covid-19vpo.com" redirect
+local-data: "www.covid-19vpo.com A 0.0.0.0"
+local-zone: "www.coronavirustelehealth.co" redirect
+local-data: "www.coronavirustelehealth.co A 0.0.0.0"
+local-zone: "www.coronaviruspatientmonitoring.us" redirect
+local-data: "www.coronaviruspatientmonitoring.us A 0.0.0.0"
+local-zone: "www.coronavirustelehealth.us" redirect
+local-data: "www.coronavirustelehealth.us A 0.0.0.0"
+local-zone: "coronavirus-test.site" redirect
+local-data: "coronavirus-test.site A 0.0.0.0"
+local-zone: "covid19.mhbproject.com" redirect
+local-data: "covid19.mhbproject.com A 0.0.0.0"
+local-zone: "coronavirus-test.site" redirect
+local-data: "coronavirus-test.site A 0.0.0.0"
+local-zone: "www.coronavirusprotection.io" redirect
+local-data: "www.coronavirusprotection.io A 0.0.0.0"
+local-zone: "covid19.collab.social" redirect
+local-data: "covid19.collab.social A 0.0.0.0"
+local-zone: "www.coronavirushealthguide.com" redirect
+local-data: "www.coronavirushealthguide.com A 0.0.0.0"
+local-zone: "www.coronavirushealthguide.com" redirect
+local-data: "www.coronavirushealthguide.com A 0.0.0.0"
+local-zone: "www.covid19-defense.es" redirect
+local-data: "www.covid19-defense.es A 0.0.0.0"
+local-zone: "coronavirustracker.es" redirect
+local-data: "coronavirustracker.es A 0.0.0.0"
+local-zone: "tips-coronavirus.com" redirect
+local-data: "tips-coronavirus.com A 0.0.0.0"
+local-zone: "coronavirus-report.live" redirect
+local-data: "coronavirus-report.live A 0.0.0.0"
+local-zone: "coronavirus.istarsrl.eu" redirect
+local-data: "coronavirus.istarsrl.eu A 0.0.0.0"
+local-zone: "kitcoronavirus.eu" redirect
+local-data: "kitcoronavirus.eu A 0.0.0.0"
+local-zone: "api.appcoronavirus.cl" redirect
+local-data: "api.appcoronavirus.cl A 0.0.0.0"
+local-zone: "abogadacoronavirus.es" redirect
+local-data: "abogadacoronavirus.es A 0.0.0.0"
+local-zone: "infocoronavirusbr.com" redirect
+local-data: "infocoronavirusbr.com A 0.0.0.0"
+local-zone: "news-coronavirus.fr" redirect
+local-data: "news-coronavirus.fr A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -6250,3 +6300,7 @@ local-zone: "willicatchcoronavirus.com" redirect
 local-data: "willicatchcoronavirus.com A 0.0.0.0"
 local-zone: "coronavirus-treatment.co.uk" redirect
 local-data: "coronavirus-treatment.co.uk A 0.0.0.0"
+local-zone: "nifcovid19.com" redirect
+local-data: "nifcovid19.com A 0.0.0.0"
+local-zone: "covid-19worlddata.org" redirect
+local-data: "covid-19worlddata.org A 0.0.0.0"
