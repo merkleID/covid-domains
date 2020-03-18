@@ -3751,6 +3751,19 @@ local-zone: "covid-19t-shirt.com" static
 local-zone: "takeoutcovid19.com" static
 local-zone: "covid19.videotron.com" static
 local-zone: "covid19.m-akses.com" static
+local-zone: "coronavirus-reports.com" static
+local-zone: "thankscoronavirus.com" static
+local-zone: "www.covid-19housingsolutions.com" static
+local-zone: "www.thecoronavirustestkits.com" static
+local-zone: "coronaviruscompassion.com" static
+local-zone: "coronaviruscrypto.com" static
+local-zone: "ncov19stats.com" static
+local-zone: "coronavirusselfassessment.com" static
+local-zone: "covid19.azlawhelp.org" static
+local-zone: "www.covid19helpers.app" static
+local-zone: "covid19.trance-cat.com" static
+local-zone: "coronavirus-masques.fr" static
+local-zone: "venceremoscovid19.es" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -3926,6 +3939,7 @@ local-zone: "coronaviruscamisetas.com" static
 local-zone: "how-to-coronavirus.com" static
 local-zone: "covid-19tracker.live" static
 local-zone: "covid19.seed.dev" static
+local-zone: "anticoronavirustienda.com" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static

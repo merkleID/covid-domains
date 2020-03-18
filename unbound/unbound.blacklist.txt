@@ -7504,6 +7504,32 @@ local-zone: "covid19.videotron.com" redirect
 local-data: "covid19.videotron.com A 0.0.0.0"
 local-zone: "covid19.m-akses.com" redirect
 local-data: "covid19.m-akses.com A 0.0.0.0"
+local-zone: "coronavirus-reports.com" redirect
+local-data: "coronavirus-reports.com A 0.0.0.0"
+local-zone: "thankscoronavirus.com" redirect
+local-data: "thankscoronavirus.com A 0.0.0.0"
+local-zone: "www.covid-19housingsolutions.com" redirect
+local-data: "www.covid-19housingsolutions.com A 0.0.0.0"
+local-zone: "www.thecoronavirustestkits.com" redirect
+local-data: "www.thecoronavirustestkits.com A 0.0.0.0"
+local-zone: "coronaviruscompassion.com" redirect
+local-data: "coronaviruscompassion.com A 0.0.0.0"
+local-zone: "coronaviruscrypto.com" redirect
+local-data: "coronaviruscrypto.com A 0.0.0.0"
+local-zone: "ncov19stats.com" redirect
+local-data: "ncov19stats.com A 0.0.0.0"
+local-zone: "coronavirusselfassessment.com" redirect
+local-data: "coronavirusselfassessment.com A 0.0.0.0"
+local-zone: "covid19.azlawhelp.org" redirect
+local-data: "covid19.azlawhelp.org A 0.0.0.0"
+local-zone: "www.covid19helpers.app" redirect
+local-data: "www.covid19helpers.app A 0.0.0.0"
+local-zone: "covid19.trance-cat.com" redirect
+local-data: "covid19.trance-cat.com A 0.0.0.0"
+local-zone: "coronavirus-masques.fr" redirect
+local-data: "coronavirus-masques.fr A 0.0.0.0"
+local-zone: "venceremoscovid19.es" redirect
+local-data: "venceremoscovid19.es A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -7854,6 +7880,8 @@ local-zone: "covid-19tracker.live" redirect
 local-data: "covid-19tracker.live A 0.0.0.0"
 local-zone: "covid19.seed.dev" redirect
 local-data: "covid19.seed.dev A 0.0.0.0"
+local-zone: "anticoronavirustienda.com" redirect
+local-data: "anticoronavirustienda.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
