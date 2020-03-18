@@ -6772,6 +6772,8 @@ local-zone: "dailycoronavirusupdates.com" redirect
 local-data: "dailycoronavirusupdates.com A 0.0.0.0"
 local-zone: "coronavirus-outbreak.ru" redirect
 local-data: "coronavirus-outbreak.ru A 0.0.0.0"
+local-zone: "coronavirus-hypnose-meditation.com" redirect
+local-data: "coronavirus-hypnose-meditation.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect

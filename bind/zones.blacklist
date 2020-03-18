@@ -3385,6 +3385,7 @@ zone "ecovid19.harpiasecurity.com.br" { type master; notify no; file null.zone.f
 zone "491aa455.dev.covid-19.forms.digital.nhs.uk" { type master; notify no; file null.zone.file; };
 zone "dailycoronavirusupdates.com" { type master; notify no; file null.zone.file; };
 zone "coronavirus-outbreak.ru" { type master; notify no; file null.zone.file; };
+zone "coronavirus-hypnose-meditation.com" { type master; notify no; file null.zone.file; };
 zone "anticoronavirus.cloud" { type master; notify no; file null.zone.file; };
 zone "anticoronavirustienda.com" { type master; notify no; file null.zone.file; };
 zone "californiacoronaviruslaw.com" { type master; notify no; file null.zone.file; };

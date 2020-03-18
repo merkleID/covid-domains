@@ -15,10 +15,11 @@ Credits:
 a simple bash-rework based on two covid-related spam-domains list created by:
 
 https://1984.sh/covid19-domains-feed.txt
-https://www.malwarepatrol.net/wp-content/uploads/2020/03/covid-19-domains.txt > mpatrol.txt
+
+https://www.malwarepatrol.net/wp-content/uploads/2020/03/covid-19-domains.txt
 
 and then it outputs to dns daemons related zone-file format.
 
 Crontab updates every 30 mins.
 
-Current number of domains: 9173
+Current number of domains: 9174
