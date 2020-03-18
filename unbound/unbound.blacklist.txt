@@ -6844,6 +6844,194 @@ local-zone: "covid19.aberdeenshire.gov.uk" redirect
 local-data: "covid19.aberdeenshire.gov.uk A 0.0.0.0"
 local-zone: "verizon19covid.com" redirect
 local-data: "verizon19covid.com A 0.0.0.0"
+local-zone: "covid19.discoverycampus.com" redirect
+local-data: "covid19.discoverycampus.com A 0.0.0.0"
+local-zone: "helpforcovid19.es" redirect
+local-data: "helpforcovid19.es A 0.0.0.0"
+local-zone: "sars-coronavirus-covid-19.de" redirect
+local-data: "sars-coronavirus-covid-19.de A 0.0.0.0"
+local-zone: "coronavirusprotectionsecrets.com" redirect
+local-data: "coronavirusprotectionsecrets.com A 0.0.0.0"
+local-zone: "usvscoronavirus.com" redirect
+local-data: "usvscoronavirus.com A 0.0.0.0"
+local-zone: "thecoronavirusguide.net" redirect
+local-data: "thecoronavirusguide.net A 0.0.0.0"
+local-zone: "covid19.qri.com" redirect
+local-data: "covid19.qri.com A 0.0.0.0"
+local-zone: "covid19.boneolam.co.il" redirect
+local-data: "covid19.boneolam.co.il A 0.0.0.0"
+local-zone: "www.covid19-ppe.com" redirect
+local-data: "www.covid19-ppe.com A 0.0.0.0"
+local-zone: "coronavirus.pro" redirect
+local-data: "coronavirus.pro A 0.0.0.0"
+local-zone: "www.flattenthecoronavirus.com" redirect
+local-data: "www.flattenthecoronavirus.com A 0.0.0.0"
+local-zone: "help.covid19.tn" redirect
+local-data: "help.covid19.tn A 0.0.0.0"
+local-zone: "covid19.brck.com" redirect
+local-data: "covid19.brck.com A 0.0.0.0"
+local-zone: "www.prepareforcoronavirus.today" redirect
+local-data: "www.prepareforcoronavirus.today A 0.0.0.0"
+local-zone: "prepareforcoronavirus.today" redirect
+local-data: "prepareforcoronavirus.today A 0.0.0.0"
+local-zone: "covid19.trimblemaps.com" redirect
+local-data: "covid19.trimblemaps.com A 0.0.0.0"
+local-zone: "covid-19.zendesk.com" redirect
+local-data: "covid-19.zendesk.com A 0.0.0.0"
+local-zone: "byebyecovid19.com" redirect
+local-data: "byebyecovid19.com A 0.0.0.0"
+local-zone: "fuvkcoronavirus.com" redirect
+local-data: "fuvkcoronavirus.com A 0.0.0.0"
+local-zone: "19covidvaccine.com" redirect
+local-data: "19covidvaccine.com A 0.0.0.0"
+local-zone: "coronavirus.atendimentodigital.hsl.org.br" redirect
+local-data: "coronavirus.atendimentodigital.hsl.org.br A 0.0.0.0"
+local-zone: "covid19.heuproject.com" redirect
+local-data: "covid19.heuproject.com A 0.0.0.0"
+local-zone: "covid19btv.madvt.org" redirect
+local-data: "covid19btv.madvt.org A 0.0.0.0"
+local-zone: "sars-coronavirus-covid-19.de" redirect
+local-data: "sars-coronavirus-covid-19.de A 0.0.0.0"
+local-zone: "hablacoronavirus.com" redirect
+local-data: "hablacoronavirus.com A 0.0.0.0"
+local-zone: "app-coronavirus.appmivf.com" redirect
+local-data: "app-coronavirus.appmivf.com A 0.0.0.0"
+local-zone: "coronaviruscurevac.org" redirect
+local-data: "coronaviruscurevac.org A 0.0.0.0"
+local-zone: "coronavirusvaccinelawyer.com" redirect
+local-data: "coronavirusvaccinelawyer.com A 0.0.0.0"
+local-zone: "coronavirusmetrics.com" redirect
+local-data: "coronavirusmetrics.com A 0.0.0.0"
+local-zone: "coronavirusisforlovers.com" redirect
+local-data: "coronavirusisforlovers.com A 0.0.0.0"
+local-zone: "coronamap.coronaviruszone.com" redirect
+local-data: "coronamap.coronaviruszone.com A 0.0.0.0"
+local-zone: "coronavirussystem.com" redirect
+local-data: "coronavirussystem.com A 0.0.0.0"
+local-zone: "coronavirus-tee.com" redirect
+local-data: "coronavirus-tee.com A 0.0.0.0"
+local-zone: "coronavirussurvival.com" redirect
+local-data: "coronavirussurvival.com A 0.0.0.0"
+local-zone: "coronavirusmiami.com" redirect
+local-data: "coronavirusmiami.com A 0.0.0.0"
+local-zone: "coronavirusthroughoureyes.com" redirect
+local-data: "coronavirusthroughoureyes.com A 0.0.0.0"
+local-zone: "coronavirushappyending.com" redirect
+local-data: "coronavirushappyending.com A 0.0.0.0"
+local-zone: "coronavirusmapa.com" redirect
+local-data: "coronavirusmapa.com A 0.0.0.0"
+local-zone: "coronavirusstimulus.com" redirect
+local-data: "coronavirusstimulus.com A 0.0.0.0"
+local-zone: "www.coronavirusmouthmask.com" redirect
+local-data: "www.coronavirusmouthmask.com A 0.0.0.0"
+local-zone: "coronavirussanitiser.com" redirect
+local-data: "coronavirussanitiser.com A 0.0.0.0"
+local-zone: "coronavirus-wear.com" redirect
+local-data: "coronavirus-wear.com A 0.0.0.0"
+local-zone: "www.coronavirusvaccinelawyer.com" redirect
+local-data: "www.coronavirusvaccinelawyer.com A 0.0.0.0"
+local-zone: "coronavirushelpguide.com" redirect
+local-data: "coronavirushelpguide.com A 0.0.0.0"
+local-zone: "coronavirusandthechurch.com" redirect
+local-data: "coronavirusandthechurch.com A 0.0.0.0"
+local-zone: "www.coronavirusprotectivewear.com" redirect
+local-data: "www.coronavirusprotectivewear.com A 0.0.0.0"
+local-zone: "coronavirusresourceguide.com" redirect
+local-data: "coronavirusresourceguide.com A 0.0.0.0"
+local-zone: "covid-19-info.eu" redirect
+local-data: "covid-19-info.eu A 0.0.0.0"
+local-zone: "covid19disaster.com" redirect
+local-data: "covid19disaster.com A 0.0.0.0"
+local-zone: "www.covid19espanol.com" redirect
+local-data: "www.covid19espanol.com A 0.0.0.0"
+local-zone: "covid19spain.com" redirect
+local-data: "covid19spain.com A 0.0.0.0"
+local-zone: "covid19armor.com" redirect
+local-data: "covid19armor.com A 0.0.0.0"
+local-zone: "covid19clothes.com" redirect
+local-data: "covid19clothes.com A 0.0.0.0"
+local-zone: "covid19actionplan.com" redirect
+local-data: "covid19actionplan.com A 0.0.0.0"
+local-zone: "coronavirusathometestkits.com" redirect
+local-data: "coronavirusathometestkits.com A 0.0.0.0"
+local-zone: "covid-19grocerydelivery.com" redirect
+local-data: "covid-19grocerydelivery.com A 0.0.0.0"
+local-zone: "www.coronavirusbalkan.com" redirect
+local-data: "www.coronavirusbalkan.com A 0.0.0.0"
+local-zone: "www.coronavirusfightback.com" redirect
+local-data: "www.coronavirusfightback.com A 0.0.0.0"
+local-zone: "coronavirussticker.com" redirect
+local-data: "coronavirussticker.com A 0.0.0.0"
+local-zone: "covid19-alerts.com" redirect
+local-data: "covid19-alerts.com A 0.0.0.0"
+local-zone: "covid19positive.com" redirect
+local-data: "covid19positive.com A 0.0.0.0"
+local-zone: "covid19api.com" redirect
+local-data: "covid19api.com A 0.0.0.0"
+local-zone: "www.covid19product.com" redirect
+local-data: "www.covid19product.com A 0.0.0.0"
+local-zone: "www.covid19facemasks.com" redirect
+local-data: "www.covid19facemasks.com A 0.0.0.0"
+local-zone: "www.covid19quicktest.com" redirect
+local-data: "www.covid19quicktest.com A 0.0.0.0"
+local-zone: "coronavirusadieu.com" redirect
+local-data: "coronavirusadieu.com A 0.0.0.0"
+local-zone: "covid19live.org" redirect
+local-data: "covid19live.org A 0.0.0.0"
+local-zone: "covid19fondy.com" redirect
+local-data: "covid19fondy.com A 0.0.0.0"
+local-zone: "covid19.reeteshghimire.com.np" redirect
+local-data: "covid19.reeteshghimire.com.np A 0.0.0.0"
+local-zone: "siagacovid19.probolinggokab.go.id" redirect
+local-data: "siagacovid19.probolinggokab.go.id A 0.0.0.0"
+local-zone: "covid19.tubankab.go.id" redirect
+local-data: "covid19.tubankab.go.id A 0.0.0.0"
+local-zone: "www.covid19stats.com" redirect
+local-data: "www.covid19stats.com A 0.0.0.0"
+local-zone: "vaccinationcovid19.org" redirect
+local-data: "vaccinationcovid19.org A 0.0.0.0"
+local-zone: "www.corona-virus-masks-sanitizers-gloves-supplies.com" redirect
+local-data: "www.corona-virus-masks-sanitizers-gloves-supplies.com A 0.0.0.0"
+local-zone: "covid19-ressources.fr" redirect
+local-data: "covid19-ressources.fr A 0.0.0.0"
+local-zone: "coronavirus.atendimentodigital.hsl.org.br" redirect
+local-data: "coronavirus.atendimentodigital.hsl.org.br A 0.0.0.0"
+local-zone: "coronavirusnewslocal.com" redirect
+local-data: "coronavirusnewslocal.com A 0.0.0.0"
+local-zone: "19covidvac.com" redirect
+local-data: "19covidvac.com A 0.0.0.0"
+local-zone: "afectadoscovid19.es" redirect
+local-data: "afectadoscovid19.es A 0.0.0.0"
+local-zone: "covid19stats.com" redirect
+local-data: "covid19stats.com A 0.0.0.0"
+local-zone: "neplusavoirpeurducoronavirus.com" redirect
+local-data: "neplusavoirpeurducoronavirus.com A 0.0.0.0"
+local-zone: "covid19live.org" redirect
+local-data: "covid19live.org A 0.0.0.0"
+local-zone: "friendsofcovid19.com" redirect
+local-data: "friendsofcovid19.com A 0.0.0.0"
+local-zone: "coronavirus-pill.com" redirect
+local-data: "coronavirus-pill.com A 0.0.0.0"
+local-zone: "www.datoscoronavirus.com" redirect
+local-data: "www.datoscoronavirus.com A 0.0.0.0"
+local-zone: "datoscoronavirus.com" redirect
+local-data: "datoscoronavirus.com A 0.0.0.0"
+local-zone: "studentcovid19.xyz" redirect
+local-data: "studentcovid19.xyz A 0.0.0.0"
+local-zone: "covid19stats.com" redirect
+local-data: "covid19stats.com A 0.0.0.0"
+local-zone: "covid-19-status.anexia.com" redirect
+local-data: "covid-19-status.anexia.com A 0.0.0.0"
+local-zone: "durgsforcoronavirus.com" redirect
+local-data: "durgsforcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirus.cardiol.online" redirect
+local-data: "coronavirus.cardiol.online A 0.0.0.0"
+local-zone: "covid-19.dcust.com" redirect
+local-data: "covid-19.dcust.com A 0.0.0.0"
+local-zone: "covid19-vac.net" redirect
+local-data: "covid19-vac.net A 0.0.0.0"
+local-zone: "covid-19preventionaustin.com" redirect
+local-data: "covid-19preventionaustin.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -7172,3 +7360,11 @@ local-zone: "mamparasprotectorascovid19.es" redirect
 local-data: "mamparasprotectorascovid19.es A 0.0.0.0"
 local-zone: "desinfeccioncovid-19.com" redirect
 local-data: "desinfeccioncovid-19.com A 0.0.0.0"
+local-zone: "covid-19-hotline.com" redirect
+local-data: "covid-19-hotline.com A 0.0.0.0"
+local-zone: "tncovid19.in" redirect
+local-data: "tncovid19.in A 0.0.0.0"
+local-zone: "coronavirusmalta.com" redirect
+local-data: "coronavirusmalta.com A 0.0.0.0"
+local-zone: "covid-19-hotline.com" redirect
+local-data: "covid-19-hotline.com A 0.0.0.0"
