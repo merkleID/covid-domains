@@ -14,7 +14,10 @@ File source-domains.txt is the original file as I fetch it on which I do cat, aw
 
 Credits:
 
-a simple bash-rework based on covid-related spam-domains list created by https://1984.sh/covid19-domains-feed.txt
+a simple bash-rework based on two covid-related spam-domains list created by:
+
+https://1984.sh/covid19-domains-feed.txt
+https://www.malwarepatrol.net/wp-content/uploads/2020/03/covid-19-domains.txt > mpatrol.txt
 
 Crontab updates every 30 mins.
 
