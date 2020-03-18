@@ -7656,6 +7656,48 @@ local-zone: "covid1904.gemba360.com" redirect
 local-data: "covid1904.gemba360.com A 0.0.0.0"
 local-zone: "covid-19-status.anexia.com" redirect
 local-data: "covid-19-status.anexia.com A 0.0.0.0"
+local-zone: "covid19app.uniurb.it" redirect
+local-data: "covid19app.uniurb.it A 0.0.0.0"
+local-zone: "covid19.chu.ulg.ac.be" redirect
+local-data: "covid19.chu.ulg.ac.be A 0.0.0.0"
+local-zone: "coronavirus19kit.com" redirect
+local-data: "coronavirus19kit.com A 0.0.0.0"
+local-zone: "covid19bizloan.com" redirect
+local-data: "covid19bizloan.com A 0.0.0.0"
+local-zone: "coronavirus.pro" redirect
+local-data: "coronavirus.pro A 0.0.0.0"
+local-zone: "covid19response.nyc" redirect
+local-data: "covid19response.nyc A 0.0.0.0"
+local-zone: "covid-19-status.anexia.com" redirect
+local-data: "covid-19-status.anexia.com A 0.0.0.0"
+local-zone: "covid1906.gemba360.com" redirect
+local-data: "covid1906.gemba360.com A 0.0.0.0"
+local-zone: "coronavirus.gobiernodepozarica.gob.mx" redirect
+local-data: "coronavirus.gobiernodepozarica.gob.mx A 0.0.0.0"
+local-zone: "stiricoronavirus.com" redirect
+local-data: "stiricoronavirus.com A 0.0.0.0"
+local-zone: "covid19yourstories.com" redirect
+local-data: "covid19yourstories.com A 0.0.0.0"
+local-zone: "uat.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "uat.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "api.uat.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.uat.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronavirusmendoza.com" redirect
+local-data: "coronavirusmendoza.com A 0.0.0.0"
+local-zone: "coronavirus.rneira.cl" redirect
+local-data: "coronavirus.rneira.cl A 0.0.0.0"
+local-zone: "www.surmodics-covid19.com" redirect
+local-data: "www.surmodics-covid19.com A 0.0.0.0"
+local-zone: "stopcovid19.de" redirect
+local-data: "stopcovid19.de A 0.0.0.0"
+local-zone: "www.test-coronavirus.com.ar" redirect
+local-data: "www.test-coronavirus.com.ar A 0.0.0.0"
+local-zone: "onlinecoronavirustest.com" redirect
+local-data: "onlinecoronavirustest.com A 0.0.0.0"
+local-zone: "covid19-ma.info" redirect
+local-data: "covid19-ma.info A 0.0.0.0"
+local-zone: "covid19assistance.info" redirect
+local-data: "covid19assistance.info A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
