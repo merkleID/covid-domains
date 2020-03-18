@@ -7486,6 +7486,24 @@ local-zone: "www.coronavirus-2020.de" redirect
 local-data: "www.coronavirus-2020.de A 0.0.0.0"
 local-zone: "covid-19.covid.su.domains" redirect
 local-data: "covid-19.covid.su.domains A 0.0.0.0"
+local-zone: "coronavirus.ronzag.com" redirect
+local-data: "coronavirus.ronzag.com A 0.0.0.0"
+local-zone: "covid-19.shapelab.ee" redirect
+local-data: "covid-19.shapelab.ee A 0.0.0.0"
+local-zone: "coronavirus.es.gov.br" redirect
+local-data: "coronavirus.es.gov.br A 0.0.0.0"
+local-zone: "stiricoronavirus.com" redirect
+local-data: "stiricoronavirus.com A 0.0.0.0"
+local-zone: "www.chinesecoronavirus.net" redirect
+local-data: "www.chinesecoronavirus.net A 0.0.0.0"
+local-zone: "covid-19t-shirt.com" redirect
+local-data: "covid-19t-shirt.com A 0.0.0.0"
+local-zone: "takeoutcovid19.com" redirect
+local-data: "takeoutcovid19.com A 0.0.0.0"
+local-zone: "covid19.videotron.com" redirect
+local-data: "covid19.videotron.com A 0.0.0.0"
+local-zone: "covid19.m-akses.com" redirect
+local-data: "covid19.m-akses.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
