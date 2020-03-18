@@ -6006,6 +6006,74 @@ local-zone: "infocoronavirusbr.com" redirect
 local-data: "infocoronavirusbr.com A 0.0.0.0"
 local-zone: "news-coronavirus.fr" redirect
 local-data: "news-coronavirus.fr A 0.0.0.0"
+local-zone: "anticoronacovid19.com" redirect
+local-data: "anticoronacovid19.com A 0.0.0.0"
+local-zone: "trackercovid19.com" redirect
+local-data: "trackercovid19.com A 0.0.0.0"
+local-zone: "antiviruscoronacovid19.com" redirect
+local-data: "antiviruscoronacovid19.com A 0.0.0.0"
+local-zone: "www.coronavirus.gov.au" redirect
+local-data: "www.coronavirus.gov.au A 0.0.0.0"
+local-zone: "www.covid19consciousliving.com" redirect
+local-data: "www.covid19consciousliving.com A 0.0.0.0"
+local-zone: "covid19consciousliving.com" redirect
+local-data: "covid19consciousliving.com A 0.0.0.0"
+local-zone: "www.lowereastside-covid19.com" redirect
+local-data: "www.lowereastside-covid19.com A 0.0.0.0"
+local-zone: "lowereastside-covid19.com" redirect
+local-data: "lowereastside-covid19.com A 0.0.0.0"
+local-zone: "covid19healthcheck.org" redirect
+local-data: "covid19healthcheck.org A 0.0.0.0"
+local-zone: "coronavirusline.com" redirect
+local-data: "coronavirusline.com A 0.0.0.0"
+local-zone: "covid19trends.info" redirect
+local-data: "covid19trends.info A 0.0.0.0"
+local-zone: "covid19ph.tk" redirect
+local-data: "covid19ph.tk A 0.0.0.0"
+local-zone: "covid-19overview.com" redirect
+local-data: "covid-19overview.com A 0.0.0.0"
+local-zone: "masque-coronavirus-france.fr" redirect
+local-data: "masque-coronavirus-france.fr A 0.0.0.0"
+local-zone: "api.coronavirusmap.co.uk" redirect
+local-data: "api.coronavirusmap.co.uk A 0.0.0.0"
+local-zone: "www.coronavirusworkfromhomenow.com" redirect
+local-data: "www.coronavirusworkfromhomenow.com A 0.0.0.0"
+local-zone: "www.coronavirus-info.be" redirect
+local-data: "www.coronavirus-info.be A 0.0.0.0"
+local-zone: "coronavirus-italia.net" redirect
+local-data: "coronavirus-italia.net A 0.0.0.0"
+local-zone: "coronavirus-info.be" redirect
+local-data: "coronavirus-info.be A 0.0.0.0"
+local-zone: "coronavirusvaccine.com" redirect
+local-data: "coronavirusvaccine.com A 0.0.0.0"
+local-zone: "coronavirusdisease19.co.uk" redirect
+local-data: "coronavirusdisease19.co.uk A 0.0.0.0"
+local-zone: "covid19bcp.maxis.com.my" redirect
+local-data: "covid19bcp.maxis.com.my A 0.0.0.0"
+local-zone: "test.covid19.quebec.ca" redirect
+local-data: "test.covid19.quebec.ca A 0.0.0.0"
+local-zone: "helpcoronavirus.org" redirect
+local-data: "helpcoronavirus.org A 0.0.0.0"
+local-zone: "kaustcoronavirustaskforcehelp.zendesk.com" redirect
+local-data: "kaustcoronavirustaskforcehelp.zendesk.com A 0.0.0.0"
+local-zone: "lacuradelcoronavirus.fun" redirect
+local-data: "lacuradelcoronavirus.fun A 0.0.0.0"
+local-zone: "coronavirus.confirmado.gt" redirect
+local-data: "coronavirus.confirmado.gt A 0.0.0.0"
+local-zone: "cekdiri.kawalcovid19.id" redirect
+local-data: "cekdiri.kawalcovid19.id A 0.0.0.0"
+local-zone: "lacuradelcoronavirus.fun" redirect
+local-data: "lacuradelcoronavirus.fun A 0.0.0.0"
+local-zone: "coronavirusoregon.net" redirect
+local-data: "coronavirusoregon.net A 0.0.0.0"
+local-zone: "coronavirusprevention.net" redirect
+local-data: "coronavirusprevention.net A 0.0.0.0"
+local-zone: "coronavirusgifts.net" redirect
+local-data: "coronavirusgifts.net A 0.0.0.0"
+local-zone: "www.coronavirususa.net" redirect
+local-data: "www.coronavirususa.net A 0.0.0.0"
+local-zone: "covid-19.geo.ca" redirect
+local-data: "covid-19.geo.ca A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
