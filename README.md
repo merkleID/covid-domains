@@ -4,7 +4,7 @@ COVID19/coronavirus malware/spam domains dns-blacklist to use with BIND, Unbound
 
 It's up to the dns-admin to properly install those lists and configure his own dns resolver.
 
-File 0.0.0.0-domains is for general purpose, usually Unbound.
+File 0.0.0.0-domains.txt is for general purpose, usually Unbound.
 
 File full-domains-list.txt can be used with Pi-Hole.
 
