@@ -7574,6 +7574,60 @@ local-zone: "covid19ng.dataport.com.ng" redirect
 local-data: "covid19ng.dataport.com.ng A 0.0.0.0"
 local-zone: "f.fukcoronavirus.com" redirect
 local-data: "f.fukcoronavirus.com A 0.0.0.0"
+local-zone: "corona-viruset.info" redirect
+local-data: "corona-viruset.info A 0.0.0.0"
+local-zone: "covid-19-stat.com" redirect
+local-data: "covid-19-stat.com A 0.0.0.0"
+local-zone: "anticoronavirus.support" redirect
+local-data: "anticoronavirus.support A 0.0.0.0"
+local-zone: "coronaviruschronicles.site" redirect
+local-data: "coronaviruschronicles.site A 0.0.0.0"
+local-zone: "api.9380996f.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.9380996f.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "simcovid19.org" redirect
+local-data: "simcovid19.org A 0.0.0.0"
+local-zone: "covid19.dogis.org" redirect
+local-data: "covid19.dogis.org A 0.0.0.0"
+local-zone: "api.9380996f.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.9380996f.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronavirus.anetuy.com" redirect
+local-data: "coronavirus.anetuy.com A 0.0.0.0"
+local-zone: "9380996f.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "9380996f.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "stop-covid-19.biospot.by" redirect
+local-data: "stop-covid-19.biospot.by A 0.0.0.0"
+local-zone: "covid19.gdanforth.com" redirect
+local-data: "covid19.gdanforth.com A 0.0.0.0"
+local-zone: "covid19-bayarea-support.com" redirect
+local-data: "covid19-bayarea-support.com A 0.0.0.0"
+local-zone: "covid19screen.info" redirect
+local-data: "covid19screen.info A 0.0.0.0"
+local-zone: "coronavirus-voronezh.ru" redirect
+local-data: "coronavirus-voronezh.ru A 0.0.0.0"
+local-zone: "coronavirusitalianews.com" redirect
+local-data: "coronavirusitalianews.com A 0.0.0.0"
+local-zone: "coronavirus.richielending.com" redirect
+local-data: "coronavirus.richielending.com A 0.0.0.0"
+local-zone: "covid19-deliveries.com" redirect
+local-data: "covid19-deliveries.com A 0.0.0.0"
+local-zone: "www.covid19webapp.com" redirect
+local-data: "www.covid19webapp.com A 0.0.0.0"
+local-zone: "coronavirusdiagnostic.com" redirect
+local-data: "coronavirusdiagnostic.com A 0.0.0.0"
+local-zone: "www.corona-virus2020.de" redirect
+local-data: "www.corona-virus2020.de A 0.0.0.0"
+local-zone: "covid19england.kre.brighton.domains" redirect
+local-data: "covid19england.kre.brighton.domains A 0.0.0.0"
+local-zone: "covid-19-status.anexia.com" redirect
+local-data: "covid-19-status.anexia.com A 0.0.0.0"
+local-zone: "covid-19.am" redirect
+local-data: "covid-19.am A 0.0.0.0"
+local-zone: "www.dresscovid19.com" redirect
+local-data: "www.dresscovid19.com A 0.0.0.0"
+local-zone: "coronavirusteszt.hu" redirect
+local-data: "coronavirusteszt.hu A 0.0.0.0"
+local-zone: "www.covid19buys.com" redirect
+local-data: "www.covid19buys.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
