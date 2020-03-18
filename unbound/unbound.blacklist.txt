@@ -7698,6 +7698,44 @@ local-zone: "covid19-ma.info" redirect
 local-data: "covid19-ma.info A 0.0.0.0"
 local-zone: "covid19assistance.info" redirect
 local-data: "covid19assistance.info A 0.0.0.0"
+local-zone: "thankscoronavirus.com" redirect
+local-data: "thankscoronavirus.com A 0.0.0.0"
+local-zone: "www.thecoronavirustestkits.com" redirect
+local-data: "www.thecoronavirustestkits.com A 0.0.0.0"
+local-zone: "thecoronaviruscookbook.com" redirect
+local-data: "thecoronaviruscookbook.com A 0.0.0.0"
+local-zone: "thecoronavirusnightmare.com" redirect
+local-data: "thecoronavirusnightmare.com A 0.0.0.0"
+local-zone: "coronavirusinfo.brinker.com" redirect
+local-data: "coronavirusinfo.brinker.com A 0.0.0.0"
+local-zone: "covid19relay.org" redirect
+local-data: "covid19relay.org A 0.0.0.0"
+local-zone: "www.springbrokensocialdistancingduringcovid-19.blog" redirect
+local-data: "www.springbrokensocialdistancingduringcovid-19.blog A 0.0.0.0"
+local-zone: "covid19.ugr.es" redirect
+local-data: "covid19.ugr.es A 0.0.0.0"
+local-zone: "coronaviruscanada.online" redirect
+local-data: "coronaviruscanada.online A 0.0.0.0"
+local-zone: "covid-19.symphonyrm.com" redirect
+local-data: "covid-19.symphonyrm.com A 0.0.0.0"
+local-zone: "ncov2019.pressq.net" redirect
+local-data: "ncov2019.pressq.net A 0.0.0.0"
+local-zone: "coronaviruslivetracker.com" redirect
+local-data: "coronaviruslivetracker.com A 0.0.0.0"
+local-zone: "californiacoronavirus.org" redirect
+local-data: "californiacoronavirus.org A 0.0.0.0"
+local-zone: "covid19.sensibus.io" redirect
+local-data: "covid19.sensibus.io A 0.0.0.0"
+local-zone: "boutique-coronavirus.fr" redirect
+local-data: "boutique-coronavirus.fr A 0.0.0.0"
+local-zone: "covid19.santamariabulacan.org" redirect
+local-data: "covid19.santamariabulacan.org A 0.0.0.0"
+local-zone: "api.491aa455.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.491aa455.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronavirus.fivewalls.com.ua" redirect
+local-data: "coronavirus.fivewalls.com.ua A 0.0.0.0"
+local-zone: "www.maladiecoronavirus.fr" redirect
+local-data: "www.maladiecoronavirus.fr A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
