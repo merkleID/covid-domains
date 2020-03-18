@@ -6548,6 +6548,56 @@ local-zone: "coronavirus-report.org" redirect
 local-data: "coronavirus-report.org A 0.0.0.0"
 local-zone: "covid19.kartoteket.as" redirect
 local-data: "covid19.kartoteket.as A 0.0.0.0"
+local-zone: "smiletocoronavirus.com" redirect
+local-data: "smiletocoronavirus.com A 0.0.0.0"
+local-zone: "covid19-monitor.dev-edmard.com" redirect
+local-data: "covid19-monitor.dev-edmard.com A 0.0.0.0"
+local-zone: "covid19live.life" redirect
+local-data: "covid19live.life A 0.0.0.0"
+local-zone: "coronavirus.nae.bet" redirect
+local-data: "coronavirus.nae.bet A 0.0.0.0"
+local-zone: "covid-19.mouachir.com" redirect
+local-data: "covid-19.mouachir.com A 0.0.0.0"
+local-zone: "n95coronavirusmasksale.com" redirect
+local-data: "n95coronavirusmasksale.com A 0.0.0.0"
+local-zone: "mail.4covid19.club" redirect
+local-data: "mail.4covid19.club A 0.0.0.0"
+local-zone: "kartacoronavirus.ru" redirect
+local-data: "kartacoronavirus.ru A 0.0.0.0"
+local-zone: "coronavirusremoval.xyz" redirect
+local-data: "coronavirusremoval.xyz A 0.0.0.0"
+local-zone: "smallbusiness.covid19businesscenter.com" redirect
+local-data: "smallbusiness.covid19businesscenter.com A 0.0.0.0"
+local-zone: "covid-19-status.anexia.com" redirect
+local-data: "covid-19-status.anexia.com A 0.0.0.0"
+local-zone: "countcoronavirus.com" redirect
+local-data: "countcoronavirus.com A 0.0.0.0"
+local-zone: "covid19rapidtest.nl" redirect
+local-data: "covid19rapidtest.nl A 0.0.0.0"
+local-zone: "coronavirus.bike" redirect
+local-data: "coronavirus.bike A 0.0.0.0"
+local-zone: "corona-virus.wiki" redirect
+local-data: "corona-virus.wiki A 0.0.0.0"
+local-zone: "off-coronavirus.ru" redirect
+local-data: "off-coronavirus.ru A 0.0.0.0"
+local-zone: "coronavirus.degree" redirect
+local-data: "coronavirus.degree A 0.0.0.0"
+local-zone: "covid19live.live" redirect
+local-data: "covid19live.live A 0.0.0.0"
+local-zone: "docs.covid19.climb.ac.uk" redirect
+local-data: "docs.covid19.climb.ac.uk A 0.0.0.0"
+local-zone: "dev.covid19.seie-madagascar.org" redirect
+local-data: "dev.covid19.seie-madagascar.org A 0.0.0.0"
+local-zone: "covid19.dataword.id" redirect
+local-data: "covid19.dataword.id A 0.0.0.0"
+local-zone: "covid19.thaich8.com" redirect
+local-data: "covid19.thaich8.com A 0.0.0.0"
+local-zone: "covid19-ressources.fr" redirect
+local-data: "covid19-ressources.fr A 0.0.0.0"
+local-zone: "covid19-ressources.fr" redirect
+local-data: "covid19-ressources.fr A 0.0.0.0"
+local-zone: "covid19.forumkotasehat.bandung.go.id" redirect
+local-data: "covid19.forumkotasehat.bandung.go.id A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -6864,3 +6914,11 @@ local-zone: "stop-covid19.cz" redirect
 local-data: "stop-covid19.cz A 0.0.0.0"
 local-zone: "stop-covid19.cz" redirect
 local-data: "stop-covid19.cz A 0.0.0.0"
+local-zone: "fucoronavirus.co.uk" redirect
+local-data: "fucoronavirus.co.uk A 0.0.0.0"
+local-zone: "covid-19official.com" redirect
+local-data: "covid-19official.com A 0.0.0.0"
+local-zone: "cleaningcovid-19.co.uk" redirect
+local-data: "cleaningcovid-19.co.uk A 0.0.0.0"
+local-zone: "covid-19official.com" redirect
+local-data: "covid-19official.com A 0.0.0.0"
