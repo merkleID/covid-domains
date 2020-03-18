@@ -8,9 +8,14 @@ File 0.0.0.0-domains is for general purpose, usually Unbound
 
 File full-domains-list.txt can be used with Pi-Hole.
 
+File source-domains.txt is the original file as I fetch it on which I do cat, awk, cut.
+
+
 
 Credits:
 
-a simple awk-rework based on covid-related spam-domains list created by https://1984.sh/covid19-domains-feed.txt
+a simple bash-rework based on covid-related spam-domains list created by https://1984.sh/covid19-domains-feed.txt
+
+Crontab updates every 30 mins.
 
 #endofstory
