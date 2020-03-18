@@ -1,6 +1,6 @@
 # covid-domains
 
-DNS domains-blacklist to use with BIND, Unbound, dnsmasq.
+COVID19/coronavirus malware/spam domains dns-blacklist to use with BIND, Unbound, dnsmasq.
 
 It's up to the dns-admin to properly install those lists and configure his own dns resolver.
 
