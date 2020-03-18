@@ -1,10 +1,12 @@
 # covid-domains
 
-DNS blacklist-domain to use with BIND, Unbound, dnsmasq.
+DNS domains-blacklist to use with BIND, Unbound, dnsmasq.
 
 It's up to the dns-admin to properly install those lists and configure his own dns resolver.
 
 File 0.0.0.0-domains is for general purpose, usually Unbound
+
+File full-domains-list.txt can be used with Pi-Hole.
 
 
 Credits:
