@@ -7736,6 +7736,38 @@ local-zone: "coronavirus.fivewalls.com.ua" redirect
 local-data: "coronavirus.fivewalls.com.ua A 0.0.0.0"
 local-zone: "www.maladiecoronavirus.fr" redirect
 local-data: "www.maladiecoronavirus.fr A 0.0.0.0"
+local-zone: "www.coronaviruscovit19.com" redirect
+local-data: "www.coronaviruscovit19.com A 0.0.0.0"
+local-zone: "www.coronavirus-updates.ga" redirect
+local-data: "www.coronavirus-updates.ga A 0.0.0.0"
+local-zone: "mycovid19story.site" redirect
+local-data: "mycovid19story.site A 0.0.0.0"
+local-zone: "www.datoscoronavirus.es" redirect
+local-data: "www.datoscoronavirus.es A 0.0.0.0"
+local-zone: "vencealcoronavirus.buuzeo.com" redirect
+local-data: "vencealcoronavirus.buuzeo.com A 0.0.0.0"
+local-zone: "covid19.ugr.es" redirect
+local-data: "covid19.ugr.es A 0.0.0.0"
+local-zone: "coronavirusu.xyz" redirect
+local-data: "coronavirusu.xyz A 0.0.0.0"
+local-zone: "www.mensajescovid19.org" redirect
+local-data: "www.mensajescovid19.org A 0.0.0.0"
+local-zone: "coronavirusupdateinfo.com" redirect
+local-data: "coronavirusupdateinfo.com A 0.0.0.0"
+local-zone: "romaniaanticoronavirus.com" redirect
+local-data: "romaniaanticoronavirus.com A 0.0.0.0"
+local-zone: "api.coronavirus-detector.com" redirect
+local-data: "api.coronavirus-detector.com A 0.0.0.0"
+local-zone: "covid19.victoryfamily.church" redirect
+local-data: "covid19.victoryfamily.church A 0.0.0.0"
+local-zone: "covid-19.grayghostindustries.com" redirect
+local-data: "covid-19.grayghostindustries.com A 0.0.0.0"
+local-zone: "covid-19kit.store" redirect
+local-data: "covid-19kit.store A 0.0.0.0"
+local-zone: "coronavirus.netbasequid.com" redirect
+local-data: "coronavirus.netbasequid.com A 0.0.0.0"
+local-zone: "covid-19.mch-net.info" redirect
+local-data: "covid-19.mch-net.info A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -8092,6 +8124,8 @@ local-zone: "loveintheageofcoronavirus.net" redirect
 local-data: "loveintheageofcoronavirus.net A 0.0.0.0"
 local-zone: "insidecovid19.com" redirect
 local-data: "insidecovid19.com A 0.0.0.0"
+local-zone: "covid-19official.com" redirect
+local-data: "covid-19official.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
