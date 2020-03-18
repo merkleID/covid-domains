@@ -6658,6 +6658,24 @@ local-zone: "noncovid19.zbox7.eu" redirect
 local-data: "noncovid19.zbox7.eu A 0.0.0.0"
 local-zone: "covid19.cda.ug" redirect
 local-data: "covid19.cda.ug A 0.0.0.0"
+local-zone: "coronavirus.steam.danielmagical.stream" redirect
+local-data: "coronavirus.steam.danielmagical.stream A 0.0.0.0"
+local-zone: "www.bbkcoronavirus.com" redirect
+local-data: "www.bbkcoronavirus.com A 0.0.0.0"
+local-zone: "covid-19.bearos.repl.run" redirect
+local-data: "covid-19.bearos.repl.run A 0.0.0.0"
+local-zone: "londoncoronavirusdeepclean.co.uk" redirect
+local-data: "londoncoronavirusdeepclean.co.uk A 0.0.0.0"
+local-zone: "sars-coronavirus-covid-19.de" redirect
+local-data: "sars-coronavirus-covid-19.de A 0.0.0.0"
+local-zone: "www.coronavirusuk.live" redirect
+local-data: "www.coronavirusuk.live A 0.0.0.0"
+local-zone: "ptcovid19.org" redirect
+local-data: "ptcovid19.org A 0.0.0.0"
+local-zone: "www.coronavirus-india.net" redirect
+local-data: "www.coronavirus-india.net A 0.0.0.0"
+local-zone: "covid19.cloteh.com" redirect
+local-data: "covid19.cloteh.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -6964,6 +6982,10 @@ local-zone: "bbb-covid19.com" redirect
 local-data: "bbb-covid19.com A 0.0.0.0"
 local-zone: "coronaviruserrandsminneapolis.com" redirect
 local-data: "coronaviruserrandsminneapolis.com A 0.0.0.0"
+local-zone: "mamparasprotectorascovid19.es" redirect
+local-data: "mamparasprotectorascovid19.es A 0.0.0.0"
+local-zone: "bbb-covid19.com" redirect
+local-data: "bbb-covid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
