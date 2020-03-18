@@ -7628,6 +7628,34 @@ local-zone: "coronavirusteszt.hu" redirect
 local-data: "coronavirusteszt.hu A 0.0.0.0"
 local-zone: "www.covid19buys.com" redirect
 local-data: "www.covid19buys.com A 0.0.0.0"
+local-zone: "coronavirusmemes.ca" redirect
+local-data: "coronavirusmemes.ca A 0.0.0.0"
+local-zone: "yyccovid19.ca" redirect
+local-data: "yyccovid19.ca A 0.0.0.0"
+local-zone: "maringacontraocovid19.com.br" redirect
+local-data: "maringacontraocovid19.com.br A 0.0.0.0"
+local-zone: "covid19yourstories.com" redirect
+local-data: "covid19yourstories.com A 0.0.0.0"
+local-zone: "covid19misinfo.ca" redirect
+local-data: "covid19misinfo.ca A 0.0.0.0"
+local-zone: "covid1902.gemba360.com" redirect
+local-data: "covid1902.gemba360.com A 0.0.0.0"
+local-zone: "covid19.ortec-group.com" redirect
+local-data: "covid19.ortec-group.com A 0.0.0.0"
+local-zone: "covid19-vaccine.info" redirect
+local-data: "covid19-vaccine.info A 0.0.0.0"
+local-zone: "covid19.phoenixsolutions.io" redirect
+local-data: "covid19.phoenixsolutions.io A 0.0.0.0"
+local-zone: "coronavirus.bangaloaudiovisual.com" redirect
+local-data: "coronavirus.bangaloaudiovisual.com A 0.0.0.0"
+local-zone: "coronavirus.bj" redirect
+local-data: "coronavirus.bj A 0.0.0.0"
+local-zone: "coronavirusteszt.hu" redirect
+local-data: "coronavirusteszt.hu A 0.0.0.0"
+local-zone: "covid1904.gemba360.com" redirect
+local-data: "covid1904.gemba360.com A 0.0.0.0"
+local-zone: "covid-19-status.anexia.com" redirect
+local-data: "covid-19-status.anexia.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -7982,6 +8010,8 @@ local-zone: "anticoronavirustienda.com" redirect
 local-data: "anticoronavirustienda.com A 0.0.0.0"
 local-zone: "loveintheageofcoronavirus.net" redirect
 local-data: "loveintheageofcoronavirus.net A 0.0.0.0"
+local-zone: "insidecovid19.com" redirect
+local-data: "insidecovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
