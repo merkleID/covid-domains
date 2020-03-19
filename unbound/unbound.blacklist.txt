@@ -7916,6 +7916,50 @@ local-zone: "coronavirusaid.net" redirect
 local-data: "coronavirusaid.net A 0.0.0.0"
 local-zone: "coronavirus-health.es" redirect
 local-data: "coronavirus-health.es A 0.0.0.0"
+local-zone: "thecoronavirus.es" redirect
+local-data: "thecoronavirus.es A 0.0.0.0"
+local-zone: "www.tengoelcoronavirus.es" redirect
+local-data: "www.tengoelcoronavirus.es A 0.0.0.0"
+local-zone: "thecovid19.now.sh" redirect
+local-data: "thecovid19.now.sh A 0.0.0.0"
+local-zone: "coronavirusmonitor.eu" redirect
+local-data: "coronavirusmonitor.eu A 0.0.0.0"
+local-zone: "tncovid19.in" redirect
+local-data: "tncovid19.in A 0.0.0.0"
+local-zone: "www.covid19parenting.family.blog" redirect
+local-data: "www.covid19parenting.family.blog A 0.0.0.0"
+local-zone: "api.covid19app.ca" redirect
+local-data: "api.covid19app.ca A 0.0.0.0"
+local-zone: "mail.covid19impactfund.org" redirect
+local-data: "mail.covid19impactfund.org A 0.0.0.0"
+local-zone: "covid19.ihopu.org" redirect
+local-data: "covid19.ihopu.org A 0.0.0.0"
+local-zone: "chiba-covid19.mypl.net" redirect
+local-data: "chiba-covid19.mypl.net A 0.0.0.0"
+local-zone: "mail.globalcovid19live.com" redirect
+local-data: "mail.globalcovid19live.com A 0.0.0.0"
+local-zone: "anticovid19.fr" redirect
+local-data: "anticovid19.fr A 0.0.0.0"
+local-zone: "prevencioncoronavirus.gabygamboa.mx" redirect
+local-data: "prevencioncoronavirus.gabygamboa.mx A 0.0.0.0"
+local-zone: "covid-19-detector.onrender.com" redirect
+local-data: "covid-19-detector.onrender.com A 0.0.0.0"
+local-zone: "coronavirusreading.com" redirect
+local-data: "coronavirusreading.com A 0.0.0.0"
+local-zone: "telemedecine-covid19.esante.gouv.fr" redirect
+local-data: "telemedecine-covid19.esante.gouv.fr A 0.0.0.0"
+local-zone: "coronavirustraveladvice.com" redirect
+local-data: "coronavirustraveladvice.com A 0.0.0.0"
+local-zone: "intermaincovid19.intermain.com.au" redirect
+local-data: "intermaincovid19.intermain.com.au A 0.0.0.0"
+local-zone: "prevencioncoronavirus.gabygamboa.mx" redirect
+local-data: "prevencioncoronavirus.gabygamboa.mx A 0.0.0.0"
+local-zone: "coronavirusreading.org" redirect
+local-data: "coronavirusreading.org A 0.0.0.0"
+local-zone: "www.symptome-coronavirus.fr" redirect
+local-data: "www.symptome-coronavirus.fr A 0.0.0.0"
+local-zone: "stop-covid19.fr" redirect
+local-data: "stop-covid19.fr A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
