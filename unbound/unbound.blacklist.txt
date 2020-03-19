@@ -8664,6 +8664,40 @@ local-zone: "coronavirustreatment.co.za.bambam.co.za" redirect
 local-data: "coronavirustreatment.co.za.bambam.co.za A 0.0.0.0"
 local-zone: "covid19garance.cz" redirect
 local-data: "covid19garance.cz A 0.0.0.0"
+local-zone: "uat.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "uat.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "api.uat.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.uat.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid-19-stat.com" redirect
+local-data: "covid-19-stat.com A 0.0.0.0"
+local-zone: "covid19.noi.testingmachine.eu" redirect
+local-data: "covid19.noi.testingmachine.eu A 0.0.0.0"
+local-zone: "covid19podpora.cz" redirect
+local-data: "covid19podpora.cz A 0.0.0.0"
+local-zone: "09ac5126.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "09ac5126.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronavirus.arzt.at" redirect
+local-data: "coronavirus.arzt.at A 0.0.0.0"
+local-zone: "covid-19dotace.com" redirect
+local-data: "covid-19dotace.com A 0.0.0.0"
+local-zone: "covid19garance.com" redirect
+local-data: "covid19garance.com A 0.0.0.0"
+local-zone: "api.09ac5126.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.09ac5126.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "independants-coronavirus.info" redirect
+local-data: "independants-coronavirus.info A 0.0.0.0"
+local-zone: "covid19urgences.360medics-pro.com" redirect
+local-data: "covid19urgences.360medics-pro.com A 0.0.0.0"
+local-zone: "coronavirusinfolive.com" redirect
+local-data: "coronavirusinfolive.com A 0.0.0.0"
+local-zone: "comoprevenircoronavirus.com" redirect
+local-data: "comoprevenircoronavirus.com A 0.0.0.0"
+local-zone: "www.covid19check.net" redirect
+local-data: "www.covid19check.net A 0.0.0.0"
+local-zone: "covid19check.net" redirect
+local-data: "covid19check.net A 0.0.0.0"
+local-zone: "servicos.covid19eu.pt" redirect
+local-data: "servicos.covid19eu.pt A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
