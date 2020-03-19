@@ -8152,6 +8152,38 @@ local-zone: "www.gocorona-virus.com" redirect
 local-data: "www.gocorona-virus.com A 0.0.0.0"
 local-zone: "2019-ncov.factube.com" redirect
 local-data: "2019-ncov.factube.com A 0.0.0.0"
+local-zone: "solution-coronavirus.com" redirect
+local-data: "solution-coronavirus.com A 0.0.0.0"
+local-zone: "help.covid19.tn" redirect
+local-data: "help.covid19.tn A 0.0.0.0"
+local-zone: "covid19.soprarpower.com" redirect
+local-data: "covid19.soprarpower.com A 0.0.0.0"
+local-zone: "coronaviruslive.stream" redirect
+local-data: "coronaviruslive.stream A 0.0.0.0"
+local-zone: "covid19map.tech" redirect
+local-data: "covid19map.tech A 0.0.0.0"
+local-zone: "coronavirus.gob.mx" redirect
+local-data: "coronavirus.gob.mx A 0.0.0.0"
+local-zone: "coronavirus.org.mx" redirect
+local-data: "coronavirus.org.mx A 0.0.0.0"
+local-zone: "anticoronaviruswholesale.com" redirect
+local-data: "anticoronaviruswholesale.com A 0.0.0.0"
+local-zone: "ilovecoronavirus.cf" redirect
+local-data: "ilovecoronavirus.cf A 0.0.0.0"
+local-zone: "coronavirussurvivalapp.com" redirect
+local-data: "coronavirussurvivalapp.com A 0.0.0.0"
+local-zone: "coronavirussurvival.club" redirect
+local-data: "coronavirussurvival.club A 0.0.0.0"
+local-zone: "covid-19-detector.onrender.com" redirect
+local-data: "covid-19-detector.onrender.com A 0.0.0.0"
+local-zone: "covid-19treatment.co.za.bambam.co.za" redirect
+local-data: "covid-19treatment.co.za.bambam.co.za A 0.0.0.0"
+local-zone: "covid-19symptoms.co.za.bambam.co.za" redirect
+local-data: "covid-19symptoms.co.za.bambam.co.za A 0.0.0.0"
+local-zone: "coronavirusvaccine.club" redirect
+local-data: "coronavirusvaccine.club A 0.0.0.0"
+local-zone: "covid19livestats.online" redirect
+local-data: "covid19livestats.online A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
