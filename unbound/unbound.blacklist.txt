@@ -9448,6 +9448,22 @@ local-zone: "www.coronavirusfog.com" redirect
 local-data: "www.coronavirusfog.com A 0.0.0.0"
 local-zone: "covid-19.beecardia.com" redirect
 local-data: "covid-19.beecardia.com A 0.0.0.0"
+local-zone: "www.coronavirusdispatches.com" redirect
+local-data: "www.coronavirusdispatches.com A 0.0.0.0"
+local-zone: "covid19.myserviceagent.net" redirect
+local-data: "covid19.myserviceagent.net A 0.0.0.0"
+local-zone: "coronavirus.ufpi.edu.br" redirect
+local-data: "coronavirus.ufpi.edu.br A 0.0.0.0"
+local-zone: "covid19.wellfoundation.org.nz" redirect
+local-data: "covid19.wellfoundation.org.nz A 0.0.0.0"
+local-zone: "protectyourselfromcovid19.com" redirect
+local-data: "protectyourselfromcovid19.com A 0.0.0.0"
+local-zone: "pharmabel-test-coronavirus.com" redirect
+local-data: "pharmabel-test-coronavirus.com A 0.0.0.0"
+local-zone: "neutralizarcoronavirus.com" redirect
+local-data: "neutralizarcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusdatamap.com" redirect
+local-data: "coronavirusdatamap.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -9872,6 +9888,8 @@ local-zone: "coronaviruscol.com" redirect
 local-data: "coronaviruscol.com A 0.0.0.0"
 local-zone: "covid19-in-america.com" redirect
 local-data: "covid19-in-america.com A 0.0.0.0"
+local-zone: "medicoscoronavirus.com" redirect
+local-data: "medicoscoronavirus.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
