@@ -8924,6 +8924,54 @@ local-zone: "covid19-status.info" redirect
 local-data: "covid19-status.info A 0.0.0.0"
 local-zone: "coronavirusweb.site" redirect
 local-data: "coronavirusweb.site A 0.0.0.0"
+local-zone: "covid-19-killers.com" redirect
+local-data: "covid-19-killers.com A 0.0.0.0"
+local-zone: "covid-19facts.com" redirect
+local-data: "covid-19facts.com A 0.0.0.0"
+local-zone: "we-will-beat-coronavirus.com" redirect
+local-data: "we-will-beat-coronavirus.com A 0.0.0.0"
+local-zone: "coronavirus.sevenstar.org" redirect
+local-data: "coronavirus.sevenstar.org A 0.0.0.0"
+local-zone: "coronavirus.todosplanosdesaude.com.br" redirect
+local-data: "coronavirus.todosplanosdesaude.com.br A 0.0.0.0"
+local-zone: "covid19.cheart.io" redirect
+local-data: "covid19.cheart.io A 0.0.0.0"
+local-zone: "www.maskanti-covid19.com" redirect
+local-data: "www.maskanti-covid19.com A 0.0.0.0"
+local-zone: "maskanti-covid19.com" redirect
+local-data: "maskanti-covid19.com A 0.0.0.0"
+local-zone: "www.masques-coronavirus.brussels" redirect
+local-data: "www.masques-coronavirus.brussels A 0.0.0.0"
+local-zone: "covid19.lemondedunumerique.com" redirect
+local-data: "covid19.lemondedunumerique.com A 0.0.0.0"
+local-zone: "coronavirus.churchmutual.com" redirect
+local-data: "coronavirus.churchmutual.com A 0.0.0.0"
+local-zone: "coronavirusomg.sirpzim.org" redirect
+local-data: "coronavirusomg.sirpzim.org A 0.0.0.0"
+local-zone: "imagingcovid19.quibim.com" redirect
+local-data: "imagingcovid19.quibim.com A 0.0.0.0"
+local-zone: "covid19scanner.widya-analytic.com" redirect
+local-data: "covid19scanner.widya-analytic.com A 0.0.0.0"
+local-zone: "frontend.ml-covid19.5eb5b42e83d998e4.convox.cloud" redirect
+local-data: "frontend.ml-covid19.5eb5b42e83d998e4.convox.cloud A 0.0.0.0"
+local-zone: "coronaviruswarroom.org" redirect
+local-data: "coronaviruswarroom.org A 0.0.0.0"
+local-zone: "www.attestation-deplacement-covid-19.fr" redirect
+local-data: "www.attestation-deplacement-covid-19.fr A 0.0.0.0"
+local-zone: "www.covid19legalaid.com" redirect
+local-data: "www.covid19legalaid.com A 0.0.0.0"
+local-zone: "covid19advisor.com" redirect
+local-data: "covid19advisor.com A 0.0.0.0"
+local-zone: "covid-19.xxx-wa.com" redirect
+local-data: "covid-19.xxx-wa.com A 0.0.0.0"
+local-zone: "www.coronaviruslegaldebtrelief.com" redirect
+local-data: "www.coronaviruslegaldebtrelief.com A 0.0.0.0"
+local-zone: "coronaviruslegaldebtrelief.com" redirect
+local-data: "coronaviruslegaldebtrelief.com A 0.0.0.0"
+local-zone: "covid19.getambee.com" redirect
+local-data: "covid19.getambee.com A 0.0.0.0"
+local-zone: "rapidtestscovid19.com" redirect
+local-data: "rapidtestscovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
