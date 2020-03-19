@@ -8508,6 +8508,56 @@ local-zone: "covid19-stg.ilabsea.org" redirect
 local-data: "covid19-stg.ilabsea.org A 0.0.0.0"
 local-zone: "a8d2abe3.test.covid-19.forms.digital.nhs.uk" redirect
 local-data: "a8d2abe3.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "proformula-coronavirus.eu" redirect
+local-data: "proformula-coronavirus.eu A 0.0.0.0"
+local-zone: "covid-19.medapps.com.au" redirect
+local-data: "covid-19.medapps.com.au A 0.0.0.0"
+local-zone: "colombiavscovid19.com" redirect
+local-data: "colombiavscovid19.com A 0.0.0.0"
+local-zone: "covid19.sudhir.dev" redirect
+local-data: "covid19.sudhir.dev A 0.0.0.0"
+local-zone: "coronavirus.goksallarinsaat.com" redirect
+local-data: "coronavirus.goksallarinsaat.com A 0.0.0.0"
+local-zone: "corona-virus.uz" redirect
+local-data: "corona-virus.uz A 0.0.0.0"
+local-zone: "ncov19.wiki" redirect
+local-data: "ncov19.wiki A 0.0.0.0"
+local-zone: "coronavirusmask.world" redirect
+local-data: "coronavirusmask.world A 0.0.0.0"
+local-zone: "anchoragecovid19.com" redirect
+local-data: "anchoragecovid19.com A 0.0.0.0"
+local-zone: "drfvh.coronavirusaware.xyz" redirect
+local-data: "drfvh.coronavirusaware.xyz A 0.0.0.0"
+local-zone: "covid-19-stats.si" redirect
+local-data: "covid-19-stats.si A 0.0.0.0"
+local-zone: "coronavirus-stata.ru" redirect
+local-data: "coronavirus-stata.ru A 0.0.0.0"
+local-zone: "ajutorcoronavirus.ro" redirect
+local-data: "ajutorcoronavirus.ro A 0.0.0.0"
+local-zone: "www.appelenrantcovid19.net.ua" redirect
+local-data: "www.appelenrantcovid19.net.ua A 0.0.0.0"
+local-zone: "covid19.irtibatmerkezi.com" redirect
+local-data: "covid19.irtibatmerkezi.com A 0.0.0.0"
+local-zone: "coronavirusonlinetesting.com" redirect
+local-data: "coronavirusonlinetesting.com A 0.0.0.0"
+local-zone: "www.covid19kidsbook.com" redirect
+local-data: "www.covid19kidsbook.com A 0.0.0.0"
+local-zone: "covid19.sudhir.dev" redirect
+local-data: "covid19.sudhir.dev A 0.0.0.0"
+local-zone: "maharashtracovid19helpline.infinycorp.com" redirect
+local-data: "maharashtracovid19helpline.infinycorp.com A 0.0.0.0"
+local-zone: "covid-19onlinetesting.com" redirect
+local-data: "covid-19onlinetesting.com A 0.0.0.0"
+local-zone: "covid19risk.info" redirect
+local-data: "covid19risk.info A 0.0.0.0"
+local-zone: "dev3.covid19.seie-madagascar.org" redirect
+local-data: "dev3.covid19.seie-madagascar.org A 0.0.0.0"
+local-zone: "api.covid19.ketapangkab.go.id" redirect
+local-data: "api.covid19.ketapangkab.go.id A 0.0.0.0"
+local-zone: "covid19.inpsycho.ru" redirect
+local-data: "covid19.inpsycho.ru A 0.0.0.0"
+local-zone: "privatecoronavirustests.co.uk" redirect
+local-data: "privatecoronavirustests.co.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
