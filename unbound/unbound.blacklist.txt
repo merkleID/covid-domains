@@ -9524,6 +9524,26 @@ local-zone: "tudosobrecoronavirus.org" redirect
 local-data: "tudosobrecoronavirus.org A 0.0.0.0"
 local-zone: "covid-19.layla.care" redirect
 local-data: "covid-19.layla.care A 0.0.0.0"
+local-zone: "covid19.ddrobotec.com" redirect
+local-data: "covid19.ddrobotec.com A 0.0.0.0"
+local-zone: "covid19.centreesanteinspci.org" redirect
+local-data: "covid19.centreesanteinspci.org A 0.0.0.0"
+local-zone: "covid19.bellcreativeservices.com" redirect
+local-data: "covid19.bellcreativeservices.com A 0.0.0.0"
+local-zone: "colombiavscovid19.org" redirect
+local-data: "colombiavscovid19.org A 0.0.0.0"
+local-zone: "coronavirusflu.castleepisodes.com" redirect
+local-data: "coronavirusflu.castleepisodes.com A 0.0.0.0"
+local-zone: "www.emorycovid19.org" redirect
+local-data: "www.emorycovid19.org A 0.0.0.0"
+local-zone: "coronavirus.cardiol.online" redirect
+local-data: "coronavirus.cardiol.online A 0.0.0.0"
+local-zone: "www.sd26covid19.com" redirect
+local-data: "www.sd26covid19.com A 0.0.0.0"
+local-zone: "covid19.wradvisors.com" redirect
+local-data: "covid19.wradvisors.com A 0.0.0.0"
+local-zone: "sfcovid19solutions.com" redirect
+local-data: "sfcovid19solutions.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect

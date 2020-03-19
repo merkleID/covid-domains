@@ -4761,6 +4761,16 @@ zone "www.goodcoronavirus.news" { type master; notify no; file null.zone.file; }
 zone "covid19.webislam.id" { type master; notify no; file null.zone.file; };
 zone "tudosobrecoronavirus.org" { type master; notify no; file null.zone.file; };
 zone "covid-19.layla.care" { type master; notify no; file null.zone.file; };
+zone "covid19.ddrobotec.com" { type master; notify no; file null.zone.file; };
+zone "covid19.centreesanteinspci.org" { type master; notify no; file null.zone.file; };
+zone "covid19.bellcreativeservices.com" { type master; notify no; file null.zone.file; };
+zone "colombiavscovid19.org" { type master; notify no; file null.zone.file; };
+zone "coronavirusflu.castleepisodes.com" { type master; notify no; file null.zone.file; };
+zone "www.emorycovid19.org" { type master; notify no; file null.zone.file; };
+zone "coronavirus.cardiol.online" { type master; notify no; file null.zone.file; };
+zone "www.sd26covid19.com" { type master; notify no; file null.zone.file; };
+zone "covid19.wradvisors.com" { type master; notify no; file null.zone.file; };
+zone "sfcovid19solutions.com" { type master; notify no; file null.zone.file; };
 zone "anticoronavirus.cloud" { type master; notify no; file null.zone.file; };
 zone "anticoronavirustienda.com" { type master; notify no; file null.zone.file; };
 zone "californiacoronaviruslaw.com" { type master; notify no; file null.zone.file; };
