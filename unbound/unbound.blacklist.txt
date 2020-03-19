@@ -8558,6 +8558,62 @@ local-zone: "covid19.inpsycho.ru" redirect
 local-data: "covid19.inpsycho.ru A 0.0.0.0"
 local-zone: "privatecoronavirustests.co.uk" redirect
 local-data: "privatecoronavirustests.co.uk A 0.0.0.0"
+local-zone: "covid19.inpsycho.ru" redirect
+local-data: "covid19.inpsycho.ru A 0.0.0.0"
+local-zone: "privatecoronavirustests.co.uk" redirect
+local-data: "privatecoronavirustests.co.uk A 0.0.0.0"
+local-zone: "covid19-law.amelitacademy.com" redirect
+local-data: "covid19-law.amelitacademy.com A 0.0.0.0"
+local-zone: "www.maps-covid19.ru" redirect
+local-data: "www.maps-covid19.ru A 0.0.0.0"
+local-zone: "afectadosporelcovid19.com" redirect
+local-data: "afectadosporelcovid19.com A 0.0.0.0"
+local-zone: "covid19fc.com" redirect
+local-data: "covid19fc.com A 0.0.0.0"
+local-zone: "d363ac41.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "d363ac41.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid-19mrnavaccine.com" redirect
+local-data: "covid-19mrnavaccine.com A 0.0.0.0"
+local-zone: "api.d363ac41.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.d363ac41.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronaviruscomfort.com" redirect
+local-data: "coronaviruscomfort.com A 0.0.0.0"
+local-zone: "coronavirusqanda.com" redirect
+local-data: "coronavirusqanda.com A 0.0.0.0"
+local-zone: "covid-19job.com" redirect
+local-data: "covid-19job.com A 0.0.0.0"
+local-zone: "491aa455.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "491aa455.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "api.d363ac41.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.d363ac41.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "d363ac41.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "d363ac41.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "api.491aa455.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.491aa455.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19.gov.bs" redirect
+local-data: "covid19.gov.bs A 0.0.0.0"
+local-zone: "bilton-coronavirus-support.zendesk.com" redirect
+local-data: "bilton-coronavirus-support.zendesk.com A 0.0.0.0"
+local-zone: "www.coronavirustest.pw" redirect
+local-data: "www.coronavirustest.pw A 0.0.0.0"
+local-zone: "covid19vaccine.ie" redirect
+local-data: "covid19vaccine.ie A 0.0.0.0"
+local-zone: "comoprevenircoronavirus.com" redirect
+local-data: "comoprevenircoronavirus.com A 0.0.0.0"
+local-zone: "bilton-coronavirus-support.zendesk.com" redirect
+local-data: "bilton-coronavirus-support.zendesk.com A 0.0.0.0"
+local-zone: "www.coronavirusblog.net" redirect
+local-data: "www.coronavirusblog.net A 0.0.0.0"
+local-zone: "crossfitcovid19.com" redirect
+local-data: "crossfitcovid19.com A 0.0.0.0"
+local-zone: "coronavirusblog.net" redirect
+local-data: "coronavirusblog.net A 0.0.0.0"
+local-zone: "covid19masks.site" redirect
+local-data: "covid19masks.site A 0.0.0.0"
+local-zone: "covid19test.app" redirect
+local-data: "covid19test.app A 0.0.0.0"
+local-zone: "medicineforcoronavirus.com" redirect
+local-data: "medicineforcoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
