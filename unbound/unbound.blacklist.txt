@@ -9464,6 +9464,40 @@ local-zone: "neutralizarcoronavirus.com" redirect
 local-data: "neutralizarcoronavirus.com A 0.0.0.0"
 local-zone: "coronavirusdatamap.com" redirect
 local-data: "coronavirusdatamap.com A 0.0.0.0"
+local-zone: "coronaviruskitworldwide.org" redirect
+local-data: "coronaviruskitworldwide.org A 0.0.0.0"
+local-zone: "coronavirusnedir.733-8544.com" redirect
+local-data: "coronavirusnedir.733-8544.com A 0.0.0.0"
+local-zone: "coronavirusoutbreak.tips" redirect
+local-data: "coronavirusoutbreak.tips A 0.0.0.0"
+local-zone: "covid19.isatafrica.com" redirect
+local-data: "covid19.isatafrica.com A 0.0.0.0"
+local-zone: "covid19homeschoolers.com" redirect
+local-data: "covid19homeschoolers.com A 0.0.0.0"
+local-zone: "appcoronavirusalert.com" redirect
+local-data: "appcoronavirusalert.com A 0.0.0.0"
+local-zone: "appcoronavirusalert.it" redirect
+local-data: "appcoronavirusalert.it A 0.0.0.0"
+local-zone: "covid19.nj.gov" redirect
+local-data: "covid19.nj.gov A 0.0.0.0"
+local-zone: "worldcoronavirus.org" redirect
+local-data: "worldcoronavirus.org A 0.0.0.0"
+local-zone: "coronavirus-ready.com" redirect
+local-data: "coronavirus-ready.com A 0.0.0.0"
+local-zone: "corona-virus-daily-update.softwebbd.com" redirect
+local-data: "corona-virus-daily-update.softwebbd.com A 0.0.0.0"
+local-zone: "covid19mx.ml" redirect
+local-data: "covid19mx.ml A 0.0.0.0"
+local-zone: "coronavirushelp.se" redirect
+local-data: "coronavirushelp.se A 0.0.0.0"
+local-zone: "www.coronavirushelp.se" redirect
+local-data: "www.coronavirushelp.se A 0.0.0.0"
+local-zone: "coronavirusloansnow.com" redirect
+local-data: "coronavirusloansnow.com A 0.0.0.0"
+local-zone: "covid19.xtrp.io" redirect
+local-data: "covid19.xtrp.io A 0.0.0.0"
+local-zone: "shopcovid-19.com" redirect
+local-data: "shopcovid-19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -9890,6 +9924,8 @@ local-zone: "covid19-in-america.com" redirect
 local-data: "covid19-in-america.com A 0.0.0.0"
 local-zone: "medicoscoronavirus.com" redirect
 local-data: "medicoscoronavirus.com A 0.0.0.0"
+local-zone: "covid-19-staging.dnastack.com" redirect
+local-data: "covid-19-staging.dnastack.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
