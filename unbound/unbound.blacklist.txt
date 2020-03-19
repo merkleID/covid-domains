@@ -7996,6 +7996,74 @@ local-zone: "www.2020coronavirus.org" redirect
 local-data: "www.2020coronavirus.org A 0.0.0.0"
 local-zone: "covid19docu.com" redirect
 local-data: "covid19docu.com A 0.0.0.0"
+local-zone: "www.coronavirusreliefproject.org" redirect
+local-data: "www.coronavirusreliefproject.org A 0.0.0.0"
+local-zone: "italy.coronavirusinfections.org" redirect
+local-data: "italy.coronavirusinfections.org A 0.0.0.0"
+local-zone: "coronavirusscreening.org" redirect
+local-data: "coronavirusscreening.org A 0.0.0.0"
+local-zone: "coronavirusdefence.org" redirect
+local-data: "coronavirusdefence.org A 0.0.0.0"
+local-zone: "coronavirusla.org" redirect
+local-data: "coronavirusla.org A 0.0.0.0"
+local-zone: "covid-19mask.org" redirect
+local-data: "covid-19mask.org A 0.0.0.0"
+local-zone: "covid19-mobilisation.org" redirect
+local-data: "covid19-mobilisation.org A 0.0.0.0"
+local-zone: "covid19protect.org" redirect
+local-data: "covid19protect.org A 0.0.0.0"
+local-zone: "www.covid19-and.org" redirect
+local-data: "www.covid19-and.org A 0.0.0.0"
+local-zone: "www.covid19helpwa.org" redirect
+local-data: "www.covid19helpwa.org A 0.0.0.0"
+local-zone: "covid19blog.org" redirect
+local-data: "covid19blog.org A 0.0.0.0"
+local-zone: "www.covid19canada.org" redirect
+local-data: "www.covid19canada.org A 0.0.0.0"
+local-zone: "coronavirushandsanitizer.org" redirect
+local-data: "coronavirushandsanitizer.org A 0.0.0.0"
+local-zone: "www.covid-19-debt-relief.org" redirect
+local-data: "www.covid-19-debt-relief.org A 0.0.0.0"
+local-zone: "coronavirus.haus" redirect
+local-data: "coronavirus.haus A 0.0.0.0"
+local-zone: "covid19canada.org" redirect
+local-data: "covid19canada.org A 0.0.0.0"
+local-zone: "www.covid19chl.org" redirect
+local-data: "www.covid19chl.org A 0.0.0.0"
+local-zone: "covid19outbreaks.org" redirect
+local-data: "covid19outbreaks.org A 0.0.0.0"
+local-zone: "www.covid-19workinggroupnyc.org" redirect
+local-data: "www.covid-19workinggroupnyc.org A 0.0.0.0"
+local-zone: "covid19.cnc.org.hk" redirect
+local-data: "covid19.cnc.org.hk A 0.0.0.0"
+local-zone: "coronavirusov.ru" redirect
+local-data: "coronavirusov.ru A 0.0.0.0"
+local-zone: "do-i-have-coronavirus.org" redirect
+local-data: "do-i-have-coronavirus.org A 0.0.0.0"
+local-zone: "video.covid19webapp.com" redirect
+local-data: "video.covid19webapp.com A 0.0.0.0"
+local-zone: "ncov19.us" redirect
+local-data: "ncov19.us A 0.0.0.0"
+local-zone: "coronavirussupportseries.com" redirect
+local-data: "coronavirussupportseries.com A 0.0.0.0"
+local-zone: "coronavirusbusinessguide.com" redirect
+local-data: "coronavirusbusinessguide.com A 0.0.0.0"
+local-zone: "covid19innovations.org" redirect
+local-data: "covid19innovations.org A 0.0.0.0"
+local-zone: "fuckcovid19.info" redirect
+local-data: "fuckcovid19.info A 0.0.0.0"
+local-zone: "topcovid19necessities.com" redirect
+local-data: "topcovid19necessities.com A 0.0.0.0"
+local-zone: "tech4covid19.org" redirect
+local-data: "tech4covid19.org A 0.0.0.0"
+local-zone: "coronavirus.theinsiders.org" redirect
+local-data: "coronavirus.theinsiders.org A 0.0.0.0"
+local-zone: "api.covid19app.ca" redirect
+local-data: "api.covid19app.ca A 0.0.0.0"
+local-zone: "covid-19srilanka.info" redirect
+local-data: "covid-19srilanka.info A 0.0.0.0"
+local-zone: "www.topcovid19necessities.com" redirect
+local-data: "www.topcovid19necessities.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -8358,6 +8426,12 @@ local-zone: "copingwithcoronavirus.co.uk" redirect
 local-data: "copingwithcoronavirus.co.uk A 0.0.0.0"
 local-zone: "ctcovid19.com" redirect
 local-data: "ctcovid19.com A 0.0.0.0"
+local-zone: "coronavirus-free.org" redirect
+local-data: "coronavirus-free.org A 0.0.0.0"
+local-zone: "coronavirusupdates247.org" redirect
+local-data: "coronavirusupdates247.org A 0.0.0.0"
+local-zone: "coronavirusultimahora.org" redirect
+local-data: "coronavirusultimahora.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
