@@ -4440,6 +4440,15 @@ local-zone: "novocoronavirus.recife.pe.gov.br" static
 local-zone: "covid19.bizumy.com" static
 local-zone: "www.covid19-bih.info" static
 local-zone: "covid19fun.com" static
+local-zone: "covid19.baznas.go.id" static
+local-zone: "covid19-test.id" static
+local-zone: "aseancovid19.now.sh" static
+local-zone: "covid19fun.com" static
+local-zone: "municipales-covid19.com" static
+local-zone: "corona-virus-map.news" static
+local-zone: "famososcomcoronavirus.com.br" static
+local-zone: "covid19warroom.org" static
+local-zone: "covid19.chu-fes.ma" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static

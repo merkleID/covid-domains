@@ -8882,6 +8882,24 @@ local-zone: "www.covid19-bih.info" redirect
 local-data: "www.covid19-bih.info A 0.0.0.0"
 local-zone: "covid19fun.com" redirect
 local-data: "covid19fun.com A 0.0.0.0"
+local-zone: "covid19.baznas.go.id" redirect
+local-data: "covid19.baznas.go.id A 0.0.0.0"
+local-zone: "covid19-test.id" redirect
+local-data: "covid19-test.id A 0.0.0.0"
+local-zone: "aseancovid19.now.sh" redirect
+local-data: "aseancovid19.now.sh A 0.0.0.0"
+local-zone: "covid19fun.com" redirect
+local-data: "covid19fun.com A 0.0.0.0"
+local-zone: "municipales-covid19.com" redirect
+local-data: "municipales-covid19.com A 0.0.0.0"
+local-zone: "corona-virus-map.news" redirect
+local-data: "corona-virus-map.news A 0.0.0.0"
+local-zone: "famososcomcoronavirus.com.br" redirect
+local-data: "famososcomcoronavirus.com.br A 0.0.0.0"
+local-zone: "covid19warroom.org" redirect
+local-data: "covid19warroom.org A 0.0.0.0"
+local-zone: "covid19.chu-fes.ma" redirect
+local-data: "covid19.chu-fes.ma A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
