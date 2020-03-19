@@ -9570,6 +9570,48 @@ local-zone: "anticovid19.life" redirect
 local-data: "anticovid19.life A 0.0.0.0"
 local-zone: "covid19.justfunding.org" redirect
 local-data: "covid19.justfunding.org A 0.0.0.0"
+local-zone: "bilton-coronavirus-support.zendesk.com" redirect
+local-data: "bilton-coronavirus-support.zendesk.com A 0.0.0.0"
+local-zone: "warncovid-19.services" redirect
+local-data: "warncovid-19.services A 0.0.0.0"
+local-zone: "www.coronavirusblog.net" redirect
+local-data: "www.coronavirusblog.net A 0.0.0.0"
+local-zone: "gestionescoronavirus.es" redirect
+local-data: "gestionescoronavirus.es A 0.0.0.0"
+local-zone: "coronavirus.vselvaraj.com" redirect
+local-data: "coronavirus.vselvaraj.com A 0.0.0.0"
+local-zone: "covid19.inspirationlab.org" redirect
+local-data: "covid19.inspirationlab.org A 0.0.0.0"
+local-zone: "covid-19.devlabs.pro" redirect
+local-data: "covid-19.devlabs.pro A 0.0.0.0"
+local-zone: "webcovid19live.com" redirect
+local-data: "webcovid19live.com A 0.0.0.0"
+local-zone: "coronavirussurvival.co" redirect
+local-data: "coronavirussurvival.co A 0.0.0.0"
+local-zone: "webmail.covid19.gouv.tg" redirect
+local-data: "webmail.covid19.gouv.tg A 0.0.0.0"
+local-zone: "worldwidewebcovid19.com" redirect
+local-data: "worldwidewebcovid19.com A 0.0.0.0"
+local-zone: "w3coronavirus.com" redirect
+local-data: "w3coronavirus.com A 0.0.0.0"
+local-zone: "thecoronavirusaustralia.com" redirect
+local-data: "thecoronavirusaustralia.com A 0.0.0.0"
+local-zone: "worldwidewebcoronavirus.org" redirect
+local-data: "worldwidewebcoronavirus.org A 0.0.0.0"
+local-zone: "worldwidewebcoronavirus.com" redirect
+local-data: "worldwidewebcoronavirus.com A 0.0.0.0"
+local-zone: "worldwidewebcoronavirus.net" redirect
+local-data: "worldwidewebcoronavirus.net A 0.0.0.0"
+local-zone: "w3covid19.com" redirect
+local-data: "w3covid19.com A 0.0.0.0"
+local-zone: "w3coronavirus.org" redirect
+local-data: "w3coronavirus.org A 0.0.0.0"
+local-zone: "w3covid-19.com" redirect
+local-data: "w3covid-19.com A 0.0.0.0"
+local-zone: "w3coronavirus.net" redirect
+local-data: "w3coronavirus.net A 0.0.0.0"
+local-zone: "coronavirus.garanhuns.pe.gov.br" redirect
+local-data: "coronavirus.garanhuns.pe.gov.br A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -10000,6 +10042,8 @@ local-zone: "covid-19-staging.dnastack.com" redirect
 local-data: "covid-19-staging.dnastack.com A 0.0.0.0"
 local-zone: "covid19hometestkits.co.uk" redirect
 local-data: "covid19hometestkits.co.uk A 0.0.0.0"
+local-zone: "coronavirus-markt.de" redirect
+local-data: "coronavirus-markt.de A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
