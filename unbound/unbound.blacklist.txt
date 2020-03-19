@@ -7852,6 +7852,44 @@ local-zone: "coronavirus.suara.coop" redirect
 local-data: "coronavirus.suara.coop A 0.0.0.0"
 local-zone: "stopcovid19.e-toda.jp" redirect
 local-data: "stopcovid19.e-toda.jp A 0.0.0.0"
+local-zone: "businessideascovid19.com" redirect
+local-data: "businessideascovid19.com A 0.0.0.0"
+local-zone: "covid19-fiji.com" redirect
+local-data: "covid19-fiji.com A 0.0.0.0"
+local-zone: "covid-19.pkoh-ac.com" redirect
+local-data: "covid-19.pkoh-ac.com A 0.0.0.0"
+local-zone: "covid19api.com" redirect
+local-data: "covid19api.com A 0.0.0.0"
+local-zone: "covid-19-map.live" redirect
+local-data: "covid-19-map.live A 0.0.0.0"
+local-zone: "www.covid-19-map.live" redirect
+local-data: "www.covid-19-map.live A 0.0.0.0"
+local-zone: "coronaviruscongolara.kasaiconnect.com" redirect
+local-data: "coronaviruscongolara.kasaiconnect.com A 0.0.0.0"
+local-zone: "securitycovid19info.com" redirect
+local-data: "securitycovid19info.com A 0.0.0.0"
+local-zone: "covid19calc.me" redirect
+local-data: "covid19calc.me A 0.0.0.0"
+local-zone: "covid-19sbaloansnow.com" redirect
+local-data: "covid-19sbaloansnow.com A 0.0.0.0"
+local-zone: "www.thecoronavirustales.com" redirect
+local-data: "www.thecoronavirustales.com A 0.0.0.0"
+local-zone: "covid19-fiji.com" redirect
+local-data: "covid19-fiji.com A 0.0.0.0"
+local-zone: "chroniclingcoronavirus.com" redirect
+local-data: "chroniclingcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirussurvivalguide.info" redirect
+local-data: "coronavirussurvivalguide.info A 0.0.0.0"
+local-zone: "coronaviruskit.jamesblews.com" redirect
+local-data: "coronaviruskit.jamesblews.com A 0.0.0.0"
+local-zone: "coronaviruskitsite.jamesblews.com" redirect
+local-data: "coronaviruskitsite.jamesblews.com A 0.0.0.0"
+local-zone: "coronavirussurvivalguide.site" redirect
+local-data: "coronavirussurvivalguide.site A 0.0.0.0"
+local-zone: "help.covid-19team.com" redirect
+local-data: "help.covid-19team.com A 0.0.0.0"
+local-zone: "bienestarencovid19.com" redirect
+local-data: "bienestarencovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -8212,6 +8250,8 @@ local-zone: "covid-19official.com" redirect
 local-data: "covid-19official.com A 0.0.0.0"
 local-zone: "copingwithcoronavirus.co.uk" redirect
 local-data: "copingwithcoronavirus.co.uk A 0.0.0.0"
+local-zone: "ctcovid19.com" redirect
+local-data: "ctcovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
