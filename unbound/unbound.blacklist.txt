@@ -7800,6 +7800,58 @@ local-zone: "www.mensajescovid19.org" redirect
 local-data: "www.mensajescovid19.org A 0.0.0.0"
 local-zone: "www.covid19businesscenter.com" redirect
 local-data: "www.covid19businesscenter.com A 0.0.0.0"
+local-zone: "maskanti-covid19.com" redirect
+local-data: "maskanti-covid19.com A 0.0.0.0"
+local-zone: "covid-19donor.com" redirect
+local-data: "covid-19donor.com A 0.0.0.0"
+local-zone: "coronavirus-mask.store" redirect
+local-data: "coronavirus-mask.store A 0.0.0.0"
+local-zone: "coronavirus-rapidtest.store" redirect
+local-data: "coronavirus-rapidtest.store A 0.0.0.0"
+local-zone: "stopcovid19.fr" redirect
+local-data: "stopcovid19.fr A 0.0.0.0"
+local-zone: "stopcovid-19.fr" redirect
+local-data: "stopcovid-19.fr A 0.0.0.0"
+local-zone: "www.covid19protech.com" redirect
+local-data: "www.covid19protech.com A 0.0.0.0"
+local-zone: "covid19protech.com" redirect
+local-data: "covid19protech.com A 0.0.0.0"
+local-zone: "coronavirus-lockdowns.anouknox.com" redirect
+local-data: "coronavirus-lockdowns.anouknox.com A 0.0.0.0"
+local-zone: "491aa455.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "491aa455.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "masques-coronavirus.info" redirect
+local-data: "masques-coronavirus.info A 0.0.0.0"
+local-zone: "d28dfb46.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "d28dfb46.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronavirus.salud.misiones.gob.ar" redirect
+local-data: "coronavirus.salud.misiones.gob.ar A 0.0.0.0"
+local-zone: "covid19.bizumy.com" redirect
+local-data: "covid19.bizumy.com A 0.0.0.0"
+local-zone: "es.beatcovid19.nyc" redirect
+local-data: "es.beatcovid19.nyc A 0.0.0.0"
+local-zone: "coronaviruschronicles.it" redirect
+local-data: "coronaviruschronicles.it A 0.0.0.0"
+local-zone: "a8d2abe3.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "a8d2abe3.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "api.a8d2abe3.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.a8d2abe3.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid-19-status.anexia.com" redirect
+local-data: "covid-19-status.anexia.com A 0.0.0.0"
+local-zone: "api.a8d2abe3.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.a8d2abe3.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "a8d2abe3.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "a8d2abe3.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "newcovid19news.com" redirect
+local-data: "newcovid19news.com A 0.0.0.0"
+local-zone: "covid19.nayarit.gob.mx" redirect
+local-data: "covid19.nayarit.gob.mx A 0.0.0.0"
+local-zone: "www.zerocoronavirus.it" redirect
+local-data: "www.zerocoronavirus.it A 0.0.0.0"
+local-zone: "coronavirus.suara.coop" redirect
+local-data: "coronavirus.suara.coop A 0.0.0.0"
+local-zone: "stopcovid19.e-toda.jp" redirect
+local-data: "stopcovid19.e-toda.jp A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
