@@ -9612,6 +9612,46 @@ local-zone: "w3coronavirus.net" redirect
 local-data: "w3coronavirus.net A 0.0.0.0"
 local-zone: "coronavirus.garanhuns.pe.gov.br" redirect
 local-data: "coronavirus.garanhuns.pe.gov.br A 0.0.0.0"
+local-zone: "coronavirus.mitarjeta.pro" redirect
+local-data: "coronavirus.mitarjeta.pro A 0.0.0.0"
+local-zone: "sos-covid19.com" redirect
+local-data: "sos-covid19.com A 0.0.0.0"
+local-zone: "w3covid-19.net" redirect
+local-data: "w3covid-19.net A 0.0.0.0"
+local-zone: "w3covid19.net" redirect
+local-data: "w3covid19.net A 0.0.0.0"
+local-zone: "worldwidewebcovid-19.com" redirect
+local-data: "worldwidewebcovid-19.com A 0.0.0.0"
+local-zone: "worldwidewebcovid-19.net" redirect
+local-data: "worldwidewebcovid-19.net A 0.0.0.0"
+local-zone: "worldwidewebcovid19.net" redirect
+local-data: "worldwidewebcovid19.net A 0.0.0.0"
+local-zone: "worldwidewebcovid19.org" redirect
+local-data: "worldwidewebcovid19.org A 0.0.0.0"
+local-zone: "worldwidewebcovid-19.org" redirect
+local-data: "worldwidewebcovid-19.org A 0.0.0.0"
+local-zone: "w3covid-19.org" redirect
+local-data: "w3covid-19.org A 0.0.0.0"
+local-zone: "covid19nicaragua.org" redirect
+local-data: "covid19nicaragua.org A 0.0.0.0"
+local-zone: "covid19.mfischer.dev" redirect
+local-data: "covid19.mfischer.dev A 0.0.0.0"
+local-zone: "covid19safeytips.com" redirect
+local-data: "covid19safeytips.com A 0.0.0.0"
+local-zone: "foggingcovid19.com" redirect
+local-data: "foggingcovid19.com A 0.0.0.0"
+local-zone: "491aa455.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "491aa455.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "info-covid19-qualita.com" redirect
+local-data: "info-covid19-qualita.com A 0.0.0.0"
+local-zone: "covid19.dashiell.w2ostag.com" redirect
+local-data: "covid19.dashiell.w2ostag.com A 0.0.0.0"
+local-zone: "coronavirus-romania.com" redirect
+local-data: "coronavirus-romania.com A 0.0.0.0"
+local-zone: "worldwidewebcovid-19.org" redirect
+local-data: "worldwidewebcovid-19.org A 0.0.0.0"
+local-zone: "worldwidewebcovid19.org" redirect
+local-data: "worldwidewebcovid19.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -10044,6 +10084,8 @@ local-zone: "covid19hometestkits.co.uk" redirect
 local-data: "covid19hometestkits.co.uk A 0.0.0.0"
 local-zone: "coronavirus-markt.de" redirect
 local-data: "coronavirus-markt.de A 0.0.0.0"
+local-zone: "covid-19.smashdelta.com" redirect
+local-data: "covid-19.smashdelta.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
