@@ -8972,6 +8972,80 @@ local-zone: "covid19.getambee.com" redirect
 local-data: "covid19.getambee.com A 0.0.0.0"
 local-zone: "rapidtestscovid19.com" redirect
 local-data: "rapidtestscovid19.com A 0.0.0.0"
+local-zone: "coronavirusnewsfeeds.com" redirect
+local-data: "coronavirusnewsfeeds.com A 0.0.0.0"
+local-zone: "www.coronavirusresonancecure.com" redirect
+local-data: "www.coronavirusresonancecure.com A 0.0.0.0"
+local-zone: "pulcino.dc.coronavirus-clinic.com" redirect
+local-data: "pulcino.dc.coronavirus-clinic.com A 0.0.0.0"
+local-zone: "coronaviruscruisehelp.com" redirect
+local-data: "coronaviruscruisehelp.com A 0.0.0.0"
+local-zone: "covid19-email.com" redirect
+local-data: "covid19-email.com A 0.0.0.0"
+local-zone: "www.covid19testnow.com" redirect
+local-data: "www.covid19testnow.com A 0.0.0.0"
+local-zone: "covid19reliefloan.com" redirect
+local-data: "covid19reliefloan.com A 0.0.0.0"
+local-zone: "covid19screeningtests.com" redirect
+local-data: "covid19screeningtests.com A 0.0.0.0"
+local-zone: "covid-19-gov.com" redirect
+local-data: "covid-19-gov.com A 0.0.0.0"
+local-zone: "coronavirus.postcraft.in" redirect
+local-data: "coronavirus.postcraft.in A 0.0.0.0"
+local-zone: "coronaviruspak.com" redirect
+local-data: "coronaviruspak.com A 0.0.0.0"
+local-zone: "covid19drivethrutesting.com" redirect
+local-data: "covid19drivethrutesting.com A 0.0.0.0"
+local-zone: "covid19awareness.handcraftedphotos.com" redirect
+local-data: "covid19awareness.handcraftedphotos.com A 0.0.0.0"
+local-zone: "allocoronavirus.com" redirect
+local-data: "allocoronavirus.com A 0.0.0.0"
+local-zone: "covid19helper.co.uk" redirect
+local-data: "covid19helper.co.uk A 0.0.0.0"
+local-zone: "www.coronavirus-zuerich-infos.ch" redirect
+local-data: "www.coronavirus-zuerich-infos.ch A 0.0.0.0"
+local-zone: "elasticsearch.ml-covid19.5eb5b42e83d998e4.convox.cloud" redirect
+local-data: "elasticsearch.ml-covid19.5eb5b42e83d998e4.convox.cloud A 0.0.0.0"
+local-zone: "vietnamcovid19.info" redirect
+local-data: "vietnamcovid19.info A 0.0.0.0"
+local-zone: "covid19.codecombat.com" redirect
+local-data: "covid19.codecombat.com A 0.0.0.0"
+local-zone: "coronavirus-business.support" redirect
+local-data: "coronavirus-business.support A 0.0.0.0"
+local-zone: "acessoscovid19.rizer.com.br" redirect
+local-data: "acessoscovid19.rizer.com.br A 0.0.0.0"
+local-zone: "traefik.covid-19.dnastack.com" redirect
+local-data: "traefik.covid-19.dnastack.com A 0.0.0.0"
+local-zone: "www.coronavirushealthguide.com" redirect
+local-data: "www.coronavirushealthguide.com A 0.0.0.0"
+local-zone: "covid19-charts.com" redirect
+local-data: "covid19-charts.com A 0.0.0.0"
+local-zone: "covid-19worldtour.com" redirect
+local-data: "covid-19worldtour.com A 0.0.0.0"
+local-zone: "covid19-losgistics.com" redirect
+local-data: "covid19-losgistics.com A 0.0.0.0"
+local-zone: "covid19-survivors.com" redirect
+local-data: "covid19-survivors.com A 0.0.0.0"
+local-zone: "coronavirusquarantinemap.com" redirect
+local-data: "coronavirusquarantinemap.com A 0.0.0.0"
+local-zone: "covid19reliefloan.com" redirect
+local-data: "covid19reliefloan.com A 0.0.0.0"
+local-zone: "covid19faqs.com" redirect
+local-data: "covid19faqs.com A 0.0.0.0"
+local-zone: "www.stopcovid19virus.com" redirect
+local-data: "www.stopcovid19virus.com A 0.0.0.0"
+local-zone: "dashboard-covid19.com" redirect
+local-data: "dashboard-covid19.com A 0.0.0.0"
+local-zone: "celebritycoronavirus.com" redirect
+local-data: "celebritycoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusmeditating.com" redirect
+local-data: "coronavirusmeditating.com A 0.0.0.0"
+local-zone: "dfccoronavirusupdate.com" redirect
+local-data: "dfccoronavirusupdate.com A 0.0.0.0"
+local-zone: "covid-19.livetech.site" redirect
+local-data: "covid-19.livetech.site A 0.0.0.0"
+local-zone: "coronavirussafetypack.com" redirect
+local-data: "coronavirussafetypack.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
