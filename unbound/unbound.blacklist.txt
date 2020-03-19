@@ -8900,6 +8900,30 @@ local-zone: "covid19warroom.org" redirect
 local-data: "covid19warroom.org A 0.0.0.0"
 local-zone: "covid19.chu-fes.ma" redirect
 local-data: "covid19.chu-fes.ma A 0.0.0.0"
+local-zone: "coronaviruspak.com" redirect
+local-data: "coronaviruspak.com A 0.0.0.0"
+local-zone: "covid19careapp.com" redirect
+local-data: "covid19careapp.com A 0.0.0.0"
+local-zone: "covid19test.live" redirect
+local-data: "covid19test.live A 0.0.0.0"
+local-zone: "coronavirus.atlasvpn.com" redirect
+local-data: "coronavirus.atlasvpn.com A 0.0.0.0"
+local-zone: "covid19resource.org" redirect
+local-data: "covid19resource.org A 0.0.0.0"
+local-zone: "covid-19.icis.bg" redirect
+local-data: "covid-19.icis.bg A 0.0.0.0"
+local-zone: "ansyscovid19response.com" redirect
+local-data: "ansyscovid19response.com A 0.0.0.0"
+local-zone: "urgencescoronavirus.fr" redirect
+local-data: "urgencescoronavirus.fr A 0.0.0.0"
+local-zone: "fraternite-covid19.fr" redirect
+local-data: "fraternite-covid19.fr A 0.0.0.0"
+local-zone: "gi-covid-19.org" redirect
+local-data: "gi-covid-19.org A 0.0.0.0"
+local-zone: "covid19-status.info" redirect
+local-data: "covid19-status.info A 0.0.0.0"
+local-zone: "coronavirusweb.site" redirect
+local-data: "coronavirusweb.site A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
