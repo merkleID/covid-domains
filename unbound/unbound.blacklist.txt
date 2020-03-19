@@ -8326,6 +8326,52 @@ local-zone: "covid19.dev.hurumap.org" redirect
 local-data: "covid19.dev.hurumap.org A 0.0.0.0"
 local-zone: "covid19.jipraks.com" redirect
 local-data: "covid19.jipraks.com A 0.0.0.0"
+local-zone: "www.covid19-que-faire.fr" redirect
+local-data: "www.covid19-que-faire.fr A 0.0.0.0"
+local-zone: "sg-coronavirus-statistics.ash15khng.repl.run" redirect
+local-data: "sg-coronavirus-statistics.ash15khng.repl.run A 0.0.0.0"
+local-zone: "covid19status.ca" redirect
+local-data: "covid19status.ca A 0.0.0.0"
+local-zone: "coronavirus.cmbtravel.ro" redirect
+local-data: "coronavirus.cmbtravel.ro A 0.0.0.0"
+local-zone: "www.covid19mc.net" redirect
+local-data: "www.covid19mc.net A 0.0.0.0"
+local-zone: "pandemi-covid-19.asmanbin.repl.run" redirect
+local-data: "pandemi-covid-19.asmanbin.repl.run A 0.0.0.0"
+local-zone: "covid-19-diaryofaworriedmum.com" redirect
+local-data: "covid-19-diaryofaworriedmum.com A 0.0.0.0"
+local-zone: "coronavirus-online-map.ru" redirect
+local-data: "coronavirus-online-map.ru A 0.0.0.0"
+local-zone: "coronavirus-watching.ru" redirect
+local-data: "coronavirus-watching.ru A 0.0.0.0"
+local-zone: "www.coronavirus-moscow.ru" redirect
+local-data: "www.coronavirus-moscow.ru A 0.0.0.0"
+local-zone: "covid19virus.ru" redirect
+local-data: "covid19virus.ru A 0.0.0.0"
+local-zone: "coronavirus-live.ru" redirect
+local-data: "coronavirus-live.ru A 0.0.0.0"
+local-zone: "covid19test.ru" redirect
+local-data: "covid19test.ru A 0.0.0.0"
+local-zone: "ihavethecoronaviruscovid19.com" redirect
+local-data: "ihavethecoronaviruscovid19.com A 0.0.0.0"
+local-zone: "www.covid19online.ru" redirect
+local-data: "www.covid19online.ru A 0.0.0.0"
+local-zone: "corona-virus-news.ru" redirect
+local-data: "corona-virus-news.ru A 0.0.0.0"
+local-zone: "www.coronavirus-stop.ru" redirect
+local-data: "www.coronavirus-stop.ru A 0.0.0.0"
+local-zone: "coronavirus-global.ru" redirect
+local-data: "coronavirus-global.ru A 0.0.0.0"
+local-zone: "map-coronavirus.ru" redirect
+local-data: "map-coronavirus.ru A 0.0.0.0"
+local-zone: "www.covid19info.co" redirect
+local-data: "www.covid19info.co A 0.0.0.0"
+local-zone: "covid-19.parttimestreet.com" redirect
+local-data: "covid-19.parttimestreet.com A 0.0.0.0"
+local-zone: "anticoronaviruswholesale.com" redirect
+local-data: "anticoronaviruswholesale.com A 0.0.0.0"
+local-zone: "covid19insights.com" redirect
+local-data: "covid19insights.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -8704,6 +8750,8 @@ local-zone: "prcoronavirusmap.com" redirect
 local-data: "prcoronavirusmap.com A 0.0.0.0"
 local-zone: "avoidecoronavirus.com" redirect
 local-data: "avoidecoronavirus.com A 0.0.0.0"
+local-zone: "covid-2019-dnr.ru" redirect
+local-data: "covid-2019-dnr.ru A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
