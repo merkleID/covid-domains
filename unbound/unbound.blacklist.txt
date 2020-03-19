@@ -9086,6 +9086,66 @@ local-zone: "covid-19mademe.com" redirect
 local-data: "covid-19mademe.com A 0.0.0.0"
 local-zone: "endingcovid19.com" redirect
 local-data: "endingcovid19.com A 0.0.0.0"
+local-zone: "coronavirusbermuda.com" redirect
+local-data: "coronavirusbermuda.com A 0.0.0.0"
+local-zone: "odskodneni-coronavirus.cz" redirect
+local-data: "odskodneni-coronavirus.cz A 0.0.0.0"
+local-zone: "www.covid19.ehe.health" redirect
+local-data: "www.covid19.ehe.health A 0.0.0.0"
+local-zone: "covid19vn.live" redirect
+local-data: "covid19vn.live A 0.0.0.0"
+local-zone: "pharmabel-test-coronavirus.com" redirect
+local-data: "pharmabel-test-coronavirus.com A 0.0.0.0"
+local-zone: "fight-covid19virus.com" redirect
+local-data: "fight-covid19virus.com A 0.0.0.0"
+local-zone: "www.recherche-covid-19.com" redirect
+local-data: "www.recherche-covid-19.com A 0.0.0.0"
+local-zone: "coronavirusecocleaning.com" redirect
+local-data: "coronavirusecocleaning.com A 0.0.0.0"
+local-zone: "recherche-covid-19.com" redirect
+local-data: "recherche-covid-19.com A 0.0.0.0"
+local-zone: "coronaviruscare.best" redirect
+local-data: "coronaviruscare.best A 0.0.0.0"
+local-zone: "coronavirus.mg" redirect
+local-data: "coronavirus.mg A 0.0.0.0"
+local-zone: "jenkins.dashboard-covid19.com" redirect
+local-data: "jenkins.dashboard-covid19.com A 0.0.0.0"
+local-zone: "www.cmdacovid19.com" redirect
+local-data: "www.cmdacovid19.com A 0.0.0.0"
+local-zone: "cmdacovid19.com" redirect
+local-data: "cmdacovid19.com A 0.0.0.0"
+local-zone: "covid19-scenarios.org" redirect
+local-data: "covid19-scenarios.org A 0.0.0.0"
+local-zone: "covid19.rpmschool.org" redirect
+local-data: "covid19.rpmschool.org A 0.0.0.0"
+local-zone: "covid19portugal.org" redirect
+local-data: "covid19portugal.org A 0.0.0.0"
+local-zone: "api.734c42b8.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.734c42b8.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "downloadcoronavirus.com" redirect
+local-data: "downloadcoronavirus.com A 0.0.0.0"
+local-zone: "cmdacovid19.com" redirect
+local-data: "cmdacovid19.com A 0.0.0.0"
+local-zone: "www.cmdacovid19.com" redirect
+local-data: "www.cmdacovid19.com A 0.0.0.0"
+local-zone: "covid19.limited" redirect
+local-data: "covid19.limited A 0.0.0.0"
+local-zone: "covid-19bestpractices.com" redirect
+local-data: "covid-19bestpractices.com A 0.0.0.0"
+local-zone: "www.covid19.limited" redirect
+local-data: "www.covid19.limited A 0.0.0.0"
+local-zone: "covid19.shekinahchurch.org" redirect
+local-data: "covid19.shekinahchurch.org A 0.0.0.0"
+local-zone: "covid-19-live-updates.com" redirect
+local-data: "covid-19-live-updates.com A 0.0.0.0"
+local-zone: "www.coronavirustimecapsule.com" redirect
+local-data: "www.coronavirustimecapsule.com A 0.0.0.0"
+local-zone: "coronavirustimecapsule.com" redirect
+local-data: "coronavirustimecapsule.com A 0.0.0.0"
+local-zone: "epicovid19.dirislimasur.gob.pe" redirect
+local-data: "epicovid19.dirislimasur.gob.pe A 0.0.0.0"
+local-zone: "m.aidescovid19.marne.cci.fr" redirect
+local-data: "m.aidescovid19.marne.cci.fr A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -9488,6 +9548,8 @@ local-zone: "highlandcovid-19.co.uk" redirect
 local-data: "highlandcovid-19.co.uk A 0.0.0.0"
 local-zone: "coronavirusayuda.org" redirect
 local-data: "coronavirusayuda.org A 0.0.0.0"
+local-zone: "learningduringcovid19.com" redirect
+local-data: "learningduringcovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
