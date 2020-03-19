@@ -8698,6 +8698,58 @@ local-zone: "covid19check.net" redirect
 local-data: "covid19check.net A 0.0.0.0"
 local-zone: "servicos.covid19eu.pt" redirect
 local-data: "servicos.covid19eu.pt A 0.0.0.0"
+local-zone: "mascaracoronavirus.net.br" redirect
+local-data: "mascaracoronavirus.net.br A 0.0.0.0"
+local-zone: "covid-19sba.kingcreolespalace.com" redirect
+local-data: "covid-19sba.kingcreolespalace.com A 0.0.0.0"
+local-zone: "covid19shop.nl" redirect
+local-data: "covid19shop.nl A 0.0.0.0"
+local-zone: "sasacovid19.com" redirect
+local-data: "sasacovid19.com A 0.0.0.0"
+local-zone: "www.coronavirushumour.com" redirect
+local-data: "www.coronavirushumour.com A 0.0.0.0"
+local-zone: "www.solidaritecoronavirus.be" redirect
+local-data: "www.solidaritecoronavirus.be A 0.0.0.0"
+local-zone: "centraideeocovid19.ca" redirect
+local-data: "centraideeocovid19.ca A 0.0.0.0"
+local-zone: "www.overcovid19.nl" redirect
+local-data: "www.overcovid19.nl A 0.0.0.0"
+local-zone: "treatment-coronavirus.com" redirect
+local-data: "treatment-coronavirus.com A 0.0.0.0"
+local-zone: "nyccovid19responsecoalition.org" redirect
+local-data: "nyccovid19responsecoalition.org A 0.0.0.0"
+local-zone: "www.servicos.covid19eu.pt" redirect
+local-data: "www.servicos.covid19eu.pt A 0.0.0.0"
+local-zone: "www.covid19details.com" redirect
+local-data: "www.covid19details.com A 0.0.0.0"
+local-zone: "covid-19-test.living-apps.de" redirect
+local-data: "covid-19-test.living-apps.de A 0.0.0.0"
+local-zone: "coronavirus.private.olaf.int.4ws.io" redirect
+local-data: "coronavirus.private.olaf.int.4ws.io A 0.0.0.0"
+local-zone: "covid-19-test.living-apps.de" redirect
+local-data: "covid-19-test.living-apps.de A 0.0.0.0"
+local-zone: "coronaviruspandemia.com.br" redirect
+local-data: "coronaviruspandemia.com.br A 0.0.0.0"
+local-zone: "siaga-covid19.aryanoble.co.id" redirect
+local-data: "siaga-covid19.aryanoble.co.id A 0.0.0.0"
+local-zone: "covid19.zbox7.eu" redirect
+local-data: "covid19.zbox7.eu A 0.0.0.0"
+local-zone: "dev4.covid19.seie-madagascar.org" redirect
+local-data: "dev4.covid19.seie-madagascar.org A 0.0.0.0"
+local-zone: "casos.covid-19.ferragut.com.br" redirect
+local-data: "casos.covid-19.ferragut.com.br A 0.0.0.0"
+local-zone: "coronavirus-update.hinglishblog.com" redirect
+local-data: "coronavirus-update.hinglishblog.com A 0.0.0.0"
+local-zone: "covid19.denimnation.net" redirect
+local-data: "covid19.denimnation.net A 0.0.0.0"
+local-zone: "www.canada-alert-covid19.com" redirect
+local-data: "www.canada-alert-covid19.com A 0.0.0.0"
+local-zone: "coronaviruscleaningchemicals.com" redirect
+local-data: "coronaviruscleaningchemicals.com A 0.0.0.0"
+local-zone: "covid19.manent.ai" redirect
+local-data: "covid19.manent.ai A 0.0.0.0"
+local-zone: "491aa455.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "491aa455.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -9092,6 +9144,10 @@ local-zone: "chinecoronavirus.ru" redirect
 local-data: "chinecoronavirus.ru A 0.0.0.0"
 local-zone: "covid19-businesssupport.co.uk" redirect
 local-data: "covid19-businesssupport.co.uk A 0.0.0.0"
+local-zone: "test-covid19.co.uk" redirect
+local-data: "test-covid19.co.uk A 0.0.0.0"
+local-zone: "coronavirusayuda.org" redirect
+local-data: "coronavirusayuda.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
