@@ -7890,6 +7890,32 @@ local-zone: "help.covid-19team.com" redirect
 local-data: "help.covid-19team.com A 0.0.0.0"
 local-zone: "bienestarencovid19.com" redirect
 local-data: "bienestarencovid19.com A 0.0.0.0"
+local-zone: "thecoronavirustales.com" redirect
+local-data: "thecoronavirustales.com A 0.0.0.0"
+local-zone: "anteelcoronavirus.yoporlajusticia.gob.mx" redirect
+local-data: "anteelcoronavirus.yoporlajusticia.gob.mx A 0.0.0.0"
+local-zone: "covid19physicianinfo.com" redirect
+local-data: "covid19physicianinfo.com A 0.0.0.0"
+local-zone: "momsfightingcovid19.com" redirect
+local-data: "momsfightingcovid19.com A 0.0.0.0"
+local-zone: "www.stopcoronavirus.de" redirect
+local-data: "www.stopcoronavirus.de A 0.0.0.0"
+local-zone: "www.covid193.com" redirect
+local-data: "www.covid193.com A 0.0.0.0"
+local-zone: "www.stopcovid19.design" redirect
+local-data: "www.stopcovid19.design A 0.0.0.0"
+local-zone: "covid19.knsd.digital" redirect
+local-data: "covid19.knsd.digital A 0.0.0.0"
+local-zone: "mail.covid19impactfund.org" redirect
+local-data: "mail.covid19impactfund.org A 0.0.0.0"
+local-zone: "covid19wall.online" redirect
+local-data: "covid19wall.online A 0.0.0.0"
+local-zone: "covid19.pesut.net" redirect
+local-data: "covid19.pesut.net A 0.0.0.0"
+local-zone: "coronavirusaid.net" redirect
+local-data: "coronavirusaid.net A 0.0.0.0"
+local-zone: "coronavirus-health.es" redirect
+local-data: "coronavirus-health.es A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
