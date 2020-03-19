@@ -9428,6 +9428,26 @@ local-zone: "en.burnabycoronavirus.com" redirect
 local-data: "en.burnabycoronavirus.com A 0.0.0.0"
 local-zone: "covid19.store01.de" redirect
 local-data: "covid19.store01.de A 0.0.0.0"
+local-zone: "thecoronaviruscure.ky" redirect
+local-data: "thecoronaviruscure.ky A 0.0.0.0"
+local-zone: "virus-covid-19.ca" redirect
+local-data: "virus-covid-19.ca A 0.0.0.0"
+local-zone: "covid19-api.unm4sk.me" redirect
+local-data: "covid19-api.unm4sk.me A 0.0.0.0"
+local-zone: "covid19ua.ml" redirect
+local-data: "covid19ua.ml A 0.0.0.0"
+local-zone: "covid19.prixa.ai" redirect
+local-data: "covid19.prixa.ai A 0.0.0.0"
+local-zone: "bogalusacovid19.com" redirect
+local-data: "bogalusacovid19.com A 0.0.0.0"
+local-zone: "anti-corona-virus-hypnose.de" redirect
+local-data: "anti-corona-virus-hypnose.de A 0.0.0.0"
+local-zone: "www.covid19-info-co-uk.wrinkle-reduction.com" redirect
+local-data: "www.covid19-info-co-uk.wrinkle-reduction.com A 0.0.0.0"
+local-zone: "www.coronavirusfog.com" redirect
+local-data: "www.coronavirusfog.com A 0.0.0.0"
+local-zone: "covid-19.beecardia.com" redirect
+local-data: "covid-19.beecardia.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -9850,6 +9870,8 @@ local-zone: "maps-coronavirus.ru" redirect
 local-data: "maps-coronavirus.ru A 0.0.0.0"
 local-zone: "coronaviruscol.com" redirect
 local-data: "coronaviruscol.com A 0.0.0.0"
+local-zone: "covid19-in-america.com" redirect
+local-data: "covid19-in-america.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
