@@ -9046,6 +9046,46 @@ local-zone: "covid-19.livetech.site" redirect
 local-data: "covid-19.livetech.site A 0.0.0.0"
 local-zone: "coronavirussafetypack.com" redirect
 local-data: "coronavirussafetypack.com A 0.0.0.0"
+local-zone: "coronavirusomg.sirpzim.org" redirect
+local-data: "coronavirusomg.sirpzim.org A 0.0.0.0"
+local-zone: "coronaviruslivestatus.com" redirect
+local-data: "coronaviruslivestatus.com A 0.0.0.0"
+local-zone: "covid19.hmacademy.com" redirect
+local-data: "covid19.hmacademy.com A 0.0.0.0"
+local-zone: "covid19.stiewd.ac.id" redirect
+local-data: "covid19.stiewd.ac.id A 0.0.0.0"
+local-zone: "cdn.covid19-app.fr" redirect
+local-data: "cdn.covid19-app.fr A 0.0.0.0"
+local-zone: "nracoronavirus.net.au" redirect
+local-data: "nracoronavirus.net.au A 0.0.0.0"
+local-zone: "coronavirusselftests.com" redirect
+local-data: "coronavirusselftests.com A 0.0.0.0"
+local-zone: "coronavirusdetectionkits.com" redirect
+local-data: "coronavirusdetectionkits.com A 0.0.0.0"
+local-zone: "coronavirusencasa.com" redirect
+local-data: "coronavirusencasa.com A 0.0.0.0"
+local-zone: "uscoronaviruscount.com" redirect
+local-data: "uscoronaviruscount.com A 0.0.0.0"
+local-zone: "covid19corner.co.za" redirect
+local-data: "covid19corner.co.za A 0.0.0.0"
+local-zone: "ajudar.covid19eu.pt" redirect
+local-data: "ajudar.covid19eu.pt A 0.0.0.0"
+local-zone: "elizabethtowncovid19match.com" redirect
+local-data: "elizabethtowncovid19match.com A 0.0.0.0"
+local-zone: "covid19-zacatecas.drcidbaez.com" redirect
+local-data: "covid19-zacatecas.drcidbaez.com A 0.0.0.0"
+local-zone: "ajudar.covid19eu.pt" redirect
+local-data: "ajudar.covid19eu.pt A 0.0.0.0"
+local-zone: "www.ajudar.covid19eu.pt" redirect
+local-data: "www.ajudar.covid19eu.pt A 0.0.0.0"
+local-zone: "covid19business.completebs.host" redirect
+local-data: "covid19business.completebs.host A 0.0.0.0"
+local-zone: "covid-19.hericl.es" redirect
+local-data: "covid-19.hericl.es A 0.0.0.0"
+local-zone: "covid-19mademe.com" redirect
+local-data: "covid-19mademe.com A 0.0.0.0"
+local-zone: "endingcovid19.com" redirect
+local-data: "endingcovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -9446,6 +9486,8 @@ local-zone: "coronavirusayuda.org" redirect
 local-data: "coronavirusayuda.org A 0.0.0.0"
 local-zone: "highlandcovid-19.co.uk" redirect
 local-data: "highlandcovid-19.co.uk A 0.0.0.0"
+local-zone: "coronavirusayuda.org" redirect
+local-data: "coronavirusayuda.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
