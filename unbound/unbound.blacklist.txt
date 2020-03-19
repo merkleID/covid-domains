@@ -8804,6 +8804,56 @@ local-zone: "www.covid-19supplier.com" redirect
 local-data: "www.covid-19supplier.com A 0.0.0.0"
 local-zone: "api.dc520d6e.dev.covid-19.forms.digital.nhs.uk" redirect
 local-data: "api.dc520d6e.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "www.covid-19.coach" redirect
+local-data: "www.covid-19.coach A 0.0.0.0"
+local-zone: "covid19.codes" redirect
+local-data: "covid19.codes A 0.0.0.0"
+local-zone: "covid-19.coach" redirect
+local-data: "covid-19.coach A 0.0.0.0"
+local-zone: "www.covid19campus.info" redirect
+local-data: "www.covid19campus.info A 0.0.0.0"
+local-zone: "www.oneagainstcovid19.ph" redirect
+local-data: "www.oneagainstcovid19.ph A 0.0.0.0"
+local-zone: "covid19mask.store" redirect
+local-data: "covid19mask.store A 0.0.0.0"
+local-zone: "sa.covid19.palashbauri.in" redirect
+local-data: "sa.covid19.palashbauri.in A 0.0.0.0"
+local-zone: "coronavirus.threemilestone.info" redirect
+local-data: "coronavirus.threemilestone.info A 0.0.0.0"
+local-zone: "covid19support.life" redirect
+local-data: "covid19support.life A 0.0.0.0"
+local-zone: "chinecoronavirus.ru" redirect
+local-data: "chinecoronavirus.ru A 0.0.0.0"
+local-zone: "covid19.codeville.ru" redirect
+local-data: "covid19.codeville.ru A 0.0.0.0"
+local-zone: "www.againstcoronavirus.org" redirect
+local-data: "www.againstcoronavirus.org A 0.0.0.0"
+local-zone: "dc520d6e.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "dc520d6e.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "cnnmoney-coronavirus.ch" redirect
+local-data: "cnnmoney-coronavirus.ch A 0.0.0.0"
+local-zone: "api.dc520d6e.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.dc520d6e.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid-19naijaland.packagees.com" redirect
+local-data: "covid-19naijaland.packagees.com A 0.0.0.0"
+local-zone: "covid-19-test.ru" redirect
+local-data: "covid-19-test.ru A 0.0.0.0"
+local-zone: "a-covid-19.com" redirect
+local-data: "a-covid-19.com A 0.0.0.0"
+local-zone: "coronavirus.private.olaf.int.4ws.io" redirect
+local-data: "coronavirus.private.olaf.int.4ws.io A 0.0.0.0"
+local-zone: "coronavirus.brandproducts.best" redirect
+local-data: "coronavirus.brandproducts.best A 0.0.0.0"
+local-zone: "covid-19.jean-francois-labbe.com" redirect
+local-data: "covid-19.jean-francois-labbe.com A 0.0.0.0"
+local-zone: "proformula-coronavirus-hu.com" redirect
+local-data: "proformula-coronavirus-hu.com A 0.0.0.0"
+local-zone: "covid19soapkit.nyc" redirect
+local-data: "covid19soapkit.nyc A 0.0.0.0"
+local-zone: "www.coronavirus-stat24.ru" redirect
+local-data: "www.coronavirus-stat24.ru A 0.0.0.0"
+local-zone: "covid19support.uk" redirect
+local-data: "covid19support.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
