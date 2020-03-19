@@ -7960,6 +7960,42 @@ local-zone: "www.symptome-coronavirus.fr" redirect
 local-data: "www.symptome-coronavirus.fr A 0.0.0.0"
 local-zone: "stop-covid19.fr" redirect
 local-data: "stop-covid19.fr A 0.0.0.0"
+local-zone: "india-map-coronavirus.ga" redirect
+local-data: "india-map-coronavirus.ga A 0.0.0.0"
+local-zone: "covid-19checker.co.uk" redirect
+local-data: "covid-19checker.co.uk A 0.0.0.0"
+local-zone: "www.2020covid-19.com" redirect
+local-data: "www.2020covid-19.com A 0.0.0.0"
+local-zone: "www.2020globalcovid19.com" redirect
+local-data: "www.2020globalcovid19.com A 0.0.0.0"
+local-zone: "globalcovid19live.com" redirect
+local-data: "globalcovid19live.com A 0.0.0.0"
+local-zone: "covid-19.dsi.ic.ac.uk" redirect
+local-data: "covid-19.dsi.ic.ac.uk A 0.0.0.0"
+local-zone: "api.covid19app.ca" redirect
+local-data: "api.covid19app.ca A 0.0.0.0"
+local-zone: "covid-19data.org" redirect
+local-data: "covid-19data.org A 0.0.0.0"
+local-zone: "promo-covid19-neftlix.ml" redirect
+local-data: "promo-covid19-neftlix.ml A 0.0.0.0"
+local-zone: "2020globalcovid19.com" redirect
+local-data: "2020globalcovid19.com A 0.0.0.0"
+local-zone: "buildcoronavirushospital.com" redirect
+local-data: "buildcoronavirushospital.com A 0.0.0.0"
+local-zone: "thecoronavirus.nz" redirect
+local-data: "thecoronavirus.nz A 0.0.0.0"
+local-zone: "mail.covid19.portal.azhe.info" redirect
+local-data: "mail.covid19.portal.azhe.info A 0.0.0.0"
+local-zone: "beatcovid-19.app" redirect
+local-data: "beatcovid-19.app A 0.0.0.0"
+local-zone: "2020coronavirus.org" redirect
+local-data: "2020coronavirus.org A 0.0.0.0"
+local-zone: "2019novelcoronavirus.org" redirect
+local-data: "2019novelcoronavirus.org A 0.0.0.0"
+local-zone: "www.2020coronavirus.org" redirect
+local-data: "www.2020coronavirus.org A 0.0.0.0"
+local-zone: "covid19docu.com" redirect
+local-data: "covid19docu.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
