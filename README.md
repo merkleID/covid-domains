@@ -12,7 +12,7 @@ File full-domains-list.txt can be used with Pi-Hole.
 
 CREDITS
 
-Original file lists:
+Original files lists:
 
 https://1984.sh/covid19-domains-feed.txt
 
