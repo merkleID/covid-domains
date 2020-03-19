@@ -9196,6 +9196,50 @@ local-zone: "covid19-icu.net" redirect
 local-data: "covid19-icu.net A 0.0.0.0"
 local-zone: "covid19.casebook.net" redirect
 local-data: "covid19.casebook.net A 0.0.0.0"
+local-zone: "covid19-brasil.com" redirect
+local-data: "covid19-brasil.com A 0.0.0.0"
+local-zone: "covid19.digitalnomadphil.com" redirect
+local-data: "covid19.digitalnomadphil.com A 0.0.0.0"
+local-zone: "coronavirus.euprotegido.com.br" redirect
+local-data: "coronavirus.euprotegido.com.br A 0.0.0.0"
+local-zone: "forum-coronavirus.com" redirect
+local-data: "forum-coronavirus.com A 0.0.0.0"
+local-zone: "covid19.utpsyc.org" redirect
+local-data: "covid19.utpsyc.org A 0.0.0.0"
+local-zone: "coronavirustutoring.co.uk" redirect
+local-data: "coronavirustutoring.co.uk A 0.0.0.0"
+local-zone: "covid-19.corsoventures.com" redirect
+local-data: "covid-19.corsoventures.com A 0.0.0.0"
+local-zone: "fuckoffcoronaviruswall.com" redirect
+local-data: "fuckoffcoronaviruswall.com A 0.0.0.0"
+local-zone: "covid19consultation.live" redirect
+local-data: "covid19consultation.live A 0.0.0.0"
+local-zone: "coronavirus.coverwise.co.uk" redirect
+local-data: "coronavirus.coverwise.co.uk A 0.0.0.0"
+local-zone: "www.covid19signs.store" redirect
+local-data: "www.covid19signs.store A 0.0.0.0"
+local-zone: "covid19.supercazzole.it" redirect
+local-data: "covid19.supercazzole.it A 0.0.0.0"
+local-zone: "covid19.hyper.ninja" redirect
+local-data: "covid19.hyper.ninja A 0.0.0.0"
+local-zone: "coronavirussosi.altervista.org" redirect
+local-data: "coronavirussosi.altervista.org A 0.0.0.0"
+local-zone: "brasilcontracoronavirus.com.br" redirect
+local-data: "brasilcontracoronavirus.com.br A 0.0.0.0"
+local-zone: "covid19.barlera.com.br" redirect
+local-data: "covid19.barlera.com.br A 0.0.0.0"
+local-zone: "tom.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "tom.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19.stovallshotels.com" redirect
+local-data: "covid19.stovallshotels.com A 0.0.0.0"
+local-zone: "coronavirus.clanbolivia.com" redirect
+local-data: "coronavirus.clanbolivia.com A 0.0.0.0"
+local-zone: "sicurezza-covid19.com" redirect
+local-data: "sicurezza-covid19.com A 0.0.0.0"
+local-zone: "against-coronavirus.com.pl" redirect
+local-data: "against-coronavirus.com.pl A 0.0.0.0"
+local-zone: "coronavirus.pro" redirect
+local-data: "coronavirus.pro A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -9606,6 +9650,8 @@ local-zone: "coronavirusblog.it" redirect
 local-data: "coronavirusblog.it A 0.0.0.0"
 local-zone: "arbeiten-trotz-covid19.de" redirect
 local-data: "arbeiten-trotz-covid19.de A 0.0.0.0"
+local-zone: "coronavirusblog.it" redirect
+local-data: "coronavirusblog.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
