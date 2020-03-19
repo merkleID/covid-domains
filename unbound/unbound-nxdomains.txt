@@ -4748,6 +4748,19 @@ local-zone: "www.coronavirushelp.se" static
 local-zone: "coronavirusloansnow.com" static
 local-zone: "covid19.xtrp.io" static
 local-zone: "shopcovid-19.com" static
+local-zone: "covid19shop.ru" static
+local-zone: "worldcoronavirus.org" static
+local-zone: "coronavirus-ready.com" static
+local-zone: "covid19.uptodate.com" static
+local-zone: "coronavirusc19.com" static
+local-zone: "coronavirusc19.org" static
+local-zone: "www.goodcoronavirus.news" static
+local-zone: "covid-19.layla.care" static
+local-zone: "coronavirus.ceara.gov.br" static
+local-zone: "www.goodcoronavirus.news" static
+local-zone: "covid19.webislam.id" static
+local-zone: "tudosobrecoronavirus.org" static
+local-zone: "covid-19.layla.care" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -4962,6 +4975,7 @@ local-zone: "coronaviruscol.com" static
 local-zone: "covid19-in-america.com" static
 local-zone: "medicoscoronavirus.com" static
 local-zone: "covid-19-staging.dnastack.com" static
+local-zone: "covid19hometestkits.co.uk" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static

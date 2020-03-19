@@ -9498,6 +9498,32 @@ local-zone: "covid19.xtrp.io" redirect
 local-data: "covid19.xtrp.io A 0.0.0.0"
 local-zone: "shopcovid-19.com" redirect
 local-data: "shopcovid-19.com A 0.0.0.0"
+local-zone: "covid19shop.ru" redirect
+local-data: "covid19shop.ru A 0.0.0.0"
+local-zone: "worldcoronavirus.org" redirect
+local-data: "worldcoronavirus.org A 0.0.0.0"
+local-zone: "coronavirus-ready.com" redirect
+local-data: "coronavirus-ready.com A 0.0.0.0"
+local-zone: "covid19.uptodate.com" redirect
+local-data: "covid19.uptodate.com A 0.0.0.0"
+local-zone: "coronavirusc19.com" redirect
+local-data: "coronavirusc19.com A 0.0.0.0"
+local-zone: "coronavirusc19.org" redirect
+local-data: "coronavirusc19.org A 0.0.0.0"
+local-zone: "www.goodcoronavirus.news" redirect
+local-data: "www.goodcoronavirus.news A 0.0.0.0"
+local-zone: "covid-19.layla.care" redirect
+local-data: "covid-19.layla.care A 0.0.0.0"
+local-zone: "coronavirus.ceara.gov.br" redirect
+local-data: "coronavirus.ceara.gov.br A 0.0.0.0"
+local-zone: "www.goodcoronavirus.news" redirect
+local-data: "www.goodcoronavirus.news A 0.0.0.0"
+local-zone: "covid19.webislam.id" redirect
+local-data: "covid19.webislam.id A 0.0.0.0"
+local-zone: "tudosobrecoronavirus.org" redirect
+local-data: "tudosobrecoronavirus.org A 0.0.0.0"
+local-zone: "covid-19.layla.care" redirect
+local-data: "covid-19.layla.care A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -9926,6 +9952,8 @@ local-zone: "medicoscoronavirus.com" redirect
 local-data: "medicoscoronavirus.com A 0.0.0.0"
 local-zone: "covid-19-staging.dnastack.com" redirect
 local-data: "covid-19-staging.dnastack.com A 0.0.0.0"
+local-zone: "covid19hometestkits.co.uk" redirect
+local-data: "covid19hometestkits.co.uk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
