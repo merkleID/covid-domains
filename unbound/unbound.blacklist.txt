@@ -8642,6 +8642,28 @@ local-zone: "coronavirusblog.org" redirect
 local-data: "coronavirusblog.org A 0.0.0.0"
 local-zone: "coronaviruscleaningchemicals.com" redirect
 local-data: "coronaviruscleaningchemicals.com A 0.0.0.0"
+local-zone: "www.chinecoronavirus.ru" redirect
+local-data: "www.chinecoronavirus.ru A 0.0.0.0"
+local-zone: "coronavirus.changebrasil.org" redirect
+local-data: "coronavirus.changebrasil.org A 0.0.0.0"
+local-zone: "yamaguchi.stopcovid19.jp" redirect
+local-data: "yamaguchi.stopcovid19.jp A 0.0.0.0"
+local-zone: "biobestcovid19testing.com" redirect
+local-data: "biobestcovid19testing.com A 0.0.0.0"
+local-zone: "realcoronavirus.com" redirect
+local-data: "realcoronavirus.com A 0.0.0.0"
+local-zone: "covid19garance.eu" redirect
+local-data: "covid19garance.eu A 0.0.0.0"
+local-zone: "api.491aa455.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.491aa455.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19.sudhir.dev" redirect
+local-data: "covid19.sudhir.dev A 0.0.0.0"
+local-zone: "stopcovid19.jp" redirect
+local-data: "stopcovid19.jp A 0.0.0.0"
+local-zone: "coronavirustreatment.co.za.bambam.co.za" redirect
+local-data: "coronavirustreatment.co.za.bambam.co.za A 0.0.0.0"
+local-zone: "covid19garance.cz" redirect
+local-data: "covid19garance.cz A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect

@@ -4320,6 +4320,17 @@ zone "www.coronaviruscleaningchemicals.com" { type master; notify no; file null.
 zone "www.coronavirusblog.org" { type master; notify no; file null.zone.file; };
 zone "coronavirusblog.org" { type master; notify no; file null.zone.file; };
 zone "coronaviruscleaningchemicals.com" { type master; notify no; file null.zone.file; };
+zone "www.chinecoronavirus.ru" { type master; notify no; file null.zone.file; };
+zone "coronavirus.changebrasil.org" { type master; notify no; file null.zone.file; };
+zone "yamaguchi.stopcovid19.jp" { type master; notify no; file null.zone.file; };
+zone "biobestcovid19testing.com" { type master; notify no; file null.zone.file; };
+zone "realcoronavirus.com" { type master; notify no; file null.zone.file; };
+zone "covid19garance.eu" { type master; notify no; file null.zone.file; };
+zone "api.491aa455.dev.covid-19.forms.digital.nhs.uk" { type master; notify no; file null.zone.file; };
+zone "covid19.sudhir.dev" { type master; notify no; file null.zone.file; };
+zone "stopcovid19.jp" { type master; notify no; file null.zone.file; };
+zone "coronavirustreatment.co.za.bambam.co.za" { type master; notify no; file null.zone.file; };
+zone "covid19garance.cz" { type master; notify no; file null.zone.file; };
 zone "anticoronavirus.cloud" { type master; notify no; file null.zone.file; };
 zone "anticoronavirustienda.com" { type master; notify no; file null.zone.file; };
 zone "californiacoronaviruslaw.com" { type master; notify no; file null.zone.file; };
