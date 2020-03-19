@@ -9146,6 +9146,56 @@ local-zone: "epicovid19.dirislimasur.gob.pe" redirect
 local-data: "epicovid19.dirislimasur.gob.pe A 0.0.0.0"
 local-zone: "m.aidescovid19.marne.cci.fr" redirect
 local-data: "m.aidescovid19.marne.cci.fr A 0.0.0.0"
+local-zone: "covid19.paperplanetm.com" redirect
+local-data: "covid19.paperplanetm.com A 0.0.0.0"
+local-zone: "coronavirus.loey.repl.run" redirect
+local-data: "coronavirus.loey.repl.run A 0.0.0.0"
+local-zone: "cartelli-covid-19.it" redirect
+local-data: "cartelli-covid-19.it A 0.0.0.0"
+local-zone: "coronavirusitaly.it" redirect
+local-data: "coronavirusitaly.it A 0.0.0.0"
+local-zone: "covid19portugal.org" redirect
+local-data: "covid19portugal.org A 0.0.0.0"
+local-zone: "pma.covid19portugal.org" redirect
+local-data: "pma.covid19portugal.org A 0.0.0.0"
+local-zone: "elizabethtowncovid19match.com" redirect
+local-data: "elizabethtowncovid19match.com A 0.0.0.0"
+local-zone: "monitor.covid19portugal.org" redirect
+local-data: "monitor.covid19portugal.org A 0.0.0.0"
+local-zone: "covid19.geoctrl.com" redirect
+local-data: "covid19.geoctrl.com A 0.0.0.0"
+local-zone: "m.aidescovid19.marne.cci.fr" redirect
+local-data: "m.aidescovid19.marne.cci.fr A 0.0.0.0"
+local-zone: "coronavirus-livetracker.com" redirect
+local-data: "coronavirus-livetracker.com A 0.0.0.0"
+local-zone: "covid19-support.co.uk" redirect
+local-data: "covid19-support.co.uk A 0.0.0.0"
+local-zone: "stop-coronavirus-russia.com" redirect
+local-data: "stop-coronavirus-russia.com A 0.0.0.0"
+local-zone: "anti-coronavirus-optom.ru" redirect
+local-data: "anti-coronavirus-optom.ru A 0.0.0.0"
+local-zone: "772coronavirus.com" redirect
+local-data: "772coronavirus.com A 0.0.0.0"
+local-zone: "fcovid19.org" redirect
+local-data: "fcovid19.org A 0.0.0.0"
+local-zone: "covid19.bioreference.com" redirect
+local-data: "covid19.bioreference.com A 0.0.0.0"
+local-zone: "covid19-support.co.uk" redirect
+local-data: "covid19-support.co.uk A 0.0.0.0"
+local-zone: "stopcovid19virus.com" redirect
+local-data: "stopcovid19virus.com A 0.0.0.0"
+local-zone: "en.arubacovid19.org" redirect
+local-data: "en.arubacovid19.org A 0.0.0.0"
+local-zone: "covid19.codebrowse.in" redirect
+local-data: "covid19.codebrowse.in A 0.0.0.0"
+local-zone: "beatcovid19.co.uk" redirect
+local-data: "beatcovid19.co.uk A 0.0.0.0"
+local-zone: "www.coronavirustutoring.co.uk" redirect
+local-data: "www.coronavirustutoring.co.uk A 0.0.0.0"
+local-zone: "covid19-icu.net" redirect
+local-data: "covid19-icu.net A 0.0.0.0"
+local-zone: "covid19.casebook.net" redirect
+local-data: "covid19.casebook.net A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -9550,6 +9600,12 @@ local-zone: "coronavirusayuda.org" redirect
 local-data: "coronavirusayuda.org A 0.0.0.0"
 local-zone: "learningduringcovid19.com" redirect
 local-data: "learningduringcovid19.com A 0.0.0.0"
+local-zone: "covid19-scenarios.org" redirect
+local-data: "covid19-scenarios.org A 0.0.0.0"
+local-zone: "coronavirusblog.it" redirect
+local-data: "coronavirusblog.it A 0.0.0.0"
+local-zone: "arbeiten-trotz-covid19.de" redirect
+local-data: "arbeiten-trotz-covid19.de A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
