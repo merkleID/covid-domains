@@ -9268,6 +9268,58 @@ local-zone: "covid19.oracle.com" redirect
 local-data: "covid19.oracle.com A 0.0.0.0"
 local-zone: "app.hsecovid19.com" redirect
 local-data: "app.hsecovid19.com A 0.0.0.0"
+local-zone: "verdadescoronavirus.com" redirect
+local-data: "verdadescoronavirus.com A 0.0.0.0"
+local-zone: "sanificazionecoronavirus.info" redirect
+local-data: "sanificazionecoronavirus.info A 0.0.0.0"
+local-zone: "covid19.prixa.ai" redirect
+local-data: "covid19.prixa.ai A 0.0.0.0"
+local-zone: "cprcovid19.com" redirect
+local-data: "cprcovid19.com A 0.0.0.0"
+local-zone: "covid19.javibenitez.com" redirect
+local-data: "covid19.javibenitez.com A 0.0.0.0"
+local-zone: "www.thedailycoronavirus.com" redirect
+local-data: "www.thedailycoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusnobrasil.org" redirect
+local-data: "coronavirusnobrasil.org A 0.0.0.0"
+local-zone: "2019ncovstats.xyz" redirect
+local-data: "2019ncovstats.xyz A 0.0.0.0"
+local-zone: "coronavirus.coverwise.co.uk" redirect
+local-data: "coronavirus.coverwise.co.uk A 0.0.0.0"
+local-zone: "apoio.tracecovid19.min-saude.pt" redirect
+local-data: "apoio.tracecovid19.min-saude.pt A 0.0.0.0"
+local-zone: "anticoronavirus.com.ua" redirect
+local-data: "anticoronavirus.com.ua A 0.0.0.0"
+local-zone: "coronavirus-planeta.online" redirect
+local-data: "coronavirus-planeta.online A 0.0.0.0"
+local-zone: "api.4ddf243f.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.4ddf243f.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "israelcovid19.com" redirect
+local-data: "israelcovid19.com A 0.0.0.0"
+local-zone: "solidarite-covid19.fr" redirect
+local-data: "solidarite-covid19.fr A 0.0.0.0"
+local-zone: "coronavirusproduct.buzz" redirect
+local-data: "coronavirusproduct.buzz A 0.0.0.0"
+local-zone: "covid19.tourism.gov.mv" redirect
+local-data: "covid19.tourism.gov.mv A 0.0.0.0"
+local-zone: "donaciocoronavirus.vallhebron.com" redirect
+local-data: "donaciocoronavirus.vallhebron.com A 0.0.0.0"
+local-zone: "coronavirusfacemask.co.nz" redirect
+local-data: "coronavirusfacemask.co.nz A 0.0.0.0"
+local-zone: "covid19.pro.aw" redirect
+local-data: "covid19.pro.aw A 0.0.0.0"
+local-zone: "coronavirusnl.com" redirect
+local-data: "coronavirusnl.com A 0.0.0.0"
+local-zone: "corona-virus2019.us" redirect
+local-data: "corona-virus2019.us A 0.0.0.0"
+local-zone: "covid19.rezakhaerulanam.com" redirect
+local-data: "covid19.rezakhaerulanam.com A 0.0.0.0"
+local-zone: "www.coronavirusdebtlaw.com" redirect
+local-data: "www.coronavirusdebtlaw.com A 0.0.0.0"
+local-zone: "coronavirusperu.gishub.pe" redirect
+local-data: "coronavirusperu.gishub.pe A 0.0.0.0"
+local-zone: "coronavirusdebtlaw.com" redirect
+local-data: "coronavirusdebtlaw.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -9680,6 +9732,12 @@ local-zone: "arbeiten-trotz-covid19.de" redirect
 local-data: "arbeiten-trotz-covid19.de A 0.0.0.0"
 local-zone: "coronavirusblog.it" redirect
 local-data: "coronavirusblog.it A 0.0.0.0"
+local-zone: "covid19hotel.com" redirect
+local-data: "covid19hotel.com A 0.0.0.0"
+local-zone: "coronaviruslodging.com" redirect
+local-data: "coronaviruslodging.com A 0.0.0.0"
+local-zone: "coronavirusbuildings.net" redirect
+local-data: "coronavirusbuildings.net A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
