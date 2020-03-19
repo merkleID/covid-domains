@@ -8216,6 +8216,48 @@ local-zone: "coronavirus-response.co.uk" redirect
 local-data: "coronavirus-response.co.uk A 0.0.0.0"
 local-zone: "2019-ncov.factube.com" redirect
 local-data: "2019-ncov.factube.com A 0.0.0.0"
+local-zone: "coronavirusmedicaments.com" redirect
+local-data: "coronavirusmedicaments.com A 0.0.0.0"
+local-zone: "www.vidacarecovid19.com.br" redirect
+local-data: "www.vidacarecovid19.com.br A 0.0.0.0"
+local-zone: "www.covid19check.ru" redirect
+local-data: "www.covid19check.ru A 0.0.0.0"
+local-zone: "www.chinavirus.in" redirect
+local-data: "www.chinavirus.in A 0.0.0.0"
+local-zone: "www.covid19.srv.br" redirect
+local-data: "www.covid19.srv.br A 0.0.0.0"
+local-zone: "www.covid19norge.no" redirect
+local-data: "www.covid19norge.no A 0.0.0.0"
+local-zone: "coronavirusresilience.infinityc-group.com" redirect
+local-data: "coronavirusresilience.infinityc-group.com A 0.0.0.0"
+local-zone: "covid19check.nl" redirect
+local-data: "covid19check.nl A 0.0.0.0"
+local-zone: "umcu.covid19check.nl" redirect
+local-data: "umcu.covid19check.nl A 0.0.0.0"
+local-zone: "covid19wiki.nl" redirect
+local-data: "covid19wiki.nl A 0.0.0.0"
+local-zone: "covid19.govcms.gov.au" redirect
+local-data: "covid19.govcms.gov.au A 0.0.0.0"
+local-zone: "shopanticoronavirus.com" redirect
+local-data: "shopanticoronavirus.com A 0.0.0.0"
+local-zone: "www.doihavecovid19.net" redirect
+local-data: "www.doihavecovid19.net A 0.0.0.0"
+local-zone: "covid-19-detector.onrender.com" redirect
+local-data: "covid-19-detector.onrender.com A 0.0.0.0"
+local-zone: "covid19.synsalus.com" redirect
+local-data: "covid19.synsalus.com A 0.0.0.0"
+local-zone: "www.copingwithcovid19.social" redirect
+local-data: "www.copingwithcovid19.social A 0.0.0.0"
+local-zone: "faceofcoronavirus.com" redirect
+local-data: "faceofcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.cdmx.gob.mx" redirect
+local-data: "covid19.cdmx.gob.mx A 0.0.0.0"
+local-zone: "newscoronavirus.com" redirect
+local-data: "newscoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusv19.com" redirect
+local-data: "coronavirusv19.com A 0.0.0.0"
+local-zone: "www.covid19.nrw" redirect
+local-data: "www.covid19.nrw A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
