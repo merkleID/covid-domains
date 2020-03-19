@@ -8110,6 +8110,48 @@ local-zone: "www.coronavirus-moscow.ru" redirect
 local-data: "www.coronavirus-moscow.ru A 0.0.0.0"
 local-zone: "covid19test.ru" redirect
 local-data: "covid19test.ru A 0.0.0.0"
+local-zone: "covid-19-map.live" redirect
+local-data: "covid-19-map.live A 0.0.0.0"
+local-zone: "anticovid-19.chinestate.com" redirect
+local-data: "anticovid-19.chinestate.com A 0.0.0.0"
+local-zone: "covid19dev.jatimprov.go.id" redirect
+local-data: "covid19dev.jatimprov.go.id A 0.0.0.0"
+local-zone: "covid19-info.tk" redirect
+local-data: "covid19-info.tk A 0.0.0.0"
+local-zone: "testnacoronavirus.ru" redirect
+local-data: "testnacoronavirus.ru A 0.0.0.0"
+local-zone: "www.coronavirusjournos.org" redirect
+local-data: "www.coronavirusjournos.org A 0.0.0.0"
+local-zone: "coronavirusscreening.org" redirect
+local-data: "coronavirusscreening.org A 0.0.0.0"
+local-zone: "coronavirus2020.com.pl" redirect
+local-data: "coronavirus2020.com.pl A 0.0.0.0"
+local-zone: "coronavirus.mk" redirect
+local-data: "coronavirus.mk A 0.0.0.0"
+local-zone: "covid19.baltimorejewishlife.com" redirect
+local-data: "covid19.baltimorejewishlife.com A 0.0.0.0"
+local-zone: "covid-19.frostshark.com" redirect
+local-data: "covid-19.frostshark.com A 0.0.0.0"
+local-zone: "it.preventioncoronavirus.shop" redirect
+local-data: "it.preventioncoronavirus.shop A 0.0.0.0"
+local-zone: "en.preventioncoronavirus.shop" redirect
+local-data: "en.preventioncoronavirus.shop A 0.0.0.0"
+local-zone: "nl.preventioncoronavirus.shop" redirect
+local-data: "nl.preventioncoronavirus.shop A 0.0.0.0"
+local-zone: "autocertificazione-covid19.site" redirect
+local-data: "autocertificazione-covid19.site A 0.0.0.0"
+local-zone: "survivecovid-19.ml" redirect
+local-data: "survivecovid-19.ml A 0.0.0.0"
+local-zone: "survivecovid19.ml" redirect
+local-data: "survivecovid19.ml A 0.0.0.0"
+local-zone: "survivecoronavirus.ml" redirect
+local-data: "survivecoronavirus.ml A 0.0.0.0"
+local-zone: "coronavirus.cmbtravel.ro" redirect
+local-data: "coronavirus.cmbtravel.ro A 0.0.0.0"
+local-zone: "www.gocorona-virus.com" redirect
+local-data: "www.gocorona-virus.com A 0.0.0.0"
+local-zone: "2019-ncov.factube.com" redirect
+local-data: "2019-ncov.factube.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -8484,6 +8526,8 @@ local-zone: "covid19-now.ru" redirect
 local-data: "covid19-now.ru A 0.0.0.0"
 local-zone: "covid-2019-dnr.ru" redirect
 local-data: "covid-2019-dnr.ru A 0.0.0.0"
+local-zone: "prcoronavirusmap.com" redirect
+local-data: "prcoronavirusmap.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
