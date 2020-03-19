@@ -8184,6 +8184,38 @@ local-zone: "coronavirusvaccine.club" redirect
 local-data: "coronavirusvaccine.club A 0.0.0.0"
 local-zone: "covid19livestats.online" redirect
 local-data: "covid19livestats.online A 0.0.0.0"
+local-zone: "www.coronavirus-karta.site" redirect
+local-data: "www.coronavirus-karta.site A 0.0.0.0"
+local-zone: "coronavirusdaily.net" redirect
+local-data: "coronavirusdaily.net A 0.0.0.0"
+local-zone: "help-api.covid19ph.net" redirect
+local-data: "help-api.covid19ph.net A 0.0.0.0"
+local-zone: "covid-19.tn" redirect
+local-data: "covid-19.tn A 0.0.0.0"
+local-zone: "www.thinkcovid19.com" redirect
+local-data: "www.thinkcovid19.com A 0.0.0.0"
+local-zone: "thinkcovid19.com" redirect
+local-data: "thinkcovid19.com A 0.0.0.0"
+local-zone: "vaccincovid19.ro" redirect
+local-data: "vaccincovid19.ro A 0.0.0.0"
+local-zone: "id.security.covid-19.dev.juma.cloud" redirect
+local-data: "id.security.covid-19.dev.juma.cloud A 0.0.0.0"
+local-zone: "covid-19-notebooks.devk8s.iunera.com" redirect
+local-data: "covid-19-notebooks.devk8s.iunera.com A 0.0.0.0"
+local-zone: "coronavirus.in.net" redirect
+local-data: "coronavirus.in.net A 0.0.0.0"
+local-zone: "covid19.seruyankab.go.id" redirect
+local-data: "covid19.seruyankab.go.id A 0.0.0.0"
+local-zone: "nyscoronaviruscleaning.com" redirect
+local-data: "nyscoronaviruscleaning.com A 0.0.0.0"
+local-zone: "covid19.sudhir.dev" redirect
+local-data: "covid19.sudhir.dev A 0.0.0.0"
+local-zone: "covid19latrinidad.igorotechitsolutions.com" redirect
+local-data: "covid19latrinidad.igorotechitsolutions.com A 0.0.0.0"
+local-zone: "coronavirus-response.co.uk" redirect
+local-data: "coronavirus-response.co.uk A 0.0.0.0"
+local-zone: "2019-ncov.factube.com" redirect
+local-data: "2019-ncov.factube.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
