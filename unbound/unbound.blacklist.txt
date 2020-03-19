@@ -8372,6 +8372,50 @@ local-zone: "anticoronaviruswholesale.com" redirect
 local-data: "anticoronaviruswholesale.com A 0.0.0.0"
 local-zone: "covid19insights.com" redirect
 local-data: "covid19insights.com A 0.0.0.0"
+local-zone: "covid19ideas.org" redirect
+local-data: "covid19ideas.org A 0.0.0.0"
+local-zone: "coronavirusdisinfecting.services" redirect
+local-data: "coronavirusdisinfecting.services A 0.0.0.0"
+local-zone: "gi-covid19.org" redirect
+local-data: "gi-covid19.org A 0.0.0.0"
+local-zone: "covid19.genieshere.com" redirect
+local-data: "covid19.genieshere.com A 0.0.0.0"
+local-zone: "n95saleforcoronavirus.com" redirect
+local-data: "n95saleforcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusfundinghelp.com" redirect
+local-data: "coronavirusfundinghelp.com A 0.0.0.0"
+local-zone: "covid19.rsudlandak.id" redirect
+local-data: "covid19.rsudlandak.id A 0.0.0.0"
+local-zone: "prevencioncoronavirus.site" redirect
+local-data: "prevencioncoronavirus.site A 0.0.0.0"
+local-zone: "coronavirus-activities.com" redirect
+local-data: "coronavirus-activities.com A 0.0.0.0"
+local-zone: "www.covid19hygiene.store" redirect
+local-data: "www.covid19hygiene.store A 0.0.0.0"
+local-zone: "covid19homeschool.net" redirect
+local-data: "covid19homeschool.net A 0.0.0.0"
+local-zone: "masque-coronavirus.store" redirect
+local-data: "masque-coronavirus.store A 0.0.0.0"
+local-zone: "covid19homeschool.com" redirect
+local-data: "covid19homeschool.com A 0.0.0.0"
+local-zone: "coronavirus.ngo" redirect
+local-data: "coronavirus.ngo A 0.0.0.0"
+local-zone: "covid19homeschoolers.net" redirect
+local-data: "covid19homeschoolers.net A 0.0.0.0"
+local-zone: "covid19homeschoolers.com" redirect
+local-data: "covid19homeschoolers.com A 0.0.0.0"
+local-zone: "coronavirushomeschooling.com" redirect
+local-data: "coronavirushomeschooling.com A 0.0.0.0"
+local-zone: "covid19homeschoolers.org" redirect
+local-data: "covid19homeschoolers.org A 0.0.0.0"
+local-zone: "coronavirushomeschoolers.net" redirect
+local-data: "coronavirushomeschoolers.net A 0.0.0.0"
+local-zone: "coronavirushomeschoolers.com" redirect
+local-data: "coronavirushomeschoolers.com A 0.0.0.0"
+local-zone: "testingcovid19.us" redirect
+local-data: "testingcovid19.us A 0.0.0.0"
+local-zone: "bcscovid19match.com" redirect
+local-data: "bcscovid19match.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
