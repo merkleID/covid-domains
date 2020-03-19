@@ -9240,6 +9240,34 @@ local-zone: "against-coronavirus.com.pl" redirect
 local-data: "against-coronavirus.com.pl A 0.0.0.0"
 local-zone: "coronavirus.pro" redirect
 local-data: "coronavirus.pro A 0.0.0.0"
+local-zone: "covid19admin.eql.ai" redirect
+local-data: "covid19admin.eql.ai A 0.0.0.0"
+local-zone: "covid19mx.org" redirect
+local-data: "covid19mx.org A 0.0.0.0"
+local-zone: "corona-virus-cleaning.com" redirect
+local-data: "corona-virus-cleaning.com A 0.0.0.0"
+local-zone: "www.india-covid19.in" redirect
+local-data: "www.india-covid19.in A 0.0.0.0"
+local-zone: "www.prayeragainstcoronavirus.com" redirect
+local-data: "www.prayeragainstcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirus-response.finance" redirect
+local-data: "coronavirus-response.finance A 0.0.0.0"
+local-zone: "covid19taxhelp.com" redirect
+local-data: "covid19taxhelp.com A 0.0.0.0"
+local-zone: "herbs4covid19.com" redirect
+local-data: "herbs4covid19.com A 0.0.0.0"
+local-zone: "coronaviruspakistan.info" redirect
+local-data: "coronaviruspakistan.info A 0.0.0.0"
+local-zone: "coronavirus-infos.eu" redirect
+local-data: "coronavirus-infos.eu A 0.0.0.0"
+local-zone: "coronavirus.hollandhart.com" redirect
+local-data: "coronavirus.hollandhart.com A 0.0.0.0"
+local-zone: "covid19oficial.org" redirect
+local-data: "covid19oficial.org A 0.0.0.0"
+local-zone: "covid19.oracle.com" redirect
+local-data: "covid19.oracle.com A 0.0.0.0"
+local-zone: "app.hsecovid19.com" redirect
+local-data: "app.hsecovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
