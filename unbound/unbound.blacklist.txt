@@ -9364,6 +9364,42 @@ local-zone: "covid19tax.info" redirect
 local-data: "covid19tax.info A 0.0.0.0"
 local-zone: "coronavirus.wcats.tk" redirect
 local-data: "coronavirus.wcats.tk A 0.0.0.0"
+local-zone: "coronavirus-planeta.ru" redirect
+local-data: "coronavirus-planeta.ru A 0.0.0.0"
+local-zone: "coronavirus.ahead-design.com" redirect
+local-data: "coronavirus.ahead-design.com A 0.0.0.0"
+local-zone: "limitcoronavirus.com" redirect
+local-data: "limitcoronavirus.com A 0.0.0.0"
+local-zone: "covid19-1tfm.onrender.com" redirect
+local-data: "covid19-1tfm.onrender.com A 0.0.0.0"
+local-zone: "covid19bizhelp.com" redirect
+local-data: "covid19bizhelp.com A 0.0.0.0"
+local-zone: "coronavirusmask.best" redirect
+local-data: "coronavirusmask.best A 0.0.0.0"
+local-zone: "covid19ec.brian-molina.net" redirect
+local-data: "covid19ec.brian-molina.net A 0.0.0.0"
+local-zone: "globalcoronavirus.org" redirect
+local-data: "globalcoronavirus.org A 0.0.0.0"
+local-zone: "lojacoronavirus.com" redirect
+local-data: "lojacoronavirus.com A 0.0.0.0"
+local-zone: "www.lojacoronavirus.com" redirect
+local-data: "www.lojacoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusrealtimeupdates.com" redirect
+local-data: "coronavirusrealtimeupdates.com A 0.0.0.0"
+local-zone: "coronavirus.sodascience.nl" redirect
+local-data: "coronavirus.sodascience.nl A 0.0.0.0"
+local-zone: "www.covid19stop.online" redirect
+local-data: "www.covid19stop.online A 0.0.0.0"
+local-zone: "corona-virustherapy.com" redirect
+local-data: "corona-virustherapy.com A 0.0.0.0"
+local-zone: "www.coronavirustherapy.info" redirect
+local-data: "www.coronavirustherapy.info A 0.0.0.0"
+local-zone: "covid19.virustracker.xyz" redirect
+local-data: "covid19.virustracker.xyz A 0.0.0.0"
+local-zone: "iscovid19overyet.com" redirect
+local-data: "iscovid19overyet.com A 0.0.0.0"
+local-zone: "covid19.ivet360.com" redirect
+local-data: "covid19.ivet360.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
