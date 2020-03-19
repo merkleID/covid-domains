@@ -8854,6 +8854,34 @@ local-zone: "www.coronavirus-stat24.ru" redirect
 local-data: "www.coronavirus-stat24.ru A 0.0.0.0"
 local-zone: "covid19support.uk" redirect
 local-data: "covid19support.uk A 0.0.0.0"
+local-zone: "api.dc520d6e.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.dc520d6e.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "dc520d6e.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "dc520d6e.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "mamparaprotectoracoronavirus.com" redirect
+local-data: "mamparaprotectoracoronavirus.com A 0.0.0.0"
+local-zone: "covid19homeschool.org" redirect
+local-data: "covid19homeschool.org A 0.0.0.0"
+local-zone: "covid19outlook.com" redirect
+local-data: "covid19outlook.com A 0.0.0.0"
+local-zone: "coronavirushomeschoolers.org" redirect
+local-data: "coronavirushomeschoolers.org A 0.0.0.0"
+local-zone: "www.coronavirus-hometesting.co.uk" redirect
+local-data: "www.coronavirus-hometesting.co.uk A 0.0.0.0"
+local-zone: "covid19update.site" redirect
+local-data: "covid19update.site A 0.0.0.0"
+local-zone: "www.haveigotcoronavirus.info" redirect
+local-data: "www.haveigotcoronavirus.info A 0.0.0.0"
+local-zone: "covid19lk.cloudsolutions.lk" redirect
+local-data: "covid19lk.cloudsolutions.lk A 0.0.0.0"
+local-zone: "novocoronavirus.recife.pe.gov.br" redirect
+local-data: "novocoronavirus.recife.pe.gov.br A 0.0.0.0"
+local-zone: "covid19.bizumy.com" redirect
+local-data: "covid19.bizumy.com A 0.0.0.0"
+local-zone: "www.covid19-bih.info" redirect
+local-data: "www.covid19-bih.info A 0.0.0.0"
+local-zone: "covid19fun.com" redirect
+local-data: "covid19fun.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
