@@ -12,13 +12,13 @@ File full-domains-list.txt can be used with Pi-Hole.
 
 Credits:
 
-a simple bash-rework based on two covid-related spam-domains list created by:
+a simple bash-script rework based on two covid-related spam-domains list created by:
 
 https://1984.sh/covid19-domains-feed.txt
 
 https://www.malwarepatrol.net/wp-content/uploads/2020/03/covid-19-domains.txt
 
-and then it outputs to dns-daemons respective zone-file formats.
+the bash-script forges the files and then outputs to dns-daemons respective zone-file formats.
 
 Crontab updates every 30 mins.
 
