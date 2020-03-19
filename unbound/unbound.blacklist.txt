@@ -9544,6 +9544,32 @@ local-zone: "covid19.wradvisors.com" redirect
 local-data: "covid19.wradvisors.com A 0.0.0.0"
 local-zone: "sfcovid19solutions.com" redirect
 local-data: "sfcovid19solutions.com A 0.0.0.0"
+local-zone: "aigs-covid19.be" redirect
+local-data: "aigs-covid19.be A 0.0.0.0"
+local-zone: "covid19.othram.com" redirect
+local-data: "covid19.othram.com A 0.0.0.0"
+local-zone: "covid19.devlabs.pro" redirect
+local-data: "covid19.devlabs.pro A 0.0.0.0"
+local-zone: "checkupcovid19.kalbarprov.go.id" redirect
+local-data: "checkupcovid19.kalbarprov.go.id A 0.0.0.0"
+local-zone: "api.17578351.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.17578351.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid-19.rendypermana.com" redirect
+local-data: "covid-19.rendypermana.com A 0.0.0.0"
+local-zone: "17578351.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "17578351.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19health.co.uk" redirect
+local-data: "covid19health.co.uk A 0.0.0.0"
+local-zone: "wellmeadowcovid19.co.uk" redirect
+local-data: "wellmeadowcovid19.co.uk A 0.0.0.0"
+local-zone: "fb.offizieller-coronavirus-ratgeber.de" redirect
+local-data: "fb.offizieller-coronavirus-ratgeber.de A 0.0.0.0"
+local-zone: "detailsdepartment.up.stayhome-covid19.sherrielong.com" redirect
+local-data: "detailsdepartment.up.stayhome-covid19.sherrielong.com A 0.0.0.0"
+local-zone: "anticovid19.life" redirect
+local-data: "anticovid19.life A 0.0.0.0"
+local-zone: "covid19.justfunding.org" redirect
+local-data: "covid19.justfunding.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
