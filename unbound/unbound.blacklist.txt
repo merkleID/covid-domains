@@ -8750,6 +8750,60 @@ local-zone: "covid19.manent.ai" redirect
 local-data: "covid19.manent.ai A 0.0.0.0"
 local-zone: "491aa455.dev.covid-19.forms.digital.nhs.uk" redirect
 local-data: "491aa455.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronavirusmemes.ca" redirect
+local-data: "coronavirusmemes.ca A 0.0.0.0"
+local-zone: "www.covid19assistance.info" redirect
+local-data: "www.covid19assistance.info A 0.0.0.0"
+local-zone: "www.coronavirus-goodnews.com" redirect
+local-data: "www.coronavirus-goodnews.com A 0.0.0.0"
+local-zone: "desafiocovid19.mppe.mp.br" redirect
+local-data: "desafiocovid19.mppe.mp.br A 0.0.0.0"
+local-zone: "mascaracoronavirus.net.br" redirect
+local-data: "mascaracoronavirus.net.br A 0.0.0.0"
+local-zone: "info-coronavirus.ch" redirect
+local-data: "info-coronavirus.ch A 0.0.0.0"
+local-zone: "ddlg-covid19.southeastasia.cloudapp.azure.com" redirect
+local-data: "ddlg-covid19.southeastasia.cloudapp.azure.com A 0.0.0.0"
+local-zone: "covid-19-map.now.sh" redirect
+local-data: "covid-19-map.now.sh A 0.0.0.0"
+local-zone: "covid-19virus.ml" redirect
+local-data: "covid-19virus.ml A 0.0.0.0"
+local-zone: "coronavirus.indiaforchange.org" redirect
+local-data: "coronavirus.indiaforchange.org A 0.0.0.0"
+local-zone: "covid19law.ca" redirect
+local-data: "covid19law.ca A 0.0.0.0"
+local-zone: "coronavirushelpline.ca" redirect
+local-data: "coronavirushelpline.ca A 0.0.0.0"
+local-zone: "centraideeocovid19.ca" redirect
+local-data: "centraideeocovid19.ca A 0.0.0.0"
+local-zone: "covid-19.e-transport.gov.ua" redirect
+local-data: "covid-19.e-transport.gov.ua A 0.0.0.0"
+local-zone: "coronavirus.luzia.chat" redirect
+local-data: "coronavirus.luzia.chat A 0.0.0.0"
+local-zone: "proformula-coronavirus-es.com" redirect
+local-data: "proformula-coronavirus-es.com A 0.0.0.0"
+local-zone: "covid19.fuerte-group.com" redirect
+local-data: "covid19.fuerte-group.com A 0.0.0.0"
+local-zone: "covid19.pallarssobira.cat" redirect
+local-data: "covid19.pallarssobira.cat A 0.0.0.0"
+local-zone: "coronavirus.reworldmedia.com" redirect
+local-data: "coronavirus.reworldmedia.com A 0.0.0.0"
+local-zone: "www.covid19campus.info" redirect
+local-data: "www.covid19campus.info A 0.0.0.0"
+local-zone: "coronavirussurvivaltips.info" redirect
+local-data: "coronavirussurvivaltips.info A 0.0.0.0"
+local-zone: "coronavirusnewsnow.co" redirect
+local-data: "coronavirusnewsnow.co A 0.0.0.0"
+local-zone: "coronaviruscolombia.gov.co" redirect
+local-data: "coronaviruscolombia.gov.co A 0.0.0.0"
+local-zone: "covid19lk.cloudsolutions.lk" redirect
+local-data: "covid19lk.cloudsolutions.lk A 0.0.0.0"
+local-zone: "dc520d6e.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "dc520d6e.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "www.covid-19supplier.com" redirect
+local-data: "www.covid-19supplier.com A 0.0.0.0"
+local-zone: "api.dc520d6e.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.dc520d6e.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -9148,6 +9202,8 @@ local-zone: "test-covid19.co.uk" redirect
 local-data: "test-covid19.co.uk A 0.0.0.0"
 local-zone: "coronavirusayuda.org" redirect
 local-data: "coronavirusayuda.org A 0.0.0.0"
+local-zone: "highlandcovid-19.co.uk" redirect
+local-data: "highlandcovid-19.co.uk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
