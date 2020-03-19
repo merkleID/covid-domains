@@ -9320,6 +9320,50 @@ local-zone: "coronavirusperu.gishub.pe" redirect
 local-data: "coronavirusperu.gishub.pe A 0.0.0.0"
 local-zone: "coronavirusdebtlaw.com" redirect
 local-data: "coronavirusdebtlaw.com A 0.0.0.0"
+local-zone: "coronavirus.crypicode.com" redirect
+local-data: "coronavirus.crypicode.com A 0.0.0.0"
+local-zone: "wyocovid19.org" redirect
+local-data: "wyocovid19.org A 0.0.0.0"
+local-zone: "staysafecovid19.com" redirect
+local-data: "staysafecovid19.com A 0.0.0.0"
+local-zone: "coronavirus.sodascience.nl" redirect
+local-data: "coronavirus.sodascience.nl A 0.0.0.0"
+local-zone: "coronavirus.vallhebron.com" redirect
+local-data: "coronavirus.vallhebron.com A 0.0.0.0"
+local-zone: "www.kn95forcoronavirus.com" redirect
+local-data: "www.kn95forcoronavirus.com A 0.0.0.0"
+local-zone: "project.covid19.fyi" redirect
+local-data: "project.covid19.fyi A 0.0.0.0"
+local-zone: "coronavirus-rolle.ch" redirect
+local-data: "coronavirus-rolle.ch A 0.0.0.0"
+local-zone: "covid19supplies.omnae.com" redirect
+local-data: "covid19supplies.omnae.com A 0.0.0.0"
+local-zone: "anticovid19.site" redirect
+local-data: "anticovid19.site A 0.0.0.0"
+local-zone: "covid19hoyland.hartserver.site" redirect
+local-data: "covid19hoyland.hartserver.site A 0.0.0.0"
+local-zone: "www.coronaviruscongo.org" redirect
+local-data: "www.coronaviruscongo.org A 0.0.0.0"
+local-zone: "covid19.berggroup.app" redirect
+local-data: "covid19.berggroup.app A 0.0.0.0"
+local-zone: "covid19.arbheal.com" redirect
+local-data: "covid19.arbheal.com A 0.0.0.0"
+local-zone: "livecovid19.live" redirect
+local-data: "livecovid19.live A 0.0.0.0"
+local-zone: "coronavirusvakcina.ru" redirect
+local-data: "coronavirusvakcina.ru A 0.0.0.0"
+local-zone: "kitparacoronavirus.com" redirect
+local-data: "kitparacoronavirus.com A 0.0.0.0"
+local-zone: "covid-19-info.ru" redirect
+local-data: "covid-19-info.ru A 0.0.0.0"
+local-zone: "soslegalcoronavirus.com" redirect
+local-data: "soslegalcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirussuppliesuk.co.uk" redirect
+local-data: "coronavirussuppliesuk.co.uk A 0.0.0.0"
+local-zone: "covid19tax.info" redirect
+local-data: "covid19tax.info A 0.0.0.0"
+local-zone: "coronavirus.wcats.tk" redirect
+local-data: "coronavirus.wcats.tk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -9738,6 +9782,8 @@ local-zone: "coronaviruslodging.com" redirect
 local-data: "coronaviruslodging.com A 0.0.0.0"
 local-zone: "coronavirusbuildings.net" redirect
 local-data: "coronavirusbuildings.net A 0.0.0.0"
+local-zone: "maps-coronavirus.ru" redirect
+local-data: "maps-coronavirus.ru A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
