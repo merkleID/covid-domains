@@ -8310,6 +8310,22 @@ local-zone: "coronaviruswatch.ircai.org" redirect
 local-data: "coronaviruswatch.ircai.org A 0.0.0.0"
 local-zone: "covid19.bangka.go.id" redirect
 local-data: "covid19.bangka.go.id A 0.0.0.0"
+local-zone: "covid-19-mirajabeysekara.development.choreo.dev" redirect
+local-data: "covid-19-mirajabeysekara.development.choreo.dev A 0.0.0.0"
+local-zone: "findcovid-19.us" redirect
+local-data: "findcovid-19.us A 0.0.0.0"
+local-zone: "covid19live.pl" redirect
+local-data: "covid19live.pl A 0.0.0.0"
+local-zone: "www.ecuadorcoronavirus.org" redirect
+local-data: "www.ecuadorcoronavirus.org A 0.0.0.0"
+local-zone: "www.chinavirus.in" redirect
+local-data: "www.chinavirus.in A 0.0.0.0"
+local-zone: "coronaviruschile.online" redirect
+local-data: "coronaviruschile.online A 0.0.0.0"
+local-zone: "covid19.dev.hurumap.org" redirect
+local-data: "covid19.dev.hurumap.org A 0.0.0.0"
+local-zone: "covid19.jipraks.com" redirect
+local-data: "covid19.jipraks.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect

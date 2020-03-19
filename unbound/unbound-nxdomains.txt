@@ -4154,6 +4154,14 @@ local-zone: "www.defeatcovid19.org" static
 local-zone: "defeatcovid19.org" static
 local-zone: "coronaviruswatch.ircai.org" static
 local-zone: "covid19.bangka.go.id" static
+local-zone: "covid-19-mirajabeysekara.development.choreo.dev" static
+local-zone: "findcovid-19.us" static
+local-zone: "covid19live.pl" static
+local-zone: "www.ecuadorcoronavirus.org" static
+local-zone: "www.chinavirus.in" static
+local-zone: "coronaviruschile.online" static
+local-zone: "covid19.dev.hurumap.org" static
+local-zone: "covid19.jipraks.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
