@@ -8442,6 +8442,72 @@ local-zone: "covid19.gb.net" redirect
 local-data: "covid19.gb.net A 0.0.0.0"
 local-zone: "covid-19.tn" redirect
 local-data: "covid-19.tn A 0.0.0.0"
+local-zone: "perf.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "perf.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "api.perf.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.perf.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronavirus.stoneagefuel.com" redirect
+local-data: "coronavirus.stoneagefuel.com A 0.0.0.0"
+local-zone: "coronavirus.saude.gov.br" redirect
+local-data: "coronavirus.saude.gov.br A 0.0.0.0"
+local-zone: "truecoronaviruscases.com" redirect
+local-data: "truecoronaviruscases.com A 0.0.0.0"
+local-zone: "coronavirus.brentwoodbaptist.com" redirect
+local-data: "coronavirus.brentwoodbaptist.com A 0.0.0.0"
+local-zone: "covid19-bot.fly.dev" redirect
+local-data: "covid19-bot.fly.dev A 0.0.0.0"
+local-zone: "covid19.agriagen.fr" redirect
+local-data: "covid19.agriagen.fr A 0.0.0.0"
+local-zone: "businessrecoveryaftercovid-19.com" redirect
+local-data: "businessrecoveryaftercovid-19.com A 0.0.0.0"
+local-zone: "www.cabusinessesaftercovid-19.com" redirect
+local-data: "www.cabusinessesaftercovid-19.com A 0.0.0.0"
+local-zone: "covid-19vaccines.org" redirect
+local-data: "covid-19vaccines.org A 0.0.0.0"
+local-zone: "anticoronaviruswholesale.com" redirect
+local-data: "anticoronaviruswholesale.com A 0.0.0.0"
+local-zone: "www.cabusinessessurvivingcovid-19.com" redirect
+local-data: "www.cabusinessessurvivingcovid-19.com A 0.0.0.0"
+local-zone: "californiabusinessesaftercovid-19.com" redirect
+local-data: "californiabusinessesaftercovid-19.com A 0.0.0.0"
+local-zone: "www.californiabusinessessurvivingcovid-19.com" redirect
+local-data: "www.californiabusinessessurvivingcovid-19.com A 0.0.0.0"
+local-zone: "californiabusinessesaftercovid-19.com" redirect
+local-data: "californiabusinessesaftercovid-19.com A 0.0.0.0"
+local-zone: "californiabusinessessurvivingcovid-19.com" redirect
+local-data: "californiabusinessessurvivingcovid-19.com A 0.0.0.0"
+local-zone: "covid19warning.net" redirect
+local-data: "covid19warning.net A 0.0.0.0"
+local-zone: "cabusinessrecoveryaftercoronavirus.com" redirect
+local-data: "cabusinessrecoveryaftercoronavirus.com A 0.0.0.0"
+local-zone: "www.californiabusinesscoronavirus.com" redirect
+local-data: "www.californiabusinesscoronavirus.com A 0.0.0.0"
+local-zone: "covid-19athometest.co.uk" redirect
+local-data: "covid-19athometest.co.uk A 0.0.0.0"
+local-zone: "covid19essentials.co.uk" redirect
+local-data: "covid19essentials.co.uk A 0.0.0.0"
+local-zone: "covid19dashboard.cdc.gov.tw" redirect
+local-data: "covid19dashboard.cdc.gov.tw A 0.0.0.0"
+local-zone: "covid19-coronavirus2020.com" redirect
+local-data: "covid19-coronavirus2020.com A 0.0.0.0"
+local-zone: "getcovid19test.co.uk" redirect
+local-data: "getcovid19test.co.uk A 0.0.0.0"
+local-zone: "covid19-n95masks.com" redirect
+local-data: "covid19-n95masks.com A 0.0.0.0"
+local-zone: "covid-19-nextjs.now.sh" redirect
+local-data: "covid-19-nextjs.now.sh A 0.0.0.0"
+local-zone: "coronavirus-2019ncov.ru" redirect
+local-data: "coronavirus-2019ncov.ru A 0.0.0.0"
+local-zone: "covid19.upgrade.dspace-express.com" redirect
+local-data: "covid19.upgrade.dspace-express.com A 0.0.0.0"
+local-zone: "api.a8d2abe3.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.a8d2abe3.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronavirus2020.kz" redirect
+local-data: "coronavirus2020.kz A 0.0.0.0"
+local-zone: "covid19-stg.ilabsea.org" redirect
+local-data: "covid19-stg.ilabsea.org A 0.0.0.0"
+local-zone: "a8d2abe3.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "a8d2abe3.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -8828,6 +8894,8 @@ local-zone: "coronavirus-novosty.ru" redirect
 local-data: "coronavirus-novosty.ru A 0.0.0.0"
 local-zone: "coronavirusgde.ru" redirect
 local-data: "coronavirusgde.ru A 0.0.0.0"
+local-zone: "covid19-scenarios.now.sh" redirect
+local-data: "covid19-scenarios.now.sh A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

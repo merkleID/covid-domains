@@ -22,4 +22,4 @@ and then it outputs to dns-daemons respective zone-file formats.
 
 Crontab updates every 30 mins.
 
-Current number of domains: 10042
+Current number of domains: 10076
