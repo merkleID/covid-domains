@@ -9652,6 +9652,46 @@ local-zone: "worldwidewebcovid-19.org" redirect
 local-data: "worldwidewebcovid-19.org A 0.0.0.0"
 local-zone: "worldwidewebcovid19.org" redirect
 local-data: "worldwidewebcovid19.org A 0.0.0.0"
+local-zone: "coronavirus8.com" redirect
+local-data: "coronavirus8.com A 0.0.0.0"
+local-zone: "comoprevenircoronavirus.com" redirect
+local-data: "comoprevenircoronavirus.com A 0.0.0.0"
+local-zone: "covid19.pathway.md" redirect
+local-data: "covid19.pathway.md A 0.0.0.0"
+local-zone: "corona-covid19.sexfilmizle.com" redirect
+local-data: "corona-covid19.sexfilmizle.com A 0.0.0.0"
+local-zone: "covid19testpack.com" redirect
+local-data: "covid19testpack.com A 0.0.0.0"
+local-zone: "coronavirus-ap.claytoncagle.repl.run" redirect
+local-data: "coronavirus-ap.claytoncagle.repl.run A 0.0.0.0"
+local-zone: "www.coronavirus-entschaedigungen.de" redirect
+local-data: "www.coronavirus-entschaedigungen.de A 0.0.0.0"
+local-zone: "www.coronavirus-data.org" redirect
+local-data: "www.coronavirus-data.org A 0.0.0.0"
+local-zone: "www.globalcovid19poll.com" redirect
+local-data: "www.globalcovid19poll.com A 0.0.0.0"
+local-zone: "covid19decontaminationservice.com" redirect
+local-data: "covid19decontaminationservice.com A 0.0.0.0"
+local-zone: "coronavirus-data.org" redirect
+local-data: "coronavirus-data.org A 0.0.0.0"
+local-zone: "covid19safetyguide.com" redirect
+local-data: "covid19safetyguide.com A 0.0.0.0"
+local-zone: "webcovid19live.com" redirect
+local-data: "webcovid19live.com A 0.0.0.0"
+local-zone: "chance-of-dying-to-covid-19.mmn031.repl.run" redirect
+local-data: "chance-of-dying-to-covid-19.mmn031.repl.run A 0.0.0.0"
+local-zone: "covid19-prosupport.com" redirect
+local-data: "covid19-prosupport.com A 0.0.0.0"
+local-zone: "491aa455.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "491aa455.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19-map-tunisie.com" redirect
+local-data: "covid19-map-tunisie.com A 0.0.0.0"
+local-zone: "coronavirus.fortune637.com" redirect
+local-data: "coronavirus.fortune637.com A 0.0.0.0"
+local-zone: "coronavirus.gen.in" redirect
+local-data: "coronavirus.gen.in A 0.0.0.0"
+local-zone: "rujamosanteelcovid19.lyown.co" redirect
+local-data: "rujamosanteelcovid19.lyown.co A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -10086,6 +10126,8 @@ local-zone: "coronavirus-markt.de" redirect
 local-data: "coronavirus-markt.de A 0.0.0.0"
 local-zone: "covid-19.smashdelta.com" redirect
 local-data: "covid-19.smashdelta.com A 0.0.0.0"
+local-zone: "medis-vs-covid19.de" redirect
+local-data: "medis-vs-covid19.de A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
