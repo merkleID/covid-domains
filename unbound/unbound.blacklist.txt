@@ -8614,6 +8614,34 @@ local-zone: "covid19test.app" redirect
 local-data: "covid19test.app A 0.0.0.0"
 local-zone: "medicineforcoronavirus.com" redirect
 local-data: "medicineforcoronavirus.com A 0.0.0.0"
+local-zone: "coronaviruschemicals.com" redirect
+local-data: "coronaviruschemicals.com A 0.0.0.0"
+local-zone: "www.coronaviruschemicals.com" redirect
+local-data: "www.coronaviruschemicals.com A 0.0.0.0"
+local-zone: "avoidingcovid19.com" redirect
+local-data: "avoidingcovid19.com A 0.0.0.0"
+local-zone: "coronavirus.arzt.at" redirect
+local-data: "coronavirus.arzt.at A 0.0.0.0"
+local-zone: "coronavirusattackworld.com" redirect
+local-data: "coronavirusattackworld.com A 0.0.0.0"
+local-zone: "chinecoronavirus.ru" redirect
+local-data: "chinecoronavirus.ru A 0.0.0.0"
+local-zone: "covid-19.aacs.tech" redirect
+local-data: "covid-19.aacs.tech A 0.0.0.0"
+local-zone: "dev3.covid19.seie-madagascar.org" redirect
+local-data: "dev3.covid19.seie-madagascar.org A 0.0.0.0"
+local-zone: "pemburucovid19.com" redirect
+local-data: "pemburucovid19.com A 0.0.0.0"
+local-zone: "api.491aa455.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.491aa455.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "www.coronaviruscleaningchemicals.com" redirect
+local-data: "www.coronaviruscleaningchemicals.com A 0.0.0.0"
+local-zone: "www.coronavirusblog.org" redirect
+local-data: "www.coronavirusblog.org A 0.0.0.0"
+local-zone: "coronavirusblog.org" redirect
+local-data: "coronavirusblog.org A 0.0.0.0"
+local-zone: "coronaviruscleaningchemicals.com" redirect
+local-data: "coronaviruscleaningchemicals.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -9002,6 +9030,12 @@ local-zone: "coronavirusgde.ru" redirect
 local-data: "coronavirusgde.ru A 0.0.0.0"
 local-zone: "covid19-scenarios.now.sh" redirect
 local-data: "covid19-scenarios.now.sh A 0.0.0.0"
+local-zone: "maps-coronavirus.ru" redirect
+local-data: "maps-coronavirus.ru A 0.0.0.0"
+local-zone: "chinecoronavirus.ru" redirect
+local-data: "chinecoronavirus.ru A 0.0.0.0"
+local-zone: "covid19-businesssupport.co.uk" redirect
+local-data: "covid19-businesssupport.co.uk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
