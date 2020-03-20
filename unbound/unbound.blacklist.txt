@@ -11338,6 +11338,48 @@ local-zone: "preview.test.covid-19.forms.digital.nhs.uk" redirect
 local-data: "preview.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
 local-zone: "covid19-icu.it" redirect
 local-data: "covid19-icu.it A 0.0.0.0"
+local-zone: "covid19.gunnisoncounty.org" redirect
+local-data: "covid19.gunnisoncounty.org A 0.0.0.0"
+local-zone: "nzcovid19-to-geojson-dev.gke-primary.xerra.nz" redirect
+local-data: "nzcovid19-to-geojson-dev.gke-primary.xerra.nz A 0.0.0.0"
+local-zone: "covid19.emprende.online" redirect
+local-data: "covid19.emprende.online A 0.0.0.0"
+local-zone: "thaicovid19.co" redirect
+local-data: "thaicovid19.co A 0.0.0.0"
+local-zone: "coronavirusbizhelp.com" redirect
+local-data: "coronavirusbizhelp.com A 0.0.0.0"
+local-zone: "deepclean-coronavirus.co.uk" redirect
+local-data: "deepclean-coronavirus.co.uk A 0.0.0.0"
+local-zone: "celebswithcovid19.com" redirect
+local-data: "celebswithcovid19.com A 0.0.0.0"
+local-zone: "covid19reliefcenter.org" redirect
+local-data: "covid19reliefcenter.org A 0.0.0.0"
+local-zone: "www.pestcontrolcoronavirus.com" redirect
+local-data: "www.pestcontrolcoronavirus.com A 0.0.0.0"
+local-zone: "www.newcoronavirus.ru" redirect
+local-data: "www.newcoronavirus.ru A 0.0.0.0"
+local-zone: "4735a7c5.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "4735a7c5.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "api.4735a7c5.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.4735a7c5.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid-19-self-assessment.1800md.com" redirect
+local-data: "covid-19-self-assessment.1800md.com A 0.0.0.0"
+local-zone: "corona-virus-news.xyz" redirect
+local-data: "corona-virus-news.xyz A 0.0.0.0"
+local-zone: "covid19guarda.com" redirect
+local-data: "covid19guarda.com A 0.0.0.0"
+local-zone: "preventcoronaviruss.com" redirect
+local-data: "preventcoronaviruss.com A 0.0.0.0"
+local-zone: "n95coronavirusmasksale.com" redirect
+local-data: "n95coronavirusmasksale.com A 0.0.0.0"
+local-zone: "covid19.rkcf.me" redirect
+local-data: "covid19.rkcf.me A 0.0.0.0"
+local-zone: "rei-covid19.ca" redirect
+local-data: "rei-covid19.ca A 0.0.0.0"
+local-zone: "ilcovid19cc.zendesk.com" redirect
+local-data: "ilcovid19cc.zendesk.com A 0.0.0.0"
+local-zone: "portal-coronavirus.gba.gob.ar" redirect
+local-data: "portal-coronavirus.gba.gob.ar A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -11850,6 +11892,12 @@ local-zone: "maskcoronavirus.it" redirect
 local-data: "maskcoronavirus.it A 0.0.0.0"
 local-zone: "covid19mask.it" redirect
 local-data: "covid19mask.it A 0.0.0.0"
+local-zone: "punchcovid19.com" redirect
+local-data: "punchcovid19.com A 0.0.0.0"
+local-zone: "covid-19.nubestaging.com" redirect
+local-data: "covid-19.nubestaging.com A 0.0.0.0"
+local-zone: "ultimahoracoronavirus.com" redirect
+local-data: "ultimahoracoronavirus.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
