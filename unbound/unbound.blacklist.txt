@@ -11624,6 +11624,24 @@ local-zone: "covid19legalrights.com" redirect
 local-data: "covid19legalrights.com A 0.0.0.0"
 local-zone: "zonasegurabeta.viabcp-covid19.xyz" redirect
 local-data: "zonasegurabeta.viabcp-covid19.xyz A 0.0.0.0"
+local-zone: "coronavirus-express-test.com" redirect
+local-data: "coronavirus-express-test.com A 0.0.0.0"
+local-zone: "covid19calc.org" redirect
+local-data: "covid19calc.org A 0.0.0.0"
+local-zone: "covid19pass.eu" redirect
+local-data: "covid19pass.eu A 0.0.0.0"
+local-zone: "sheldoncovid19.com" redirect
+local-data: "sheldoncovid19.com A 0.0.0.0"
+local-zone: "covid19greencard.com" redirect
+local-data: "covid19greencard.com A 0.0.0.0"
+local-zone: "covid19-isolation.mikstyx.co.uk" redirect
+local-data: "covid19-isolation.mikstyx.co.uk A 0.0.0.0"
+local-zone: "tudosobrecoronavirus.com" redirect
+local-data: "tudosobrecoronavirus.com A 0.0.0.0"
+local-zone: "fismacovid19.com.br" redirect
+local-data: "fismacovid19.com.br A 0.0.0.0"
+local-zone: "coronaviruscleaning.vegas" redirect
+local-data: "coronaviruscleaning.vegas A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
