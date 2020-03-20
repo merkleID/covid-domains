@@ -9834,6 +9834,38 @@ local-zone: "coronavirus.paths.in" redirect
 local-data: "coronavirus.paths.in A 0.0.0.0"
 local-zone: "covid19.formhero.com" redirect
 local-data: "covid19.formhero.com A 0.0.0.0"
+local-zone: "survivalguidecoronavirus.com" redirect
+local-data: "survivalguidecoronavirus.com A 0.0.0.0"
+local-zone: "isurvivedcoronavirus2020.shop" redirect
+local-data: "isurvivedcoronavirus2020.shop A 0.0.0.0"
+local-zone: "globalcoronavirus.org" redirect
+local-data: "globalcoronavirus.org A 0.0.0.0"
+local-zone: "www.attestation-sortie-covid19.fr" redirect
+local-data: "www.attestation-sortie-covid19.fr A 0.0.0.0"
+local-zone: "attestation-coronavirus.fr" redirect
+local-data: "attestation-coronavirus.fr A 0.0.0.0"
+local-zone: "covid19.formhero.com" redirect
+local-data: "covid19.formhero.com A 0.0.0.0"
+local-zone: "www.covid-19.logimetrix.info" redirect
+local-data: "www.covid-19.logimetrix.info A 0.0.0.0"
+local-zone: "soscovid19.info" redirect
+local-data: "soscovid19.info A 0.0.0.0"
+local-zone: "covid19stimuluscheck.com" redirect
+local-data: "covid19stimuluscheck.com A 0.0.0.0"
+local-zone: "www.sos-coronavirus.in2world.ps" redirect
+local-data: "www.sos-coronavirus.in2world.ps A 0.0.0.0"
+local-zone: "coronavirustrend.it" redirect
+local-data: "coronavirustrend.it A 0.0.0.0"
+local-zone: "www.covid-19-italia.it" redirect
+local-data: "www.covid-19-italia.it A 0.0.0.0"
+local-zone: "covid19.fabiocicerchia.it" redirect
+local-data: "covid19.fabiocicerchia.it A 0.0.0.0"
+local-zone: "covid19.meditel.com.co" redirect
+local-data: "covid19.meditel.com.co A 0.0.0.0"
+local-zone: "coronavirusdevotions.com" redirect
+local-data: "coronavirusdevotions.com A 0.0.0.0"
+local-zone: "coronavirustreatment.co.za.bambam.co.za" redirect
+local-data: "coronavirustreatment.co.za.bambam.co.za A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -10270,6 +10302,8 @@ local-zone: "covid-19.smashdelta.com" redirect
 local-data: "covid-19.smashdelta.com A 0.0.0.0"
 local-zone: "medis-vs-covid19.de" redirect
 local-data: "medis-vs-covid19.de A 0.0.0.0"
+local-zone: "attestation-deplacement-coronavirus.fr" redirect
+local-data: "attestation-deplacement-coronavirus.fr A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
