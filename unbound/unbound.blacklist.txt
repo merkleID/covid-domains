@@ -10654,6 +10654,114 @@ local-zone: "pre.coronavirus.secuoyas.com" redirect
 local-data: "pre.coronavirus.secuoyas.com A 0.0.0.0"
 local-zone: "anticovid19.uk" redirect
 local-data: "anticovid19.uk A 0.0.0.0"
+local-zone: "coronavirustestkit.in" redirect
+local-data: "coronavirustestkit.in A 0.0.0.0"
+local-zone: "coronavirus.ibiapaba24horas.com" redirect
+local-data: "coronavirus.ibiapaba24horas.com A 0.0.0.0"
+local-zone: "casoscoronaviruscolombia.com" redirect
+local-data: "casoscoronaviruscolombia.com A 0.0.0.0"
+local-zone: "covid-19rapidtest.co.uk" redirect
+local-data: "covid-19rapidtest.co.uk A 0.0.0.0"
+local-zone: "he.mask-covid19.com" redirect
+local-data: "he.mask-covid19.com A 0.0.0.0"
+local-zone: "cdc-coronavirus.com" redirect
+local-data: "cdc-coronavirus.com A 0.0.0.0"
+local-zone: "covid19.sisaket.co" redirect
+local-data: "covid19.sisaket.co A 0.0.0.0"
+local-zone: "avoidingthecoronavirus.com" redirect
+local-data: "avoidingthecoronavirus.com A 0.0.0.0"
+local-zone: "www.statistics-coronavirus.online" redirect
+local-data: "www.statistics-coronavirus.online A 0.0.0.0"
+local-zone: "www.ayudacovid19.com" redirect
+local-data: "www.ayudacovid19.com A 0.0.0.0"
+local-zone: "stopcovid19ua.online" redirect
+local-data: "stopcovid19ua.online A 0.0.0.0"
+local-zone: "ecomcovid19.cz" redirect
+local-data: "ecomcovid19.cz A 0.0.0.0"
+local-zone: "covid19.infogra.pro" redirect
+local-data: "covid19.infogra.pro A 0.0.0.0"
+local-zone: "www.coronavirus-pu.it" redirect
+local-data: "www.coronavirus-pu.it A 0.0.0.0"
+local-zone: "www.covid19hdf.fr" redirect
+local-data: "www.covid19hdf.fr A 0.0.0.0"
+local-zone: "covid-19.caupo.net" redirect
+local-data: "covid-19.caupo.net A 0.0.0.0"
+local-zone: "coronavirus.bitvest.ng" redirect
+local-data: "coronavirus.bitvest.ng A 0.0.0.0"
+local-zone: "covid19.wealthmarketglobal.com" redirect
+local-data: "covid19.wealthmarketglobal.com A 0.0.0.0"
+local-zone: "coronavirusworkoutprogram.com" redirect
+local-data: "coronavirusworkoutprogram.com A 0.0.0.0"
+local-zone: "www.coronaviruspreventioncenter.com" redirect
+local-data: "www.coronaviruspreventioncenter.com A 0.0.0.0"
+local-zone: "www.coronavirusencordoba.com" redirect
+local-data: "www.coronavirusencordoba.com A 0.0.0.0"
+local-zone: "www.coronavirusscreeningtest.com" redirect
+local-data: "www.coronavirusscreeningtest.com A 0.0.0.0"
+local-zone: "www.corona-virus-masks-sanitizers-gloves-supplies.com" redirect
+local-data: "www.corona-virus-masks-sanitizers-gloves-supplies.com A 0.0.0.0"
+local-zone: "coronavirusdetectionkit.com" redirect
+local-data: "coronavirusdetectionkit.com A 0.0.0.0"
+local-zone: "www.coronavirusmapsproject.com" redirect
+local-data: "www.coronavirusmapsproject.com A 0.0.0.0"
+local-zone: "coronavirusfreevaccine.com" redirect
+local-data: "coronavirusfreevaccine.com A 0.0.0.0"
+local-zone: "coronavirusworkouts.com" redirect
+local-data: "coronavirusworkouts.com A 0.0.0.0"
+local-zone: "www.coronavirusua.com" redirect
+local-data: "www.coronavirusua.com A 0.0.0.0"
+local-zone: "coronavirus-prepare.com" redirect
+local-data: "coronavirus-prepare.com A 0.0.0.0"
+local-zone: "coronavirusmendoza.com" redirect
+local-data: "coronavirusmendoza.com A 0.0.0.0"
+local-zone: "coronavirus-lockdowns.anouknox.com" redirect
+local-data: "coronavirus-lockdowns.anouknox.com A 0.0.0.0"
+local-zone: "www.coronavirusmedicalmasks.com" redirect
+local-data: "www.coronavirusmedicalmasks.com A 0.0.0.0"
+local-zone: "coronavirus-superstore.com" redirect
+local-data: "coronavirus-superstore.com A 0.0.0.0"
+local-zone: "coronaviruscondition.com" redirect
+local-data: "coronaviruscondition.com A 0.0.0.0"
+local-zone: "www.coronaviruscognitiveaid.com" redirect
+local-data: "www.coronaviruscognitiveaid.com A 0.0.0.0"
+local-zone: "coronaviruspreventhome.com" redirect
+local-data: "coronaviruspreventhome.com A 0.0.0.0"
+local-zone: "coronavirusdrivethroughtesting.com" redirect
+local-data: "coronavirusdrivethroughtesting.com A 0.0.0.0"
+local-zone: "coronavirus-bot.com" redirect
+local-data: "coronavirus-bot.com A 0.0.0.0"
+local-zone: "coronavirus-world-prevention.com" redirect
+local-data: "coronavirus-world-prevention.com A 0.0.0.0"
+local-zone: "coronavirusdiseasedailyupdates.com" redirect
+local-data: "coronavirusdiseasedailyupdates.com A 0.0.0.0"
+local-zone: "coronavirusdrivethrutests.com" redirect
+local-data: "coronavirusdrivethrutests.com A 0.0.0.0"
+local-zone: "www.coronavirus-algerie.com" redirect
+local-data: "www.coronavirus-algerie.com A 0.0.0.0"
+local-zone: "coronavirusforkids.com" redirect
+local-data: "coronavirusforkids.com A 0.0.0.0"
+local-zone: "www.coronavirussafeproducts.com" redirect
+local-data: "www.coronavirussafeproducts.com A 0.0.0.0"
+local-zone: "www.coronavirusworkfromhomenow.com" redirect
+local-data: "www.coronavirusworkfromhomenow.com A 0.0.0.0"
+local-zone: "coronavirusitalianews.com" redirect
+local-data: "coronavirusitalianews.com A 0.0.0.0"
+local-zone: "covid19testandprotect.com" redirect
+local-data: "covid19testandprotect.com A 0.0.0.0"
+local-zone: "coronaviruskidz.com" redirect
+local-data: "coronaviruskidz.com A 0.0.0.0"
+local-zone: "battlecreekcovid-19.com" redirect
+local-data: "battlecreekcovid-19.com A 0.0.0.0"
+local-zone: "covid19hdf.fr" redirect
+local-data: "covid19hdf.fr A 0.0.0.0"
+local-zone: "www.covid19-ppe.com" redirect
+local-data: "www.covid19-ppe.com A 0.0.0.0"
+local-zone: "covid19pvd.com" redirect
+local-data: "covid19pvd.com A 0.0.0.0"
+local-zone: "www.covid19-diaries.com" redirect
+local-data: "www.covid19-diaries.com A 0.0.0.0"
+local-zone: "coronavirus.kmu.org" redirect
+local-data: "coronavirus.kmu.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -11134,6 +11242,8 @@ local-zone: "covid19inmyarea.com" redirect
 local-data: "covid19inmyarea.com A 0.0.0.0"
 local-zone: "sanificazionicoronavirus.com" redirect
 local-data: "sanificazionicoronavirus.com A 0.0.0.0"
+local-zone: "nlp4covid19.ez.sats.cloud" redirect
+local-data: "nlp4covid19.ez.sats.cloud A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
