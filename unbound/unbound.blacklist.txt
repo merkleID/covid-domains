@@ -9866,6 +9866,30 @@ local-zone: "coronavirusdevotions.com" redirect
 local-data: "coronavirusdevotions.com A 0.0.0.0"
 local-zone: "coronavirustreatment.co.za.bambam.co.za" redirect
 local-data: "coronavirustreatment.co.za.bambam.co.za A 0.0.0.0"
+local-zone: "coronavirus.com.bd" redirect
+local-data: "coronavirus.com.bd A 0.0.0.0"
+local-zone: "johnbortolihascovid-19org.com" redirect
+local-data: "johnbortolihascovid-19org.com A 0.0.0.0"
+local-zone: "coronavirus-italia.live" redirect
+local-data: "coronavirus-italia.live A 0.0.0.0"
+local-zone: "client.ncov-19.net" redirect
+local-data: "client.ncov-19.net A 0.0.0.0"
+local-zone: "covid19carso.mx" redirect
+local-data: "covid19carso.mx A 0.0.0.0"
+local-zone: "covid19.unid.mx" redirect
+local-data: "covid19.unid.mx A 0.0.0.0"
+local-zone: "covid19.iwits.me" redirect
+local-data: "covid19.iwits.me A 0.0.0.0"
+local-zone: "covid19.matheus.me" redirect
+local-data: "covid19.matheus.me A 0.0.0.0"
+local-zone: "coronavirus.digitaler-harz.de" redirect
+local-data: "coronavirus.digitaler-harz.de A 0.0.0.0"
+local-zone: "coronavirusimmunesupport.com" redirect
+local-data: "coronavirusimmunesupport.com A 0.0.0.0"
+local-zone: "coronavirus.kontranews.gr" redirect
+local-data: "coronavirus.kontranews.gr A 0.0.0.0"
+local-zone: "www.coronavirusimmunesupport.com" redirect
+local-data: "www.coronavirusimmunesupport.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
