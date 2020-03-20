@@ -10410,6 +10410,54 @@ local-zone: "covid19-info.app" redirect
 local-data: "covid19-info.app A 0.0.0.0"
 local-zone: "covid19reports.app" redirect
 local-data: "covid19reports.app A 0.0.0.0"
+local-zone: "www.emorycovid19.org" redirect
+local-data: "www.emorycovid19.org A 0.0.0.0"
+local-zone: "ayudasautonomoscoronavirus.es" redirect
+local-data: "ayudasautonomoscoronavirus.es A 0.0.0.0"
+local-zone: "ajudacoronavirus.com.br" redirect
+local-data: "ajudacoronavirus.com.br A 0.0.0.0"
+local-zone: "epidomacovid19.com" redirect
+local-data: "epidomacovid19.com A 0.0.0.0"
+local-zone: "covid-19.emed.hr" redirect
+local-data: "covid-19.emed.hr A 0.0.0.0"
+local-zone: "www.covid19-virus.ru" redirect
+local-data: "www.covid19-virus.ru A 0.0.0.0"
+local-zone: "coronavirusrj.com.br" redirect
+local-data: "coronavirusrj.com.br A 0.0.0.0"
+local-zone: "covid19.redhill.io" redirect
+local-data: "covid19.redhill.io A 0.0.0.0"
+local-zone: "covid19-redhill-io.now.sh" redirect
+local-data: "covid19-redhill-io.now.sh A 0.0.0.0"
+local-zone: "www.coronavirus-112.ru" redirect
+local-data: "www.coronavirus-112.ru A 0.0.0.0"
+local-zone: "mycoronavirusjournal.com" redirect
+local-data: "mycoronavirusjournal.com A 0.0.0.0"
+local-zone: "covid-19-status.anexia.com" redirect
+local-data: "covid-19-status.anexia.com A 0.0.0.0"
+local-zone: "coronavirusconsulta.infofuturo.es" redirect
+local-data: "coronavirusconsulta.infofuturo.es A 0.0.0.0"
+local-zone: "coronavirus.silentek.co.za" redirect
+local-data: "coronavirus.silentek.co.za A 0.0.0.0"
+local-zone: "coronavirus.africa" redirect
+local-data: "coronavirus.africa A 0.0.0.0"
+local-zone: "coronavirus.descontoenem.com.br" redirect
+local-data: "coronavirus.descontoenem.com.br A 0.0.0.0"
+local-zone: "coronavirusbuildingcleaning.com" redirect
+local-data: "coronavirusbuildingcleaning.com A 0.0.0.0"
+local-zone: "coronavirus.rj.gov.br" redirect
+local-data: "coronavirus.rj.gov.br A 0.0.0.0"
+local-zone: "www.coronavirus-info.be" redirect
+local-data: "www.coronavirus-info.be A 0.0.0.0"
+local-zone: "covid-19donator.com" redirect
+local-data: "covid-19donator.com A 0.0.0.0"
+local-zone: "www.covid19manitoba.ca" redirect
+local-data: "www.covid19manitoba.ca A 0.0.0.0"
+local-zone: "coronavirus-business-toolkit.pennyhills.co.uk" redirect
+local-data: "coronavirus-business-toolkit.pennyhills.co.uk A 0.0.0.0"
+local-zone: "covid19.wellvis.org" redirect
+local-data: "covid19.wellvis.org A 0.0.0.0"
+local-zone: "coronavirus.condor-sicherheit.de" redirect
+local-data: "coronavirus.condor-sicherheit.de A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
