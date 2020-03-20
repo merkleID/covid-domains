@@ -9714,6 +9714,36 @@ local-zone: "coronavirus8.com" redirect
 local-data: "coronavirus8.com A 0.0.0.0"
 local-zone: "staging.maladiecoronavirus.fr" redirect
 local-data: "staging.maladiecoronavirus.fr A 0.0.0.0"
+local-zone: "covid19-assessment.ca" redirect
+local-data: "covid19-assessment.ca A 0.0.0.0"
+local-zone: "covid19api.xapix.io" redirect
+local-data: "covid19api.xapix.io A 0.0.0.0"
+local-zone: "helpcoronavirus.org" redirect
+local-data: "helpcoronavirus.org A 0.0.0.0"
+local-zone: "pre.covid19-test.org" redirect
+local-data: "pre.covid19-test.org A 0.0.0.0"
+local-zone: "www.coronavirusmortgagelaw.com" redirect
+local-data: "www.coronavirusmortgagelaw.com A 0.0.0.0"
+local-zone: "491aa455.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "491aa455.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19killer.eu" redirect
+local-data: "covid19killer.eu A 0.0.0.0"
+local-zone: "attestation-coronavirus.fr" redirect
+local-data: "attestation-coronavirus.fr A 0.0.0.0"
+local-zone: "attestation-sortie-coronavirus.fr" redirect
+local-data: "attestation-sortie-coronavirus.fr A 0.0.0.0"
+local-zone: "coronavirusbrasil24h.online" redirect
+local-data: "coronavirusbrasil24h.online A 0.0.0.0"
+local-zone: "coronavirus-maske.docdc.biz" redirect
+local-data: "coronavirus-maske.docdc.biz A 0.0.0.0"
+local-zone: "api.1a07a28f.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.1a07a28f.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19map.uptodate.com" redirect
+local-data: "covid19map.uptodate.com A 0.0.0.0"
+local-zone: "www.covid19.agiletechaccounting.com" redirect
+local-data: "www.covid19.agiletechaccounting.com A 0.0.0.0"
+local-zone: "1a07a28f.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "1a07a28f.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
