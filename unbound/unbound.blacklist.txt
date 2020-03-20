@@ -10540,6 +10540,48 @@ local-zone: "12thfloorcovid19.com" redirect
 local-data: "12thfloorcovid19.com A 0.0.0.0"
 local-zone: "covid19-alfieqashwa.now.sh" redirect
 local-data: "covid19-alfieqashwa.now.sh A 0.0.0.0"
+local-zone: "ayudasautonomoscoronavirus.es" redirect
+local-data: "ayudasautonomoscoronavirus.es A 0.0.0.0"
+local-zone: "covid19-alert.eu" redirect
+local-data: "covid19-alert.eu A 0.0.0.0"
+local-zone: "coronavirustesten.dk" redirect
+local-data: "coronavirustesten.dk A 0.0.0.0"
+local-zone: "covid19ksa.com" redirect
+local-data: "covid19ksa.com A 0.0.0.0"
+local-zone: "www.covid19ksa.com" redirect
+local-data: "www.covid19ksa.com A 0.0.0.0"
+local-zone: "covid19.meetsys.i2kn.com" redirect
+local-data: "covid19.meetsys.i2kn.com A 0.0.0.0"
+local-zone: "www.coronavirus-pu.it" redirect
+local-data: "www.coronavirus-pu.it A 0.0.0.0"
+local-zone: "khcovid19.com" redirect
+local-data: "khcovid19.com A 0.0.0.0"
+local-zone: "coronavirus.transvip.cl" redirect
+local-data: "coronavirus.transvip.cl A 0.0.0.0"
+local-zone: "allthingscoronavirus.com" redirect
+local-data: "allthingscoronavirus.com A 0.0.0.0"
+local-zone: "covid19slayer.site" redirect
+local-data: "covid19slayer.site A 0.0.0.0"
+local-zone: "covid19.nhsgrampian.org" redirect
+local-data: "covid19.nhsgrampian.org A 0.0.0.0"
+local-zone: "covid19.gorobey.it" redirect
+local-data: "covid19.gorobey.it A 0.0.0.0"
+local-zone: "coronavirus-romania.onrender.com" redirect
+local-data: "coronavirus-romania.onrender.com A 0.0.0.0"
+local-zone: "endcovid-19.info" redirect
+local-data: "endcovid-19.info A 0.0.0.0"
+local-zone: "anwalt-coronavirus.de" redirect
+local-data: "anwalt-coronavirus.de A 0.0.0.0"
+local-zone: "www.anywheremathactivitiesforparentsamidcovid-19.com" redirect
+local-data: "www.anywheremathactivitiesforparentsamidcovid-19.com A 0.0.0.0"
+local-zone: "covid19pg.antwebstudio.com" redirect
+local-data: "covid19pg.antwebstudio.com A 0.0.0.0"
+local-zone: "coronavirus-care.co" redirect
+local-data: "coronavirus-care.co A 0.0.0.0"
+local-zone: "help.coronavirus.co" redirect
+local-data: "help.coronavirus.co A 0.0.0.0"
+local-zone: "covid-19.lifesavemw.com" redirect
+local-data: "covid-19.lifesavemw.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -11008,6 +11050,8 @@ local-zone: "orangecountycovid19.com" redirect
 local-data: "orangecountycovid19.com A 0.0.0.0"
 local-zone: "covid-19-corona-test.com" redirect
 local-data: "covid-19-corona-test.com A 0.0.0.0"
+local-zone: "covid19advice.net" redirect
+local-data: "covid19advice.net A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
