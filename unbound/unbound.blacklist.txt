@@ -10184,6 +10184,40 @@ local-zone: "mascherine-coronavirus.store" redirect
 local-data: "mascherine-coronavirus.store A 0.0.0.0"
 local-zone: "covid-19.rmutto.ac.th" redirect
 local-data: "covid-19.rmutto.ac.th A 0.0.0.0"
+local-zone: "covid19.prixa.ai" redirect
+local-data: "covid19.prixa.ai A 0.0.0.0"
+local-zone: "www.covid19awarenesstshirts.org" redirect
+local-data: "www.covid19awarenesstshirts.org A 0.0.0.0"
+local-zone: "www.coronavirusdebtlaw.com" redirect
+local-data: "www.coronavirusdebtlaw.com A 0.0.0.0"
+local-zone: "coronavirusdebtlaw.com" redirect
+local-data: "coronavirusdebtlaw.com A 0.0.0.0"
+local-zone: "coronavirusperu.gishub.pe" redirect
+local-data: "coronavirusperu.gishub.pe A 0.0.0.0"
+local-zone: "coronavirus.york.ac.uk" redirect
+local-data: "coronavirus.york.ac.uk A 0.0.0.0"
+local-zone: "covid19qatar.info" redirect
+local-data: "covid19qatar.info A 0.0.0.0"
+local-zone: "covid-19.med.app" redirect
+local-data: "covid-19.med.app A 0.0.0.0"
+local-zone: "covid19allclear.com" redirect
+local-data: "covid19allclear.com A 0.0.0.0"
+local-zone: "covid-19supportkenilworth.co.uk" redirect
+local-data: "covid-19supportkenilworth.co.uk A 0.0.0.0"
+local-zone: "coronavirusremover.com" redirect
+local-data: "coronavirusremover.com A 0.0.0.0"
+local-zone: "travelupdatebancovid19.pages.ontraport.net" redirect
+local-data: "travelupdatebancovid19.pages.ontraport.net A 0.0.0.0"
+local-zone: "eu.covid19ps.com" redirect
+local-data: "eu.covid19ps.com A 0.0.0.0"
+local-zone: "covid19all.com" redirect
+local-data: "covid19all.com A 0.0.0.0"
+local-zone: "covid19.howmemorysticks.org" redirect
+local-data: "covid19.howmemorysticks.org A 0.0.0.0"
+local-zone: "coronavirusmaskonline.com" redirect
+local-data: "coronavirusmaskonline.com A 0.0.0.0"
+local-zone: "www.coronavirusmaskonline.com" redirect
+local-data: "www.coronavirusmaskonline.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -10634,6 +10668,8 @@ local-zone: "duetocovid19.com" redirect
 local-data: "duetocovid19.com A 0.0.0.0"
 local-zone: "corona-virus2020.ru" redirect
 local-data: "corona-virus2020.ru A 0.0.0.0"
+local-zone: "coronavirus-treatment.co.uk" redirect
+local-data: "coronavirus-treatment.co.uk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
