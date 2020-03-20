@@ -9692,6 +9692,28 @@ local-zone: "coronavirus.gen.in" redirect
 local-data: "coronavirus.gen.in A 0.0.0.0"
 local-zone: "rujamosanteelcovid19.lyown.co" redirect
 local-data: "rujamosanteelcovid19.lyown.co A 0.0.0.0"
+local-zone: "covid-19-status.anexia.com" redirect
+local-data: "covid-19-status.anexia.com A 0.0.0.0"
+local-zone: "www.covid19businesslaw.com" redirect
+local-data: "www.covid19businesslaw.com A 0.0.0.0"
+local-zone: "covid-19-status.anexia.com" redirect
+local-data: "covid-19-status.anexia.com A 0.0.0.0"
+local-zone: "coronavirus.mmn031.repl.run" redirect
+local-data: "coronavirus.mmn031.repl.run A 0.0.0.0"
+local-zone: "covid19project.info" redirect
+local-data: "covid19project.info A 0.0.0.0"
+local-zone: "ur.coronavirus-novaregion.org" redirect
+local-data: "ur.coronavirus-novaregion.org A 0.0.0.0"
+local-zone: "covid-19.zbmed.de" redirect
+local-data: "covid-19.zbmed.de A 0.0.0.0"
+local-zone: "coronavirus1.coronavirus1.es" redirect
+local-data: "coronavirus1.coronavirus1.es A 0.0.0.0"
+local-zone: "www.califcoronavirus.com" redirect
+local-data: "www.califcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirus8.com" redirect
+local-data: "coronavirus8.com A 0.0.0.0"
+local-zone: "staging.maladiecoronavirus.fr" redirect
+local-data: "staging.maladiecoronavirus.fr A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
