@@ -10110,6 +10110,54 @@ local-zone: "coronavirusmasksanitizer.in" redirect
 local-data: "coronavirusmasksanitizer.in A 0.0.0.0"
 local-zone: "blog.covid19live.ca" redirect
 local-data: "blog.covid19live.ca A 0.0.0.0"
+local-zone: "info-covid-19.se" redirect
+local-data: "info-covid-19.se A 0.0.0.0"
+local-zone: "covid19.bioreference.com" redirect
+local-data: "covid19.bioreference.com A 0.0.0.0"
+local-zone: "covid19-support.co.uk" redirect
+local-data: "covid19-support.co.uk A 0.0.0.0"
+local-zone: "covid19.pt" redirect
+local-data: "covid19.pt A 0.0.0.0"
+local-zone: "covid19.fahri.pw" redirect
+local-data: "covid19.fahri.pw A 0.0.0.0"
+local-zone: "covid19posters.searson.com.au" redirect
+local-data: "covid19posters.searson.com.au A 0.0.0.0"
+local-zone: "coronaviruspost.info" redirect
+local-data: "coronaviruspost.info A 0.0.0.0"
+local-zone: "coronavirusblog.xyz" redirect
+local-data: "coronavirusblog.xyz A 0.0.0.0"
+local-zone: "covid19posters.searson.com.au" redirect
+local-data: "covid19posters.searson.com.au A 0.0.0.0"
+local-zone: "covid-19bali.info" redirect
+local-data: "covid-19bali.info A 0.0.0.0"
+local-zone: "manejoycrontroldelcoronavirus.com" redirect
+local-data: "manejoycrontroldelcoronavirus.com A 0.0.0.0"
+local-zone: "ncov19.me" redirect
+local-data: "ncov19.me A 0.0.0.0"
+local-zone: "www.coronavirus-info24.ru" redirect
+local-data: "www.coronavirus-info24.ru A 0.0.0.0"
+local-zone: "corona-virus-map.ru" redirect
+local-data: "corona-virus-map.ru A 0.0.0.0"
+local-zone: "coronavirusin.ru" redirect
+local-data: "coronavirusin.ru A 0.0.0.0"
+local-zone: "coronavirus-russian.ru" redirect
+local-data: "coronavirus-russian.ru A 0.0.0.0"
+local-zone: "coronavirus112.ru" redirect
+local-data: "coronavirus112.ru A 0.0.0.0"
+local-zone: "coronavirus-covid-19-monitoring.ru" redirect
+local-data: "coronavirus-covid-19-monitoring.ru A 0.0.0.0"
+local-zone: "coronavirusa-net.ru" redirect
+local-data: "coronavirusa-net.ru A 0.0.0.0"
+local-zone: "covid-19.conacyt.mx" redirect
+local-data: "covid-19.conacyt.mx A 0.0.0.0"
+local-zone: "coronavirus.jvinicius.net" redirect
+local-data: "coronavirus.jvinicius.net A 0.0.0.0"
+local-zone: "covid-19.rmutto.ac.th" redirect
+local-data: "covid-19.rmutto.ac.th A 0.0.0.0"
+local-zone: "www.covid19.lesmorsolutions.com" redirect
+local-data: "www.covid19.lesmorsolutions.com A 0.0.0.0"
+local-zone: "fightcovid19.vegas" redirect
+local-data: "fightcovid19.vegas A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -10558,6 +10606,8 @@ local-zone: "covid19charts.net" redirect
 local-data: "covid19charts.net A 0.0.0.0"
 local-zone: "duetocovid19.com" redirect
 local-data: "duetocovid19.com A 0.0.0.0"
+local-zone: "corona-virus2020.ru" redirect
+local-data: "corona-virus2020.ru A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
