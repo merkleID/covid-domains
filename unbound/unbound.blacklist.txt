@@ -10158,6 +10158,32 @@ local-zone: "www.covid19.lesmorsolutions.com" redirect
 local-data: "www.covid19.lesmorsolutions.com A 0.0.0.0"
 local-zone: "fightcovid19.vegas" redirect
 local-data: "fightcovid19.vegas A 0.0.0.0"
+local-zone: "covid19.advenio.mx" redirect
+local-data: "covid19.advenio.mx A 0.0.0.0"
+local-zone: "covid19all.com" redirect
+local-data: "covid19all.com A 0.0.0.0"
+local-zone: "covid19live.co.nz" redirect
+local-data: "covid19live.co.nz A 0.0.0.0"
+local-zone: "covid19.csultimates.com" redirect
+local-data: "covid19.csultimates.com A 0.0.0.0"
+local-zone: "doctorcovid19.com" redirect
+local-data: "doctorcovid19.com A 0.0.0.0"
+local-zone: "www.datoscoronavirus.site" redirect
+local-data: "www.datoscoronavirus.site A 0.0.0.0"
+local-zone: "coronavirus-pandemia.site" redirect
+local-data: "coronavirus-pandemia.site A 0.0.0.0"
+local-zone: "coronavirus-ukraine.site" redirect
+local-data: "coronavirus-ukraine.site A 0.0.0.0"
+local-zone: "www.coronavirus-ukraine.site" redirect
+local-data: "www.coronavirus-ukraine.site A 0.0.0.0"
+local-zone: "covid-19.duredemos.com" redirect
+local-data: "covid-19.duredemos.com A 0.0.0.0"
+local-zone: "www.coronavirus-covid19.solutions" redirect
+local-data: "www.coronavirus-covid19.solutions A 0.0.0.0"
+local-zone: "mascherine-coronavirus.store" redirect
+local-data: "mascherine-coronavirus.store A 0.0.0.0"
+local-zone: "covid-19.rmutto.ac.th" redirect
+local-data: "covid-19.rmutto.ac.th A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
