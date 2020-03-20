@@ -10802,6 +10802,62 @@ local-zone: "www.gemeinsam-gegen-covid19.de" redirect
 local-data: "www.gemeinsam-gegen-covid19.de A 0.0.0.0"
 local-zone: "www.duplessiscoronavirusupdate.com" redirect
 local-data: "www.duplessiscoronavirusupdate.com A 0.0.0.0"
+local-zone: "gocovid-19.org" redirect
+local-data: "gocovid-19.org A 0.0.0.0"
+local-zone: "coronavirus-live.de" redirect
+local-data: "coronavirus-live.de A 0.0.0.0"
+local-zone: "foracoronavirus.com.br" redirect
+local-data: "foracoronavirus.com.br A 0.0.0.0"
+local-zone: "evcovid19.callscreen.website" redirect
+local-data: "evcovid19.callscreen.website A 0.0.0.0"
+local-zone: "www.coronavirus-india.info" redirect
+local-data: "www.coronavirus-india.info A 0.0.0.0"
+local-zone: "forum-coronavirus.ru" redirect
+local-data: "forum-coronavirus.ru A 0.0.0.0"
+local-zone: "coronavirus.brentwoodbaptist.com" redirect
+local-data: "coronavirus.brentwoodbaptist.com A 0.0.0.0"
+local-zone: "stpcoronavirus.es" redirect
+local-data: "stpcoronavirus.es A 0.0.0.0"
+local-zone: "businessrecordcovid19.com" redirect
+local-data: "businessrecordcovid19.com A 0.0.0.0"
+local-zone: "coronavirusink.com" redirect
+local-data: "coronavirusink.com A 0.0.0.0"
+local-zone: "coronavirusink.net" redirect
+local-data: "coronavirusink.net A 0.0.0.0"
+local-zone: "coronaviruslgbt.com" redirect
+local-data: "coronaviruslgbt.com A 0.0.0.0"
+local-zone: "covid19ink.world" redirect
+local-data: "covid19ink.world A 0.0.0.0"
+local-zone: "covid-19ink.net" redirect
+local-data: "covid-19ink.net A 0.0.0.0"
+local-zone: "covid19ink.com" redirect
+local-data: "covid19ink.com A 0.0.0.0"
+local-zone: "covid-19ink.com" redirect
+local-data: "covid-19ink.com A 0.0.0.0"
+local-zone: "coronavirusink.life" redirect
+local-data: "coronavirusink.life A 0.0.0.0"
+local-zone: "covid19lgbt.com" redirect
+local-data: "covid19lgbt.com A 0.0.0.0"
+local-zone: "covid19ink.live" redirect
+local-data: "covid19ink.live A 0.0.0.0"
+local-zone: "coronavirusink.live" redirect
+local-data: "coronavirusink.live A 0.0.0.0"
+local-zone: "covid-19lgbt.com" redirect
+local-data: "covid-19lgbt.com A 0.0.0.0"
+local-zone: "coronavirusink.club" redirect
+local-data: "coronavirusink.club A 0.0.0.0"
+local-zone: "coronavirusink.vip" redirect
+local-data: "coronavirusink.vip A 0.0.0.0"
+local-zone: "coronavirusink.world" redirect
+local-data: "coronavirusink.world A 0.0.0.0"
+local-zone: "covid19ink.vip" redirect
+local-data: "covid19ink.vip A 0.0.0.0"
+local-zone: "covid19ink.club" redirect
+local-data: "covid19ink.club A 0.0.0.0"
+local-zone: "covid19.lgbt" redirect
+local-data: "covid19.lgbt A 0.0.0.0"
+local-zone: "covid19.church" redirect
+local-data: "covid19.church A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -11284,6 +11340,10 @@ local-zone: "sanificazionicoronavirus.com" redirect
 local-data: "sanificazionicoronavirus.com A 0.0.0.0"
 local-zone: "nlp4covid19.ez.sats.cloud" redirect
 local-data: "nlp4covid19.ez.sats.cloud A 0.0.0.0"
+local-zone: "covid-19-hotline.com" redirect
+local-data: "covid-19-hotline.com A 0.0.0.0"
+local-zone: "covid19art.net" redirect
+local-data: "covid19art.net A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
