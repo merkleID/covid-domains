@@ -10376,6 +10376,40 @@ local-zone: "coronavirus-news.app" redirect
 local-data: "coronavirus-news.app A 0.0.0.0"
 local-zone: "code-jam-9-coronavirus-trivia.stalaboo.repl.run" redirect
 local-data: "code-jam-9-coronavirus-trivia.stalaboo.repl.run A 0.0.0.0"
+local-zone: "covid19.mkpl.co" redirect
+local-data: "covid19.mkpl.co A 0.0.0.0"
+local-zone: "ncovid19.ml" redirect
+local-data: "ncovid19.ml A 0.0.0.0"
+local-zone: "covid19percentage.com" redirect
+local-data: "covid19percentage.com A 0.0.0.0"
+local-zone: "covid19.bataan.gov.ph" redirect
+local-data: "covid19.bataan.gov.ph A 0.0.0.0"
+local-zone: "feature-covid-19-text.praxis-hecker-thome.stage.km2.io" redirect
+local-data: "feature-covid-19-text.praxis-hecker-thome.stage.km2.io A 0.0.0.0"
+local-zone: "www.contraocoronavirus.com.br" redirect
+local-data: "www.contraocoronavirus.com.br A 0.0.0.0"
+local-zone: "covid19sfp.com" redirect
+local-data: "covid19sfp.com A 0.0.0.0"
+local-zone: "3cd73248.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "3cd73248.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19wh.com" redirect
+local-data: "covid19wh.com A 0.0.0.0"
+local-zone: "www.coronavirus-info.be" redirect
+local-data: "www.coronavirus-info.be A 0.0.0.0"
+local-zone: "www.covid-19athometest.co.uk" redirect
+local-data: "www.covid-19athometest.co.uk A 0.0.0.0"
+local-zone: "www.moscoronavirus.ru" redirect
+local-data: "www.moscoronavirus.ru A 0.0.0.0"
+local-zone: "covid19.dbseer.com" redirect
+local-data: "covid19.dbseer.com A 0.0.0.0"
+local-zone: "codevscovid19.org" redirect
+local-data: "codevscovid19.org A 0.0.0.0"
+local-zone: "coronavirus.caren.app" redirect
+local-data: "coronavirus.caren.app A 0.0.0.0"
+local-zone: "covid19-info.app" redirect
+local-data: "covid19-info.app A 0.0.0.0"
+local-zone: "covid19reports.app" redirect
+local-data: "covid19reports.app A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
