@@ -9744,6 +9744,52 @@ local-zone: "www.covid19.agiletechaccounting.com" redirect
 local-data: "www.covid19.agiletechaccounting.com A 0.0.0.0"
 local-zone: "1a07a28f.test.covid-19.forms.digital.nhs.uk" redirect
 local-data: "1a07a28f.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "www.coronavirus-entschaedigungen.de" redirect
+local-data: "www.coronavirus-entschaedigungen.de A 0.0.0.0"
+local-zone: "www.thetruthaboutcovid19.org" redirect
+local-data: "www.thetruthaboutcovid19.org A 0.0.0.0"
+local-zone: "1a07a28f.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "1a07a28f.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronavirus.zolotoyorel.ru" redirect
+local-data: "coronavirus.zolotoyorel.ru A 0.0.0.0"
+local-zone: "coronavirus.kontranews.gr" redirect
+local-data: "coronavirus.kontranews.gr A 0.0.0.0"
+local-zone: "covid-19-api.goldtomproducti.repl.run" redirect
+local-data: "covid-19-api.goldtomproducti.repl.run A 0.0.0.0"
+local-zone: "megahackcovid19comunicacao.shawee.io" redirect
+local-data: "megahackcovid19comunicacao.shawee.io A 0.0.0.0"
+local-zone: "coronavirus.thecrafttime.com" redirect
+local-data: "coronavirus.thecrafttime.com A 0.0.0.0"
+local-zone: "floridahealthcovid19.gov" redirect
+local-data: "floridahealthcovid19.gov A 0.0.0.0"
+local-zone: "www.covid19tracking.org" redirect
+local-data: "www.covid19tracking.org A 0.0.0.0"
+local-zone: "coronaviruscases.ca" redirect
+local-data: "coronaviruscases.ca A 0.0.0.0"
+local-zone: "225covid19.3cx.co.za" redirect
+local-data: "225covid19.3cx.co.za A 0.0.0.0"
+local-zone: "covid19scam.org" redirect
+local-data: "covid19scam.org A 0.0.0.0"
+local-zone: "covid19scam.net" redirect
+local-data: "covid19scam.net A 0.0.0.0"
+local-zone: "covid-19scam.net" redirect
+local-data: "covid-19scam.net A 0.0.0.0"
+local-zone: "covid-19scams.com" redirect
+local-data: "covid-19scams.com A 0.0.0.0"
+local-zone: "covid-19scams.net" redirect
+local-data: "covid-19scams.net A 0.0.0.0"
+local-zone: "covid19scams.net" redirect
+local-data: "covid19scams.net A 0.0.0.0"
+local-zone: "covid19scams.org" redirect
+local-data: "covid19scams.org A 0.0.0.0"
+local-zone: "coronavirusfraud.org" redirect
+local-data: "coronavirusfraud.org A 0.0.0.0"
+local-zone: "coronavirusfraud.net" redirect
+local-data: "coronavirusfraud.net A 0.0.0.0"
+local-zone: "covid-19scam.org" redirect
+local-data: "covid-19scam.org A 0.0.0.0"
+local-zone: "perf.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "perf.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
