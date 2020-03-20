@@ -10582,6 +10582,44 @@ local-zone: "help.coronavirus.co" redirect
 local-data: "help.coronavirus.co A 0.0.0.0"
 local-zone: "covid-19.lifesavemw.com" redirect
 local-data: "covid-19.lifesavemw.com A 0.0.0.0"
+local-zone: "covid19checker.yemahiatsi.repl.run" redirect
+local-data: "covid19checker.yemahiatsi.repl.run A 0.0.0.0"
+local-zone: "www.arrmcovid19.com" redirect
+local-data: "www.arrmcovid19.com A 0.0.0.0"
+local-zone: "covid-19.2jprocess.com" redirect
+local-data: "covid-19.2jprocess.com A 0.0.0.0"
+local-zone: "reconversie-coronavirus.ro" redirect
+local-data: "reconversie-coronavirus.ro A 0.0.0.0"
+local-zone: "coronaviruscuarentena.es" redirect
+local-data: "coronaviruscuarentena.es A 0.0.0.0"
+local-zone: "coronavirus.universal.co.za" redirect
+local-data: "coronavirus.universal.co.za A 0.0.0.0"
+local-zone: "attorneyscoronavirus.com" redirect
+local-data: "attorneyscoronavirus.com A 0.0.0.0"
+local-zone: "avoidingthecoronavirus.com" redirect
+local-data: "avoidingthecoronavirus.com A 0.0.0.0"
+local-zone: "covid19.nhsgrampian.org" redirect
+local-data: "covid19.nhsgrampian.org A 0.0.0.0"
+local-zone: "covid-19.oec-paris.fr" redirect
+local-data: "covid-19.oec-paris.fr A 0.0.0.0"
+local-zone: "covid19yourstories.com" redirect
+local-data: "covid19yourstories.com A 0.0.0.0"
+local-zone: "hammamlif-covid19.com" redirect
+local-data: "hammamlif-covid19.com A 0.0.0.0"
+local-zone: "covid-19.baseoperationsenterprise.com" redirect
+local-data: "covid-19.baseoperationsenterprise.com A 0.0.0.0"
+local-zone: "corona-virus-update.live" redirect
+local-data: "corona-virus-update.live A 0.0.0.0"
+local-zone: "www.bgrdccoronavirus.com" redirect
+local-data: "www.bgrdccoronavirus.com A 0.0.0.0"
+local-zone: "56691a2f.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "56691a2f.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19-accompagnement-stress-anxiete.ch" redirect
+local-data: "covid19-accompagnement-stress-anxiete.ch A 0.0.0.0"
+local-zone: "covid19-alert.eu" redirect
+local-data: "covid19-alert.eu A 0.0.0.0"
+local-zone: "www.anywheremathactivitiesforparentsamidcovid-19.com" redirect
+local-data: "www.anywheremathactivitiesforparentsamidcovid-19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -11052,6 +11090,14 @@ local-zone: "covid-19-corona-test.com" redirect
 local-data: "covid-19-corona-test.com A 0.0.0.0"
 local-zone: "covid19advice.net" redirect
 local-data: "covid19advice.net A 0.0.0.0"
+local-zone: "attestation-coronavirus.com" redirect
+local-data: "attestation-coronavirus.com A 0.0.0.0"
+local-zone: "coronavirusayuda.org" redirect
+local-data: "coronavirusayuda.org A 0.0.0.0"
+local-zone: "covid19-egypt.com" redirect
+local-data: "covid19-egypt.com A 0.0.0.0"
+local-zone: "covid19inmyarea.com" redirect
+local-data: "covid19inmyarea.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
