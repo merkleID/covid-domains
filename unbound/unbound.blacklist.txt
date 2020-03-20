@@ -10218,6 +10218,32 @@ local-zone: "coronavirusmaskonline.com" redirect
 local-data: "coronavirusmaskonline.com A 0.0.0.0"
 local-zone: "www.coronavirusmaskonline.com" redirect
 local-data: "www.coronavirusmaskonline.com A 0.0.0.0"
+local-zone: "portsmouthcoronavirussupport.org.uk" redirect
+local-data: "portsmouthcoronavirussupport.org.uk A 0.0.0.0"
+local-zone: "coronavirus-eyes.com" redirect
+local-data: "coronavirus-eyes.com A 0.0.0.0"
+local-zone: "covid19.indexhouse.pt" redirect
+local-data: "covid19.indexhouse.pt A 0.0.0.0"
+local-zone: "www.coronavirusprevention.co.za" redirect
+local-data: "www.coronavirusprevention.co.za A 0.0.0.0"
+local-zone: "madeinchinacovid19.com" redirect
+local-data: "madeinchinacovid19.com A 0.0.0.0"
+local-zone: "covid19malta.com" redirect
+local-data: "covid19malta.com A 0.0.0.0"
+local-zone: "coronavirus-jab.co.uk" redirect
+local-data: "coronavirus-jab.co.uk A 0.0.0.0"
+local-zone: "www.madeinchinacovid19.com" redirect
+local-data: "www.madeinchinacovid19.com A 0.0.0.0"
+local-zone: "ncovid19.medconfluence.org" redirect
+local-data: "ncovid19.medconfluence.org A 0.0.0.0"
+local-zone: "www.covid19madeinchina.com" redirect
+local-data: "www.covid19madeinchina.com A 0.0.0.0"
+local-zone: "ncovid19.medconfluence.org" redirect
+local-data: "ncovid19.medconfluence.org A 0.0.0.0"
+local-zone: "covid19mic.com" redirect
+local-data: "covid19mic.com A 0.0.0.0"
+local-zone: "covid19.cumuluslabs.net" redirect
+local-data: "covid19.cumuluslabs.net A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -10668,6 +10694,12 @@ local-zone: "duetocovid19.com" redirect
 local-data: "duetocovid19.com A 0.0.0.0"
 local-zone: "corona-virus2020.ru" redirect
 local-data: "corona-virus2020.ru A 0.0.0.0"
+local-zone: "coronavirus-treatment.co.uk" redirect
+local-data: "coronavirus-treatment.co.uk A 0.0.0.0"
+local-zone: "ringwood-coronavirus.org.uk" redirect
+local-data: "ringwood-coronavirus.org.uk A 0.0.0.0"
+local-zone: "covid19hn.com" redirect
+local-data: "covid19hn.com A 0.0.0.0"
 local-zone: "coronavirus-treatment.co.uk" redirect
 local-data: "coronavirus-treatment.co.uk A 0.0.0.0"
 local-zone: "123corona.com" redirect
