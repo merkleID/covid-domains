@@ -11714,6 +11714,42 @@ local-zone: "covid19faqs.org" redirect
 local-data: "covid19faqs.org A 0.0.0.0"
 local-zone: "covid19dispositivi.it" redirect
 local-data: "covid19dispositivi.it A 0.0.0.0"
+local-zone: "doihavethecoronavirus.org" redirect
+local-data: "doihavethecoronavirus.org A 0.0.0.0"
+local-zone: "erte-por-coronavirus.es" redirect
+local-data: "erte-por-coronavirus.es A 0.0.0.0"
+local-zone: "coronavirus.loscorralesdebuelna.es" redirect
+local-data: "coronavirus.loscorralesdebuelna.es A 0.0.0.0"
+local-zone: "api2.app-covid-19.org" redirect
+local-data: "api2.app-covid-19.org A 0.0.0.0"
+local-zone: "clejewishcovid19.com" redirect
+local-data: "clejewishcovid19.com A 0.0.0.0"
+local-zone: "www.covid19mexico.mx" redirect
+local-data: "www.covid19mexico.mx A 0.0.0.0"
+local-zone: "coronaviruscasos.es" redirect
+local-data: "coronaviruscasos.es A 0.0.0.0"
+local-zone: "covid19healthbot.cdc.gov" redirect
+local-data: "covid19healthbot.cdc.gov A 0.0.0.0"
+local-zone: "covid-19.gob.es" redirect
+local-data: "covid-19.gob.es A 0.0.0.0"
+local-zone: "www.coronavirus19.net" redirect
+local-data: "www.coronavirus19.net A 0.0.0.0"
+local-zone: "telemedecine-covid19.esante.gouv.fr" redirect
+local-data: "telemedecine-covid19.esante.gouv.fr A 0.0.0.0"
+local-zone: "covid19.staging.atws.ca" redirect
+local-data: "covid19.staging.atws.ca A 0.0.0.0"
+local-zone: "covid19brooklynhelpers.com" redirect
+local-data: "covid19brooklynhelpers.com A 0.0.0.0"
+local-zone: "eurofins-diatherix-covid-19.com" redirect
+local-data: "eurofins-diatherix-covid-19.com A 0.0.0.0"
+local-zone: "www.covid19brooklynhelpers.com" redirect
+local-data: "www.covid19brooklynhelpers.com A 0.0.0.0"
+local-zone: "cdn.covid19checker.de" redirect
+local-data: "cdn.covid19checker.de A 0.0.0.0"
+local-zone: "evcovid19.callscreen.website" redirect
+local-data: "evcovid19.callscreen.website A 0.0.0.0"
+local-zone: "covid-19calistrong.com" redirect
+local-data: "covid-19calistrong.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
