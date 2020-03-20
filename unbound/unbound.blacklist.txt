@@ -11686,6 +11686,34 @@ local-zone: "aviationcovid19.fortisriders.com" redirect
 local-data: "aviationcovid19.fortisriders.com A 0.0.0.0"
 local-zone: "coronavirustwittermap.ics.uci.edu" redirect
 local-data: "coronavirustwittermap.ics.uci.edu A 0.0.0.0"
+local-zone: "coronavirusfootage.com" redirect
+local-data: "coronavirusfootage.com A 0.0.0.0"
+local-zone: "covid19pass.com.pl" redirect
+local-data: "covid19pass.com.pl A 0.0.0.0"
+local-zone: "www.coronaviruscleaningcdc.com" redirect
+local-data: "www.coronaviruscleaningcdc.com A 0.0.0.0"
+local-zone: "covid19dispositivi.it" redirect
+local-data: "covid19dispositivi.it A 0.0.0.0"
+local-zone: "coronavirusfootage.com" redirect
+local-data: "coronavirusfootage.com A 0.0.0.0"
+local-zone: "coronavirus.neuroflow.com" redirect
+local-data: "coronavirus.neuroflow.com A 0.0.0.0"
+local-zone: "covid19.opendz.org" redirect
+local-data: "covid19.opendz.org A 0.0.0.0"
+local-zone: "masque-coronavirus-france.fr" redirect
+local-data: "masque-coronavirus-france.fr A 0.0.0.0"
+local-zone: "en.doihavethecoronavirus.org" redirect
+local-data: "en.doihavethecoronavirus.org A 0.0.0.0"
+local-zone: "www.covid19-recht.de" redirect
+local-data: "www.covid19-recht.de A 0.0.0.0"
+local-zone: "covid19.usts.fr" redirect
+local-data: "covid19.usts.fr A 0.0.0.0"
+local-zone: "coronaviruscleaningcdc.com" redirect
+local-data: "coronaviruscleaningcdc.com A 0.0.0.0"
+local-zone: "covid19faqs.org" redirect
+local-data: "covid19faqs.org A 0.0.0.0"
+local-zone: "covid19dispositivi.it" redirect
+local-data: "covid19dispositivi.it A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -12210,6 +12238,8 @@ local-zone: "covid19data.space" redirect
 local-data: "covid19data.space A 0.0.0.0"
 local-zone: "covid19pa.info" redirect
 local-data: "covid19pa.info A 0.0.0.0"
+local-zone: "covid19au.now.sh" redirect
+local-data: "covid19au.now.sh A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
