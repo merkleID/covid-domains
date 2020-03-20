@@ -10272,6 +10272,12 @@ local-zone: "coronavirus-niger.com" redirect
 local-data: "coronavirus-niger.com A 0.0.0.0"
 local-zone: "covid19coronavirus.site" redirect
 local-data: "covid19coronavirus.site A 0.0.0.0"
+local-zone: "covid19.sindhmonitoringcell.com" redirect
+local-data: "covid19.sindhmonitoringcell.com A 0.0.0.0"
+local-zone: "covid19-dashboard-nextjs.now.sh" redirect
+local-data: "covid19-dashboard-nextjs.now.sh A 0.0.0.0"
+local-zone: "studikalbarcovid-19.live" redirect
+local-data: "studikalbarcovid-19.live A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -10734,6 +10740,8 @@ local-zone: "coronavirustracker.uk" redirect
 local-data: "coronavirustracker.uk A 0.0.0.0"
 local-zone: "ringwood-coronavirus.org.uk" redirect
 local-data: "ringwood-coronavirus.org.uk A 0.0.0.0"
+local-zone: "covid19weko.com" redirect
+local-data: "covid19weko.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

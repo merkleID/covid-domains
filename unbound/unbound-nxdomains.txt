@@ -5135,6 +5135,9 @@ local-zone: "covid19.stage.digital" static
 local-zone: "covid19ana.com" static
 local-zone: "coronavirus-niger.com" static
 local-zone: "covid19coronavirus.site" static
+local-zone: "covid19.sindhmonitoringcell.com" static
+local-zone: "covid19-dashboard-nextjs.now.sh" static
+local-zone: "studikalbarcovid-19.live" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -5366,6 +5369,7 @@ local-zone: "covid19hn.com" static
 local-zone: "coronavirus-treatment.co.uk" static
 local-zone: "coronavirustracker.uk" static
 local-zone: "ringwood-coronavirus.org.uk" static
+local-zone: "covid19weko.com" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
