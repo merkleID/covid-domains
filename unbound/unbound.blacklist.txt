@@ -9890,6 +9890,38 @@ local-zone: "coronavirus.kontranews.gr" redirect
 local-data: "coronavirus.kontranews.gr A 0.0.0.0"
 local-zone: "www.coronavirusimmunesupport.com" redirect
 local-data: "www.coronavirusimmunesupport.com A 0.0.0.0"
+local-zone: "covid19i-ch4ase.com" redirect
+local-data: "covid19i-ch4ase.com A 0.0.0.0"
+local-zone: "coronavirusturkiye.info" redirect
+local-data: "coronavirusturkiye.info A 0.0.0.0"
+local-zone: "www.covid19i-ch4ase.com" redirect
+local-data: "www.covid19i-ch4ase.com A 0.0.0.0"
+local-zone: "www.covid-19.fans" redirect
+local-data: "www.covid-19.fans A 0.0.0.0"
+local-zone: "covid19.go.id" redirect
+local-data: "covid19.go.id A 0.0.0.0"
+local-zone: "coronavirusstaff.com" redirect
+local-data: "coronavirusstaff.com A 0.0.0.0"
+local-zone: "johnbortolihascovid-19.com" redirect
+local-data: "johnbortolihascovid-19.com A 0.0.0.0"
+local-zone: "coronavirusncov.in" redirect
+local-data: "coronavirusncov.in A 0.0.0.0"
+local-zone: "coronavirustshirts.store" redirect
+local-data: "coronavirustshirts.store A 0.0.0.0"
+local-zone: "www.coronavirustshirts.store" redirect
+local-data: "www.coronavirustshirts.store A 0.0.0.0"
+local-zone: "www.coronavirus-world.info" redirect
+local-data: "www.coronavirus-world.info A 0.0.0.0"
+local-zone: "coronavirus.ddns.info" redirect
+local-data: "coronavirus.ddns.info A 0.0.0.0"
+local-zone: "covid-19now.info" redirect
+local-data: "covid-19now.info A 0.0.0.0"
+local-zone: "covid19.adilife.net" redirect
+local-data: "covid19.adilife.net A 0.0.0.0"
+local-zone: "coronavirusprank.com" redirect
+local-data: "coronavirusprank.com A 0.0.0.0"
+local-zone: "aboutthecoronavirus.com" redirect
+local-data: "aboutthecoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -10328,6 +10360,8 @@ local-zone: "medis-vs-covid19.de" redirect
 local-data: "medis-vs-covid19.de A 0.0.0.0"
 local-zone: "attestation-deplacement-coronavirus.fr" redirect
 local-data: "attestation-deplacement-coronavirus.fr A 0.0.0.0"
+local-zone: "covid-19death.com" redirect
+local-data: "covid-19death.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
