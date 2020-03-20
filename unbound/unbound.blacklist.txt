@@ -10492,6 +10492,54 @@ local-zone: "mycoronavirusjournal.com" redirect
 local-data: "mycoronavirusjournal.com A 0.0.0.0"
 local-zone: "testerapidocoronavirus.com.br" redirect
 local-data: "testerapidocoronavirus.com.br A 0.0.0.0"
+local-zone: "www.covid-19-mc.ca" redirect
+local-data: "www.covid-19-mc.ca A 0.0.0.0"
+local-zone: "fb.offizieller-coronavirus-ratgeber.de" redirect
+local-data: "fb.offizieller-coronavirus-ratgeber.de A 0.0.0.0"
+local-zone: "covid19fc.com" redirect
+local-data: "covid19fc.com A 0.0.0.0"
+local-zone: "covid19.syberpublications.site" redirect
+local-data: "covid19.syberpublications.site A 0.0.0.0"
+local-zone: "coronavirus.transvip.cl" redirect
+local-data: "coronavirus.transvip.cl A 0.0.0.0"
+local-zone: "www.joincoronavirusfight.org" redirect
+local-data: "www.joincoronavirusfight.org A 0.0.0.0"
+local-zone: "covid19.cyber-dev.ru" redirect
+local-data: "covid19.cyber-dev.ru A 0.0.0.0"
+local-zone: "coronavirus-news.club" redirect
+local-data: "coronavirus-news.club A 0.0.0.0"
+local-zone: "www.coronavirusworld.club" redirect
+local-data: "www.coronavirusworld.club A 0.0.0.0"
+local-zone: "coronavirus.infectious-disease.info" redirect
+local-data: "coronavirus.infectious-disease.info A 0.0.0.0"
+local-zone: "guelphcoronavirus.ca" redirect
+local-data: "guelphcoronavirus.ca A 0.0.0.0"
+local-zone: "aftercovid19.org" redirect
+local-data: "aftercovid19.org A 0.0.0.0"
+local-zone: "www.covid19desdelatrinxera.com" redirect
+local-data: "www.covid19desdelatrinxera.com A 0.0.0.0"
+local-zone: "covid19parenting.com" redirect
+local-data: "covid19parenting.com A 0.0.0.0"
+local-zone: "combateaocoronavirus.feira.br" redirect
+local-data: "combateaocoronavirus.feira.br A 0.0.0.0"
+local-zone: "www.coronaviruslabtest.com" redirect
+local-data: "www.coronaviruslabtest.com A 0.0.0.0"
+local-zone: "uvckillscoronavirus.com" redirect
+local-data: "uvckillscoronavirus.com A 0.0.0.0"
+local-zone: "prevencaocovid19.com" redirect
+local-data: "prevencaocovid19.com A 0.0.0.0"
+local-zone: "www.helplinecoronavirus.in" redirect
+local-data: "www.helplinecoronavirus.in A 0.0.0.0"
+local-zone: "prevencaocovid19.com" redirect
+local-data: "prevencaocovid19.com A 0.0.0.0"
+local-zone: "coronavirus.vilayatimall.com" redirect
+local-data: "coronavirus.vilayatimall.com A 0.0.0.0"
+local-zone: "rsacovid-19.novaltd.co.za" redirect
+local-data: "rsacovid-19.novaltd.co.za A 0.0.0.0"
+local-zone: "12thfloorcovid19.com" redirect
+local-data: "12thfloorcovid19.com A 0.0.0.0"
+local-zone: "covid19-alfieqashwa.now.sh" redirect
+local-data: "covid19-alfieqashwa.now.sh A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
