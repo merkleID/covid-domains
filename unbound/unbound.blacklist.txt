@@ -9790,6 +9790,50 @@ local-zone: "covid-19scam.org" redirect
 local-data: "covid-19scam.org A 0.0.0.0"
 local-zone: "perf.test.covid-19.forms.digital.nhs.uk" redirect
 local-data: "perf.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "www.coronavirus-stat24.ru" redirect
+local-data: "www.coronavirus-stat24.ru A 0.0.0.0"
+local-zone: "covid-19-test.ru" redirect
+local-data: "covid-19-test.ru A 0.0.0.0"
+local-zone: "questionnaire.arubacovid19.org" redirect
+local-data: "questionnaire.arubacovid19.org A 0.0.0.0"
+local-zone: "www.coronavirususvi.com" redirect
+local-data: "www.coronavirususvi.com A 0.0.0.0"
+local-zone: "coronavirus-updated.co.za" redirect
+local-data: "coronavirus-updated.co.za A 0.0.0.0"
+local-zone: "www.covid19foremployers.com" redirect
+local-data: "www.covid19foremployers.com A 0.0.0.0"
+local-zone: "ethiopia-covid19.com" redirect
+local-data: "ethiopia-covid19.com A 0.0.0.0"
+local-zone: "soscovid19.info" redirect
+local-data: "soscovid19.info A 0.0.0.0"
+local-zone: "api.worldcoronavirus.org" redirect
+local-data: "api.worldcoronavirus.org A 0.0.0.0"
+local-zone: "fogcovid19.com" redirect
+local-data: "fogcovid19.com A 0.0.0.0"
+local-zone: "www.indiacoronavirus.in" redirect
+local-data: "www.indiacoronavirus.in A 0.0.0.0"
+local-zone: "indiacoronavirus.in" redirect
+local-data: "indiacoronavirus.in A 0.0.0.0"
+local-zone: "coronavirusenchile.cl" redirect
+local-data: "coronavirusenchile.cl A 0.0.0.0"
+local-zone: "covid19.alfonsodominguez.es" redirect
+local-data: "covid19.alfonsodominguez.es A 0.0.0.0"
+local-zone: "casoscoronavirus.es" redirect
+local-data: "casoscoronavirus.es A 0.0.0.0"
+local-zone: "webapp.covid19.gob.es" redirect
+local-data: "webapp.covid19.gob.es A 0.0.0.0"
+local-zone: "coronavirus-israel.co.il" redirect
+local-data: "coronavirus-israel.co.il A 0.0.0.0"
+local-zone: "corona-virus-mask.eu" redirect
+local-data: "corona-virus-mask.eu A 0.0.0.0"
+local-zone: "hackcovid19.be" redirect
+local-data: "hackcovid19.be A 0.0.0.0"
+local-zone: "covid-19.iglocska.eu" redirect
+local-data: "covid-19.iglocska.eu A 0.0.0.0"
+local-zone: "coronavirus.paths.in" redirect
+local-data: "coronavirus.paths.in A 0.0.0.0"
+local-zone: "covid19.formhero.com" redirect
+local-data: "covid19.formhero.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
