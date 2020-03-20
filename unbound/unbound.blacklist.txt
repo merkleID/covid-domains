@@ -10302,6 +10302,42 @@ local-zone: "coronavirusapp.implemento.es" redirect
 local-data: "coronavirusapp.implemento.es A 0.0.0.0"
 local-zone: "covid19apandemia.com.br" redirect
 local-data: "covid19apandemia.com.br A 0.0.0.0"
+local-zone: "korea.covid19snapshot.org" redirect
+local-data: "korea.covid19snapshot.org A 0.0.0.0"
+local-zone: "www.coronavirus-pu.it" redirect
+local-data: "www.coronavirus-pu.it A 0.0.0.0"
+local-zone: "virus-covid19.ru" redirect
+local-data: "virus-covid19.ru A 0.0.0.0"
+local-zone: "rstudio.covid19data.dk" redirect
+local-data: "rstudio.covid19data.dk A 0.0.0.0"
+local-zone: "coronavirus.terrafermadasogno.it" redirect
+local-data: "coronavirus.terrafermadasogno.it A 0.0.0.0"
+local-zone: "covid-19.seie-madagascar.org" redirect
+local-data: "covid-19.seie-madagascar.org A 0.0.0.0"
+local-zone: "coronavirus-in-russia.ru" redirect
+local-data: "coronavirus-in-russia.ru A 0.0.0.0"
+local-zone: "covid19idahocares.com" redirect
+local-data: "covid19idahocares.com A 0.0.0.0"
+local-zone: "www.covid-19rapidtest.co.uk" redirect
+local-data: "www.covid-19rapidtest.co.uk A 0.0.0.0"
+local-zone: "k45wcvfy3fdz.covid-19training.gov.au" redirect
+local-data: "k45wcvfy3fdz.covid-19training.gov.au A 0.0.0.0"
+local-zone: "pgadmin.covid19data.dk" redirect
+local-data: "pgadmin.covid19data.dk A 0.0.0.0"
+local-zone: "covid19.ods.app" redirect
+local-data: "covid19.ods.app A 0.0.0.0"
+local-zone: "covid19.dualspace.com" redirect
+local-data: "covid19.dualspace.com A 0.0.0.0"
+local-zone: "novelcoronaviruspandemic.com" redirect
+local-data: "novelcoronaviruspandemic.com A 0.0.0.0"
+local-zone: "covid19news.techreliance-myn.com" redirect
+local-data: "covid19news.techreliance-myn.com A 0.0.0.0"
+local-zone: "covid19wiki.de" redirect
+local-data: "covid19wiki.de A 0.0.0.0"
+local-zone: "qa.coronavirus.ontosight.ai" redirect
+local-data: "qa.coronavirus.ontosight.ai A 0.0.0.0"
+local-zone: "p12zjqpttx2m.covid-19training.gov.au" redirect
+local-data: "p12zjqpttx2m.covid-19training.gov.au A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -10766,6 +10802,8 @@ local-zone: "ringwood-coronavirus.org.uk" redirect
 local-data: "ringwood-coronavirus.org.uk A 0.0.0.0"
 local-zone: "covid19weko.com" redirect
 local-data: "covid19weko.com A 0.0.0.0"
+local-zone: "orangecountycovid19.com" redirect
+local-data: "orangecountycovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
