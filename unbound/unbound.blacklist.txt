@@ -10020,6 +10020,74 @@ local-zone: "www.coronavirusstaff.com" redirect
 local-data: "www.coronavirusstaff.com A 0.0.0.0"
 local-zone: "www.estadisticascoronavirus.com" redirect
 local-data: "www.estadisticascoronavirus.com A 0.0.0.0"
+local-zone: "covid19.homeaffairs.gov.au" redirect
+local-data: "covid19.homeaffairs.gov.au A 0.0.0.0"
+local-zone: "covid19-scenarios.org" redirect
+local-data: "covid19-scenarios.org A 0.0.0.0"
+local-zone: "pharmabel-test-coronavirus.com" redirect
+local-data: "pharmabel-test-coronavirus.com A 0.0.0.0"
+local-zone: "api.ncov-19.net" redirect
+local-data: "api.ncov-19.net A 0.0.0.0"
+local-zone: "www.thegoodnewscoronavirus.com" redirect
+local-data: "www.thegoodnewscoronavirus.com A 0.0.0.0"
+local-zone: "covid19-monitor.net" redirect
+local-data: "covid19-monitor.net A 0.0.0.0"
+local-zone: "sars-cov-2.global" redirect
+local-data: "sars-cov-2.global A 0.0.0.0"
+local-zone: "covid19killersbiz.com" redirect
+local-data: "covid19killersbiz.com A 0.0.0.0"
+local-zone: "www.sars-cov-2.care" redirect
+local-data: "www.sars-cov-2.care A 0.0.0.0"
+local-zone: "jwscovid19.com" redirect
+local-data: "jwscovid19.com A 0.0.0.0"
+local-zone: "www.jwscovid19.com" redirect
+local-data: "www.jwscovid19.com A 0.0.0.0"
+local-zone: "www.coronavirusisolation.org" redirect
+local-data: "www.coronavirusisolation.org A 0.0.0.0"
+local-zone: "fr.coronavirus-novaregion.org" redirect
+local-data: "fr.coronavirus-novaregion.org A 0.0.0.0"
+local-zone: "es.coronavirus-novaregion.org" redirect
+local-data: "es.coronavirus-novaregion.org A 0.0.0.0"
+local-zone: "de.coronavirus-novaregion.org" redirect
+local-data: "de.coronavirus-novaregion.org A 0.0.0.0"
+local-zone: "vi.coronavirus-novaregion.org" redirect
+local-data: "vi.coronavirus-novaregion.org A 0.0.0.0"
+local-zone: "coronavirustestingkit.org" redirect
+local-data: "coronavirustestingkit.org A 0.0.0.0"
+local-zone: "pt.coronavirus-novaregion.org" redirect
+local-data: "pt.coronavirus-novaregion.org A 0.0.0.0"
+local-zone: "coronavirushumano.org" redirect
+local-data: "coronavirushumano.org A 0.0.0.0"
+local-zone: "hi.coronavirus-novaregion.org" redirect
+local-data: "hi.coronavirus-novaregion.org A 0.0.0.0"
+local-zone: "www.coronavirushelprequest.org" redirect
+local-data: "www.coronavirushelprequest.org A 0.0.0.0"
+local-zone: "www.covid19lexington.org" redirect
+local-data: "www.covid19lexington.org A 0.0.0.0"
+local-zone: "ar.coronavirus-novaregion.org" redirect
+local-data: "ar.coronavirus-novaregion.org A 0.0.0.0"
+local-zone: "coronavirusnobrasil.org" redirect
+local-data: "coronavirusnobrasil.org A 0.0.0.0"
+local-zone: "coronavirusisolation.org" redirect
+local-data: "coronavirusisolation.org A 0.0.0.0"
+local-zone: "covid19delivery.org" redirect
+local-data: "covid19delivery.org A 0.0.0.0"
+local-zone: "covid-19-test.org" redirect
+local-data: "covid-19-test.org A 0.0.0.0"
+local-zone: "covid19fight.org" redirect
+local-data: "covid19fight.org A 0.0.0.0"
+local-zone: "covid19telemed.org" redirect
+local-data: "covid19telemed.org A 0.0.0.0"
+local-zone: "elcoronavirus.org" redirect
+local-data: "elcoronavirus.org A 0.0.0.0"
+local-zone: "tipstricksonstayinghealthyduringcoronavirus.health.blog" redirect
+local-data: "tipstricksonstayinghealthyduringcoronavirus.health.blog A 0.0.0.0"
+local-zone: "covid19.unid.mx" redirect
+local-data: "covid19.unid.mx A 0.0.0.0"
+local-zone: "coronavirusvaccine.club" redirect
+local-data: "coronavirusvaccine.club A 0.0.0.0"
+local-zone: "coronavirus.anthropiatry.com" redirect
+local-data: "coronavirus.anthropiatry.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -10460,6 +10528,12 @@ local-zone: "attestation-deplacement-coronavirus.fr" redirect
 local-data: "attestation-deplacement-coronavirus.fr A 0.0.0.0"
 local-zone: "covid-19death.com" redirect
 local-data: "covid-19death.com A 0.0.0.0"
+local-zone: "coronavirusaustralia.org" redirect
+local-data: "coronavirusaustralia.org A 0.0.0.0"
+local-zone: "covid19-project.org" redirect
+local-data: "covid19-project.org A 0.0.0.0"
+local-zone: "covid19charts.net" redirect
+local-data: "covid19charts.net A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
