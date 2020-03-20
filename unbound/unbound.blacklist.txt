@@ -10458,6 +10458,40 @@ local-zone: "covid19.wellvis.org" redirect
 local-data: "covid19.wellvis.org A 0.0.0.0"
 local-zone: "coronavirus.condor-sicherheit.de" redirect
 local-data: "coronavirus.condor-sicherheit.de A 0.0.0.0"
+local-zone: "coronavirusofficedisinfection.com" redirect
+local-data: "coronavirusofficedisinfection.com A 0.0.0.0"
+local-zone: "coronavirus.nae.bet" redirect
+local-data: "coronavirus.nae.bet A 0.0.0.0"
+local-zone: "covid19.wereact.co" redirect
+local-data: "covid19.wereact.co A 0.0.0.0"
+local-zone: "monitor.covid19api.com" redirect
+local-data: "monitor.covid19api.com A 0.0.0.0"
+local-zone: "covid19.babelprov.go.id" redirect
+local-data: "covid19.babelprov.go.id A 0.0.0.0"
+local-zone: "www.covid19details.com" redirect
+local-data: "www.covid19details.com A 0.0.0.0"
+local-zone: "ajudacoronavirus.com.br" redirect
+local-data: "ajudacoronavirus.com.br A 0.0.0.0"
+local-zone: "coronavirusrj.com.br" redirect
+local-data: "coronavirusrj.com.br A 0.0.0.0"
+local-zone: "covid19-v1.0.0.front10.cloud" redirect
+local-data: "covid19-v1.0.0.front10.cloud A 0.0.0.0"
+local-zone: "coronavirus-2.argjolan.ovh" redirect
+local-data: "coronavirus-2.argjolan.ovh A 0.0.0.0"
+local-zone: "coronavirusfile.com" redirect
+local-data: "coronavirusfile.com A 0.0.0.0"
+local-zone: "coronavirus.libertatea.ro" redirect
+local-data: "coronavirus.libertatea.ro A 0.0.0.0"
+local-zone: "covid-19-status.anexia.com" redirect
+local-data: "covid-19-status.anexia.com A 0.0.0.0"
+local-zone: "coronavirus.happythoughts.info" redirect
+local-data: "coronavirus.happythoughts.info A 0.0.0.0"
+local-zone: "joincoronavirusfight.org" redirect
+local-data: "joincoronavirusfight.org A 0.0.0.0"
+local-zone: "mycoronavirusjournal.com" redirect
+local-data: "mycoronavirusjournal.com A 0.0.0.0"
+local-zone: "testerapidocoronavirus.com.br" redirect
+local-data: "testerapidocoronavirus.com.br A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -10924,6 +10958,8 @@ local-zone: "covid19weko.com" redirect
 local-data: "covid19weko.com A 0.0.0.0"
 local-zone: "orangecountycovid19.com" redirect
 local-data: "orangecountycovid19.com A 0.0.0.0"
+local-zone: "covid-19-corona-test.com" redirect
+local-data: "covid-19-corona-test.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
