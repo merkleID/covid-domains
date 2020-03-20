@@ -11180,6 +11180,64 @@ local-zone: "kickcoronavirus.com" redirect
 local-data: "kickcoronavirus.com A 0.0.0.0"
 local-zone: "covid19cellatlas.org" redirect
 local-data: "covid19cellatlas.org A 0.0.0.0"
+local-zone: "westfieldcouncilcovid19.com" redirect
+local-data: "westfieldcouncilcovid19.com A 0.0.0.0"
+local-zone: "santamaria-rs.covid19.erclinic.com.br" redirect
+local-data: "santamaria-rs.covid19.erclinic.com.br A 0.0.0.0"
+local-zone: "churchcovid19.com" redirect
+local-data: "churchcovid19.com A 0.0.0.0"
+local-zone: "www.bridgecovid19.com" redirect
+local-data: "www.bridgecovid19.com A 0.0.0.0"
+local-zone: "apoiogratuitofinanciamentocovid19.macroconsulting.pt" redirect
+local-data: "apoiogratuitofinanciamentocovid19.macroconsulting.pt A 0.0.0.0"
+local-zone: "coronaviruswhiskey.com" redirect
+local-data: "coronaviruswhiskey.com A 0.0.0.0"
+local-zone: "coronaviruswhisky.net" redirect
+local-data: "coronaviruswhisky.net A 0.0.0.0"
+local-zone: "covid19whiskey.net" redirect
+local-data: "covid19whiskey.net A 0.0.0.0"
+local-zone: "covid19cellatlas.org" redirect
+local-data: "covid19cellatlas.org A 0.0.0.0"
+local-zone: "covid-19whiskey.net" redirect
+local-data: "covid-19whiskey.net A 0.0.0.0"
+local-zone: "covid-19beer.com" redirect
+local-data: "covid-19beer.com A 0.0.0.0"
+local-zone: "coronaviruswhisky.com" redirect
+local-data: "coronaviruswhisky.com A 0.0.0.0"
+local-zone: "coronavirusbeer.net" redirect
+local-data: "coronavirusbeer.net A 0.0.0.0"
+local-zone: "coronaviruswhiskey.net" redirect
+local-data: "coronaviruswhiskey.net A 0.0.0.0"
+local-zone: "covid19beer.net" redirect
+local-data: "covid19beer.net A 0.0.0.0"
+local-zone: "coronavirusvodka.com" redirect
+local-data: "coronavirusvodka.com A 0.0.0.0"
+local-zone: "covid19whisky.com" redirect
+local-data: "covid19whisky.com A 0.0.0.0"
+local-zone: "covid-19beer.net" redirect
+local-data: "covid-19beer.net A 0.0.0.0"
+local-zone: "covid19beer.com" redirect
+local-data: "covid19beer.com A 0.0.0.0"
+local-zone: "www.lifeduringcovid19.com" redirect
+local-data: "www.lifeduringcovid19.com A 0.0.0.0"
+local-zone: "covid-19.lv" redirect
+local-data: "covid-19.lv A 0.0.0.0"
+local-zone: "lifeduringcovid19.com" redirect
+local-data: "lifeduringcovid19.com A 0.0.0.0"
+local-zone: "covid19.groupe.schmidt" redirect
+local-data: "covid19.groupe.schmidt A 0.0.0.0"
+local-zone: "liveupdatecoronavirus.com" redirect
+local-data: "liveupdatecoronavirus.com A 0.0.0.0"
+local-zone: "admin.covid19.rnbo.gov.ua" redirect
+local-data: "admin.covid19.rnbo.gov.ua A 0.0.0.0"
+local-zone: "covid19.innoverng.com" redirect
+local-data: "covid19.innoverng.com A 0.0.0.0"
+local-zone: "covid19emsantarem.kriamos.pt" redirect
+local-data: "covid19emsantarem.kriamos.pt A 0.0.0.0"
+local-zone: "covid-19.spenceraccounting.com" redirect
+local-data: "covid-19.spenceraccounting.com A 0.0.0.0"
+local-zone: "mapofcovid-19.live" redirect
+local-data: "mapofcovid-19.live A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -11680,6 +11738,16 @@ local-zone: "testnacovid19.cz" redirect
 local-data: "testnacovid19.cz A 0.0.0.0"
 local-zone: "punchcovid19.com" redirect
 local-data: "punchcovid19.com A 0.0.0.0"
+local-zone: "maskcoronavirus.store" redirect
+local-data: "maskcoronavirus.store A 0.0.0.0"
+local-zone: "maskcovid19.it" redirect
+local-data: "maskcovid19.it A 0.0.0.0"
+local-zone: "maskcovid19.store" redirect
+local-data: "maskcovid19.store A 0.0.0.0"
+local-zone: "maskcovid-19.store" redirect
+local-data: "maskcovid-19.store A 0.0.0.0"
+local-zone: "maskcoronavirus.it" redirect
+local-data: "maskcoronavirus.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
