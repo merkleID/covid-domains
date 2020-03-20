@@ -10338,6 +10338,44 @@ local-zone: "qa.coronavirus.ontosight.ai" redirect
 local-data: "qa.coronavirus.ontosight.ai A 0.0.0.0"
 local-zone: "p12zjqpttx2m.covid-19training.gov.au" redirect
 local-data: "p12zjqpttx2m.covid-19training.gov.au A 0.0.0.0"
+local-zone: "coronavirusuvc.com" redirect
+local-data: "coronavirusuvc.com A 0.0.0.0"
+local-zone: "coronavirus.fatihozpolat.com" redirect
+local-data: "coronavirus.fatihozpolat.com A 0.0.0.0"
+local-zone: "www.covid19.gg" redirect
+local-data: "www.covid19.gg A 0.0.0.0"
+local-zone: "coronavirus.telmanik.com" redirect
+local-data: "coronavirus.telmanik.com A 0.0.0.0"
+local-zone: "covid19.gg" redirect
+local-data: "covid19.gg A 0.0.0.0"
+local-zone: "www.corona-covid19.uk" redirect
+local-data: "www.corona-covid19.uk A 0.0.0.0"
+local-zone: "corona-covid19.uk" redirect
+local-data: "corona-covid19.uk A 0.0.0.0"
+local-zone: "covid19.vantagestudio.net" redirect
+local-data: "covid19.vantagestudio.net A 0.0.0.0"
+local-zone: "coronavirus-epidemia.ru" redirect
+local-data: "coronavirus-epidemia.ru A 0.0.0.0"
+local-zone: "covid19.combros.vn" redirect
+local-data: "covid19.combros.vn A 0.0.0.0"
+local-zone: "covid19.wongpemalang.com" redirect
+local-data: "covid19.wongpemalang.com A 0.0.0.0"
+local-zone: "covid19.simbiotiktech.com" redirect
+local-data: "covid19.simbiotiktech.com A 0.0.0.0"
+local-zone: "coronavirus.fieldfisherjausas.com" redirect
+local-data: "coronavirus.fieldfisherjausas.com A 0.0.0.0"
+local-zone: "covid19reports.app" redirect
+local-data: "covid19reports.app A 0.0.0.0"
+local-zone: "coronavirus.caren.app" redirect
+local-data: "coronavirus.caren.app A 0.0.0.0"
+local-zone: "www.covid19reports.app" redirect
+local-data: "www.covid19reports.app A 0.0.0.0"
+local-zone: "covid19-info.app" redirect
+local-data: "covid19-info.app A 0.0.0.0"
+local-zone: "coronavirus-news.app" redirect
+local-data: "coronavirus-news.app A 0.0.0.0"
+local-zone: "code-jam-9-coronavirus-trivia.stalaboo.repl.run" redirect
+local-data: "code-jam-9-coronavirus-trivia.stalaboo.repl.run A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
