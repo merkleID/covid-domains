@@ -11276,6 +11276,68 @@ local-zone: "covid19tester.my" redirect
 local-data: "covid19tester.my A 0.0.0.0"
 local-zone: "coronavirus.guiaguayaquil.com" redirect
 local-data: "coronavirus.guiaguayaquil.com A 0.0.0.0"
+local-zone: "forums.punchcovid19.com" redirect
+local-data: "forums.punchcovid19.com A 0.0.0.0"
+local-zone: "n95coronavirus.com" redirect
+local-data: "n95coronavirus.com A 0.0.0.0"
+local-zone: "n95coronavirusmasksale.com" redirect
+local-data: "n95coronavirusmasksale.com A 0.0.0.0"
+local-zone: "statistics-coronavirus.ru" redirect
+local-data: "statistics-coronavirus.ru A 0.0.0.0"
+local-zone: "natchezfightscovid19.com" redirect
+local-data: "natchezfightscovid19.com A 0.0.0.0"
+local-zone: "coronavirussolutions.ca" redirect
+local-data: "coronavirussolutions.ca A 0.0.0.0"
+local-zone: "api.3b1c48bf.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.3b1c48bf.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "guiascovid19.com" redirect
+local-data: "guiascovid19.com A 0.0.0.0"
+local-zone: "thecovid19dataproject.com" redirect
+local-data: "thecovid19dataproject.com A 0.0.0.0"
+local-zone: "3b1c48bf.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "3b1c48bf.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "staging.killcoronavirus.ca" redirect
+local-data: "staging.killcoronavirus.ca A 0.0.0.0"
+local-zone: "newscoronavirus.com" redirect
+local-data: "newscoronavirus.com A 0.0.0.0"
+local-zone: "thecoronavirus.ga" redirect
+local-data: "thecoronavirus.ga A 0.0.0.0"
+local-zone: "www.thecovid19dataproject.com" redirect
+local-data: "www.thecovid19dataproject.com A 0.0.0.0"
+local-zone: "habe-ich-coronavirus.de" redirect
+local-data: "habe-ich-coronavirus.de A 0.0.0.0"
+local-zone: "coronaviruscenter.corruptionbuzz.com" redirect
+local-data: "coronaviruscenter.corruptionbuzz.com A 0.0.0.0"
+local-zone: "covid19weed.com" redirect
+local-data: "covid19weed.com A 0.0.0.0"
+local-zone: "canigetacoronavirustestifiwantone.com" redirect
+local-data: "canigetacoronavirustestifiwantone.com A 0.0.0.0"
+local-zone: "covid19pot.net" redirect
+local-data: "covid19pot.net A 0.0.0.0"
+local-zone: "covid-19pot.com" redirect
+local-data: "covid-19pot.com A 0.0.0.0"
+local-zone: "covid-19weed.net" redirect
+local-data: "covid-19weed.net A 0.0.0.0"
+local-zone: "covid-19pot.net" redirect
+local-data: "covid-19pot.net A 0.0.0.0"
+local-zone: "covid19weed.net" redirect
+local-data: "covid19weed.net A 0.0.0.0"
+local-zone: "covid19pot.com" redirect
+local-data: "covid19pot.com A 0.0.0.0"
+local-zone: "ai-covid-19.com" redirect
+local-data: "ai-covid-19.com A 0.0.0.0"
+local-zone: "covid19test.app" redirect
+local-data: "covid19test.app A 0.0.0.0"
+local-zone: "onlinecoronavirustraining.com" redirect
+local-data: "onlinecoronavirustraining.com A 0.0.0.0"
+local-zone: "covid-19.stcenter.net" redirect
+local-data: "covid-19.stcenter.net A 0.0.0.0"
+local-zone: "covid-19-waxdesign.lesriverains-waxdesign.ca" redirect
+local-data: "covid-19-waxdesign.lesriverains-waxdesign.ca A 0.0.0.0"
+local-zone: "preview.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "preview.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19-icu.it" redirect
+local-data: "covid19-icu.it A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -11786,6 +11848,8 @@ local-zone: "maskcovid-19.store" redirect
 local-data: "maskcovid-19.store A 0.0.0.0"
 local-zone: "maskcoronavirus.it" redirect
 local-data: "maskcoronavirus.it A 0.0.0.0"
+local-zone: "covid19mask.it" redirect
+local-data: "covid19mask.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
