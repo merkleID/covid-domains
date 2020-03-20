@@ -11380,6 +11380,40 @@ local-zone: "ilcovid19cc.zendesk.com" redirect
 local-data: "ilcovid19cc.zendesk.com A 0.0.0.0"
 local-zone: "portal-coronavirus.gba.gob.ar" redirect
 local-data: "portal-coronavirus.gba.gob.ar A 0.0.0.0"
+local-zone: "real-covid-19.com" redirect
+local-data: "real-covid-19.com A 0.0.0.0"
+local-zone: "www.reducecoronavirusanxiety.com" redirect
+local-data: "www.reducecoronavirusanxiety.com A 0.0.0.0"
+local-zone: "coronavirus.rionegro.gov.co" redirect
+local-data: "coronavirus.rionegro.gov.co A 0.0.0.0"
+local-zone: "coronavirussongs.com" redirect
+local-data: "coronavirussongs.com A 0.0.0.0"
+local-zone: "onlinecoronavirustraining.com" redirect
+local-data: "onlinecoronavirustraining.com A 0.0.0.0"
+local-zone: "covid19supply.store" redirect
+local-data: "covid19supply.store A 0.0.0.0"
+local-zone: "coronavirus-covid-19.ru.com" redirect
+local-data: "coronavirus-covid-19.ru.com A 0.0.0.0"
+local-zone: "coronavirus-class-action.com" redirect
+local-data: "coronavirus-class-action.com A 0.0.0.0"
+local-zone: "covid19instatest.com" redirect
+local-data: "covid19instatest.com A 0.0.0.0"
+local-zone: "coronavirus-wire.com" redirect
+local-data: "coronavirus-wire.com A 0.0.0.0"
+local-zone: "covid19.wcogo.com" redirect
+local-data: "covid19.wcogo.com A 0.0.0.0"
+local-zone: "covid-19.abcam.com" redirect
+local-data: "covid-19.abcam.com A 0.0.0.0"
+local-zone: "covid19.ingegneriabiomedica.org" redirect
+local-data: "covid19.ingegneriabiomedica.org A 0.0.0.0"
+local-zone: "coronavirus-news.org.uk" redirect
+local-data: "coronavirus-news.org.uk A 0.0.0.0"
+local-zone: "covid19parenting.org" redirect
+local-data: "covid19parenting.org A 0.0.0.0"
+local-zone: "covid19.lukos.org" redirect
+local-data: "covid19.lukos.org A 0.0.0.0"
+local-zone: "findcovid19testing.org" redirect
+local-data: "findcovid19testing.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
