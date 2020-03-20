@@ -10088,6 +10088,28 @@ local-zone: "coronavirusvaccine.club" redirect
 local-data: "coronavirusvaccine.club A 0.0.0.0"
 local-zone: "coronavirus.anthropiatry.com" redirect
 local-data: "coronavirus.anthropiatry.com A 0.0.0.0"
+local-zone: "coronavirusinformer.com" redirect
+local-data: "coronavirusinformer.com A 0.0.0.0"
+local-zone: "spycovid19.com" redirect
+local-data: "spycovid19.com A 0.0.0.0"
+local-zone: "www.covid19artstories.org" redirect
+local-data: "www.covid19artstories.org A 0.0.0.0"
+local-zone: "reducecoronavirusanxiety.org" redirect
+local-data: "reducecoronavirusanxiety.org A 0.0.0.0"
+local-zone: "the-coronavirus.org" redirect
+local-data: "the-coronavirus.org A 0.0.0.0"
+local-zone: "lomitacoronavirus.info" redirect
+local-data: "lomitacoronavirus.info A 0.0.0.0"
+local-zone: "juntoscontraelcovid19.es" redirect
+local-data: "juntoscontraelcovid19.es A 0.0.0.0"
+local-zone: "stopcovid19.pichuchen.tw" redirect
+local-data: "stopcovid19.pichuchen.tw A 0.0.0.0"
+local-zone: "blog.covid19live.ca" redirect
+local-data: "blog.covid19live.ca A 0.0.0.0"
+local-zone: "coronavirusmasksanitizer.in" redirect
+local-data: "coronavirusmasksanitizer.in A 0.0.0.0"
+local-zone: "blog.covid19live.ca" redirect
+local-data: "blog.covid19live.ca A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -10534,6 +10556,8 @@ local-zone: "covid19-project.org" redirect
 local-data: "covid19-project.org A 0.0.0.0"
 local-zone: "covid19charts.net" redirect
 local-data: "covid19charts.net A 0.0.0.0"
+local-zone: "duetocovid19.com" redirect
+local-data: "duetocovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
