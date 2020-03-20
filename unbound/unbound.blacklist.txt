@@ -11140,6 +11140,46 @@ local-zone: "nz.coronavirusdating.com" redirect
 local-data: "nz.coronavirusdating.com A 0.0.0.0"
 local-zone: "covid19-rheuma.de" redirect
 local-data: "covid19-rheuma.de A 0.0.0.0"
+local-zone: "us.coronavirusdating.com" redirect
+local-data: "us.coronavirusdating.com A 0.0.0.0"
+local-zone: "getacoronavirusmask.com" redirect
+local-data: "getacoronavirusmask.com A 0.0.0.0"
+local-zone: "coronavirusweddinghelp.com" redirect
+local-data: "coronavirusweddinghelp.com A 0.0.0.0"
+local-zone: "covid19.servdev.co.ke" redirect
+local-data: "covid19.servdev.co.ke A 0.0.0.0"
+local-zone: "proformula-coronavirus-it.com" redirect
+local-data: "proformula-coronavirus-it.com A 0.0.0.0"
+local-zone: "covid19worldmeter.com" redirect
+local-data: "covid19worldmeter.com A 0.0.0.0"
+local-zone: "covid19.povelyn.com" redirect
+local-data: "covid19.povelyn.com A 0.0.0.0"
+local-zone: "coronavirus-info.co.uk" redirect
+local-data: "coronavirus-info.co.uk A 0.0.0.0"
+local-zone: "covid19.nianalytics.com" redirect
+local-data: "covid19.nianalytics.com A 0.0.0.0"
+local-zone: "coronavirus.medilinea.co" redirect
+local-data: "coronavirus.medilinea.co A 0.0.0.0"
+local-zone: "info.coronavirusinsurancelaw.com" redirect
+local-data: "info.coronavirusinsurancelaw.com A 0.0.0.0"
+local-zone: "italiasgotcovid19.com" redirect
+local-data: "italiasgotcovid19.com A 0.0.0.0"
+local-zone: "ameli-covid19.fr" redirect
+local-data: "ameli-covid19.fr A 0.0.0.0"
+local-zone: "3cxcovid19.my3cx.ru" redirect
+local-data: "3cxcovid19.my3cx.ru A 0.0.0.0"
+local-zone: "covid19.fcpq.coop" redirect
+local-data: "covid19.fcpq.coop A 0.0.0.0"
+local-zone: "coronaviruslivestats.live" redirect
+local-data: "coronaviruslivestats.live A 0.0.0.0"
+local-zone: "www.covid19-que-lire.fr" redirect
+local-data: "www.covid19-que-lire.fr A 0.0.0.0"
+local-zone: "kickcovid19.com" redirect
+local-data: "kickcovid19.com A 0.0.0.0"
+local-zone: "kickcoronavirus.com" redirect
+local-data: "kickcoronavirus.com A 0.0.0.0"
+local-zone: "covid19cellatlas.org" redirect
+local-data: "covid19cellatlas.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -11638,6 +11678,8 @@ local-zone: "coronavirusbusinessdebt.com" redirect
 local-data: "coronavirusbusinessdebt.com A 0.0.0.0"
 local-zone: "testnacovid19.cz" redirect
 local-data: "testnacovid19.cz A 0.0.0.0"
+local-zone: "punchcovid19.com" redirect
+local-data: "punchcovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
