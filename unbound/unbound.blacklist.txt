@@ -10278,6 +10278,30 @@ local-zone: "covid19-dashboard-nextjs.now.sh" redirect
 local-data: "covid19-dashboard-nextjs.now.sh A 0.0.0.0"
 local-zone: "studikalbarcovid-19.live" redirect
 local-data: "studikalbarcovid-19.live A 0.0.0.0"
+local-zone: "coronavirus-ar.com" redirect
+local-data: "coronavirus-ar.com A 0.0.0.0"
+local-zone: "www.covid19pandemicprose.com" redirect
+local-data: "www.covid19pandemicprose.com A 0.0.0.0"
+local-zone: "battlecovid19.zendesk.com" redirect
+local-data: "battlecovid19.zendesk.com A 0.0.0.0"
+local-zone: "www.covid19-kits.com" redirect
+local-data: "www.covid19-kits.com A 0.0.0.0"
+local-zone: "www.covid19percentage.com" redirect
+local-data: "www.covid19percentage.com A 0.0.0.0"
+local-zone: "covid19.manychat.com" redirect
+local-data: "covid19.manychat.com A 0.0.0.0"
+local-zone: "www.covid19artstories.net" redirect
+local-data: "www.covid19artstories.net A 0.0.0.0"
+local-zone: "n95mask-coronavirus.com" redirect
+local-data: "n95mask-coronavirus.com A 0.0.0.0"
+local-zone: "coronavirusadmin.implemento.es" redirect
+local-data: "coronavirusadmin.implemento.es A 0.0.0.0"
+local-zone: "yougotcoronavirus.moe" redirect
+local-data: "yougotcoronavirus.moe A 0.0.0.0"
+local-zone: "coronavirusapp.implemento.es" redirect
+local-data: "coronavirusapp.implemento.es A 0.0.0.0"
+local-zone: "covid19apandemia.com.br" redirect
+local-data: "covid19apandemia.com.br A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
