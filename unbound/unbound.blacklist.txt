@@ -11574,6 +11574,56 @@ local-zone: "covid19-test-kit.com" redirect
 local-data: "covid19-test-kit.com A 0.0.0.0"
 local-zone: "www.covid19action.ca" redirect
 local-data: "www.covid19action.ca A 0.0.0.0"
+local-zone: "www.covid19toll.com" redirect
+local-data: "www.covid19toll.com A 0.0.0.0"
+local-zone: "www.whitmancovid19.com" redirect
+local-data: "www.whitmancovid19.com A 0.0.0.0"
+local-zone: "coronavirus019.com" redirect
+local-data: "coronavirus019.com A 0.0.0.0"
+local-zone: "coronavirusloan.money" redirect
+local-data: "coronavirusloan.money A 0.0.0.0"
+local-zone: "www.mddcbroadcasterscovid19.com" redirect
+local-data: "www.mddcbroadcasterscovid19.com A 0.0.0.0"
+local-zone: "coronavirus.obigra.ru" redirect
+local-data: "coronavirus.obigra.ru A 0.0.0.0"
+local-zone: "www.covid19sickness.com" redirect
+local-data: "www.covid19sickness.com A 0.0.0.0"
+local-zone: "coronavirus.geotecnologias.com" redirect
+local-data: "coronavirus.geotecnologias.com A 0.0.0.0"
+local-zone: "www.racinecoronavirus.org" redirect
+local-data: "www.racinecoronavirus.org A 0.0.0.0"
+local-zone: "covid19.laramiecounty.com" redirect
+local-data: "covid19.laramiecounty.com A 0.0.0.0"
+local-zone: "covid19eo.arnes.si" redirect
+local-data: "covid19eo.arnes.si A 0.0.0.0"
+local-zone: "www.racinecoronavirus.org" redirect
+local-data: "www.racinecoronavirus.org A 0.0.0.0"
+local-zone: "coronavirus.skoposlabs.com" redirect
+local-data: "coronavirus.skoposlabs.com A 0.0.0.0"
+local-zone: "covid19.mvltda.com" redirect
+local-data: "covid19.mvltda.com A 0.0.0.0"
+local-zone: "writeonwallcovid19.com" redirect
+local-data: "writeonwallcovid19.com A 0.0.0.0"
+local-zone: "coronavirus-hometest.eu" redirect
+local-data: "coronavirus-hometest.eu A 0.0.0.0"
+local-zone: "covid19.inlots.com.br" redirect
+local-data: "covid19.inlots.com.br A 0.0.0.0"
+local-zone: "covid19guides.com" redirect
+local-data: "covid19guides.com A 0.0.0.0"
+local-zone: "covid19actionplan.com" redirect
+local-data: "covid19actionplan.com A 0.0.0.0"
+local-zone: "www.coronavirus-hometest.eu" redirect
+local-data: "www.coronavirus-hometest.eu A 0.0.0.0"
+local-zone: "covid19.waypoint.international" redirect
+local-data: "covid19.waypoint.international A 0.0.0.0"
+local-zone: "www.covid19actionplan.com" redirect
+local-data: "www.covid19actionplan.com A 0.0.0.0"
+local-zone: "covid19eo.arnes.si" redirect
+local-data: "covid19eo.arnes.si A 0.0.0.0"
+local-zone: "covid19legalrights.com" redirect
+local-data: "covid19legalrights.com A 0.0.0.0"
+local-zone: "zonasegurabeta.viabcp-covid19.xyz" redirect
+local-data: "zonasegurabeta.viabcp-covid19.xyz A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
