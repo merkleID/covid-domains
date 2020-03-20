@@ -11642,6 +11642,50 @@ local-zone: "fismacovid19.com.br" redirect
 local-data: "fismacovid19.com.br A 0.0.0.0"
 local-zone: "coronaviruscleaning.vegas" redirect
 local-data: "coronaviruscleaning.vegas A 0.0.0.0"
+local-zone: "www.corona-covid19.co.uk" redirect
+local-data: "www.corona-covid19.co.uk A 0.0.0.0"
+local-zone: "www.corona-covid19-forum.com" redirect
+local-data: "www.corona-covid19-forum.com A 0.0.0.0"
+local-zone: "corona-covid19.uk" redirect
+local-data: "corona-covid19.uk A 0.0.0.0"
+local-zone: "www.corona-covid19.uk" redirect
+local-data: "www.corona-covid19.uk A 0.0.0.0"
+local-zone: "coronavirusfasttest.org" redirect
+local-data: "coronavirusfasttest.org A 0.0.0.0"
+local-zone: "donewithcoronavirus.org" redirect
+local-data: "donewithcoronavirus.org A 0.0.0.0"
+local-zone: "novelcoronaviruscovid19.org" redirect
+local-data: "novelcoronaviruscovid19.org A 0.0.0.0"
+local-zone: "covid-19.ly" redirect
+local-data: "covid-19.ly A 0.0.0.0"
+local-zone: "covid19bizinterruption.com" redirect
+local-data: "covid19bizinterruption.com A 0.0.0.0"
+local-zone: "supportyourartistsduringcovid19.com" redirect
+local-data: "supportyourartistsduringcovid19.com A 0.0.0.0"
+local-zone: "covid19calc.org" redirect
+local-data: "covid19calc.org A 0.0.0.0"
+local-zone: "nofearcovid19.org" redirect
+local-data: "nofearcovid19.org A 0.0.0.0"
+local-zone: "britishcovid19.scemo.org" redirect
+local-data: "britishcovid19.scemo.org A 0.0.0.0"
+local-zone: "novelcoronaviruscovid-19.org" redirect
+local-data: "novelcoronaviruscovid-19.org A 0.0.0.0"
+local-zone: "covid-19-dashboard.com" redirect
+local-data: "covid-19-dashboard.com A 0.0.0.0"
+local-zone: "actualitescoronavirus.com" redirect
+local-data: "actualitescoronavirus.com A 0.0.0.0"
+local-zone: "www.covid19wear.com" redirect
+local-data: "www.covid19wear.com A 0.0.0.0"
+local-zone: "covid19wear.com" redirect
+local-data: "covid19wear.com A 0.0.0.0"
+local-zone: "covid19.taylor.edu" redirect
+local-data: "covid19.taylor.edu A 0.0.0.0"
+local-zone: "coronavirus.fountainrepoters.com" redirect
+local-data: "coronavirus.fountainrepoters.com A 0.0.0.0"
+local-zone: "aviationcovid19.fortisriders.com" redirect
+local-data: "aviationcovid19.fortisriders.com A 0.0.0.0"
+local-zone: "coronavirustwittermap.ics.uci.edu" redirect
+local-data: "coronavirustwittermap.ics.uci.edu A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -12164,6 +12208,8 @@ local-zone: "covid19stats.pt" redirect
 local-data: "covid19stats.pt A 0.0.0.0"
 local-zone: "covid19data.space" redirect
 local-data: "covid19data.space A 0.0.0.0"
+local-zone: "covid19pa.info" redirect
+local-data: "covid19pa.info A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
