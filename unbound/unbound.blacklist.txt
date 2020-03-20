@@ -11498,6 +11498,44 @@ local-zone: "antivirus-covid19.site" redirect
 local-data: "antivirus-covid19.site A 0.0.0.0"
 local-zone: "despidosporcoronavirus.info" redirect
 local-data: "despidosporcoronavirus.info A 0.0.0.0"
+local-zone: "www.findcovid19testing.org" redirect
+local-data: "www.findcovid19testing.org A 0.0.0.0"
+local-zone: "coronavirus.medlive.pt" redirect
+local-data: "coronavirus.medlive.pt A 0.0.0.0"
+local-zone: "stop-coronavirus-cov19-vitamin-c.detoxvip.com" redirect
+local-data: "stop-coronavirus-cov19-vitamin-c.detoxvip.com A 0.0.0.0"
+local-zone: "medicalstudentsformentalhealthcovid19.com" redirect
+local-data: "medicalstudentsformentalhealthcovid19.com A 0.0.0.0"
+local-zone: "topcovid19necessities.com" redirect
+local-data: "topcovid19necessities.com A 0.0.0.0"
+local-zone: "covid-19-tracker.kevinthomas5.repl.run" redirect
+local-data: "covid-19-tracker.kevinthomas5.repl.run A 0.0.0.0"
+local-zone: "trendingcoronavirusnews.com" redirect
+local-data: "trendingcoronavirusnews.com A 0.0.0.0"
+local-zone: "coronavirus.datasketch.co" redirect
+local-data: "coronavirus.datasketch.co A 0.0.0.0"
+local-zone: "stopcoronavirustoday.com" redirect
+local-data: "stopcoronavirustoday.com A 0.0.0.0"
+local-zone: "covid-19-status.anexia.com" redirect
+local-data: "covid-19-status.anexia.com A 0.0.0.0"
+local-zone: "covid19mx.gubzi.work" redirect
+local-data: "covid19mx.gubzi.work A 0.0.0.0"
+local-zone: "killcovid19now.com" redirect
+local-data: "killcovid19now.com A 0.0.0.0"
+local-zone: "www.coronavirus2020.pw" redirect
+local-data: "www.coronavirus2020.pw A 0.0.0.0"
+local-zone: "www.covid19instatest.com" redirect
+local-data: "www.covid19instatest.com A 0.0.0.0"
+local-zone: "covid19.leis.sc.gov.br" redirect
+local-data: "covid19.leis.sc.gov.br A 0.0.0.0"
+local-zone: "coronavirusaustin.com" redirect
+local-data: "coronavirusaustin.com A 0.0.0.0"
+local-zone: "coronavirus.normanok.gov" redirect
+local-data: "coronavirus.normanok.gov A 0.0.0.0"
+local-zone: "covid19instatest.com" redirect
+local-data: "covid19instatest.com A 0.0.0.0"
+local-zone: "urgencecoronavirus.com" redirect
+local-data: "urgencecoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
