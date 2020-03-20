@@ -11444,6 +11444,60 @@ local-zone: "www.covid19routtcounty.com" redirect
 local-data: "www.covid19routtcounty.com A 0.0.0.0"
 local-zone: "www.medicarecoronavirustest.com" redirect
 local-data: "www.medicarecoronavirustest.com A 0.0.0.0"
+local-zone: "coronavirus-mapping.online" redirect
+local-data: "coronavirus-mapping.online A 0.0.0.0"
+local-zone: "coronavirus.safetysurveyor.com" redirect
+local-data: "coronavirus.safetysurveyor.com A 0.0.0.0"
+local-zone: "covid19issues.com" redirect
+local-data: "covid19issues.com A 0.0.0.0"
+local-zone: "coronavirusintexas.org" redirect
+local-data: "coronavirusintexas.org A 0.0.0.0"
+local-zone: "www.findcovid19testing.org" redirect
+local-data: "www.findcovid19testing.org A 0.0.0.0"
+local-zone: "findcovid19testing.org" redirect
+local-data: "findcovid19testing.org A 0.0.0.0"
+local-zone: "covid19bizloans.com" redirect
+local-data: "covid19bizloans.com A 0.0.0.0"
+local-zone: "www.covid19bizloans.com" redirect
+local-data: "www.covid19bizloans.com A 0.0.0.0"
+local-zone: "covid19response.pacerair.com" redirect
+local-data: "covid19response.pacerair.com A 0.0.0.0"
+local-zone: "sendmethecovid19test.com" redirect
+local-data: "sendmethecovid19test.com A 0.0.0.0"
+local-zone: "covid19stats.ca" redirect
+local-data: "covid19stats.ca A 0.0.0.0"
+local-zone: "sintomascoronavirus.cl" redirect
+local-data: "sintomascoronavirus.cl A 0.0.0.0"
+local-zone: "www.arlogistics-covid19.com" redirect
+local-data: "www.arlogistics-covid19.com A 0.0.0.0"
+local-zone: "mail.arlogistics-covid19.com" redirect
+local-data: "mail.arlogistics-covid19.com A 0.0.0.0"
+local-zone: "covid19photostory.com" redirect
+local-data: "covid19photostory.com A 0.0.0.0"
+local-zone: "www.covid19photostory.com" redirect
+local-data: "www.covid19photostory.com A 0.0.0.0"
+local-zone: "coronavirusestest.org" redirect
+local-data: "coronavirusestest.org A 0.0.0.0"
+local-zone: "covid19ri.com" redirect
+local-data: "covid19ri.com A 0.0.0.0"
+local-zone: "arlogistics-covid19.com" redirect
+local-data: "arlogistics-covid19.com A 0.0.0.0"
+local-zone: "covid19.duskertas.com" redirect
+local-data: "covid19.duskertas.com A 0.0.0.0"
+local-zone: "coronavirus.medlive.pt" redirect
+local-data: "coronavirus.medlive.pt A 0.0.0.0"
+local-zone: "officialcoronavirusinfo.com" redirect
+local-data: "officialcoronavirusinfo.com A 0.0.0.0"
+local-zone: "coronavirus-for-game-jam.djwang.repl.run" redirect
+local-data: "coronavirus-for-game-jam.djwang.repl.run A 0.0.0.0"
+local-zone: "coronavirusvaccinelawsuit.com" redirect
+local-data: "coronavirusvaccinelawsuit.com A 0.0.0.0"
+local-zone: "findcovid19testing.org" redirect
+local-data: "findcovid19testing.org A 0.0.0.0"
+local-zone: "antivirus-covid19.site" redirect
+local-data: "antivirus-covid19.site A 0.0.0.0"
+local-zone: "despidosporcoronavirus.info" redirect
+local-data: "despidosporcoronavirus.info A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
