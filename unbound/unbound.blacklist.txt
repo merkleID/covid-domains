@@ -9968,6 +9968,58 @@ local-zone: "www.coronavirususa.store" redirect
 local-data: "www.coronavirususa.store A 0.0.0.0"
 local-zone: "covid19exposure.site" redirect
 local-data: "covid19exposure.site A 0.0.0.0"
+local-zone: "www.coronavirususa.store" redirect
+local-data: "www.coronavirususa.store A 0.0.0.0"
+local-zone: "covid19remboursement.net" redirect
+local-data: "covid19remboursement.net A 0.0.0.0"
+local-zone: "covid-19testcentre.online" redirect
+local-data: "covid-19testcentre.online A 0.0.0.0"
+local-zone: "coronavirusmedicine.online" redirect
+local-data: "coronavirusmedicine.online A 0.0.0.0"
+local-zone: "estadisticascoronavirus.com" redirect
+local-data: "estadisticascoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusuvc.org" redirect
+local-data: "coronavirusuvc.org A 0.0.0.0"
+local-zone: "uvccovid19.org" redirect
+local-data: "uvccovid19.org A 0.0.0.0"
+local-zone: "centralcoronavirus.com" redirect
+local-data: "centralcoronavirus.com A 0.0.0.0"
+local-zone: "essentialcovid19.com" redirect
+local-data: "essentialcovid19.com A 0.0.0.0"
+local-zone: "www.essentialcovid19.com" redirect
+local-data: "www.essentialcovid19.com A 0.0.0.0"
+local-zone: "www.coronavirus-report.news" redirect
+local-data: "www.coronavirus-report.news A 0.0.0.0"
+local-zone: "coronavirusupdater.org" redirect
+local-data: "coronavirusupdater.org A 0.0.0.0"
+local-zone: "www.coronavirusupdater.org" redirect
+local-data: "www.coronavirusupdater.org A 0.0.0.0"
+local-zone: "covid19.tzuchi.org.au" redirect
+local-data: "covid19.tzuchi.org.au A 0.0.0.0"
+local-zone: "remboursementcovid19.eu" redirect
+local-data: "remboursementcovid19.eu A 0.0.0.0"
+local-zone: "coronavirususa.store" redirect
+local-data: "coronavirususa.store A 0.0.0.0"
+local-zone: "remboursementcovid19.fr" redirect
+local-data: "remboursementcovid19.fr A 0.0.0.0"
+local-zone: "covid19.tlaquepaque.gob.mx" redirect
+local-data: "covid19.tlaquepaque.gob.mx A 0.0.0.0"
+local-zone: "remboursementcovid19.org" redirect
+local-data: "remboursementcovid19.org A 0.0.0.0"
+local-zone: "dimostroizinias-methanon-covid19.gr" redirect
+local-data: "dimostroizinias-methanon-covid19.gr A 0.0.0.0"
+local-zone: "coronavirusmaskonline.com" redirect
+local-data: "coronavirusmaskonline.com A 0.0.0.0"
+local-zone: "covid19.codekop.com" redirect
+local-data: "covid19.codekop.com A 0.0.0.0"
+local-zone: "thecoronaviruscharity.com" redirect
+local-data: "thecoronaviruscharity.com A 0.0.0.0"
+local-zone: "www.coronavirusupdater.org" redirect
+local-data: "www.coronavirusupdater.org A 0.0.0.0"
+local-zone: "www.coronavirusstaff.com" redirect
+local-data: "www.coronavirusstaff.com A 0.0.0.0"
+local-zone: "www.estadisticascoronavirus.com" redirect
+local-data: "www.estadisticascoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
