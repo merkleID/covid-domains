@@ -11238,6 +11238,44 @@ local-zone: "covid-19.spenceraccounting.com" redirect
 local-data: "covid-19.spenceraccounting.com A 0.0.0.0"
 local-zone: "mapofcovid-19.live" redirect
 local-data: "mapofcovid-19.live A 0.0.0.0"
+local-zone: "covid19.redslab.ie" redirect
+local-data: "covid19.redslab.ie A 0.0.0.0"
+local-zone: "www.jwscovid19.com" redirect
+local-data: "www.jwscovid19.com A 0.0.0.0"
+local-zone: "www.mascaracovid19.com" redirect
+local-data: "www.mascaracovid19.com A 0.0.0.0"
+local-zone: "covid19.palashsharma.com" redirect
+local-data: "covid19.palashsharma.com A 0.0.0.0"
+local-zone: "api.4735a7c5.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.4735a7c5.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "www.covid19-nogentleroi.fr" redirect
+local-data: "www.covid19-nogentleroi.fr A 0.0.0.0"
+local-zone: "io-duels.covid-19.stage.wikium.tech" redirect
+local-data: "io-duels.covid-19.stage.wikium.tech A 0.0.0.0"
+local-zone: "api.e18a5112.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.e18a5112.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "e18a5112.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "e18a5112.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "cluster.covid19india.org" redirect
+local-data: "cluster.covid19india.org A 0.0.0.0"
+local-zone: "account.covid-19.stage.wikium.tech" redirect
+local-data: "account.covid-19.stage.wikium.tech A 0.0.0.0"
+local-zone: "covid19-stay-safe.online" redirect
+local-data: "covid19-stay-safe.online A 0.0.0.0"
+local-zone: "io-duels.covid-19.stage.wikium.tech" redirect
+local-data: "io-duels.covid-19.stage.wikium.tech A 0.0.0.0"
+local-zone: "phpmyadmin.covid-19.stage.wikium.tech" redirect
+local-data: "phpmyadmin.covid-19.stage.wikium.tech A 0.0.0.0"
+local-zone: "covid-19-ohio.tech.thewrightchoice.com" redirect
+local-data: "covid-19-ohio.tech.thewrightchoice.com A 0.0.0.0"
+local-zone: "covid19hub.it" redirect
+local-data: "covid19hub.it A 0.0.0.0"
+local-zone: "ukcoronaviruscancermonitoring.com" redirect
+local-data: "ukcoronaviruscancermonitoring.com A 0.0.0.0"
+local-zone: "covid19tester.my" redirect
+local-data: "covid19tester.my A 0.0.0.0"
+local-zone: "coronavirus.guiaguayaquil.com" redirect
+local-data: "coronavirus.guiaguayaquil.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
