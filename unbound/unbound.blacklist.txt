@@ -11414,6 +11414,36 @@ local-zone: "covid19.lukos.org" redirect
 local-data: "covid19.lukos.org A 0.0.0.0"
 local-zone: "findcovid19testing.org" redirect
 local-data: "findcovid19testing.org A 0.0.0.0"
+local-zone: "coronavirus.auditoria.site" redirect
+local-data: "coronavirus.auditoria.site A 0.0.0.0"
+local-zone: "covid19.cmp.cl" redirect
+local-data: "covid19.cmp.cl A 0.0.0.0"
+local-zone: "coronavirus.si-senior.com" redirect
+local-data: "coronavirus.si-senior.com A 0.0.0.0"
+local-zone: "covid19.swiftracks.com" redirect
+local-data: "covid19.swiftracks.com A 0.0.0.0"
+local-zone: "covid19.lunbel.com" redirect
+local-data: "covid19.lunbel.com A 0.0.0.0"
+local-zone: "coronavirus.rj.def.br" redirect
+local-data: "coronavirus.rj.def.br A 0.0.0.0"
+local-zone: "coronavirusfasttest.com" redirect
+local-data: "coronavirusfasttest.com A 0.0.0.0"
+local-zone: "coronavirusdrops.com" redirect
+local-data: "coronavirusdrops.com A 0.0.0.0"
+local-zone: "coronavirus-in-us.com" redirect
+local-data: "coronavirus-in-us.com A 0.0.0.0"
+local-zone: "aftercovid19.biz" redirect
+local-data: "aftercovid19.biz A 0.0.0.0"
+local-zone: "www.covid19routtcounty.com" redirect
+local-data: "www.covid19routtcounty.com A 0.0.0.0"
+local-zone: "covid19routtcounty.com" redirect
+local-data: "covid19routtcounty.com A 0.0.0.0"
+local-zone: "aftercovid19.biz" redirect
+local-data: "aftercovid19.biz A 0.0.0.0"
+local-zone: "www.covid19routtcounty.com" redirect
+local-data: "www.covid19routtcounty.com A 0.0.0.0"
+local-zone: "www.medicarecoronavirustest.com" redirect
+local-data: "www.medicarecoronavirustest.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -11932,6 +11962,10 @@ local-zone: "covid-19.nubestaging.com" redirect
 local-data: "covid-19.nubestaging.com A 0.0.0.0"
 local-zone: "ultimahoracoronavirus.com" redirect
 local-data: "ultimahoracoronavirus.com A 0.0.0.0"
+local-zone: "covid19stats.pt" redirect
+local-data: "covid19stats.pt A 0.0.0.0"
+local-zone: "covid19data.space" redirect
+local-data: "covid19data.space A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
