@@ -9922,6 +9922,52 @@ local-zone: "coronavirusprank.com" redirect
 local-data: "coronavirusprank.com A 0.0.0.0"
 local-zone: "aboutthecoronavirus.com" redirect
 local-data: "aboutthecoronavirus.com A 0.0.0.0"
+local-zone: "coronavirus.institute" redirect
+local-data: "coronavirus.institute A 0.0.0.0"
+local-zone: "www.spreadlovenotcovid-19.com" redirect
+local-data: "www.spreadlovenotcovid-19.com A 0.0.0.0"
+local-zone: "www.universidadpanamericanacovid19.com" redirect
+local-data: "www.universidadpanamericanacovid19.com A 0.0.0.0"
+local-zone: "universidadpanamericanacovid19.com" redirect
+local-data: "universidadpanamericanacovid19.com A 0.0.0.0"
+local-zone: "covid19.revision.show" redirect
+local-data: "covid19.revision.show A 0.0.0.0"
+local-zone: "coronavirus-zuerich-infos.ch" redirect
+local-data: "coronavirus-zuerich-infos.ch A 0.0.0.0"
+local-zone: "elasticsearch.ml-covid19.5eb5b42e83d998e4.convox.cloud" redirect
+local-data: "elasticsearch.ml-covid19.5eb5b42e83d998e4.convox.cloud A 0.0.0.0"
+local-zone: "coronavirusforum.info" redirect
+local-data: "coronavirusforum.info A 0.0.0.0"
+local-zone: "chance-of-dying-to-covid-19.uriahharston.repl.run" redirect
+local-data: "chance-of-dying-to-covid-19.uriahharston.repl.run A 0.0.0.0"
+local-zone: "covid19.is" redirect
+local-data: "covid19.is A 0.0.0.0"
+local-zone: "www.fuckcovid19shirt.com" redirect
+local-data: "www.fuckcovid19shirt.com A 0.0.0.0"
+local-zone: "www.covid-19.cc" redirect
+local-data: "www.covid-19.cc A 0.0.0.0"
+local-zone: "covid19.fabiocicerchia.it" redirect
+local-data: "covid19.fabiocicerchia.it A 0.0.0.0"
+local-zone: "coronavirus-online-monitor.ru" redirect
+local-data: "coronavirus-online-monitor.ru A 0.0.0.0"
+local-zone: "affectedbycoronavirus.net" redirect
+local-data: "affectedbycoronavirus.net A 0.0.0.0"
+local-zone: "covid19-responsible.net" redirect
+local-data: "covid19-responsible.net A 0.0.0.0"
+local-zone: "covid19remboursement.eu" redirect
+local-data: "covid19remboursement.eu A 0.0.0.0"
+local-zone: "affectedbycoronavirus.net" redirect
+local-data: "affectedbycoronavirus.net A 0.0.0.0"
+local-zone: "covid19remboursement.net" redirect
+local-data: "covid19remboursement.net A 0.0.0.0"
+local-zone: "coronavirus.lgfl.net" redirect
+local-data: "coronavirus.lgfl.net A 0.0.0.0"
+local-zone: "coronavirusbusinessinterruptionloanscheme.co.uk" redirect
+local-data: "coronavirusbusinessinterruptionloanscheme.co.uk A 0.0.0.0"
+local-zone: "www.coronavirususa.store" redirect
+local-data: "www.coronavirususa.store A 0.0.0.0"
+local-zone: "covid19exposure.site" redirect
+local-data: "covid19exposure.site A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
