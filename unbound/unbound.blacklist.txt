@@ -11088,6 +11088,58 @@ local-zone: "ribroadcasterscovid19.com" redirect
 local-data: "ribroadcasterscovid19.com A 0.0.0.0"
 local-zone: "www.ribroadcasterscovid19.com" redirect
 local-data: "www.ribroadcasterscovid19.com A 0.0.0.0"
+local-zone: "coronaviruscity.xyz" redirect
+local-data: "coronaviruscity.xyz A 0.0.0.0"
+local-zone: "nebroadcasterscovid19.com" redirect
+local-data: "nebroadcasterscovid19.com A 0.0.0.0"
+local-zone: "dev.covid19.adn.be" redirect
+local-data: "dev.covid19.adn.be A 0.0.0.0"
+local-zone: "covid-19.hesprodz.com" redirect
+local-data: "covid-19.hesprodz.com A 0.0.0.0"
+local-zone: "sesaicoronavirus.org" redirect
+local-data: "sesaicoronavirus.org A 0.0.0.0"
+local-zone: "desinfeccionescoronavirus.com" redirect
+local-data: "desinfeccionescoronavirus.com A 0.0.0.0"
+local-zone: "sixnationscovid19.ca" redirect
+local-data: "sixnationscovid19.ca A 0.0.0.0"
+local-zone: "coronavirus-karantin.ru" redirect
+local-data: "coronavirus-karantin.ru A 0.0.0.0"
+local-zone: "financiamentocovid19.macroconsulting.pt" redirect
+local-data: "financiamentocovid19.macroconsulting.pt A 0.0.0.0"
+local-zone: "www.dfccoronavirusupdate.com" redirect
+local-data: "www.dfccoronavirusupdate.com A 0.0.0.0"
+local-zone: "6265bda5.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "6265bda5.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19.iconstrategiesbpo.com" redirect
+local-data: "covid19.iconstrategiesbpo.com A 0.0.0.0"
+local-zone: "covid19.borbolla.com.br" redirect
+local-data: "covid19.borbolla.com.br A 0.0.0.0"
+local-zone: "api.6265bda5.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.6265bda5.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronavirus.iguidemedical.com" redirect
+local-data: "coronavirus.iguidemedical.com A 0.0.0.0"
+local-zone: "donazionicovid19.connexia.com" redirect
+local-data: "donazionicovid19.connexia.com A 0.0.0.0"
+local-zone: "covid19.dkbmed.com" redirect
+local-data: "covid19.dkbmed.com A 0.0.0.0"
+local-zone: "au.coronavirusdating.com" redirect
+local-data: "au.coronavirusdating.com A 0.0.0.0"
+local-zone: "ca.coronavirusdating.com" redirect
+local-data: "ca.coronavirusdating.com A 0.0.0.0"
+local-zone: "covid19.dotfoods.com" redirect
+local-data: "covid19.dotfoods.com A 0.0.0.0"
+local-zone: "6265bda5.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "6265bda5.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "ie.coronavirusdating.com" redirect
+local-data: "ie.coronavirusdating.com A 0.0.0.0"
+local-zone: "covid19bioclean.com" redirect
+local-data: "covid19bioclean.com A 0.0.0.0"
+local-zone: "ribroadcasterscovid19.com" redirect
+local-data: "ribroadcasterscovid19.com A 0.0.0.0"
+local-zone: "nz.coronavirusdating.com" redirect
+local-data: "nz.coronavirusdating.com A 0.0.0.0"
+local-zone: "covid19-rheuma.de" redirect
+local-data: "covid19-rheuma.de A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -11578,6 +11630,14 @@ local-zone: "coronavirusandcompanies.com" redirect
 local-data: "coronavirusandcompanies.com A 0.0.0.0"
 local-zone: "covid-19-hotline.com" redirect
 local-data: "covid-19-hotline.com A 0.0.0.0"
+local-zone: "maskcovid19.eu" redirect
+local-data: "maskcovid19.eu A 0.0.0.0"
+local-zone: "maskcovid-19.eu" redirect
+local-data: "maskcovid-19.eu A 0.0.0.0"
+local-zone: "coronavirusbusinessdebt.com" redirect
+local-data: "coronavirusbusinessdebt.com A 0.0.0.0"
+local-zone: "testnacovid19.cz" redirect
+local-data: "testnacovid19.cz A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
