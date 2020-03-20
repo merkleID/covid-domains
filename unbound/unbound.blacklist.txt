@@ -11536,6 +11536,44 @@ local-zone: "covid19instatest.com" redirect
 local-data: "covid19instatest.com A 0.0.0.0"
 local-zone: "urgencecoronavirus.com" redirect
 local-data: "urgencecoronavirus.com A 0.0.0.0"
+local-zone: "www.covid19sickness.com" redirect
+local-data: "www.covid19sickness.com A 0.0.0.0"
+local-zone: "covid19.haidarhawthorne.com" redirect
+local-data: "covid19.haidarhawthorne.com A 0.0.0.0"
+local-zone: "covid19.vogueoptical.com" redirect
+local-data: "covid19.vogueoptical.com A 0.0.0.0"
+local-zone: "voluntariscovid19andorra.com" redirect
+local-data: "voluntariscovid19andorra.com A 0.0.0.0"
+local-zone: "coronavirusnya.ru" redirect
+local-data: "coronavirusnya.ru A 0.0.0.0"
+local-zone: "covid19.smspro.tg" redirect
+local-data: "covid19.smspro.tg A 0.0.0.0"
+local-zone: "covid19.gunnisoncounty.org" redirect
+local-data: "covid19.gunnisoncounty.org A 0.0.0.0"
+local-zone: "covid-19-lawsuit.aerialinfosys.com" redirect
+local-data: "covid-19-lawsuit.aerialinfosys.com A 0.0.0.0"
+local-zone: "covid19lawsuitsettlement.aerialinfosys.com" redirect
+local-data: "covid19lawsuitsettlement.aerialinfosys.com A 0.0.0.0"
+local-zone: "chance-of-dying-to-covid-19.flightdude737.repl.run" redirect
+local-data: "chance-of-dying-to-covid-19.flightdude737.repl.run A 0.0.0.0"
+local-zone: "helpcovid19.lu" redirect
+local-data: "helpcovid19.lu A 0.0.0.0"
+local-zone: "coronavirus.technostar.uk.nf" redirect
+local-data: "coronavirus.technostar.uk.nf A 0.0.0.0"
+local-zone: "coronavirus.twooceansdigital.com" redirect
+local-data: "coronavirus.twooceansdigital.com A 0.0.0.0"
+local-zone: "covid19-ressources.fr" redirect
+local-data: "covid19-ressources.fr A 0.0.0.0"
+local-zone: "iabroadcasterscovid19.com" redirect
+local-data: "iabroadcasterscovid19.com A 0.0.0.0"
+local-zone: "covid19-test-kit.com" redirect
+local-data: "covid19-test-kit.com A 0.0.0.0"
+local-zone: "www.iabroadcasterscovid19.com" redirect
+local-data: "www.iabroadcasterscovid19.com A 0.0.0.0"
+local-zone: "covid19-test-kit.com" redirect
+local-data: "covid19-test-kit.com A 0.0.0.0"
+local-zone: "www.covid19action.ca" redirect
+local-data: "www.covid19action.ca A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
