@@ -10762,6 +10762,46 @@ local-zone: "www.covid19-diaries.com" redirect
 local-data: "www.covid19-diaries.com A 0.0.0.0"
 local-zone: "coronavirus.kmu.org" redirect
 local-data: "coronavirus.kmu.org A 0.0.0.0"
+local-zone: "covid19.curatess.com" redirect
+local-data: "covid19.curatess.com A 0.0.0.0"
+local-zone: "stopcoronavirus.cd" redirect
+local-data: "stopcoronavirus.cd A 0.0.0.0"
+local-zone: "coronavirusnovo.com.br" redirect
+local-data: "coronavirusnovo.com.br A 0.0.0.0"
+local-zone: "webinarsalarizare-covid19.legislatiamuncii.ro" redirect
+local-data: "webinarsalarizare-covid19.legislatiamuncii.ro A 0.0.0.0"
+local-zone: "dealingwithcovid19.com" redirect
+local-data: "dealingwithcovid19.com A 0.0.0.0"
+local-zone: "covid19-aide-entreprises.org" redirect
+local-data: "covid19-aide-entreprises.org A 0.0.0.0"
+local-zone: "covid19live.news" redirect
+local-data: "covid19live.news A 0.0.0.0"
+local-zone: "coronavirus.marcdonaldson.com" redirect
+local-data: "coronavirus.marcdonaldson.com A 0.0.0.0"
+local-zone: "theonlinecoronavirusclinic.com" redirect
+local-data: "theonlinecoronavirusclinic.com A 0.0.0.0"
+local-zone: "coronavirus.gospel.report" redirect
+local-data: "coronavirus.gospel.report A 0.0.0.0"
+local-zone: "api.coronavirus.syntac.co" redirect
+local-data: "api.coronavirus.syntac.co A 0.0.0.0"
+local-zone: "dietacoronavirus.com" redirect
+local-data: "dietacoronavirus.com A 0.0.0.0"
+local-zone: "covid19.dkbmed.com" redirect
+local-data: "covid19.dkbmed.com A 0.0.0.0"
+local-zone: "covid19ukraine.xbmstudio.dev" redirect
+local-data: "covid19ukraine.xbmstudio.dev A 0.0.0.0"
+local-zone: "wiki-covid19.trentinonetwork.it" redirect
+local-data: "wiki-covid19.trentinonetwork.it A 0.0.0.0"
+local-zone: "driveincoronavirustesting.com" redirect
+local-data: "driveincoronavirustesting.com A 0.0.0.0"
+local-zone: "driveincoronavirustest.com" redirect
+local-data: "driveincoronavirustest.com A 0.0.0.0"
+local-zone: "ondetemcoronavirus.com.br" redirect
+local-data: "ondetemcoronavirus.com.br A 0.0.0.0"
+local-zone: "www.gemeinsam-gegen-covid19.de" redirect
+local-data: "www.gemeinsam-gegen-covid19.de A 0.0.0.0"
+local-zone: "www.duplessiscoronavirusupdate.com" redirect
+local-data: "www.duplessiscoronavirusupdate.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
