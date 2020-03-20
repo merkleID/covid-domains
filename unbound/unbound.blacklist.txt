@@ -10620,6 +10620,40 @@ local-zone: "covid19-alert.eu" redirect
 local-data: "covid19-alert.eu A 0.0.0.0"
 local-zone: "www.anywheremathactivitiesforparentsamidcovid-19.com" redirect
 local-data: "www.anywheremathactivitiesforparentsamidcovid-19.com A 0.0.0.0"
+local-zone: "covid19.coverwise.co.uk" redirect
+local-data: "covid19.coverwise.co.uk A 0.0.0.0"
+local-zone: "anticovid19.uk" redirect
+local-data: "anticovid19.uk A 0.0.0.0"
+local-zone: "covid19malang.com" redirect
+local-data: "covid19malang.com A 0.0.0.0"
+local-zone: "allaboutcoronaviruses.com" redirect
+local-data: "allaboutcoronaviruses.com A 0.0.0.0"
+local-zone: "coronavirus-debt-advice.co.uk" redirect
+local-data: "coronavirus-debt-advice.co.uk A 0.0.0.0"
+local-zone: "ead.brasilcontracoronavirus.com.br" redirect
+local-data: "ead.brasilcontracoronavirus.com.br A 0.0.0.0"
+local-zone: "stiricoronavirus.ro" redirect
+local-data: "stiricoronavirus.ro A 0.0.0.0"
+local-zone: "www.anywheremathactivitiesforparentsamidcovid-19.com" redirect
+local-data: "www.anywheremathactivitiesforparentsamidcovid-19.com A 0.0.0.0"
+local-zone: "covid19pg.antwebstudio.com" redirect
+local-data: "covid19pg.antwebstudio.com A 0.0.0.0"
+local-zone: "isurvivedthecovid19quarantine.com" redirect
+local-data: "isurvivedthecovid19quarantine.com A 0.0.0.0"
+local-zone: "coronavirusangri.altervista.org" redirect
+local-data: "coronavirusangri.altervista.org A 0.0.0.0"
+local-zone: "tom.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "tom.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronavirus.brentwoodbaptist.com" redirect
+local-data: "coronavirus.brentwoodbaptist.com A 0.0.0.0"
+local-zone: "philippinesfightcovid19.itrix.org" redirect
+local-data: "philippinesfightcovid19.itrix.org A 0.0.0.0"
+local-zone: "covid19.e8demo.com" redirect
+local-data: "covid19.e8demo.com A 0.0.0.0"
+local-zone: "pre.coronavirus.secuoyas.com" redirect
+local-data: "pre.coronavirus.secuoyas.com A 0.0.0.0"
+local-zone: "anticovid19.uk" redirect
+local-data: "anticovid19.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -11098,6 +11132,8 @@ local-zone: "covid19-egypt.com" redirect
 local-data: "covid19-egypt.com A 0.0.0.0"
 local-zone: "covid19inmyarea.com" redirect
 local-data: "covid19inmyarea.com A 0.0.0.0"
+local-zone: "sanificazionicoronavirus.com" redirect
+local-data: "sanificazionicoronavirus.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
