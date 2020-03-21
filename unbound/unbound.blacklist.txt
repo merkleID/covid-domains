@@ -12022,6 +12022,34 @@ local-zone: "www.coronavirusrelief.us" redirect
 local-data: "www.coronavirusrelief.us A 0.0.0.0"
 local-zone: "coronavirus-report.ru" redirect
 local-data: "coronavirus-report.ru A 0.0.0.0"
+local-zone: "covid-19.se" redirect
+local-data: "covid-19.se A 0.0.0.0"
+local-zone: "coronavirus-14883.botics.co" redirect
+local-data: "coronavirus-14883.botics.co A 0.0.0.0"
+local-zone: "en.coronaviruscaribbean.info" redirect
+local-data: "en.coronaviruscaribbean.info A 0.0.0.0"
+local-zone: "juntoscontracoronavirus.com.br" redirect
+local-data: "juntoscontracoronavirus.com.br A 0.0.0.0"
+local-zone: "coronavirus-test-online.site" redirect
+local-data: "coronavirus-test-online.site A 0.0.0.0"
+local-zone: "savecoronavirus.store" redirect
+local-data: "savecoronavirus.store A 0.0.0.0"
+local-zone: "coronavirus-stat.su" redirect
+local-data: "coronavirus-stat.su A 0.0.0.0"
+local-zone: "covid19.fxe.pt" redirect
+local-data: "covid19.fxe.pt A 0.0.0.0"
+local-zone: "corona-virus.supplies" redirect
+local-data: "corona-virus.supplies A 0.0.0.0"
+local-zone: "www.ihdcovid19.com" redirect
+local-data: "www.ihdcovid19.com A 0.0.0.0"
+local-zone: "covid19counsel.com" redirect
+local-data: "covid19counsel.com A 0.0.0.0"
+local-zone: "remediocoronavirus.com.br" redirect
+local-data: "remediocoronavirus.com.br A 0.0.0.0"
+local-zone: "coronavirus.hollandhart.com" redirect
+local-data: "coronavirus.hollandhart.com A 0.0.0.0"
+local-zone: "covid19.magnifind.health" redirect
+local-data: "covid19.magnifind.health A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -12556,6 +12584,10 @@ local-zone: "coronavirusdailytracker.info" redirect
 local-data: "coronavirusdailytracker.info A 0.0.0.0"
 local-zone: "covid19resourcedemand.p.azurewebsites.net" redirect
 local-data: "covid19resourcedemand.p.azurewebsites.net A 0.0.0.0"
+local-zone: "coronaviruskarte.de" redirect
+local-data: "coronaviruskarte.de A 0.0.0.0"
+local-zone: "coronavirusrd.somee.com" redirect
+local-data: "coronavirusrd.somee.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
