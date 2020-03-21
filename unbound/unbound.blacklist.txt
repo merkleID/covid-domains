@@ -13104,6 +13104,44 @@ local-zone: "www.kickcovid19.org" redirect
 local-data: "www.kickcovid19.org A 0.0.0.0"
 local-zone: "pharmabel-test-coronavirus.com" redirect
 local-data: "pharmabel-test-coronavirus.com A 0.0.0.0"
+local-zone: "covid19-africa.com" redirect
+local-data: "covid19-africa.com A 0.0.0.0"
+local-zone: "covid-19.suzz.net" redirect
+local-data: "covid-19.suzz.net A 0.0.0.0"
+local-zone: "covid19.healthfitness101.com" redirect
+local-data: "covid19.healthfitness101.com A 0.0.0.0"
+local-zone: "covid19.morepatientsnow.com" redirect
+local-data: "covid19.morepatientsnow.com A 0.0.0.0"
+local-zone: "coronavirus-news.com.ua" redirect
+local-data: "coronavirus-news.com.ua A 0.0.0.0"
+local-zone: "covid-19essentialsupplies.com" redirect
+local-data: "covid-19essentialsupplies.com A 0.0.0.0"
+local-zone: "promocaoaocovid-19.ml" redirect
+local-data: "promocaoaocovid-19.ml A 0.0.0.0"
+local-zone: "www.covid-19essentialsupplies.com" redirect
+local-data: "www.covid-19essentialsupplies.com A 0.0.0.0"
+local-zone: "coronaviruscaptivity.com" redirect
+local-data: "coronaviruscaptivity.com A 0.0.0.0"
+local-zone: "www.coronaviruscaptivity.com" redirect
+local-data: "www.coronaviruscaptivity.com A 0.0.0.0"
+local-zone: "covid19-rescue.com" redirect
+local-data: "covid19-rescue.com A 0.0.0.0"
+local-zone: "coronavirus-foerdermittel.de" redirect
+local-data: "coronavirus-foerdermittel.de A 0.0.0.0"
+local-zone: "coronavirus-foerdermittel.com" redirect
+local-data: "coronavirus-foerdermittel.com A 0.0.0.0"
+local-zone: "covid19-536307.us-south.containers.appdomain.cloud" redirect
+local-data: "covid19-536307.us-south.containers.appdomain.cloud A 0.0.0.0"
+local-zone: "www.chestercoronavirusdeliveries.co.uk" redirect
+local-data: "www.chestercoronavirusdeliveries.co.uk A 0.0.0.0"
+local-zone: "covid19.promarketing.ma" redirect
+local-data: "covid19.promarketing.ma A 0.0.0.0"
+local-zone: "covid-19.primeplay.pt" redirect
+local-data: "covid-19.primeplay.pt A 0.0.0.0"
+local-zone: "shellcovid-19jic.com" redirect
+local-data: "shellcovid-19jic.com A 0.0.0.0"
+local-zone: "coronavirus.reworldmedia.com" redirect
+local-data: "coronavirus.reworldmedia.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -13676,6 +13714,10 @@ local-zone: "anticoronavirus.biz" redirect
 local-data: "anticoronavirus.biz A 0.0.0.0"
 local-zone: "livecoronaviruscounter.com" redirect
 local-data: "livecoronaviruscounter.com A 0.0.0.0"
+local-zone: "staythrough-covid19.com" redirect
+local-data: "staythrough-covid19.com A 0.0.0.0"
+local-zone: "nurseforcovid19.com" redirect
+local-data: "nurseforcovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
