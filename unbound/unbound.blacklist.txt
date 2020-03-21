@@ -12806,6 +12806,52 @@ local-zone: "www.estadisticascoronavirus.com" redirect
 local-data: "www.estadisticascoronavirus.com A 0.0.0.0"
 local-zone: "2019ncov.com.au" redirect
 local-data: "2019ncov.com.au A 0.0.0.0"
+local-zone: "coronavirusguidelinescom.ghetu.host" redirect
+local-data: "coronavirusguidelinescom.ghetu.host A 0.0.0.0"
+local-zone: "facemasks-coronavirus.com" redirect
+local-data: "facemasks-coronavirus.com A 0.0.0.0"
+local-zone: "facemaskcovid-19.com" redirect
+local-data: "facemaskcovid-19.com A 0.0.0.0"
+local-zone: "survivingcovid19.life" redirect
+local-data: "survivingcovid19.life A 0.0.0.0"
+local-zone: "covid19app.pt" redirect
+local-data: "covid19app.pt A 0.0.0.0"
+local-zone: "covid19news.io" redirect
+local-data: "covid19news.io A 0.0.0.0"
+local-zone: "coronavirus-obzor.info" redirect
+local-data: "coronavirus-obzor.info A 0.0.0.0"
+local-zone: "ipfs-wss.stopcoronavirus.tech" redirect
+local-data: "ipfs-wss.stopcoronavirus.tech A 0.0.0.0"
+local-zone: "covid19.corpoeureka.com" redirect
+local-data: "covid19.corpoeureka.com A 0.0.0.0"
+local-zone: "www.freecoronavirusmasks.com" redirect
+local-data: "www.freecoronavirusmasks.com A 0.0.0.0"
+local-zone: "www.covid-19.com.pt" redirect
+local-data: "www.covid-19.com.pt A 0.0.0.0"
+local-zone: "understandcoronavirus.com" redirect
+local-data: "understandcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.tebingtinggikota.go.id" redirect
+local-data: "covid19.tebingtinggikota.go.id A 0.0.0.0"
+local-zone: "www.maladie-coronavirus.fr" redirect
+local-data: "www.maladie-coronavirus.fr A 0.0.0.0"
+local-zone: "maladie-coronavirus.fr" redirect
+local-data: "maladie-coronavirus.fr A 0.0.0.0"
+local-zone: "covid19.com.hr" redirect
+local-data: "covid19.com.hr A 0.0.0.0"
+local-zone: "coronavirusbacktoreality.com" redirect
+local-data: "coronavirusbacktoreality.com A 0.0.0.0"
+local-zone: "sbacoronavirusloanassistance.com" redirect
+local-data: "sbacoronavirusloanassistance.com A 0.0.0.0"
+local-zone: "www.sbacoronavirusloanassistance.com" redirect
+local-data: "www.sbacoronavirusloanassistance.com A 0.0.0.0"
+local-zone: "www.covid19updatespa.com" redirect
+local-data: "www.covid19updatespa.com A 0.0.0.0"
+local-zone: "covid-19.c0l.repl.run" redirect
+local-data: "covid-19.c0l.repl.run A 0.0.0.0"
+local-zone: "www.wolverhampton-covid-19-mutual-aid.org" redirect
+local-data: "www.wolverhampton-covid-19-mutual-aid.org A 0.0.0.0"
+local-zone: "covid19.kripthor.xyz" redirect
+local-data: "covid19.kripthor.xyz A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -13364,6 +13410,10 @@ local-zone: "covid-19aid.net" redirect
 local-data: "covid-19aid.net A 0.0.0.0"
 local-zone: "coronavirus-news.de" redirect
 local-data: "coronavirus-news.de A 0.0.0.0"
+local-zone: "covid19-corona.de" redirect
+local-data: "covid19-corona.de A 0.0.0.0"
+local-zone: "covid19tw.tk" redirect
+local-data: "covid19tw.tk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
