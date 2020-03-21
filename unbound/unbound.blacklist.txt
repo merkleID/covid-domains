@@ -12548,6 +12548,40 @@ local-zone: "coronavirusemsantacatarina.com.br" redirect
 local-data: "coronavirusemsantacatarina.com.br A 0.0.0.0"
 local-zone: "coronavirusu.info" redirect
 local-data: "coronavirusu.info A 0.0.0.0"
+local-zone: "blog.viruscovid19.com.es" redirect
+local-data: "blog.viruscovid19.com.es A 0.0.0.0"
+local-zone: "anchoragecovid19.com" redirect
+local-data: "anchoragecovid19.com A 0.0.0.0"
+local-zone: "traselcoronavirus.com" redirect
+local-data: "traselcoronavirus.com A 0.0.0.0"
+local-zone: "antesdelcoronavirus.com" redirect
+local-data: "antesdelcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.ddc.moph.go.th" redirect
+local-data: "covid19.ddc.moph.go.th A 0.0.0.0"
+local-zone: "covid19.emed.hr" redirect
+local-data: "covid19.emed.hr A 0.0.0.0"
+local-zone: "anticoronavirusla.com" redirect
+local-data: "anticoronavirusla.com A 0.0.0.0"
+local-zone: "coronavirus.anthropiatry.com" redirect
+local-data: "coronavirus.anthropiatry.com A 0.0.0.0"
+local-zone: "www.appcoronavirusalert.com" redirect
+local-data: "www.appcoronavirusalert.com A 0.0.0.0"
+local-zone: "covid-19.paisx.net" redirect
+local-data: "covid-19.paisx.net A 0.0.0.0"
+local-zone: "www.ncov19.tech" redirect
+local-data: "www.ncov19.tech A 0.0.0.0"
+local-zone: "covid19.quart.com.tr" redirect
+local-data: "covid19.quart.com.tr A 0.0.0.0"
+local-zone: "covid19-debug.seie-madagascar.org" redirect
+local-data: "covid19-debug.seie-madagascar.org A 0.0.0.0"
+local-zone: "coronavirus.vanmil.org" redirect
+local-data: "coronavirus.vanmil.org A 0.0.0.0"
+local-zone: "covid19.quart.com.tr" redirect
+local-data: "covid19.quart.com.tr A 0.0.0.0"
+local-zone: "team.sudancovid19.info" redirect
+local-data: "team.sudancovid19.info A 0.0.0.0"
+local-zone: "beatcovid19now.com" redirect
+local-data: "beatcovid19now.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
