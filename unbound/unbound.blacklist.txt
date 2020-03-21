@@ -12224,6 +12224,14 @@ local-zone: "covid19faqs.xyz" redirect
 local-data: "covid19faqs.xyz A 0.0.0.0"
 local-zone: "covid19helpline.intelimina.com" redirect
 local-data: "covid19helpline.intelimina.com A 0.0.0.0"
+local-zone: "covid19.ictforlife.org" redirect
+local-data: "covid19.ictforlife.org A 0.0.0.0"
+local-zone: "geldesinfectantecoronaviruscovid19.website" redirect
+local-data: "geldesinfectantecoronaviruscovid19.website A 0.0.0.0"
+local-zone: "covid19.demary.ma" redirect
+local-data: "covid19.demary.ma A 0.0.0.0"
+local-zone: "covid19-virus.ca" redirect
+local-data: "covid19-virus.ca A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
