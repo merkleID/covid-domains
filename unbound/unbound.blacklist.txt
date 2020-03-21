@@ -12514,6 +12514,40 @@ local-zone: "api.coronavirus.syntac.co" redirect
 local-data: "api.coronavirus.syntac.co A 0.0.0.0"
 local-zone: "covid19indata.now.sh" redirect
 local-data: "covid19indata.now.sh A 0.0.0.0"
+local-zone: "www.covid19mexico.mx" redirect
+local-data: "www.covid19mexico.mx A 0.0.0.0"
+local-zone: "covid19goods.shop" redirect
+local-data: "covid19goods.shop A 0.0.0.0"
+local-zone: "covid-19ru.online" redirect
+local-data: "covid-19ru.online A 0.0.0.0"
+local-zone: "covid-19stat.online" redirect
+local-data: "covid-19stat.online A 0.0.0.0"
+local-zone: "covid19map.site" redirect
+local-data: "covid19map.site A 0.0.0.0"
+local-zone: "www.86covid19.com" redirect
+local-data: "www.86covid19.com A 0.0.0.0"
+local-zone: "covid19infos.fr" redirect
+local-data: "covid19infos.fr A 0.0.0.0"
+local-zone: "covid19.bizumy.com" redirect
+local-data: "covid19.bizumy.com A 0.0.0.0"
+local-zone: "fightcoronavirus.karenchan.info" redirect
+local-data: "fightcoronavirus.karenchan.info A 0.0.0.0"
+local-zone: "coronavirustr.shop" redirect
+local-data: "coronavirustr.shop A 0.0.0.0"
+local-zone: "covid19.dionedomingo.com" redirect
+local-data: "covid19.dionedomingo.com A 0.0.0.0"
+local-zone: "coronavirustr.shop" redirect
+local-data: "coronavirustr.shop A 0.0.0.0"
+local-zone: "covid19.or.id" redirect
+local-data: "covid19.or.id A 0.0.0.0"
+local-zone: "coronavirus.ahead-design.com" redirect
+local-data: "coronavirus.ahead-design.com A 0.0.0.0"
+local-zone: "www.ksbroadcasterscovid19.com" redirect
+local-data: "www.ksbroadcasterscovid19.com A 0.0.0.0"
+local-zone: "coronavirusemsantacatarina.com.br" redirect
+local-data: "coronavirusemsantacatarina.com.br A 0.0.0.0"
+local-zone: "coronavirusu.info" redirect
+local-data: "coronavirusu.info A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -13068,6 +13102,8 @@ local-zone: "sars-cov-2.at" redirect
 local-data: "sars-cov-2.at A 0.0.0.0"
 local-zone: "covid19-survey.org" redirect
 local-data: "covid19-survey.org A 0.0.0.0"
+local-zone: "covid-19aid.net" redirect
+local-data: "covid-19aid.net A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
