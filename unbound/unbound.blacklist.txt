@@ -13142,6 +13142,40 @@ local-zone: "shellcovid-19jic.com" redirect
 local-data: "shellcovid-19jic.com A 0.0.0.0"
 local-zone: "coronavirus.reworldmedia.com" redirect
 local-data: "coronavirus.reworldmedia.com A 0.0.0.0"
+local-zone: "covid-19calculator.com" redirect
+local-data: "covid-19calculator.com A 0.0.0.0"
+local-zone: "covid19detection.co.uk" redirect
+local-data: "covid19detection.co.uk A 0.0.0.0"
+local-zone: "covid19.sherwood.science" redirect
+local-data: "covid19.sherwood.science A 0.0.0.0"
+local-zone: "crowdfightcovid19.org" redirect
+local-data: "crowdfightcovid19.org A 0.0.0.0"
+local-zone: "romaniaanticoronavirus.com" redirect
+local-data: "romaniaanticoronavirus.com A 0.0.0.0"
+local-zone: "covid19pets.org" redirect
+local-data: "covid19pets.org A 0.0.0.0"
+local-zone: "covid19.ecrl.eas.cornell.edu" redirect
+local-data: "covid19.ecrl.eas.cornell.edu A 0.0.0.0"
+local-zone: "dev.covid19live.kz" redirect
+local-data: "dev.covid19live.kz A 0.0.0.0"
+local-zone: "needacovid19test.com" redirect
+local-data: "needacovid19test.com A 0.0.0.0"
+local-zone: "api.covid19live.kz" redirect
+local-data: "api.covid19live.kz A 0.0.0.0"
+local-zone: "covid19.nanosoftci.net" redirect
+local-data: "covid19.nanosoftci.net A 0.0.0.0"
+local-zone: "coronaviruscaptivity.com" redirect
+local-data: "coronaviruscaptivity.com A 0.0.0.0"
+local-zone: "spedaleniguarda-covid19.com" redirect
+local-data: "spedaleniguarda-covid19.com A 0.0.0.0"
+local-zone: "www.seiu6covid19info.com" redirect
+local-data: "www.seiu6covid19info.com A 0.0.0.0"
+local-zone: "covid19-test-kit.co.uk" redirect
+local-data: "covid19-test-kit.co.uk A 0.0.0.0"
+local-zone: "www.coronavirusrd.info" redirect
+local-data: "www.coronavirusrd.info A 0.0.0.0"
+local-zone: "covid19virus.fellaz.co.uk" redirect
+local-data: "covid19virus.fellaz.co.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -13718,6 +13752,8 @@ local-zone: "staythrough-covid19.com" redirect
 local-data: "staythrough-covid19.com A 0.0.0.0"
 local-zone: "nurseforcovid19.com" redirect
 local-data: "nurseforcovid19.com A 0.0.0.0"
+local-zone: "eshop-covid19.com" redirect
+local-data: "eshop-covid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
