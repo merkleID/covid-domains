@@ -12852,6 +12852,46 @@ local-zone: "www.wolverhampton-covid-19-mutual-aid.org" redirect
 local-data: "www.wolverhampton-covid-19-mutual-aid.org A 0.0.0.0"
 local-zone: "covid19.kripthor.xyz" redirect
 local-data: "covid19.kripthor.xyz A 0.0.0.0"
+local-zone: "www.dental-coronavirus-protection.co.uk" redirect
+local-data: "www.dental-coronavirus-protection.co.uk A 0.0.0.0"
+local-zone: "www.maladiecoronavirus.org" redirect
+local-data: "www.maladiecoronavirus.org A 0.0.0.0"
+local-zone: "maladiecoronavirus.org" redirect
+local-data: "maladiecoronavirus.org A 0.0.0.0"
+local-zone: "coronavirushater.com" redirect
+local-data: "coronavirushater.com A 0.0.0.0"
+local-zone: "coronavirus.webnaq.pl" redirect
+local-data: "coronavirus.webnaq.pl A 0.0.0.0"
+local-zone: "maladie-coronavirus.com" redirect
+local-data: "maladie-coronavirus.com A 0.0.0.0"
+local-zone: "covid19.manadokota.go.id" redirect
+local-data: "covid19.manadokota.go.id A 0.0.0.0"
+local-zone: "www.maladie-coronavirus.com" redirect
+local-data: "www.maladie-coronavirus.com A 0.0.0.0"
+local-zone: "coronavirus.vallhebron.com" redirect
+local-data: "coronavirus.vallhebron.com A 0.0.0.0"
+local-zone: "stpeterscovid19dev.g7development.co.uk" redirect
+local-data: "stpeterscovid19dev.g7development.co.uk A 0.0.0.0"
+local-zone: "covid19.localfresh.com" redirect
+local-data: "covid19.localfresh.com A 0.0.0.0"
+local-zone: "mail.covid19jo.com" redirect
+local-data: "mail.covid19jo.com A 0.0.0.0"
+local-zone: "coronavirus-monitor.pro" redirect
+local-data: "coronavirus-monitor.pro A 0.0.0.0"
+local-zone: "mvhcoronavirus.org" redirect
+local-data: "mvhcoronavirus.org A 0.0.0.0"
+local-zone: "covid19-stayfit.com" redirect
+local-data: "covid19-stayfit.com A 0.0.0.0"
+local-zone: "covid19-fiji.com" redirect
+local-data: "covid19-fiji.com A 0.0.0.0"
+local-zone: "bestcoronaviruslawyers.com" redirect
+local-data: "bestcoronaviruslawyers.com A 0.0.0.0"
+local-zone: "covid19arkansas.turn7.io" redirect
+local-data: "covid19arkansas.turn7.io A 0.0.0.0"
+local-zone: "kill-covid19.site" redirect
+local-data: "kill-covid19.site A 0.0.0.0"
+local-zone: "interacservcovid-19.com" redirect
+local-data: "interacservcovid-19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
