@@ -13272,6 +13272,40 @@ local-zone: "covid19.cx" redirect
 local-data: "covid19.cx A 0.0.0.0"
 local-zone: "www.covid19nyc.org" redirect
 local-data: "www.covid19nyc.org A 0.0.0.0"
+local-zone: "pets.ajudacoronavirus.com.br" redirect
+local-data: "pets.ajudacoronavirus.com.br A 0.0.0.0"
+local-zone: "www.coronavirusbd.com" redirect
+local-data: "www.coronavirusbd.com A 0.0.0.0"
+local-zone: "www.covid19ppe.org" redirect
+local-data: "www.covid19ppe.org A 0.0.0.0"
+local-zone: "coronavirus.automaway.com.br" redirect
+local-data: "coronavirus.automaway.com.br A 0.0.0.0"
+local-zone: "covid19.cx" redirect
+local-data: "covid19.cx A 0.0.0.0"
+local-zone: "covid19-tchad.org" redirect
+local-data: "covid19-tchad.org A 0.0.0.0"
+local-zone: "wewillsurvivecoronavirus.com" redirect
+local-data: "wewillsurvivecoronavirus.com A 0.0.0.0"
+local-zone: "www.anticoronavirus.biz" redirect
+local-data: "www.anticoronavirus.biz A 0.0.0.0"
+local-zone: "www.covid1984.wtf" redirect
+local-data: "www.covid1984.wtf A 0.0.0.0"
+local-zone: "testonlinecovid19.com" redirect
+local-data: "testonlinecovid19.com A 0.0.0.0"
+local-zone: "covid19-dz.live" redirect
+local-data: "covid19-dz.live A 0.0.0.0"
+local-zone: "odin-covid19.com" redirect
+local-data: "odin-covid19.com A 0.0.0.0"
+local-zone: "covid19medicalsupplies.org" redirect
+local-data: "covid19medicalsupplies.org A 0.0.0.0"
+local-zone: "coronavirustestinguk.com" redirect
+local-data: "coronavirustestinguk.com A 0.0.0.0"
+local-zone: "coronavirus-charts.org" redirect
+local-data: "coronavirus-charts.org A 0.0.0.0"
+local-zone: "appcovid19.altervista.org" redirect
+local-data: "appcovid19.altervista.org A 0.0.0.0"
+local-zone: "www.coronavirus-charts.org" redirect
+local-data: "www.coronavirus-charts.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -13856,6 +13890,10 @@ local-zone: "coronavirus03.ru" redirect
 local-data: "coronavirus03.ru A 0.0.0.0"
 local-zone: "afectadoscovid19.org" redirect
 local-data: "afectadoscovid19.org A 0.0.0.0"
+local-zone: "odin-covid19.com" redirect
+local-data: "odin-covid19.com A 0.0.0.0"
+local-zone: "attestation-coronavirus.com" redirect
+local-data: "attestation-coronavirus.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
