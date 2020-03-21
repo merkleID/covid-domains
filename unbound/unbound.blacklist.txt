@@ -13050,6 +13050,60 @@ local-zone: "naturalcoronavirusprevention.com" redirect
 local-data: "naturalcoronavirusprevention.com A 0.0.0.0"
 local-zone: "beatcoronavirus.co.uk" redirect
 local-data: "beatcoronavirus.co.uk A 0.0.0.0"
+local-zone: "new-coronavirusmask.com" redirect
+local-data: "new-coronavirusmask.com A 0.0.0.0"
+local-zone: "fixcovid19.com" redirect
+local-data: "fixcovid19.com A 0.0.0.0"
+local-zone: "coronavirus-sa.co.za" redirect
+local-data: "coronavirus-sa.co.za A 0.0.0.0"
+local-zone: "covid-19research.ca" redirect
+local-data: "covid-19research.ca A 0.0.0.0"
+local-zone: "lluhpicucovid19hub.net" redirect
+local-data: "lluhpicucovid19hub.net A 0.0.0.0"
+local-zone: "www.lluhpicucovid19hub.com" redirect
+local-data: "www.lluhpicucovid19hub.com A 0.0.0.0"
+local-zone: "lluhpicucovid19hub.com" redirect
+local-data: "lluhpicucovid19hub.com A 0.0.0.0"
+local-zone: "coronavirus2020tees.com" redirect
+local-data: "coronavirus2020tees.com A 0.0.0.0"
+local-zone: "www.loveinthetimeofcovid-19.net" redirect
+local-data: "www.loveinthetimeofcovid-19.net A 0.0.0.0"
+local-zone: "loveinthetimeofcovid-19.net" redirect
+local-data: "loveinthetimeofcovid-19.net A 0.0.0.0"
+local-zone: "www.loveinthetimeofcovid-19.net" redirect
+local-data: "www.loveinthetimeofcovid-19.net A 0.0.0.0"
+local-zone: "coronavirus-burkina.com" redirect
+local-data: "coronavirus-burkina.com A 0.0.0.0"
+local-zone: "beatcoronavirus.co.uk" redirect
+local-data: "beatcoronavirus.co.uk A 0.0.0.0"
+local-zone: "humanity-against-coronavirus.com" redirect
+local-data: "humanity-against-coronavirus.com A 0.0.0.0"
+local-zone: "coronavirus-covid19.co.uk" redirect
+local-data: "coronavirus-covid19.co.uk A 0.0.0.0"
+local-zone: "slo-covid-19.rtfm.si" redirect
+local-data: "slo-covid-19.rtfm.si A 0.0.0.0"
+local-zone: "www.coronavirussrbija.com" redirect
+local-data: "www.coronavirussrbija.com A 0.0.0.0"
+local-zone: "contraelcoronavirus.do" redirect
+local-data: "contraelcoronavirus.do A 0.0.0.0"
+local-zone: "covid19makervlc.zendesk.com" redirect
+local-data: "covid19makervlc.zendesk.com A 0.0.0.0"
+local-zone: "higiene.coronavirusmakers.org" redirect
+local-data: "higiene.coronavirusmakers.org A 0.0.0.0"
+local-zone: "coronaviruscucut.publigirona.com" redirect
+local-data: "coronaviruscucut.publigirona.com A 0.0.0.0"
+local-zone: "covid19-medico24hs.onrender.com" redirect
+local-data: "covid19-medico24hs.onrender.com A 0.0.0.0"
+local-zone: "www.lluhpicucovid19hub.org" redirect
+local-data: "www.lluhpicucovid19hub.org A 0.0.0.0"
+local-zone: "covid19.coalcreekfire.org" redirect
+local-data: "covid19.coalcreekfire.org A 0.0.0.0"
+local-zone: "coronavirusface.com" redirect
+local-data: "coronavirusface.com A 0.0.0.0"
+local-zone: "www.kickcovid19.org" redirect
+local-data: "www.kickcovid19.org A 0.0.0.0"
+local-zone: "pharmabel-test-coronavirus.com" redirect
+local-data: "pharmabel-test-coronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -13618,6 +13672,10 @@ local-zone: "eshop-covid19.fr" redirect
 local-data: "eshop-covid19.fr A 0.0.0.0"
 local-zone: "mamparasanticovid19.com" redirect
 local-data: "mamparasanticovid19.com A 0.0.0.0"
+local-zone: "anticoronavirus.biz" redirect
+local-data: "anticoronavirus.biz A 0.0.0.0"
+local-zone: "livecoronaviruscounter.com" redirect
+local-data: "livecoronaviruscounter.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
