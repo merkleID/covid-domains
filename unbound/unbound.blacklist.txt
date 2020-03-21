@@ -13176,6 +13176,46 @@ local-zone: "www.coronavirusrd.info" redirect
 local-data: "www.coronavirusrd.info A 0.0.0.0"
 local-zone: "covid19virus.fellaz.co.uk" redirect
 local-data: "covid19virus.fellaz.co.uk A 0.0.0.0"
+local-zone: "who-health-covid-19.ru" redirect
+local-data: "who-health-covid-19.ru A 0.0.0.0"
+local-zone: "coronavirustraveladvice.com" redirect
+local-data: "coronavirustraveladvice.com A 0.0.0.0"
+local-zone: "covid19supplies.org" redirect
+local-data: "covid19supplies.org A 0.0.0.0"
+local-zone: "covid19.healthfitness101.com" redirect
+local-data: "covid19.healthfitness101.com A 0.0.0.0"
+local-zone: "coronavirus.sixmasunderpressure.com" redirect
+local-data: "coronavirus.sixmasunderpressure.com A 0.0.0.0"
+local-zone: "covid-19shop.online" redirect
+local-data: "covid-19shop.online A 0.0.0.0"
+local-zone: "thecovid19virus.co" redirect
+local-data: "thecovid19virus.co A 0.0.0.0"
+local-zone: "covid19allies-org.glyphdigital.com" redirect
+local-data: "covid19allies-org.glyphdigital.com A 0.0.0.0"
+local-zone: "casescoronavirus.coronaviruscasos.com.br" redirect
+local-data: "casescoronavirus.coronaviruscasos.com.br A 0.0.0.0"
+local-zone: "coronavirusky.com" redirect
+local-data: "coronavirusky.com A 0.0.0.0"
+local-zone: "covid-19.e-transport.gov.ua" redirect
+local-data: "covid-19.e-transport.gov.ua A 0.0.0.0"
+local-zone: "covid19.wellrr.com" redirect
+local-data: "covid19.wellrr.com A 0.0.0.0"
+local-zone: "covid-19.ui.soporte247.com" redirect
+local-data: "covid-19.ui.soporte247.com A 0.0.0.0"
+local-zone: "covid19.wellrr.com" redirect
+local-data: "covid19.wellrr.com A 0.0.0.0"
+local-zone: "spelcovid19.com" redirect
+local-data: "spelcovid19.com A 0.0.0.0"
+local-zone: "covid-19-news.ru" redirect
+local-data: "covid-19-news.ru A 0.0.0.0"
+local-zone: "covid19outbreak.net" redirect
+local-data: "covid19outbreak.net A 0.0.0.0"
+local-zone: "sba.coronavirusloanprogram.com" redirect
+local-data: "sba.coronavirusloanprogram.com A 0.0.0.0"
+local-zone: "thecoronavirusnetwork.com" redirect
+local-data: "thecoronavirusnetwork.com A 0.0.0.0"
+local-zone: "covid19urgences.360medics-pro.com" redirect
+local-data: "covid19urgences.360medics-pro.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -13754,6 +13794,8 @@ local-zone: "nurseforcovid19.com" redirect
 local-data: "nurseforcovid19.com A 0.0.0.0"
 local-zone: "eshop-covid19.com" redirect
 local-data: "eshop-covid19.com A 0.0.0.0"
+local-zone: "nursesforcovid-19.com" redirect
+local-data: "nursesforcovid-19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
