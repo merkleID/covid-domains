@@ -12892,6 +12892,40 @@ local-zone: "kill-covid19.site" redirect
 local-data: "kill-covid19.site A 0.0.0.0"
 local-zone: "interacservcovid-19.com" redirect
 local-data: "interacservcovid-19.com A 0.0.0.0"
+local-zone: "www.medical-covid-19.com" redirect
+local-data: "www.medical-covid-19.com A 0.0.0.0"
+local-zone: "www.covid-19supplydonation.com" redirect
+local-data: "www.covid-19supplydonation.com A 0.0.0.0"
+local-zone: "covid-19supplydonation.com" redirect
+local-data: "covid-19supplydonation.com A 0.0.0.0"
+local-zone: "www.covid19supplydonation.com" redirect
+local-data: "www.covid19supplydonation.com A 0.0.0.0"
+local-zone: "covid19.drsintomas.com.br" redirect
+local-data: "covid19.drsintomas.com.br A 0.0.0.0"
+local-zone: "pray4covid19.org" redirect
+local-data: "pray4covid19.org A 0.0.0.0"
+local-zone: "covid-19.yes-lab.org" redirect
+local-data: "covid-19.yes-lab.org A 0.0.0.0"
+local-zone: "stopcoronavirusrdc.lumsglobal.fr" redirect
+local-data: "stopcoronavirusrdc.lumsglobal.fr A 0.0.0.0"
+local-zone: "gtcountycovid19.com" redirect
+local-data: "gtcountycovid19.com A 0.0.0.0"
+local-zone: "covid19.pariazar.ir" redirect
+local-data: "covid19.pariazar.ir A 0.0.0.0"
+local-zone: "howitreatcovid19.com" redirect
+local-data: "howitreatcovid19.com A 0.0.0.0"
+local-zone: "covid-19.org.zw" redirect
+local-data: "covid-19.org.zw A 0.0.0.0"
+local-zone: "coronavirusactueel.nl" redirect
+local-data: "coronavirusactueel.nl A 0.0.0.0"
+local-zone: "coronavirusint.com" redirect
+local-data: "coronavirusint.com A 0.0.0.0"
+local-zone: "coronavirus.iphones.com" redirect
+local-data: "coronavirus.iphones.com A 0.0.0.0"
+local-zone: "covid19genetics.com" redirect
+local-data: "covid19genetics.com A 0.0.0.0"
+local-zone: "coronavirusbacktoreality.com" redirect
+local-data: "coronavirusbacktoreality.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
