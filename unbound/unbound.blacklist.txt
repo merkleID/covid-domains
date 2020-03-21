@@ -11936,6 +11936,42 @@ local-zone: "coronaviruscomedy.com.au" redirect
 local-data: "coronaviruscomedy.com.au A 0.0.0.0"
 local-zone: "healthbot.covid19.bjc.org" redirect
 local-data: "healthbot.covid19.bjc.org A 0.0.0.0"
+local-zone: "killcovid-19.org" redirect
+local-data: "killcovid-19.org A 0.0.0.0"
+local-zone: "api.killcovid-19.org" redirect
+local-data: "api.killcovid-19.org A 0.0.0.0"
+local-zone: "lawancovid19-change.org" redirect
+local-data: "lawancovid19-change.org A 0.0.0.0"
+local-zone: "coronavirusmedicalbills.com" redirect
+local-data: "coronavirusmedicalbills.com A 0.0.0.0"
+local-zone: "covid19.skieslab.io" redirect
+local-data: "covid19.skieslab.io A 0.0.0.0"
+local-zone: "ncov19.org" redirect
+local-data: "ncov19.org A 0.0.0.0"
+local-zone: "coronavirusturkiye.info" redirect
+local-data: "coronavirusturkiye.info A 0.0.0.0"
+local-zone: "www.covid19tips.info" redirect
+local-data: "www.covid19tips.info A 0.0.0.0"
+local-zone: "shopcoronavirus.org" redirect
+local-data: "shopcoronavirus.org A 0.0.0.0"
+local-zone: "coronavirus.uwhealth.org" redirect
+local-data: "coronavirus.uwhealth.org A 0.0.0.0"
+local-zone: "covid19-drsintomas.onrender.com" redirect
+local-data: "covid19-drsintomas.onrender.com A 0.0.0.0"
+local-zone: "www.covid19faq.ph" redirect
+local-data: "www.covid19faq.ph A 0.0.0.0"
+local-zone: "covid19.pk" redirect
+local-data: "covid19.pk A 0.0.0.0"
+local-zone: "covid19.goldentime.pk" redirect
+local-data: "covid19.goldentime.pk A 0.0.0.0"
+local-zone: "covid19.forpurposelaw.com" redirect
+local-data: "covid19.forpurposelaw.com A 0.0.0.0"
+local-zone: "www.covid19counsel.com" redirect
+local-data: "www.covid19counsel.com A 0.0.0.0"
+local-zone: "covid19alliance.org" redirect
+local-data: "covid19alliance.org A 0.0.0.0"
+local-zone: "covid19calc.viapotentia.repl.run" redirect
+local-data: "covid19calc.viapotentia.repl.run A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
