@@ -12204,6 +12204,26 @@ local-zone: "covid19.aelan.sb" redirect
 local-data: "covid19.aelan.sb A 0.0.0.0"
 local-zone: "covid19.idionline.org" redirect
 local-data: "covid19.idionline.org A 0.0.0.0"
+local-zone: "coronavirusaide.org" redirect
+local-data: "coronavirusaide.org A 0.0.0.0"
+local-zone: "forums.punchcovid19.com" redirect
+local-data: "forums.punchcovid19.com A 0.0.0.0"
+local-zone: "coronavirusdrops.com" redirect
+local-data: "coronavirusdrops.com A 0.0.0.0"
+local-zone: "coronavirus.com.au" redirect
+local-data: "coronavirus.com.au A 0.0.0.0"
+local-zone: "covid19.farmaciasdeservico.net" redirect
+local-data: "covid19.farmaciasdeservico.net A 0.0.0.0"
+local-zone: "covid19.mbsmedia.store" redirect
+local-data: "covid19.mbsmedia.store A 0.0.0.0"
+local-zone: "coronavirus-india.in" redirect
+local-data: "coronavirus-india.in A 0.0.0.0"
+local-zone: "covid19story.com" redirect
+local-data: "covid19story.com A 0.0.0.0"
+local-zone: "covid19faqs.xyz" redirect
+local-data: "covid19faqs.xyz A 0.0.0.0"
+local-zone: "covid19helpline.intelimina.com" redirect
+local-data: "covid19helpline.intelimina.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
