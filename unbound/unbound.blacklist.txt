@@ -12718,6 +12718,64 @@ local-zone: "onsite.lillycovid19testing.com" redirect
 local-data: "onsite.lillycovid19testing.com A 0.0.0.0"
 local-zone: "api.msbfcovid19info.stenlionel.com" redirect
 local-data: "api.msbfcovid19info.stenlionel.com A 0.0.0.0"
+local-zone: "strahovka-covid-19.online-strahovka.ru" redirect
+local-data: "strahovka-covid-19.online-strahovka.ru A 0.0.0.0"
+local-zone: "coronavirushoarders.com" redirect
+local-data: "coronavirushoarders.com A 0.0.0.0"
+local-zone: "coronavirusmeditating.com" redirect
+local-data: "coronavirusmeditating.com A 0.0.0.0"
+local-zone: "coronavirustestla.com" redirect
+local-data: "coronavirustestla.com A 0.0.0.0"
+local-zone: "coronaviruseseffect.com" redirect
+local-data: "coronaviruseseffect.com A 0.0.0.0"
+local-zone: "coronavirusexplained.com" redirect
+local-data: "coronavirusexplained.com A 0.0.0.0"
+local-zone: "coronavirusremover.com" redirect
+local-data: "coronavirusremover.com A 0.0.0.0"
+local-zone: "coronavirusdielaughing.com" redirect
+local-data: "coronavirusdielaughing.com A 0.0.0.0"
+local-zone: "coronavirusfreetest.com" redirect
+local-data: "coronavirusfreetest.com A 0.0.0.0"
+local-zone: "www.coronaviruscovit19.com" redirect
+local-data: "www.coronaviruscovit19.com A 0.0.0.0"
+local-zone: "coronavirusfreeisland.com" redirect
+local-data: "coronavirusfreeisland.com A 0.0.0.0"
+local-zone: "www.coronavirusoutbreaksurvivalplan.com" redirect
+local-data: "www.coronavirusoutbreaksurvivalplan.com A 0.0.0.0"
+local-zone: "yume-dental.coronavirus-clinic.com" redirect
+local-data: "yume-dental.coronavirus-clinic.com A 0.0.0.0"
+local-zone: "sars-cov-2.delivery" redirect
+local-data: "sars-cov-2.delivery A 0.0.0.0"
+local-zone: "coronavirusemsc.com.br" redirect
+local-data: "coronavirusemsc.com.br A 0.0.0.0"
+local-zone: "covid19fasttest.net" redirect
+local-data: "covid19fasttest.net A 0.0.0.0"
+local-zone: "coronavirus-cases.net" redirect
+local-data: "coronavirus-cases.net A 0.0.0.0"
+local-zone: "3dcovid19.tech.mornings4.com" redirect
+local-data: "3dcovid19.tech.mornings4.com A 0.0.0.0"
+local-zone: "covid19-133632.us-south.containers.appdomain.cloud" redirect
+local-data: "covid19-133632.us-south.containers.appdomain.cloud A 0.0.0.0"
+local-zone: "novelcoronaviruscovid-19.net" redirect
+local-data: "novelcoronaviruscovid-19.net A 0.0.0.0"
+local-zone: "kill-the-coronavirus.app" redirect
+local-data: "kill-the-coronavirus.app A 0.0.0.0"
+local-zone: "anti-covid19.fr" redirect
+local-data: "anti-covid19.fr A 0.0.0.0"
+local-zone: "decontaminationcovid19.com" redirect
+local-data: "decontaminationcovid19.com A 0.0.0.0"
+local-zone: "covid19.gtem.ca" redirect
+local-data: "covid19.gtem.ca A 0.0.0.0"
+local-zone: "coronavirustoday.xyz" redirect
+local-data: "coronavirustoday.xyz A 0.0.0.0"
+local-zone: "coronavirustestkit.top" redirect
+local-data: "coronavirustestkit.top A 0.0.0.0"
+local-zone: "237covid19fighters.mohamadoubello.com" redirect
+local-data: "237covid19fighters.mohamadoubello.com A 0.0.0.0"
+local-zone: "stopcoronavirus.nl" redirect
+local-data: "stopcoronavirus.nl A 0.0.0.0"
+local-zone: "www.stopcoronavirus.nl" redirect
+local-data: "www.stopcoronavirus.nl A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -13274,6 +13332,8 @@ local-zone: "covid19-survey.org" redirect
 local-data: "covid19-survey.org A 0.0.0.0"
 local-zone: "covid-19aid.net" redirect
 local-data: "covid-19aid.net A 0.0.0.0"
+local-zone: "coronavirus-news.de" redirect
+local-data: "coronavirus-news.de A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
