@@ -13240,6 +13240,38 @@ local-zone: "britishcovid19.scemo.org" redirect
 local-data: "britishcovid19.scemo.org A 0.0.0.0"
 local-zone: "covid19live.kz" redirect
 local-data: "covid19live.kz A 0.0.0.0"
+local-zone: "faqscoronavirus.com" redirect
+local-data: "faqscoronavirus.com A 0.0.0.0"
+local-zone: "covid19race.com" redirect
+local-data: "covid19race.com A 0.0.0.0"
+local-zone: "graphique.coronavirus.france.myskill.xyz" redirect
+local-data: "graphique.coronavirus.france.myskill.xyz A 0.0.0.0"
+local-zone: "graphique.coronavirus.monde.myskill.xyz" redirect
+local-data: "graphique.coronavirus.monde.myskill.xyz A 0.0.0.0"
+local-zone: "sdncovid19.naptasoft.com" redirect
+local-data: "sdncovid19.naptasoft.com A 0.0.0.0"
+local-zone: "coronavirus.projectpage.app" redirect
+local-data: "coronavirus.projectpage.app A 0.0.0.0"
+local-zone: "tl.burnabycoronavirus.com" redirect
+local-data: "tl.burnabycoronavirus.com A 0.0.0.0"
+local-zone: "coronavirus2019.co.uk" redirect
+local-data: "coronavirus2019.co.uk A 0.0.0.0"
+local-zone: "covid19-world.org" redirect
+local-data: "covid19-world.org A 0.0.0.0"
+local-zone: "covid19responsefund.org" redirect
+local-data: "covid19responsefund.org A 0.0.0.0"
+local-zone: "covid19.simpple.com.sg" redirect
+local-data: "covid19.simpple.com.sg A 0.0.0.0"
+local-zone: "kolhapurcovid19care.com" redirect
+local-data: "kolhapurcovid19care.com A 0.0.0.0"
+local-zone: "covid19.vala-media.com" redirect
+local-data: "covid19.vala-media.com A 0.0.0.0"
+local-zone: "covid19nyc.org" redirect
+local-data: "covid19nyc.org A 0.0.0.0"
+local-zone: "covid19.cx" redirect
+local-data: "covid19.cx A 0.0.0.0"
+local-zone: "www.covid19nyc.org" redirect
+local-data: "www.covid19nyc.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -13822,6 +13854,8 @@ local-zone: "nursesforcovid-19.com" redirect
 local-data: "nursesforcovid-19.com A 0.0.0.0"
 local-zone: "coronavirus03.ru" redirect
 local-data: "coronavirus03.ru A 0.0.0.0"
+local-zone: "afectadoscovid19.org" redirect
+local-data: "afectadoscovid19.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
