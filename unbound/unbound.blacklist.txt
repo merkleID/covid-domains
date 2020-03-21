@@ -12272,6 +12272,36 @@ local-zone: "covid19badge.com" redirect
 local-data: "covid19badge.com A 0.0.0.0"
 local-zone: "www.covid19pk.info" redirect
 local-data: "www.covid19pk.info A 0.0.0.0"
+local-zone: "covid-19.gayolueskab.go.id" redirect
+local-data: "covid-19.gayolueskab.go.id A 0.0.0.0"
+local-zone: "covid19.themilkywhy.com" redirect
+local-data: "covid19.themilkywhy.com A 0.0.0.0"
+local-zone: "iwcovid19.com" redirect
+local-data: "iwcovid19.com A 0.0.0.0"
+local-zone: "covid19.simpple.com.sg" redirect
+local-data: "covid19.simpple.com.sg A 0.0.0.0"
+local-zone: "coronavirus-you.ru" redirect
+local-data: "coronavirus-you.ru A 0.0.0.0"
+local-zone: "covid19.guardian.ng" redirect
+local-data: "covid19.guardian.ng A 0.0.0.0"
+local-zone: "video.coronavirus-you.ru" redirect
+local-data: "video.coronavirus-you.ru A 0.0.0.0"
+local-zone: "mascherine-coronavirus.eu" redirect
+local-data: "mascherine-coronavirus.eu A 0.0.0.0"
+local-zone: "covid19.surgicalvideoproduction.com" redirect
+local-data: "covid19.surgicalvideoproduction.com A 0.0.0.0"
+local-zone: "suzanocoronavirus.com.br" redirect
+local-data: "suzanocoronavirus.com.br A 0.0.0.0"
+local-zone: "coronavirusmexico.academiadeadiestradores.com" redirect
+local-data: "coronavirusmexico.academiadeadiestradores.com A 0.0.0.0"
+local-zone: "coronavirus.importos.xyz" redirect
+local-data: "coronavirus.importos.xyz A 0.0.0.0"
+local-zone: "covid19.simpple.com.sg" redirect
+local-data: "covid19.simpple.com.sg A 0.0.0.0"
+local-zone: "covid19.binarybase.io" redirect
+local-data: "covid19.binarybase.io A 0.0.0.0"
+local-zone: "coronavirusbulkbuy.co.uk" redirect
+local-data: "coronavirusbulkbuy.co.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
