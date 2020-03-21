@@ -12302,6 +12302,34 @@ local-zone: "covid19.binarybase.io" redirect
 local-data: "covid19.binarybase.io A 0.0.0.0"
 local-zone: "coronavirusbulkbuy.co.uk" redirect
 local-data: "coronavirusbulkbuy.co.uk A 0.0.0.0"
+local-zone: "www.byecoronavirus.tk" redirect
+local-data: "www.byecoronavirus.tk A 0.0.0.0"
+local-zone: "coronavirus.digitaltinder.com" redirect
+local-data: "coronavirus.digitaltinder.com A 0.0.0.0"
+local-zone: "www.hometestkitcoronavirus.com" redirect
+local-data: "www.hometestkitcoronavirus.com A 0.0.0.0"
+local-zone: "covid19dailyupdate.com" redirect
+local-data: "covid19dailyupdate.com A 0.0.0.0"
+local-zone: "ncovcovid19.com" redirect
+local-data: "ncovcovid19.com A 0.0.0.0"
+local-zone: "covid-19.oniosoft.com" redirect
+local-data: "covid-19.oniosoft.com A 0.0.0.0"
+local-zone: "covid19cleansolutions.com" redirect
+local-data: "covid19cleansolutions.com A 0.0.0.0"
+local-zone: "effcovid19.com" redirect
+local-data: "effcovid19.com A 0.0.0.0"
+local-zone: "covid19.simpple.com.sg" redirect
+local-data: "covid19.simpple.com.sg A 0.0.0.0"
+local-zone: "covid19.ivis.africa" redirect
+local-data: "covid19.ivis.africa A 0.0.0.0"
+local-zone: "google.com.covid-19.cx" redirect
+local-data: "google.com.covid-19.cx A 0.0.0.0"
+local-zone: "www.hometestkitcoronavirus.com" redirect
+local-data: "www.hometestkitcoronavirus.com A 0.0.0.0"
+local-zone: "test-coronavirus.com.ar" redirect
+local-data: "test-coronavirus.com.ar A 0.0.0.0"
+local-zone: "covid-19helpers.com" redirect
+local-data: "covid-19helpers.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
