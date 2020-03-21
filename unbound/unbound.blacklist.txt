@@ -12050,6 +12050,32 @@ local-zone: "coronavirus.hollandhart.com" redirect
 local-data: "coronavirus.hollandhart.com A 0.0.0.0"
 local-zone: "covid19.magnifind.health" redirect
 local-data: "covid19.magnifind.health A 0.0.0.0"
+local-zone: "d3v-covid19.zendesk.com" redirect
+local-data: "d3v-covid19.zendesk.com A 0.0.0.0"
+local-zone: "covid19.netgas.ai" redirect
+local-data: "covid19.netgas.ai A 0.0.0.0"
+local-zone: "www.koronaviruscovid19.ru" redirect
+local-data: "www.koronaviruscovid19.ru A 0.0.0.0"
+local-zone: "covid-19.maida.health" redirect
+local-data: "covid-19.maida.health A 0.0.0.0"
+local-zone: "protejase.coronavirus.firecodeit.net" redirect
+local-data: "protejase.coronavirus.firecodeit.net A 0.0.0.0"
+local-zone: "coronavirusloan.money" redirect
+local-data: "coronavirusloan.money A 0.0.0.0"
+local-zone: "covid19uvc.net" redirect
+local-data: "covid19uvc.net A 0.0.0.0"
+local-zone: "covid-19.cute-alien.com" redirect
+local-data: "covid-19.cute-alien.com A 0.0.0.0"
+local-zone: "www.coronaviruses.top" redirect
+local-data: "www.coronaviruses.top A 0.0.0.0"
+local-zone: "19covid-gouv12.com" redirect
+local-data: "19covid-gouv12.com A 0.0.0.0"
+local-zone: "covid19.dominicoamerican.org" redirect
+local-data: "covid19.dominicoamerican.org A 0.0.0.0"
+local-zone: "kill-the-coronavirus.com" redirect
+local-data: "kill-the-coronavirus.com A 0.0.0.0"
+local-zone: "n95coronavirus.com" redirect
+local-data: "n95coronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
