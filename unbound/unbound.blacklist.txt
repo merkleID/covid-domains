@@ -11786,6 +11786,32 @@ local-zone: "staysafecovid-19.info" redirect
 local-data: "staysafecovid-19.info A 0.0.0.0"
 local-zone: "coronaviruscleanerkc.com" redirect
 local-data: "coronaviruscleanerkc.com A 0.0.0.0"
+local-zone: "covid19.quersive.com" redirect
+local-data: "covid19.quersive.com A 0.0.0.0"
+local-zone: "211oncovid19.ca" redirect
+local-data: "211oncovid19.ca A 0.0.0.0"
+local-zone: "coronavirus.dataclue.bi" redirect
+local-data: "coronavirus.dataclue.bi A 0.0.0.0"
+local-zone: "covid-19.dataclue.bi" redirect
+local-data: "covid-19.dataclue.bi A 0.0.0.0"
+local-zone: "covid19.amo0.com" redirect
+local-data: "covid19.amo0.com A 0.0.0.0"
+local-zone: "covid19.bizumy.com" redirect
+local-data: "covid19.bizumy.com A 0.0.0.0"
+local-zone: "howisurvivedcovid-19.com" redirect
+local-data: "howisurvivedcovid-19.com A 0.0.0.0"
+local-zone: "foracoronavirus.com" redirect
+local-data: "foracoronavirus.com A 0.0.0.0"
+local-zone: "juntoscontracoronavirus.com" redirect
+local-data: "juntoscontracoronavirus.com A 0.0.0.0"
+local-zone: "www.tracecovid19.app" redirect
+local-data: "www.tracecovid19.app A 0.0.0.0"
+local-zone: "www.covid19tracker.in" redirect
+local-data: "www.covid19tracker.in A 0.0.0.0"
+local-zone: "coronavirus.jvinicius.net" redirect
+local-data: "coronavirus.jvinicius.net A 0.0.0.0"
+local-zone: "covid19communityca.com" redirect
+local-data: "covid19communityca.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
