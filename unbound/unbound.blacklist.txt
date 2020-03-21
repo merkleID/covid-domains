@@ -12958,6 +12958,36 @@ local-zone: "covid19.dionedomingo.com" redirect
 local-data: "covid19.dionedomingo.com A 0.0.0.0"
 local-zone: "coronavirus.gibanet.com" redirect
 local-data: "coronavirus.gibanet.com A 0.0.0.0"
+local-zone: "covid19dati.altervista.org" redirect
+local-data: "covid19dati.altervista.org A 0.0.0.0"
+local-zone: "covid19memorial.run" redirect
+local-data: "covid19memorial.run A 0.0.0.0"
+local-zone: "coronavirusupdate.ru" redirect
+local-data: "coronavirusupdate.ru A 0.0.0.0"
+local-zone: "www.covid19action.ca" redirect
+local-data: "www.covid19action.ca A 0.0.0.0"
+local-zone: "beatcoronavirus5050.com" redirect
+local-data: "beatcoronavirus5050.com A 0.0.0.0"
+local-zone: "covid-19sba.kingcreolespalace.com" redirect
+local-data: "covid-19sba.kingcreolespalace.com A 0.0.0.0"
+local-zone: "www.covid19action.ca" redirect
+local-data: "www.covid19action.ca A 0.0.0.0"
+local-zone: "kn95coronavirus.com" redirect
+local-data: "kn95coronavirus.com A 0.0.0.0"
+local-zone: "www.coronavirus-hometreatment.com" redirect
+local-data: "www.coronavirus-hometreatment.com A 0.0.0.0"
+local-zone: "coronavirus-hometreatment.com" redirect
+local-data: "coronavirus-hometreatment.com A 0.0.0.0"
+local-zone: "www.coronavirus-hometreatment.com" redirect
+local-data: "www.coronavirus-hometreatment.com A 0.0.0.0"
+local-zone: "mapadelcoronavirus2020.com" redirect
+local-data: "mapadelcoronavirus2020.com A 0.0.0.0"
+local-zone: "covid19.rthand.com" redirect
+local-data: "covid19.rthand.com A 0.0.0.0"
+local-zone: "covid19.brentwood.ca" redirect
+local-data: "covid19.brentwood.ca A 0.0.0.0"
+local-zone: "covid19-test.id" redirect
+local-data: "covid19-test.id A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -13524,6 +13554,8 @@ local-zone: "anticoronavirus.biz" redirect
 local-data: "anticoronavirus.biz A 0.0.0.0"
 local-zone: "eshop-covid19.fr" redirect
 local-data: "eshop-covid19.fr A 0.0.0.0"
+local-zone: "mamparasanticovid19.com" redirect
+local-data: "mamparasanticovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
