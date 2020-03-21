@@ -12626,6 +12626,54 @@ local-zone: "covid19sarscov2.restechmp.kylos.pl" redirect
 local-data: "covid19sarscov2.restechmp.kylos.pl A 0.0.0.0"
 local-zone: "covid19masque.com" redirect
 local-data: "covid19masque.com A 0.0.0.0"
+local-zone: "www.covid19masque.com" redirect
+local-data: "www.covid19masque.com A 0.0.0.0"
+local-zone: "chatcoronavirus.com" redirect
+local-data: "chatcoronavirus.com A 0.0.0.0"
+local-zone: "bogalusacovid19.com" redirect
+local-data: "bogalusacovid19.com A 0.0.0.0"
+local-zone: "covid19.corludahaber.com" redirect
+local-data: "covid19.corludahaber.com A 0.0.0.0"
+local-zone: "portalandaluciacovid19.es" redirect
+local-data: "portalandaluciacovid19.es A 0.0.0.0"
+local-zone: "covid19-survivor.com" redirect
+local-data: "covid19-survivor.com A 0.0.0.0"
+local-zone: "covid19.makeitsaas.com" redirect
+local-data: "covid19.makeitsaas.com A 0.0.0.0"
+local-zone: "sars-cov-2.date" redirect
+local-data: "sars-cov-2.date A 0.0.0.0"
+local-zone: "covid19relationships.com" redirect
+local-data: "covid19relationships.com A 0.0.0.0"
+local-zone: "www.covid19relationships.com" redirect
+local-data: "www.covid19relationships.com A 0.0.0.0"
+local-zone: "colorado-coronavirus.com" redirect
+local-data: "colorado-coronavirus.com A 0.0.0.0"
+local-zone: "www.covid19relationships.com" redirect
+local-data: "www.covid19relationships.com A 0.0.0.0"
+local-zone: "commonsenseandcoronavirus.com" redirect
+local-data: "commonsenseandcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusvaccineglobal.com" redirect
+local-data: "coronavirusvaccineglobal.com A 0.0.0.0"
+local-zone: "covid-19.com.ly" redirect
+local-data: "covid-19.com.ly A 0.0.0.0"
+local-zone: "covid-19-aktuell.de" redirect
+local-data: "covid-19-aktuell.de A 0.0.0.0"
+local-zone: "covid19check.bferris.xyz" redirect
+local-data: "covid19check.bferris.xyz A 0.0.0.0"
+local-zone: "covid19couples.com" redirect
+local-data: "covid19couples.com A 0.0.0.0"
+local-zone: "coronavirusrelationships.com" redirect
+local-data: "coronavirusrelationships.com A 0.0.0.0"
+local-zone: "www.coronavirusrelationships.org" redirect
+local-data: "www.coronavirusrelationships.org A 0.0.0.0"
+local-zone: "covid19relationships.org" redirect
+local-data: "covid19relationships.org A 0.0.0.0"
+local-zone: "www.covid19relationships.org" redirect
+local-data: "www.covid19relationships.org A 0.0.0.0"
+local-zone: "covid19.digifigs.com" redirect
+local-data: "covid19.digifigs.com A 0.0.0.0"
+local-zone: "team.sudancovid19.info" redirect
+local-data: "team.sudancovid19.info A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
