@@ -13216,6 +13216,30 @@ local-zone: "thecoronavirusnetwork.com" redirect
 local-data: "thecoronavirusnetwork.com A 0.0.0.0"
 local-zone: "covid19urgences.360medics-pro.com" redirect
 local-data: "covid19urgences.360medics-pro.com A 0.0.0.0"
+local-zone: "coronavirusloanprogram.com" redirect
+local-data: "coronavirusloanprogram.com A 0.0.0.0"
+local-zone: "covid-19vaccine.de" redirect
+local-data: "covid-19vaccine.de A 0.0.0.0"
+local-zone: "coronavirus03.ru" redirect
+local-data: "coronavirus03.ru A 0.0.0.0"
+local-zone: "symptomsofcovid19.com" redirect
+local-data: "symptomsofcovid19.com A 0.0.0.0"
+local-zone: "coronavirus.tb-gov.com" redirect
+local-data: "coronavirus.tb-gov.com A 0.0.0.0"
+local-zone: "covid19urgences.360medics-pro.com" redirect
+local-data: "covid19urgences.360medics-pro.com A 0.0.0.0"
+local-zone: "novelcoronavirus.city" redirect
+local-data: "novelcoronavirus.city A 0.0.0.0"
+local-zone: "covid19.telushealth.com" redirect
+local-data: "covid19.telushealth.com A 0.0.0.0"
+local-zone: "homecoronaviruskit.co.uk" redirect
+local-data: "homecoronaviruskit.co.uk A 0.0.0.0"
+local-zone: "www.sbacoronavirusloanconsulting.com" redirect
+local-data: "www.sbacoronavirusloanconsulting.com A 0.0.0.0"
+local-zone: "britishcovid19.scemo.org" redirect
+local-data: "britishcovid19.scemo.org A 0.0.0.0"
+local-zone: "covid19live.kz" redirect
+local-data: "covid19live.kz A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -13796,6 +13820,8 @@ local-zone: "eshop-covid19.com" redirect
 local-data: "eshop-covid19.com A 0.0.0.0"
 local-zone: "nursesforcovid-19.com" redirect
 local-data: "nursesforcovid-19.com A 0.0.0.0"
+local-zone: "coronavirus03.ru" redirect
+local-data: "coronavirus03.ru A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

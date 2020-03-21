@@ -6607,6 +6607,18 @@ local-zone: "covid19outbreak.net" static
 local-zone: "sba.coronavirusloanprogram.com" static
 local-zone: "thecoronavirusnetwork.com" static
 local-zone: "covid19urgences.360medics-pro.com" static
+local-zone: "coronavirusloanprogram.com" static
+local-zone: "covid-19vaccine.de" static
+local-zone: "coronavirus03.ru" static
+local-zone: "symptomsofcovid19.com" static
+local-zone: "coronavirus.tb-gov.com" static
+local-zone: "covid19urgences.360medics-pro.com" static
+local-zone: "novelcoronavirus.city" static
+local-zone: "covid19.telushealth.com" static
+local-zone: "homecoronaviruskit.co.uk" static
+local-zone: "www.sbacoronavirusloanconsulting.com" static
+local-zone: "britishcovid19.scemo.org" static
+local-zone: "covid19live.kz" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -6897,6 +6909,7 @@ local-zone: "staythrough-covid19.com" static
 local-zone: "nurseforcovid19.com" static
 local-zone: "eshop-covid19.com" static
 local-zone: "nursesforcovid-19.com" static
+local-zone: "coronavirus03.ru" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
