@@ -12404,6 +12404,40 @@ local-zone: "covid19.gov.bs" redirect
 local-data: "covid19.gov.bs A 0.0.0.0"
 local-zone: "covid19.beritabali.com" redirect
 local-data: "covid19.beritabali.com A 0.0.0.0"
+local-zone: "covid19marsaskala.com" redirect
+local-data: "covid19marsaskala.com A 0.0.0.0"
+local-zone: "covid-19masks.com.co" redirect
+local-data: "covid-19masks.com.co A 0.0.0.0"
+local-zone: "aboutcoronavirus.ru" redirect
+local-data: "aboutcoronavirus.ru A 0.0.0.0"
+local-zone: "covid-19helpers.com" redirect
+local-data: "covid-19helpers.com A 0.0.0.0"
+local-zone: "www.covid-19aid.group" redirect
+local-data: "www.covid-19aid.group A 0.0.0.0"
+local-zone: "covid19stays.co.uk" redirect
+local-data: "covid19stays.co.uk A 0.0.0.0"
+local-zone: "lutte-coronavirus.com" redirect
+local-data: "lutte-coronavirus.com A 0.0.0.0"
+local-zone: "www.lutte-coronavirus.com" redirect
+local-data: "www.lutte-coronavirus.com A 0.0.0.0"
+local-zone: "coronavirus.benkyou.com.br" redirect
+local-data: "coronavirus.benkyou.com.br A 0.0.0.0"
+local-zone: "lifehopecovid19test.provider.mediportal.com" redirect
+local-data: "lifehopecovid19test.provider.mediportal.com A 0.0.0.0"
+local-zone: "knowcovid19.com" redirect
+local-data: "knowcovid19.com A 0.0.0.0"
+local-zone: "coronavirus-liveupdates.com" redirect
+local-data: "coronavirus-liveupdates.com A 0.0.0.0"
+local-zone: "covid19basics.attireclub.org" redirect
+local-data: "covid19basics.attireclub.org A 0.0.0.0"
+local-zone: "www.stopcoronavirus.com.ua" redirect
+local-data: "www.stopcoronavirus.com.ua A 0.0.0.0"
+local-zone: "admin.covid19-uk.co.uk" redirect
+local-data: "admin.covid19-uk.co.uk A 0.0.0.0"
+local-zone: "coronavirus-paraiadeleri.com" redirect
+local-data: "coronavirus-paraiadeleri.com A 0.0.0.0"
+local-zone: "el-coronavirus-covid19.com" redirect
+local-data: "el-coronavirus-covid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -12956,6 +12990,8 @@ local-zone: "livecoronaviruscounter.com" redirect
 local-data: "livecoronaviruscounter.com A 0.0.0.0"
 local-zone: "sars-cov-2.at" redirect
 local-data: "sars-cov-2.at A 0.0.0.0"
+local-zone: "covid19-survey.org" redirect
+local-data: "covid19-survey.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
