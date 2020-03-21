@@ -12076,6 +12076,36 @@ local-zone: "kill-the-coronavirus.com" redirect
 local-data: "kill-the-coronavirus.com A 0.0.0.0"
 local-zone: "n95coronavirus.com" redirect
 local-data: "n95coronavirus.com A 0.0.0.0"
+local-zone: "coronavirusy.net" redirect
+local-data: "coronavirusy.net A 0.0.0.0"
+local-zone: "coronavirusvaccine.club" redirect
+local-data: "coronavirusvaccine.club A 0.0.0.0"
+local-zone: "newbraunfelscovid-19survivalguide.com" redirect
+local-data: "newbraunfelscovid-19survivalguide.com A 0.0.0.0"
+local-zone: "newscoronavirus.com" redirect
+local-data: "newscoronavirus.com A 0.0.0.0"
+local-zone: "covid19.nextvation.com" redirect
+local-data: "covid19.nextvation.com A 0.0.0.0"
+local-zone: "covid-19.tracker.rowles.ch" redirect
+local-data: "covid-19.tracker.rowles.ch A 0.0.0.0"
+local-zone: "novelcoronavirustestkit.com" redirect
+local-data: "novelcoronavirustestkit.com A 0.0.0.0"
+local-zone: "covid19.jqueryid.com" redirect
+local-data: "covid19.jqueryid.com A 0.0.0.0"
+local-zone: "self-check-covid19.baritokualakab.go.id" redirect
+local-data: "self-check-covid19.baritokualakab.go.id A 0.0.0.0"
+local-zone: "www.covid19.ldhavoice.co.uk" redirect
+local-data: "www.covid19.ldhavoice.co.uk A 0.0.0.0"
+local-zone: "anticovid-19.net" redirect
+local-data: "anticovid-19.net A 0.0.0.0"
+local-zone: "self-check-covid19.baritokualakab.go.id" redirect
+local-data: "self-check-covid19.baritokualakab.go.id A 0.0.0.0"
+local-zone: "www.whatiscovid-19.co.uk" redirect
+local-data: "www.whatiscovid-19.co.uk A 0.0.0.0"
+local-zone: "occovid19.ochealthinfo.com" redirect
+local-data: "occovid19.ochealthinfo.com A 0.0.0.0"
+local-zone: "protejase.coronavirus.firecodeit.net" redirect
+local-data: "protejase.coronavirus.firecodeit.net A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
