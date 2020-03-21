@@ -13348,6 +13348,40 @@ local-zone: "covid-19.departmentofmedicine.com" redirect
 local-data: "covid-19.departmentofmedicine.com A 0.0.0.0"
 local-zone: "medicalsuppliescoronavirus.com" redirect
 local-data: "medicalsuppliescoronavirus.com A 0.0.0.0"
+local-zone: "covid-19swabtest.com" redirect
+local-data: "covid-19swabtest.com A 0.0.0.0"
+local-zone: "coronavirus.country" redirect
+local-data: "coronavirus.country A 0.0.0.0"
+local-zone: "coronavirus.normanok.gov" redirect
+local-data: "coronavirus.normanok.gov A 0.0.0.0"
+local-zone: "www.coronavirus.normanok.gov" redirect
+local-data: "www.coronavirus.normanok.gov A 0.0.0.0"
+local-zone: "phpmyadmin.covid19veneto.it" redirect
+local-data: "phpmyadmin.covid19veneto.it A 0.0.0.0"
+local-zone: "coronavirus.oncvisual.com" redirect
+local-data: "coronavirus.oncvisual.com A 0.0.0.0"
+local-zone: "dev.covid19.eas.cornell.edu" redirect
+local-data: "dev.covid19.eas.cornell.edu A 0.0.0.0"
+local-zone: "coronavirussafetyitems.com" redirect
+local-data: "coronavirussafetyitems.com A 0.0.0.0"
+local-zone: "covid-19.departmentofmedicine.com" redirect
+local-data: "covid-19.departmentofmedicine.com A 0.0.0.0"
+local-zone: "covid-19teststrips.com" redirect
+local-data: "covid-19teststrips.com A 0.0.0.0"
+local-zone: "wehatecovid19.com" redirect
+local-data: "wehatecovid19.com A 0.0.0.0"
+local-zone: "www.attestation-deplacement-covid-19.fr" redirect
+local-data: "www.attestation-deplacement-covid-19.fr A 0.0.0.0"
+local-zone: "covid-19experience.com" redirect
+local-data: "covid-19experience.com A 0.0.0.0"
+local-zone: "bestcoronavirusprotection.org" redirect
+local-data: "bestcoronavirusprotection.org A 0.0.0.0"
+local-zone: "covid19.zbox7.eu" redirect
+local-data: "covid19.zbox7.eu A 0.0.0.0"
+local-zone: "busacovid19.org" redirect
+local-data: "busacovid19.org A 0.0.0.0"
+local-zone: "sacovid19.com" redirect
+local-data: "sacovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -13936,6 +13970,8 @@ local-zone: "odin-covid19.com" redirect
 local-data: "odin-covid19.com A 0.0.0.0"
 local-zone: "attestation-coronavirus.com" redirect
 local-data: "attestation-coronavirus.com A 0.0.0.0"
+local-zone: "coronavirus-markt.de" redirect
+local-data: "coronavirus-markt.de A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
