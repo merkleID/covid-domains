@@ -13018,6 +13018,38 @@ local-zone: "masque-anti-covid19.com" redirect
 local-data: "masque-anti-covid19.com A 0.0.0.0"
 local-zone: "maskanti-covid19.com" redirect
 local-data: "maskanti-covid19.com A 0.0.0.0"
+local-zone: "medicineforcoronavirus.com" redirect
+local-data: "medicineforcoronavirus.com A 0.0.0.0"
+local-zone: "covid19down.com" redirect
+local-data: "covid19down.com A 0.0.0.0"
+local-zone: "covid19lecce.it" redirect
+local-data: "covid19lecce.it A 0.0.0.0"
+local-zone: "covid19.etrilabs.com" redirect
+local-data: "covid19.etrilabs.com A 0.0.0.0"
+local-zone: "coronavirusfinancialhelp.org" redirect
+local-data: "coronavirusfinancialhelp.org A 0.0.0.0"
+local-zone: "coronavirus-mos.online" redirect
+local-data: "coronavirus-mos.online A 0.0.0.0"
+local-zone: "covid-19.sbkua.com" redirect
+local-data: "covid-19.sbkua.com A 0.0.0.0"
+local-zone: "coronavirus-hometreatment.com" redirect
+local-data: "coronavirus-hometreatment.com A 0.0.0.0"
+local-zone: "covid19py.com" redirect
+local-data: "covid19py.com A 0.0.0.0"
+local-zone: "coronavirus.duke.edu" redirect
+local-data: "coronavirus.duke.edu A 0.0.0.0"
+local-zone: "humanity-against-coronavirus.com" redirect
+local-data: "humanity-against-coronavirus.com A 0.0.0.0"
+local-zone: "coronavirus.duke.edu" redirect
+local-data: "coronavirus.duke.edu A 0.0.0.0"
+local-zone: "naropacovid19.com" redirect
+local-data: "naropacovid19.com A 0.0.0.0"
+local-zone: "covid19.biosens.rs" redirect
+local-data: "covid19.biosens.rs A 0.0.0.0"
+local-zone: "naturalcoronavirusprevention.com" redirect
+local-data: "naturalcoronavirusprevention.com A 0.0.0.0"
+local-zone: "beatcoronavirus.co.uk" redirect
+local-data: "beatcoronavirus.co.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
