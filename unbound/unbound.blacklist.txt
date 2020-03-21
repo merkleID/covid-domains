@@ -12148,6 +12148,26 @@ local-zone: "makeacovid19mask.com" redirect
 local-data: "makeacovid19mask.com A 0.0.0.0"
 local-zone: "coronavirus.essalud.gob.pe" redirect
 local-data: "coronavirus.essalud.gob.pe A 0.0.0.0"
+local-zone: "copingwithcoronavirus.org" redirect
+local-data: "copingwithcoronavirus.org A 0.0.0.0"
+local-zone: "coronavirus.trabalhasc.com.br" redirect
+local-data: "coronavirus.trabalhasc.com.br A 0.0.0.0"
+local-zone: "infocovid19.homenetnabire.com" redirect
+local-data: "infocovid19.homenetnabire.com A 0.0.0.0"
+local-zone: "ccpcoronavirus.covid19businessrelief.org" redirect
+local-data: "ccpcoronavirus.covid19businessrelief.org A 0.0.0.0"
+local-zone: "covid19.newtondreams.com" redirect
+local-data: "covid19.newtondreams.com A 0.0.0.0"
+local-zone: "coronavirus.si-senior.com" redirect
+local-data: "coronavirus.si-senior.com A 0.0.0.0"
+local-zone: "beyondcovid-19.com" redirect
+local-data: "beyondcovid-19.com A 0.0.0.0"
+local-zone: "covid19emsantarem.kriamos.pt" redirect
+local-data: "covid19emsantarem.kriamos.pt A 0.0.0.0"
+local-zone: "covid19live.net" redirect
+local-data: "covid19live.net A 0.0.0.0"
+local-zone: "learncoronavirus.life" redirect
+local-data: "learncoronavirus.life A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -12686,6 +12706,18 @@ local-zone: "coronaviruskarte.de" redirect
 local-data: "coronaviruskarte.de A 0.0.0.0"
 local-zone: "coronavirusrd.somee.com" redirect
 local-data: "coronavirusrd.somee.com A 0.0.0.0"
+local-zone: "maskcovid19.it" redirect
+local-data: "maskcovid19.it A 0.0.0.0"
+local-zone: "maskcovid19.store" redirect
+local-data: "maskcovid19.store A 0.0.0.0"
+local-zone: "maskcovid-19.store" redirect
+local-data: "maskcovid-19.store A 0.0.0.0"
+local-zone: "maskcoronavirus.it" redirect
+local-data: "maskcoronavirus.it A 0.0.0.0"
+local-zone: "maskcoronavirus.store" redirect
+local-data: "maskcoronavirus.store A 0.0.0.0"
+local-zone: "livecoronaviruscounter.com" redirect
+local-data: "livecoronaviruscounter.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
