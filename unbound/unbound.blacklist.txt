@@ -12372,6 +12372,38 @@ local-zone: "covid19.dataclue.bi" redirect
 local-data: "covid19.dataclue.bi A 0.0.0.0"
 local-zone: "covid19.portima.be" redirect
 local-data: "covid19.portima.be A 0.0.0.0"
+local-zone: "covid19.arthought.com" redirect
+local-data: "covid19.arthought.com A 0.0.0.0"
+local-zone: "coronavirus.obigra.ru" redirect
+local-data: "coronavirus.obigra.ru A 0.0.0.0"
+local-zone: "www.covid19admin.eql.ai" redirect
+local-data: "www.covid19admin.eql.ai A 0.0.0.0"
+local-zone: "www.hometestkitcoronavirus.com" redirect
+local-data: "www.hometestkitcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusmexico.net" redirect
+local-data: "coronavirusmexico.net A 0.0.0.0"
+local-zone: "www.hometestkitcoronavirus.com" redirect
+local-data: "www.hometestkitcoronavirus.com A 0.0.0.0"
+local-zone: "contracoronavirus.com.br" redirect
+local-data: "contracoronavirus.com.br A 0.0.0.0"
+local-zone: "coronaviruscleaned.com" redirect
+local-data: "coronaviruscleaned.com A 0.0.0.0"
+local-zone: "www.defeatcovid19.in" redirect
+local-data: "www.defeatcovid19.in A 0.0.0.0"
+local-zone: "www.hometestkitcoronavirus.com" redirect
+local-data: "www.hometestkitcoronavirus.com A 0.0.0.0"
+local-zone: "covid19-update1.com" redirect
+local-data: "covid19-update1.com A 0.0.0.0"
+local-zone: "www.hometestkitcoronavirus.com" redirect
+local-data: "www.hometestkitcoronavirus.com A 0.0.0.0"
+local-zone: "covid-19-101.com" redirect
+local-data: "covid-19-101.com A 0.0.0.0"
+local-zone: "coronavirus.es.gov.br" redirect
+local-data: "coronavirus.es.gov.br A 0.0.0.0"
+local-zone: "covid19.gov.bs" redirect
+local-data: "covid19.gov.bs A 0.0.0.0"
+local-zone: "covid19.beritabali.com" redirect
+local-data: "covid19.beritabali.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
