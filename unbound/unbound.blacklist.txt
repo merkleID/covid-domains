@@ -12330,6 +12330,48 @@ local-zone: "test-coronavirus.com.ar" redirect
 local-data: "test-coronavirus.com.ar A 0.0.0.0"
 local-zone: "covid-19helpers.com" redirect
 local-data: "covid-19helpers.com A 0.0.0.0"
+local-zone: "covid19.simpple.com.sg" redirect
+local-data: "covid19.simpple.com.sg A 0.0.0.0"
+local-zone: "covid19guidelines.online" redirect
+local-data: "covid19guidelines.online A 0.0.0.0"
+local-zone: "stateofcovid19.com" redirect
+local-data: "stateofcovid19.com A 0.0.0.0"
+local-zone: "www.hometestkitcoronavirus.com" redirect
+local-data: "www.hometestkitcoronavirus.com A 0.0.0.0"
+local-zone: "uvckillscoronavirus.net" redirect
+local-data: "uvckillscoronavirus.net A 0.0.0.0"
+local-zone: "webmail.coronavirusmexico.net" redirect
+local-data: "webmail.coronavirusmexico.net A 0.0.0.0"
+local-zone: "sars-cov-2.digital" redirect
+local-data: "sars-cov-2.digital A 0.0.0.0"
+local-zone: "covid-19-status.anexia.com" redirect
+local-data: "covid-19-status.anexia.com A 0.0.0.0"
+local-zone: "covid-19emirates.pro" redirect
+local-data: "covid-19emirates.pro A 0.0.0.0"
+local-zone: "covid-19.slj.me" redirect
+local-data: "covid-19.slj.me A 0.0.0.0"
+local-zone: "novelcoronaviruscovid19.net" redirect
+local-data: "novelcoronaviruscovid19.net A 0.0.0.0"
+local-zone: "www.hometestkitcoronavirus.com" redirect
+local-data: "www.hometestkitcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.meshworld.dev" redirect
+local-data: "covid19.meshworld.dev A 0.0.0.0"
+local-zone: "covid19.netaqsoft.com" redirect
+local-data: "covid19.netaqsoft.com A 0.0.0.0"
+local-zone: "www.hometestkitcoronavirus.com" redirect
+local-data: "www.hometestkitcoronavirus.com A 0.0.0.0"
+local-zone: "covid-19-staging.sennalabs.com" redirect
+local-data: "covid-19-staging.sennalabs.com A 0.0.0.0"
+local-zone: "coronavirus.dataclue.bi" redirect
+local-data: "coronavirus.dataclue.bi A 0.0.0.0"
+local-zone: "covid19supportpsy.zendesk.com" redirect
+local-data: "covid19supportpsy.zendesk.com A 0.0.0.0"
+local-zone: "covid-19.dataclue.bi" redirect
+local-data: "covid-19.dataclue.bi A 0.0.0.0"
+local-zone: "covid19.dataclue.bi" redirect
+local-data: "covid19.dataclue.bi A 0.0.0.0"
+local-zone: "covid19.portima.be" redirect
+local-data: "covid19.portima.be A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -12880,6 +12922,8 @@ local-zone: "maskcoronavirus.store" redirect
 local-data: "maskcoronavirus.store A 0.0.0.0"
 local-zone: "livecoronaviruscounter.com" redirect
 local-data: "livecoronaviruscounter.com A 0.0.0.0"
+local-zone: "sars-cov-2.at" redirect
+local-data: "sars-cov-2.at A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
