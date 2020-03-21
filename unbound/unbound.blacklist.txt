@@ -11882,6 +11882,34 @@ local-zone: "www.coronaviruses.ml" redirect
 local-data: "www.coronaviruses.ml A 0.0.0.0"
 local-zone: "covid-19.ilarahealth.com" redirect
 local-data: "covid-19.ilarahealth.com A 0.0.0.0"
+local-zone: "flacoronavirustracker.com" redirect
+local-data: "flacoronavirustracker.com A 0.0.0.0"
+local-zone: "unitedagainstcovid-19.com" redirect
+local-data: "unitedagainstcovid-19.com A 0.0.0.0"
+local-zone: "coronavirusapandemic.com" redirect
+local-data: "coronavirusapandemic.com A 0.0.0.0"
+local-zone: "coronavirusasesoria.mx" redirect
+local-data: "coronavirusasesoria.mx A 0.0.0.0"
+local-zone: "covid19.map2u.com.my" redirect
+local-data: "covid19.map2u.com.my A 0.0.0.0"
+local-zone: "xn--covid-19opplring-5ob.net" redirect
+local-data: "xn--covid-19opplring-5ob.net A 0.0.0.0"
+local-zone: "covid19comics.lennygrant.com" redirect
+local-data: "covid19comics.lennygrant.com A 0.0.0.0"
+local-zone: "www.bescherming-coronavirus.nl" redirect
+local-data: "www.bescherming-coronavirus.nl A 0.0.0.0"
+local-zone: "covid-19.orpe.org" redirect
+local-data: "covid-19.orpe.org A 0.0.0.0"
+local-zone: "pandemiccoronavirus.info" redirect
+local-data: "pandemiccoronavirus.info A 0.0.0.0"
+local-zone: "coronavirus.interesante.com" redirect
+local-data: "coronavirus.interesante.com A 0.0.0.0"
+local-zone: "covid19.dtonomy.com" redirect
+local-data: "covid19.dtonomy.com A 0.0.0.0"
+local-zone: "coronavirus.my.id" redirect
+local-data: "coronavirus.my.id A 0.0.0.0"
+local-zone: "mapa-coronavirus.st.tvg.net.br" redirect
+local-data: "mapa-coronavirus.st.tvg.net.br A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -12412,6 +12440,8 @@ local-zone: "corona-virus-19.info" redirect
 local-data: "corona-virus-19.info A 0.0.0.0"
 local-zone: "testdelcoronavirus.info" redirect
 local-data: "testdelcoronavirus.info A 0.0.0.0"
+local-zone: "coronavirusdailytracker.info" redirect
+local-data: "coronavirusdailytracker.info A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
