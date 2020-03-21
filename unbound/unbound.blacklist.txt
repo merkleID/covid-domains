@@ -12776,6 +12776,36 @@ local-zone: "stopcoronavirus.nl" redirect
 local-data: "stopcoronavirus.nl A 0.0.0.0"
 local-zone: "www.stopcoronavirus.nl" redirect
 local-data: "www.stopcoronavirus.nl A 0.0.0.0"
+local-zone: "coronavirusdonatenow.com" redirect
+local-data: "coronavirusdonatenow.com A 0.0.0.0"
+local-zone: "covid19homeworkoutprogramme.com" redirect
+local-data: "covid19homeworkoutprogramme.com A 0.0.0.0"
+local-zone: "covid19.n43cd.com" redirect
+local-data: "covid19.n43cd.com A 0.0.0.0"
+local-zone: "facemasks-coronavirus.com" redirect
+local-data: "facemasks-coronavirus.com A 0.0.0.0"
+local-zone: "www.covid19.arkansasofficeproducts.com" redirect
+local-data: "www.covid19.arkansasofficeproducts.com A 0.0.0.0"
+local-zone: "coronavirushealth.news" redirect
+local-data: "coronavirushealth.news A 0.0.0.0"
+local-zone: "covid19responsepod.com" redirect
+local-data: "covid19responsepod.com A 0.0.0.0"
+local-zone: "www.covid19.infonanggroe.com" redirect
+local-data: "www.covid19.infonanggroe.com A 0.0.0.0"
+local-zone: "coronavirus.educationnearby.com" redirect
+local-data: "coronavirus.educationnearby.com A 0.0.0.0"
+local-zone: "fogcovid19.com" redirect
+local-data: "fogcovid19.com A 0.0.0.0"
+local-zone: "ftp.entraidecoronavirus.fr" redirect
+local-data: "ftp.entraidecoronavirus.fr A 0.0.0.0"
+local-zone: "covid19-maroc.ml.promarketing.ma" redirect
+local-data: "covid19-maroc.ml.promarketing.ma A 0.0.0.0"
+local-zone: "covid-19.com.pt" redirect
+local-data: "covid-19.com.pt A 0.0.0.0"
+local-zone: "www.estadisticascoronavirus.com" redirect
+local-data: "www.estadisticascoronavirus.com A 0.0.0.0"
+local-zone: "2019ncov.com.au" redirect
+local-data: "2019ncov.com.au A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
