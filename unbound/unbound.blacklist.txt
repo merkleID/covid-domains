@@ -12168,6 +12168,42 @@ local-zone: "covid19live.net" redirect
 local-data: "covid19live.net A 0.0.0.0"
 local-zone: "learncoronavirus.life" redirect
 local-data: "learncoronavirus.life A 0.0.0.0"
+local-zone: "covid19riskcalculator.com" redirect
+local-data: "covid19riskcalculator.com A 0.0.0.0"
+local-zone: "covid19.ahuson.com" redirect
+local-data: "covid19.ahuson.com A 0.0.0.0"
+local-zone: "covid-19-pandemic-data.com" redirect
+local-data: "covid-19-pandemic-data.com A 0.0.0.0"
+local-zone: "covid-19.tomokaz-u.com" redirect
+local-data: "covid-19.tomokaz-u.com A 0.0.0.0"
+local-zone: "sars-cov-2.directory" redirect
+local-data: "sars-cov-2.directory A 0.0.0.0"
+local-zone: "sars-cov-2.agency" redirect
+local-data: "sars-cov-2.agency A 0.0.0.0"
+local-zone: "sars-cov-2.center" redirect
+local-data: "sars-cov-2.center A 0.0.0.0"
+local-zone: "sars-cov-2.art" redirect
+local-data: "sars-cov-2.art A 0.0.0.0"
+local-zone: "sars-cov-2.codes" redirect
+local-data: "sars-cov-2.codes A 0.0.0.0"
+local-zone: "sars-cov-2.best" redirect
+local-data: "sars-cov-2.best A 0.0.0.0"
+local-zone: "covid19.spark451.com" redirect
+local-data: "covid19.spark451.com A 0.0.0.0"
+local-zone: "bestmask-coronavirus.com" redirect
+local-data: "bestmask-coronavirus.com A 0.0.0.0"
+local-zone: "www.bestmask-coronavirus.com" redirect
+local-data: "www.bestmask-coronavirus.com A 0.0.0.0"
+local-zone: "covid19.criciuma.sc.gov.br" redirect
+local-data: "covid19.criciuma.sc.gov.br A 0.0.0.0"
+local-zone: "coronavirus0.com" redirect
+local-data: "coronavirus0.com A 0.0.0.0"
+local-zone: "www.tengoelcoronavirus.es" redirect
+local-data: "www.tengoelcoronavirus.es A 0.0.0.0"
+local-zone: "covid19.aelan.sb" redirect
+local-data: "covid19.aelan.sb A 0.0.0.0"
+local-zone: "covid19.idionline.org" redirect
+local-data: "covid19.idionline.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
