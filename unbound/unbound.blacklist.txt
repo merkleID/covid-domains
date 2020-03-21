@@ -11750,6 +11750,42 @@ local-zone: "evcovid19.callscreen.website" redirect
 local-data: "evcovid19.callscreen.website A 0.0.0.0"
 local-zone: "covid-19calistrong.com" redirect
 local-data: "covid-19calistrong.com A 0.0.0.0"
+local-zone: "covid19-de.ndo.dev" redirect
+local-data: "covid19-de.ndo.dev A 0.0.0.0"
+local-zone: "www.thecoronavirustestkit.com" redirect
+local-data: "www.thecoronavirustestkit.com A 0.0.0.0"
+local-zone: "covid19.gamabox.id" redirect
+local-data: "covid19.gamabox.id A 0.0.0.0"
+local-zone: "fhcovid19.com" redirect
+local-data: "fhcovid19.com A 0.0.0.0"
+local-zone: "help.coronavirus.lexipol.com" redirect
+local-data: "help.coronavirus.lexipol.com A 0.0.0.0"
+local-zone: "covid19stimulus.org" redirect
+local-data: "covid19stimulus.org A 0.0.0.0"
+local-zone: "covid19brooklynhelpers.com" redirect
+local-data: "covid19brooklynhelpers.com A 0.0.0.0"
+local-zone: "coronavirusgames.site" redirect
+local-data: "coronavirusgames.site A 0.0.0.0"
+local-zone: "covid19.pl.ua" redirect
+local-data: "covid19.pl.ua A 0.0.0.0"
+local-zone: "www.diolicovid19.info" redirect
+local-data: "www.diolicovid19.info A 0.0.0.0"
+local-zone: "www.emergenzacovid19.info" redirect
+local-data: "www.emergenzacovid19.info A 0.0.0.0"
+local-zone: "covid-19.seie-madagascar.org" redirect
+local-data: "covid-19.seie-madagascar.org A 0.0.0.0"
+local-zone: "www.covid19tracker.net" redirect
+local-data: "www.covid19tracker.net A 0.0.0.0"
+local-zone: "coronavirus.futurenovation.com" redirect
+local-data: "coronavirus.futurenovation.com A 0.0.0.0"
+local-zone: "covid19resourcelocator.org" redirect
+local-data: "covid19resourcelocator.org A 0.0.0.0"
+local-zone: "gamersvscovid19.com" redirect
+local-data: "gamersvscovid19.com A 0.0.0.0"
+local-zone: "staysafecovid-19.info" redirect
+local-data: "staysafecovid-19.info A 0.0.0.0"
+local-zone: "coronaviruscleanerkc.com" redirect
+local-data: "coronaviruscleanerkc.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -12276,6 +12312,8 @@ local-zone: "covid19pa.info" redirect
 local-data: "covid19pa.info A 0.0.0.0"
 local-zone: "covid19au.now.sh" redirect
 local-data: "covid19au.now.sh A 0.0.0.0"
+local-zone: "corona-virus-19.info" redirect
+local-data: "corona-virus-19.info A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
