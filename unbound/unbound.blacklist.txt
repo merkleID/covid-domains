@@ -12122,6 +12122,32 @@ local-zone: "pruebacoronavirus.com" redirect
 local-data: "pruebacoronavirus.com A 0.0.0.0"
 local-zone: "covid19.cs12.net" redirect
 local-data: "covid19.cs12.net A 0.0.0.0"
+local-zone: "teigncovid19.co.uk" redirect
+local-data: "teigncovid19.co.uk A 0.0.0.0"
+local-zone: "www.reducecoronavirusanxiety.com" redirect
+local-data: "www.reducecoronavirusanxiety.com A 0.0.0.0"
+local-zone: "covid19.bolmongkab.go.id" redirect
+local-data: "covid19.bolmongkab.go.id A 0.0.0.0"
+local-zone: "resistcovid-19.com" redirect
+local-data: "resistcovid-19.com A 0.0.0.0"
+local-zone: "china-fluoride.com" redirect
+local-data: "china-fluoride.com A 0.0.0.0"
+local-zone: "www.covid19rehab.club" redirect
+local-data: "www.covid19rehab.club A 0.0.0.0"
+local-zone: "covid19rehab.club" redirect
+local-data: "covid19rehab.club A 0.0.0.0"
+local-zone: "covid-19.ulum.dev" redirect
+local-data: "covid-19.ulum.dev A 0.0.0.0"
+local-zone: "covid19health.us" redirect
+local-data: "covid19health.us A 0.0.0.0"
+local-zone: "the-wuhan-flu.sunnygo.my" redirect
+local-data: "the-wuhan-flu.sunnygo.my A 0.0.0.0"
+local-zone: "coronavirus.sanityandself.com" redirect
+local-data: "coronavirus.sanityandself.com A 0.0.0.0"
+local-zone: "makeacovid19mask.com" redirect
+local-data: "makeacovid19mask.com A 0.0.0.0"
+local-zone: "coronavirus.essalud.gob.pe" redirect
+local-data: "coronavirus.essalud.gob.pe A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
