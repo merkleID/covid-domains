@@ -12438,6 +12438,58 @@ local-zone: "coronavirus-paraiadeleri.com" redirect
 local-data: "coronavirus-paraiadeleri.com A 0.0.0.0"
 local-zone: "el-coronavirus-covid19.com" redirect
 local-data: "el-coronavirus-covid19.com A 0.0.0.0"
+local-zone: "novelcoronaviruscovid-19.org" redirect
+local-data: "novelcoronaviruscovid-19.org A 0.0.0.0"
+local-zone: "nofearcovid19.org" redirect
+local-data: "nofearcovid19.org A 0.0.0.0"
+local-zone: "covid19analysis.org" redirect
+local-data: "covid19analysis.org A 0.0.0.0"
+local-zone: "lawancovid19.beritamadiun.com" redirect
+local-data: "lawancovid19.beritamadiun.com A 0.0.0.0"
+local-zone: "www.covid19research.pitt.edu" redirect
+local-data: "www.covid19research.pitt.edu A 0.0.0.0"
+local-zone: "www.coronavirusuisse.ch" redirect
+local-data: "www.coronavirusuisse.ch A 0.0.0.0"
+local-zone: "coronavirus.es.gov.br" redirect
+local-data: "coronavirus.es.gov.br A 0.0.0.0"
+local-zone: "lawancovid19.beritamadiun.com" redirect
+local-data: "lawancovid19.beritamadiun.com A 0.0.0.0"
+local-zone: "covid19.cnc.org.hk" redirect
+local-data: "covid19.cnc.org.hk A 0.0.0.0"
+local-zone: "kolhapurcovid19care.com" redirect
+local-data: "kolhapurcovid19care.com A 0.0.0.0"
+local-zone: "covid19.victoryfamily.church" redirect
+local-data: "covid19.victoryfamily.church A 0.0.0.0"
+local-zone: "covid-19.alfonsodominguez.es" redirect
+local-data: "covid-19.alfonsodominguez.es A 0.0.0.0"
+local-zone: "covid-19.kongkika.gr" redirect
+local-data: "covid-19.kongkika.gr A 0.0.0.0"
+local-zone: "yyccovid19.ca" redirect
+local-data: "yyccovid19.ca A 0.0.0.0"
+local-zone: "covid19sanity.com" redirect
+local-data: "covid19sanity.com A 0.0.0.0"
+local-zone: "despuesdelcoronavirus.com" redirect
+local-data: "despuesdelcoronavirus.com A 0.0.0.0"
+local-zone: "www.covid19-rapidtest.co.uk" redirect
+local-data: "www.covid19-rapidtest.co.uk A 0.0.0.0"
+local-zone: "costsofcovid-19.cloud.ycc-serv.com" redirect
+local-data: "costsofcovid-19.cloud.ycc-serv.com A 0.0.0.0"
+local-zone: "covid19-rapidtest.co.uk" redirect
+local-data: "covid19-rapidtest.co.uk A 0.0.0.0"
+local-zone: "www.covid19-rapidtest.co.uk" redirect
+local-data: "www.covid19-rapidtest.co.uk A 0.0.0.0"
+local-zone: "api.coronavirus.syntac.co" redirect
+local-data: "api.coronavirus.syntac.co A 0.0.0.0"
+local-zone: "covid19.ly" redirect
+local-data: "covid19.ly A 0.0.0.0"
+local-zone: "covid19.mustaphadabella.com" redirect
+local-data: "covid19.mustaphadabella.com A 0.0.0.0"
+local-zone: "www.coronavirusaumaroc.com" redirect
+local-data: "www.coronavirusaumaroc.com A 0.0.0.0"
+local-zone: "covid19-lifen.be" redirect
+local-data: "covid19-lifen.be A 0.0.0.0"
+local-zone: "mycovid19.co" redirect
+local-data: "mycovid19.co A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
