@@ -12582,6 +12582,50 @@ local-zone: "team.sudancovid19.info" redirect
 local-data: "team.sudancovid19.info A 0.0.0.0"
 local-zone: "beatcovid19now.com" redirect
 local-data: "beatcovid19now.com A 0.0.0.0"
+local-zone: "ccpcoronavirus.covid19businessrelief.org" redirect
+local-data: "ccpcoronavirus.covid19businessrelief.org A 0.0.0.0"
+local-zone: "truecoronaviruscases.com" redirect
+local-data: "truecoronaviruscases.com A 0.0.0.0"
+local-zone: "covid19-debug.seie-madagascar.org" redirect
+local-data: "covid19-debug.seie-madagascar.org A 0.0.0.0"
+local-zone: "www.bangkokcovid19.com" redirect
+local-data: "www.bangkokcovid19.com A 0.0.0.0"
+local-zone: "covid19.api.dev.tdy.pl" redirect
+local-data: "covid19.api.dev.tdy.pl A 0.0.0.0"
+local-zone: "bogalusacovid19.com" redirect
+local-data: "bogalusacovid19.com A 0.0.0.0"
+local-zone: "covid19.tomlawson.xyz" redirect
+local-data: "covid19.tomlawson.xyz A 0.0.0.0"
+local-zone: "covid19.spatialmate.com" redirect
+local-data: "covid19.spatialmate.com A 0.0.0.0"
+local-zone: "beatcovid19now.com" redirect
+local-data: "beatcovid19now.com A 0.0.0.0"
+local-zone: "wiki.coronavirusarmy.org" redirect
+local-data: "wiki.coronavirusarmy.org A 0.0.0.0"
+local-zone: "covid-19.in-mo.site" redirect
+local-data: "covid-19.in-mo.site A 0.0.0.0"
+local-zone: "covid-19.artinfo.ba" redirect
+local-data: "covid-19.artinfo.ba A 0.0.0.0"
+local-zone: "who1.covid19badge.com" redirect
+local-data: "who1.covid19badge.com A 0.0.0.0"
+local-zone: "www.bgrdccovid19.com" redirect
+local-data: "www.bgrdccovid19.com A 0.0.0.0"
+local-zone: "diademacontraocoronavirus.online" redirect
+local-data: "diademacontraocoronavirus.online A 0.0.0.0"
+local-zone: "coronavirustestkit.80088888888.com" redirect
+local-data: "coronavirustestkit.80088888888.com A 0.0.0.0"
+local-zone: "covid19.harmonhall.com" redirect
+local-data: "covid19.harmonhall.com A 0.0.0.0"
+local-zone: "coronavirustracker.us" redirect
+local-data: "coronavirustracker.us A 0.0.0.0"
+local-zone: "api.covid19.commonhelp.it" redirect
+local-data: "api.covid19.commonhelp.it A 0.0.0.0"
+local-zone: "coronavirusschutz.net" redirect
+local-data: "coronavirusschutz.net A 0.0.0.0"
+local-zone: "covid19sarscov2.restechmp.kylos.pl" redirect
+local-data: "covid19sarscov2.restechmp.kylos.pl A 0.0.0.0"
+local-zone: "covid19masque.com" redirect
+local-data: "covid19masque.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
