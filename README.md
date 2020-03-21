@@ -1,4 +1,4 @@
-# covid-related domains list
+# Covid-related malware/spam domains list
 
 COVID19/coronavirus malware/spam domains dns-blacklist to use with BIND, Unbound, dnsmasq.
 
