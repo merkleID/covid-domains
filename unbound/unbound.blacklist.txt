@@ -13306,6 +13306,48 @@ local-zone: "appcovid19.altervista.org" redirect
 local-data: "appcovid19.altervista.org A 0.0.0.0"
 local-zone: "www.coronavirus-charts.org" redirect
 local-data: "www.coronavirus-charts.org A 0.0.0.0"
+local-zone: "covid19.algolysis.com" redirect
+local-data: "covid19.algolysis.com A 0.0.0.0"
+local-zone: "www.covid19thinktank.com" redirect
+local-data: "www.covid19thinktank.com A 0.0.0.0"
+local-zone: "donate.ayudacomercioscoronavirus.com" redirect
+local-data: "donate.ayudacomercioscoronavirus.com A 0.0.0.0"
+local-zone: "loveinthetimesofcoronavirus.com" redirect
+local-data: "loveinthetimesofcoronavirus.com A 0.0.0.0"
+local-zone: "covid19-testkit.net" redirect
+local-data: "covid19-testkit.net A 0.0.0.0"
+local-zone: "effcovid-19.com" redirect
+local-data: "effcovid-19.com A 0.0.0.0"
+local-zone: "www.effcovid-19.com" redirect
+local-data: "www.effcovid-19.com A 0.0.0.0"
+local-zone: "rideoutcovid19.com" redirect
+local-data: "rideoutcovid19.com A 0.0.0.0"
+local-zone: "covid19chilledandconsiderate.com" redirect
+local-data: "covid19chilledandconsiderate.com A 0.0.0.0"
+local-zone: "whatiscoronavirus.bbdiseno.com" redirect
+local-data: "whatiscoronavirus.bbdiseno.com A 0.0.0.0"
+local-zone: "covid19.eas.cornell.edu" redirect
+local-data: "covid19.eas.cornell.edu A 0.0.0.0"
+local-zone: "covid19.bandungkab.go.id" redirect
+local-data: "covid19.bandungkab.go.id A 0.0.0.0"
+local-zone: "coronavirus-doc.com" redirect
+local-data: "coronavirus-doc.com A 0.0.0.0"
+local-zone: "covid-19.baseoperationsenterprise.com" redirect
+local-data: "covid-19.baseoperationsenterprise.com A 0.0.0.0"
+local-zone: "coronavirusiraq.info" redirect
+local-data: "coronavirusiraq.info A 0.0.0.0"
+local-zone: "coronavirus.fauno.ninja" redirect
+local-data: "coronavirus.fauno.ninja A 0.0.0.0"
+local-zone: "www.xn--covid-19opplring-5ob.com" redirect
+local-data: "www.xn--covid-19opplring-5ob.com A 0.0.0.0"
+local-zone: "coronavirus.fauno.ninja" redirect
+local-data: "coronavirus.fauno.ninja A 0.0.0.0"
+local-zone: "covid19.kiev.ua" redirect
+local-data: "covid19.kiev.ua A 0.0.0.0"
+local-zone: "covid-19.departmentofmedicine.com" redirect
+local-data: "covid-19.departmentofmedicine.com A 0.0.0.0"
+local-zone: "medicalsuppliescoronavirus.com" redirect
+local-data: "medicalsuppliescoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
