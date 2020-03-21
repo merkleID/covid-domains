@@ -12988,6 +12988,36 @@ local-zone: "covid19.brentwood.ca" redirect
 local-data: "covid19.brentwood.ca A 0.0.0.0"
 local-zone: "covid19-test.id" redirect
 local-data: "covid19-test.id A 0.0.0.0"
+local-zone: "dev.covid19live.kz" redirect
+local-data: "dev.covid19live.kz A 0.0.0.0"
+local-zone: "helpcovid19.altervista.org" redirect
+local-data: "helpcovid19.altervista.org A 0.0.0.0"
+local-zone: "learnathomeduringthecovid-19pandemic.com" redirect
+local-data: "learnathomeduringthecovid-19pandemic.com A 0.0.0.0"
+local-zone: "nyscoronaviruschallenge.org" redirect
+local-data: "nyscoronaviruschallenge.org A 0.0.0.0"
+local-zone: "www.coronavirusrd.info" redirect
+local-data: "www.coronavirusrd.info A 0.0.0.0"
+local-zone: "coronavirus-help.shop" redirect
+local-data: "coronavirus-help.shop A 0.0.0.0"
+local-zone: "covid19.bemporad.repl.run" redirect
+local-data: "covid19.bemporad.repl.run A 0.0.0.0"
+local-zone: "www.covid19-testing.churchofthehighlands.com" redirect
+local-data: "www.covid19-testing.churchofthehighlands.com A 0.0.0.0"
+local-zone: "mapadelcoronavirus2020.com" redirect
+local-data: "mapadelcoronavirus2020.com A 0.0.0.0"
+local-zone: "mycoronaviruscure.com" redirect
+local-data: "mycoronaviruscure.com A 0.0.0.0"
+local-zone: "projects.covid19dz.com" redirect
+local-data: "projects.covid19dz.com A 0.0.0.0"
+local-zone: "covid19-testing.churchofthehighlands.com" redirect
+local-data: "covid19-testing.churchofthehighlands.com A 0.0.0.0"
+local-zone: "covid19.cm-arouca.pt" redirect
+local-data: "covid19.cm-arouca.pt A 0.0.0.0"
+local-zone: "masque-anti-covid19.com" redirect
+local-data: "masque-anti-covid19.com A 0.0.0.0"
+local-zone: "maskanti-covid19.com" redirect
+local-data: "maskanti-covid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
