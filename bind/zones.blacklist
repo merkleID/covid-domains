@@ -6052,6 +6052,14 @@ zone "self-check-covid19.baritokualakab.go.id" { type master; notify no; file nu
 zone "www.whatiscovid-19.co.uk" { type master; notify no; file null.zone.file; };
 zone "occovid19.ochealthinfo.com" { type master; notify no; file null.zone.file; };
 zone "protejase.coronavirus.firecodeit.net" { type master; notify no; file null.zone.file; };
+zone "covid-19.spenceraccounting.com" { type master; notify no; file null.zone.file; };
+zone "www.pestcontrolcoronavirus.com" { type master; notify no; file null.zone.file; };
+zone "nsbcovid19.com" { type master; notify no; file null.zone.file; };
+zone "preventcoronaviruss.com" { type master; notify no; file null.zone.file; };
+zone "covid19-test-supply.com" { type master; notify no; file null.zone.file; };
+zone "covid19.rkcf.me" { type master; notify no; file null.zone.file; };
+zone "pruebacoronavirus.com" { type master; notify no; file null.zone.file; };
+zone "covid19.cs12.net" { type master; notify no; file null.zone.file; };
 zone "anticoronavirus.cloud" { type master; notify no; file null.zone.file; };
 zone "anticoronavirustienda.com" { type master; notify no; file null.zone.file; };
 zone "californiacoronaviruslaw.com" { type master; notify no; file null.zone.file; };

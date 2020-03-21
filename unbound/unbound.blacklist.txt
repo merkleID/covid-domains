@@ -12106,6 +12106,22 @@ local-zone: "occovid19.ochealthinfo.com" redirect
 local-data: "occovid19.ochealthinfo.com A 0.0.0.0"
 local-zone: "protejase.coronavirus.firecodeit.net" redirect
 local-data: "protejase.coronavirus.firecodeit.net A 0.0.0.0"
+local-zone: "covid-19.spenceraccounting.com" redirect
+local-data: "covid-19.spenceraccounting.com A 0.0.0.0"
+local-zone: "www.pestcontrolcoronavirus.com" redirect
+local-data: "www.pestcontrolcoronavirus.com A 0.0.0.0"
+local-zone: "nsbcovid19.com" redirect
+local-data: "nsbcovid19.com A 0.0.0.0"
+local-zone: "preventcoronaviruss.com" redirect
+local-data: "preventcoronaviruss.com A 0.0.0.0"
+local-zone: "covid19-test-supply.com" redirect
+local-data: "covid19-test-supply.com A 0.0.0.0"
+local-zone: "covid19.rkcf.me" redirect
+local-data: "covid19.rkcf.me A 0.0.0.0"
+local-zone: "pruebacoronavirus.com" redirect
+local-data: "pruebacoronavirus.com A 0.0.0.0"
+local-zone: "covid19.cs12.net" redirect
+local-data: "covid19.cs12.net A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
