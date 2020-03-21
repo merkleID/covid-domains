@@ -12674,6 +12674,50 @@ local-zone: "covid19.digifigs.com" redirect
 local-data: "covid19.digifigs.com A 0.0.0.0"
 local-zone: "team.sudancovid19.info" redirect
 local-data: "team.sudancovid19.info A 0.0.0.0"
+local-zone: "covid-19.keltonglobal.com" redirect
+local-data: "covid-19.keltonglobal.com A 0.0.0.0"
+local-zone: "uk-covid-19-relieve.com" redirect
+local-data: "uk-covid-19-relieve.com A 0.0.0.0"
+local-zone: "covid-19-news.de" redirect
+local-data: "covid-19-news.de A 0.0.0.0"
+local-zone: "es.arubacovid19.org" redirect
+local-data: "es.arubacovid19.org A 0.0.0.0"
+local-zone: "www.covid19maskmatch.org" redirect
+local-data: "www.covid19maskmatch.org A 0.0.0.0"
+local-zone: "covid-19.bezelhost.com" redirect
+local-data: "covid-19.bezelhost.com A 0.0.0.0"
+local-zone: "covid19.nextvation.com" redirect
+local-data: "covid19.nextvation.com A 0.0.0.0"
+local-zone: "coronavirusrentreduction.com" redirect
+local-data: "coronavirusrentreduction.com A 0.0.0.0"
+local-zone: "coronavirusdiagnostic.com" redirect
+local-data: "coronavirusdiagnostic.com A 0.0.0.0"
+local-zone: "coronavirusdielaughing.com" redirect
+local-data: "coronavirusdielaughing.com A 0.0.0.0"
+local-zone: "coronavirusstructures.com" redirect
+local-data: "coronavirusstructures.com A 0.0.0.0"
+local-zone: "coronavirus-equipment.com" redirect
+local-data: "coronavirus-equipment.com A 0.0.0.0"
+local-zone: "covid-19.tianzeetang.com" redirect
+local-data: "covid-19.tianzeetang.com A 0.0.0.0"
+local-zone: "coronavirusbrasil.online" redirect
+local-data: "coronavirusbrasil.online A 0.0.0.0"
+local-zone: "gitlab-covid19.develat.io" redirect
+local-data: "gitlab-covid19.develat.io A 0.0.0.0"
+local-zone: "covid19realtalk.com" redirect
+local-data: "covid19realtalk.com A 0.0.0.0"
+local-zone: "doesbenstillerhavecoronavirus.com" redirect
+local-data: "doesbenstillerhavecoronavirus.com A 0.0.0.0"
+local-zone: "covid-19.doghaus.com" redirect
+local-data: "covid-19.doghaus.com A 0.0.0.0"
+local-zone: "msbfcovid19info.stenlionel.com" redirect
+local-data: "msbfcovid19info.stenlionel.com A 0.0.0.0"
+local-zone: "www.onsite.lillycovid19testing.com" redirect
+local-data: "www.onsite.lillycovid19testing.com A 0.0.0.0"
+local-zone: "onsite.lillycovid19testing.com" redirect
+local-data: "onsite.lillycovid19testing.com A 0.0.0.0"
+local-zone: "api.msbfcovid19info.stenlionel.com" redirect
+local-data: "api.msbfcovid19info.stenlionel.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
