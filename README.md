@@ -1,4 +1,4 @@
-# covid-domains
+# covid-related domains list
 
 COVID19/coronavirus malware/spam domains dns-blacklist to use with BIND, Unbound, dnsmasq.
 
@@ -10,7 +10,7 @@ File full-domains-list.txt can be used with Pi-Hole.
 
 
 
-CREDITS
+# CREDITS
 
 Original files lists:
 
