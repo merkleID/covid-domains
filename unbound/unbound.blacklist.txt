@@ -14584,6 +14584,40 @@ local-zone: "covid-19.snis-sante.net" redirect
 local-data: "covid-19.snis-sante.net A 0.0.0.0"
 local-zone: "coronavirushelpcentre.com" redirect
 local-data: "coronavirushelpcentre.com A 0.0.0.0"
+local-zone: "coronavirus-2020.fanaticolife.com" redirect
+local-data: "coronavirus-2020.fanaticolife.com A 0.0.0.0"
+local-zone: "www.thecovid19kit.com" redirect
+local-data: "www.thecovid19kit.com A 0.0.0.0"
+local-zone: "thecovid19kit.com" redirect
+local-data: "thecovid19kit.com A 0.0.0.0"
+local-zone: "tratamentocoronavirus.com.br" redirect
+local-data: "tratamentocoronavirus.com.br A 0.0.0.0"
+local-zone: "tengocoronavirus.site" redirect
+local-data: "tengocoronavirus.site A 0.0.0.0"
+local-zone: "covid19.jnth.io" redirect
+local-data: "covid19.jnth.io A 0.0.0.0"
+local-zone: "www.covid19help.live" redirect
+local-data: "www.covid19help.live A 0.0.0.0"
+local-zone: "peopleofcovid19.com" redirect
+local-data: "peopleofcovid19.com A 0.0.0.0"
+local-zone: "infocoronavirus.com.pl" redirect
+local-data: "infocoronavirus.com.pl A 0.0.0.0"
+local-zone: "coronavirusinfo.com.pl" redirect
+local-data: "coronavirusinfo.com.pl A 0.0.0.0"
+local-zone: "beacon.covid-19.dnastack.com" redirect
+local-data: "beacon.covid-19.dnastack.com A 0.0.0.0"
+local-zone: "getcovid19tested.com" redirect
+local-data: "getcovid19tested.com A 0.0.0.0"
+local-zone: "getacoronavirusmask.com" redirect
+local-data: "getacoronavirusmask.com A 0.0.0.0"
+local-zone: "covid19patrol.com" redirect
+local-data: "covid19patrol.com A 0.0.0.0"
+local-zone: "www.donationcoronavirus.com" redirect
+local-data: "www.donationcoronavirus.com A 0.0.0.0"
+local-zone: "southport-covid19-support.calypsas.com" redirect
+local-data: "southport-covid19-support.calypsas.com A 0.0.0.0"
+local-zone: "staging.masksforcovid19.org" redirect
+local-data: "staging.masksforcovid19.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -15228,6 +15262,10 @@ local-zone: "covid19profit.com" redirect
 local-data: "covid19profit.com A 0.0.0.0"
 local-zone: "covid19case.com" redirect
 local-data: "covid19case.com A 0.0.0.0"
+local-zone: "mappacoronavirus.eu" redirect
+local-data: "mappacoronavirus.eu A 0.0.0.0"
+local-zone: "coronavirus-2020.es" redirect
+local-data: "coronavirus-2020.es A 0.0.0.0"
 local-zone: "mappacoronavirus.eu" redirect
 local-data: "mappacoronavirus.eu A 0.0.0.0"
 local-zone: "123corona.com" redirect
