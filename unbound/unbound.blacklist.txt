@@ -14766,6 +14766,40 @@ local-zone: "uk-covid19.webredirect.org" redirect
 local-data: "uk-covid19.webredirect.org A 0.0.0.0"
 local-zone: "covid19test.dk" redirect
 local-data: "covid19test.dk A 0.0.0.0"
+local-zone: "apreslecoronavirus.org" redirect
+local-data: "apreslecoronavirus.org A 0.0.0.0"
+local-zone: "covid19fandemic.com" redirect
+local-data: "covid19fandemic.com A 0.0.0.0"
+local-zone: "www.fightcoronavirustime.com" redirect
+local-data: "www.fightcoronavirustime.com A 0.0.0.0"
+local-zone: "www.covid19fandemic.com" redirect
+local-data: "www.covid19fandemic.com A 0.0.0.0"
+local-zone: "fightcoronavirustime.com" redirect
+local-data: "fightcoronavirustime.com A 0.0.0.0"
+local-zone: "covid19-fr.johanrin.com" redirect
+local-data: "covid19-fr.johanrin.com A 0.0.0.0"
+local-zone: "cartasalcoronavirus.es" redirect
+local-data: "cartasalcoronavirus.es A 0.0.0.0"
+local-zone: "covid19.town" redirect
+local-data: "covid19.town A 0.0.0.0"
+local-zone: "sanificazionecoronavirus.madovetiva.com" redirect
+local-data: "sanificazionecoronavirus.madovetiva.com A 0.0.0.0"
+local-zone: "allocoronavirus.org" redirect
+local-data: "allocoronavirus.org A 0.0.0.0"
+local-zone: "covid19trackerapp.com" redirect
+local-data: "covid19trackerapp.com A 0.0.0.0"
+local-zone: "www.staysafefromcoronavirus.com" redirect
+local-data: "www.staysafefromcoronavirus.com A 0.0.0.0"
+local-zone: "staysafefromcoronavirus.com" redirect
+local-data: "staysafefromcoronavirus.com A 0.0.0.0"
+local-zone: "statamic.covid19responsefund.org" redirect
+local-data: "statamic.covid19responsefund.org A 0.0.0.0"
+local-zone: "privatecoronavirustest.com" redirect
+local-data: "privatecoronavirustest.com A 0.0.0.0"
+local-zone: "coronavirusrd.zerquix18.com" redirect
+local-data: "coronavirusrd.zerquix18.com A 0.0.0.0"
+local-zone: "covid-19.aomsolucoes.com.br" redirect
+local-data: "covid-19.aomsolucoes.com.br A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
