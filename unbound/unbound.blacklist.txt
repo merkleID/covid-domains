@@ -15048,6 +15048,46 @@ local-zone: "www.coronavirus.govern.ad" redirect
 local-data: "www.coronavirus.govern.ad A 0.0.0.0"
 local-zone: "soslegalcoronavirus.com" redirect
 local-data: "soslegalcoronavirus.com A 0.0.0.0"
+local-zone: "api.covid19uk.live" redirect
+local-data: "api.covid19uk.live A 0.0.0.0"
+local-zone: "coronavirus-covid19.online" redirect
+local-data: "coronavirus-covid19.online A 0.0.0.0"
+local-zone: "www.covid-19-normal.fr" redirect
+local-data: "www.covid-19-normal.fr A 0.0.0.0"
+local-zone: "conquercovid19.ca" redirect
+local-data: "conquercovid19.ca A 0.0.0.0"
+local-zone: "stpcoronavirus.com" redirect
+local-data: "stpcoronavirus.com A 0.0.0.0"
+local-zone: "covid19-medic.com" redirect
+local-data: "covid19-medic.com A 0.0.0.0"
+local-zone: "covid19tracker.tk" redirect
+local-data: "covid19tracker.tk A 0.0.0.0"
+local-zone: "covid19loanassistance.com" redirect
+local-data: "covid19loanassistance.com A 0.0.0.0"
+local-zone: "iscoronavirusahoax.com" redirect
+local-data: "iscoronavirusahoax.com A 0.0.0.0"
+local-zone: "hawaiicovid19initiative.org" redirect
+local-data: "hawaiicovid19initiative.org A 0.0.0.0"
+local-zone: "kitchenhelpcovid19.com" redirect
+local-data: "kitchenhelpcovid19.com A 0.0.0.0"
+local-zone: "www.kitchenhelpcovid19.com" redirect
+local-data: "www.kitchenhelpcovid19.com A 0.0.0.0"
+local-zone: "coronavirus19.co.za" redirect
+local-data: "coronavirus19.co.za A 0.0.0.0"
+local-zone: "covid-19.theabdteam.com" redirect
+local-data: "covid-19.theabdteam.com A 0.0.0.0"
+local-zone: "tvcoronavirus.com" redirect
+local-data: "tvcoronavirus.com A 0.0.0.0"
+local-zone: "www.covid19lr.techcliberia.com" redirect
+local-data: "www.covid19lr.techcliberia.com A 0.0.0.0"
+local-zone: "www.thecovid19dataproject.com" redirect
+local-data: "www.thecovid19dataproject.com A 0.0.0.0"
+local-zone: "www.covid19lr.techcliberia.com" redirect
+local-data: "www.covid19lr.techcliberia.com A 0.0.0.0"
+local-zone: "covid19.citibot.io" redirect
+local-data: "covid19.citibot.io A 0.0.0.0"
+local-zone: "thelifeduringthecovid-19.com" redirect
+local-data: "thelifeduringthecovid-19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -15714,6 +15754,10 @@ local-zone: "coronavirusjobsuk.com" redirect
 local-data: "coronavirusjobsuk.com A 0.0.0.0"
 local-zone: "covid19.go.id" redirect
 local-data: "covid19.go.id A 0.0.0.0"
+local-zone: "countingcovid19.com" redirect
+local-data: "countingcovid19.com A 0.0.0.0"
+local-zone: "update-covid19.com" redirect
+local-data: "update-covid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
