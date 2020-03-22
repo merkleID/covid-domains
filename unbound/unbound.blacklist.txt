@@ -13486,6 +13486,42 @@ local-zone: "www.coronaviruscharities.org" redirect
 local-data: "www.coronaviruscharities.org A 0.0.0.0"
 local-zone: "covid19helpcenter.com" redirect
 local-data: "covid19helpcenter.com A 0.0.0.0"
+local-zone: "covid19helpcentre.com" redirect
+local-data: "covid19helpcentre.com A 0.0.0.0"
+local-zone: "indiacovid19.in" redirect
+local-data: "indiacovid19.in A 0.0.0.0"
+local-zone: "sa.covid19.palashbauri.in" redirect
+local-data: "sa.covid19.palashbauri.in A 0.0.0.0"
+local-zone: "covid-19.whilepress.com" redirect
+local-data: "covid-19.whilepress.com A 0.0.0.0"
+local-zone: "coronavirustop.info" redirect
+local-data: "coronavirustop.info A 0.0.0.0"
+local-zone: "independants-coronavirus.info" redirect
+local-data: "independants-coronavirus.info A 0.0.0.0"
+local-zone: "gogan-covid19.swattechair.net" redirect
+local-data: "gogan-covid19.swattechair.net A 0.0.0.0"
+local-zone: "antiviral.covid19herb.com" redirect
+local-data: "antiviral.covid19herb.com A 0.0.0.0"
+local-zone: "mycovid19.info" redirect
+local-data: "mycovid19.info A 0.0.0.0"
+local-zone: "covid19.intelworks.io" redirect
+local-data: "covid19.intelworks.io A 0.0.0.0"
+local-zone: "covid19.netigma.io" redirect
+local-data: "covid19.netigma.io A 0.0.0.0"
+local-zone: "coronavirusmx.tk" redirect
+local-data: "coronavirusmx.tk A 0.0.0.0"
+local-zone: "covid19.sensibus.io" redirect
+local-data: "covid19.sensibus.io A 0.0.0.0"
+local-zone: "www.appcoronavirusalert.it" redirect
+local-data: "www.appcoronavirusalert.it A 0.0.0.0"
+local-zone: "covid-19.netseven.it" redirect
+local-data: "covid-19.netseven.it A 0.0.0.0"
+local-zone: "recovid19.it" redirect
+local-data: "recovid19.it A 0.0.0.0"
+local-zone: "covid19app.uniurb.it" redirect
+local-data: "covid19app.uniurb.it A 0.0.0.0"
+local-zone: "covid19lifestyle.com" redirect
+local-data: "covid19lifestyle.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
