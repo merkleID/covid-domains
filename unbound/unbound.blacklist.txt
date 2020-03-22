@@ -13676,6 +13676,34 @@ local-zone: "covid19.reeteshghimire.com.np" redirect
 local-data: "covid19.reeteshghimire.com.np A 0.0.0.0"
 local-zone: "covid19to.com" redirect
 local-data: "covid19to.com A 0.0.0.0"
+local-zone: "pantaucovid-19.budiono.my.id" redirect
+local-data: "pantaucovid-19.budiono.my.id A 0.0.0.0"
+local-zone: "strahovka-covid-19.online-strahovka.ru" redirect
+local-data: "strahovka-covid-19.online-strahovka.ru A 0.0.0.0"
+local-zone: "covid19.kadamsi.com" redirect
+local-data: "covid19.kadamsi.com A 0.0.0.0"
+local-zone: "coronavirus.beecan.org" redirect
+local-data: "coronavirus.beecan.org A 0.0.0.0"
+local-zone: "covid-19.maida.health" redirect
+local-data: "covid-19.maida.health A 0.0.0.0"
+local-zone: "antiviral.covid19herb.com" redirect
+local-data: "antiviral.covid19herb.com A 0.0.0.0"
+local-zone: "covid-19.ngot.me" redirect
+local-data: "covid-19.ngot.me A 0.0.0.0"
+local-zone: "covid-19economicstimulusproposal.heathermurata.com" redirect
+local-data: "covid-19economicstimulusproposal.heathermurata.com A 0.0.0.0"
+local-zone: "againstcovid-19.com" redirect
+local-data: "againstcovid-19.com A 0.0.0.0"
+local-zone: "www.againstcovid-19.com" redirect
+local-data: "www.againstcovid-19.com A 0.0.0.0"
+local-zone: "www.corona-virus-pandemic.world" redirect
+local-data: "www.corona-virus-pandemic.world A 0.0.0.0"
+local-zone: "covid19.geoedgemaps.com" redirect
+local-data: "covid19.geoedgemaps.com A 0.0.0.0"
+local-zone: "nwicovid19volunteers.org" redirect
+local-data: "nwicovid19volunteers.org A 0.0.0.0"
+local-zone: "nyccovid19responsecoalition.org" redirect
+local-data: "nyccovid19responsecoalition.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
