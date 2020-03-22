@@ -13456,6 +13456,36 @@ local-zone: "www.covid19flu.com" redirect
 local-data: "www.covid19flu.com A 0.0.0.0"
 local-zone: "covid19.bsscard.com" redirect
 local-data: "covid19.bsscard.com A 0.0.0.0"
+local-zone: "covid19map.site" redirect
+local-data: "covid19map.site A 0.0.0.0"
+local-zone: "gestion.coronavirus.gov.py" redirect
+local-data: "gestion.coronavirus.gov.py A 0.0.0.0"
+local-zone: "covid19.niandev.com" redirect
+local-data: "covid19.niandev.com A 0.0.0.0"
+local-zone: "www.cuidados.covid19eu.pt" redirect
+local-data: "www.cuidados.covid19eu.pt A 0.0.0.0"
+local-zone: "gestion.coronavirus.gov.py" redirect
+local-data: "gestion.coronavirus.gov.py A 0.0.0.0"
+local-zone: "covid19.kkal.gr" redirect
+local-data: "covid19.kkal.gr A 0.0.0.0"
+local-zone: "coronavirus.holiday" redirect
+local-data: "coronavirus.holiday A 0.0.0.0"
+local-zone: "coronavirushawaii.com" redirect
+local-data: "coronavirushawaii.com A 0.0.0.0"
+local-zone: "covid19herb.com" redirect
+local-data: "covid19herb.com A 0.0.0.0"
+local-zone: "coronavirus.iphones.com" redirect
+local-data: "coronavirus.iphones.com A 0.0.0.0"
+local-zone: "iscovid19.com" redirect
+local-data: "iscovid19.com A 0.0.0.0"
+local-zone: "covid19.muhammadiyah.id" redirect
+local-data: "covid19.muhammadiyah.id A 0.0.0.0"
+local-zone: "pikcovid19.ciamiskab.go.id" redirect
+local-data: "pikcovid19.ciamiskab.go.id A 0.0.0.0"
+local-zone: "www.coronaviruscharities.org" redirect
+local-data: "www.coronaviruscharities.org A 0.0.0.0"
+local-zone: "covid19helpcenter.com" redirect
+local-data: "covid19helpcenter.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
