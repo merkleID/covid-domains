@@ -13382,6 +13382,22 @@ local-zone: "busacovid19.org" redirect
 local-data: "busacovid19.org A 0.0.0.0"
 local-zone: "sacovid19.com" redirect
 local-data: "sacovid19.com A 0.0.0.0"
+local-zone: "gouvernement-coronavirus.fr" redirect
+local-data: "gouvernement-coronavirus.fr A 0.0.0.0"
+local-zone: "covid19mexico.org" redirect
+local-data: "covid19mexico.org A 0.0.0.0"
+local-zone: "cdc-covid19.org" redirect
+local-data: "cdc-covid19.org A 0.0.0.0"
+local-zone: "impactoeconomicocoronavirus.com" redirect
+local-data: "impactoeconomicocoronavirus.com A 0.0.0.0"
+local-zone: "covid-19update.ca" redirect
+local-data: "covid-19update.ca A 0.0.0.0"
+local-zone: "coronavirus.prefeituradebelfordroxo.rj.gov.br" redirect
+local-data: "coronavirus.prefeituradebelfordroxo.rj.gov.br A 0.0.0.0"
+local-zone: "covid19.nullhypo.com" redirect
+local-data: "covid19.nullhypo.com A 0.0.0.0"
+local-zone: "www.coronavirussafetyitems.com" redirect
+local-data: "www.coronavirussafetyitems.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect

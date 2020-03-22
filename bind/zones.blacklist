@@ -6690,6 +6690,14 @@ zone "bestcoronavirusprotection.org" { type master; notify no; file null.zone.fi
 zone "covid19.zbox7.eu" { type master; notify no; file null.zone.file; };
 zone "busacovid19.org" { type master; notify no; file null.zone.file; };
 zone "sacovid19.com" { type master; notify no; file null.zone.file; };
+zone "gouvernement-coronavirus.fr" { type master; notify no; file null.zone.file; };
+zone "covid19mexico.org" { type master; notify no; file null.zone.file; };
+zone "cdc-covid19.org" { type master; notify no; file null.zone.file; };
+zone "impactoeconomicocoronavirus.com" { type master; notify no; file null.zone.file; };
+zone "covid-19update.ca" { type master; notify no; file null.zone.file; };
+zone "coronavirus.prefeituradebelfordroxo.rj.gov.br" { type master; notify no; file null.zone.file; };
+zone "covid19.nullhypo.com" { type master; notify no; file null.zone.file; };
+zone "www.coronavirussafetyitems.com" { type master; notify no; file null.zone.file; };
 zone "anticoronavirus.cloud" { type master; notify no; file null.zone.file; };
 zone "anticoronavirustienda.com" { type master; notify no; file null.zone.file; };
 zone "californiacoronaviruslaw.com" { type master; notify no; file null.zone.file; };
