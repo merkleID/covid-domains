@@ -15172,6 +15172,44 @@ local-zone: "coronavirusprotect.ca" redirect
 local-data: "coronavirusprotect.ca A 0.0.0.0"
 local-zone: "covid19.likemart.asia" redirect
 local-data: "covid19.likemart.asia A 0.0.0.0"
+local-zone: "hylantcoronavirusinfo.com" redirect
+local-data: "hylantcoronavirusinfo.com A 0.0.0.0"
+local-zone: "go.sbacoronavirusloanconsulting.com" redirect
+local-data: "go.sbacoronavirusloanconsulting.com A 0.0.0.0"
+local-zone: "covid19test.carolinaphoenix.net" redirect
+local-data: "covid19test.carolinaphoenix.net A 0.0.0.0"
+local-zone: "slpcoronavirus.mx" redirect
+local-data: "slpcoronavirus.mx A 0.0.0.0"
+local-zone: "covid19livetrack.com" redirect
+local-data: "covid19livetrack.com A 0.0.0.0"
+local-zone: "covid19.windwardapps.com" redirect
+local-data: "covid19.windwardapps.com A 0.0.0.0"
+local-zone: "quebec-covid19.raker.cloud" redirect
+local-data: "quebec-covid19.raker.cloud A 0.0.0.0"
+local-zone: "buycoronavirusprotection.com" redirect
+local-data: "buycoronavirusprotection.com A 0.0.0.0"
+local-zone: "covid19manufacturing.com" redirect
+local-data: "covid19manufacturing.com A 0.0.0.0"
+local-zone: "www.covid19manufacturing.com" redirect
+local-data: "www.covid19manufacturing.com A 0.0.0.0"
+local-zone: "vostptcovid19.orpheu.ws" redirect
+local-data: "vostptcovid19.orpheu.ws A 0.0.0.0"
+local-zone: "covid19.betreuung-gesucht.at" redirect
+local-data: "covid19.betreuung-gesucht.at A 0.0.0.0"
+local-zone: "www.covid19manufacturing.com" redirect
+local-data: "www.covid19manufacturing.com A 0.0.0.0"
+local-zone: "covid19.betreuung-gesucht.at" redirect
+local-data: "covid19.betreuung-gesucht.at A 0.0.0.0"
+local-zone: "covid19manufacturing.com" redirect
+local-data: "covid19manufacturing.com A 0.0.0.0"
+local-zone: "covid19test.guru" redirect
+local-data: "covid19test.guru A 0.0.0.0"
+local-zone: "covid19.carepirates.com" redirect
+local-data: "covid19.carepirates.com A 0.0.0.0"
+local-zone: "covid19.carepirates.co.uk" redirect
+local-data: "covid19.carepirates.co.uk A 0.0.0.0"
+local-zone: "sdcovid19.naptasoft.com" redirect
+local-data: "sdcovid19.naptasoft.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
