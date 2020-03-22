@@ -14078,6 +14078,34 @@ local-zone: "portal-coronavirus.gba.gob.ar" redirect
 local-data: "portal-coronavirus.gba.gob.ar A 0.0.0.0"
 local-zone: "coronavirus148.gba.gob.ar" redirect
 local-data: "coronavirus148.gba.gob.ar A 0.0.0.0"
+local-zone: "texascovid19disinfection.com" redirect
+local-data: "texascovid19disinfection.com A 0.0.0.0"
+local-zone: "coronavirus.siya.gr" redirect
+local-data: "coronavirus.siya.gr A 0.0.0.0"
+local-zone: "kidsfightcovid19.com" redirect
+local-data: "kidsfightcovid19.com A 0.0.0.0"
+local-zone: "survivecovid19.com.au" redirect
+local-data: "survivecovid19.com.au A 0.0.0.0"
+local-zone: "covid-19info.cd" redirect
+local-data: "covid-19info.cd A 0.0.0.0"
+local-zone: "yamaguchi.stopcovid19.jp" redirect
+local-data: "yamaguchi.stopcovid19.jp A 0.0.0.0"
+local-zone: "niigata.stopcovid19.jp" redirect
+local-data: "niigata.stopcovid19.jp A 0.0.0.0"
+local-zone: "okayama.stopcovid19.jp" redirect
+local-data: "okayama.stopcovid19.jp A 0.0.0.0"
+local-zone: "covid19au.chrislee.kr" redirect
+local-data: "covid19au.chrislee.kr A 0.0.0.0"
+local-zone: "coronavirus.adsct.com.au" redirect
+local-data: "coronavirus.adsct.com.au A 0.0.0.0"
+local-zone: "covid19.istos.mu" redirect
+local-data: "covid19.istos.mu A 0.0.0.0"
+local-zone: "covid19.mochit2.com" redirect
+local-data: "covid19.mochit2.com A 0.0.0.0"
+local-zone: "covid19.esnu.be" redirect
+local-data: "covid19.esnu.be A 0.0.0.0"
+local-zone: "coronavirus.pinamar.gob.ar" redirect
+local-data: "coronavirus.pinamar.gob.ar A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -14686,6 +14714,12 @@ local-zone: "corona-virus-19.info" redirect
 local-data: "corona-virus-19.info A 0.0.0.0"
 local-zone: "testdelcoronavirus.info" redirect
 local-data: "testdelcoronavirus.info A 0.0.0.0"
+local-zone: "covid19clinicalsupplies.com" redirect
+local-data: "covid19clinicalsupplies.com A 0.0.0.0"
+local-zone: "covid19.cloudsolutions.lk" redirect
+local-data: "covid19.cloudsolutions.lk A 0.0.0.0"
+local-zone: "nocovid19.online" redirect
+local-data: "nocovid19.online A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
