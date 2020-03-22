@@ -13562,6 +13562,48 @@ local-zone: "medicineforcoronavirus.com" redirect
 local-data: "medicineforcoronavirus.com A 0.0.0.0"
 local-zone: "coronavirus.awesomeag.tk" redirect
 local-data: "coronavirus.awesomeag.tk A 0.0.0.0"
+local-zone: "antiviral.covid19herb.com" redirect
+local-data: "antiviral.covid19herb.com A 0.0.0.0"
+local-zone: "coronaviruspandemic.eu" redirect
+local-data: "coronaviruspandemic.eu A 0.0.0.0"
+local-zone: "www.lh-covid19.com" redirect
+local-data: "www.lh-covid19.com A 0.0.0.0"
+local-zone: "covid19.tldev.io" redirect
+local-data: "covid19.tldev.io A 0.0.0.0"
+local-zone: "www.coronavirusturkiye.info" redirect
+local-data: "www.coronavirusturkiye.info A 0.0.0.0"
+local-zone: "www.mycoronavirusstory.com" redirect
+local-data: "www.mycoronavirusstory.com A 0.0.0.0"
+local-zone: "mycoronavirusregistration.com" redirect
+local-data: "mycoronavirusregistration.com A 0.0.0.0"
+local-zone: "mycoronavirusstory.com" redirect
+local-data: "mycoronavirusstory.com A 0.0.0.0"
+local-zone: "mycoronaviruscure.com" redirect
+local-data: "mycoronaviruscure.com A 0.0.0.0"
+local-zone: "coronavirus.ula.edu.mx" redirect
+local-data: "coronavirus.ula.edu.mx A 0.0.0.0"
+local-zone: "www.coronavirus.gob.mx" redirect
+local-data: "www.coronavirus.gob.mx A 0.0.0.0"
+local-zone: "covid19.u-erre.mx" redirect
+local-data: "covid19.u-erre.mx A 0.0.0.0"
+local-zone: "www.cacovid19law.com" redirect
+local-data: "www.cacovid19law.com A 0.0.0.0"
+local-zone: "testecoronavirus.net" redirect
+local-data: "testecoronavirus.net A 0.0.0.0"
+local-zone: "covid19alcaldia.zendesk.com" redirect
+local-data: "covid19alcaldia.zendesk.com A 0.0.0.0"
+local-zone: "covid19peru.ga" redirect
+local-data: "covid19peru.ga A 0.0.0.0"
+local-zone: "evapharma-covid19.com" redirect
+local-data: "evapharma-covid19.com A 0.0.0.0"
+local-zone: "allaboutcoronavirus.net" redirect
+local-data: "allaboutcoronavirus.net A 0.0.0.0"
+local-zone: "covid19.reeteshghimire.com.np" redirect
+local-data: "covid19.reeteshghimire.com.np A 0.0.0.0"
+local-zone: "covid19.akshayraichur.com" redirect
+local-data: "covid19.akshayraichur.com A 0.0.0.0"
+local-zone: "www.coronavirus-inform.online" redirect
+local-data: "www.coronavirus-inform.online A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
