@@ -13522,6 +13522,46 @@ local-zone: "covid19app.uniurb.it" redirect
 local-data: "covid19app.uniurb.it A 0.0.0.0"
 local-zone: "covid19lifestyle.com" redirect
 local-data: "covid19lifestyle.com A 0.0.0.0"
+local-zone: "covid19.quart.com.tr" redirect
+local-data: "covid19.quart.com.tr A 0.0.0.0"
+local-zone: "covid-19.luasoftware.com" redirect
+local-data: "covid-19.luasoftware.com A 0.0.0.0"
+local-zone: "covid19au.chrislee.kr" redirect
+local-data: "covid19au.chrislee.kr A 0.0.0.0"
+local-zone: "coronavirus2020.kz" redirect
+local-data: "coronavirus2020.kz A 0.0.0.0"
+local-zone: "covid19.chainkit.com" redirect
+local-data: "covid19.chainkit.com A 0.0.0.0"
+local-zone: "forumcovid19.com" redirect
+local-data: "forumcovid19.com A 0.0.0.0"
+local-zone: "et.coronavirusfinancial.net" redirect
+local-data: "et.coronavirusfinancial.net A 0.0.0.0"
+local-zone: "mamparaprotectoracoronavirus.com" redirect
+local-data: "mamparaprotectoracoronavirus.com A 0.0.0.0"
+local-zone: "helpcovid-19.org" redirect
+local-data: "helpcovid-19.org A 0.0.0.0"
+local-zone: "mask4covid19.net" redirect
+local-data: "mask4covid19.net A 0.0.0.0"
+local-zone: "coronaviruspandemic.eu" redirect
+local-data: "coronaviruspandemic.eu A 0.0.0.0"
+local-zone: "covid19-scratch.arsa.ajaib41254.com" redirect
+local-data: "covid19-scratch.arsa.ajaib41254.com A 0.0.0.0"
+local-zone: "masque-anti-covid19.com" redirect
+local-data: "masque-anti-covid19.com A 0.0.0.0"
+local-zone: "mascherinecovid19.com" redirect
+local-data: "mascherinecovid19.com A 0.0.0.0"
+local-zone: "maskanti-covid19.com" redirect
+local-data: "maskanti-covid19.com A 0.0.0.0"
+local-zone: "covid19survivalsolution.com" redirect
+local-data: "covid19survivalsolution.com A 0.0.0.0"
+local-zone: "covid-19.com.ly" redirect
+local-data: "covid-19.com.ly A 0.0.0.0"
+local-zone: "covid19chi.com" redirect
+local-data: "covid19chi.com A 0.0.0.0"
+local-zone: "medicineforcoronavirus.com" redirect
+local-data: "medicineforcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirus.awesomeag.tk" redirect
+local-data: "coronavirus.awesomeag.tk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -14114,6 +14154,8 @@ local-zone: "coronavirus-markt.de" redirect
 local-data: "coronavirus-markt.de A 0.0.0.0"
 local-zone: "mamparasprotectorascovid19.es" redirect
 local-data: "mamparasprotectorascovid19.es A 0.0.0.0"
+local-zone: "covid19watch.info" redirect
+local-data: "covid19watch.info A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
