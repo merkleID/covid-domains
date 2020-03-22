@@ -13780,6 +13780,30 @@ local-zone: "coronavirus.co.ua" redirect
 local-data: "coronavirus.co.ua A 0.0.0.0"
 local-zone: "coronavirushelp.se" redirect
 local-data: "coronavirushelp.se A 0.0.0.0"
+local-zone: "covid19lawyers.net" redirect
+local-data: "covid19lawyers.net A 0.0.0.0"
+local-zone: "coronavirusbook.org" redirect
+local-data: "coronavirusbook.org A 0.0.0.0"
+local-zone: "covid19.yayasanvitka.id" redirect
+local-data: "covid19.yayasanvitka.id A 0.0.0.0"
+local-zone: "covid19count.onrender.com" redirect
+local-data: "covid19count.onrender.com A 0.0.0.0"
+local-zone: "covid19stats.netslate.co.za" redirect
+local-data: "covid19stats.netslate.co.za A 0.0.0.0"
+local-zone: "rogers-covid19.com" redirect
+local-data: "rogers-covid19.com A 0.0.0.0"
+local-zone: "cms.covid19live.kz" redirect
+local-data: "cms.covid19live.kz A 0.0.0.0"
+local-zone: "pandemiya-coronavirus.ru" redirect
+local-data: "pandemiya-coronavirus.ru A 0.0.0.0"
+local-zone: "wewillsurvivecoronavirus.com" redirect
+local-data: "wewillsurvivecoronavirus.com A 0.0.0.0"
+local-zone: "www.coronavirusestimator.com" redirect
+local-data: "www.coronavirusestimator.com A 0.0.0.0"
+local-zone: "sicoronaviruschronicles.com" redirect
+local-data: "sicoronaviruschronicles.com A 0.0.0.0"
+local-zone: "covid19problemsolvers.com" redirect
+local-data: "covid19problemsolvers.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
