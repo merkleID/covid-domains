@@ -13884,6 +13884,46 @@ local-zone: "coronavirus.globalnews24.online" redirect
 local-data: "coronavirus.globalnews24.online A 0.0.0.0"
 local-zone: "coronavirusactiongroup.org" redirect
 local-data: "coronavirusactiongroup.org A 0.0.0.0"
+local-zone: "coronavirusgroup.co.uk" redirect
+local-data: "coronavirusgroup.co.uk A 0.0.0.0"
+local-zone: "coronavirus.utah.edu" redirect
+local-data: "coronavirus.utah.edu A 0.0.0.0"
+local-zone: "realhousewivescoronavirus.com" redirect
+local-data: "realhousewivescoronavirus.com A 0.0.0.0"
+local-zone: "www.realhousewivescoronavirus.com" redirect
+local-data: "www.realhousewivescoronavirus.com A 0.0.0.0"
+local-zone: "stopcovid-19.es" redirect
+local-data: "stopcovid-19.es A 0.0.0.0"
+local-zone: "covid19.kolegji-heimerer.eu" redirect
+local-data: "covid19.kolegji-heimerer.eu A 0.0.0.0"
+local-zone: "covid-19.wideolekarz.pl" redirect
+local-data: "covid-19.wideolekarz.pl A 0.0.0.0"
+local-zone: "coronavirus.omgcb.com" redirect
+local-data: "coronavirus.omgcb.com A 0.0.0.0"
+local-zone: "covid19-live-tracker.now.sh" redirect
+local-data: "covid19-live-tracker.now.sh A 0.0.0.0"
+local-zone: "coronavirus.football" redirect
+local-data: "coronavirus.football A 0.0.0.0"
+local-zone: "crisis-covid19.arshdf.fr" redirect
+local-data: "crisis-covid19.arshdf.fr A 0.0.0.0"
+local-zone: "www.covid19tracker.in" redirect
+local-data: "www.covid19tracker.in A 0.0.0.0"
+local-zone: "forum.carte-coronavirus.fr" redirect
+local-data: "forum.carte-coronavirus.fr A 0.0.0.0"
+local-zone: "coronavirus-deplacement.fr" redirect
+local-data: "coronavirus-deplacement.fr A 0.0.0.0"
+local-zone: "coronavirus-masques.fr" redirect
+local-data: "coronavirus-masques.fr A 0.0.0.0"
+local-zone: "covid19-ressources.fr" redirect
+local-data: "covid19-ressources.fr A 0.0.0.0"
+local-zone: "www.coronavirus-teletravail.fr" redirect
+local-data: "www.coronavirus-teletravail.fr A 0.0.0.0"
+local-zone: "talbotcovid19.org" redirect
+local-data: "talbotcovid19.org A 0.0.0.0"
+local-zone: "covid19.reserve-civique.gouv.fr" redirect
+local-data: "covid19.reserve-civique.gouv.fr A 0.0.0.0"
+local-zone: "gouvernement-coronavirus.fr" redirect
+local-data: "gouvernement-coronavirus.fr A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
