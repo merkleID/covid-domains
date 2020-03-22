@@ -15000,6 +15000,34 @@ local-zone: "coronavirusstatistika.ru" redirect
 local-data: "coronavirusstatistika.ru A 0.0.0.0"
 local-zone: "statscoronavirus.com" redirect
 local-data: "statscoronavirus.com A 0.0.0.0"
+local-zone: "coronaviruslarioja.neotec.com.ar" redirect
+local-data: "coronaviruslarioja.neotec.com.ar A 0.0.0.0"
+local-zone: "coronavirus.duggal.com" redirect
+local-data: "coronavirus.duggal.com A 0.0.0.0"
+local-zone: "covid19-products2020.com" redirect
+local-data: "covid19-products2020.com A 0.0.0.0"
+local-zone: "www.rhodeislandbroadcasterscovid19resources.com" redirect
+local-data: "www.rhodeislandbroadcasterscovid19resources.com A 0.0.0.0"
+local-zone: "www.corona-virus.ru.com" redirect
+local-data: "www.corona-virus.ru.com A 0.0.0.0"
+local-zone: "quarantainecovid19.com" redirect
+local-data: "quarantainecovid19.com A 0.0.0.0"
+local-zone: "coronavirusupdate.dc58.org" redirect
+local-data: "coronavirusupdate.dc58.org A 0.0.0.0"
+local-zone: "covid19.dedesignsindia.com" redirect
+local-data: "covid19.dedesignsindia.com A 0.0.0.0"
+local-zone: "runescape-covid19.info" redirect
+local-data: "runescape-covid19.info A 0.0.0.0"
+local-zone: "covid19.panuiapp.net" redirect
+local-data: "covid19.panuiapp.net A 0.0.0.0"
+local-zone: "covid19.biwyze.fr" redirect
+local-data: "covid19.biwyze.fr A 0.0.0.0"
+local-zone: "slpcoronavirus.mx" redirect
+local-data: "slpcoronavirus.mx A 0.0.0.0"
+local-zone: "nyscovid19challenge.org" redirect
+local-data: "nyscovid19challenge.org A 0.0.0.0"
+local-zone: "coronavirus-shame.me" redirect
+local-data: "coronavirus-shame.me A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -15662,6 +15690,8 @@ local-zone: "covid19supplieshub.org" redirect
 local-data: "covid19supplieshub.org A 0.0.0.0"
 local-zone: "service-coronavirus-live.de" redirect
 local-data: "service-coronavirus-live.de A 0.0.0.0"
+local-zone: "coronavirusjobsuk.com" redirect
+local-data: "coronavirusjobsuk.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
