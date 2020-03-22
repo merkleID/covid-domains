@@ -13604,6 +13604,44 @@ local-zone: "covid19.akshayraichur.com" redirect
 local-data: "covid19.akshayraichur.com A 0.0.0.0"
 local-zone: "www.coronavirus-inform.online" redirect
 local-data: "www.coronavirus-inform.online A 0.0.0.0"
+local-zone: "www.covid19families.com" redirect
+local-data: "www.covid19families.com A 0.0.0.0"
+local-zone: "roccovid19masks.org" redirect
+local-data: "roccovid19masks.org A 0.0.0.0"
+local-zone: "coronavirus.onapio.com" redirect
+local-data: "coronavirus.onapio.com A 0.0.0.0"
+local-zone: "operationcovid19.com" redirect
+local-data: "operationcovid19.com A 0.0.0.0"
+local-zone: "covid19.batticaloa.dist.gov.lk" redirect
+local-data: "covid19.batticaloa.dist.gov.lk A 0.0.0.0"
+local-zone: "www.continuingthroughcoronavirus.com" redirect
+local-data: "www.continuingthroughcoronavirus.com A 0.0.0.0"
+local-zone: "covid19-medecinechinoise.ch" redirect
+local-data: "covid19-medecinechinoise.ch A 0.0.0.0"
+local-zone: "covid19.cochawaii.org" redirect
+local-data: "covid19.cochawaii.org A 0.0.0.0"
+local-zone: "ethiopianfightcoronavirus.org" redirect
+local-data: "ethiopianfightcoronavirus.org A 0.0.0.0"
+local-zone: "coronavirus.shop" redirect
+local-data: "coronavirus.shop A 0.0.0.0"
+local-zone: "www.coronavirus.shop" redirect
+local-data: "www.coronavirus.shop A 0.0.0.0"
+local-zone: "coronavirustestsites.org" redirect
+local-data: "coronavirustestsites.org A 0.0.0.0"
+local-zone: "coronavirus-obzor.info" redirect
+local-data: "coronavirus-obzor.info A 0.0.0.0"
+local-zone: "covid-2019.be" redirect
+local-data: "covid-2019.be A 0.0.0.0"
+local-zone: "covid-2019.ch" redirect
+local-data: "covid-2019.ch A 0.0.0.0"
+local-zone: "covid19infos.com" redirect
+local-data: "covid19infos.com A 0.0.0.0"
+local-zone: "covid19.123pagou.com.br" redirect
+local-data: "covid19.123pagou.com.br A 0.0.0.0"
+local-zone: "covid19.majenekab.go.id" redirect
+local-data: "covid19.majenekab.go.id A 0.0.0.0"
+local-zone: "nwicovid19volunteers.org" redirect
+local-data: "nwicovid19volunteers.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
