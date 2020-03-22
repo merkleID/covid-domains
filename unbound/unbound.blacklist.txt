@@ -13642,6 +13642,40 @@ local-zone: "covid19.majenekab.go.id" redirect
 local-data: "covid19.majenekab.go.id A 0.0.0.0"
 local-zone: "nwicovid19volunteers.org" redirect
 local-data: "nwicovid19volunteers.org A 0.0.0.0"
+local-zone: "unidosxelcoronavirus.net" redirect
+local-data: "unidosxelcoronavirus.net A 0.0.0.0"
+local-zone: "thecoronavirusreport.earth" redirect
+local-data: "thecoronavirusreport.earth A 0.0.0.0"
+local-zone: "quarantine2020covid19.com" redirect
+local-data: "quarantine2020covid19.com A 0.0.0.0"
+local-zone: "covid19mondkapjes.nl" redirect
+local-data: "covid19mondkapjes.nl A 0.0.0.0"
+local-zone: "covid19.mit.edu" redirect
+local-data: "covid19.mit.edu A 0.0.0.0"
+local-zone: "covid-19.adara.com" redirect
+local-data: "covid-19.adara.com A 0.0.0.0"
+local-zone: "coronavirus.reworldmedia.com" redirect
+local-data: "coronavirus.reworldmedia.com A 0.0.0.0"
+local-zone: "covid19.puertoprincesa.city" redirect
+local-data: "covid19.puertoprincesa.city A 0.0.0.0"
+local-zone: "gc-or-covid-19.info" redirect
+local-data: "gc-or-covid-19.info A 0.0.0.0"
+local-zone: "coronavirusenews.com" redirect
+local-data: "coronavirusenews.com A 0.0.0.0"
+local-zone: "romaniaanticoronavirus.com" redirect
+local-data: "romaniaanticoronavirus.com A 0.0.0.0"
+local-zone: "coronavirus.benefactory.live" redirect
+local-data: "coronavirus.benefactory.live A 0.0.0.0"
+local-zone: "www.covid19-essentials.com" redirect
+local-data: "www.covid19-essentials.com A 0.0.0.0"
+local-zone: "covid19-essentials.com" redirect
+local-data: "covid19-essentials.com A 0.0.0.0"
+local-zone: "xn--covid-19opplring-5ob.no" redirect
+local-data: "xn--covid-19opplring-5ob.no A 0.0.0.0"
+local-zone: "covid19.reeteshghimire.com.np" redirect
+local-data: "covid19.reeteshghimire.com.np A 0.0.0.0"
+local-zone: "covid19to.com" redirect
+local-data: "covid19to.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
