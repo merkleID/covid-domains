@@ -13804,6 +13804,40 @@ local-zone: "sicoronaviruschronicles.com" redirect
 local-data: "sicoronaviruschronicles.com A 0.0.0.0"
 local-zone: "covid19problemsolvers.com" redirect
 local-data: "covid19problemsolvers.com A 0.0.0.0"
+local-zone: "covid19dati.altervista.org" redirect
+local-data: "covid19dati.altervista.org A 0.0.0.0"
+local-zone: "covid19.ath.gov.pk" redirect
+local-data: "covid19.ath.gov.pk A 0.0.0.0"
+local-zone: "coronavirus.trafic.website" redirect
+local-data: "coronavirus.trafic.website A 0.0.0.0"
+local-zone: "coronavirusinfo.website" redirect
+local-data: "coronavirusinfo.website A 0.0.0.0"
+local-zone: "socialimpactcovid19.com" redirect
+local-data: "socialimpactcovid19.com A 0.0.0.0"
+local-zone: "covid19.yayasanvitka.id" redirect
+local-data: "covid19.yayasanvitka.id A 0.0.0.0"
+local-zone: "pilarcoronavirus.com.br" redirect
+local-data: "pilarcoronavirus.com.br A 0.0.0.0"
+local-zone: "covid19.masykuriikhsan.com" redirect
+local-data: "covid19.masykuriikhsan.com A 0.0.0.0"
+local-zone: "stopcovid-19.at" redirect
+local-data: "stopcovid-19.at A 0.0.0.0"
+local-zone: "geocoronavirus.com" redirect
+local-data: "geocoronavirus.com A 0.0.0.0"
+local-zone: "coronaviruscontrol.store" redirect
+local-data: "coronaviruscontrol.store A 0.0.0.0"
+local-zone: "covid-19.ngot.me" redirect
+local-data: "covid-19.ngot.me A 0.0.0.0"
+local-zone: "covid19.alkauthar.org" redirect
+local-data: "covid19.alkauthar.org A 0.0.0.0"
+local-zone: "fightcovid19donate.us" redirect
+local-data: "fightcovid19donate.us A 0.0.0.0"
+local-zone: "covid-19-next.now.sh" redirect
+local-data: "covid-19-next.now.sh A 0.0.0.0"
+local-zone: "covid-19lawyer.info" redirect
+local-data: "covid-19lawyer.info A 0.0.0.0"
+local-zone: "covid19action.live" redirect
+local-data: "covid19action.live A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -14400,6 +14434,8 @@ local-zone: "covid19watch.info" redirect
 local-data: "covid19watch.info A 0.0.0.0"
 local-zone: "dgmhup-covid19.in" redirect
 local-data: "dgmhup-covid19.in A 0.0.0.0"
+local-zone: "coronavirus-anwalt.de" redirect
+local-data: "coronavirus-anwalt.de A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
