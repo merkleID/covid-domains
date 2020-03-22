@@ -14312,6 +14312,48 @@ local-zone: "coronavirus.atlasvpn.com" redirect
 local-data: "coronavirus.atlasvpn.com A 0.0.0.0"
 local-zone: "www.atlcovid19.com" redirect
 local-data: "www.atlcovid19.com A 0.0.0.0"
+local-zone: "master.covid-19-e-learning.sevastjanova.lingvis.io" redirect
+local-data: "master.covid-19-e-learning.sevastjanova.lingvis.io A 0.0.0.0"
+local-zone: "ayudemoscovid19.com" redirect
+local-data: "ayudemoscovid19.com A 0.0.0.0"
+local-zone: "sos-covid19.com" redirect
+local-data: "sos-covid19.com A 0.0.0.0"
+local-zone: "battlecreekcovid-19.com" redirect
+local-data: "battlecreekcovid-19.com A 0.0.0.0"
+local-zone: "covid19.talisis.com" redirect
+local-data: "covid19.talisis.com A 0.0.0.0"
+local-zone: "www.covid19-merchandise.com" redirect
+local-data: "www.covid19-merchandise.com A 0.0.0.0"
+local-zone: "covid19.uadnan.com" redirect
+local-data: "covid19.uadnan.com A 0.0.0.0"
+local-zone: "dev.covid19.adn.be" redirect
+local-data: "dev.covid19.adn.be A 0.0.0.0"
+local-zone: "www.covid19.land" redirect
+local-data: "www.covid19.land A 0.0.0.0"
+local-zone: "covid19.atestadoseinformes.es" redirect
+local-data: "covid19.atestadoseinformes.es A 0.0.0.0"
+local-zone: "bioreco-protection-coronavirus.com" redirect
+local-data: "bioreco-protection-coronavirus.com A 0.0.0.0"
+local-zone: "blackhawkcovid19.com" redirect
+local-data: "blackhawkcovid19.com A 0.0.0.0"
+local-zone: "covid-19.global3.com.br" redirect
+local-data: "covid-19.global3.com.br A 0.0.0.0"
+local-zone: "covid19.atestadoseinformes.es" redirect
+local-data: "covid19.atestadoseinformes.es A 0.0.0.0"
+local-zone: "www.covid19.land" redirect
+local-data: "www.covid19.land A 0.0.0.0"
+local-zone: "baptisthealth-coronavirus.com" redirect
+local-data: "baptisthealth-coronavirus.com A 0.0.0.0"
+local-zone: "battlecreekcovid-19.com" redirect
+local-data: "battlecreekcovid-19.com A 0.0.0.0"
+local-zone: "worldagainstcovid19.org" redirect
+local-data: "worldagainstcovid19.org A 0.0.0.0"
+local-zone: "worldagainstcovid19.com" redirect
+local-data: "worldagainstcovid19.com A 0.0.0.0"
+local-zone: "covid19chopo.com" redirect
+local-data: "covid19chopo.com A 0.0.0.0"
+local-zone: "coronacovid19.website" redirect
+local-data: "coronacovid19.website A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
