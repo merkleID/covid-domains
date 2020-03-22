@@ -13838,6 +13838,24 @@ local-zone: "covid-19lawyer.info" redirect
 local-data: "covid-19lawyer.info A 0.0.0.0"
 local-zone: "covid19action.live" redirect
 local-data: "covid19action.live A 0.0.0.0"
+local-zone: "zapcovid19.com" redirect
+local-data: "zapcovid19.com A 0.0.0.0"
+local-zone: "covid19.mycwhg.com" redirect
+local-data: "covid19.mycwhg.com A 0.0.0.0"
+local-zone: "www.covid19help.shop" redirect
+local-data: "www.covid19help.shop A 0.0.0.0"
+local-zone: "coronavirustutoring.co.uk" redirect
+local-data: "coronavirustutoring.co.uk A 0.0.0.0"
+local-zone: "coronavirus-covid-19.cz" redirect
+local-data: "coronavirus-covid-19.cz A 0.0.0.0"
+local-zone: "team.sudancovid19.info" redirect
+local-data: "team.sudancovid19.info A 0.0.0.0"
+local-zone: "coronavirus5g.altervista.org" redirect
+local-data: "coronavirus5g.altervista.org A 0.0.0.0"
+local-zone: "covid19cure.uk" redirect
+local-data: "covid19cure.uk A 0.0.0.0"
+local-zone: "covid19cleaningsanitizingsevicesnashville.com" redirect
+local-data: "covid19cleaningsanitizingsevicesnashville.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -14436,6 +14454,8 @@ local-zone: "dgmhup-covid19.in" redirect
 local-data: "dgmhup-covid19.in A 0.0.0.0"
 local-zone: "coronavirus-anwalt.de" redirect
 local-data: "coronavirus-anwalt.de A 0.0.0.0"
+local-zone: "phcovid19.info" redirect
+local-data: "phcovid19.info A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
