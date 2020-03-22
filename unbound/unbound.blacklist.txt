@@ -15124,6 +15124,54 @@ local-zone: "slpcoronavirus.mx" redirect
 local-data: "slpcoronavirus.mx A 0.0.0.0"
 local-zone: "covid19.emapx.com" redirect
 local-data: "covid19.emapx.com A 0.0.0.0"
+local-zone: "www.coronavirus-worlddata.org" redirect
+local-data: "www.coronavirus-worlddata.org A 0.0.0.0"
+local-zone: "covid19.emapx.com.br" redirect
+local-data: "covid19.emapx.com.br A 0.0.0.0"
+local-zone: "www.covid19tracking.us" redirect
+local-data: "www.covid19tracking.us A 0.0.0.0"
+local-zone: "covid19tracking.us" redirect
+local-data: "covid19tracking.us A 0.0.0.0"
+local-zone: "covid19.utruk.org.uk" redirect
+local-data: "covid19.utruk.org.uk A 0.0.0.0"
+local-zone: "coronavirus757.com" redirect
+local-data: "coronavirus757.com A 0.0.0.0"
+local-zone: "covid-19-outbreak.com" redirect
+local-data: "covid-19-outbreak.com A 0.0.0.0"
+local-zone: "coronavirus.i-magino.com" redirect
+local-data: "coronavirus.i-magino.com A 0.0.0.0"
+local-zone: "covid19.zz08.hr" redirect
+local-data: "covid19.zz08.hr A 0.0.0.0"
+local-zone: "covid19-cam.cm" redirect
+local-data: "covid19-cam.cm A 0.0.0.0"
+local-zone: "covid-19.emapx.com.br" redirect
+local-data: "covid-19.emapx.com.br A 0.0.0.0"
+local-zone: "coronavirus.i-magino.com" redirect
+local-data: "coronavirus.i-magino.com A 0.0.0.0"
+local-zone: "coronavirus757.com" redirect
+local-data: "coronavirus757.com A 0.0.0.0"
+local-zone: "covid19.us.digitalhumans.com" redirect
+local-data: "covid19.us.digitalhumans.com A 0.0.0.0"
+local-zone: "coronavirus.vilayatimall.com" redirect
+local-data: "coronavirus.vilayatimall.com A 0.0.0.0"
+local-zone: "covid19.reporterspost24.com" redirect
+local-data: "covid19.reporterspost24.com A 0.0.0.0"
+local-zone: "www.covid19impacto.org" redirect
+local-data: "www.covid19impacto.org A 0.0.0.0"
+local-zone: "covid19.utruk.org.uk" redirect
+local-data: "covid19.utruk.org.uk A 0.0.0.0"
+local-zone: "voyageurscovid19.com" redirect
+local-data: "voyageurscovid19.com A 0.0.0.0"
+local-zone: "covid19-livestats.rainbowgist.com" redirect
+local-data: "covid19-livestats.rainbowgist.com A 0.0.0.0"
+local-zone: "covid19.diego.earth" redirect
+local-data: "covid19.diego.earth A 0.0.0.0"
+local-zone: "www.walkinginthetimeofcoronavirus.com" redirect
+local-data: "www.walkinginthetimeofcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusprotect.ca" redirect
+local-data: "coronavirusprotect.ca A 0.0.0.0"
+local-zone: "covid19.likemart.asia" redirect
+local-data: "covid19.likemart.asia A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
