@@ -13740,6 +13740,46 @@ local-zone: "covid-19lawyers.net" redirect
 local-data: "covid-19lawyers.net A 0.0.0.0"
 local-zone: "symptomsofcovid19.com" redirect
 local-data: "symptomsofcovid19.com A 0.0.0.0"
+local-zone: "www.coronavirustest.pw" redirect
+local-data: "www.coronavirustest.pw A 0.0.0.0"
+local-zone: "www.thecoronavirustestkit.com" redirect
+local-data: "www.thecoronavirustestkit.com A 0.0.0.0"
+local-zone: "thecoronavirusof2020andwhatiate.com" redirect
+local-data: "thecoronavirusof2020andwhatiate.com A 0.0.0.0"
+local-zone: "covid19stats.app" redirect
+local-data: "covid19stats.app A 0.0.0.0"
+local-zone: "salvoconductocoronavirus.cl" redirect
+local-data: "salvoconductocoronavirus.cl A 0.0.0.0"
+local-zone: "viruscovid-19.ro" redirect
+local-data: "viruscovid-19.ro A 0.0.0.0"
+local-zone: "www.anti-covid-19.ru" redirect
+local-data: "www.anti-covid-19.ru A 0.0.0.0"
+local-zone: "coronavirusweb.ru" redirect
+local-data: "coronavirusweb.ru A 0.0.0.0"
+local-zone: "coronavirus-online-monitor.ru" redirect
+local-data: "coronavirus-online-monitor.ru A 0.0.0.0"
+local-zone: "coronavirus-x.ru" redirect
+local-data: "coronavirus-x.ru A 0.0.0.0"
+local-zone: "coronavirussurvivaltips.info" redirect
+local-data: "coronavirussurvivaltips.info A 0.0.0.0"
+local-zone: "togetheragainstcoronavirus.com" redirect
+local-data: "togetheragainstcoronavirus.com A 0.0.0.0"
+local-zone: "covid19tablet.com" redirect
+local-data: "covid19tablet.com A 0.0.0.0"
+local-zone: "meetcovid19.com" redirect
+local-data: "meetcovid19.com A 0.0.0.0"
+local-zone: "coronavirusiraq.akrons.ca" redirect
+local-data: "coronavirusiraq.akrons.ca A 0.0.0.0"
+local-zone: "thaicovid19.com" redirect
+local-data: "thaicovid19.com A 0.0.0.0"
+local-zone: "baiasulcoronavirus.com.br" redirect
+local-data: "baiasulcoronavirus.com.br A 0.0.0.0"
+local-zone: "covid19br.app" redirect
+local-data: "covid19br.app A 0.0.0.0"
+local-zone: "coronavirus.co.ua" redirect
+local-data: "coronavirus.co.ua A 0.0.0.0"
+local-zone: "coronavirushelp.se" redirect
+local-data: "coronavirushelp.se A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
