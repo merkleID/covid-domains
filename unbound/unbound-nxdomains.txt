@@ -7513,6 +7513,16 @@ local-zone: "covid19.biwyze.fr" static
 local-zone: "slpcoronavirus.mx" static
 local-zone: "nyscovid19challenge.org" static
 local-zone: "coronavirus-shame.me" static
+local-zone: "sequelcoronavirus.com" static
+local-zone: "www.sequelcoronavirus.com" static
+local-zone: "covid19.q-sky.co" static
+local-zone: "coronaviruslawyerusa.com" static
+local-zone: "ss4covid-19.com" static
+local-zone: "covid19depot.iscriptscloud.com" static
+local-zone: "birencovid19.eastus.cloudapp.azure.com" static
+local-zone: "covid19worldstats.now.sh" static
+local-zone: "www.coronavirus.govern.ad" static
+local-zone: "soslegalcoronavirus.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -7845,6 +7855,7 @@ local-zone: "orangecountycovid19.com" static
 local-zone: "covid19supplieshub.org" static
 local-zone: "service-coronavirus-live.de" static
 local-zone: "coronavirusjobsuk.com" static
+local-zone: "covid19.go.id" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static

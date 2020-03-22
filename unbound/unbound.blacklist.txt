@@ -15028,6 +15028,26 @@ local-zone: "nyscovid19challenge.org" redirect
 local-data: "nyscovid19challenge.org A 0.0.0.0"
 local-zone: "coronavirus-shame.me" redirect
 local-data: "coronavirus-shame.me A 0.0.0.0"
+local-zone: "sequelcoronavirus.com" redirect
+local-data: "sequelcoronavirus.com A 0.0.0.0"
+local-zone: "www.sequelcoronavirus.com" redirect
+local-data: "www.sequelcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.q-sky.co" redirect
+local-data: "covid19.q-sky.co A 0.0.0.0"
+local-zone: "coronaviruslawyerusa.com" redirect
+local-data: "coronaviruslawyerusa.com A 0.0.0.0"
+local-zone: "ss4covid-19.com" redirect
+local-data: "ss4covid-19.com A 0.0.0.0"
+local-zone: "covid19depot.iscriptscloud.com" redirect
+local-data: "covid19depot.iscriptscloud.com A 0.0.0.0"
+local-zone: "birencovid19.eastus.cloudapp.azure.com" redirect
+local-data: "birencovid19.eastus.cloudapp.azure.com A 0.0.0.0"
+local-zone: "covid19worldstats.now.sh" redirect
+local-data: "covid19worldstats.now.sh A 0.0.0.0"
+local-zone: "www.coronavirus.govern.ad" redirect
+local-data: "www.coronavirus.govern.ad A 0.0.0.0"
+local-zone: "soslegalcoronavirus.com" redirect
+local-data: "soslegalcoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -15692,6 +15712,8 @@ local-zone: "service-coronavirus-live.de" redirect
 local-data: "service-coronavirus-live.de A 0.0.0.0"
 local-zone: "coronavirusjobsuk.com" redirect
 local-data: "coronavirusjobsuk.com A 0.0.0.0"
+local-zone: "covid19.go.id" redirect
+local-data: "covid19.go.id A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
