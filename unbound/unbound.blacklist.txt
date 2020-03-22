@@ -14912,6 +14912,42 @@ local-zone: "tccoronavirus.fr" redirect
 local-data: "tccoronavirus.fr A 0.0.0.0"
 local-zone: "coronavirusbrasil.ga" redirect
 local-data: "coronavirusbrasil.ga A 0.0.0.0"
+local-zone: "coronavirussnews.tk" redirect
+local-data: "coronavirussnews.tk A 0.0.0.0"
+local-zone: "covid-19lawyer.info" redirect
+local-data: "covid-19lawyer.info A 0.0.0.0"
+local-zone: "www.ncbroadcasterscovid19.com" redirect
+local-data: "www.ncbroadcasterscovid19.com A 0.0.0.0"
+local-zone: "covid-19.tn" redirect
+local-data: "covid-19.tn A 0.0.0.0"
+local-zone: "covid19.xlung.net" redirect
+local-data: "covid19.xlung.net A 0.0.0.0"
+local-zone: "coronavirusbrasil.ga" redirect
+local-data: "coronavirusbrasil.ga A 0.0.0.0"
+local-zone: "covid19belize.com" redirect
+local-data: "covid19belize.com A 0.0.0.0"
+local-zone: "www.coronaviruscorrelations.com" redirect
+local-data: "www.coronaviruscorrelations.com A 0.0.0.0"
+local-zone: "notcoronavirusnews.com" redirect
+local-data: "notcoronavirusnews.com A 0.0.0.0"
+local-zone: "novelcoronavirushometests.com" redirect
+local-data: "novelcoronavirushometests.com A 0.0.0.0"
+local-zone: "coronaviruscorrelations.com" redirect
+local-data: "coronaviruscorrelations.com A 0.0.0.0"
+local-zone: "www.prevenirlecoronavirus.com" redirect
+local-data: "www.prevenirlecoronavirus.com A 0.0.0.0"
+local-zone: "covid19supplies.omnae.com" redirect
+local-data: "covid19supplies.omnae.com A 0.0.0.0"
+local-zone: "coronavirus-earth.ru" redirect
+local-data: "coronavirus-earth.ru A 0.0.0.0"
+local-zone: "covid19mx.org" redirect
+local-data: "covid19mx.org A 0.0.0.0"
+local-zone: "covid19.othram.com" redirect
+local-data: "covid19.othram.com A 0.0.0.0"
+local-zone: "covid19mx.org" redirect
+local-data: "covid19mx.org A 0.0.0.0"
+local-zone: "redcovid19mx.com" redirect
+local-data: "redcovid19mx.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -15566,6 +15602,12 @@ local-zone: "covid19med.it" redirect
 local-data: "covid19med.it A 0.0.0.0"
 local-zone: "maricopacountycovid19.com" redirect
 local-data: "maricopacountycovid19.com A 0.0.0.0"
+local-zone: "diaspora-vs-coronavirus.co.uk" redirect
+local-data: "diaspora-vs-coronavirus.co.uk A 0.0.0.0"
+local-zone: "orangecountycovid19.com" redirect
+local-data: "orangecountycovid19.com A 0.0.0.0"
+local-zone: "covid19supplieshub.org" redirect
+local-data: "covid19supplieshub.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
