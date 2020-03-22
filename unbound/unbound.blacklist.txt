@@ -14354,6 +14354,36 @@ local-zone: "covid19chopo.com" redirect
 local-data: "covid19chopo.com A 0.0.0.0"
 local-zone: "coronacovid19.website" redirect
 local-data: "coronacovid19.website A 0.0.0.0"
+local-zone: "atlcovid19.com" redirect
+local-data: "atlcovid19.com A 0.0.0.0"
+local-zone: "coronavirus.atlasvpn.com" redirect
+local-data: "coronavirus.atlasvpn.com A 0.0.0.0"
+local-zone: "www.atlcovid19.com" redirect
+local-data: "www.atlcovid19.com A 0.0.0.0"
+local-zone: "maskforcoronavirus.net" redirect
+local-data: "maskforcoronavirus.net A 0.0.0.0"
+local-zone: "coronavirusfacemasks.net" redirect
+local-data: "coronavirusfacemasks.net A 0.0.0.0"
+local-zone: "novelcoronavirusfight.com" redirect
+local-data: "novelcoronavirusfight.com A 0.0.0.0"
+local-zone: "covid19chopo.com" redirect
+local-data: "covid19chopo.com A 0.0.0.0"
+local-zone: "www.covid19news.cc" redirect
+local-data: "www.covid19news.cc A 0.0.0.0"
+local-zone: "coronavirus-words.com" redirect
+local-data: "coronavirus-words.com A 0.0.0.0"
+local-zone: "covid19.aitrillion.com" redirect
+local-data: "covid19.aitrillion.com A 0.0.0.0"
+local-zone: "covid19.snis-sante.net" redirect
+local-data: "covid19.snis-sante.net A 0.0.0.0"
+local-zone: "bikeracersvcovid19.com" redirect
+local-data: "bikeracersvcovid19.com A 0.0.0.0"
+local-zone: "comunidadspaincovid19.com" redirect
+local-data: "comunidadspaincovid19.com A 0.0.0.0"
+local-zone: "coronavirus-19us.com" redirect
+local-data: "coronavirus-19us.com A 0.0.0.0"
+local-zone: "www.coronavirussupershop.com" redirect
+local-data: "www.coronavirussupershop.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -14980,6 +15010,10 @@ local-zone: "web-coronavirus.com" redirect
 local-data: "web-coronavirus.com A 0.0.0.0"
 local-zone: "coronavirus-symptomes.fr" redirect
 local-data: "coronavirus-symptomes.fr A 0.0.0.0"
+local-zone: "anticoronavirus.biz" redirect
+local-data: "anticoronavirus.biz A 0.0.0.0"
+local-zone: "covid19-masque.com" redirect
+local-data: "covid19-masque.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
