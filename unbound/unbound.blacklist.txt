@@ -15210,6 +15210,48 @@ local-zone: "covid19.carepirates.co.uk" redirect
 local-data: "covid19.carepirates.co.uk A 0.0.0.0"
 local-zone: "sdcovid19.naptasoft.com" redirect
 local-data: "sdcovid19.naptasoft.com A 0.0.0.0"
+local-zone: "covid19superyachts.com" redirect
+local-data: "covid19superyachts.com A 0.0.0.0"
+local-zone: "covid19-update.in" redirect
+local-data: "covid19-update.in A 0.0.0.0"
+local-zone: "covid19.borismtax.com" redirect
+local-data: "covid19.borismtax.com A 0.0.0.0"
+local-zone: "mycovid19tester.com" redirect
+local-data: "mycovid19tester.com A 0.0.0.0"
+local-zone: "newcoronavirusvaccine.com" redirect
+local-data: "newcoronavirusvaccine.com A 0.0.0.0"
+local-zone: "covid19worldhealth.com" redirect
+local-data: "covid19worldhealth.com A 0.0.0.0"
+local-zone: "coronavirus-askhr.com" redirect
+local-data: "coronavirus-askhr.com A 0.0.0.0"
+local-zone: "clikodoccovid19.com" redirect
+local-data: "clikodoccovid19.com A 0.0.0.0"
+local-zone: "covid19status.in" redirect
+local-data: "covid19status.in A 0.0.0.0"
+local-zone: "coronavirus-portugal.canalfoto.org" redirect
+local-data: "coronavirus-portugal.canalfoto.org A 0.0.0.0"
+local-zone: "covid19stats.co.uk" redirect
+local-data: "covid19stats.co.uk A 0.0.0.0"
+local-zone: "contracovid19.josefhinach.com" redirect
+local-data: "contracovid19.josefhinach.com A 0.0.0.0"
+local-zone: "covid19.coopenmediahub.com" redirect
+local-data: "covid19.coopenmediahub.com A 0.0.0.0"
+local-zone: "covid19-infos.org" redirect
+local-data: "covid19-infos.org A 0.0.0.0"
+local-zone: "covid19map.io" redirect
+local-data: "covid19map.io A 0.0.0.0"
+local-zone: "dfwcovid19products.com" redirect
+local-data: "dfwcovid19products.com A 0.0.0.0"
+local-zone: "www.covid19central.ca" redirect
+local-data: "www.covid19central.ca A 0.0.0.0"
+local-zone: "coronavirus.adamsabangan.com" redirect
+local-data: "coronavirus.adamsabangan.com A 0.0.0.0"
+local-zone: "www.fallinginlovewithcovid19.com" redirect
+local-data: "www.fallinginlovewithcovid19.com A 0.0.0.0"
+local-zone: "covid19.adamsabangan.com" redirect
+local-data: "covid19.adamsabangan.com A 0.0.0.0"
+local-zone: "covid19.company" redirect
+local-data: "covid19.company A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -15880,6 +15922,8 @@ local-zone: "countingcovid19.com" redirect
 local-data: "countingcovid19.com A 0.0.0.0"
 local-zone: "update-covid19.com" redirect
 local-data: "update-covid19.com A 0.0.0.0"
+local-zone: "covid-19deepcleaning.co.uk" redirect
+local-data: "covid-19deepcleaning.co.uk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
