@@ -13924,6 +13924,38 @@ local-zone: "covid19.reserve-civique.gouv.fr" redirect
 local-data: "covid19.reserve-civique.gouv.fr A 0.0.0.0"
 local-zone: "gouvernement-coronavirus.fr" redirect
 local-data: "gouvernement-coronavirus.fr A 0.0.0.0"
+local-zone: "www.istomcovid19.fr" redirect
+local-data: "www.istomcovid19.fr A 0.0.0.0"
+local-zone: "loveinthetimeofcovid-19.net" redirect
+local-data: "loveinthetimeofcovid-19.net A 0.0.0.0"
+local-zone: "www.loveinthetimeofcovid-19.net" redirect
+local-data: "www.loveinthetimeofcovid-19.net A 0.0.0.0"
+local-zone: "covid19.usts.fr" redirect
+local-data: "covid19.usts.fr A 0.0.0.0"
+local-zone: "covid19.yper.fr" redirect
+local-data: "covid19.yper.fr A 0.0.0.0"
+local-zone: "austincoronavirusdisinfection.com" redirect
+local-data: "austincoronavirusdisinfection.com A 0.0.0.0"
+local-zone: "austincovid19disinfection.com" redirect
+local-data: "austincovid19disinfection.com A 0.0.0.0"
+local-zone: "covid19survivalsolution.com" redirect
+local-data: "covid19survivalsolution.com A 0.0.0.0"
+local-zone: "who3.covid19badge.com" redirect
+local-data: "who3.covid19badge.com A 0.0.0.0"
+local-zone: "austincovid-19disinfection.com" redirect
+local-data: "austincovid-19disinfection.com A 0.0.0.0"
+local-zone: "covid19blackmarket.tk" redirect
+local-data: "covid19blackmarket.tk A 0.0.0.0"
+local-zone: "who4.covid19badge.com" redirect
+local-data: "who4.covid19badge.com A 0.0.0.0"
+local-zone: "coronaviruschart.live" redirect
+local-data: "coronaviruschart.live A 0.0.0.0"
+local-zone: "covid19healthbot.cdc.gov" redirect
+local-data: "covid19healthbot.cdc.gov A 0.0.0.0"
+local-zone: "coronavirus.gdn" redirect
+local-data: "coronavirus.gdn A 0.0.0.0"
+local-zone: "coronavirus.belhoussine.com" redirect
+local-data: "coronavirus.belhoussine.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -14524,6 +14556,8 @@ local-zone: "coronavirus-anwalt.de" redirect
 local-data: "coronavirus-anwalt.de A 0.0.0.0"
 local-zone: "phcovid19.info" redirect
 local-data: "phcovid19.info A 0.0.0.0"
+local-zone: "anticoronavirus.biz" redirect
+local-data: "anticoronavirus.biz A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
