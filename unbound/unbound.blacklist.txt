@@ -13430,6 +13430,32 @@ local-zone: "howtosurvivecoronavirus.site" redirect
 local-data: "howtosurvivecoronavirus.site A 0.0.0.0"
 local-zone: "pikcovid19.ciamiskab.go.id" redirect
 local-data: "pikcovid19.ciamiskab.go.id A 0.0.0.0"
+local-zone: "app.coronavirus.gov.py" redirect
+local-data: "app.coronavirus.gov.py A 0.0.0.0"
+local-zone: "www.covid19supply.ca" redirect
+local-data: "www.covid19supply.ca A 0.0.0.0"
+local-zone: "covid19supply.ca" redirect
+local-data: "covid19supply.ca A 0.0.0.0"
+local-zone: "www.covid19.nj.gov" redirect
+local-data: "www.covid19.nj.gov A 0.0.0.0"
+local-zone: "coronavirusactualidad.info" redirect
+local-data: "coronavirusactualidad.info A 0.0.0.0"
+local-zone: "coronavirustop.info" redirect
+local-data: "coronavirustop.info A 0.0.0.0"
+local-zone: "en.covid-19now.info" redirect
+local-data: "en.covid-19now.info A 0.0.0.0"
+local-zone: "coronaviruscura.online" redirect
+local-data: "coronaviruscura.online A 0.0.0.0"
+local-zone: "sos3dcovid19.com.br" redirect
+local-data: "sos3dcovid19.com.br A 0.0.0.0"
+local-zone: "srstcovid19.com" redirect
+local-data: "srstcovid19.com A 0.0.0.0"
+local-zone: "covid19-check-detroit.bmfoc.zone" redirect
+local-data: "covid19-check-detroit.bmfoc.zone A 0.0.0.0"
+local-zone: "www.covid19flu.com" redirect
+local-data: "www.covid19flu.com A 0.0.0.0"
+local-zone: "covid19.bsscard.com" redirect
+local-data: "covid19.bsscard.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
