@@ -14232,6 +14232,52 @@ local-zone: "thecovid19toolkit.com" redirect
 local-data: "thecovid19toolkit.com A 0.0.0.0"
 local-zone: "bye-covid19.com" redirect
 local-data: "bye-covid19.com A 0.0.0.0"
+local-zone: "covid19track.xyz" redirect
+local-data: "covid19track.xyz A 0.0.0.0"
+local-zone: "galiciancovid19.info" redirect
+local-data: "galiciancovid19.info A 0.0.0.0"
+local-zone: "thecovid19toolkit.com" redirect
+local-data: "thecovid19toolkit.com A 0.0.0.0"
+local-zone: "www.thecovid19toolkit.com" redirect
+local-data: "www.thecovid19toolkit.com A 0.0.0.0"
+local-zone: "coronavirusrus.club" redirect
+local-data: "coronavirusrus.club A 0.0.0.0"
+local-zone: "coronaviruslegalsolutions.co.uk" redirect
+local-data: "coronaviruslegalsolutions.co.uk A 0.0.0.0"
+local-zone: "coronavirussarscov2.francecentral.cloudapp.azure.com" redirect
+local-data: "coronavirussarscov2.francecentral.cloudapp.azure.com A 0.0.0.0"
+local-zone: "covid19-accompagnement-stress-anxiete.ch" redirect
+local-data: "covid19-accompagnement-stress-anxiete.ch A 0.0.0.0"
+local-zone: "covid19.diu.ac" redirect
+local-data: "covid19.diu.ac A 0.0.0.0"
+local-zone: "isurvivedcoronavirus.club" redirect
+local-data: "isurvivedcoronavirus.club A 0.0.0.0"
+local-zone: "appcoronavirus.cl" redirect
+local-data: "appcoronavirus.cl A 0.0.0.0"
+local-zone: "aftercovid19plan.com" redirect
+local-data: "aftercovid19plan.com A 0.0.0.0"
+local-zone: "mail.coronaviruscureuk.com" redirect
+local-data: "mail.coronaviruscureuk.com A 0.0.0.0"
+local-zone: "entity-covid19.minsky.cc" redirect
+local-data: "entity-covid19.minsky.cc A 0.0.0.0"
+local-zone: "covid19etf.com" redirect
+local-data: "covid19etf.com A 0.0.0.0"
+local-zone: "us-covid-19.now.sh" redirect
+local-data: "us-covid-19.now.sh A 0.0.0.0"
+local-zone: "covid19.nepallearning.com" redirect
+local-data: "covid19.nepallearning.com A 0.0.0.0"
+local-zone: "coronavirus-lablachere.fr" redirect
+local-data: "coronavirus-lablachere.fr A 0.0.0.0"
+local-zone: "2019-ncovmask.com" redirect
+local-data: "2019-ncovmask.com A 0.0.0.0"
+local-zone: "contraelcoronavirus.do" redirect
+local-data: "contraelcoronavirus.do A 0.0.0.0"
+local-zone: "sarscovid19.net" redirect
+local-data: "sarscovid19.net A 0.0.0.0"
+local-zone: "covid19.speaktograph.xyz" redirect
+local-data: "covid19.speaktograph.xyz A 0.0.0.0"
+local-zone: "covid19.sisaket.co" redirect
+local-data: "covid19.sisaket.co A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -14850,6 +14896,8 @@ local-zone: "covid-19stars.com" redirect
 local-data: "covid-19stars.com A 0.0.0.0"
 local-zone: "web-coronavirus.com" redirect
 local-data: "web-coronavirus.com A 0.0.0.0"
+local-zone: "covid19montebello.it" redirect
+local-data: "covid19montebello.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
