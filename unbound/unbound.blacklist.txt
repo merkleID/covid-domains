@@ -14618,6 +14618,54 @@ local-zone: "southport-covid19-support.calypsas.com" redirect
 local-data: "southport-covid19-support.calypsas.com A 0.0.0.0"
 local-zone: "staging.masksforcovid19.org" redirect
 local-data: "staging.masksforcovid19.org A 0.0.0.0"
+local-zone: "coronaviruspreventionguide.com" redirect
+local-data: "coronaviruspreventionguide.com A 0.0.0.0"
+local-zone: "coronavirussurvivorguide.com" redirect
+local-data: "coronavirussurvivorguide.com A 0.0.0.0"
+local-zone: "staging.masksforcovid19.org" redirect
+local-data: "staging.masksforcovid19.org A 0.0.0.0"
+local-zone: "covid-19.shdisny.com" redirect
+local-data: "covid-19.shdisny.com A 0.0.0.0"
+local-zone: "covid19patrol.org" redirect
+local-data: "covid19patrol.org A 0.0.0.0"
+local-zone: "covid19.syncitbd.com" redirect
+local-data: "covid19.syncitbd.com A 0.0.0.0"
+local-zone: "coronavirus-19.pro" redirect
+local-data: "coronavirus-19.pro A 0.0.0.0"
+local-zone: "cica.covid19-ic.com" redirect
+local-data: "cica.covid19-ic.com A 0.0.0.0"
+local-zone: "covid19-response-tracker.live" redirect
+local-data: "covid19-response-tracker.live A 0.0.0.0"
+local-zone: "covid19cz.com" redirect
+local-data: "covid19cz.com A 0.0.0.0"
+local-zone: "coronavirusonlinedoctors.com" redirect
+local-data: "coronavirusonlinedoctors.com A 0.0.0.0"
+local-zone: "knowingcovid19.org" redirect
+local-data: "knowingcovid19.org A 0.0.0.0"
+local-zone: "covid19ventilator.org" redirect
+local-data: "covid19ventilator.org A 0.0.0.0"
+local-zone: "test.covid19india.org" redirect
+local-data: "test.covid19india.org A 0.0.0.0"
+local-zone: "covid19.esriuk.com" redirect
+local-data: "covid19.esriuk.com A 0.0.0.0"
+local-zone: "covid19.btstech.net" redirect
+local-data: "covid19.btstech.net A 0.0.0.0"
+local-zone: "netflixcovid19s.com" redirect
+local-data: "netflixcovid19s.com A 0.0.0.0"
+local-zone: "covid19map.co.nz" redirect
+local-data: "covid19map.co.nz A 0.0.0.0"
+local-zone: "api.covid19ke.ushahidi.com" redirect
+local-data: "api.covid19ke.ushahidi.com A 0.0.0.0"
+local-zone: "covid19.roashunter.com" redirect
+local-data: "covid19.roashunter.com A 0.0.0.0"
+local-zone: "covid-19.bemilkomunsri.org" redirect
+local-data: "covid-19.bemilkomunsri.org A 0.0.0.0"
+local-zone: "covid19-fr.johanrin.com" redirect
+local-data: "covid19-fr.johanrin.com A 0.0.0.0"
+local-zone: "covid19.infotulungagung.id" redirect
+local-data: "covid19.infotulungagung.id A 0.0.0.0"
+local-zone: "coronavirusdata.in" redirect
+local-data: "coronavirusdata.in A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
