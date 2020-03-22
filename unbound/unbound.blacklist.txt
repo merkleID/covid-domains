@@ -14196,6 +14196,42 @@ local-zone: "coronavirusfaces.com" redirect
 local-data: "coronavirusfaces.com A 0.0.0.0"
 local-zone: "covid19.metralyze.com" redirect
 local-data: "covid19.metralyze.com A 0.0.0.0"
+local-zone: "www.anticoronavirus.biz" redirect
+local-data: "www.anticoronavirus.biz A 0.0.0.0"
+local-zone: "check.bag-coronavirus.ch" redirect
+local-data: "check.bag-coronavirus.ch A 0.0.0.0"
+local-zone: "www.coronavirusreport.buzz" redirect
+local-data: "www.coronavirusreport.buzz A 0.0.0.0"
+local-zone: "covid19-accompagnement-stress-anxiete.ch" redirect
+local-data: "covid19-accompagnement-stress-anxiete.ch A 0.0.0.0"
+local-zone: "covid19.quebec.ca" redirect
+local-data: "covid19.quebec.ca A 0.0.0.0"
+local-zone: "www.coronavirusfaces.com" redirect
+local-data: "www.coronavirusfaces.com A 0.0.0.0"
+local-zone: "check.ufsp-coronavirus.ch" redirect
+local-data: "check.ufsp-coronavirus.ch A 0.0.0.0"
+local-zone: "montpellier-covid19.vigilo.city" redirect
+local-data: "montpellier-covid19.vigilo.city A 0.0.0.0"
+local-zone: "covid-19.ontario.ca" redirect
+local-data: "covid-19.ontario.ca A 0.0.0.0"
+local-zone: "appcoronavirus.cl" redirect
+local-data: "appcoronavirus.cl A 0.0.0.0"
+local-zone: "yyccovid19.ca" redirect
+local-data: "yyccovid19.ca A 0.0.0.0"
+local-zone: "www.uk-coronavirus.phillyourboots.com" redirect
+local-data: "www.uk-coronavirus.phillyourboots.com A 0.0.0.0"
+local-zone: "stopcovid-19.de" redirect
+local-data: "stopcovid-19.de A 0.0.0.0"
+local-zone: "www.bye-covid19.com" redirect
+local-data: "www.bye-covid19.com A 0.0.0.0"
+local-zone: "covid19.javieroliver.co" redirect
+local-data: "covid19.javieroliver.co A 0.0.0.0"
+local-zone: "galiciancovid19.info" redirect
+local-data: "galiciancovid19.info A 0.0.0.0"
+local-zone: "thecovid19toolkit.com" redirect
+local-data: "thecovid19toolkit.com A 0.0.0.0"
+local-zone: "bye-covid19.com" redirect
+local-data: "bye-covid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -14812,6 +14848,8 @@ local-zone: "nocovid19.online" redirect
 local-data: "nocovid19.online A 0.0.0.0"
 local-zone: "covid-19stars.com" redirect
 local-data: "covid-19stars.com A 0.0.0.0"
+local-zone: "web-coronavirus.com" redirect
+local-data: "web-coronavirus.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
