@@ -14106,6 +14106,54 @@ local-zone: "covid19.esnu.be" redirect
 local-data: "covid19.esnu.be A 0.0.0.0"
 local-zone: "coronavirus.pinamar.gob.ar" redirect
 local-data: "coronavirus.pinamar.gob.ar A 0.0.0.0"
+local-zone: "coronaviruscovid19.app" redirect
+local-data: "coronaviruscovid19.app A 0.0.0.0"
+local-zone: "covid19test.app" redirect
+local-data: "covid19test.app A 0.0.0.0"
+local-zone: "covid19.prixa.ai" redirect
+local-data: "covid19.prixa.ai A 0.0.0.0"
+local-zone: "coronavirusloanprogram.com" redirect
+local-data: "coronavirusloanprogram.com A 0.0.0.0"
+local-zone: "coronaviruscovid19.life" redirect
+local-data: "coronaviruscovid19.life A 0.0.0.0"
+local-zone: "coronavirusnumbers.info" redirect
+local-data: "coronavirusnumbers.info A 0.0.0.0"
+local-zone: "covid19.cpdnakes.org" redirect
+local-data: "covid19.cpdnakes.org A 0.0.0.0"
+local-zone: "www.covid19-yamanaka.com" redirect
+local-data: "www.covid19-yamanaka.com A 0.0.0.0"
+local-zone: "perception-covid19.dev.hbwebsolutions.co.uk" redirect
+local-data: "perception-covid19.dev.hbwebsolutions.co.uk A 0.0.0.0"
+local-zone: "coronavirusmundial.info" redirect
+local-data: "coronavirusmundial.info A 0.0.0.0"
+local-zone: "covid-19.pichayean.com" redirect
+local-data: "covid-19.pichayean.com A 0.0.0.0"
+local-zone: "covid19-update.in" redirect
+local-data: "covid19-update.in A 0.0.0.0"
+local-zone: "2020-coronavirus.ru" redirect
+local-data: "2020-coronavirus.ru A 0.0.0.0"
+local-zone: "covid19-update.in" redirect
+local-data: "covid19-update.in A 0.0.0.0"
+local-zone: "covid19in.linknrun.com" redirect
+local-data: "covid19in.linknrun.com A 0.0.0.0"
+local-zone: "www.coronavirus.band" redirect
+local-data: "www.coronavirus.band A 0.0.0.0"
+local-zone: "covid19onderzoek.nl" redirect
+local-data: "covid19onderzoek.nl A 0.0.0.0"
+local-zone: "coronavirus.espm.br" redirect
+local-data: "coronavirus.espm.br A 0.0.0.0"
+local-zone: "covid-2019.be" redirect
+local-data: "covid-2019.be A 0.0.0.0"
+local-zone: "www.pecontracoronavirus.pe.gov.br" redirect
+local-data: "www.pecontracoronavirus.pe.gov.br A 0.0.0.0"
+local-zone: "covid19.ussl.info" redirect
+local-data: "covid19.ussl.info A 0.0.0.0"
+local-zone: "coronavirus.duquedecaxias.rj.gov.br" redirect
+local-data: "coronavirus.duquedecaxias.rj.gov.br A 0.0.0.0"
+local-zone: "www.coronavirus.ms.gov.br" redirect
+local-data: "www.coronavirus.ms.gov.br A 0.0.0.0"
+local-zone: "campanhacoronavirus.barro.ce.gov.br" redirect
+local-data: "campanhacoronavirus.barro.ce.gov.br A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -14720,6 +14768,8 @@ local-zone: "covid19.cloudsolutions.lk" redirect
 local-data: "covid19.cloudsolutions.lk A 0.0.0.0"
 local-zone: "nocovid19.online" redirect
 local-data: "nocovid19.online A 0.0.0.0"
+local-zone: "covid-19stars.com" redirect
+local-data: "covid-19stars.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
