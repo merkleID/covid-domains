@@ -14800,6 +14800,40 @@ local-zone: "coronavirusrd.zerquix18.com" redirect
 local-data: "coronavirusrd.zerquix18.com A 0.0.0.0"
 local-zone: "covid-19.aomsolucoes.com.br" redirect
 local-data: "covid-19.aomsolucoes.com.br A 0.0.0.0"
+local-zone: "covid19-fr.johanrin.com" redirect
+local-data: "covid19-fr.johanrin.com A 0.0.0.0"
+local-zone: "covid19patrol.es" redirect
+local-data: "covid19patrol.es A 0.0.0.0"
+local-zone: "covid19.nanu.site" redirect
+local-data: "covid19.nanu.site A 0.0.0.0"
+local-zone: "coronavirusargentina.info" redirect
+local-data: "coronavirusargentina.info A 0.0.0.0"
+local-zone: "covid19financialrescue.co.uk" redirect
+local-data: "covid19financialrescue.co.uk A 0.0.0.0"
+local-zone: "covid19.nanu.site" redirect
+local-data: "covid19.nanu.site A 0.0.0.0"
+local-zone: "www.coronaviruswatch.com" redirect
+local-data: "www.coronaviruswatch.com A 0.0.0.0"
+local-zone: "coronaviruswatch.com" redirect
+local-data: "coronaviruswatch.com A 0.0.0.0"
+local-zone: "connectduringcovid19.ca" redirect
+local-data: "connectduringcovid19.ca A 0.0.0.0"
+local-zone: "covid19ngo.com" redirect
+local-data: "covid19ngo.com A 0.0.0.0"
+local-zone: "preventionforcoronavirus.com" redirect
+local-data: "preventionforcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.nanu.site" redirect
+local-data: "covid19.nanu.site A 0.0.0.0"
+local-zone: "coronavirus.elizsposito.com.br" redirect
+local-data: "coronavirus.elizsposito.com.br A 0.0.0.0"
+local-zone: "www.survivedthecoronavirus.net" redirect
+local-data: "www.survivedthecoronavirus.net A 0.0.0.0"
+local-zone: "masksforcovid19.org" redirect
+local-data: "masksforcovid19.org A 0.0.0.0"
+local-zone: "coronavirus-2020.es" redirect
+local-data: "coronavirus-2020.es A 0.0.0.0"
+local-zone: "covid19.drm.ch" redirect
+local-data: "covid19.drm.ch A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
