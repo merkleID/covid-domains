@@ -13704,6 +13704,42 @@ local-zone: "nwicovid19volunteers.org" redirect
 local-data: "nwicovid19volunteers.org A 0.0.0.0"
 local-zone: "nyccovid19responsecoalition.org" redirect
 local-data: "nyccovid19responsecoalition.org A 0.0.0.0"
+local-zone: "api.track.covid-19.rowles.ch" redirect
+local-data: "api.track.covid-19.rowles.ch A 0.0.0.0"
+local-zone: "track.covid-19.rowles.ch" redirect
+local-data: "track.covid-19.rowles.ch A 0.0.0.0"
+local-zone: "covid-19.ui.soporte247.com" redirect
+local-data: "covid-19.ui.soporte247.com A 0.0.0.0"
+local-zone: "covid19responsehub.com" redirect
+local-data: "covid19responsehub.com A 0.0.0.0"
+local-zone: "spedaleniguarda-covid19.com" redirect
+local-data: "spedaleniguarda-covid19.com A 0.0.0.0"
+local-zone: "spelcovid19.com" redirect
+local-data: "spelcovid19.com A 0.0.0.0"
+local-zone: "coronavirus.starrfire.org" redirect
+local-data: "coronavirus.starrfire.org A 0.0.0.0"
+local-zone: "covid19.thunlp.org" redirect
+local-data: "covid19.thunlp.org A 0.0.0.0"
+local-zone: "covid19.ticsystem.co" redirect
+local-data: "covid19.ticsystem.co A 0.0.0.0"
+local-zone: "willidiefromcoronavirus.org" redirect
+local-data: "willidiefromcoronavirus.org A 0.0.0.0"
+local-zone: "www.willidiefromcoronavirus.org" redirect
+local-data: "www.willidiefromcoronavirus.org A 0.0.0.0"
+local-zone: "vaccin-coronavirus.org" redirect
+local-data: "vaccin-coronavirus.org A 0.0.0.0"
+local-zone: "mlsi-coronavirus.info" redirect
+local-data: "mlsi-coronavirus.info A 0.0.0.0"
+local-zone: "portalalkescovid19.millennia-solusi.id" redirect
+local-data: "portalalkescovid19.millennia-solusi.id A 0.0.0.0"
+local-zone: "covid19.kmoser.com" redirect
+local-data: "covid19.kmoser.com A 0.0.0.0"
+local-zone: "mapearocoronavirus.insidesi.com.br" redirect
+local-data: "mapearocoronavirus.insidesi.com.br A 0.0.0.0"
+local-zone: "covid-19lawyers.net" redirect
+local-data: "covid-19lawyers.net A 0.0.0.0"
+local-zone: "symptomsofcovid19.com" redirect
+local-data: "symptomsofcovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -14298,6 +14334,8 @@ local-zone: "mamparasprotectorascovid19.es" redirect
 local-data: "mamparasprotectorascovid19.es A 0.0.0.0"
 local-zone: "covid19watch.info" redirect
 local-data: "covid19watch.info A 0.0.0.0"
+local-zone: "dgmhup-covid19.in" redirect
+local-data: "dgmhup-covid19.in A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
