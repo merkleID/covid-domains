@@ -14726,6 +14726,46 @@ local-zone: "covid19.ci" redirect
 local-data: "covid19.ci A 0.0.0.0"
 local-zone: "covid-19test.babyplan.se" redirect
 local-data: "covid-19test.babyplan.se A 0.0.0.0"
+local-zone: "covid19.redtailstudio.com" redirect
+local-data: "covid19.redtailstudio.com A 0.0.0.0"
+local-zone: "covid19.n45ht.or.id" redirect
+local-data: "covid19.n45ht.or.id A 0.0.0.0"
+local-zone: "www.covid19forum.cz" redirect
+local-data: "www.covid19forum.cz A 0.0.0.0"
+local-zone: "nyscovid19challenge.com" redirect
+local-data: "nyscovid19challenge.com A 0.0.0.0"
+local-zone: "runescape-covid19.info" redirect
+local-data: "runescape-covid19.info A 0.0.0.0"
+local-zone: "mgcovid19.com" redirect
+local-data: "mgcovid19.com A 0.0.0.0"
+local-zone: "coronavirus-news.xyz" redirect
+local-data: "coronavirus-news.xyz A 0.0.0.0"
+local-zone: "coronaviruscovid19disinfectionservices.com" redirect
+local-data: "coronaviruscovid19disinfectionservices.com A 0.0.0.0"
+local-zone: "covid19.rnbo.gov.ua" redirect
+local-data: "covid19.rnbo.gov.ua A 0.0.0.0"
+local-zone: "eu-covid-19-community-help.now.sh" redirect
+local-data: "eu-covid-19-community-help.now.sh A 0.0.0.0"
+local-zone: "covid-19.olb.com" redirect
+local-data: "covid-19.olb.com A 0.0.0.0"
+local-zone: "www.covid19memorialwall.com" redirect
+local-data: "www.covid19memorialwall.com A 0.0.0.0"
+local-zone: "covid19test.babyplan.se" redirect
+local-data: "covid19test.babyplan.se A 0.0.0.0"
+local-zone: "covid19memorialwall.com" redirect
+local-data: "covid19memorialwall.com A 0.0.0.0"
+local-zone: "coronavirus.guiaguayaquil.com" redirect
+local-data: "coronavirus.guiaguayaquil.com A 0.0.0.0"
+local-zone: "coronavirusgroup.co.uk" redirect
+local-data: "coronavirusgroup.co.uk A 0.0.0.0"
+local-zone: "covid19.aepinhel.org" redirect
+local-data: "covid19.aepinhel.org A 0.0.0.0"
+local-zone: "telan-covid19.id" redirect
+local-data: "telan-covid19.id A 0.0.0.0"
+local-zone: "uk-covid19.webredirect.org" redirect
+local-data: "uk-covid19.webredirect.org A 0.0.0.0"
+local-zone: "covid19test.dk" redirect
+local-data: "covid19test.dk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -15378,6 +15418,8 @@ local-zone: "mappacoronavirus.eu" redirect
 local-data: "mappacoronavirus.eu A 0.0.0.0"
 local-zone: "covid19med.it" redirect
 local-data: "covid19med.it A 0.0.0.0"
+local-zone: "maricopacountycovid19.com" redirect
+local-data: "maricopacountycovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
