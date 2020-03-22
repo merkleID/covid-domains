@@ -13856,6 +13856,34 @@ local-zone: "covid19cure.uk" redirect
 local-data: "covid19cure.uk A 0.0.0.0"
 local-zone: "covid19cleaningsanitizingsevicesnashville.com" redirect
 local-data: "covid19cleaningsanitizingsevicesnashville.com A 0.0.0.0"
+local-zone: "dev.covid19live.kz" redirect
+local-data: "dev.covid19live.kz A 0.0.0.0"
+local-zone: "www.coronavirusdata.it" redirect
+local-data: "www.coronavirusdata.it A 0.0.0.0"
+local-zone: "isurvivedcovid19.us" redirect
+local-data: "isurvivedcovid19.us A 0.0.0.0"
+local-zone: "coronavirusinfo.website" redirect
+local-data: "coronavirusinfo.website A 0.0.0.0"
+local-zone: "www.coronaviruscontrol.store" redirect
+local-data: "www.coronaviruscontrol.store A 0.0.0.0"
+local-zone: "covid19.downtownwaterfront.ca" redirect
+local-data: "covid19.downtownwaterfront.ca A 0.0.0.0"
+local-zone: "coronavirusinformation.xyz" redirect
+local-data: "coronavirusinformation.xyz A 0.0.0.0"
+local-zone: "stage.fightcoronavirus.xyz" redirect
+local-data: "stage.fightcoronavirus.xyz A 0.0.0.0"
+local-zone: "covid-19-board.com" redirect
+local-data: "covid-19-board.com A 0.0.0.0"
+local-zone: "coronavirushomeschooling.com" redirect
+local-data: "coronavirushomeschooling.com A 0.0.0.0"
+local-zone: "covid19trac.com" redirect
+local-data: "covid19trac.com A 0.0.0.0"
+local-zone: "nupedulicovid-19pekalongan.or.id" redirect
+local-data: "nupedulicovid-19pekalongan.or.id A 0.0.0.0"
+local-zone: "coronavirus.globalnews24.online" redirect
+local-data: "coronavirus.globalnews24.online A 0.0.0.0"
+local-zone: "coronavirusactiongroup.org" redirect
+local-data: "coronavirusactiongroup.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
