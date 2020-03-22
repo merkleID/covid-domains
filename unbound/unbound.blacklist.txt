@@ -14872,6 +14872,46 @@ local-zone: "fthecoronavirus.com" redirect
 local-data: "fthecoronavirus.com A 0.0.0.0"
 local-zone: "www.fthecoronavirus.com" redirect
 local-data: "www.fthecoronavirus.com A 0.0.0.0"
+local-zone: "en.covid19guides.com" redirect
+local-data: "en.covid19guides.com A 0.0.0.0"
+local-zone: "covid19.rid3220.org" redirect
+local-data: "covid19.rid3220.org A 0.0.0.0"
+local-zone: "covid-19.hasimajak.in" redirect
+local-data: "covid-19.hasimajak.in A 0.0.0.0"
+local-zone: "covid19.idhaam69.dev" redirect
+local-data: "covid19.idhaam69.dev A 0.0.0.0"
+local-zone: "api.covid19tracking.narrativa.com" redirect
+local-data: "api.covid19tracking.narrativa.com A 0.0.0.0"
+local-zone: "mcscovid19.com" redirect
+local-data: "mcscovid19.com A 0.0.0.0"
+local-zone: "covid-19.csie.ntnu.edu.tw" redirect
+local-data: "covid-19.csie.ntnu.edu.tw A 0.0.0.0"
+local-zone: "medicarecoronavirustest.com" redirect
+local-data: "medicarecoronavirustest.com A 0.0.0.0"
+local-zone: "mensajecoronavirus.com" redirect
+local-data: "mensajecoronavirus.com A 0.0.0.0"
+local-zone: "metacrilatocoronavirus.com" redirect
+local-data: "metacrilatocoronavirus.com A 0.0.0.0"
+local-zone: "covid19.palopokota.go.id" redirect
+local-data: "covid19.palopokota.go.id A 0.0.0.0"
+local-zone: "www.covid19hiring.co" redirect
+local-data: "www.covid19hiring.co A 0.0.0.0"
+local-zone: "coronavirus.cyfertec.com" redirect
+local-data: "coronavirus.cyfertec.com A 0.0.0.0"
+local-zone: "api.covid19.rnbo.gov.ua" redirect
+local-data: "api.covid19.rnbo.gov.ua A 0.0.0.0"
+local-zone: "covid19supersupplies.com" redirect
+local-data: "covid19supersupplies.com A 0.0.0.0"
+local-zone: "www.covid19supersupplies.com" redirect
+local-data: "www.covid19supersupplies.com A 0.0.0.0"
+local-zone: "covid19.iurall.com" redirect
+local-data: "covid19.iurall.com A 0.0.0.0"
+local-zone: "covid-19check.ru" redirect
+local-data: "covid-19check.ru A 0.0.0.0"
+local-zone: "tccoronavirus.fr" redirect
+local-data: "tccoronavirus.fr A 0.0.0.0"
+local-zone: "coronavirusbrasil.ga" redirect
+local-data: "coronavirusbrasil.ga A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
