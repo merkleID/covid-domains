@@ -14666,6 +14666,66 @@ local-zone: "covid19.infotulungagung.id" redirect
 local-data: "covid19.infotulungagung.id A 0.0.0.0"
 local-zone: "coronavirusdata.in" redirect
 local-data: "coronavirusdata.in A 0.0.0.0"
+local-zone: "covid19ph.catalanconsulting.com" redirect
+local-data: "covid19ph.catalanconsulting.com A 0.0.0.0"
+local-zone: "coronavirusmarseille.com" redirect
+local-data: "coronavirusmarseille.com A 0.0.0.0"
+local-zone: "www.covid19-faq.de" redirect
+local-data: "www.covid19-faq.de A 0.0.0.0"
+local-zone: "covid-2019.ch" redirect
+local-data: "covid-2019.ch A 0.0.0.0"
+local-zone: "covid19battle.se" redirect
+local-data: "covid19battle.se A 0.0.0.0"
+local-zone: "covid19.farlopa.gratis" redirect
+local-data: "covid19.farlopa.gratis A 0.0.0.0"
+local-zone: "coronavirusnames.com" redirect
+local-data: "coronavirusnames.com A 0.0.0.0"
+local-zone: "covid-19.monster" redirect
+local-data: "covid-19.monster A 0.0.0.0"
+local-zone: "coronavirusbusinessloans.com" redirect
+local-data: "coronavirusbusinessloans.com A 0.0.0.0"
+local-zone: "www.covid-19.monster" redirect
+local-data: "www.covid-19.monster A 0.0.0.0"
+local-zone: "api.covid19.finspect.me" redirect
+local-data: "api.covid19.finspect.me A 0.0.0.0"
+local-zone: "coronavirus.fundacionidis.com" redirect
+local-data: "coronavirus.fundacionidis.com A 0.0.0.0"
+local-zone: "marylandccprojectcovid19.com" redirect
+local-data: "marylandccprojectcovid19.com A 0.0.0.0"
+local-zone: "mapacovid19.com" redirect
+local-data: "mapacovid19.com A 0.0.0.0"
+local-zone: "covid19.sokolovic.net" redirect
+local-data: "covid19.sokolovic.net A 0.0.0.0"
+local-zone: "coronavirusinfo.dev" redirect
+local-data: "coronavirusinfo.dev A 0.0.0.0"
+local-zone: "covid19tcs.com" redirect
+local-data: "covid19tcs.com A 0.0.0.0"
+local-zone: "www.covid-19effect.com" redirect
+local-data: "www.covid-19effect.com A 0.0.0.0"
+local-zone: "covid-19effect.com" redirect
+local-data: "covid-19effect.com A 0.0.0.0"
+local-zone: "www.mgcovid19.com" redirect
+local-data: "www.mgcovid19.com A 0.0.0.0"
+local-zone: "covid19.e85.eu" redirect
+local-data: "covid19.e85.eu A 0.0.0.0"
+local-zone: "todoscontraocoronavirus.com" redirect
+local-data: "todoscontraocoronavirus.com A 0.0.0.0"
+local-zone: "covid19.kaissa.nl" redirect
+local-data: "covid19.kaissa.nl A 0.0.0.0"
+local-zone: "covid19-graphs.algolysis.com" redirect
+local-data: "covid19-graphs.algolysis.com A 0.0.0.0"
+local-zone: "covid19.fundacionio.com" redirect
+local-data: "covid19.fundacionio.com A 0.0.0.0"
+local-zone: "coronavirus-19.pro" redirect
+local-data: "coronavirus-19.pro A 0.0.0.0"
+local-zone: "coronaviruss19.online" redirect
+local-data: "coronaviruss19.online A 0.0.0.0"
+local-zone: "covid19tech.pro" redirect
+local-data: "covid19tech.pro A 0.0.0.0"
+local-zone: "covid19.ci" redirect
+local-data: "covid19.ci A 0.0.0.0"
+local-zone: "covid-19test.babyplan.se" redirect
+local-data: "covid-19test.babyplan.se A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -15316,6 +15376,8 @@ local-zone: "coronavirus-2020.es" redirect
 local-data: "coronavirus-2020.es A 0.0.0.0"
 local-zone: "mappacoronavirus.eu" redirect
 local-data: "mappacoronavirus.eu A 0.0.0.0"
+local-zone: "covid19med.it" redirect
+local-data: "covid19med.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
