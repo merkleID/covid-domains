@@ -14154,6 +14154,48 @@ local-zone: "www.coronavirus.ms.gov.br" redirect
 local-data: "www.coronavirus.ms.gov.br A 0.0.0.0"
 local-zone: "campanhacoronavirus.barro.ce.gov.br" redirect
 local-data: "campanhacoronavirus.barro.ce.gov.br A 0.0.0.0"
+local-zone: "curesars-cov-2.com" redirect
+local-data: "curesars-cov-2.com A 0.0.0.0"
+local-zone: "coronaviruscases.ca" redirect
+local-data: "coronaviruscases.ca A 0.0.0.0"
+local-zone: "covid19.i-pool.it" redirect
+local-data: "covid19.i-pool.it A 0.0.0.0"
+local-zone: "covid-19-dataset.now.sh" redirect
+local-data: "covid-19-dataset.now.sh A 0.0.0.0"
+local-zone: "www.baohiemcovid19pvi.com" redirect
+local-data: "www.baohiemcovid19pvi.com A 0.0.0.0"
+local-zone: "wuhanvirus.biz" redirect
+local-data: "wuhanvirus.biz A 0.0.0.0"
+local-zone: "www.covid19details.com" redirect
+local-data: "www.covid19details.com A 0.0.0.0"
+local-zone: "dpi-coronavirus.icom-srl.com" redirect
+local-data: "dpi-coronavirus.icom-srl.com A 0.0.0.0"
+local-zone: "coronavirusmask.cf" redirect
+local-data: "coronavirusmask.cf A 0.0.0.0"
+local-zone: "www.coronavirus-store.de" redirect
+local-data: "www.coronavirus-store.de A 0.0.0.0"
+local-zone: "api.covid19.namduastudio.com" redirect
+local-data: "api.covid19.namduastudio.com A 0.0.0.0"
+local-zone: "cust-awarness.coronaviruschina.ml" redirect
+local-data: "cust-awarness.coronaviruschina.ml A 0.0.0.0"
+local-zone: "pedulicovid19.amri.or.id" redirect
+local-data: "pedulicovid19.amri.or.id A 0.0.0.0"
+local-zone: "covid19superyachts.com" redirect
+local-data: "covid19superyachts.com A 0.0.0.0"
+local-zone: "pedulicovid19.amri.or.id" redirect
+local-data: "pedulicovid19.amri.or.id A 0.0.0.0"
+local-zone: "custsupport.coronaviruschina.ml" redirect
+local-data: "custsupport.coronaviruschina.ml A 0.0.0.0"
+local-zone: "cust-awarness.coronaviruschina.ml" redirect
+local-data: "cust-awarness.coronaviruschina.ml A 0.0.0.0"
+local-zone: "cust-support-check.coronaviruschina.ml" redirect
+local-data: "cust-support-check.coronaviruschina.ml A 0.0.0.0"
+local-zone: "coronavirus-store.de" redirect
+local-data: "coronavirus-store.de A 0.0.0.0"
+local-zone: "coronavirusfaces.com" redirect
+local-data: "coronavirusfaces.com A 0.0.0.0"
+local-zone: "covid19.metralyze.com" redirect
+local-data: "covid19.metralyze.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
