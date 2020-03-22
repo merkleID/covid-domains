@@ -13956,6 +13956,48 @@ local-zone: "coronavirus.gdn" redirect
 local-data: "coronavirus.gdn A 0.0.0.0"
 local-zone: "coronavirus.belhoussine.com" redirect
 local-data: "coronavirus.belhoussine.com A 0.0.0.0"
+local-zone: "www.goodnewscoronavirus.net" redirect
+local-data: "www.goodnewscoronavirus.net A 0.0.0.0"
+local-zone: "www.stopcoronavirus-19.com" redirect
+local-data: "www.stopcoronavirus-19.com A 0.0.0.0"
+local-zone: "covid19.baznasjombang.id" redirect
+local-data: "covid19.baznasjombang.id A 0.0.0.0"
+local-zone: "trackcovid19.in" redirect
+local-data: "trackcovid19.in A 0.0.0.0"
+local-zone: "goodnewscoronavirus.net" redirect
+local-data: "goodnewscoronavirus.net A 0.0.0.0"
+local-zone: "sars-cov-2.ca" redirect
+local-data: "sars-cov-2.ca A 0.0.0.0"
+local-zone: "covid19-livetracker.com" redirect
+local-data: "covid19-livetracker.com A 0.0.0.0"
+local-zone: "covid19-mobilisation.org" redirect
+local-data: "covid19-mobilisation.org A 0.0.0.0"
+local-zone: "covid19.kkal.gr" redirect
+local-data: "covid19.kkal.gr A 0.0.0.0"
+local-zone: "indonesia-coronavirus.com" redirect
+local-data: "indonesia-coronavirus.com A 0.0.0.0"
+local-zone: "coronavirusteszt.hu" redirect
+local-data: "coronavirusteszt.hu A 0.0.0.0"
+local-zone: "covid-19.vlifevirtusa.com" redirect
+local-data: "covid-19.vlifevirtusa.com A 0.0.0.0"
+local-zone: "covid19.gccstat.org" redirect
+local-data: "covid19.gccstat.org A 0.0.0.0"
+local-zone: "coronaviruschina.ml" redirect
+local-data: "coronaviruschina.ml A 0.0.0.0"
+local-zone: "covid19-mobilisation.org" redirect
+local-data: "covid19-mobilisation.org A 0.0.0.0"
+local-zone: "www.thecovid19mask.co.za" redirect
+local-data: "www.thecovid19mask.co.za A 0.0.0.0"
+local-zone: "thecovid19mask.co.za" redirect
+local-data: "thecovid19mask.co.za A 0.0.0.0"
+local-zone: "covid19.morawaka.com" redirect
+local-data: "covid19.morawaka.com A 0.0.0.0"
+local-zone: "coronavirus-jouwverhaal.nl" redirect
+local-data: "coronavirus-jouwverhaal.nl A 0.0.0.0"
+local-zone: "coronavirus.benefactory.live" redirect
+local-data: "coronavirus.benefactory.live A 0.0.0.0"
+local-zone: "coronavirushelp.im" redirect
+local-data: "coronavirushelp.im A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -14558,6 +14600,8 @@ local-zone: "phcovid19.info" redirect
 local-data: "phcovid19.info A 0.0.0.0"
 local-zone: "anticoronavirus.biz" redirect
 local-data: "anticoronavirus.biz A 0.0.0.0"
+local-zone: "covid19data.co.il" redirect
+local-data: "covid19data.co.il A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
