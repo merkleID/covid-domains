@@ -14384,6 +14384,42 @@ local-zone: "coronavirus-19us.com" redirect
 local-data: "coronavirus-19us.com A 0.0.0.0"
 local-zone: "www.coronavirussupershop.com" redirect
 local-data: "www.coronavirussupershop.com A 0.0.0.0"
+local-zone: "coronavirus-net.online" redirect
+local-data: "coronavirus-net.online A 0.0.0.0"
+local-zone: "testingcovid19.eu" redirect
+local-data: "testingcovid19.eu A 0.0.0.0"
+local-zone: "coronavirus-data.it" redirect
+local-data: "coronavirus-data.it A 0.0.0.0"
+local-zone: "china-virus.com" redirect
+local-data: "china-virus.com A 0.0.0.0"
+local-zone: "www.coronavirus-charts.com" redirect
+local-data: "www.coronavirus-charts.com A 0.0.0.0"
+local-zone: "mividadurantelapandemicadelcovid-19.com" redirect
+local-data: "mividadurantelapandemicadelcovid-19.com A 0.0.0.0"
+local-zone: "covid-19sanity.com" redirect
+local-data: "covid-19sanity.com A 0.0.0.0"
+local-zone: "ncov19.asia" redirect
+local-data: "ncov19.asia A 0.0.0.0"
+local-zone: "climateandcoronavirus.com" redirect
+local-data: "climateandcoronavirus.com A 0.0.0.0"
+local-zone: "covid19signage.com" redirect
+local-data: "covid19signage.com A 0.0.0.0"
+local-zone: "covid19.confinementlecture.com" redirect
+local-data: "covid19.confinementlecture.com A 0.0.0.0"
+local-zone: "coronavirusgroup.co.uk" redirect
+local-data: "coronavirusgroup.co.uk A 0.0.0.0"
+local-zone: "coronavirusupdates.cf" redirect
+local-data: "coronavirusupdates.cf A 0.0.0.0"
+local-zone: "covid-19feverguard.com" redirect
+local-data: "covid-19feverguard.com A 0.0.0.0"
+local-zone: "coronavirus-tester.nl" redirect
+local-data: "coronavirus-tester.nl A 0.0.0.0"
+local-zone: "www.creativityovercovid19.com" redirect
+local-data: "www.creativityovercovid19.com A 0.0.0.0"
+local-zone: "creativityovercovid19.com" redirect
+local-data: "creativityovercovid19.com A 0.0.0.0"
+local-zone: "curecovid19virus.com" redirect
+local-data: "curecovid19virus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -15014,6 +15050,10 @@ local-zone: "anticoronavirus.biz" redirect
 local-data: "anticoronavirus.biz A 0.0.0.0"
 local-zone: "covid19-masque.com" redirect
 local-data: "covid19-masque.com A 0.0.0.0"
+local-zone: "covid19survey.moh.gov.jo" redirect
+local-data: "covid19survey.moh.gov.jo A 0.0.0.0"
+local-zone: "nocovid19.info" redirect
+local-data: "nocovid19.info A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
