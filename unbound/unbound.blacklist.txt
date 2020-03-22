@@ -14278,6 +14278,40 @@ local-zone: "covid19.speaktograph.xyz" redirect
 local-data: "covid19.speaktograph.xyz A 0.0.0.0"
 local-zone: "covid19.sisaket.co" redirect
 local-data: "covid19.sisaket.co A 0.0.0.0"
+local-zone: "www.covid19news.cc" redirect
+local-data: "www.covid19news.cc A 0.0.0.0"
+local-zone: "anticovid19supply.com" redirect
+local-data: "anticovid19supply.com A 0.0.0.0"
+local-zone: "covid19vis.lingvis.io" redirect
+local-data: "covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "www.coronavirus-help.shop" redirect
+local-data: "www.coronavirus-help.shop A 0.0.0.0"
+local-zone: "containcovid19.com" redirect
+local-data: "containcovid19.com A 0.0.0.0"
+local-zone: "foerderhilfen-covid19.de" redirect
+local-data: "foerderhilfen-covid19.de A 0.0.0.0"
+local-zone: "covid19.amo0.com" redirect
+local-data: "covid19.amo0.com A 0.0.0.0"
+local-zone: "covid19virus.fellaz.co.uk" redirect
+local-data: "covid19virus.fellaz.co.uk A 0.0.0.0"
+local-zone: "covid19virus.world" redirect
+local-data: "covid19virus.world A 0.0.0.0"
+local-zone: "argentina-coronavirus.com" redirect
+local-data: "argentina-coronavirus.com A 0.0.0.0"
+local-zone: "arrmcovid19.com" redirect
+local-data: "arrmcovid19.com A 0.0.0.0"
+local-zone: "e-learning.covid19.lingvis.io" redirect
+local-data: "e-learning.covid19.lingvis.io A 0.0.0.0"
+local-zone: "artistsagainstcovid19.com" redirect
+local-data: "artistsagainstcovid19.com A 0.0.0.0"
+local-zone: "artistasymusicoscovid19.com" redirect
+local-data: "artistasymusicoscovid19.com A 0.0.0.0"
+local-zone: "atlcovid19.com" redirect
+local-data: "atlcovid19.com A 0.0.0.0"
+local-zone: "coronavirus.atlasvpn.com" redirect
+local-data: "coronavirus.atlasvpn.com A 0.0.0.0"
+local-zone: "www.atlcovid19.com" redirect
+local-data: "www.atlcovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -14898,6 +14932,12 @@ local-zone: "web-coronavirus.com" redirect
 local-data: "web-coronavirus.com A 0.0.0.0"
 local-zone: "covid19montebello.it" redirect
 local-data: "covid19montebello.it A 0.0.0.0"
+local-zone: "anticoronavirus.biz" redirect
+local-data: "anticoronavirus.biz A 0.0.0.0"
+local-zone: "web-coronavirus.com" redirect
+local-data: "web-coronavirus.com A 0.0.0.0"
+local-zone: "coronavirus-symptomes.fr" redirect
+local-data: "coronavirus-symptomes.fr A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
