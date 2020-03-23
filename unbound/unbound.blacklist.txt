@@ -15992,6 +15992,38 @@ local-zone: "covid19.meditel.com.co" redirect
 local-data: "covid19.meditel.com.co A 0.0.0.0"
 local-zone: "covid19tracker.now.sh" redirect
 local-data: "covid19tracker.now.sh A 0.0.0.0"
+local-zone: "covid-19rapidhometest.com" redirect
+local-data: "covid-19rapidhometest.com A 0.0.0.0"
+local-zone: "covid19.gampong.net" redirect
+local-data: "covid19.gampong.net A 0.0.0.0"
+local-zone: "covid19.techsathi.com" redirect
+local-data: "covid19.techsathi.com A 0.0.0.0"
+local-zone: "amoreaitempidelcovid19.altervista.org" redirect
+local-data: "amoreaitempidelcovid19.altervista.org A 0.0.0.0"
+local-zone: "www.emccovid19.com" redirect
+local-data: "www.emccovid19.com A 0.0.0.0"
+local-zone: "86covid19.com" redirect
+local-data: "86covid19.com A 0.0.0.0"
+local-zone: "emergenciacovid19.fundaciocollserola.cat" redirect
+local-data: "emergenciacovid19.fundaciocollserola.cat A 0.0.0.0"
+local-zone: "ar.coronavirusnewslive.com" redirect
+local-data: "ar.coronavirusnewslive.com A 0.0.0.0"
+local-zone: "gemeinsam-gegen-coronavirus.ch" redirect
+local-data: "gemeinsam-gegen-coronavirus.ch A 0.0.0.0"
+local-zone: "coronaviruswarriors.com" redirect
+local-data: "coronaviruswarriors.com A 0.0.0.0"
+local-zone: "covid19.ibighealth.com" redirect
+local-data: "covid19.ibighealth.com A 0.0.0.0"
+local-zone: "covid19.liamcottle.com" redirect
+local-data: "covid19.liamcottle.com A 0.0.0.0"
+local-zone: "coronavirus-v-mire.ru" redirect
+local-data: "coronavirus-v-mire.ru A 0.0.0.0"
+local-zone: "coronavirus-mask.com" redirect
+local-data: "coronavirus-mask.com A 0.0.0.0"
+local-zone: "webmail.iowcoronavirus.co.uk" redirect
+local-data: "webmail.iowcoronavirus.co.uk A 0.0.0.0"
+local-zone: "2019-ncov.no" redirect
+local-data: "2019-ncov.no A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
