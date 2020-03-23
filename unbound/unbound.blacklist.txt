@@ -16268,6 +16268,76 @@ local-zone: "coronavirus-snt.yj.fr" redirect
 local-data: "coronavirus-snt.yj.fr A 0.0.0.0"
 local-zone: "covid-19-operation-1-ere-urgence.fr" redirect
 local-data: "covid-19-operation-1-ere-urgence.fr A 0.0.0.0"
+local-zone: "covid-19-signs.org" redirect
+local-data: "covid-19-signs.org A 0.0.0.0"
+local-zone: "ward7covid19help.zendesk.com" redirect
+local-data: "ward7covid19help.zendesk.com A 0.0.0.0"
+local-zone: "www.coronavirus.latardeurbana.com" redirect
+local-data: "www.coronavirus.latardeurbana.com A 0.0.0.0"
+local-zone: "thecovid-19app.com" redirect
+local-data: "thecovid-19app.com A 0.0.0.0"
+local-zone: "www.californiabusinessessurvivingcovid-19.com" redirect
+local-data: "www.californiabusinessessurvivingcovid-19.com A 0.0.0.0"
+local-zone: "califcoronavirus.com" redirect
+local-data: "califcoronavirus.com A 0.0.0.0"
+local-zone: "covid19-cuba.sacavix.com" redirect
+local-data: "covid19-cuba.sacavix.com A 0.0.0.0"
+local-zone: "coronavirusline.com" redirect
+local-data: "coronavirusline.com A 0.0.0.0"
+local-zone: "covid19.digifigs.com" redirect
+local-data: "covid19.digifigs.com A 0.0.0.0"
+local-zone: "canigetacoronavirustestifiwantone.com" redirect
+local-data: "canigetacoronavirustestifiwantone.com A 0.0.0.0"
+local-zone: "cardsagainstcovid19.com" redirect
+local-data: "cardsagainstcovid19.com A 0.0.0.0"
+local-zone: "carecoronavirus.com" redirect
+local-data: "carecoronavirus.com A 0.0.0.0"
+local-zone: "careforcovid-19.com" redirect
+local-data: "careforcovid-19.com A 0.0.0.0"
+local-zone: "corona-virus-ausbreitung.jonas2201.repl.run" redirect
+local-data: "corona-virus-ausbreitung.jonas2201.repl.run A 0.0.0.0"
+local-zone: "www.ncrla-covid-19.org" redirect
+local-data: "www.ncrla-covid-19.org A 0.0.0.0"
+local-zone: "covid19knowmore.com" redirect
+local-data: "covid19knowmore.com A 0.0.0.0"
+local-zone: "oita.stopcovid19.jp" redirect
+local-data: "oita.stopcovid19.jp A 0.0.0.0"
+local-zone: "www.dresscovid19.com" redirect
+local-data: "www.dresscovid19.com A 0.0.0.0"
+local-zone: "covid19veri.com" redirect
+local-data: "covid19veri.com A 0.0.0.0"
+local-zone: "cger-covid-19.com" redirect
+local-data: "cger-covid-19.com A 0.0.0.0"
+local-zone: "covid19stuff.com" redirect
+local-data: "covid19stuff.com A 0.0.0.0"
+local-zone: "sincovid19.diresalalibertad.gob.pe" redirect
+local-data: "sincovid19.diresalalibertad.gob.pe A 0.0.0.0"
+local-zone: "charcovid19.com" redirect
+local-data: "charcovid19.com A 0.0.0.0"
+local-zone: "creativesvscovid19.com" redirect
+local-data: "creativesvscovid19.com A 0.0.0.0"
+local-zone: "covid19.talents.sa" redirect
+local-data: "covid19.talents.sa A 0.0.0.0"
+local-zone: "preventcoronavirus.social.hbchost.com" redirect
+local-data: "preventcoronavirus.social.hbchost.com A 0.0.0.0"
+local-zone: "covid-19.live-stream.events" redirect
+local-data: "covid-19.live-stream.events A 0.0.0.0"
+local-zone: "covid19.regionmadrededios.gob.pe" redirect
+local-data: "covid19.regionmadrededios.gob.pe A 0.0.0.0"
+local-zone: "covid19.pikes.org" redirect
+local-data: "covid19.pikes.org A 0.0.0.0"
+local-zone: "autodiscover.business-plan-for-coronavirus-grants.co.uk" redirect
+local-data: "autodiscover.business-plan-for-coronavirus-grants.co.uk A 0.0.0.0"
+local-zone: "covid19.gingernuts.es" redirect
+local-data: "covid19.gingernuts.es A 0.0.0.0"
+local-zone: "covid19.cim-regiaodecoimbra.pt" redirect
+local-data: "covid19.cim-regiaodecoimbra.pt A 0.0.0.0"
+local-zone: "coronavirus.thevapery.co.za" redirect
+local-data: "coronavirus.thevapery.co.za A 0.0.0.0"
+local-zone: "infoscoronavirus.zendesk.com" redirect
+local-data: "infoscoronavirus.zendesk.com A 0.0.0.0"
+local-zone: "coronavirus.hpo.ch" redirect
+local-data: "coronavirus.hpo.ch A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
