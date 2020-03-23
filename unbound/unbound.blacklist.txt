@@ -15570,6 +15570,34 @@ local-zone: "coronavirusaustin.org" redirect
 local-data: "coronavirusaustin.org A 0.0.0.0"
 local-zone: "covid19exhibition.org" redirect
 local-data: "covid19exhibition.org A 0.0.0.0"
+local-zone: "covid19-fr.johanrin.com" redirect
+local-data: "covid19-fr.johanrin.com A 0.0.0.0"
+local-zone: "covid19.gunnisoncounty.org" redirect
+local-data: "covid19.gunnisoncounty.org A 0.0.0.0"
+local-zone: "covid19cellatlas.org" redirect
+local-data: "covid19cellatlas.org A 0.0.0.0"
+local-zone: "updatecovid19.ayulaurence.co.id" redirect
+local-data: "updatecovid19.ayulaurence.co.id A 0.0.0.0"
+local-zone: "www.publicite.coronavirusinfos.ca" redirect
+local-data: "www.publicite.coronavirusinfos.ca A 0.0.0.0"
+local-zone: "ncovid-19.org" redirect
+local-data: "ncovid-19.org A 0.0.0.0"
+local-zone: "covid19.iainsasbabel.ac.id" redirect
+local-data: "covid19.iainsasbabel.ac.id A 0.0.0.0"
+local-zone: "covid-19-stories.com" redirect
+local-data: "covid-19-stories.com A 0.0.0.0"
+local-zone: "stockcoronavirus.com" redirect
+local-data: "stockcoronavirus.com A 0.0.0.0"
+local-zone: "testcovid-19.org" redirect
+local-data: "testcovid-19.org A 0.0.0.0"
+local-zone: "covid19-detector.onrender.com" redirect
+local-data: "covid19-detector.onrender.com A 0.0.0.0"
+local-zone: "covid19noticias.site" redirect
+local-data: "covid19noticias.site A 0.0.0.0"
+local-zone: "mycovid19testresults.com" redirect
+local-data: "mycovid19testresults.com A 0.0.0.0"
+local-zone: "www.covid19.gov.ph" redirect
+local-data: "www.covid19.gov.ph A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -16258,6 +16286,8 @@ local-zone: "orangecountycovid19.com" redirect
 local-data: "orangecountycovid19.com A 0.0.0.0"
 local-zone: "coronavirusayuda.org" redirect
 local-data: "coronavirusayuda.org A 0.0.0.0"
+local-zone: "hackagainstcovid-19.org" redirect
+local-data: "hackagainstcovid-19.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
