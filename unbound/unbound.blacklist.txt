@@ -15792,6 +15792,36 @@ local-zone: "5-add-robots-txt.covid-19-e-learning.sevastjanova.lingvis.io" redir
 local-data: "5-add-robots-txt.covid-19-e-learning.sevastjanova.lingvis.io A 0.0.0.0"
 local-zone: "covid19.eightbanners.com" redirect
 local-data: "covid19.eightbanners.com A 0.0.0.0"
+local-zone: "masks-disposable-protective-equipment-covid19.com" redirect
+local-data: "masks-disposable-protective-equipment-covid19.com A 0.0.0.0"
+local-zone: "brugmann-covid19.penbox.io" redirect
+local-data: "brugmann-covid19.penbox.io A 0.0.0.0"
+local-zone: "covid19.onellar.com" redirect
+local-data: "covid19.onellar.com A 0.0.0.0"
+local-zone: "tearawacovid19.nz" redirect
+local-data: "tearawacovid19.nz A 0.0.0.0"
+local-zone: "covid-19inc.com" redirect
+local-data: "covid-19inc.com A 0.0.0.0"
+local-zone: "covid19.cesag.org" redirect
+local-data: "covid19.cesag.org A 0.0.0.0"
+local-zone: "covid19.techiteasy.in.th" redirect
+local-data: "covid19.techiteasy.in.th A 0.0.0.0"
+local-zone: "covid-19-api-casjay.now.sh" redirect
+local-data: "covid-19-api-casjay.now.sh A 0.0.0.0"
+local-zone: "covid19.agriagen.fr" redirect
+local-data: "covid19.agriagen.fr A 0.0.0.0"
+local-zone: "www.coronavirus-response.finance" redirect
+local-data: "www.coronavirus-response.finance A 0.0.0.0"
+local-zone: "covid19-cemp.fr" redirect
+local-data: "covid19-cemp.fr A 0.0.0.0"
+local-zone: "masks-ce-fda-covid19.com" redirect
+local-data: "masks-ce-fda-covid19.com A 0.0.0.0"
+local-zone: "40d79587.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "40d79587.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19.mtb.co.th" redirect
+local-data: "covid19.mtb.co.th A 0.0.0.0"
+local-zone: "api.40d79587.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.40d79587.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -16494,6 +16524,10 @@ local-zone: "covid19faqs.net" redirect
 local-data: "covid19faqs.net A 0.0.0.0"
 local-zone: "covid19hometestkits.co.uk" redirect
 local-data: "covid19hometestkits.co.uk A 0.0.0.0"
+local-zone: "movimientocoronavirus.es" redirect
+local-data: "movimientocoronavirus.es A 0.0.0.0"
+local-zone: "protect-coronavirus.fr" redirect
+local-data: "protect-coronavirus.fr A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
