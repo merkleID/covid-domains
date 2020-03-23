@@ -15340,6 +15340,38 @@ local-zone: "coronavirus-france.filmenfrance.fr" redirect
 local-data: "coronavirus-france.filmenfrance.fr A 0.0.0.0"
 local-zone: "covid-19pulse.com" redirect
 local-data: "covid-19pulse.com A 0.0.0.0"
+local-zone: "coronavirustestkits.co.za" redirect
+local-data: "coronavirustestkits.co.za A 0.0.0.0"
+local-zone: "covid-19.di.unito.it" redirect
+local-data: "covid-19.di.unito.it A 0.0.0.0"
+local-zone: "covid19ubunye.co.za" redirect
+local-data: "covid19ubunye.co.za A 0.0.0.0"
+local-zone: "coronavirus.housingservices.com" redirect
+local-data: "coronavirus.housingservices.com A 0.0.0.0"
+local-zone: "www.pisacovid19.it" redirect
+local-data: "www.pisacovid19.it A 0.0.0.0"
+local-zone: "coronaviruscuritiba.com.br.excelerplanilhas.com.br" redirect
+local-data: "coronaviruscuritiba.com.br.excelerplanilhas.com.br A 0.0.0.0"
+local-zone: "aaacoronaviruscleaningservices.com.au" redirect
+local-data: "aaacoronaviruscleaningservices.com.au A 0.0.0.0"
+local-zone: "i-survived-coronavirus.com" redirect
+local-data: "i-survived-coronavirus.com A 0.0.0.0"
+local-zone: "covid19.linkgroup.com" redirect
+local-data: "covid19.linkgroup.com A 0.0.0.0"
+local-zone: "coronavirusimpacts.com" redirect
+local-data: "coronavirusimpacts.com A 0.0.0.0"
+local-zone: "www.covid19.gg" redirect
+local-data: "www.covid19.gg A 0.0.0.0"
+local-zone: "covid19.gg" redirect
+local-data: "covid19.gg A 0.0.0.0"
+local-zone: "www.coronavirusimpacts.com" redirect
+local-data: "www.coronavirusimpacts.com A 0.0.0.0"
+local-zone: "coronavirus.iowa.gov" redirect
+local-data: "coronavirus.iowa.gov A 0.0.0.0"
+local-zone: "covid19.nj.gov" redirect
+local-data: "covid19.nj.gov A 0.0.0.0"
+local-zone: "thecovid-19app.com" redirect
+local-data: "thecovid-19app.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -16016,6 +16048,10 @@ local-zone: "pulserascoronavirus.es" redirect
 local-data: "pulserascoronavirus.es A 0.0.0.0"
 local-zone: "protect-coronavirus.fr" redirect
 local-data: "protect-coronavirus.fr A 0.0.0.0"
+local-zone: "covid19guide.me" redirect
+local-data: "covid19guide.me A 0.0.0.0"
+local-zone: "inthetimeofcovid19.com" redirect
+local-data: "inthetimeofcovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
