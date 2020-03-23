@@ -15822,6 +15822,50 @@ local-zone: "covid19.mtb.co.th" redirect
 local-data: "covid19.mtb.co.th A 0.0.0.0"
 local-zone: "api.40d79587.test.covid-19.forms.digital.nhs.uk" redirect
 local-data: "api.40d79587.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "brnosobe.covid19.cognito.cz" redirect
+local-data: "brnosobe.covid19.cognito.cz A 0.0.0.0"
+local-zone: "www.ncov19.sk" redirect
+local-data: "www.ncov19.sk A 0.0.0.0"
+local-zone: "portalapi.vietnamcovid19.info" redirect
+local-data: "portalapi.vietnamcovid19.info A 0.0.0.0"
+local-zone: "brugmann-covid19.penbox.io" redirect
+local-data: "brugmann-covid19.penbox.io A 0.0.0.0"
+local-zone: "covid-19.cidadefutura.net.br" redirect
+local-data: "covid-19.cidadefutura.net.br A 0.0.0.0"
+local-zone: "siagacovid19.lebakkab.go.id" redirect
+local-data: "siagacovid19.lebakkab.go.id A 0.0.0.0"
+local-zone: "covid19birthdefects.com" redirect
+local-data: "covid19birthdefects.com A 0.0.0.0"
+local-zone: "covid19cope.com" redirect
+local-data: "covid19cope.com A 0.0.0.0"
+local-zone: "coronavirus-france.fr" redirect
+local-data: "coronavirus-france.fr A 0.0.0.0"
+local-zone: "ncov-2019.fr" redirect
+local-data: "ncov-2019.fr A 0.0.0.0"
+local-zone: "coronavirus-france.app" redirect
+local-data: "coronavirus-france.app A 0.0.0.0"
+local-zone: "evolutioncovid19.cauxseine.fr" redirect
+local-data: "evolutioncovid19.cauxseine.fr A 0.0.0.0"
+local-zone: "redcovid19mx.net" redirect
+local-data: "redcovid19mx.net A 0.0.0.0"
+local-zone: "coronavirus-scan.ru" redirect
+local-data: "coronavirus-scan.ru A 0.0.0.0"
+local-zone: "coronavirus.iowa.gov" redirect
+local-data: "coronavirus.iowa.gov A 0.0.0.0"
+local-zone: "www.covid-19-sras-cov-2.fr" redirect
+local-data: "www.covid-19-sras-cov-2.fr A 0.0.0.0"
+local-zone: "covid19py.com" redirect
+local-data: "covid19py.com A 0.0.0.0"
+local-zone: "coronavirus-v-mire.ru" redirect
+local-data: "coronavirus-v-mire.ru A 0.0.0.0"
+local-zone: "covid19.cloud.forcare.com" redirect
+local-data: "covid19.cloud.forcare.com A 0.0.0.0"
+local-zone: "covid-19.devel.wdf.cz" redirect
+local-data: "covid-19.devel.wdf.cz A 0.0.0.0"
+local-zone: "kill-the-coronavirus.app" redirect
+local-data: "kill-the-coronavirus.app A 0.0.0.0"
+local-zone: "www.coronavirus-covid19.com.ar" redirect
+local-data: "www.coronavirus-covid19.com.ar A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -16528,6 +16572,8 @@ local-zone: "movimientocoronavirus.es" redirect
 local-data: "movimientocoronavirus.es A 0.0.0.0"
 local-zone: "protect-coronavirus.fr" redirect
 local-data: "protect-coronavirus.fr A 0.0.0.0"
+local-zone: "coronavirusinfoupdate.org" redirect
+local-data: "coronavirusinfoupdate.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
