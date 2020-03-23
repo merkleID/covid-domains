@@ -15390,6 +15390,30 @@ local-zone: "covid19.gianyarkab.go.id" redirect
 local-data: "covid19.gianyarkab.go.id A 0.0.0.0"
 local-zone: "coronavirustracker.in" redirect
 local-data: "coronavirustracker.in A 0.0.0.0"
+local-zone: "join.covid19.melbourne" redirect
+local-data: "join.covid19.melbourne A 0.0.0.0"
+local-zone: "coronavirus-help-center.sciplex.com" redirect
+local-data: "coronavirus-help-center.sciplex.com A 0.0.0.0"
+local-zone: "coronaviruspakistan.info" redirect
+local-data: "coronaviruspakistan.info A 0.0.0.0"
+local-zone: "coronavirusremedy.net" redirect
+local-data: "coronavirusremedy.net A 0.0.0.0"
+local-zone: "covid19grants.net" redirect
+local-data: "covid19grants.net A 0.0.0.0"
+local-zone: "coronavirustherapy.net" redirect
+local-data: "coronavirustherapy.net A 0.0.0.0"
+local-zone: "covid19.sumbawabaratkab.go.id" redirect
+local-data: "covid19.sumbawabaratkab.go.id A 0.0.0.0"
+local-zone: "covid19hub.it" redirect
+local-data: "covid19hub.it A 0.0.0.0"
+local-zone: "covid-19.it" redirect
+local-data: "covid-19.it A 0.0.0.0"
+local-zone: "iscoronavirusdefeatedyet.com" redirect
+local-data: "iscoronavirusdefeatedyet.com A 0.0.0.0"
+local-zone: "coronavirus.uem.mz" redirect
+local-data: "coronavirus.uem.mz A 0.0.0.0"
+local-zone: "coronavirus.terrafermadasogno.it" redirect
+local-data: "coronavirus.terrafermadasogno.it A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -16072,6 +16096,8 @@ local-zone: "inthetimeofcovid19.com" redirect
 local-data: "inthetimeofcovid19.com A 0.0.0.0"
 local-zone: "trackcoronavirus.info" redirect
 local-data: "trackcoronavirus.info A 0.0.0.0"
+local-zone: "2019ncovvirus.com" redirect
+local-data: "2019ncovvirus.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

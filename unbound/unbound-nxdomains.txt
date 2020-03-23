@@ -7694,6 +7694,18 @@ local-zone: "covid19.triasse.com" static
 local-zone: "covid19.ke-network.com" static
 local-zone: "covid19.gianyarkab.go.id" static
 local-zone: "coronavirustracker.in" static
+local-zone: "join.covid19.melbourne" static
+local-zone: "coronavirus-help-center.sciplex.com" static
+local-zone: "coronaviruspakistan.info" static
+local-zone: "coronavirusremedy.net" static
+local-zone: "covid19grants.net" static
+local-zone: "coronavirustherapy.net" static
+local-zone: "covid19.sumbawabaratkab.go.id" static
+local-zone: "covid19hub.it" static
+local-zone: "covid-19.it" static
+local-zone: "iscoronavirusdefeatedyet.com" static
+local-zone: "coronavirus.uem.mz" static
+local-zone: "coronavirus.terrafermadasogno.it" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -8035,6 +8047,7 @@ local-zone: "protect-coronavirus.fr" static
 local-zone: "covid19guide.me" static
 local-zone: "inthetimeofcovid19.com" static
 local-zone: "trackcoronavirus.info" static
+local-zone: "2019ncovvirus.com" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
