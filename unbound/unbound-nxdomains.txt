@@ -7835,6 +7835,18 @@ local-zone: "www.covid19-uk.co.uk" static
 local-zone: "thompsons.covid19-updates.co.uk" static
 local-zone: "deepclean-covid19.co.uk" static
 local-zone: "covid19.elliottrichmond.co.uk" static
+local-zone: "covid19detector.onrender.com" static
+local-zone: "walkinginthetimeofcoronavirus.com" static
+local-zone: "www.walkinginthetimeofcoronavirus.com" static
+local-zone: "covid19resourcemap.com" static
+local-zone: "coronavirus.megashopfurniture.co.in" static
+local-zone: "sars-cov-2.ca" static
+local-zone: "coronavirus.megashopfurniture.co.in" static
+local-zone: "www.covid19virush.tk" static
+local-zone: "corona-virus.apsgeek.com" static
+local-zone: "prevent-coronavirus.space" static
+local-zone: "covid19.bungokab.go.id" static
+local-zone: "covid-19.hbcse.tifr.res.in" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -8181,6 +8193,8 @@ local-zone: "orangecountycovid19.com" static
 local-zone: "coronavirusayuda.org" static
 local-zone: "hackagainstcovid-19.org" static
 local-zone: "o-coronavirus.ru" static
+local-zone: "tmp.covid19app.org" static
+local-zone: "classactioncoronavirus.com" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
