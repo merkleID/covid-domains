@@ -15372,6 +15372,24 @@ local-zone: "covid19.nj.gov" redirect
 local-data: "covid19.nj.gov A 0.0.0.0"
 local-zone: "thecovid-19app.com" redirect
 local-data: "thecovid-19app.com A 0.0.0.0"
+local-zone: "covid19.expressgrafica.com" redirect
+local-data: "covid19.expressgrafica.com A 0.0.0.0"
+local-zone: "covid19helper.com" redirect
+local-data: "covid19helper.com A 0.0.0.0"
+local-zone: "de.covid19tester.eu" redirect
+local-data: "de.covid19tester.eu A 0.0.0.0"
+local-zone: "www.coronaviruscautions.com" redirect
+local-data: "www.coronaviruscautions.com A 0.0.0.0"
+local-zone: "coronaviruscautions.com" redirect
+local-data: "coronaviruscautions.com A 0.0.0.0"
+local-zone: "covid19.triasse.com" redirect
+local-data: "covid19.triasse.com A 0.0.0.0"
+local-zone: "covid19.ke-network.com" redirect
+local-data: "covid19.ke-network.com A 0.0.0.0"
+local-zone: "covid19.gianyarkab.go.id" redirect
+local-data: "covid19.gianyarkab.go.id A 0.0.0.0"
+local-zone: "coronavirustracker.in" redirect
+local-data: "coronavirustracker.in A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -16052,6 +16070,8 @@ local-zone: "covid19guide.me" redirect
 local-data: "covid19guide.me A 0.0.0.0"
 local-zone: "inthetimeofcovid19.com" redirect
 local-data: "inthetimeofcovid19.com A 0.0.0.0"
+local-zone: "trackcoronavirus.info" redirect
+local-data: "trackcoronavirus.info A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
