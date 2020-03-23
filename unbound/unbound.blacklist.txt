@@ -15886,6 +15886,34 @@ local-zone: "covid19live.now.sh" redirect
 local-data: "covid19live.now.sh A 0.0.0.0"
 local-zone: "dev.covid19.commercesignals.com" redirect
 local-data: "dev.covid19.commercesignals.com A 0.0.0.0"
+local-zone: "covid-19-lao.lailaolab.com" redirect
+local-data: "covid-19-lao.lailaolab.com A 0.0.0.0"
+local-zone: "coronavirusos.com" redirect
+local-data: "coronavirusos.com A 0.0.0.0"
+local-zone: "trackcovid-19.live" redirect
+local-data: "trackcovid-19.live A 0.0.0.0"
+local-zone: "covid19.gov.la" redirect
+local-data: "covid19.gov.la A 0.0.0.0"
+local-zone: "cekdiristaging.kawalcovid19.id" redirect
+local-data: "cekdiristaging.kawalcovid19.id A 0.0.0.0"
+local-zone: "covid19.webdufaso.com" redirect
+local-data: "covid19.webdufaso.com A 0.0.0.0"
+local-zone: "covid-19-info.hbcse.tifr.res.in" redirect
+local-data: "covid-19-info.hbcse.tifr.res.in A 0.0.0.0"
+local-zone: "covid19.helensdeveloper.com" redirect
+local-data: "covid19.helensdeveloper.com A 0.0.0.0"
+local-zone: "covid19.infolearn.nl" redirect
+local-data: "covid19.infolearn.nl A 0.0.0.0"
+local-zone: "covid19eesti.ee" redirect
+local-data: "covid19eesti.ee A 0.0.0.0"
+local-zone: "www.covid19response.gr" redirect
+local-data: "www.covid19response.gr A 0.0.0.0"
+local-zone: "www.covid19eesti.ee" redirect
+local-data: "www.covid19eesti.ee A 0.0.0.0"
+local-zone: "livecoronaviruscounter.in" redirect
+local-data: "livecoronaviruscounter.in A 0.0.0.0"
+local-zone: "findcoronavirustest.com" redirect
+local-data: "findcoronavirustest.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
