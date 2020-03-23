@@ -15598,6 +15598,22 @@ local-zone: "mycovid19testresults.com" redirect
 local-data: "mycovid19testresults.com A 0.0.0.0"
 local-zone: "www.covid19.gov.ph" redirect
 local-data: "www.covid19.gov.ph A 0.0.0.0"
+local-zone: "covid19drugs.com" redirect
+local-data: "covid19drugs.com A 0.0.0.0"
+local-zone: "www.thecovid19dataproject.com" redirect
+local-data: "www.thecovid19dataproject.com A 0.0.0.0"
+local-zone: "thecoronavirustestkit.com" redirect
+local-data: "thecoronavirustestkit.com A 0.0.0.0"
+local-zone: "culturacovid19.gov.pt" redirect
+local-data: "culturacovid19.gov.pt A 0.0.0.0"
+local-zone: "www.tipsforcoronavirus.com" redirect
+local-data: "www.tipsforcoronavirus.com A 0.0.0.0"
+local-zone: "tipsforcoronavirus.com" redirect
+local-data: "tipsforcoronavirus.com A 0.0.0.0"
+local-zone: "covid19unemployment.net" redirect
+local-data: "covid19unemployment.net A 0.0.0.0"
+local-zone: "www.iodanticovid19.ru" redirect
+local-data: "www.iodanticovid19.ru A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -16288,6 +16304,8 @@ local-zone: "coronavirusayuda.org" redirect
 local-data: "coronavirusayuda.org A 0.0.0.0"
 local-zone: "hackagainstcovid-19.org" redirect
 local-data: "hackagainstcovid-19.org A 0.0.0.0"
+local-zone: "o-coronavirus.ru" redirect
+local-data: "o-coronavirus.ru A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

@@ -7798,6 +7798,14 @@ local-zone: "covid19-detector.onrender.com" static
 local-zone: "covid19noticias.site" static
 local-zone: "mycovid19testresults.com" static
 local-zone: "www.covid19.gov.ph" static
+local-zone: "covid19drugs.com" static
+local-zone: "www.thecovid19dataproject.com" static
+local-zone: "thecoronavirustestkit.com" static
+local-zone: "culturacovid19.gov.pt" static
+local-zone: "www.tipsforcoronavirus.com" static
+local-zone: "tipsforcoronavirus.com" static
+local-zone: "covid19unemployment.net" static
+local-zone: "www.iodanticovid19.ru" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -8143,6 +8151,7 @@ local-zone: "2019ncovvirus.com" static
 local-zone: "orangecountycovid19.com" static
 local-zone: "coronavirusayuda.org" static
 local-zone: "hackagainstcovid-19.org" static
+local-zone: "o-coronavirus.ru" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
