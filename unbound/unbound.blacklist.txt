@@ -16470,6 +16470,40 @@ local-zone: "coronavirus.inpush.pro" redirect
 local-data: "coronavirus.inpush.pro A 0.0.0.0"
 local-zone: "covid19.tokyomagic.co.uk" redirect
 local-data: "covid19.tokyomagic.co.uk A 0.0.0.0"
+local-zone: "queeselcoronavirus.es" redirect
+local-data: "queeselcoronavirus.es A 0.0.0.0"
+local-zone: "www.coronaviruseducationsupportlewes.co.uk" redirect
+local-data: "www.coronaviruseducationsupportlewes.co.uk A 0.0.0.0"
+local-zone: "emergencycovid19live.com" redirect
+local-data: "emergencycovid19live.com A 0.0.0.0"
+local-zone: "covid19earlydetectionrpm.com" redirect
+local-data: "covid19earlydetectionrpm.com A 0.0.0.0"
+local-zone: "staging.covid-19.dnastack.com" redirect
+local-data: "staging.covid-19.dnastack.com A 0.0.0.0"
+local-zone: "traefik.staging.covid-19.dnastack.com" redirect
+local-data: "traefik.staging.covid-19.dnastack.com A 0.0.0.0"
+local-zone: "beacon-candidate.staging.covid-19.dnastack.com" redirect
+local-data: "beacon-candidate.staging.covid-19.dnastack.com A 0.0.0.0"
+local-zone: "covidentify.covid19.duke.edu" redirect
+local-data: "covidentify.covid19.duke.edu A 0.0.0.0"
+local-zone: "covid19.na.infn.it" redirect
+local-data: "covid19.na.infn.it A 0.0.0.0"
+local-zone: "hti.doctor.coronavirusconsulta.com" redirect
+local-data: "hti.doctor.coronavirusconsulta.com A 0.0.0.0"
+local-zone: "coronavirus.ewanguilleret.fr" redirect
+local-data: "coronavirus.ewanguilleret.fr A 0.0.0.0"
+local-zone: "coronavirus.fatihozpolat.com" redirect
+local-data: "coronavirus.fatihozpolat.com A 0.0.0.0"
+local-zone: "covid19.h2.cl" redirect
+local-data: "covid19.h2.cl A 0.0.0.0"
+local-zone: "sos-covid19.org" redirect
+local-data: "sos-covid19.org A 0.0.0.0"
+local-zone: "covid19.lapig.iesa.ufg.br" redirect
+local-data: "covid19.lapig.iesa.ufg.br A 0.0.0.0"
+local-zone: "covid-19mom.com" redirect
+local-data: "covid-19mom.com A 0.0.0.0"
+local-zone: "covid19.widget.web.id" redirect
+local-data: "covid19.widget.web.id A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
