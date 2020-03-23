@@ -15764,6 +15764,34 @@ local-zone: "www.thrivecovid19.com" redirect
 local-data: "www.thrivecovid19.com A 0.0.0.0"
 local-zone: "medical-supplies-for-covid-19.com" redirect
 local-data: "medical-supplies-for-covid-19.com A 0.0.0.0"
+local-zone: "coronavirusargentina.net" redirect
+local-data: "coronavirusargentina.net A 0.0.0.0"
+local-zone: "covid19corner.co.za" redirect
+local-data: "covid19corner.co.za A 0.0.0.0"
+local-zone: "www.coronavirusfacemask.co.za" redirect
+local-data: "www.coronavirusfacemask.co.za A 0.0.0.0"
+local-zone: "coronavirus.savvydigitalmedia.com" redirect
+local-data: "coronavirus.savvydigitalmedia.com A 0.0.0.0"
+local-zone: "coronavirus.universal.co.za" redirect
+local-data: "coronavirus.universal.co.za A 0.0.0.0"
+local-zone: "offizieller-coronavirus-ratgeber.de" redirect
+local-data: "offizieller-coronavirus-ratgeber.de A 0.0.0.0"
+local-zone: "covid19.padangpariamankab.go.id" redirect
+local-data: "covid19.padangpariamankab.go.id A 0.0.0.0"
+local-zone: "tearawacovid19.nz" redirect
+local-data: "tearawacovid19.nz A 0.0.0.0"
+local-zone: "covid19views.org" redirect
+local-data: "covid19views.org A 0.0.0.0"
+local-zone: "covid19.rw" redirect
+local-data: "covid19.rw A 0.0.0.0"
+local-zone: "covid19.enetelsolutions.com" redirect
+local-data: "covid19.enetelsolutions.com A 0.0.0.0"
+local-zone: "www.theusacovid-19.com" redirect
+local-data: "www.theusacovid-19.com A 0.0.0.0"
+local-zone: "5-add-robots-txt.covid-19-e-learning.sevastjanova.lingvis.io" redirect
+local-data: "5-add-robots-txt.covid-19-e-learning.sevastjanova.lingvis.io A 0.0.0.0"
+local-zone: "covid19.eightbanners.com" redirect
+local-data: "covid19.eightbanners.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
