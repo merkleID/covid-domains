@@ -15252,6 +15252,46 @@ local-zone: "covid19.adamsabangan.com" redirect
 local-data: "covid19.adamsabangan.com A 0.0.0.0"
 local-zone: "covid19.company" redirect
 local-data: "covid19.company A 0.0.0.0"
+local-zone: "www.covid19enlatam.com" redirect
+local-data: "www.covid19enlatam.com A 0.0.0.0"
+local-zone: "mails.covid19cz.cz" redirect
+local-data: "mails.covid19cz.cz A 0.0.0.0"
+local-zone: "covid19.brdshw.net" redirect
+local-data: "covid19.brdshw.net A 0.0.0.0"
+local-zone: "covid19.andygroove.com" redirect
+local-data: "covid19.andygroove.com A 0.0.0.0"
+local-zone: "covid19sb.com" redirect
+local-data: "covid19sb.com A 0.0.0.0"
+local-zone: "covid19tester.de" redirect
+local-data: "covid19tester.de A 0.0.0.0"
+local-zone: "cdn.covid19checker.de" redirect
+local-data: "cdn.covid19checker.de A 0.0.0.0"
+local-zone: "covid19wiki.de" redirect
+local-data: "covid19wiki.de A 0.0.0.0"
+local-zone: "covid19-rheuma.de" redirect
+local-data: "covid19-rheuma.de A 0.0.0.0"
+local-zone: "coronavirus-liveticker.de" redirect
+local-data: "coronavirus-liveticker.de A 0.0.0.0"
+local-zone: "www.coronavirus-2020.de" redirect
+local-data: "www.coronavirus-2020.de A 0.0.0.0"
+local-zone: "covid19-blog.de" redirect
+local-data: "covid19-blog.de A 0.0.0.0"
+local-zone: "covid19tester.eu" redirect
+local-data: "covid19tester.eu A 0.0.0.0"
+local-zone: "corona-virus-news.de" redirect
+local-data: "corona-virus-news.de A 0.0.0.0"
+local-zone: "covid-19-news.xyz" redirect
+local-data: "covid-19-news.xyz A 0.0.0.0"
+local-zone: "whhatiscoronavirus.com" redirect
+local-data: "whhatiscoronavirus.com A 0.0.0.0"
+local-zone: "uk-coronavirus.xyz" redirect
+local-data: "uk-coronavirus.xyz A 0.0.0.0"
+local-zone: "covid-19news.xyz" redirect
+local-data: "covid-19news.xyz A 0.0.0.0"
+local-zone: "marylandcovid-19.com" redirect
+local-data: "marylandcovid-19.com A 0.0.0.0"
+local-zone: "covid-19art.com" redirect
+local-data: "covid-19art.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -15924,6 +15964,8 @@ local-zone: "update-covid19.com" redirect
 local-data: "update-covid19.com A 0.0.0.0"
 local-zone: "covid-19deepcleaning.co.uk" redirect
 local-data: "covid-19deepcleaning.co.uk A 0.0.0.0"
+local-zone: "pulserascoronavirus.es" redirect
+local-data: "pulserascoronavirus.es A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
