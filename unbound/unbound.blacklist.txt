@@ -15440,6 +15440,32 @@ local-zone: "coronavirus.mg" redirect
 local-data: "coronavirus.mg A 0.0.0.0"
 local-zone: "corona-virus-test.shop" redirect
 local-data: "corona-virus-test.shop A 0.0.0.0"
+local-zone: "coronavirusgroup.co.uk" redirect
+local-data: "coronavirusgroup.co.uk A 0.0.0.0"
+local-zone: "covid19tracking.narrativa.com" redirect
+local-data: "covid19tracking.narrativa.com A 0.0.0.0"
+local-zone: "api.covid19tracking.narrativa.com" redirect
+local-data: "api.covid19tracking.narrativa.com A 0.0.0.0"
+local-zone: "covid19vaxdev.info" redirect
+local-data: "covid19vaxdev.info A 0.0.0.0"
+local-zone: "covid19imt.garp.sandbox.jxeeno.com" redirect
+local-data: "covid19imt.garp.sandbox.jxeeno.com A 0.0.0.0"
+local-zone: "coronavirustherapy.net" redirect
+local-data: "coronavirustherapy.net A 0.0.0.0"
+local-zone: "coronavirusremedy.net" redirect
+local-data: "coronavirusremedy.net A 0.0.0.0"
+local-zone: "covid19grants.net" redirect
+local-data: "covid19grants.net A 0.0.0.0"
+local-zone: "covid19vaxdev.net" redirect
+local-data: "covid19vaxdev.net A 0.0.0.0"
+local-zone: "www.covid19vaxdev.net" redirect
+local-data: "www.covid19vaxdev.net A 0.0.0.0"
+local-zone: "covid19.advenio.mx" redirect
+local-data: "covid19.advenio.mx A 0.0.0.0"
+local-zone: "novelcoronaviruskits.com" redirect
+local-data: "novelcoronaviruskits.com A 0.0.0.0"
+local-zone: "covid19.wangayahospital.com" redirect
+local-data: "covid19.wangayahospital.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -16124,6 +16150,8 @@ local-zone: "trackcoronavirus.info" redirect
 local-data: "trackcoronavirus.info A 0.0.0.0"
 local-zone: "2019ncovvirus.com" redirect
 local-data: "2019ncovvirus.com A 0.0.0.0"
+local-zone: "orangecountycovid19.com" redirect
+local-data: "orangecountycovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

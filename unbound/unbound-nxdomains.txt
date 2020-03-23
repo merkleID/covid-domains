@@ -7719,6 +7719,19 @@ local-zone: "mexicovid19.com" static
 local-zone: "covid-19facemasks.com" static
 local-zone: "coronavirus.mg" static
 local-zone: "corona-virus-test.shop" static
+local-zone: "coronavirusgroup.co.uk" static
+local-zone: "covid19tracking.narrativa.com" static
+local-zone: "api.covid19tracking.narrativa.com" static
+local-zone: "covid19vaxdev.info" static
+local-zone: "covid19imt.garp.sandbox.jxeeno.com" static
+local-zone: "coronavirustherapy.net" static
+local-zone: "coronavirusremedy.net" static
+local-zone: "covid19grants.net" static
+local-zone: "covid19vaxdev.net" static
+local-zone: "www.covid19vaxdev.net" static
+local-zone: "covid19.advenio.mx" static
+local-zone: "novelcoronaviruskits.com" static
+local-zone: "covid19.wangayahospital.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -8061,6 +8074,7 @@ local-zone: "covid19guide.me" static
 local-zone: "inthetimeofcovid19.com" static
 local-zone: "trackcoronavirus.info" static
 local-zone: "2019ncovvirus.com" static
+local-zone: "orangecountycovid19.com" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
