@@ -15968,6 +15968,30 @@ local-zone: "coronavirusvaccineupdate.com" redirect
 local-data: "coronavirusvaccineupdate.com A 0.0.0.0"
 local-zone: "socialcovid19.dickoins.website" redirect
 local-data: "socialcovid19.dickoins.website A 0.0.0.0"
+local-zone: "covid19.luwukab.go.id" redirect
+local-data: "covid19.luwukab.go.id A 0.0.0.0"
+local-zone: "coronavirus.itaborai.rj.gov.br" redirect
+local-data: "coronavirus.itaborai.rj.gov.br A 0.0.0.0"
+local-zone: "www.corona-virus-health.in" redirect
+local-data: "www.corona-virus-health.in A 0.0.0.0"
+local-zone: "covid19.zz08.hr" redirect
+local-data: "covid19.zz08.hr A 0.0.0.0"
+local-zone: "anticoronavirus.pro" redirect
+local-data: "anticoronavirus.pro A 0.0.0.0"
+local-zone: "coronaviruss.ir" redirect
+local-data: "coronaviruss.ir A 0.0.0.0"
+local-zone: "rapidtest.relawancovid19.id" redirect
+local-data: "rapidtest.relawancovid19.id A 0.0.0.0"
+local-zone: "www.anti-covid19-store.com" redirect
+local-data: "www.anti-covid19-store.com A 0.0.0.0"
+local-zone: "covid19.sea.innoenergy.com" redirect
+local-data: "covid19.sea.innoenergy.com A 0.0.0.0"
+local-zone: "covid19.adejonatan.id" redirect
+local-data: "covid19.adejonatan.id A 0.0.0.0"
+local-zone: "covid19.meditel.com.co" redirect
+local-data: "covid19.meditel.com.co A 0.0.0.0"
+local-zone: "covid19tracker.now.sh" redirect
+local-data: "covid19tracker.now.sh A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -16680,6 +16704,10 @@ local-zone: "covid19info.at" redirect
 local-data: "covid19info.at A 0.0.0.0"
 local-zone: "proticovid19.sk" redirect
 local-data: "proticovid19.sk A 0.0.0.0"
+local-zone: "coronavirus.calabria.it" redirect
+local-data: "coronavirus.calabria.it A 0.0.0.0"
+local-zone: "coronavirusreunion.fr" redirect
+local-data: "coronavirusreunion.fr A 0.0.0.0"
 local-zone: "coronavirus.calabria.it" redirect
 local-data: "coronavirus.calabria.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
