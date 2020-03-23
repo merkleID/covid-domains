@@ -17042,6 +17042,28 @@ local-zone: "covid19.eesingenieria.cl" redirect
 local-data: "covid19.eesingenieria.cl A 0.0.0.0"
 local-zone: "covid19.nasimco.org" redirect
 local-data: "covid19.nasimco.org A 0.0.0.0"
+local-zone: "covid19.19tools.com" redirect
+local-data: "covid19.19tools.com A 0.0.0.0"
+local-zone: "www.thegoodnewscoronavirus.com" redirect
+local-data: "www.thegoodnewscoronavirus.com A 0.0.0.0"
+local-zone: "ozonecovid19.com" redirect
+local-data: "ozonecovid19.com A 0.0.0.0"
+local-zone: "www.nancovid19.ca" redirect
+local-data: "www.nancovid19.ca A 0.0.0.0"
+local-zone: "covid-19liveaid.org" redirect
+local-data: "covid-19liveaid.org A 0.0.0.0"
+local-zone: "affop-covid19-soignants.care" redirect
+local-data: "affop-covid19-soignants.care A 0.0.0.0"
+local-zone: "covid19testcy.com" redirect
+local-data: "covid19testcy.com A 0.0.0.0"
+local-zone: "www.topcovid19necessities.com" redirect
+local-data: "www.topcovid19necessities.com A 0.0.0.0"
+local-zone: "siagacovid19.lebakkab.go.id" redirect
+local-data: "siagacovid19.lebakkab.go.id A 0.0.0.0"
+local-zone: "truecoronaviruscases.com" redirect
+local-data: "truecoronaviruscases.com A 0.0.0.0"
+local-zone: "www.truecoronaviruscases.com" redirect
+local-data: "www.truecoronaviruscases.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -17804,6 +17826,8 @@ local-zone: "humanity-against-coronavirus.com" redirect
 local-data: "humanity-against-coronavirus.com A 0.0.0.0"
 local-zone: "ptsdcoronavirus.com" redirect
 local-data: "ptsdcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.sandcats.io" redirect
+local-data: "covid19.sandcats.io A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

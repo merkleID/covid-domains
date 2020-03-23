@@ -8520,6 +8520,17 @@ local-zone: "covid-19.mobivision.fr" static
 local-zone: "covid19supportng.org" static
 local-zone: "covid19.eesingenieria.cl" static
 local-zone: "covid19.nasimco.org" static
+local-zone: "covid19.19tools.com" static
+local-zone: "www.thegoodnewscoronavirus.com" static
+local-zone: "ozonecovid19.com" static
+local-zone: "www.nancovid19.ca" static
+local-zone: "covid-19liveaid.org" static
+local-zone: "affop-covid19-soignants.care" static
+local-zone: "covid19testcy.com" static
+local-zone: "www.topcovid19necessities.com" static
+local-zone: "siagacovid19.lebakkab.go.id" static
+local-zone: "truecoronaviruscases.com" static
+local-zone: "www.truecoronaviruscases.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -8901,6 +8912,7 @@ local-zone: "coronavirussurvivor.eu" static
 local-zone: "cdc-covid19.com" static
 local-zone: "humanity-against-coronavirus.com" static
 local-zone: "ptsdcoronavirus.com" static
+local-zone: "covid19.sandcats.io" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
