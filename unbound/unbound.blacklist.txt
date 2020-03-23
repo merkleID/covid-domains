@@ -16906,6 +16906,46 @@ local-zone: "nsbcovid19.com" redirect
 local-data: "nsbcovid19.com A 0.0.0.0"
 local-zone: "www.cascoronavirus.fr" redirect
 local-data: "www.cascoronavirus.fr A 0.0.0.0"
+local-zone: "hawaiicovid19initiative.org" redirect
+local-data: "hawaiicovid19initiative.org A 0.0.0.0"
+local-zone: "www.theusacovid-19.com" redirect
+local-data: "www.theusacovid-19.com A 0.0.0.0"
+local-zone: "online-coronavirus.de" redirect
+local-data: "online-coronavirus.de A 0.0.0.0"
+local-zone: "coronavirus.oncvisual.com" redirect
+local-data: "coronavirus.oncvisual.com A 0.0.0.0"
+local-zone: "covid-19.qcu.org" redirect
+local-data: "covid-19.qcu.org A 0.0.0.0"
+local-zone: "www.masquescovid19.com" redirect
+local-data: "www.masquescovid19.com A 0.0.0.0"
+local-zone: "masquescovid19.com" redirect
+local-data: "masquescovid19.com A 0.0.0.0"
+local-zone: "ss4covid-19.com" redirect
+local-data: "ss4covid-19.com A 0.0.0.0"
+local-zone: "trackcovid19.ca" redirect
+local-data: "trackcovid19.ca A 0.0.0.0"
+local-zone: "unitedcovid-19database.com" redirect
+local-data: "unitedcovid-19database.com A 0.0.0.0"
+local-zone: "covid-19.lallemand.com" redirect
+local-data: "covid-19.lallemand.com A 0.0.0.0"
+local-zone: "covid19.svots.edu" redirect
+local-data: "covid19.svots.edu A 0.0.0.0"
+local-zone: "covid19.powerandharmony.be" redirect
+local-data: "covid19.powerandharmony.be A 0.0.0.0"
+local-zone: "covid-19supplies.co.za" redirect
+local-data: "covid-19supplies.co.za A 0.0.0.0"
+local-zone: "covid19risk.ai" redirect
+local-data: "covid19risk.ai A 0.0.0.0"
+local-zone: "trackcovid19.ca" redirect
+local-data: "trackcovid19.ca A 0.0.0.0"
+local-zone: "covid-19warmline.org" redirect
+local-data: "covid-19warmline.org A 0.0.0.0"
+local-zone: "fightcovid19.powerzoneservices.com" redirect
+local-data: "fightcovid19.powerzoneservices.com A 0.0.0.0"
+local-zone: "stopthechinavirus.com" redirect
+local-data: "stopthechinavirus.com A 0.0.0.0"
+local-zone: "precautionfromcoronavirus.com" redirect
+local-data: "precautionfromcoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -17662,6 +17702,10 @@ local-zone: "coronavirushometestkits.co.uk" redirect
 local-data: "coronavirushometestkits.co.uk A 0.0.0.0"
 local-zone: "coronavirussurvivor.eu" redirect
 local-data: "coronavirussurvivor.eu A 0.0.0.0"
+local-zone: "cdc-covid19.com" redirect
+local-data: "cdc-covid19.com A 0.0.0.0"
+local-zone: "humanity-against-coronavirus.com" redirect
+local-data: "humanity-against-coronavirus.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
