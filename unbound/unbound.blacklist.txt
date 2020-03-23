@@ -15914,6 +15914,60 @@ local-zone: "livecoronaviruscounter.in" redirect
 local-data: "livecoronaviruscounter.in A 0.0.0.0"
 local-zone: "findcoronavirustest.com" redirect
 local-data: "findcoronavirustest.com A 0.0.0.0"
+local-zone: "aigs-covid19.be" redirect
+local-data: "aigs-covid19.be A 0.0.0.0"
+local-zone: "covid-19.snuipp.fr" redirect
+local-data: "covid-19.snuipp.fr A 0.0.0.0"
+local-zone: "covid19.srv.br" redirect
+local-data: "covid19.srv.br A 0.0.0.0"
+local-zone: "covid19.hamels.be" redirect
+local-data: "covid19.hamels.be A 0.0.0.0"
+local-zone: "covid19-home-office.de" redirect
+local-data: "covid19-home-office.de A 0.0.0.0"
+local-zone: "covid19-updates.rohitnaik.in" redirect
+local-data: "covid19-updates.rohitnaik.in A 0.0.0.0"
+local-zone: "covid19-update.rohitnaik.in" redirect
+local-data: "covid19-update.rohitnaik.in A 0.0.0.0"
+local-zone: "covid19supply.ca" redirect
+local-data: "covid19supply.ca A 0.0.0.0"
+local-zone: "demo.covid19cdn.jp" redirect
+local-data: "demo.covid19cdn.jp A 0.0.0.0"
+local-zone: "jira.coronavirus.de" redirect
+local-data: "jira.coronavirus.de A 0.0.0.0"
+local-zone: "www.attestation-deplacement-covid-19.fr" redirect
+local-data: "www.attestation-deplacement-covid-19.fr A 0.0.0.0"
+local-zone: "thecovid19help.center" redirect
+local-data: "thecovid19help.center A 0.0.0.0"
+local-zone: "coronavirus-selftestkits.co.uk" redirect
+local-data: "coronavirus-selftestkits.co.uk A 0.0.0.0"
+local-zone: "coronavirus.scvo.org" redirect
+local-data: "coronavirus.scvo.org A 0.0.0.0"
+local-zone: "covid19rapidhometest.com" redirect
+local-data: "covid19rapidhometest.com A 0.0.0.0"
+local-zone: "coronavirus.scvo.org.uk" redirect
+local-data: "coronavirus.scvo.org.uk A 0.0.0.0"
+local-zone: "coronavirus.buscoterapia.com.br" redirect
+local-data: "coronavirus.buscoterapia.com.br A 0.0.0.0"
+local-zone: "ebco-coronavirus.com.br" redirect
+local-data: "ebco-coronavirus.com.br A 0.0.0.0"
+local-zone: "przewodnik.covid19.chwp.pl" redirect
+local-data: "przewodnik.covid19.chwp.pl A 0.0.0.0"
+local-zone: "www.przewodnik.covid19.chwp.pl" redirect
+local-data: "www.przewodnik.covid19.chwp.pl A 0.0.0.0"
+local-zone: "covid19news.com.ng" redirect
+local-data: "covid19news.com.ng A 0.0.0.0"
+local-zone: "covid19trk.dostep.id" redirect
+local-data: "covid19trk.dostep.id A 0.0.0.0"
+local-zone: "covid19news.com.ng" redirect
+local-data: "covid19news.com.ng A 0.0.0.0"
+local-zone: "www.newcoronavirus.co" redirect
+local-data: "www.newcoronavirus.co A 0.0.0.0"
+local-zone: "newcoronavirus.co" redirect
+local-data: "newcoronavirus.co A 0.0.0.0"
+local-zone: "coronavirusvaccineupdate.com" redirect
+local-data: "coronavirusvaccineupdate.com A 0.0.0.0"
+local-zone: "socialcovid19.dickoins.website" redirect
+local-data: "socialcovid19.dickoins.website A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -16624,6 +16678,10 @@ local-zone: "coronavirusinfoupdate.org" redirect
 local-data: "coronavirusinfoupdate.org A 0.0.0.0"
 local-zone: "covid19info.at" redirect
 local-data: "covid19info.at A 0.0.0.0"
+local-zone: "proticovid19.sk" redirect
+local-data: "proticovid19.sk A 0.0.0.0"
+local-zone: "coronavirus.calabria.it" redirect
+local-data: "coronavirus.calabria.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
