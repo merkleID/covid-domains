@@ -16128,6 +16128,42 @@ local-zone: "www.covid-19-signs.org" redirect
 local-data: "www.covid-19-signs.org A 0.0.0.0"
 local-zone: "covid19aaz.com" redirect
 local-data: "covid19aaz.com A 0.0.0.0"
+local-zone: "imagingcovid19ai.eu" redirect
+local-data: "imagingcovid19ai.eu A 0.0.0.0"
+local-zone: "covid19-mig.now.sh" redirect
+local-data: "covid19-mig.now.sh A 0.0.0.0"
+local-zone: "covid19.mighil.com" redirect
+local-data: "covid19.mighil.com A 0.0.0.0"
+local-zone: "coronavirus.cchealth.org" redirect
+local-data: "coronavirus.cchealth.org A 0.0.0.0"
+local-zone: "databronnencovid19.nl" redirect
+local-data: "databronnencovid19.nl A 0.0.0.0"
+local-zone: "covid19.speakapp.mk" redirect
+local-data: "covid19.speakapp.mk A 0.0.0.0"
+local-zone: "covid-19.beecardia.com" redirect
+local-data: "covid-19.beecardia.com A 0.0.0.0"
+local-zone: "coronavirus-epidemic.com" redirect
+local-data: "coronavirus-epidemic.com A 0.0.0.0"
+local-zone: "coronavirus-vaccine.co" redirect
+local-data: "coronavirus-vaccine.co A 0.0.0.0"
+local-zone: "coronavirus.santjust.net" redirect
+local-data: "coronavirus.santjust.net A 0.0.0.0"
+local-zone: "business.corona-virustalk.com" redirect
+local-data: "business.corona-virustalk.com A 0.0.0.0"
+local-zone: "china-fluoride.com" redirect
+local-data: "china-fluoride.com A 0.0.0.0"
+local-zone: "coronaviruscannabis.com" redirect
+local-data: "coronaviruscannabis.com A 0.0.0.0"
+local-zone: "coronavirustequila.com" redirect
+local-data: "coronavirustequila.com A 0.0.0.0"
+local-zone: "chroniclingcoronavirus.com" redirect
+local-data: "chroniclingcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.datapedia.id" redirect
+local-data: "covid19.datapedia.id A 0.0.0.0"
+local-zone: "www.vntestkit-covid19.com" redirect
+local-data: "www.vntestkit-covid19.com A 0.0.0.0"
+local-zone: "gestion-impact-covid19.com" redirect
+local-data: "gestion-impact-covid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -16846,6 +16882,10 @@ local-zone: "coronavirusreunion.fr" redirect
 local-data: "coronavirusreunion.fr A 0.0.0.0"
 local-zone: "coronavirus.calabria.it" redirect
 local-data: "coronavirus.calabria.it A 0.0.0.0"
+local-zone: "covid19.biodati.com" redirect
+local-data: "covid19.biodati.com A 0.0.0.0"
+local-zone: "covid19boards.com" redirect
+local-data: "covid19boards.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
