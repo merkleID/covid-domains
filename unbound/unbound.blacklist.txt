@@ -15696,6 +15696,48 @@ local-zone: "covid19.bungokab.go.id" redirect
 local-data: "covid19.bungokab.go.id A 0.0.0.0"
 local-zone: "covid-19.hbcse.tifr.res.in" redirect
 local-data: "covid-19.hbcse.tifr.res.in A 0.0.0.0"
+local-zone: "coronavirus.dioximex.com" redirect
+local-data: "coronavirus.dioximex.com A 0.0.0.0"
+local-zone: "en.covid19guides.com" redirect
+local-data: "en.covid19guides.com A 0.0.0.0"
+local-zone: "coronavirus-us.jamesonsaunders.com" redirect
+local-data: "coronavirus-us.jamesonsaunders.com A 0.0.0.0"
+local-zone: "covid-19.golf" redirect
+local-data: "covid-19.golf A 0.0.0.0"
+local-zone: "covid19.golf" redirect
+local-data: "covid19.golf A 0.0.0.0"
+local-zone: "coronavirus.biz.ua" redirect
+local-data: "coronavirus.biz.ua A 0.0.0.0"
+local-zone: "covid19.jupiterhms.com" redirect
+local-data: "covid19.jupiterhms.com A 0.0.0.0"
+local-zone: "coronavirus-volunteers.co.uk" redirect
+local-data: "coronavirus-volunteers.co.uk A 0.0.0.0"
+local-zone: "www.coronavirusessentials.co.uk" redirect
+local-data: "www.coronavirusessentials.co.uk A 0.0.0.0"
+local-zone: "covid-19athometest.co.uk" redirect
+local-data: "covid-19athometest.co.uk A 0.0.0.0"
+local-zone: "coronaviruswoking.co.uk" redirect
+local-data: "coronaviruswoking.co.uk A 0.0.0.0"
+local-zone: "coronavirus-info.co.uk" redirect
+local-data: "coronavirus-info.co.uk A 0.0.0.0"
+local-zone: "dbcovid19.lactapp.es" redirect
+local-data: "dbcovid19.lactapp.es A 0.0.0.0"
+local-zone: "www.covid-19athometest.co.uk" redirect
+local-data: "www.covid-19athometest.co.uk A 0.0.0.0"
+local-zone: "covid-19rapidtest.co.uk" redirect
+local-data: "covid-19rapidtest.co.uk A 0.0.0.0"
+local-zone: "www.covid-19rapidtest.co.uk" redirect
+local-data: "www.covid-19rapidtest.co.uk A 0.0.0.0"
+local-zone: "www.covid19-uk.co.uk" redirect
+local-data: "www.covid19-uk.co.uk A 0.0.0.0"
+local-zone: "thompsons.covid19-updates.co.uk" redirect
+local-data: "thompsons.covid19-updates.co.uk A 0.0.0.0"
+local-zone: "covid19.elliottrichmond.co.uk" redirect
+local-data: "covid19.elliottrichmond.co.uk A 0.0.0.0"
+local-zone: "covid19.company" redirect
+local-data: "covid19.company A 0.0.0.0"
+local-zone: "coronavirusgroup.co.uk" redirect
+local-data: "coronavirusgroup.co.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -16392,6 +16434,12 @@ local-zone: "tmp.covid19app.org" redirect
 local-data: "tmp.covid19app.org A 0.0.0.0"
 local-zone: "classactioncoronavirus.com" redirect
 local-data: "classactioncoronavirus.com A 0.0.0.0"
+local-zone: "dev.covid19app.org" redirect
+local-data: "dev.covid19app.org A 0.0.0.0"
+local-zone: "covid19faqs.net" redirect
+local-data: "covid19faqs.net A 0.0.0.0"
+local-zone: "covid19hometestkits.co.uk" redirect
+local-data: "covid19hometestkits.co.uk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
