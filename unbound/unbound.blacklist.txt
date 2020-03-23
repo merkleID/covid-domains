@@ -15292,6 +15292,22 @@ local-zone: "marylandcovid-19.com" redirect
 local-data: "marylandcovid-19.com A 0.0.0.0"
 local-zone: "covid-19art.com" redirect
 local-data: "covid-19art.com A 0.0.0.0"
+local-zone: "covid19worldhealth.com" redirect
+local-data: "covid19worldhealth.com A 0.0.0.0"
+local-zone: "coronavirus-portugal.canalfoto.org" redirect
+local-data: "coronavirus-portugal.canalfoto.org A 0.0.0.0"
+local-zone: "coronaviruschina.ml" redirect
+local-data: "coronaviruschina.ml A 0.0.0.0"
+local-zone: "covid19.itessentials.ca" redirect
+local-data: "covid19.itessentials.ca A 0.0.0.0"
+local-zone: "covid19.amo0.com" redirect
+local-data: "covid19.amo0.com A 0.0.0.0"
+local-zone: "coronavirusabout.com" redirect
+local-data: "coronavirusabout.com A 0.0.0.0"
+local-zone: "covid19.treelineinteractive.com" redirect
+local-data: "covid19.treelineinteractive.com A 0.0.0.0"
+local-zone: "covid19.com.pk" redirect
+local-data: "covid19.com.pk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -15966,6 +15982,8 @@ local-zone: "covid-19deepcleaning.co.uk" redirect
 local-data: "covid-19deepcleaning.co.uk A 0.0.0.0"
 local-zone: "pulserascoronavirus.es" redirect
 local-data: "pulserascoronavirus.es A 0.0.0.0"
+local-zone: "protect-coronavirus.fr" redirect
+local-data: "protect-coronavirus.fr A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

@@ -7645,6 +7645,14 @@ local-zone: "uk-coronavirus.xyz" static
 local-zone: "covid-19news.xyz" static
 local-zone: "marylandcovid-19.com" static
 local-zone: "covid-19art.com" static
+local-zone: "covid19worldhealth.com" static
+local-zone: "coronavirus-portugal.canalfoto.org" static
+local-zone: "coronaviruschina.ml" static
+local-zone: "covid19.itessentials.ca" static
+local-zone: "covid19.amo0.com" static
+local-zone: "coronavirusabout.com" static
+local-zone: "covid19.treelineinteractive.com" static
+local-zone: "covid19.com.pk" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -7982,6 +7990,7 @@ local-zone: "countingcovid19.com" static
 local-zone: "update-covid19.com" static
 local-zone: "covid-19deepcleaning.co.uk" static
 local-zone: "pulserascoronavirus.es" static
+local-zone: "protect-coronavirus.fr" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
