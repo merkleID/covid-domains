@@ -17016,6 +17016,32 @@ local-zone: "covid19resources.ca" redirect
 local-data: "covid19resources.ca A 0.0.0.0"
 local-zone: "covid19.survey-bhp.com" redirect
 local-data: "covid19.survey-bhp.com A 0.0.0.0"
+local-zone: "covid19responsefund.org" redirect
+local-data: "covid19responsefund.org A 0.0.0.0"
+local-zone: "www.covid19pk.info" redirect
+local-data: "www.covid19pk.info A 0.0.0.0"
+local-zone: "responsetocovid19.com" redirect
+local-data: "responsetocovid19.com A 0.0.0.0"
+local-zone: "ppcovid19.tapinkab.go.id" redirect
+local-data: "ppcovid19.tapinkab.go.id A 0.0.0.0"
+local-zone: "coronavirushealthycures.com" redirect
+local-data: "coronavirushealthycures.com A 0.0.0.0"
+local-zone: "covid19-static.cdn-apple.com" redirect
+local-data: "covid19-static.cdn-apple.com A 0.0.0.0"
+local-zone: "covid-19liveaid.org" redirect
+local-data: "covid-19liveaid.org A 0.0.0.0"
+local-zone: "isurvivedthecovid19.org" redirect
+local-data: "isurvivedthecovid19.org A 0.0.0.0"
+local-zone: "coronavirusglobalimpact.rainbowgist.com" redirect
+local-data: "coronavirusglobalimpact.rainbowgist.com A 0.0.0.0"
+local-zone: "covid-19.mobivision.fr" redirect
+local-data: "covid-19.mobivision.fr A 0.0.0.0"
+local-zone: "covid19supportng.org" redirect
+local-data: "covid19supportng.org A 0.0.0.0"
+local-zone: "covid19.eesingenieria.cl" redirect
+local-data: "covid19.eesingenieria.cl A 0.0.0.0"
+local-zone: "covid19.nasimco.org" redirect
+local-data: "covid19.nasimco.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
