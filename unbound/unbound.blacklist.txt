@@ -16946,6 +16946,34 @@ local-zone: "stopthechinavirus.com" redirect
 local-data: "stopthechinavirus.com A 0.0.0.0"
 local-zone: "precautionfromcoronavirus.com" redirect
 local-data: "precautionfromcoronavirus.com A 0.0.0.0"
+local-zone: "trackcovid19.ca" redirect
+local-data: "trackcovid19.ca A 0.0.0.0"
+local-zone: "covid19.ivare.com.br" redirect
+local-data: "covid19.ivare.com.br A 0.0.0.0"
+local-zone: "covid-19.classyng.com" redirect
+local-data: "covid-19.classyng.com A 0.0.0.0"
+local-zone: "covid-19.chelveston.org.uk" redirect
+local-data: "covid-19.chelveston.org.uk A 0.0.0.0"
+local-zone: "fifa-covid19.be" redirect
+local-data: "fifa-covid19.be A 0.0.0.0"
+local-zone: "covid19liveupdate.info" redirect
+local-data: "covid19liveupdate.info A 0.0.0.0"
+local-zone: "coronavirusuk.live" redirect
+local-data: "coronavirusuk.live A 0.0.0.0"
+local-zone: "rcp-covid19.com" redirect
+local-data: "rcp-covid19.com A 0.0.0.0"
+local-zone: "eugene.responsetocovid19.com" redirect
+local-data: "eugene.responsetocovid19.com A 0.0.0.0"
+local-zone: "www.covid-19.update.jevezo.com" redirect
+local-data: "www.covid-19.update.jevezo.com A 0.0.0.0"
+local-zone: "fundacionayudacoronavirus.xyz" redirect
+local-data: "fundacionayudacoronavirus.xyz A 0.0.0.0"
+local-zone: "www.ribroadcasterscovid19.com" redirect
+local-data: "www.ribroadcasterscovid19.com A 0.0.0.0"
+local-zone: "unidosxelcoronavirus.net" redirect
+local-data: "unidosxelcoronavirus.net A 0.0.0.0"
+local-zone: "covid19kitsonline.com" redirect
+local-data: "covid19kitsonline.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -17706,6 +17734,8 @@ local-zone: "cdc-covid19.com" redirect
 local-data: "cdc-covid19.com A 0.0.0.0"
 local-zone: "humanity-against-coronavirus.com" redirect
 local-data: "humanity-against-coronavirus.com A 0.0.0.0"
+local-zone: "ptsdcoronavirus.com" redirect
+local-data: "ptsdcoronavirus.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
