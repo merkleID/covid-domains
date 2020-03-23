@@ -15414,6 +15414,32 @@ local-zone: "coronavirus.uem.mz" redirect
 local-data: "coronavirus.uem.mz A 0.0.0.0"
 local-zone: "coronavirus.terrafermadasogno.it" redirect
 local-data: "coronavirus.terrafermadasogno.it A 0.0.0.0"
+local-zone: "vencercovid19.com" redirect
+local-data: "vencercovid19.com A 0.0.0.0"
+local-zone: "covid19.tourneyboss.app" redirect
+local-data: "covid19.tourneyboss.app A 0.0.0.0"
+local-zone: "stopcovid19.jp" redirect
+local-data: "stopcovid19.jp A 0.0.0.0"
+local-zone: "www.stopcovid19.jp" redirect
+local-data: "www.stopcovid19.jp A 0.0.0.0"
+local-zone: "isurvivedcoronavirus.life" redirect
+local-data: "isurvivedcoronavirus.life A 0.0.0.0"
+local-zone: "meetcovid19.com" redirect
+local-data: "meetcovid19.com A 0.0.0.0"
+local-zone: "coronaviruscautions.com" redirect
+local-data: "coronaviruscautions.com A 0.0.0.0"
+local-zone: "covid19.danielmartinez.co.nz" redirect
+local-data: "covid19.danielmartinez.co.nz A 0.0.0.0"
+local-zone: "coronaviruscautions.com" redirect
+local-data: "coronaviruscautions.com A 0.0.0.0"
+local-zone: "mexicovid19.com" redirect
+local-data: "mexicovid19.com A 0.0.0.0"
+local-zone: "covid-19facemasks.com" redirect
+local-data: "covid-19facemasks.com A 0.0.0.0"
+local-zone: "coronavirus.mg" redirect
+local-data: "coronavirus.mg A 0.0.0.0"
+local-zone: "corona-virus-test.shop" redirect
+local-data: "corona-virus-test.shop A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
