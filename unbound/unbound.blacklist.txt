@@ -15498,6 +15498,34 @@ local-zone: "coronavirus-pandemiya.ru" redirect
 local-data: "coronavirus-pandemiya.ru A 0.0.0.0"
 local-zone: "www.weagainstcovid19.info" redirect
 local-data: "www.weagainstcovid19.info A 0.0.0.0"
+local-zone: "www.thecovid19kit.com" redirect
+local-data: "www.thecovid19kit.com A 0.0.0.0"
+local-zone: "covid19.cubetols.xyz" redirect
+local-data: "covid19.cubetols.xyz A 0.0.0.0"
+local-zone: "covid19.quersive.com" redirect
+local-data: "covid19.quersive.com A 0.0.0.0"
+local-zone: "traditionalchinesemedicinecovid19.com" redirect
+local-data: "traditionalchinesemedicinecovid19.com A 0.0.0.0"
+local-zone: "therealcovid19.net" redirect
+local-data: "therealcovid19.net A 0.0.0.0"
+local-zone: "traditionalchinesemedicinecovid19.com" redirect
+local-data: "traditionalchinesemedicinecovid19.com A 0.0.0.0"
+local-zone: "www.respuesta-covid19.com" redirect
+local-data: "www.respuesta-covid19.com A 0.0.0.0"
+local-zone: "diademacontraocoronavirus.online" redirect
+local-data: "diademacontraocoronavirus.online A 0.0.0.0"
+local-zone: "www.goodcoronavirus.news" redirect
+local-data: "www.goodcoronavirus.news A 0.0.0.0"
+local-zone: "covid19path.com" redirect
+local-data: "covid19path.com A 0.0.0.0"
+local-zone: "supportworkertrainingcoronavirus.availhub.com.au" redirect
+local-data: "supportworkertrainingcoronavirus.availhub.com.au A 0.0.0.0"
+local-zone: "coronavirus.dcj.nsw.gov.au" redirect
+local-data: "coronavirus.dcj.nsw.gov.au A 0.0.0.0"
+local-zone: "covid19survivalsolution.com" redirect
+local-data: "covid19survivalsolution.com A 0.0.0.0"
+local-zone: "coronavirusvaccine.club" redirect
+local-data: "coronavirusvaccine.club A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
