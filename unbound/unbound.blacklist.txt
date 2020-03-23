@@ -16650,6 +16650,42 @@ local-zone: "covid19sl.tk" redirect
 local-data: "covid19sl.tk A 0.0.0.0"
 local-zone: "covid-19.c4cprojects.com" redirect
 local-data: "covid-19.c4cprojects.com A 0.0.0.0"
+local-zone: "coronavirusbusinesshelp.com" redirect
+local-data: "coronavirusbusinesshelp.com A 0.0.0.0"
+local-zone: "coronavirus-diagnostics.com" redirect
+local-data: "coronavirus-diagnostics.com A 0.0.0.0"
+local-zone: "www.coronavirusbusinesshelp.com" redirect
+local-data: "www.coronavirusbusinesshelp.com A 0.0.0.0"
+local-zone: "coronavirus.launion.com.co" redirect
+local-data: "coronavirus.launion.com.co A 0.0.0.0"
+local-zone: "covid19tracer.in" redirect
+local-data: "covid19tracer.in A 0.0.0.0"
+local-zone: "labancovid19.com" redirect
+local-data: "labancovid19.com A 0.0.0.0"
+local-zone: "www.coronavirus-19.tk" redirect
+local-data: "www.coronavirus-19.tk A 0.0.0.0"
+local-zone: "covid19saosebastiao.michelliveneziani.com.br" redirect
+local-data: "covid19saosebastiao.michelliveneziani.com.br A 0.0.0.0"
+local-zone: "coronavirus.mlsi.gov.cy" redirect
+local-data: "coronavirus.mlsi.gov.cy A 0.0.0.0"
+local-zone: "2019ncov.fr" redirect
+local-data: "2019ncov.fr A 0.0.0.0"
+local-zone: "bidenhascovid19.net" redirect
+local-data: "bidenhascovid19.net A 0.0.0.0"
+local-zone: "2019ncov.fr" redirect
+local-data: "2019ncov.fr A 0.0.0.0"
+local-zone: "acienciadacovid19.pt" redirect
+local-data: "acienciadacovid19.pt A 0.0.0.0"
+local-zone: "checkcovid19.in" redirect
+local-data: "checkcovid19.in A 0.0.0.0"
+local-zone: "wps-covid-19-sn.onrender.com" redirect
+local-data: "wps-covid-19-sn.onrender.com A 0.0.0.0"
+local-zone: "covid19.crtct.org" redirect
+local-data: "covid19.crtct.org A 0.0.0.0"
+local-zone: "mamparascoronavirus.es" redirect
+local-data: "mamparascoronavirus.es A 0.0.0.0"
+local-zone: "covid19.mojtermin.mk" redirect
+local-data: "covid19.mojtermin.mk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -17396,6 +17432,8 @@ local-zone: "studiocoronavirus.com" redirect
 local-data: "studiocoronavirus.com A 0.0.0.0"
 local-zone: "covid19.virtualine.com" redirect
 local-data: "covid19.virtualine.com A 0.0.0.0"
+local-zone: "comitatofvgcontrocovid19.it" redirect
+local-data: "comitatofvgcontrocovid19.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
