@@ -15466,6 +15466,38 @@ local-zone: "novelcoronaviruskits.com" redirect
 local-data: "novelcoronaviruskits.com A 0.0.0.0"
 local-zone: "covid19.wangayahospital.com" redirect
 local-data: "covid19.wangayahospital.com A 0.0.0.0"
+local-zone: "elcovid19.info" redirect
+local-data: "elcovid19.info A 0.0.0.0"
+local-zone: "covid19lawyers.us" redirect
+local-data: "covid19lawyers.us A 0.0.0.0"
+local-zone: "nzcovid19.grafana.sla.ac" redirect
+local-data: "nzcovid19.grafana.sla.ac A 0.0.0.0"
+local-zone: "covid19.mas-ari.com" redirect
+local-data: "covid19.mas-ari.com A 0.0.0.0"
+local-zone: "covid19.labura.go.id" redirect
+local-data: "covid19.labura.go.id A 0.0.0.0"
+local-zone: "curecovid19.net" redirect
+local-data: "curecovid19.net A 0.0.0.0"
+local-zone: "covid19-ks.net" redirect
+local-data: "covid19-ks.net A 0.0.0.0"
+local-zone: "covid19-monitor.net" redirect
+local-data: "covid19-monitor.net A 0.0.0.0"
+local-zone: "coronavirustestkits.net" redirect
+local-data: "coronavirustestkits.net A 0.0.0.0"
+local-zone: "covid19.ag.org" redirect
+local-data: "covid19.ag.org A 0.0.0.0"
+local-zone: "aftercovid19.org" redirect
+local-data: "aftercovid19.org A 0.0.0.0"
+local-zone: "corona-virus-by-the-numbers.now.sh" redirect
+local-data: "corona-virus-by-the-numbers.now.sh A 0.0.0.0"
+local-zone: "app-covid-19.org" redirect
+local-data: "app-covid-19.org A 0.0.0.0"
+local-zone: "www.prevenirlecoronavirus.com" redirect
+local-data: "www.prevenirlecoronavirus.com A 0.0.0.0"
+local-zone: "coronavirus-pandemiya.ru" redirect
+local-data: "coronavirus-pandemiya.ru A 0.0.0.0"
+local-zone: "www.weagainstcovid19.info" redirect
+local-data: "www.weagainstcovid19.info A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -16152,6 +16184,8 @@ local-zone: "2019ncovvirus.com" redirect
 local-data: "2019ncovvirus.com A 0.0.0.0"
 local-zone: "orangecountycovid19.com" redirect
 local-data: "orangecountycovid19.com A 0.0.0.0"
+local-zone: "coronavirusayuda.org" redirect
+local-data: "coronavirusayuda.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
