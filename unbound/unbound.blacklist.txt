@@ -16504,6 +16504,38 @@ local-zone: "covid-19mom.com" redirect
 local-data: "covid-19mom.com A 0.0.0.0"
 local-zone: "covid19.widget.web.id" redirect
 local-data: "covid19.widget.web.id A 0.0.0.0"
+local-zone: "covid-19-sls.netseven.it" redirect
+local-data: "covid-19-sls.netseven.it A 0.0.0.0"
+local-zone: "covid19.shopping-home.com.ua" redirect
+local-data: "covid19.shopping-home.com.ua A 0.0.0.0"
+local-zone: "covid19.sukabumikota.go.id" redirect
+local-data: "covid19.sukabumikota.go.id A 0.0.0.0"
+local-zone: "fvckcovid-19.com" redirect
+local-data: "fvckcovid-19.com A 0.0.0.0"
+local-zone: "echameunamanocovid19.medicosdelmundo.org" redirect
+local-data: "echameunamanocovid19.medicosdelmundo.org A 0.0.0.0"
+local-zone: "ubercontraocovid-19.com.br" redirect
+local-data: "ubercontraocovid-19.com.br A 0.0.0.0"
+local-zone: "covid19bdtrack.com" redirect
+local-data: "covid19bdtrack.com A 0.0.0.0"
+local-zone: "covid19.intelworks.io" redirect
+local-data: "covid19.intelworks.io A 0.0.0.0"
+local-zone: "paypalforcoronavirus.altervista.org" redirect
+local-data: "paypalforcoronavirus.altervista.org A 0.0.0.0"
+local-zone: "admin-api.coronavirus-monitor.com" redirect
+local-data: "admin-api.coronavirus-monitor.com A 0.0.0.0"
+local-zone: "coronavirusfunds.org" redirect
+local-data: "coronavirusfunds.org A 0.0.0.0"
+local-zone: "client-api.coronavirus-monitor.com" redirect
+local-data: "client-api.coronavirus-monitor.com A 0.0.0.0"
+local-zone: "coronavirus.escortservice.fun" redirect
+local-data: "coronavirus.escortservice.fun A 0.0.0.0"
+local-zone: "coronavirus.unisante.ch.de" redirect
+local-data: "coronavirus.unisante.ch.de A 0.0.0.0"
+local-zone: "covid-19.digistax.com" redirect
+local-data: "covid-19.digistax.com A 0.0.0.0"
+local-zone: "coronavirusdonates.com" redirect
+local-data: "coronavirusdonates.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -17236,6 +17268,14 @@ local-zone: "coronaviruspubquiz.com" redirect
 local-data: "coronaviruspubquiz.com A 0.0.0.0"
 local-zone: "covid19-aomori.info" redirect
 local-data: "covid19-aomori.info A 0.0.0.0"
+local-zone: "covid19struggle.com" redirect
+local-data: "covid19struggle.com A 0.0.0.0"
+local-zone: "covid-19-justsavelives.org" redirect
+local-data: "covid-19-justsavelives.org A 0.0.0.0"
+local-zone: "covid19leb.com" redirect
+local-data: "covid19leb.com A 0.0.0.0"
+local-zone: "covid19.virtualine.com" redirect
+local-data: "covid19.virtualine.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
