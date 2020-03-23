@@ -16974,6 +16974,48 @@ local-zone: "unidosxelcoronavirus.net" redirect
 local-data: "unidosxelcoronavirus.net A 0.0.0.0"
 local-zone: "covid19kitsonline.com" redirect
 local-data: "covid19kitsonline.com A 0.0.0.0"
+local-zone: "40d79587.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "40d79587.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "trackcovid19.ca" redirect
+local-data: "trackcovid19.ca A 0.0.0.0"
+local-zone: "covid19sessions.com" redirect
+local-data: "covid19sessions.com A 0.0.0.0"
+local-zone: "coronavirus-onlineberatung.de" redirect
+local-data: "coronavirus-onlineberatung.de A 0.0.0.0"
+local-zone: "servcovid19.com" redirect
+local-data: "servcovid19.com A 0.0.0.0"
+local-zone: "crisisdelcoronavirus.es" redirect
+local-data: "crisisdelcoronavirus.es A 0.0.0.0"
+local-zone: "coronavirusinf.com" redirect
+local-data: "coronavirusinf.com A 0.0.0.0"
+local-zone: "covid-19.immatt.repl.run" redirect
+local-data: "covid-19.immatt.repl.run A 0.0.0.0"
+local-zone: "covid19qc.ca" redirect
+local-data: "covid19qc.ca A 0.0.0.0"
+local-zone: "appcovid-19.com" redirect
+local-data: "appcovid-19.com A 0.0.0.0"
+local-zone: "www.covid-19aid.group" redirect
+local-data: "www.covid-19aid.group A 0.0.0.0"
+local-zone: "sbacoronavirusloanassistance.com" redirect
+local-data: "sbacoronavirusloanassistance.com A 0.0.0.0"
+local-zone: "www.mycovid19days.family.blog" redirect
+local-data: "www.mycovid19days.family.blog A 0.0.0.0"
+local-zone: "www.covid19earlydetectionrpm.com" redirect
+local-data: "www.covid19earlydetectionrpm.com A 0.0.0.0"
+local-zone: "contraelcoronavirus.do" redirect
+local-data: "contraelcoronavirus.do A 0.0.0.0"
+local-zone: "coronavirus.teknokur.net" redirect
+local-data: "coronavirus.teknokur.net A 0.0.0.0"
+local-zone: "www.trumpdidcoronavirus.com" redirect
+local-data: "www.trumpdidcoronavirus.com A 0.0.0.0"
+local-zone: "cuidatedelcoronavirus.com" redirect
+local-data: "cuidatedelcoronavirus.com A 0.0.0.0"
+local-zone: "portal.covid19iqvia.com" redirect
+local-data: "portal.covid19iqvia.com A 0.0.0.0"
+local-zone: "covid19resources.ca" redirect
+local-data: "covid19resources.ca A 0.0.0.0"
+local-zone: "covid19.survey-bhp.com" redirect
+local-data: "covid19.survey-bhp.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
