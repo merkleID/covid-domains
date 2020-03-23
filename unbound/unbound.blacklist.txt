@@ -16798,6 +16798,40 @@ local-zone: "www.global-corona-virus-test.com" redirect
 local-data: "www.global-corona-virus-test.com A 0.0.0.0"
 local-zone: "covid19ctileague.packetsense.net" redirect
 local-data: "covid19ctileague.packetsense.net A 0.0.0.0"
+local-zone: "msk-coronavirus.ru" redirect
+local-data: "msk-coronavirus.ru A 0.0.0.0"
+local-zone: "covid19.yourpass.eu" redirect
+local-data: "covid19.yourpass.eu A 0.0.0.0"
+local-zone: "b2bluecovid19.zendesk.com" redirect
+local-data: "b2bluecovid19.zendesk.com A 0.0.0.0"
+local-zone: "coronavirus-simulator.com" redirect
+local-data: "coronavirus-simulator.com A 0.0.0.0"
+local-zone: "www.coronavirus-simulator.com" redirect
+local-data: "www.coronavirus-simulator.com A 0.0.0.0"
+local-zone: "covid-19.dukehealth.org" redirect
+local-data: "covid-19.dukehealth.org A 0.0.0.0"
+local-zone: "coronavirus.glolani.com.br" redirect
+local-data: "coronavirus.glolani.com.br A 0.0.0.0"
+local-zone: "covid19update.royalstrides.com" redirect
+local-data: "covid19update.royalstrides.com A 0.0.0.0"
+local-zone: "coronavirus.org.ua" redirect
+local-data: "coronavirus.org.ua A 0.0.0.0"
+local-zone: "covid-19mobiletesting.com" redirect
+local-data: "covid-19mobiletesting.com A 0.0.0.0"
+local-zone: "covid19-yvelines-apta78.fr" redirect
+local-data: "covid19-yvelines-apta78.fr A 0.0.0.0"
+local-zone: "coronavirusupdater.net" redirect
+local-data: "coronavirusupdater.net A 0.0.0.0"
+local-zone: "covid19ifornia.com" redirect
+local-data: "covid19ifornia.com A 0.0.0.0"
+local-zone: "covid19-medecinechinoise-france.fr" redirect
+local-data: "covid19-medecinechinoise-france.fr A 0.0.0.0"
+local-zone: "coronavirus-in-world.ru" redirect
+local-data: "coronavirus-in-world.ru A 0.0.0.0"
+local-zone: "covid19.cosupni.org" redirect
+local-data: "covid19.cosupni.org A 0.0.0.0"
+local-zone: "covid19sintomas.com" redirect
+local-data: "covid19sintomas.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
