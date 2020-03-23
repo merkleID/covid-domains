@@ -16686,6 +16686,54 @@ local-zone: "mamparascoronavirus.es" redirect
 local-data: "mamparascoronavirus.es A 0.0.0.0"
 local-zone: "covid19.mojtermin.mk" redirect
 local-data: "covid19.mojtermin.mk A 0.0.0.0"
+local-zone: "phencovid19.org" redirect
+local-data: "phencovid19.org A 0.0.0.0"
+local-zone: "chinacoronavirus.org" redirect
+local-data: "chinacoronavirus.org A 0.0.0.0"
+local-zone: "covid19-products.com" redirect
+local-data: "covid19-products.com A 0.0.0.0"
+local-zone: "checkcovid19.in" redirect
+local-data: "checkcovid19.in A 0.0.0.0"
+local-zone: "coronavirus.ibiapaba24horas.com" redirect
+local-data: "coronavirus.ibiapaba24horas.com A 0.0.0.0"
+local-zone: "covid19-support.oracle.com" redirect
+local-data: "covid19-support.oracle.com A 0.0.0.0"
+local-zone: "covid19.millihealth.com" redirect
+local-data: "covid19.millihealth.com A 0.0.0.0"
+local-zone: "coronavirushealth.ml" redirect
+local-data: "coronavirushealth.ml A 0.0.0.0"
+local-zone: "stopcovid19.com.hk" redirect
+local-data: "stopcovid19.com.hk A 0.0.0.0"
+local-zone: "covid19.scripts.farolsign.com.br" redirect
+local-data: "covid19.scripts.farolsign.com.br A 0.0.0.0"
+local-zone: "www.coronavirussanitizernow.com" redirect
+local-data: "www.coronavirussanitizernow.com A 0.0.0.0"
+local-zone: "covid19tracer.in" redirect
+local-data: "covid19tracer.in A 0.0.0.0"
+local-zone: "isurvivedcoronavirus.info" redirect
+local-data: "isurvivedcoronavirus.info A 0.0.0.0"
+local-zone: "covid19.btstech.net" redirect
+local-data: "covid19.btstech.net A 0.0.0.0"
+local-zone: "covid19.relaxacleaningservices.com" redirect
+local-data: "covid19.relaxacleaningservices.com A 0.0.0.0"
+local-zone: "covid19.talkabroad.com" redirect
+local-data: "covid19.talkabroad.com A 0.0.0.0"
+local-zone: "covid19.analytixa.com" redirect
+local-data: "covid19.analytixa.com A 0.0.0.0"
+local-zone: "covid19.fikrirp.com" redirect
+local-data: "covid19.fikrirp.com A 0.0.0.0"
+local-zone: "covid19testkiti.zendesk.com" redirect
+local-data: "covid19testkiti.zendesk.com A 0.0.0.0"
+local-zone: "www.covid19b.com" redirect
+local-data: "www.covid19b.com A 0.0.0.0"
+local-zone: "www.covid19a.com" redirect
+local-data: "www.covid19a.com A 0.0.0.0"
+local-zone: "covid19b.com" redirect
+local-data: "covid19b.com A 0.0.0.0"
+local-zone: "covid19.emumba.com" redirect
+local-data: "covid19.emumba.com A 0.0.0.0"
+local-zone: "stopcovid19spread.com" redirect
+local-data: "stopcovid19spread.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
