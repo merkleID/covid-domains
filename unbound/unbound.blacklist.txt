@@ -16768,6 +16768,36 @@ local-zone: "ca-covid19.top" redirect
 local-data: "ca-covid19.top A 0.0.0.0"
 local-zone: "endpointsportal.covid19-detector.cloud.goog" redirect
 local-data: "endpointsportal.covid19-detector.cloud.goog A 0.0.0.0"
+local-zone: "fightcoronavirus.com" redirect
+local-data: "fightcoronavirus.com A 0.0.0.0"
+local-zone: "covid-19throatswab.com" redirect
+local-data: "covid-19throatswab.com A 0.0.0.0"
+local-zone: "covid19-detector.onrender.com" redirect
+local-data: "covid19-detector.onrender.com A 0.0.0.0"
+local-zone: "covid19preventiongear.com" redirect
+local-data: "covid19preventiongear.com A 0.0.0.0"
+local-zone: "api.dps-dev.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.dps-dev.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "njatmacovid19.zendesk.com" redirect
+local-data: "njatmacovid19.zendesk.com A 0.0.0.0"
+local-zone: "juntoscontracoronavirus.com.br" redirect
+local-data: "juntoscontracoronavirus.com.br A 0.0.0.0"
+local-zone: "covid19.smcle.org" redirect
+local-data: "covid19.smcle.org A 0.0.0.0"
+local-zone: "kick-covid19.com" redirect
+local-data: "kick-covid19.com A 0.0.0.0"
+local-zone: "x-covid19.com" redirect
+local-data: "x-covid19.com A 0.0.0.0"
+local-zone: "coronaviruschemical.com" redirect
+local-data: "coronaviruschemical.com A 0.0.0.0"
+local-zone: "covid19.jordyu.nl" redirect
+local-data: "covid19.jordyu.nl A 0.0.0.0"
+local-zone: "covid-19.dukehealth.org" redirect
+local-data: "covid-19.dukehealth.org A 0.0.0.0"
+local-zone: "www.global-corona-virus-test.com" redirect
+local-data: "www.global-corona-virus-test.com A 0.0.0.0"
+local-zone: "covid19ctileague.packetsense.net" redirect
+local-data: "covid19ctileague.packetsense.net A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
