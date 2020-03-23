@@ -15866,6 +15866,26 @@ local-zone: "kill-the-coronavirus.app" redirect
 local-data: "kill-the-coronavirus.app A 0.0.0.0"
 local-zone: "www.coronavirus-covid19.com.ar" redirect
 local-data: "www.coronavirus-covid19.com.ar A 0.0.0.0"
+local-zone: "covid19.simpple.com.sg" redirect
+local-data: "covid19.simpple.com.sg A 0.0.0.0"
+local-zone: "preventionforcovid19.com" redirect
+local-data: "preventionforcovid19.com A 0.0.0.0"
+local-zone: "covid19.com.pk" redirect
+local-data: "covid19.com.pk A 0.0.0.0"
+local-zone: "virus-covid19.ga" redirect
+local-data: "virus-covid19.ga A 0.0.0.0"
+local-zone: "preventingthecoronavirus.com" redirect
+local-data: "preventingthecoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusos.com" redirect
+local-data: "coronavirusos.com A 0.0.0.0"
+local-zone: "covid19.magelangkota.go.id" redirect
+local-data: "covid19.magelangkota.go.id A 0.0.0.0"
+local-zone: "covid-19-lao.lailaolab.com" redirect
+local-data: "covid-19-lao.lailaolab.com A 0.0.0.0"
+local-zone: "covid19live.now.sh" redirect
+local-data: "covid19live.now.sh A 0.0.0.0"
+local-zone: "dev.covid19.commercesignals.com" redirect
+local-data: "dev.covid19.commercesignals.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -16574,6 +16594,8 @@ local-zone: "protect-coronavirus.fr" redirect
 local-data: "protect-coronavirus.fr A 0.0.0.0"
 local-zone: "coronavirusinfoupdate.org" redirect
 local-data: "coronavirusinfoupdate.org A 0.0.0.0"
+local-zone: "covid19info.at" redirect
+local-data: "covid19info.at A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

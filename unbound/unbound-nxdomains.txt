@@ -7932,6 +7932,16 @@ local-zone: "covid19.cloud.forcare.com" static
 local-zone: "covid-19.devel.wdf.cz" static
 local-zone: "kill-the-coronavirus.app" static
 local-zone: "www.coronavirus-covid19.com.ar" static
+local-zone: "covid19.simpple.com.sg" static
+local-zone: "preventionforcovid19.com" static
+local-zone: "covid19.com.pk" static
+local-zone: "virus-covid19.ga" static
+local-zone: "preventingthecoronavirus.com" static
+local-zone: "coronavirusos.com" static
+local-zone: "covid19.magelangkota.go.id" static
+local-zone: "covid-19-lao.lailaolab.com" static
+local-zone: "covid19live.now.sh" static
+local-zone: "dev.covid19.commercesignals.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -8286,6 +8296,7 @@ local-zone: "covid19hometestkits.co.uk" static
 local-zone: "movimientocoronavirus.es" static
 local-zone: "protect-coronavirus.fr" static
 local-zone: "coronavirusinfoupdate.org" static
+local-zone: "covid19info.at" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
