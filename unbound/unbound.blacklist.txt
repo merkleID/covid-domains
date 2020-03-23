@@ -16574,6 +16574,82 @@ local-zone: "coronavirustips.in" redirect
 local-data: "coronavirustips.in A 0.0.0.0"
 local-zone: "coronavirus-testing.us" redirect
 local-data: "coronavirus-testing.us A 0.0.0.0"
+local-zone: "www.covid-19training.store" redirect
+local-data: "www.covid-19training.store A 0.0.0.0"
+local-zone: "canalisateurs-covid19.fr" redirect
+local-data: "canalisateurs-covid19.fr A 0.0.0.0"
+local-zone: "coronavirusvaccine.club" redirect
+local-data: "coronavirusvaccine.club A 0.0.0.0"
+local-zone: "covid19.dumpily.ml" redirect
+local-data: "covid19.dumpily.ml A 0.0.0.0"
+local-zone: "covid19.adams.neonrainhosting.com" redirect
+local-data: "covid19.adams.neonrainhosting.com A 0.0.0.0"
+local-zone: "covid19.candrapinuyut.id" redirect
+local-data: "covid19.candrapinuyut.id A 0.0.0.0"
+local-zone: "covid19-usa.onehealthmed.com" redirect
+local-data: "covid19-usa.onehealthmed.com A 0.0.0.0"
+local-zone: "coronaviruss.it" redirect
+local-data: "coronaviruss.it A 0.0.0.0"
+local-zone: "covid19.o2coaching.ca" redirect
+local-data: "covid19.o2coaching.ca A 0.0.0.0"
+local-zone: "signofcoronavirus.affiliateng.com" redirect
+local-data: "signofcoronavirus.affiliateng.com A 0.0.0.0"
+local-zone: "candidate.staging.covid-19.dnastack.com" redirect
+local-data: "candidate.staging.covid-19.dnastack.com A 0.0.0.0"
+local-zone: "kickoutcovid19.gwgapp.com" redirect
+local-data: "kickoutcovid19.gwgapp.com A 0.0.0.0"
+local-zone: "coronavirus.abimo.org.br" redirect
+local-data: "coronavirus.abimo.org.br A 0.0.0.0"
+local-zone: "covid19selftest.org" redirect
+local-data: "covid19selftest.org A 0.0.0.0"
+local-zone: "coronavirus-russia.site" redirect
+local-data: "coronavirus-russia.site A 0.0.0.0"
+local-zone: "queeselcoronavirus.es" redirect
+local-data: "queeselcoronavirus.es A 0.0.0.0"
+local-zone: "nachbarschaftshilfe-covid-19.de" redirect
+local-data: "nachbarschaftshilfe-covid-19.de A 0.0.0.0"
+local-zone: "www.covid19selftest.org" redirect
+local-data: "www.covid19selftest.org A 0.0.0.0"
+local-zone: "twistlecovid19.com" redirect
+local-data: "twistlecovid19.com A 0.0.0.0"
+local-zone: "wuhancoronavirus.us" redirect
+local-data: "wuhancoronavirus.us A 0.0.0.0"
+local-zone: "www.anwalt-coronavirus.ch" redirect
+local-data: "www.anwalt-coronavirus.ch A 0.0.0.0"
+local-zone: "anwalt-coronavirus.ch" redirect
+local-data: "anwalt-coronavirus.ch A 0.0.0.0"
+local-zone: "chinacoronavirus.org" redirect
+local-data: "chinacoronavirus.org A 0.0.0.0"
+local-zone: "wuhancoronavirus.us" redirect
+local-data: "wuhancoronavirus.us A 0.0.0.0"
+local-zone: "wuhancoronavirus.com" redirect
+local-data: "wuhancoronavirus.com A 0.0.0.0"
+local-zone: "chinacoronavirus.com" redirect
+local-data: "chinacoronavirus.com A 0.0.0.0"
+local-zone: "wuhanvirus.us" redirect
+local-data: "wuhanvirus.us A 0.0.0.0"
+local-zone: "wuhancoronavirus.net" redirect
+local-data: "wuhancoronavirus.net A 0.0.0.0"
+local-zone: "wuhanvirus.cn" redirect
+local-data: "wuhanvirus.cn A 0.0.0.0"
+local-zone: "wuhancoronavirus.org" redirect
+local-data: "wuhancoronavirus.org A 0.0.0.0"
+local-zone: "covid-19.udruzenjekurs.org" redirect
+local-data: "covid-19.udruzenjekurs.org A 0.0.0.0"
+local-zone: "wuhancoronavirus.cn" redirect
+local-data: "wuhancoronavirus.cn A 0.0.0.0"
+local-zone: "covid19-fg-grant.expertoptions.ltd" redirect
+local-data: "covid19-fg-grant.expertoptions.ltd A 0.0.0.0"
+local-zone: "coronavirustracker.today" redirect
+local-data: "coronavirustracker.today A 0.0.0.0"
+local-zone: "anwalt-coronavirus.ch" redirect
+local-data: "anwalt-coronavirus.ch A 0.0.0.0"
+local-zone: "coronavirus-symptoms.info" redirect
+local-data: "coronavirus-symptoms.info A 0.0.0.0"
+local-zone: "covid19sl.tk" redirect
+local-data: "covid19sl.tk A 0.0.0.0"
+local-zone: "covid-19.c4cprojects.com" redirect
+local-data: "covid-19.c4cprojects.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -17312,6 +17388,12 @@ local-zone: "covid-19-justsavelives.org" redirect
 local-data: "covid-19-justsavelives.org A 0.0.0.0"
 local-zone: "covid19leb.com" redirect
 local-data: "covid19leb.com A 0.0.0.0"
+local-zone: "covid19.virtualine.com" redirect
+local-data: "covid19.virtualine.com A 0.0.0.0"
+local-zone: "covid-19-stories.com" redirect
+local-data: "covid-19-stories.com A 0.0.0.0"
+local-zone: "studiocoronavirus.com" redirect
+local-data: "studiocoronavirus.com A 0.0.0.0"
 local-zone: "covid19.virtualine.com" redirect
 local-data: "covid19.virtualine.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
