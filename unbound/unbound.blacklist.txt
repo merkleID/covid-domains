@@ -16734,6 +16734,40 @@ local-zone: "covid19.emumba.com" redirect
 local-data: "covid19.emumba.com A 0.0.0.0"
 local-zone: "stopcovid19spread.com" redirect
 local-data: "stopcovid19spread.com A 0.0.0.0"
+local-zone: "ca-covid19.top" redirect
+local-data: "ca-covid19.top A 0.0.0.0"
+local-zone: "ost-covid19.com" redirect
+local-data: "ost-covid19.com A 0.0.0.0"
+local-zone: "covid-19.mpdashboard.com" redirect
+local-data: "covid-19.mpdashboard.com A 0.0.0.0"
+local-zone: "admin.redcovid19mx.org" redirect
+local-data: "admin.redcovid19mx.org A 0.0.0.0"
+local-zone: "coronavirus.rkvmagzine.com" redirect
+local-data: "coronavirus.rkvmagzine.com A 0.0.0.0"
+local-zone: "votecovid19.com" redirect
+local-data: "votecovid19.com A 0.0.0.0"
+local-zone: "covid-19.perfecttechreviews.com" redirect
+local-data: "covid-19.perfecttechreviews.com A 0.0.0.0"
+local-zone: "covid19signs.printostat.com" redirect
+local-data: "covid19signs.printostat.com A 0.0.0.0"
+local-zone: "marcovid19.com" redirect
+local-data: "marcovid19.com A 0.0.0.0"
+local-zone: "www.covid19gifts.com" redirect
+local-data: "www.covid19gifts.com A 0.0.0.0"
+local-zone: "covid-19survivorsclub.com" redirect
+local-data: "covid-19survivorsclub.com A 0.0.0.0"
+local-zone: "coronavirus.convenia.com.br" redirect
+local-data: "coronavirus.convenia.com.br A 0.0.0.0"
+local-zone: "covid19signs.printostat.com" redirect
+local-data: "covid19signs.printostat.com A 0.0.0.0"
+local-zone: "fogforcovid19.com" redirect
+local-data: "fogforcovid19.com A 0.0.0.0"
+local-zone: "covid-19.ilarahealth.com" redirect
+local-data: "covid-19.ilarahealth.com A 0.0.0.0"
+local-zone: "ca-covid19.top" redirect
+local-data: "ca-covid19.top A 0.0.0.0"
+local-zone: "endpointsportal.covid19-detector.cloud.goog" redirect
+local-data: "endpointsportal.covid19-detector.cloud.goog A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -17482,6 +17516,8 @@ local-zone: "covid19.virtualine.com" redirect
 local-data: "covid19.virtualine.com A 0.0.0.0"
 local-zone: "comitatofvgcontrocovid19.it" redirect
 local-data: "comitatofvgcontrocovid19.it A 0.0.0.0"
+local-zone: "covid-19-dashboard.com" redirect
+local-data: "covid-19-dashboard.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
