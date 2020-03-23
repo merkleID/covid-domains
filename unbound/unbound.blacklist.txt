@@ -16066,6 +16066,68 @@ local-zone: "coronaviruserte.es" redirect
 local-data: "coronaviruserte.es A 0.0.0.0"
 local-zone: "covid19news.uk" redirect
 local-data: "covid19news.uk A 0.0.0.0"
+local-zone: "coronavirusserenapugamd.com" redirect
+local-data: "coronavirusserenapugamd.com A 0.0.0.0"
+local-zone: "mission-covid19.inria.fr" redirect
+local-data: "mission-covid19.inria.fr A 0.0.0.0"
+local-zone: "www.anticoronavirus-19.com" redirect
+local-data: "www.anticoronavirus-19.com A 0.0.0.0"
+local-zone: "anticoronavirus-19.com" redirect
+local-data: "anticoronavirus-19.com A 0.0.0.0"
+local-zone: "ward7covid19.zendesk.com" redirect
+local-data: "ward7covid19.zendesk.com A 0.0.0.0"
+local-zone: "www.coronaviruscovid.net" redirect
+local-data: "www.coronaviruscovid.net A 0.0.0.0"
+local-zone: "covid-19.arduino.cc" redirect
+local-data: "covid-19.arduino.cc A 0.0.0.0"
+local-zone: "covid19-fnbois.com" redirect
+local-data: "covid19-fnbois.com A 0.0.0.0"
+local-zone: "covid-19.survey-bhp.com" redirect
+local-data: "covid-19.survey-bhp.com A 0.0.0.0"
+local-zone: "gatecovid19.com" redirect
+local-data: "gatecovid19.com A 0.0.0.0"
+local-zone: "bestcoronaviruslawyers.com" redirect
+local-data: "bestcoronaviruslawyers.com A 0.0.0.0"
+local-zone: "bestmask-coronavirus.com" redirect
+local-data: "bestmask-coronavirus.com A 0.0.0.0"
+local-zone: "scalacovid19collaboration.co.uk" redirect
+local-data: "scalacovid19collaboration.co.uk A 0.0.0.0"
+local-zone: "mamparascoronavirus.thesigned.es" redirect
+local-data: "mamparascoronavirus.thesigned.es A 0.0.0.0"
+local-zone: "solidaritecovid19.com" redirect
+local-data: "solidaritecovid19.com A 0.0.0.0"
+local-zone: "coronavirus.pasta42.com.br" redirect
+local-data: "coronavirus.pasta42.com.br A 0.0.0.0"
+local-zone: "api.countingcovid19.com" redirect
+local-data: "api.countingcovid19.com A 0.0.0.0"
+local-zone: "anticoronavirusdrug.com" redirect
+local-data: "anticoronavirusdrug.com A 0.0.0.0"
+local-zone: "anticoronavirusshop.com" redirect
+local-data: "anticoronavirusshop.com A 0.0.0.0"
+local-zone: "www.anticoronaviruscare.com" redirect
+local-data: "www.anticoronaviruscare.com A 0.0.0.0"
+local-zone: "anticovid19squad.com" redirect
+local-data: "anticovid19squad.com A 0.0.0.0"
+local-zone: "anticovid19screensaver.com" redirect
+local-data: "anticovid19screensaver.com A 0.0.0.0"
+local-zone: "covid19.cincinnaticares.org" redirect
+local-data: "covid19.cincinnaticares.org A 0.0.0.0"
+local-zone: "covid19.omniflow.online" redirect
+local-data: "covid19.omniflow.online A 0.0.0.0"
+local-zone: "volunteercoronavirus.com" redirect
+local-data: "volunteercoronavirus.com A 0.0.0.0"
+local-zone: "roxascitycovid19.ph" redirect
+local-data: "roxascitycovid19.ph A 0.0.0.0"
+local-zone: "covid19-medicus.com" redirect
+local-data: "covid19-medicus.com A 0.0.0.0"
+local-zone: "covid19peak.com" redirect
+local-data: "covid19peak.com A 0.0.0.0"
+local-zone: "covid19-api.com" redirect
+local-data: "covid19-api.com A 0.0.0.0"
+local-zone: "www.covid-19-signs.org" redirect
+local-data: "www.covid-19-signs.org A 0.0.0.0"
+local-zone: "covid19aaz.com" redirect
+local-data: "covid19aaz.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
