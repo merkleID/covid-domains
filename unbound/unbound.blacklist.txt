@@ -15308,6 +15308,38 @@ local-zone: "covid19.treelineinteractive.com" redirect
 local-data: "covid19.treelineinteractive.com A 0.0.0.0"
 local-zone: "covid19.com.pk" redirect
 local-data: "covid19.com.pk A 0.0.0.0"
+local-zone: "www.coronavirusbusinesshelp.org" redirect
+local-data: "www.coronavirusbusinesshelp.org A 0.0.0.0"
+local-zone: "normalityforcovid-19.com" redirect
+local-data: "normalityforcovid-19.com A 0.0.0.0"
+local-zone: "www.normalityforcovid-19.com" redirect
+local-data: "www.normalityforcovid-19.com A 0.0.0.0"
+local-zone: "covid19livetrack.com" redirect
+local-data: "covid19livetrack.com A 0.0.0.0"
+local-zone: "www.coronavirusbusinesshelp.net" redirect
+local-data: "www.coronavirusbusinesshelp.net A 0.0.0.0"
+local-zone: "covid-19app.co.za" redirect
+local-data: "covid-19app.co.za A 0.0.0.0"
+local-zone: "et.coronavirusfinancial.net" redirect
+local-data: "et.coronavirusfinancial.net A 0.0.0.0"
+local-zone: "pl.coronavirusfinancial.net" redirect
+local-data: "pl.coronavirusfinancial.net A 0.0.0.0"
+local-zone: "www.covid19testkit.ca" redirect
+local-data: "www.covid19testkit.ca A 0.0.0.0"
+local-zone: "www.covid-19.fans" redirect
+local-data: "www.covid-19.fans A 0.0.0.0"
+local-zone: "materialcoronavirus.com" redirect
+local-data: "materialcoronavirus.com A 0.0.0.0"
+local-zone: "ideascovid19.com" redirect
+local-data: "ideascovid19.com A 0.0.0.0"
+local-zone: "coronavirus.guiaguayaquil.com" redirect
+local-data: "coronavirus.guiaguayaquil.com A 0.0.0.0"
+local-zone: "www.covid19.docndoc.fr" redirect
+local-data: "www.covid19.docndoc.fr A 0.0.0.0"
+local-zone: "coronavirus-france.filmenfrance.fr" redirect
+local-data: "coronavirus-france.filmenfrance.fr A 0.0.0.0"
+local-zone: "covid-19pulse.com" redirect
+local-data: "covid-19pulse.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
