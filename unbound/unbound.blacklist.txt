@@ -15614,6 +15614,64 @@ local-zone: "covid19unemployment.net" redirect
 local-data: "covid19unemployment.net A 0.0.0.0"
 local-zone: "www.iodanticovid19.ru" redirect
 local-data: "www.iodanticovid19.ru A 0.0.0.0"
+local-zone: "quarentenacoronavirus.com.br" redirect
+local-data: "quarentenacoronavirus.com.br A 0.0.0.0"
+local-zone: "covid19.incpak.com" redirect
+local-data: "covid19.incpak.com A 0.0.0.0"
+local-zone: "www.coronavirusspreadingprecautions.ml" redirect
+local-data: "www.coronavirusspreadingprecautions.ml A 0.0.0.0"
+local-zone: "infocovid19.labuhanbatuselatankab.go.id" redirect
+local-data: "infocovid19.labuhanbatuselatankab.go.id A 0.0.0.0"
+local-zone: "covid19.toplms.ru" redirect
+local-data: "covid19.toplms.ru A 0.0.0.0"
+local-zone: "www.universidadpanamericanacovid19.com" redirect
+local-data: "www.universidadpanamericanacovid19.com A 0.0.0.0"
+local-zone: "universidadpanamericanacovid19.com" redirect
+local-data: "universidadpanamericanacovid19.com A 0.0.0.0"
+local-zone: "infocovid19.labuhanbatuselatankab.go.id" redirect
+local-data: "infocovid19.labuhanbatuselatankab.go.id A 0.0.0.0"
+local-zone: "covid19.aurdantebing.com" redirect
+local-data: "covid19.aurdantebing.com A 0.0.0.0"
+local-zone: "uscoronaviruscount.com" redirect
+local-data: "uscoronaviruscount.com A 0.0.0.0"
+local-zone: "www.anticoronavirus.biz" redirect
+local-data: "www.anticoronavirus.biz A 0.0.0.0"
+local-zone: "www.covid19preventiongear.com" redirect
+local-data: "www.covid19preventiongear.com A 0.0.0.0"
+local-zone: "covid19.dispatchhealth.com" redirect
+local-data: "covid19.dispatchhealth.com A 0.0.0.0"
+local-zone: "recercacoronavirus.vallhebron.com" redirect
+local-data: "recercacoronavirus.vallhebron.com A 0.0.0.0"
+local-zone: "thiqar-covid19.hdd-clinic.com" redirect
+local-data: "thiqar-covid19.hdd-clinic.com A 0.0.0.0"
+local-zone: "uavscovid19.com.ua" redirect
+local-data: "uavscovid19.com.ua A 0.0.0.0"
+local-zone: "vencercovid19.com" redirect
+local-data: "vencercovid19.com A 0.0.0.0"
+local-zone: "petasebaran.covid19.blitarkota.go.id" redirect
+local-data: "petasebaran.covid19.blitarkota.go.id A 0.0.0.0"
+local-zone: "covid19-detector.onrender.com" redirect
+local-data: "covid19-detector.onrender.com A 0.0.0.0"
+local-zone: "covid19preventiongear.com" redirect
+local-data: "covid19preventiongear.com A 0.0.0.0"
+local-zone: "coronavirusnewsindia.site" redirect
+local-data: "coronavirusnewsindia.site A 0.0.0.0"
+local-zone: "covid19.sinjaikab.go.id" redirect
+local-data: "covid19.sinjaikab.go.id A 0.0.0.0"
+local-zone: "covid19.pacitankab.go.id" redirect
+local-data: "covid19.pacitankab.go.id A 0.0.0.0"
+local-zone: "www.anticovid19.social" redirect
+local-data: "www.anticovid19.social A 0.0.0.0"
+local-zone: "coronavirus-volunteers.co.uk" redirect
+local-data: "coronavirus-volunteers.co.uk A 0.0.0.0"
+local-zone: "www.covid19-uk.co.uk" redirect
+local-data: "www.covid19-uk.co.uk A 0.0.0.0"
+local-zone: "thompsons.covid19-updates.co.uk" redirect
+local-data: "thompsons.covid19-updates.co.uk A 0.0.0.0"
+local-zone: "deepclean-covid19.co.uk" redirect
+local-data: "deepclean-covid19.co.uk A 0.0.0.0"
+local-zone: "covid19.elliottrichmond.co.uk" redirect
+local-data: "covid19.elliottrichmond.co.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
