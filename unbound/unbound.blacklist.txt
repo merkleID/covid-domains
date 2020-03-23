@@ -16436,6 +16436,40 @@ local-zone: "service-coronavirus-live.de" redirect
 local-data: "service-coronavirus-live.de A 0.0.0.0"
 local-zone: "www.pecontracoronavirus.pe.gov.br" redirect
 local-data: "www.pecontracoronavirus.pe.gov.br A 0.0.0.0"
+local-zone: "covid19-testing.broadinstitute.org" redirect
+local-data: "covid19-testing.broadinstitute.org A 0.0.0.0"
+local-zone: "coronavirus8.com" redirect
+local-data: "coronavirus8.com A 0.0.0.0"
+local-zone: "api.rapidcovid19.rymedi.com" redirect
+local-data: "api.rapidcovid19.rymedi.com A 0.0.0.0"
+local-zone: "iscoronavirusdefeatedyet.com" redirect
+local-data: "iscoronavirusdefeatedyet.com A 0.0.0.0"
+local-zone: "starvecovid19.com" redirect
+local-data: "starvecovid19.com A 0.0.0.0"
+local-zone: "covid19masks.fuzziebrain.com" redirect
+local-data: "covid19masks.fuzziebrain.com A 0.0.0.0"
+local-zone: "www.starvecovid19.com" redirect
+local-data: "www.starvecovid19.com A 0.0.0.0"
+local-zone: "dowehavefreecoronavirustestingyet.com" redirect
+local-data: "dowehavefreecoronavirustestingyet.com A 0.0.0.0"
+local-zone: "covid19.vapp.vn" redirect
+local-data: "covid19.vapp.vn A 0.0.0.0"
+local-zone: "covid19antibodytherapy.com" redirect
+local-data: "covid19antibodytherapy.com A 0.0.0.0"
+local-zone: "www.dresscovid19.com" redirect
+local-data: "www.dresscovid19.com A 0.0.0.0"
+local-zone: "goarmybeatcovid19.com" redirect
+local-data: "goarmybeatcovid19.com A 0.0.0.0"
+local-zone: "www.goarmybeatcovid19.com" redirect
+local-data: "www.goarmybeatcovid19.com A 0.0.0.0"
+local-zone: "amandaricovid19.com" redirect
+local-data: "amandaricovid19.com A 0.0.0.0"
+local-zone: "covid19soap.nyc" redirect
+local-data: "covid19soap.nyc A 0.0.0.0"
+local-zone: "coronavirus.inpush.pro" redirect
+local-data: "coronavirus.inpush.pro A 0.0.0.0"
+local-zone: "covid19.tokyomagic.co.uk" redirect
+local-data: "covid19.tokyomagic.co.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -17166,6 +17200,8 @@ local-zone: "coronaviruspgcounty.com" redirect
 local-data: "coronaviruspgcounty.com A 0.0.0.0"
 local-zone: "coronaviruspubquiz.com" redirect
 local-data: "coronaviruspubquiz.com A 0.0.0.0"
+local-zone: "covid19-aomori.info" redirect
+local-data: "covid19-aomori.info A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
