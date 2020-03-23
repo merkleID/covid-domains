@@ -15738,6 +15738,32 @@ local-zone: "covid19.company" redirect
 local-data: "covid19.company A 0.0.0.0"
 local-zone: "coronavirusgroup.co.uk" redirect
 local-data: "coronavirusgroup.co.uk A 0.0.0.0"
+local-zone: "neo4j.grace-covid19.2021.services" redirect
+local-data: "neo4j.grace-covid19.2021.services A 0.0.0.0"
+local-zone: "www.covid19test.net.au" redirect
+local-data: "www.covid19test.net.au A 0.0.0.0"
+local-zone: "webcovid-19.life" redirect
+local-data: "webcovid-19.life A 0.0.0.0"
+local-zone: "covid-19inc.life" redirect
+local-data: "covid-19inc.life A 0.0.0.0"
+local-zone: "en.kit-test-covid19.com" redirect
+local-data: "en.kit-test-covid19.com A 0.0.0.0"
+local-zone: "corona-virus2019.us" redirect
+local-data: "corona-virus2019.us A 0.0.0.0"
+local-zone: "coronavirus-clinic.com" redirect
+local-data: "coronavirus-clinic.com A 0.0.0.0"
+local-zone: "covid19-blog.de" redirect
+local-data: "covid19-blog.de A 0.0.0.0"
+local-zone: "covid19.bolselkab.go.id" redirect
+local-data: "covid19.bolselkab.go.id A 0.0.0.0"
+local-zone: "covid19.1isk.com" redirect
+local-data: "covid19.1isk.com A 0.0.0.0"
+local-zone: "fightcovid19.vegas" redirect
+local-data: "fightcovid19.vegas A 0.0.0.0"
+local-zone: "www.thrivecovid19.com" redirect
+local-data: "www.thrivecovid19.com A 0.0.0.0"
+local-zone: "medical-supplies-for-covid-19.com" redirect
+local-data: "medical-supplies-for-covid-19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
