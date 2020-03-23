@@ -16164,6 +16164,110 @@ local-zone: "www.vntestkit-covid19.com" redirect
 local-data: "www.vntestkit-covid19.com A 0.0.0.0"
 local-zone: "gestion-impact-covid19.com" redirect
 local-data: "gestion-impact-covid19.com A 0.0.0.0"
+local-zone: "coronavirus-covid-19.com.au" redirect
+local-data: "coronavirus-covid-19.com.au A 0.0.0.0"
+local-zone: "coronavirusrf.ru" redirect
+local-data: "coronavirusrf.ru A 0.0.0.0"
+local-zone: "corona-virus-update.net" redirect
+local-data: "corona-virus-update.net A 0.0.0.0"
+local-zone: "cura-coronavirus-covid-19.com" redirect
+local-data: "cura-coronavirus-covid-19.com A 0.0.0.0"
+local-zone: "sobrevivabemaocoronavirus.com.br" redirect
+local-data: "sobrevivabemaocoronavirus.com.br A 0.0.0.0"
+local-zone: "covid19.labuhanbatukab.go.id" redirect
+local-data: "covid19.labuhanbatukab.go.id A 0.0.0.0"
+local-zone: "covid19supportsupply.com" redirect
+local-data: "covid19supportsupply.com A 0.0.0.0"
+local-zone: "covid19badge.com" redirect
+local-data: "covid19badge.com A 0.0.0.0"
+local-zone: "covid19viruskits.com" redirect
+local-data: "covid19viruskits.com A 0.0.0.0"
+local-zone: "covid19self-test.com" redirect
+local-data: "covid19self-test.com A 0.0.0.0"
+local-zone: "covid19discuss.com" redirect
+local-data: "covid19discuss.com A 0.0.0.0"
+local-zone: "covid19therapists.com" redirect
+local-data: "covid19therapists.com A 0.0.0.0"
+local-zone: "www.covid19thinktank.com" redirect
+local-data: "www.covid19thinktank.com A 0.0.0.0"
+local-zone: "covid19sbc.com" redirect
+local-data: "covid19sbc.com A 0.0.0.0"
+local-zone: "covid19disasterrelief.com" redirect
+local-data: "covid19disasterrelief.com A 0.0.0.0"
+local-zone: "covid19routtcounty.com" redirect
+local-data: "covid19routtcounty.com A 0.0.0.0"
+local-zone: "covid-19sbarelief.com" redirect
+local-data: "covid-19sbarelief.com A 0.0.0.0"
+local-zone: "covid-19assistance.com" redirect
+local-data: "covid-19assistance.com A 0.0.0.0"
+local-zone: "www.covid19legalaid.com" redirect
+local-data: "www.covid19legalaid.com A 0.0.0.0"
+local-zone: "covid19to.com" redirect
+local-data: "covid19to.com A 0.0.0.0"
+local-zone: "covid19-stayfit.com" redirect
+local-data: "covid19-stayfit.com A 0.0.0.0"
+local-zone: "www.covid19updatespa.com" redirect
+local-data: "www.covid19updatespa.com A 0.0.0.0"
+local-zone: "covid19rapidresulttestkit.com" redirect
+local-data: "covid19rapidresulttestkit.com A 0.0.0.0"
+local-zone: "www.covid-19consciousliving.com" redirect
+local-data: "www.covid-19consciousliving.com A 0.0.0.0"
+local-zone: "covid19medsupply.com" redirect
+local-data: "covid19medsupply.com A 0.0.0.0"
+local-zone: "covid19riskcalculator.com" redirect
+local-data: "covid19riskcalculator.com A 0.0.0.0"
+local-zone: "covid19guarda.com" redirect
+local-data: "covid19guarda.com A 0.0.0.0"
+local-zone: "www.covid19-kits.com" redirect
+local-data: "www.covid19-kits.com A 0.0.0.0"
+local-zone: "covid-19viruspandemic.com" redirect
+local-data: "covid-19viruspandemic.com A 0.0.0.0"
+local-zone: "www.covid19petcare.com" redirect
+local-data: "www.covid19petcare.com A 0.0.0.0"
+local-zone: "covid19selfassessment.com" redirect
+local-data: "covid19selfassessment.com A 0.0.0.0"
+local-zone: "covid19detectionkits.com" redirect
+local-data: "covid19detectionkits.com A 0.0.0.0"
+local-zone: "www.covid19herb.com" redirect
+local-data: "www.covid19herb.com A 0.0.0.0"
+local-zone: "covid-19teststrips.com" redirect
+local-data: "covid-19teststrips.com A 0.0.0.0"
+local-zone: "www.covid19flu.com" redirect
+local-data: "www.covid19flu.com A 0.0.0.0"
+local-zone: "covid19worldmeter.com" redirect
+local-data: "covid19worldmeter.com A 0.0.0.0"
+local-zone: "covid19-fiji.com" redirect
+local-data: "covid19-fiji.com A 0.0.0.0"
+local-zone: "www.covid19usadebtrelief.com" redirect
+local-data: "www.covid19usadebtrelief.com A 0.0.0.0"
+local-zone: "www.covid-19rapidtestingkits.com" redirect
+local-data: "www.covid-19rapidtestingkits.com A 0.0.0.0"
+local-zone: "covid19-ic.com" redirect
+local-data: "covid19-ic.com A 0.0.0.0"
+local-zone: "covid-19tracker.net" redirect
+local-data: "covid-19tracker.net A 0.0.0.0"
+local-zone: "api.b9e1e7b7.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.b9e1e7b7.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "b9e1e7b7.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "b9e1e7b7.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19disasterrelief.com" redirect
+local-data: "covid19disasterrelief.com A 0.0.0.0"
+local-zone: "www.covid19-bw.com" redirect
+local-data: "www.covid19-bw.com A 0.0.0.0"
+local-zone: "covid-19.healthsparkles.com" redirect
+local-data: "covid-19.healthsparkles.com A 0.0.0.0"
+local-zone: "sinaicovid19.org" redirect
+local-data: "sinaicovid19.org A 0.0.0.0"
+local-zone: "covid19oshawa.com" redirect
+local-data: "covid19oshawa.com A 0.0.0.0"
+local-zone: "covid19.nectarhub.io" redirect
+local-data: "covid19.nectarhub.io A 0.0.0.0"
+local-zone: "fr.covid19lexington.org" redirect
+local-data: "fr.covid19lexington.org A 0.0.0.0"
+local-zone: "coronavirus-snt.yj.fr" redirect
+local-data: "coronavirus-snt.yj.fr A 0.0.0.0"
+local-zone: "covid-19-operation-1-ere-urgence.fr" redirect
+local-data: "covid-19-operation-1-ere-urgence.fr A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -16884,6 +16988,10 @@ local-zone: "coronavirus.calabria.it" redirect
 local-data: "coronavirus.calabria.it A 0.0.0.0"
 local-zone: "covid19.biodati.com" redirect
 local-data: "covid19.biodati.com A 0.0.0.0"
+local-zone: "covid19boards.com" redirect
+local-data: "covid19boards.com A 0.0.0.0"
+local-zone: "covid-19staysafe.com" redirect
+local-data: "covid-19staysafe.com A 0.0.0.0"
 local-zone: "covid19boards.com" redirect
 local-data: "covid19boards.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
