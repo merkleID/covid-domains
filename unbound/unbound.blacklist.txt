@@ -17340,6 +17340,32 @@ local-zone: "covid19.rinookta.com" redirect
 local-data: "covid19.rinookta.com A 0.0.0.0"
 local-zone: "attachments.cdn.k-covid19.senseilabs.com" redirect
 local-data: "attachments.cdn.k-covid19.senseilabs.com A 0.0.0.0"
+local-zone: "covid19recovery.eu" redirect
+local-data: "covid19recovery.eu A 0.0.0.0"
+local-zone: "covid19.archiineergroup.la" redirect
+local-data: "covid19.archiineergroup.la A 0.0.0.0"
+local-zone: "www.covid19reporting.info" redirect
+local-data: "www.covid19reporting.info A 0.0.0.0"
+local-zone: "coronavirusdot.com" redirect
+local-data: "coronavirusdot.com A 0.0.0.0"
+local-zone: "covid19preventionofficecleaningnashville.com" redirect
+local-data: "covid19preventionofficecleaningnashville.com A 0.0.0.0"
+local-zone: "covid19.bojonegoro.org" redirect
+local-data: "covid19.bojonegoro.org A 0.0.0.0"
+local-zone: "clustercovid19.clutchplate.in" redirect
+local-data: "clustercovid19.clutchplate.in A 0.0.0.0"
+local-zone: "covid19-decontamination.com" redirect
+local-data: "covid19-decontamination.com A 0.0.0.0"
+local-zone: "covid19-remediation.com" redirect
+local-data: "covid19-remediation.com A 0.0.0.0"
+local-zone: "covid19.archiineergroup.la" redirect
+local-data: "covid19.archiineergroup.la A 0.0.0.0"
+local-zone: "covid19.ilmucoding.com" redirect
+local-data: "covid19.ilmucoding.com A 0.0.0.0"
+local-zone: "overcomecovid19.in" redirect
+local-data: "overcomecovid19.in A 0.0.0.0"
+local-zone: "covid19.ilmucoding.com" redirect
+local-data: "covid19.ilmucoding.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -18128,6 +18154,10 @@ local-zone: "covid-19-landing-page.nubestaging.com" redirect
 local-data: "covid-19-landing-page.nubestaging.com A 0.0.0.0"
 local-zone: "coronavirusactionfund.com.au" redirect
 local-data: "coronavirusactionfund.com.au A 0.0.0.0"
+local-zone: "covid-19.dnastack.com" redirect
+local-data: "covid-19.dnastack.com A 0.0.0.0"
+local-zone: "coronavirusfilms.net" redirect
+local-data: "coronavirusfilms.net A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
