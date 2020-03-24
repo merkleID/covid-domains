@@ -17204,6 +17204,38 @@ local-zone: "dallascovid19.com" redirect
 local-data: "dallascovid19.com A 0.0.0.0"
 local-zone: "cdc-covid19.com" redirect
 local-data: "cdc-covid19.com A 0.0.0.0"
+local-zone: "thiscovid19life.thiscovid19lifethebookgroup.com" redirect
+local-data: "thiscovid19life.thiscovid19lifethebookgroup.com A 0.0.0.0"
+local-zone: "www.thecoronavirussupplystore.com" redirect
+local-data: "www.thecoronavirussupplystore.com A 0.0.0.0"
+local-zone: "thecoronavirussupplystore.com" redirect
+local-data: "thecoronavirussupplystore.com A 0.0.0.0"
+local-zone: "www.georgiacoronaviruslawyers.com" redirect
+local-data: "www.georgiacoronaviruslawyers.com A 0.0.0.0"
+local-zone: "coronavirus.pinhais.pr.gov.br" redirect
+local-data: "coronavirus.pinhais.pr.gov.br A 0.0.0.0"
+local-zone: "lg-covid-19-hotp.cs.duke.edu" redirect
+local-data: "lg-covid-19-hotp.cs.duke.edu A 0.0.0.0"
+local-zone: "covid-19.ant-automation.net" redirect
+local-data: "covid-19.ant-automation.net A 0.0.0.0"
+local-zone: "covid19.lemol.ao" redirect
+local-data: "covid19.lemol.ao A 0.0.0.0"
+local-zone: "covid-19turkiye.tech" redirect
+local-data: "covid-19turkiye.tech A 0.0.0.0"
+local-zone: "covid19.propertymanagement.com.br" redirect
+local-data: "covid19.propertymanagement.com.br A 0.0.0.0"
+local-zone: "donasicovid19.iaitbhayati.org" redirect
+local-data: "donasicovid19.iaitbhayati.org A 0.0.0.0"
+local-zone: "aapicovid19.org" redirect
+local-data: "aapicovid19.org A 0.0.0.0"
+local-zone: "coronavirusjournel.com" redirect
+local-data: "coronavirusjournel.com A 0.0.0.0"
+local-zone: "www.coronavirusjournel.com" redirect
+local-data: "www.coronavirusjournel.com A 0.0.0.0"
+local-zone: "www.aapicovid19.org" redirect
+local-data: "www.aapicovid19.org A 0.0.0.0"
+local-zone: "covid19-uat.app.keyreply.com" redirect
+local-data: "covid19-uat.app.keyreply.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
