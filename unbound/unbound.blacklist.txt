@@ -17304,6 +17304,42 @@ local-zone: "covid19.metisnation.ca" redirect
 local-data: "covid19.metisnation.ca A 0.0.0.0"
 local-zone: "covid19.competwebdesign.com.br" redirect
 local-data: "covid19.competwebdesign.com.br A 0.0.0.0"
+local-zone: "covid19help.xavincidev.com" redirect
+local-data: "covid19help.xavincidev.com A 0.0.0.0"
+local-zone: "www.coronavirusshop.shop" redirect
+local-data: "www.coronavirusshop.shop A 0.0.0.0"
+local-zone: "covid-19.live-stream.events" redirect
+local-data: "covid-19.live-stream.events A 0.0.0.0"
+local-zone: "covid19.pikes.org" redirect
+local-data: "covid19.pikes.org A 0.0.0.0"
+local-zone: "covid19.clutchplate.in" redirect
+local-data: "covid19.clutchplate.in A 0.0.0.0"
+local-zone: "anti-covid19-virus.com" redirect
+local-data: "anti-covid19-virus.com A 0.0.0.0"
+local-zone: "withcoronavirus.com" redirect
+local-data: "withcoronavirus.com A 0.0.0.0"
+local-zone: "www.covid19boards.com" redirect
+local-data: "www.covid19boards.com A 0.0.0.0"
+local-zone: "coronavirusdebtrelief.com" redirect
+local-data: "coronavirusdebtrelief.com A 0.0.0.0"
+local-zone: "web.persicovid19.id" redirect
+local-data: "web.persicovid19.id A 0.0.0.0"
+local-zone: "covid19helpline.intelimina.com" redirect
+local-data: "covid19helpline.intelimina.com A 0.0.0.0"
+local-zone: "maker-vs-covid19.sensesiot.com" redirect
+local-data: "maker-vs-covid19.sensesiot.com A 0.0.0.0"
+local-zone: "covid19helpline.intelimina.com" redirect
+local-data: "covid19helpline.intelimina.com A 0.0.0.0"
+local-zone: "covid-19-us.online" redirect
+local-data: "covid-19-us.online A 0.0.0.0"
+local-zone: "covid-19-us.site" redirect
+local-data: "covid-19-us.site A 0.0.0.0"
+local-zone: "covid-19cure.live" redirect
+local-data: "covid-19cure.live A 0.0.0.0"
+local-zone: "covid19.rinookta.com" redirect
+local-data: "covid19.rinookta.com A 0.0.0.0"
+local-zone: "attachments.cdn.k-covid19.senseilabs.com" redirect
+local-data: "attachments.cdn.k-covid19.senseilabs.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -18090,6 +18126,8 @@ local-zone: "coronavirusactionfund.com.au" redirect
 local-data: "coronavirusactionfund.com.au A 0.0.0.0"
 local-zone: "covid-19-landing-page.nubestaging.com" redirect
 local-data: "covid-19-landing-page.nubestaging.com A 0.0.0.0"
+local-zone: "coronavirusactionfund.com.au" redirect
+local-data: "coronavirusactionfund.com.au A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
