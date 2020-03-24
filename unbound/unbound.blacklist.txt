@@ -18734,6 +18734,36 @@ local-zone: "covid19.army" redirect
 local-data: "covid19.army A 0.0.0.0"
 local-zone: "covid-19-quarantine.com" redirect
 local-data: "covid-19-quarantine.com A 0.0.0.0"
+local-zone: "syage-covid19-assessment.com" redirect
+local-data: "syage-covid19-assessment.com A 0.0.0.0"
+local-zone: "covid-19.factuallyhealth.com" redirect
+local-data: "covid-19.factuallyhealth.com A 0.0.0.0"
+local-zone: "www.masksforcovid19.store" redirect
+local-data: "www.masksforcovid19.store A 0.0.0.0"
+local-zone: "covid-19alert.com" redirect
+local-data: "covid-19alert.com A 0.0.0.0"
+local-zone: "covid19.publica.gr" redirect
+local-data: "covid19.publica.gr A 0.0.0.0"
+local-zone: "wolof-covid-19-sn.onrender.com" redirect
+local-data: "wolof-covid-19-sn.onrender.com A 0.0.0.0"
+local-zone: "thcovid19.com" redirect
+local-data: "thcovid19.com A 0.0.0.0"
+local-zone: "prevention-coronavirus.dev2.the-mooc-agency.com" redirect
+local-data: "prevention-coronavirus.dev2.the-mooc-agency.com A 0.0.0.0"
+local-zone: "covid19.schene.net" redirect
+local-data: "covid19.schene.net A 0.0.0.0"
+local-zone: "stopcoronavirus.cd" redirect
+local-data: "stopcoronavirus.cd A 0.0.0.0"
+local-zone: "covid19globalsummit.pages.ontraport.net" redirect
+local-data: "covid19globalsummit.pages.ontraport.net A 0.0.0.0"
+local-zone: "2019ncov-status.live" redirect
+local-data: "2019ncov-status.live A 0.0.0.0"
+local-zone: "api.be7d3ab5.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.be7d3ab5.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "www.algeriacovid19.com" redirect
+local-data: "www.algeriacovid19.com A 0.0.0.0"
+local-zone: "covid19th.tondev.com" redirect
+local-data: "covid19th.tondev.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
