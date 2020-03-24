@@ -9290,6 +9290,15 @@ local-zone: "cowandcovid19.com" static
 local-zone: "coronavirusfakten.de" static
 local-zone: "coronavirus.mwe.com" static
 local-zone: "qreg-covid19.as-sr.sk" static
+local-zone: "www.melcovid19checker.com" static
+local-zone: "beatcovid19now.com" static
+local-zone: "covid19boards.com" static
+local-zone: "2020covid19.net" static
+local-zone: "www.corona-virus-news.today" static
+local-zone: "moniteaucovid19.com" static
+local-zone: "cmc542.covid19.eas.cornell.edu" static
+local-zone: "coronavirus.skynet.com.uy" static
+local-zone: "mycoronavirustestkit.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -9710,6 +9719,9 @@ local-zone: "covid-19-france.com" static
 local-zone: "covid-19-france.info" static
 local-zone: "covid19testkits.org.uk" static
 local-zone: "dailycovid-19.it" static
+local-zone: "ifcoronavirus.org" static
+local-zone: "coronavirusdata.uk" static
+local-zone: "coronavirus-ni.com" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static

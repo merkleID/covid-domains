@@ -18582,6 +18582,24 @@ local-zone: "coronavirus.mwe.com" redirect
 local-data: "coronavirus.mwe.com A 0.0.0.0"
 local-zone: "qreg-covid19.as-sr.sk" redirect
 local-data: "qreg-covid19.as-sr.sk A 0.0.0.0"
+local-zone: "www.melcovid19checker.com" redirect
+local-data: "www.melcovid19checker.com A 0.0.0.0"
+local-zone: "beatcovid19now.com" redirect
+local-data: "beatcovid19now.com A 0.0.0.0"
+local-zone: "covid19boards.com" redirect
+local-data: "covid19boards.com A 0.0.0.0"
+local-zone: "2020covid19.net" redirect
+local-data: "2020covid19.net A 0.0.0.0"
+local-zone: "www.corona-virus-news.today" redirect
+local-data: "www.corona-virus-news.today A 0.0.0.0"
+local-zone: "moniteaucovid19.com" redirect
+local-data: "moniteaucovid19.com A 0.0.0.0"
+local-zone: "cmc542.covid19.eas.cornell.edu" redirect
+local-data: "cmc542.covid19.eas.cornell.edu A 0.0.0.0"
+local-zone: "coronavirus.skynet.com.uy" redirect
+local-data: "coronavirus.skynet.com.uy A 0.0.0.0"
+local-zone: "mycoronavirustestkit.com" redirect
+local-data: "mycoronavirustestkit.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -19422,6 +19440,12 @@ local-zone: "covid19testkits.org.uk" redirect
 local-data: "covid19testkits.org.uk A 0.0.0.0"
 local-zone: "dailycovid-19.it" redirect
 local-data: "dailycovid-19.it A 0.0.0.0"
+local-zone: "ifcoronavirus.org" redirect
+local-data: "ifcoronavirus.org A 0.0.0.0"
+local-zone: "coronavirusdata.uk" redirect
+local-data: "coronavirusdata.uk A 0.0.0.0"
+local-zone: "coronavirus-ni.com" redirect
+local-data: "coronavirus-ni.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
