@@ -18764,6 +18764,48 @@ local-zone: "www.algeriacovid19.com" redirect
 local-data: "www.algeriacovid19.com A 0.0.0.0"
 local-zone: "covid19th.tondev.com" redirect
 local-data: "covid19th.tondev.com A 0.0.0.0"
+local-zone: "oregoncoronavirusupdate.com" redirect
+local-data: "oregoncoronavirusupdate.com A 0.0.0.0"
+local-zone: "www.covid19musicrelief.byspotify.com" redirect
+local-data: "www.covid19musicrelief.byspotify.com A 0.0.0.0"
+local-zone: "cadeau-covid19.com" redirect
+local-data: "cadeau-covid19.com A 0.0.0.0"
+local-zone: "perthcoronavirus.com" redirect
+local-data: "perthcoronavirus.com A 0.0.0.0"
+local-zone: "www.coronavirus19screening.com" redirect
+local-data: "www.coronavirus19screening.com A 0.0.0.0"
+local-zone: "www.coronavirustestandscreening.com" redirect
+local-data: "www.coronavirustestandscreening.com A 0.0.0.0"
+local-zone: "coronavirus19screening.com" redirect
+local-data: "coronavirus19screening.com A 0.0.0.0"
+local-zone: "covid19ezeiza.dstecnologia.com.ar" redirect
+local-data: "covid19ezeiza.dstecnologia.com.ar A 0.0.0.0"
+local-zone: "coronavirus.methodologic.com.ve" redirect
+local-data: "coronavirus.methodologic.com.ve A 0.0.0.0"
+local-zone: "covid19.binarynightowl.com" redirect
+local-data: "covid19.binarynightowl.com A 0.0.0.0"
+local-zone: "coronavirus.rcaid.org" redirect
+local-data: "coronavirus.rcaid.org A 0.0.0.0"
+local-zone: "free-covid19.tk" redirect
+local-data: "free-covid19.tk A 0.0.0.0"
+local-zone: "api.4278bbaf.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.4278bbaf.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "vencercovid19.com" redirect
+local-data: "vencercovid19.com A 0.0.0.0"
+local-zone: "covid19.hoag.io" redirect
+local-data: "covid19.hoag.io A 0.0.0.0"
+local-zone: "coronaviruseradication.com" redirect
+local-data: "coronaviruseradication.com A 0.0.0.0"
+local-zone: "vircovid19.com" redirect
+local-data: "vircovid19.com A 0.0.0.0"
+local-zone: "covid19.qld.gov.au" redirect
+local-data: "covid19.qld.gov.au A 0.0.0.0"
+local-zone: "preventionforcoronavirus.com" redirect
+local-data: "preventionforcoronavirus.com A 0.0.0.0"
+local-zone: "corona-virus.gplayer.uk" redirect
+local-data: "corona-virus.gplayer.uk A 0.0.0.0"
+local-zone: "cardiovscovid19.org" redirect
+local-data: "cardiovscovid19.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
