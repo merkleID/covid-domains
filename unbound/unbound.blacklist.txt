@@ -18276,6 +18276,58 @@ local-zone: "waroncovid19.com" redirect
 local-data: "waroncovid19.com A 0.0.0.0"
 local-zone: "www.latestcoronavirustips.bridegroomdress.com" redirect
 local-data: "www.latestcoronavirustips.bridegroomdress.com A 0.0.0.0"
+local-zone: "covid19-feedbackws.icloud.com" redirect
+local-data: "covid19-feedbackws.icloud.com A 0.0.0.0"
+local-zone: "cancel.payment.covid19.kaissa.io" redirect
+local-data: "cancel.payment.covid19.kaissa.io A 0.0.0.0"
+local-zone: "waroncoronavirus.com" redirect
+local-data: "waroncoronavirus.com A 0.0.0.0"
+local-zone: "covid19stories.net" redirect
+local-data: "covid19stories.net A 0.0.0.0"
+local-zone: "www.covid19stories.net" redirect
+local-data: "www.covid19stories.net A 0.0.0.0"
+local-zone: "covid19gestio.catsalut.cat" redirect
+local-data: "covid19gestio.catsalut.cat A 0.0.0.0"
+local-zone: "waroncoronavirus.com" redirect
+local-data: "waroncoronavirus.com A 0.0.0.0"
+local-zone: "www.covid19histories.org" redirect
+local-data: "www.covid19histories.org A 0.0.0.0"
+local-zone: "api.1f63f880.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.1f63f880.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "escape-corona-virus.com" redirect
+local-data: "escape-corona-virus.com A 0.0.0.0"
+local-zone: "api.aa970a93.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.aa970a93.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "attachments.covid19support.senseilabs.com" redirect
+local-data: "attachments.covid19support.senseilabs.com A 0.0.0.0"
+local-zone: "laravel.master.volontari-covid-19.n3.caffeina.host" redirect
+local-data: "laravel.master.volontari-covid-19.n3.caffeina.host A 0.0.0.0"
+local-zone: "etcovid-19.com" redirect
+local-data: "etcovid-19.com A 0.0.0.0"
+local-zone: "www.coronavirusmortgagehelp.co.uk" redirect
+local-data: "www.coronavirusmortgagehelp.co.uk A 0.0.0.0"
+local-zone: "www.coronavirus.worg.org.in" redirect
+local-data: "www.coronavirus.worg.org.in A 0.0.0.0"
+local-zone: "api.e27d6797.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.e27d6797.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "e27d6797.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "e27d6797.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "icoronavirus.org" redirect
+local-data: "icoronavirus.org A 0.0.0.0"
+local-zone: "covid19.growleader.com" redirect
+local-data: "covid19.growleader.com A 0.0.0.0"
+local-zone: "pbpinner.alpha-01.bootstrap.stopcoronavirus.tech" redirect
+local-data: "pbpinner.alpha-01.bootstrap.stopcoronavirus.tech A 0.0.0.0"
+local-zone: "covid-19.wbrc.io" redirect
+local-data: "covid-19.wbrc.io A 0.0.0.0"
+local-zone: "segundasvictimascovid19.umh.es" redirect
+local-data: "segundasvictimascovid19.umh.es A 0.0.0.0"
+local-zone: "smc-covid19.com" redirect
+local-data: "smc-covid19.com A 0.0.0.0"
+local-zone: "covid-19.medelse.com" redirect
+local-data: "covid-19.medelse.com A 0.0.0.0"
+local-zone: "foracoronavirus.com" redirect
+local-data: "foracoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
