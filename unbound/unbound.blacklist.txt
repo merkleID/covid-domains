@@ -18832,6 +18832,34 @@ local-zone: "coronavirus.cnasec.fr" redirect
 local-data: "coronavirus.cnasec.fr A 0.0.0.0"
 local-zone: "covid19.converseon.com" redirect
 local-data: "covid19.converseon.com A 0.0.0.0"
+local-zone: "anti-coronavirus-hypnose.de" redirect
+local-data: "anti-coronavirus-hypnose.de A 0.0.0.0"
+local-zone: "x-covid19.com" redirect
+local-data: "x-covid19.com A 0.0.0.0"
+local-zone: "pe-covid19.jhonguerra.info" redirect
+local-data: "pe-covid19.jhonguerra.info A 0.0.0.0"
+local-zone: "selfreportcovid19.com" redirect
+local-data: "selfreportcovid19.com A 0.0.0.0"
+local-zone: "www.covid19.la" redirect
+local-data: "www.covid19.la A 0.0.0.0"
+local-zone: "hilfe-covid19.de" redirect
+local-data: "hilfe-covid19.de A 0.0.0.0"
+local-zone: "coronavirusdeepdisinfection.com" redirect
+local-data: "coronavirusdeepdisinfection.com A 0.0.0.0"
+local-zone: "www.covid19warplan.com" redirect
+local-data: "www.covid19warplan.com A 0.0.0.0"
+local-zone: "puertoricocovid19.com" redirect
+local-data: "puertoricocovid19.com A 0.0.0.0"
+local-zone: "www.anticoronavirus2020.com" redirect
+local-data: "www.anticoronavirus2020.com A 0.0.0.0"
+local-zone: "dashcovid19.cos.ufrj.br" redirect
+local-data: "dashcovid19.cos.ufrj.br A 0.0.0.0"
+local-zone: "www.covid19.london" redirect
+local-data: "www.covid19.london A 0.0.0.0"
+local-zone: "www.covid-19.london" redirect
+local-data: "www.covid-19.london A 0.0.0.0"
+local-zone: "covid19frontliners.3zd.org" redirect
+local-data: "covid19frontliners.3zd.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -19694,6 +19722,10 @@ local-zone: "maricopacountycovid19.com" redirect
 local-data: "maricopacountycovid19.com A 0.0.0.0"
 local-zone: "datoscoronavirus.com" redirect
 local-data: "datoscoronavirus.com A 0.0.0.0"
+local-zone: "covid19koronavirus.ru" redirect
+local-data: "covid19koronavirus.ru A 0.0.0.0"
+local-zone: "dascoronavirus.de" redirect
+local-data: "dascoronavirus.de A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
