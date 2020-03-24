@@ -17418,6 +17418,24 @@ local-zone: "covid19.phoolbutta.com" redirect
 local-data: "covid19.phoolbutta.com A 0.0.0.0"
 local-zone: "huroncountyohiocovid19.net" redirect
 local-data: "huroncountyohiocovid19.net A 0.0.0.0"
+local-zone: "informacioncoronavirus.net" redirect
+local-data: "informacioncoronavirus.net A 0.0.0.0"
+local-zone: "covid19nz.micy.in" redirect
+local-data: "covid19nz.micy.in A 0.0.0.0"
+local-zone: "peoplewhohadcoronavirus.info" redirect
+local-data: "peoplewhohadcoronavirus.info A 0.0.0.0"
+local-zone: "covid19boards.com" redirect
+local-data: "covid19boards.com A 0.0.0.0"
+local-zone: "oncovid19.myownboss.ca" redirect
+local-data: "oncovid19.myownboss.ca A 0.0.0.0"
+local-zone: "covid19.iesalud.edu.mx" redirect
+local-data: "covid19.iesalud.edu.mx A 0.0.0.0"
+local-zone: "covid19.gratis" redirect
+local-data: "covid19.gratis A 0.0.0.0"
+local-zone: "covid19.hidigital.in" redirect
+local-data: "covid19.hidigital.in A 0.0.0.0"
+local-zone: "covid19.hasatx.org" redirect
+local-data: "covid19.hasatx.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -18210,6 +18228,8 @@ local-zone: "covid-19.dnastack.com" redirect
 local-data: "covid-19.dnastack.com A 0.0.0.0"
 local-zone: "coronavirusfilms.net" redirect
 local-data: "coronavirusfilms.net A 0.0.0.0"
+local-zone: "ifcoronavirus.org" redirect
+local-data: "ifcoronavirus.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
