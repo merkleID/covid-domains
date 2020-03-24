@@ -17436,6 +17436,24 @@ local-zone: "covid19.hidigital.in" redirect
 local-data: "covid19.hidigital.in A 0.0.0.0"
 local-zone: "covid19.hasatx.org" redirect
 local-data: "covid19.hasatx.org A 0.0.0.0"
+local-zone: "covid19.hardbyte.nz" redirect
+local-data: "covid19.hardbyte.nz A 0.0.0.0"
+local-zone: "coronavirusmexico.info" redirect
+local-data: "coronavirusmexico.info A 0.0.0.0"
+local-zone: "covid19.ciboboko.net" redirect
+local-data: "covid19.ciboboko.net A 0.0.0.0"
+local-zone: "coronavirusdefense.com" redirect
+local-data: "coronavirusdefense.com A 0.0.0.0"
+local-zone: "covid-19.farm" redirect
+local-data: "covid-19.farm A 0.0.0.0"
+local-zone: "eugene.responsetocovid19.com" redirect
+local-data: "eugene.responsetocovid19.com A 0.0.0.0"
+local-zone: "www.ifcoronavirus.org" redirect
+local-data: "www.ifcoronavirus.org A 0.0.0.0"
+local-zone: "beatcovid19now.com" redirect
+local-data: "beatcovid19now.com A 0.0.0.0"
+local-zone: "www.fightcovid19.naijaupdates.com.ng" redirect
+local-data: "www.fightcovid19.naijaupdates.com.ng A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -18230,6 +18248,8 @@ local-zone: "coronavirusfilms.net" redirect
 local-data: "coronavirusfilms.net A 0.0.0.0"
 local-zone: "ifcoronavirus.org" redirect
 local-data: "ifcoronavirus.org A 0.0.0.0"
+local-zone: "coronavirusarea.com" redirect
+local-data: "coronavirusarea.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
