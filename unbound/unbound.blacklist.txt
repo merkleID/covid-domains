@@ -17092,6 +17092,28 @@ local-zone: "yosobrevivialcovid19.com" redirect
 local-data: "yosobrevivialcovid19.com A 0.0.0.0"
 local-zone: "api.rapidtest.relawancovid19.id" redirect
 local-data: "api.rapidtest.relawancovid19.id A 0.0.0.0"
+local-zone: "covid19ahf.pruebaspairus.com" redirect
+local-data: "covid19ahf.pruebaspairus.com A 0.0.0.0"
+local-zone: "www.sen-covid-19.co.uk" redirect
+local-data: "www.sen-covid-19.co.uk A 0.0.0.0"
+local-zone: "covid19.sea.innoenergy.com" redirect
+local-data: "covid19.sea.innoenergy.com A 0.0.0.0"
+local-zone: "coronavirus.changebrasil.org" redirect
+local-data: "coronavirus.changebrasil.org A 0.0.0.0"
+local-zone: "covid19-testimonialsinternational.com" redirect
+local-data: "covid19-testimonialsinternational.com A 0.0.0.0"
+local-zone: "coronavirus-change.org" redirect
+local-data: "coronavirus-change.org A 0.0.0.0"
+local-zone: "fr.covid19-testimonialsinternational.com" redirect
+local-data: "fr.covid19-testimonialsinternational.com A 0.0.0.0"
+local-zone: "mm.coronavirus.de" redirect
+local-data: "mm.coronavirus.de A 0.0.0.0"
+local-zone: "autotestcovid19.org" redirect
+local-data: "autotestcovid19.org A 0.0.0.0"
+local-zone: "es.covid19-testimonialsinternational.com" redirect
+local-data: "es.covid19-testimonialsinternational.com A 0.0.0.0"
+local-zone: "www.buildagainstcovid19.com" redirect
+local-data: "www.buildagainstcovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -17860,6 +17882,16 @@ local-zone: "covid-19aware.online" redirect
 local-data: "covid-19aware.online A 0.0.0.0"
 local-zone: "cdc-covid19.com" redirect
 local-data: "cdc-covid19.com A 0.0.0.0"
+local-zone: "coronavirusultimahora.org" redirect
+local-data: "coronavirusultimahora.org A 0.0.0.0"
+local-zone: "coronavirusayuda.org" redirect
+local-data: "coronavirusayuda.org A 0.0.0.0"
+local-zone: "coronavirus-anwalt.de" redirect
+local-data: "coronavirus-anwalt.de A 0.0.0.0"
+local-zone: "coronavirus-mv.de" redirect
+local-data: "coronavirus-mv.de A 0.0.0.0"
+local-zone: "surveycovid19.now.sh" redirect
+local-data: "surveycovid19.now.sh A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
