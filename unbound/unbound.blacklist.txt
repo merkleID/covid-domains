@@ -18452,6 +18452,62 @@ local-zone: "covid19.andradas.tur.br" redirect
 local-data: "covid19.andradas.tur.br A 0.0.0.0"
 local-zone: "www.ssh-covid19.nl" redirect
 local-data: "www.ssh-covid19.nl A 0.0.0.0"
+local-zone: "covid19.sabda.org" redirect
+local-data: "covid19.sabda.org A 0.0.0.0"
+local-zone: "www.covid19reporting.info" redirect
+local-data: "www.covid19reporting.info A 0.0.0.0"
+local-zone: "www.coronavirusanivelmundial.com" redirect
+local-data: "www.coronavirusanivelmundial.com A 0.0.0.0"
+local-zone: "mail.nocovid19.gr" redirect
+local-data: "mail.nocovid19.gr A 0.0.0.0"
+local-zone: "covid19.harmonhall.com" redirect
+local-data: "covid19.harmonhall.com A 0.0.0.0"
+local-zone: "www.chicagocovid19responsefund.org" redirect
+local-data: "www.chicagocovid19responsefund.org A 0.0.0.0"
+local-zone: "z4n-covid19-boost1help2.zendesk.com" redirect
+local-data: "z4n-covid19-boost1help2.zendesk.com A 0.0.0.0"
+local-zone: "covid19.oummi-academie.com" redirect
+local-data: "covid19.oummi-academie.com A 0.0.0.0"
+local-zone: "coronavirusbrief.com" redirect
+local-data: "coronavirusbrief.com A 0.0.0.0"
+local-zone: "mail.coronavirusanxieties.com" redirect
+local-data: "mail.coronavirusanxieties.com A 0.0.0.0"
+local-zone: "coronavirus.dev.openlawlibrary.us" redirect
+local-data: "coronavirus.dev.openlawlibrary.us A 0.0.0.0"
+local-zone: "api.eb9c602b.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.eb9c602b.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronavirus.santanadoacarau.ce.gov.br" redirect
+local-data: "coronavirus.santanadoacarau.ce.gov.br A 0.0.0.0"
+local-zone: "covid-19.kderbyma.com" redirect
+local-data: "covid-19.kderbyma.com A 0.0.0.0"
+local-zone: "covid19.gokoding.com" redirect
+local-data: "covid19.gokoding.com A 0.0.0.0"
+local-zone: "covid19.vanzotech.com" redirect
+local-data: "covid19.vanzotech.com A 0.0.0.0"
+local-zone: "homecoronaviruskit.com" redirect
+local-data: "homecoronaviruskit.com A 0.0.0.0"
+local-zone: "2019-ncov.kenkarlo.com" redirect
+local-data: "2019-ncov.kenkarlo.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost3.zendesk.com" redirect
+local-data: "z4n-covid19-boost3.zendesk.com A 0.0.0.0"
+local-zone: "covid19.boomit.com.br" redirect
+local-data: "covid19.boomit.com.br A 0.0.0.0"
+local-zone: "covid19traitors.com" redirect
+local-data: "covid19traitors.com A 0.0.0.0"
+local-zone: "covid19.plano.gov" redirect
+local-data: "covid19.plano.gov A 0.0.0.0"
+local-zone: "coronavirusbriefing.com" redirect
+local-data: "coronavirusbriefing.com A 0.0.0.0"
+local-zone: "covid19-bengkaliskab.com" redirect
+local-data: "covid19-bengkaliskab.com A 0.0.0.0"
+local-zone: "don-coronavirus.org" redirect
+local-data: "don-coronavirus.org A 0.0.0.0"
+local-zone: "covid-19ind.tk" redirect
+local-data: "covid-19ind.tk A 0.0.0.0"
+local-zone: "coronavirusliveupdate.now.sh" redirect
+local-data: "coronavirusliveupdate.now.sh A 0.0.0.0"
+local-zone: "2020covid19.net" redirect
+local-data: "2020covid19.net A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
