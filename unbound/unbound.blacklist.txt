@@ -17914,6 +17914,44 @@ local-zone: "www.coronavirus-staff.info" redirect
 local-data: "www.coronavirus-staff.info A 0.0.0.0"
 local-zone: "idscovid19.org" redirect
 local-data: "idscovid19.org A 0.0.0.0"
+local-zone: "covid19live.xyz" redirect
+local-data: "covid19live.xyz A 0.0.0.0"
+local-zone: "comunidadspaincovid19.com" redirect
+local-data: "comunidadspaincovid19.com A 0.0.0.0"
+local-zone: "againstcovid-19.com" redirect
+local-data: "againstcovid-19.com A 0.0.0.0"
+local-zone: "stopcovid19.zeeromed.it" redirect
+local-data: "stopcovid19.zeeromed.it A 0.0.0.0"
+local-zone: "www.ncovid19.in" redirect
+local-data: "www.ncovid19.in A 0.0.0.0"
+local-zone: "www.covid19.car.blog" redirect
+local-data: "www.covid19.car.blog A 0.0.0.0"
+local-zone: "covid19.car.blog" redirect
+local-data: "covid19.car.blog A 0.0.0.0"
+local-zone: "ncovid19.in" redirect
+local-data: "ncovid19.in A 0.0.0.0"
+local-zone: "testkitcovid19.co.uk" redirect
+local-data: "testkitcovid19.co.uk A 0.0.0.0"
+local-zone: "www.testkitcovid19.co.uk" redirect
+local-data: "www.testkitcovid19.co.uk A 0.0.0.0"
+local-zone: "covid19.anpass.com" redirect
+local-data: "covid19.anpass.com A 0.0.0.0"
+local-zone: "covid-19exposure.com" redirect
+local-data: "covid-19exposure.com A 0.0.0.0"
+local-zone: "e2d377f6.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "e2d377f6.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "api.e2d377f6.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.e2d377f6.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronavirusprotector.in" redirect
+local-data: "coronavirusprotector.in A 0.0.0.0"
+local-zone: "hbsf-covid19.com" redirect
+local-data: "hbsf-covid19.com A 0.0.0.0"
+local-zone: "covid19saudihackathon.com" redirect
+local-data: "covid19saudihackathon.com A 0.0.0.0"
+local-zone: "covid19.kotamobagukota.go.id" redirect
+local-data: "covid19.kotamobagukota.go.id A 0.0.0.0"
+local-zone: "covid19.seychelles.travel" redirect
+local-data: "covid19.seychelles.travel A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
