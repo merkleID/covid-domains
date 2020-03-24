@@ -17822,6 +17822,40 @@ local-zone: "covid19businessresponse.ke" redirect
 local-data: "covid19businessresponse.ke A 0.0.0.0"
 local-zone: "covid19crc.org" redirect
 local-data: "covid19crc.org A 0.0.0.0"
+local-zone: "covid-19-update.sherwin-williams.com" redirect
+local-data: "covid-19-update.sherwin-williams.com A 0.0.0.0"
+local-zone: "covid-19.genesis-tec.com" redirect
+local-data: "covid-19.genesis-tec.com A 0.0.0.0"
+local-zone: "coronavirus.bangaloaudiovisual.com" redirect
+local-data: "coronavirus.bangaloaudiovisual.com A 0.0.0.0"
+local-zone: "covid19.criciuma.sc.gov.br" redirect
+local-data: "covid19.criciuma.sc.gov.br A 0.0.0.0"
+local-zone: "coronavirus.ticyweb.ch" redirect
+local-data: "coronavirus.ticyweb.ch A 0.0.0.0"
+local-zone: "covid19-test.banglikab.go.id" redirect
+local-data: "covid19-test.banglikab.go.id A 0.0.0.0"
+local-zone: "covid19mapachile.cl" redirect
+local-data: "covid19mapachile.cl A 0.0.0.0"
+local-zone: "covid-19.cl" redirect
+local-data: "covid-19.cl A 0.0.0.0"
+local-zone: "ecomcovid19.com" redirect
+local-data: "ecomcovid19.com A 0.0.0.0"
+local-zone: "api.coronavirusliveupdate.org" redirect
+local-data: "api.coronavirusliveupdate.org A 0.0.0.0"
+local-zone: "www.covid-19dk.live" redirect
+local-data: "www.covid-19dk.live A 0.0.0.0"
+local-zone: "coronavirussurvivors.club" redirect
+local-data: "coronavirussurvivors.club A 0.0.0.0"
+local-zone: "receiver.haveigotcoronavirus.info" redirect
+local-data: "receiver.haveigotcoronavirus.info A 0.0.0.0"
+local-zone: "covid19saosebastiao.michelliveneziani.com.br" redirect
+local-data: "covid19saosebastiao.michelliveneziani.com.br A 0.0.0.0"
+local-zone: "covid19.ubu.care" redirect
+local-data: "covid19.ubu.care A 0.0.0.0"
+local-zone: "stopcovid19.bg" redirect
+local-data: "stopcovid19.bg A 0.0.0.0"
+local-zone: "esn-covid19.es" redirect
+local-data: "esn-covid19.es A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -18624,6 +18658,8 @@ local-zone: "covid19policoro.it" redirect
 local-data: "covid19policoro.it A 0.0.0.0"
 local-zone: "covid19basilicata.it" redirect
 local-data: "covid19basilicata.it A 0.0.0.0"
+local-zone: "coronavirusafectados.com" redirect
+local-data: "coronavirusafectados.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
