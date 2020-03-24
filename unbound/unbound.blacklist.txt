@@ -17476,6 +17476,24 @@ local-zone: "sars-coronavirus.org" redirect
 local-data: "sars-coronavirus.org A 0.0.0.0"
 local-zone: "covid19.sumbabaratkab.go.id" redirect
 local-data: "covid19.sumbabaratkab.go.id A 0.0.0.0"
+local-zone: "coronavirus-monitor.site" redirect
+local-data: "coronavirus-monitor.site A 0.0.0.0"
+local-zone: "alaskacovid19ppe.com" redirect
+local-data: "alaskacovid19ppe.com A 0.0.0.0"
+local-zone: "covid19.adams.neonrainhosting.com" redirect
+local-data: "covid19.adams.neonrainhosting.com A 0.0.0.0"
+local-zone: "anwalt-coronavirus.ch" redirect
+local-data: "anwalt-coronavirus.ch A 0.0.0.0"
+local-zone: "www.anwalt-coronavirus.ch" redirect
+local-data: "www.anwalt-coronavirus.ch A 0.0.0.0"
+local-zone: "covid19.cefada.com" redirect
+local-data: "covid19.cefada.com A 0.0.0.0"
+local-zone: "covid19trackingstatus.org" redirect
+local-data: "covid19trackingstatus.org A 0.0.0.0"
+local-zone: "covid19.xavincidev.com" redirect
+local-data: "covid19.xavincidev.com A 0.0.0.0"
+local-zone: "coronavirus.lisrain.site" redirect
+local-data: "coronavirus.lisrain.site A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
