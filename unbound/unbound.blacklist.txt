@@ -17494,6 +17494,46 @@ local-zone: "covid19.xavincidev.com" redirect
 local-data: "covid19.xavincidev.com A 0.0.0.0"
 local-zone: "coronavirus.lisrain.site" redirect
 local-data: "coronavirus.lisrain.site A 0.0.0.0"
+local-zone: "www.coronavirus-hotline.ru" redirect
+local-data: "www.coronavirus-hotline.ru A 0.0.0.0"
+local-zone: "coronavirusmedia.ru" redirect
+local-data: "coronavirusmedia.ru A 0.0.0.0"
+local-zone: "www.corona-virus-info.ru" redirect
+local-data: "www.corona-virus-info.ru A 0.0.0.0"
+local-zone: "covid19-sa.freespacersa.co.za" redirect
+local-data: "covid19-sa.freespacersa.co.za A 0.0.0.0"
+local-zone: "www.covid19.wascoindonesia.com.wascoindonesia.com" redirect
+local-data: "www.covid19.wascoindonesia.com.wascoindonesia.com A 0.0.0.0"
+local-zone: "coronavirustactics.com" redirect
+local-data: "coronavirustactics.com A 0.0.0.0"
+local-zone: "covid19.jatim.amirmb.com" redirect
+local-data: "covid19.jatim.amirmb.com A 0.0.0.0"
+local-zone: "www.studentcovid19response.wustl.edu" redirect
+local-data: "www.studentcovid19response.wustl.edu A 0.0.0.0"
+local-zone: "www.coronavirusgov.com" redirect
+local-data: "www.coronavirusgov.com A 0.0.0.0"
+local-zone: "covid19boards.com" redirect
+local-data: "covid19boards.com A 0.0.0.0"
+local-zone: "coronavirussebachao.cf" redirect
+local-data: "coronavirussebachao.cf A 0.0.0.0"
+local-zone: "anticoronavirus.moscow" redirect
+local-data: "anticoronavirus.moscow A 0.0.0.0"
+local-zone: "coronavirus.apk2mod.xyz" redirect
+local-data: "coronavirus.apk2mod.xyz A 0.0.0.0"
+local-zone: "coronavirus.podiatrywales.co.uk" redirect
+local-data: "coronavirus.podiatrywales.co.uk A 0.0.0.0"
+local-zone: "www.covid-19.smkcordova.sch.id" redirect
+local-data: "www.covid-19.smkcordova.sch.id A 0.0.0.0"
+local-zone: "ncov-19.freespacersa.co.za" redirect
+local-data: "ncov-19.freespacersa.co.za A 0.0.0.0"
+local-zone: "www.covid19news.it" redirect
+local-data: "www.covid19news.it A 0.0.0.0"
+local-zone: "covid19.tanjabbarkab.go.id" redirect
+local-data: "covid19.tanjabbarkab.go.id A 0.0.0.0"
+local-zone: "dev.covid19cdn.jp" redirect
+local-data: "dev.covid19cdn.jp A 0.0.0.0"
+local-zone: "covid19.gov.lv" redirect
+local-data: "covid19.gov.lv A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
