@@ -8766,6 +8766,18 @@ local-zone: "www.covid19news.it" static
 local-zone: "covid19.tanjabbarkab.go.id" static
 local-zone: "dev.covid19cdn.jp" static
 local-zone: "covid19.gov.lv" static
+local-zone: "coronaviruskitsite.jamesblews.com" static
+local-zone: "covid19-support.oracle.com" static
+local-zone: "covid19.xavincidev.com" static
+local-zone: "covid19.ngadakab.go.id" static
+local-zone: "duvidascoronavirus.com" static
+local-zone: "www.coronavirus2020.tk" static
+local-zone: "www.covid19trackingstatus.org" static
+local-zone: "covid19.redbird.co" static
+local-zone: "covid19app.care" static
+local-zone: "api.covid19.ziphio.com" static
+local-zone: "coronavirus-today.site" static
+local-zone: "coronaviruspredictor.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -9164,6 +9176,8 @@ local-zone: "covid-19.dnastack.com" static
 local-zone: "coronavirusfilms.net" static
 local-zone: "ifcoronavirus.org" static
 local-zone: "coronavirusarea.com" static
+local-zone: "comitatofvgcontrocovid19.it" static
+local-zone: "covid19policoro.it" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static

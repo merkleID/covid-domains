@@ -17534,6 +17534,30 @@ local-zone: "dev.covid19cdn.jp" redirect
 local-data: "dev.covid19cdn.jp A 0.0.0.0"
 local-zone: "covid19.gov.lv" redirect
 local-data: "covid19.gov.lv A 0.0.0.0"
+local-zone: "coronaviruskitsite.jamesblews.com" redirect
+local-data: "coronaviruskitsite.jamesblews.com A 0.0.0.0"
+local-zone: "covid19-support.oracle.com" redirect
+local-data: "covid19-support.oracle.com A 0.0.0.0"
+local-zone: "covid19.xavincidev.com" redirect
+local-data: "covid19.xavincidev.com A 0.0.0.0"
+local-zone: "covid19.ngadakab.go.id" redirect
+local-data: "covid19.ngadakab.go.id A 0.0.0.0"
+local-zone: "duvidascoronavirus.com" redirect
+local-data: "duvidascoronavirus.com A 0.0.0.0"
+local-zone: "www.coronavirus2020.tk" redirect
+local-data: "www.coronavirus2020.tk A 0.0.0.0"
+local-zone: "www.covid19trackingstatus.org" redirect
+local-data: "www.covid19trackingstatus.org A 0.0.0.0"
+local-zone: "covid19.redbird.co" redirect
+local-data: "covid19.redbird.co A 0.0.0.0"
+local-zone: "covid19app.care" redirect
+local-data: "covid19app.care A 0.0.0.0"
+local-zone: "api.covid19.ziphio.com" redirect
+local-data: "api.covid19.ziphio.com A 0.0.0.0"
+local-zone: "coronavirus-today.site" redirect
+local-data: "coronavirus-today.site A 0.0.0.0"
+local-zone: "coronaviruspredictor.com" redirect
+local-data: "coronaviruspredictor.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -18330,6 +18354,10 @@ local-zone: "ifcoronavirus.org" redirect
 local-data: "ifcoronavirus.org A 0.0.0.0"
 local-zone: "coronavirusarea.com" redirect
 local-data: "coronavirusarea.com A 0.0.0.0"
+local-zone: "comitatofvgcontrocovid19.it" redirect
+local-data: "comitatofvgcontrocovid19.it A 0.0.0.0"
+local-zone: "covid19policoro.it" redirect
+local-data: "covid19policoro.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
