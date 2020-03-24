@@ -18412,6 +18412,46 @@ local-zone: "coronavirus.hollandhart.com" redirect
 local-data: "coronavirus.hollandhart.com A 0.0.0.0"
 local-zone: "mail.nocovid19.gr" redirect
 local-data: "mail.nocovid19.gr A 0.0.0.0"
+local-zone: "infoscovid19.zendesk.com" redirect
+local-data: "infoscovid19.zendesk.com A 0.0.0.0"
+local-zone: "howisurvivedcovid-19.com" redirect
+local-data: "howisurvivedcovid-19.com A 0.0.0.0"
+local-zone: "covid19products.communitydataplatforms.com" redirect
+local-data: "covid19products.communitydataplatforms.com A 0.0.0.0"
+local-zone: "humanity-against-coronavirus.com" redirect
+local-data: "humanity-against-coronavirus.com A 0.0.0.0"
+local-zone: "iamlivingcoronavirus.com" redirect
+local-data: "iamlivingcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.lkameya.com" redirect
+local-data: "covid19.lkameya.com A 0.0.0.0"
+local-zone: "covid19.freework.ci" redirect
+local-data: "covid19.freework.ci A 0.0.0.0"
+local-zone: "indonesia-coronavirus.com" redirect
+local-data: "indonesia-coronavirus.com A 0.0.0.0"
+local-zone: "coronavirus-today.site" redirect
+local-data: "coronavirus-today.site A 0.0.0.0"
+local-zone: "www.covid19jombang.gatsubro.id" redirect
+local-data: "www.covid19jombang.gatsubro.id A 0.0.0.0"
+local-zone: "covid19.plano.gov" redirect
+local-data: "covid19.plano.gov A 0.0.0.0"
+local-zone: "coronavirus-statistika.com" redirect
+local-data: "coronavirus-statistika.com A 0.0.0.0"
+local-zone: "coronavirusvaccineglobal.com" redirect
+local-data: "coronavirusvaccineglobal.com A 0.0.0.0"
+local-zone: "covid19.marceloroca.com" redirect
+local-data: "covid19.marceloroca.com A 0.0.0.0"
+local-zone: "covid-19victims.com" redirect
+local-data: "covid-19victims.com A 0.0.0.0"
+local-zone: "covid19-syria.com" redirect
+local-data: "covid19-syria.com A 0.0.0.0"
+local-zone: "coronavirus-us.jamesonsaunders.com" redirect
+local-data: "coronavirus-us.jamesonsaunders.com A 0.0.0.0"
+local-zone: "coronavirus.jbalazer.com" redirect
+local-data: "coronavirus.jbalazer.com A 0.0.0.0"
+local-zone: "covid19.andradas.tur.br" redirect
+local-data: "covid19.andradas.tur.br A 0.0.0.0"
+local-zone: "www.ssh-covid19.nl" redirect
+local-data: "www.ssh-covid19.nl A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -19248,6 +19288,10 @@ local-zone: "covid-19-france.com" redirect
 local-data: "covid-19-france.com A 0.0.0.0"
 local-zone: "covid-19-france.info" redirect
 local-data: "covid-19-france.info A 0.0.0.0"
+local-zone: "covid19testkits.org.uk" redirect
+local-data: "covid19testkits.org.uk A 0.0.0.0"
+local-zone: "dailycovid-19.it" redirect
+local-data: "dailycovid-19.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
