@@ -17658,6 +17658,24 @@ local-zone: "covid19.inapp.io" redirect
 local-data: "covid19.inapp.io A 0.0.0.0"
 local-zone: "staging2.covid19-bayarea-support.com" redirect
 local-data: "staging2.covid19-bayarea-support.com A 0.0.0.0"
+local-zone: "aboutcovid-19.tk" redirect
+local-data: "aboutcovid-19.tk A 0.0.0.0"
+local-zone: "covid19.data.gov.rs" redirect
+local-data: "covid19.data.gov.rs A 0.0.0.0"
+local-zone: "anticoronavirushypnose.de" redirect
+local-data: "anticoronavirushypnose.de A 0.0.0.0"
+local-zone: "bb1d878d.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "bb1d878d.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "www.novelcoronavirus2019.net" redirect
+local-data: "www.novelcoronavirus2019.net A 0.0.0.0"
+local-zone: "coronavirushypnose.de" redirect
+local-data: "coronavirushypnose.de A 0.0.0.0"
+local-zone: "coronavirus-hypnose.de" redirect
+local-data: "coronavirus-hypnose.de A 0.0.0.0"
+local-zone: "covid19vitals.com" redirect
+local-data: "covid19vitals.com A 0.0.0.0"
+local-zone: "covid-19.gsooka.com" redirect
+local-data: "covid-19.gsooka.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect

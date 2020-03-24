@@ -8828,6 +8828,15 @@ zone "covid-19.sijunjung.go.id" { type master; notify no; file null.zone.file; }
 zone "covid19-survey.ga" { type master; notify no; file null.zone.file; };
 zone "covid19.inapp.io" { type master; notify no; file null.zone.file; };
 zone "staging2.covid19-bayarea-support.com" { type master; notify no; file null.zone.file; };
+zone "aboutcovid-19.tk" { type master; notify no; file null.zone.file; };
+zone "covid19.data.gov.rs" { type master; notify no; file null.zone.file; };
+zone "anticoronavirushypnose.de" { type master; notify no; file null.zone.file; };
+zone "bb1d878d.test.covid-19.forms.digital.nhs.uk" { type master; notify no; file null.zone.file; };
+zone "www.novelcoronavirus2019.net" { type master; notify no; file null.zone.file; };
+zone "coronavirushypnose.de" { type master; notify no; file null.zone.file; };
+zone "coronavirus-hypnose.de" { type master; notify no; file null.zone.file; };
+zone "covid19vitals.com" { type master; notify no; file null.zone.file; };
+zone "covid-19.gsooka.com" { type master; notify no; file null.zone.file; };
 zone "anticoronavirus.cloud" { type master; notify no; file null.zone.file; };
 zone "anticoronavirustienda.com" { type master; notify no; file null.zone.file; };
 zone "californiacoronaviruslaw.com" { type master; notify no; file null.zone.file; };
