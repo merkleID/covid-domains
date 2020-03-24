@@ -18708,6 +18708,32 @@ local-zone: "coronaviruscovid19prevention.com" redirect
 local-data: "coronaviruscovid19prevention.com A 0.0.0.0"
 local-zone: "assimsaudecoronavirus.com.br" redirect
 local-data: "assimsaudecoronavirus.com.br A 0.0.0.0"
+local-zone: "covid19healthchecker.com" redirect
+local-data: "covid19healthchecker.com A 0.0.0.0"
+local-zone: "coronavirustactics.com" redirect
+local-data: "coronavirustactics.com A 0.0.0.0"
+local-zone: "covid19-minsaude.onrender.com" redirect
+local-data: "covid19-minsaude.onrender.com A 0.0.0.0"
+local-zone: "coronavirus-stat.com" redirect
+local-data: "coronavirus-stat.com A 0.0.0.0"
+local-zone: "covid19michigan.com" redirect
+local-data: "covid19michigan.com A 0.0.0.0"
+local-zone: "www.coronavirus.thesamstech.com" redirect
+local-data: "www.coronavirus.thesamstech.com A 0.0.0.0"
+local-zone: "masks-forcoronavirus.com" redirect
+local-data: "masks-forcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.altagas.ca" redirect
+local-data: "covid19.altagas.ca A 0.0.0.0"
+local-zone: "www.covid19.army" redirect
+local-data: "www.covid19.army A 0.0.0.0"
+local-zone: "storecoronavirus.com" redirect
+local-data: "storecoronavirus.com A 0.0.0.0"
+local-zone: "stopthechinavirus.com" redirect
+local-data: "stopthechinavirus.com A 0.0.0.0"
+local-zone: "covid19.army" redirect
+local-data: "covid19.army A 0.0.0.0"
+local-zone: "covid-19-quarantine.com" redirect
+local-data: "covid-19-quarantine.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -19566,6 +19592,10 @@ local-zone: "getyourcoronavirusmoney.com" redirect
 local-data: "getyourcoronavirusmoney.com A 0.0.0.0"
 local-zone: "centrostudi-imprese-covid19.com" redirect
 local-data: "centrostudi-imprese-covid19.com A 0.0.0.0"
+local-zone: "maricopacountycovid19.com" redirect
+local-data: "maricopacountycovid19.com A 0.0.0.0"
+local-zone: "datoscoronavirus.com" redirect
+local-data: "datoscoronavirus.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
