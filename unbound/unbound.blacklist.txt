@@ -18378,6 +18378,40 @@ local-zone: "evolucioncovid19.com" redirect
 local-data: "evolucioncovid19.com A 0.0.0.0"
 local-zone: "koronavirus-covid19.ru" redirect
 local-data: "koronavirus-covid19.ru A 0.0.0.0"
+local-zone: "covid19.idrapoll.com" redirect
+local-data: "covid19.idrapoll.com A 0.0.0.0"
+local-zone: "covid19.nlc.health" redirect
+local-data: "covid19.nlc.health A 0.0.0.0"
+local-zone: "emergiscoronavirus.nl" redirect
+local-data: "emergiscoronavirus.nl A 0.0.0.0"
+local-zone: "coronavirusvaccine.eu" redirect
+local-data: "coronavirusvaccine.eu A 0.0.0.0"
+local-zone: "covid19-artschive.com" redirect
+local-data: "covid19-artschive.com A 0.0.0.0"
+local-zone: "covid-19-france.info" redirect
+local-data: "covid-19-france.info A 0.0.0.0"
+local-zone: "coronavirus.mervintimothyreyes.com" redirect
+local-data: "coronavirus.mervintimothyreyes.com A 0.0.0.0"
+local-zone: "a641313f.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "a641313f.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronavirus.ibdstudios.com" redirect
+local-data: "coronavirus.ibdstudios.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost1.zendesk.com" redirect
+local-data: "z4n-covid19-boost1.zendesk.com A 0.0.0.0"
+local-zone: "covid19.harmonhall.com" redirect
+local-data: "covid19.harmonhall.com A 0.0.0.0"
+local-zone: "coronavirusvaccine.eu" redirect
+local-data: "coronavirusvaccine.eu A 0.0.0.0"
+local-zone: "doecoronavirus.com" redirect
+local-data: "doecoronavirus.com A 0.0.0.0"
+local-zone: "helpcovid19survivors.com" redirect
+local-data: "helpcovid19survivors.com A 0.0.0.0"
+local-zone: "thecoronavirusclassactionlawsuit.com" redirect
+local-data: "thecoronavirusclassactionlawsuit.com A 0.0.0.0"
+local-zone: "coronavirus.hollandhart.com" redirect
+local-data: "coronavirus.hollandhart.com A 0.0.0.0"
+local-zone: "mail.nocovid19.gr" redirect
+local-data: "mail.nocovid19.gr A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -19208,6 +19242,12 @@ local-zone: "covid19mobility.org" redirect
 local-data: "covid19mobility.org A 0.0.0.0"
 local-zone: "covid19cash.org" redirect
 local-data: "covid19cash.org A 0.0.0.0"
+local-zone: "covid-19-landing-page.nubestaging.com" redirect
+local-data: "covid-19-landing-page.nubestaging.com A 0.0.0.0"
+local-zone: "covid-19-france.com" redirect
+local-data: "covid-19-france.com A 0.0.0.0"
+local-zone: "covid-19-france.info" redirect
+local-data: "covid-19-france.info A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
