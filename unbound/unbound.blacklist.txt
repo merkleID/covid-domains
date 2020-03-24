@@ -18636,6 +18636,54 @@ local-zone: "coronavirusbrasil.tk" redirect
 local-data: "coronavirusbrasil.tk A 0.0.0.0"
 local-zone: "crm-tmx-covid19.agenciamci.com" redirect
 local-data: "crm-tmx-covid19.agenciamci.com A 0.0.0.0"
+local-zone: "coronavirusbrasil.tk" redirect
+local-data: "coronavirusbrasil.tk A 0.0.0.0"
+local-zone: "covid19.changethailand.org" redirect
+local-data: "covid19.changethailand.org A 0.0.0.0"
+local-zone: "z4n-covid19-boost20.zendesk.com" redirect
+local-data: "z4n-covid19-boost20.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost19.zendesk.com" redirect
+local-data: "z4n-covid19-boost19.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost18.zendesk.com" redirect
+local-data: "z4n-covid19-boost18.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost17.zendesk.com" redirect
+local-data: "z4n-covid19-boost17.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost16.zendesk.com" redirect
+local-data: "z4n-covid19-boost16.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost15.zendesk.com" redirect
+local-data: "z4n-covid19-boost15.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost14.zendesk.com" redirect
+local-data: "z4n-covid19-boost14.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost13.zendesk.com" redirect
+local-data: "z4n-covid19-boost13.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost12.zendesk.com" redirect
+local-data: "z4n-covid19-boost12.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost11.zendesk.com" redirect
+local-data: "z4n-covid19-boost11.zendesk.com A 0.0.0.0"
+local-zone: "covid-19detectionkit.co.uk" redirect
+local-data: "covid-19detectionkit.co.uk A 0.0.0.0"
+local-zone: "covid-19-symptoms.net" redirect
+local-data: "covid-19-symptoms.net A 0.0.0.0"
+local-zone: "covid19raiox.radiologiasp.com.br" redirect
+local-data: "covid19raiox.radiologiasp.com.br A 0.0.0.0"
+local-zone: "us-coronavirus-cases-state-by-state.afyfr.com" redirect
+local-data: "us-coronavirus-cases-state-by-state.afyfr.com A 0.0.0.0"
+local-zone: "coronavirus.komen.org" redirect
+local-data: "coronavirus.komen.org A 0.0.0.0"
+local-zone: "covid19.daruulilalbab.com" redirect
+local-data: "covid19.daruulilalbab.com A 0.0.0.0"
+local-zone: "www.lhgcovid19.com" redirect
+local-data: "www.lhgcovid19.com A 0.0.0.0"
+local-zone: "www.covid19ethiopia.com" redirect
+local-data: "www.covid19ethiopia.com A 0.0.0.0"
+local-zone: "lhgcovid19.com" redirect
+local-data: "lhgcovid19.com A 0.0.0.0"
+local-zone: "allcoronaviruses.com" redirect
+local-data: "allcoronaviruses.com A 0.0.0.0"
+local-zone: "ready4covid-19.com" redirect
+local-data: "ready4covid-19.com A 0.0.0.0"
+local-zone: "khcovid19.com" redirect
+local-data: "khcovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -19484,6 +19532,12 @@ local-zone: "coronavirus-ni.com" redirect
 local-data: "coronavirus-ni.com A 0.0.0.0"
 local-zone: "finecoronavirus.com" redirect
 local-data: "finecoronavirus.com A 0.0.0.0"
+local-zone: "getchinaflumoney.com" redirect
+local-data: "getchinaflumoney.com A 0.0.0.0"
+local-zone: "covid-19-landing-page.nubestaging.com" redirect
+local-data: "covid-19-landing-page.nubestaging.com A 0.0.0.0"
+local-zone: "covid19.biodati.com" redirect
+local-data: "covid19.biodati.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
