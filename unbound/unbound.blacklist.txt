@@ -18600,6 +18600,42 @@ local-zone: "coronavirus.skynet.com.uy" redirect
 local-data: "coronavirus.skynet.com.uy A 0.0.0.0"
 local-zone: "mycoronavirustestkit.com" redirect
 local-data: "mycoronavirustestkit.com A 0.0.0.0"
+local-zone: "noblecovid19.com" redirect
+local-data: "noblecovid19.com A 0.0.0.0"
+local-zone: "worldmapcovid19.info" redirect
+local-data: "worldmapcovid19.info A 0.0.0.0"
+local-zone: "webmail.coronavirus-toolkit.com" redirect
+local-data: "webmail.coronavirus-toolkit.com A 0.0.0.0"
+local-zone: "coronavirus.faithnet.online" redirect
+local-data: "coronavirus.faithnet.online A 0.0.0.0"
+local-zone: "covid19india.tech" redirect
+local-data: "covid19india.tech A 0.0.0.0"
+local-zone: "homecoronaviruskit.com" redirect
+local-data: "homecoronaviruskit.com A 0.0.0.0"
+local-zone: "clarity-covid19.global" redirect
+local-data: "clarity-covid19.global A 0.0.0.0"
+local-zone: "adms.covid19.tanahlautkab.go.id" redirect
+local-data: "adms.covid19.tanahlautkab.go.id A 0.0.0.0"
+local-zone: "coronavirus.oncvisual.com" redirect
+local-data: "coronavirus.oncvisual.com A 0.0.0.0"
+local-zone: "coronavirus-fakten.de" redirect
+local-data: "coronavirus-fakten.de A 0.0.0.0"
+local-zone: "allcoronavirusupdates.com" redirect
+local-data: "allcoronavirusupdates.com A 0.0.0.0"
+local-zone: "coronavirusfakten.de" redirect
+local-data: "coronavirusfakten.de A 0.0.0.0"
+local-zone: "coronavirus.org" redirect
+local-data: "coronavirus.org A 0.0.0.0"
+local-zone: "coronavirus.agenciamoustache.com.br" redirect
+local-data: "coronavirus.agenciamoustache.com.br A 0.0.0.0"
+local-zone: "insumoscoronavirus.com" redirect
+local-data: "insumoscoronavirus.com A 0.0.0.0"
+local-zone: "opensourcecoronavirus.org" redirect
+local-data: "opensourcecoronavirus.org A 0.0.0.0"
+local-zone: "coronavirusbrasil.tk" redirect
+local-data: "coronavirusbrasil.tk A 0.0.0.0"
+local-zone: "crm-tmx-covid19.agenciamci.com" redirect
+local-data: "crm-tmx-covid19.agenciamci.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -19446,6 +19482,8 @@ local-zone: "coronavirusdata.uk" redirect
 local-data: "coronavirusdata.uk A 0.0.0.0"
 local-zone: "coronavirus-ni.com" redirect
 local-data: "coronavirus-ni.com A 0.0.0.0"
+local-zone: "finecoronavirus.com" redirect
+local-data: "finecoronavirus.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
