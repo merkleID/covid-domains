@@ -17622,6 +17622,42 @@ local-zone: "www.coronaviruslesoublies.be" redirect
 local-data: "www.coronaviruslesoublies.be A 0.0.0.0"
 local-zone: "mapcovid19.sukabumikota.go.id" redirect
 local-data: "mapcovid19.sukabumikota.go.id A 0.0.0.0"
+local-zone: "int.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "int.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "api.int.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.int.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "www.covid19track.in" redirect
+local-data: "www.covid19track.in A 0.0.0.0"
+local-zone: "coronavirusupdate.farukmd.com" redirect
+local-data: "coronavirusupdate.farukmd.com A 0.0.0.0"
+local-zone: "covid19.faleddo.com" redirect
+local-data: "covid19.faleddo.com A 0.0.0.0"
+local-zone: "api.coronavirusmap.co.uk" redirect
+local-data: "api.coronavirusmap.co.uk A 0.0.0.0"
+local-zone: "cmi-covid19.com" redirect
+local-data: "cmi-covid19.com A 0.0.0.0"
+local-zone: "covid19-veiligheid.omgevingkeuze.web5282.cweb04.gamingweb.de" redirect
+local-data: "covid19-veiligheid.omgevingkeuze.web5282.cweb04.gamingweb.de A 0.0.0.0"
+local-zone: "smb.portal.covid19.web5282.cweb04.gamingweb.de" redirect
+local-data: "smb.portal.covid19.web5282.cweb04.gamingweb.de A 0.0.0.0"
+local-zone: "corona-virus-updates.org" redirect
+local-data: "corona-virus-updates.org A 0.0.0.0"
+local-zone: "covid19hardships.org" redirect
+local-data: "covid19hardships.org A 0.0.0.0"
+local-zone: "covid19hardship.org" redirect
+local-data: "covid19hardship.org A 0.0.0.0"
+local-zone: "clickaine.coronavirusaware.xyz" redirect
+local-data: "clickaine.coronavirusaware.xyz A 0.0.0.0"
+local-zone: "ocovid19.com.br" redirect
+local-data: "ocovid19.com.br A 0.0.0.0"
+local-zone: "covid-19.sijunjung.go.id" redirect
+local-data: "covid-19.sijunjung.go.id A 0.0.0.0"
+local-zone: "covid19-survey.ga" redirect
+local-data: "covid19-survey.ga A 0.0.0.0"
+local-zone: "covid19.inapp.io" redirect
+local-data: "covid19.inapp.io A 0.0.0.0"
+local-zone: "staging2.covid19-bayarea-support.com" redirect
+local-data: "staging2.covid19-bayarea-support.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
