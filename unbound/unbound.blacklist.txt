@@ -18328,6 +18328,56 @@ local-zone: "covid-19.medelse.com" redirect
 local-data: "covid-19.medelse.com A 0.0.0.0"
 local-zone: "foracoronavirus.com" redirect
 local-data: "foracoronavirus.com A 0.0.0.0"
+local-zone: "covid-19.wbrc.io" redirect
+local-data: "covid-19.wbrc.io A 0.0.0.0"
+local-zone: "coronavirusautonomos.com" redirect
+local-data: "coronavirusautonomos.com A 0.0.0.0"
+local-zone: "www.covid-19-coronavirus.site" redirect
+local-data: "www.covid-19-coronavirus.site A 0.0.0.0"
+local-zone: "covid19.anirbandash.in" redirect
+local-data: "covid19.anirbandash.in A 0.0.0.0"
+local-zone: "jaidecovid19.fr" redirect
+local-data: "jaidecovid19.fr A 0.0.0.0"
+local-zone: "who7.covid19badge.com" redirect
+local-data: "who7.covid19badge.com A 0.0.0.0"
+local-zone: "resistcovid19.org" redirect
+local-data: "resistcovid19.org A 0.0.0.0"
+local-zone: "covid19maping.com" redirect
+local-data: "covid19maping.com A 0.0.0.0"
+local-zone: "www.covid-19-coronavirus.site" redirect
+local-data: "www.covid-19-coronavirus.site A 0.0.0.0"
+local-zone: "covid19.lightapps.tn" redirect
+local-data: "covid19.lightapps.tn A 0.0.0.0"
+local-zone: "coronavirus.jalisco.gob.com" redirect
+local-data: "coronavirus.jalisco.gob.com A 0.0.0.0"
+local-zone: "covid19.tolley.co.uk" redirect
+local-data: "covid19.tolley.co.uk A 0.0.0.0"
+local-zone: "cdn1.coronavirustravel.com" redirect
+local-data: "cdn1.coronavirustravel.com A 0.0.0.0"
+local-zone: "covid19.emapx.com" redirect
+local-data: "covid19.emapx.com A 0.0.0.0"
+local-zone: "employedbycoronavirus.com" redirect
+local-data: "employedbycoronavirus.com A 0.0.0.0"
+local-zone: "covid19live.pw" redirect
+local-data: "covid19live.pw A 0.0.0.0"
+local-zone: "kpmgcovid19response.co.uk" redirect
+local-data: "kpmgcovid19response.co.uk A 0.0.0.0"
+local-zone: "xn--covid19-gncelsalgnvakalar-nwc35l.com" redirect
+local-data: "xn--covid19-gncelsalgnvakalar-nwc35l.com A 0.0.0.0"
+local-zone: "www.quickcovid19test.com" redirect
+local-data: "www.quickcovid19test.com A 0.0.0.0"
+local-zone: "covid19.vincurekf.cz" redirect
+local-data: "covid19.vincurekf.cz A 0.0.0.0"
+local-zone: "covid19-protezioni.it" redirect
+local-data: "covid19-protezioni.it A 0.0.0.0"
+local-zone: "covid19.fchampalimaud.science" redirect
+local-data: "covid19.fchampalimaud.science A 0.0.0.0"
+local-zone: "evapharma-covid19.com" redirect
+local-data: "evapharma-covid19.com A 0.0.0.0"
+local-zone: "evolucioncovid19.com" redirect
+local-data: "evolucioncovid19.com A 0.0.0.0"
+local-zone: "koronavirus-covid19.ru" redirect
+local-data: "koronavirus-covid19.ru A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -19154,6 +19204,10 @@ local-zone: "covid19cr.com" redirect
 local-data: "covid19cr.com A 0.0.0.0"
 local-zone: "coronavirus-espana.es" redirect
 local-data: "coronavirus-espana.es A 0.0.0.0"
+local-zone: "covid19mobility.org" redirect
+local-data: "covid19mobility.org A 0.0.0.0"
+local-zone: "covid19cash.org" redirect
+local-data: "covid19cash.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
