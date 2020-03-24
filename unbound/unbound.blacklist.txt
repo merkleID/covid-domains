@@ -18684,6 +18684,30 @@ local-zone: "ready4covid-19.com" redirect
 local-data: "ready4covid-19.com A 0.0.0.0"
 local-zone: "khcovid19.com" redirect
 local-data: "khcovid19.com A 0.0.0.0"
+local-zone: "covid-19.humanitarian.digital" redirect
+local-data: "covid-19.humanitarian.digital A 0.0.0.0"
+local-zone: "covid-19.rndclks.com" redirect
+local-data: "covid-19.rndclks.com A 0.0.0.0"
+local-zone: "coronavirus.thebesthosting.pk" redirect
+local-data: "coronavirus.thebesthosting.pk A 0.0.0.0"
+local-zone: "covid19at.cf" redirect
+local-data: "covid19at.cf A 0.0.0.0"
+local-zone: "www.covid-19-threat-list.domaintools.com" redirect
+local-data: "www.covid-19-threat-list.domaintools.com A 0.0.0.0"
+local-zone: "selfreportcovid19.com" redirect
+local-data: "selfreportcovid19.com A 0.0.0.0"
+local-zone: "mapacoronavirusbrasil.com" redirect
+local-data: "mapacoronavirusbrasil.com A 0.0.0.0"
+local-zone: "www.loveincoronavirus.com" redirect
+local-data: "www.loveincoronavirus.com A 0.0.0.0"
+local-zone: "covid-19medicalsupplies.com" redirect
+local-data: "covid-19medicalsupplies.com A 0.0.0.0"
+local-zone: "covid19portal.cz" redirect
+local-data: "covid19portal.cz A 0.0.0.0"
+local-zone: "coronaviruscovid19prevention.com" redirect
+local-data: "coronaviruscovid19prevention.com A 0.0.0.0"
+local-zone: "assimsaudecoronavirus.com.br" redirect
+local-data: "assimsaudecoronavirus.com.br A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -19538,6 +19562,10 @@ local-zone: "covid-19-landing-page.nubestaging.com" redirect
 local-data: "covid-19-landing-page.nubestaging.com A 0.0.0.0"
 local-zone: "covid19.biodati.com" redirect
 local-data: "covid19.biodati.com A 0.0.0.0"
+local-zone: "getyourcoronavirusmoney.com" redirect
+local-data: "getyourcoronavirusmoney.com A 0.0.0.0"
+local-zone: "centrostudi-imprese-covid19.com" redirect
+local-data: "centrostudi-imprese-covid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
