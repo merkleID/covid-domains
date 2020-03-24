@@ -17760,6 +17760,32 @@ local-zone: "covid19sn.org" redirect
 local-data: "covid19sn.org A 0.0.0.0"
 local-zone: "pantaucovid19.ukcagur.com" redirect
 local-data: "pantaucovid19.ukcagur.com A 0.0.0.0"
+local-zone: "www.covid19kitsonline.com" redirect
+local-data: "www.covid19kitsonline.com A 0.0.0.0"
+local-zone: "covid19br.app" redirect
+local-data: "covid19br.app A 0.0.0.0"
+local-zone: "coronavirusfightersindia.com" redirect
+local-data: "coronavirusfightersindia.com A 0.0.0.0"
+local-zone: "covid19.medanalises.net" redirect
+local-data: "covid19.medanalises.net A 0.0.0.0"
+local-zone: "washco-covid19.com" redirect
+local-data: "washco-covid19.com A 0.0.0.0"
+local-zone: "coronavirus.wemaun.com" redirect
+local-data: "coronavirus.wemaun.com A 0.0.0.0"
+local-zone: "coronavirus-covid-19.in" redirect
+local-data: "coronavirus-covid-19.in A 0.0.0.0"
+local-zone: "novel-coronavirus-2019.com.au" redirect
+local-data: "novel-coronavirus-2019.com.au A 0.0.0.0"
+local-zone: "coronaviruskenya.buzz" redirect
+local-data: "coronaviruskenya.buzz A 0.0.0.0"
+local-zone: "covid19newsit.altervista.org" redirect
+local-data: "covid19newsit.altervista.org A 0.0.0.0"
+local-zone: "coronavirusnieuws.com" redirect
+local-data: "coronavirusnieuws.com A 0.0.0.0"
+local-zone: "www.covid19.gov.au" redirect
+local-data: "www.covid19.gov.au A 0.0.0.0"
+local-zone: "www.coronavirus.vic.gov.au" redirect
+local-data: "www.coronavirus.vic.gov.au A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
