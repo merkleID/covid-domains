@@ -8617,6 +8617,17 @@ local-zone: "coronavirusjournel.com" static
 local-zone: "www.coronavirusjournel.com" static
 local-zone: "www.aapicovid19.org" static
 local-zone: "covid19-uat.app.keyreply.com" static
+local-zone: "covid19utstyr.no" static
+local-zone: "databronnencovid19.nl" static
+local-zone: "nomorecovid19.com" static
+local-zone: "global-covid-19.info" static
+local-zone: "covid19.hasatx.org" static
+local-zone: "chat.coronavirus.uz" static
+local-zone: "coronavirus.fwo.gov.au" static
+local-zone: "coronavirus-live-map.site" static
+local-zone: "covid19.ukbts.co.uk" static
+local-zone: "covid19.infojateng.id" static
+local-zone: "www.covid19.gov.tl" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -9008,6 +9019,7 @@ local-zone: "coronavirus-mv.de" static
 local-zone: "surveycovid19.now.sh" static
 local-zone: "covid19crowdfunding.com" static
 local-zone: "covid19uy.com" static
+local-zone: "coronavirusactionfund.com.au" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static

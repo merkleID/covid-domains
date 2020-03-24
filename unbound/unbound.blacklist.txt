@@ -17236,6 +17236,28 @@ local-zone: "www.aapicovid19.org" redirect
 local-data: "www.aapicovid19.org A 0.0.0.0"
 local-zone: "covid19-uat.app.keyreply.com" redirect
 local-data: "covid19-uat.app.keyreply.com A 0.0.0.0"
+local-zone: "covid19utstyr.no" redirect
+local-data: "covid19utstyr.no A 0.0.0.0"
+local-zone: "databronnencovid19.nl" redirect
+local-data: "databronnencovid19.nl A 0.0.0.0"
+local-zone: "nomorecovid19.com" redirect
+local-data: "nomorecovid19.com A 0.0.0.0"
+local-zone: "global-covid-19.info" redirect
+local-data: "global-covid-19.info A 0.0.0.0"
+local-zone: "covid19.hasatx.org" redirect
+local-data: "covid19.hasatx.org A 0.0.0.0"
+local-zone: "chat.coronavirus.uz" redirect
+local-data: "chat.coronavirus.uz A 0.0.0.0"
+local-zone: "coronavirus.fwo.gov.au" redirect
+local-data: "coronavirus.fwo.gov.au A 0.0.0.0"
+local-zone: "coronavirus-live-map.site" redirect
+local-data: "coronavirus-live-map.site A 0.0.0.0"
+local-zone: "covid19.ukbts.co.uk" redirect
+local-data: "covid19.ukbts.co.uk A 0.0.0.0"
+local-zone: "covid19.infojateng.id" redirect
+local-data: "covid19.infojateng.id A 0.0.0.0"
+local-zone: "www.covid19.gov.tl" redirect
+local-data: "www.covid19.gov.tl A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -18018,6 +18040,8 @@ local-zone: "covid19crowdfunding.com" redirect
 local-data: "covid19crowdfunding.com A 0.0.0.0"
 local-zone: "covid19uy.com" redirect
 local-data: "covid19uy.com A 0.0.0.0"
+local-zone: "coronavirusactionfund.com.au" redirect
+local-data: "coronavirusactionfund.com.au A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
