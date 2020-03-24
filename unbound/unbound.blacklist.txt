@@ -18806,6 +18806,32 @@ local-zone: "corona-virus.gplayer.uk" redirect
 local-data: "corona-virus.gplayer.uk A 0.0.0.0"
 local-zone: "cardiovscovid19.org" redirect
 local-data: "cardiovscovid19.org A 0.0.0.0"
+local-zone: "covid19bmx7.com.br" redirect
+local-data: "covid19bmx7.com.br A 0.0.0.0"
+local-zone: "covid19.perpetualmotion.space" redirect
+local-data: "covid19.perpetualmotion.space A 0.0.0.0"
+local-zone: "homologacao-nustcovid19.icict.fiocruz.br" redirect
+local-data: "homologacao-nustcovid19.icict.fiocruz.br A 0.0.0.0"
+local-zone: "coronavirusrsa.co.za" redirect
+local-data: "coronavirusrsa.co.za A 0.0.0.0"
+local-zone: "whipcoronavirus.com" redirect
+local-data: "whipcoronavirus.com A 0.0.0.0"
+local-zone: "fuckyoucovid19.pt" redirect
+local-data: "fuckyoucovid19.pt A 0.0.0.0"
+local-zone: "covid19.cnasec.fr" redirect
+local-data: "covid19.cnasec.fr A 0.0.0.0"
+local-zone: "covid19.theclaussengroup.com" redirect
+local-data: "covid19.theclaussengroup.com A 0.0.0.0"
+local-zone: "www.covid19.guide" redirect
+local-data: "www.covid19.guide A 0.0.0.0"
+local-zone: "covid19encolombia.com" redirect
+local-data: "covid19encolombia.com A 0.0.0.0"
+local-zone: "covid19-help.org" redirect
+local-data: "covid19-help.org A 0.0.0.0"
+local-zone: "coronavirus.cnasec.fr" redirect
+local-data: "coronavirus.cnasec.fr A 0.0.0.0"
+local-zone: "covid19.converseon.com" redirect
+local-data: "covid19.converseon.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
