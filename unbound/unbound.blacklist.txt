@@ -17952,6 +17952,66 @@ local-zone: "covid19.kotamobagukota.go.id" redirect
 local-data: "covid19.kotamobagukota.go.id A 0.0.0.0"
 local-zone: "covid19.seychelles.travel" redirect
 local-data: "covid19.seychelles.travel A 0.0.0.0"
+local-zone: "covid19.biodati.com" redirect
+local-data: "covid19.biodati.com A 0.0.0.0"
+local-zone: "mylifeaftercoronavirus.ch" redirect
+local-data: "mylifeaftercoronavirus.ch A 0.0.0.0"
+local-zone: "makemoneyfromhomeduringthecoronavirusoutbreak.modedgame.com" redirect
+local-data: "makemoneyfromhomeduringthecoronavirusoutbreak.modedgame.com A 0.0.0.0"
+local-zone: "www.barcovid19.org" redirect
+local-data: "www.barcovid19.org A 0.0.0.0"
+local-zone: "coronavirus.news7tamilvideos.com" redirect
+local-data: "coronavirus.news7tamilvideos.com A 0.0.0.0"
+local-zone: "ar.burnabycoronavirus.com" redirect
+local-data: "ar.burnabycoronavirus.com A 0.0.0.0"
+local-zone: "hi.burnabycoronavirus.com" redirect
+local-data: "hi.burnabycoronavirus.com A 0.0.0.0"
+local-zone: "tl.burnabycoronavirus.com" redirect
+local-data: "tl.burnabycoronavirus.com A 0.0.0.0"
+local-zone: "discuss.covid19-news.org" redirect
+local-data: "discuss.covid19-news.org A 0.0.0.0"
+local-zone: "covid-19prehospitalguidance.wales" redirect
+local-data: "covid-19prehospitalguidance.wales A 0.0.0.0"
+local-zone: "covid-19-api-2-m1gecjkziu.now.sh" redirect
+local-data: "covid-19-api-2-m1gecjkziu.now.sh A 0.0.0.0"
+local-zone: "www.amandaricovid19.com" redirect
+local-data: "www.amandaricovid19.com A 0.0.0.0"
+local-zone: "covid19.creativationchallenge.com" redirect
+local-data: "covid19.creativationchallenge.com A 0.0.0.0"
+local-zone: "coronavirus.homedoctor.in.ua" redirect
+local-data: "coronavirus.homedoctor.in.ua A 0.0.0.0"
+local-zone: "covid19.mensa-group.com" redirect
+local-data: "covid19.mensa-group.com A 0.0.0.0"
+local-zone: "api.8f8d8a02.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.8f8d8a02.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "www.agir-covid-19.org" redirect
+local-data: "www.agir-covid-19.org A 0.0.0.0"
+local-zone: "www.amherstcovid19.org" redirect
+local-data: "www.amherstcovid19.org A 0.0.0.0"
+local-zone: "www.agir-covid19.com" redirect
+local-data: "www.agir-covid19.com A 0.0.0.0"
+local-zone: "covid19.qld.gov.au" redirect
+local-data: "covid19.qld.gov.au A 0.0.0.0"
+local-zone: "alliance-covid-19.com" redirect
+local-data: "alliance-covid-19.com A 0.0.0.0"
+local-zone: "www.alliance-covid-19.fr" redirect
+local-data: "www.alliance-covid-19.fr A 0.0.0.0"
+local-zone: "alliance-covid-19.fr" redirect
+local-data: "alliance-covid-19.fr A 0.0.0.0"
+local-zone: "www.alliance-covid19.com" redirect
+local-data: "www.alliance-covid19.com A 0.0.0.0"
+local-zone: "www.covid19-dev-api.viadata.io" redirect
+local-data: "www.covid19-dev-api.viadata.io A 0.0.0.0"
+local-zone: "covid19.ausundraus.at" redirect
+local-data: "covid19.ausundraus.at A 0.0.0.0"
+local-zone: "covid19.my2ndskin.ca" redirect
+local-data: "covid19.my2ndskin.ca A 0.0.0.0"
+local-zone: "alliance-covid-19.org" redirect
+local-data: "alliance-covid-19.org A 0.0.0.0"
+local-zone: "www.agircovid19.com" redirect
+local-data: "www.agircovid19.com A 0.0.0.0"
+local-zone: "www.agircovid19.fr" redirect
+local-data: "www.agircovid19.fr A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -18764,6 +18824,8 @@ local-zone: "covid19channel.com" redirect
 local-data: "covid19channel.com A 0.0.0.0"
 local-zone: "covid19.et" redirect
 local-data: "covid19.et A 0.0.0.0"
+local-zone: "estudicovid19.org" redirect
+local-data: "estudicovid19.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
