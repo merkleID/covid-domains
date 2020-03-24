@@ -18508,6 +18508,80 @@ local-zone: "coronavirusliveupdate.now.sh" redirect
 local-data: "coronavirusliveupdate.now.sh A 0.0.0.0"
 local-zone: "2020covid19.net" redirect
 local-data: "2020covid19.net A 0.0.0.0"
+local-zone: "coronavirus.schumacher-online.com" redirect
+local-data: "coronavirus.schumacher-online.com A 0.0.0.0"
+local-zone: "stop-covid-2019.ru" redirect
+local-data: "stop-covid-2019.ru A 0.0.0.0"
+local-zone: "covid19-lab.com" redirect
+local-data: "covid19-lab.com A 0.0.0.0"
+local-zone: "covid-19.sandes.uk" redirect
+local-data: "covid-19.sandes.uk A 0.0.0.0"
+local-zone: "www.supportcovid-19.com" redirect
+local-data: "www.supportcovid-19.com A 0.0.0.0"
+local-zone: "supportcovid-19.com" redirect
+local-data: "supportcovid-19.com A 0.0.0.0"
+local-zone: "www.covid19dailyreport.com" redirect
+local-data: "www.covid19dailyreport.com A 0.0.0.0"
+local-zone: "api.fd7c3924.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.fd7c3924.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid-19update.lykentech.com" redirect
+local-data: "covid-19update.lykentech.com A 0.0.0.0"
+local-zone: "covid19szn.co.uk" redirect
+local-data: "covid19szn.co.uk A 0.0.0.0"
+local-zone: "lol-covid19.com" redirect
+local-data: "lol-covid19.com A 0.0.0.0"
+local-zone: "stopcovid19.zeeromed.com" redirect
+local-data: "stopcovid19.zeeromed.com A 0.0.0.0"
+local-zone: "www.loveincoronavirus.com" redirect
+local-data: "www.loveincoronavirus.com A 0.0.0.0"
+local-zone: "www.loveinatimeofcoronavirus.com" redirect
+local-data: "www.loveinatimeofcoronavirus.com A 0.0.0.0"
+local-zone: "loveinthetimesofcoronavirus.com" redirect
+local-data: "loveinthetimesofcoronavirus.com A 0.0.0.0"
+local-zone: "www.loveintheageofcoronaviruses.com" redirect
+local-data: "www.loveintheageofcoronaviruses.com A 0.0.0.0"
+local-zone: "attachments.cdn.covid19.senseilabs.com" redirect
+local-data: "attachments.cdn.covid19.senseilabs.com A 0.0.0.0"
+local-zone: "findacoronaviruslawyer.com" redirect
+local-data: "findacoronaviruslawyer.com A 0.0.0.0"
+local-zone: "independants-coronavirus.info" redirect
+local-data: "independants-coronavirus.info A 0.0.0.0"
+local-zone: "www.maiavscovid19.com" redirect
+local-data: "www.maiavscovid19.com A 0.0.0.0"
+local-zone: "www.covid-19-safe-walking-in-dark-times.com" redirect
+local-data: "www.covid-19-safe-walking-in-dark-times.com A 0.0.0.0"
+local-zone: "www.covid19antibodytesting.com" redirect
+local-data: "www.covid19antibodytesting.com A 0.0.0.0"
+local-zone: "covid19emergencydentalcare.com" redirect
+local-data: "covid19emergencydentalcare.com A 0.0.0.0"
+local-zone: "globalcoronavirus.org" redirect
+local-data: "globalcoronavirus.org A 0.0.0.0"
+local-zone: "uwmtacovid19.com" redirect
+local-data: "uwmtacovid19.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost10.zendesk.com" redirect
+local-data: "z4n-covid19-boost10.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost15.zendesk.com" redirect
+local-data: "z4n-covid19-boost15.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost11.zendesk.com" redirect
+local-data: "z4n-covid19-boost11.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost12.zendesk.com" redirect
+local-data: "z4n-covid19-boost12.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost14.zendesk.com" redirect
+local-data: "z4n-covid19-boost14.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost13.zendesk.com" redirect
+local-data: "z4n-covid19-boost13.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost20.zendesk.com" redirect
+local-data: "z4n-covid19-boost20.zendesk.com A 0.0.0.0"
+local-zone: "z4n-covid19-boost19.zendesk.com" redirect
+local-data: "z4n-covid19-boost19.zendesk.com A 0.0.0.0"
+local-zone: "cowandcovid19.com" redirect
+local-data: "cowandcovid19.com A 0.0.0.0"
+local-zone: "coronavirusfakten.de" redirect
+local-data: "coronavirusfakten.de A 0.0.0.0"
+local-zone: "coronavirus.mwe.com" redirect
+local-data: "coronavirus.mwe.com A 0.0.0.0"
+local-zone: "qreg-covid19.as-sr.sk" redirect
+local-data: "qreg-covid19.as-sr.sk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
