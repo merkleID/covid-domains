@@ -17134,6 +17134,76 @@ local-zone: "cpcontacts.covid19tomorrow.com" redirect
 local-data: "cpcontacts.covid19tomorrow.com A 0.0.0.0"
 local-zone: "coronavirus.essalud.gob.pe" redirect
 local-data: "coronavirus.essalud.gob.pe A 0.0.0.0"
+local-zone: "dps-poc.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "dps-poc.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "api.dps-poc.dev.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.dps-poc.dev.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid-19cleanuparkansas.com" redirect
+local-data: "covid-19cleanuparkansas.com A 0.0.0.0"
+local-zone: "coronavirus.tnb.rocks" redirect
+local-data: "coronavirus.tnb.rocks A 0.0.0.0"
+local-zone: "www.swanseacovid19.com" redirect
+local-data: "www.swanseacovid19.com A 0.0.0.0"
+local-zone: "covid19.artisanvs.com" redirect
+local-data: "covid19.artisanvs.com A 0.0.0.0"
+local-zone: "coronaviruscasos.es" redirect
+local-data: "coronaviruscasos.es A 0.0.0.0"
+local-zone: "lg-covid-19-hotp.cs.duke.edu" redirect
+local-data: "lg-covid-19-hotp.cs.duke.edu A 0.0.0.0"
+local-zone: "covid-19cleaningar.com" redirect
+local-data: "covid-19cleaningar.com A 0.0.0.0"
+local-zone: "covid19.aantamim.id" redirect
+local-data: "covid19.aantamim.id A 0.0.0.0"
+local-zone: "covid19tracing.org" redirect
+local-data: "covid19tracing.org A 0.0.0.0"
+local-zone: "covid-19testkit.eu" redirect
+local-data: "covid-19testkit.eu A 0.0.0.0"
+local-zone: "covid19.growleader.com" redirect
+local-data: "covid19.growleader.com A 0.0.0.0"
+local-zone: "coronavirus.launion.com.co" redirect
+local-data: "coronavirus.launion.com.co A 0.0.0.0"
+local-zone: "covid19map-dev.health.wolterskluwer.io" redirect
+local-data: "covid19map-dev.health.wolterskluwer.io A 0.0.0.0"
+local-zone: "coronavirus-api.net" redirect
+local-data: "coronavirus-api.net A 0.0.0.0"
+local-zone: "www.georgiacovid19lawyers.com" redirect
+local-data: "www.georgiacovid19lawyers.com A 0.0.0.0"
+local-zone: "georgiacovid19lawyers.com" redirect
+local-data: "georgiacovid19lawyers.com A 0.0.0.0"
+local-zone: "www.georgiacoronaviruslawyer.com" redirect
+local-data: "www.georgiacoronaviruslawyer.com A 0.0.0.0"
+local-zone: "unidosxelcoronavirus.org" redirect
+local-data: "unidosxelcoronavirus.org A 0.0.0.0"
+local-zone: "georgiacovid19attorney.com" redirect
+local-data: "georgiacovid19attorney.com A 0.0.0.0"
+local-zone: "georgiacoronaviruslawyer.com" redirect
+local-data: "georgiacoronaviruslawyer.com A 0.0.0.0"
+local-zone: "www.floridacoronaviruslaw.com" redirect
+local-data: "www.floridacoronaviruslaw.com A 0.0.0.0"
+local-zone: "www.georgiacovid19lawyer.com" redirect
+local-data: "www.georgiacovid19lawyer.com A 0.0.0.0"
+local-zone: "georgiacovid19lawyers.com" redirect
+local-data: "georgiacovid19lawyers.com A 0.0.0.0"
+local-zone: "www.floridacoronavirusattorney.com" redirect
+local-data: "www.floridacoronavirusattorney.com A 0.0.0.0"
+local-zone: "www.georgiacovid19lawyers.com" redirect
+local-data: "www.georgiacovid19lawyers.com A 0.0.0.0"
+local-zone: "www.coronavirusvaccinelaw.com" redirect
+local-data: "www.coronavirusvaccinelaw.com A 0.0.0.0"
+local-zone: "georgiacovid19lawyer.com" redirect
+local-data: "georgiacovid19lawyer.com A 0.0.0.0"
+local-zone: "coronavirusvaccinelaw.com" redirect
+local-data: "coronavirusvaccinelaw.com A 0.0.0.0"
+local-zone: "www.floridacoronaviruslawyers.com" redirect
+local-data: "www.floridacoronaviruslawyers.com A 0.0.0.0"
+local-zone: "floridacoronaviruslawyers.com" redirect
+local-data: "floridacoronaviruslawyers.com A 0.0.0.0"
+local-zone: "georgiacoronaviruslawyers.com" redirect
+local-data: "georgiacoronaviruslawyers.com A 0.0.0.0"
+local-zone: "dallascovid19.com" redirect
+local-data: "dallascovid19.com A 0.0.0.0"
+local-zone: "cdc-covid19.com" redirect
+local-data: "cdc-covid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -17914,6 +17984,8 @@ local-zone: "surveycovid19.now.sh" redirect
 local-data: "surveycovid19.now.sh A 0.0.0.0"
 local-zone: "covid19crowdfunding.com" redirect
 local-data: "covid19crowdfunding.com A 0.0.0.0"
+local-zone: "covid19uy.com" redirect
+local-data: "covid19uy.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
