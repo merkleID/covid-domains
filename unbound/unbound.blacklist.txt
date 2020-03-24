@@ -17558,6 +17558,70 @@ local-zone: "coronavirus-today.site" redirect
 local-data: "coronavirus-today.site A 0.0.0.0"
 local-zone: "coronaviruspredictor.com" redirect
 local-data: "coronaviruspredictor.com A 0.0.0.0"
+local-zone: "howtoovercomecoronavirus.com" redirect
+local-data: "howtoovercomecoronavirus.com A 0.0.0.0"
+local-zone: "map-coronavirus.info" redirect
+local-data: "map-coronavirus.info A 0.0.0.0"
+local-zone: "coronavirus-online.kz" redirect
+local-data: "coronavirus-online.kz A 0.0.0.0"
+local-zone: "online-coronavirus.info" redirect
+local-data: "online-coronavirus.info A 0.0.0.0"
+local-zone: "covid19.domains" redirect
+local-data: "covid19.domains A 0.0.0.0"
+local-zone: "lifelabradorscovid19curryandsuicide.com" redirect
+local-data: "lifelabradorscovid19curryandsuicide.com A 0.0.0.0"
+local-zone: "covid-19.owl.my.id" redirect
+local-data: "covid-19.owl.my.id A 0.0.0.0"
+local-zone: "covid-19thetruth.com" redirect
+local-data: "covid-19thetruth.com A 0.0.0.0"
+local-zone: "coronavirustvshow.com" redirect
+local-data: "coronavirustvshow.com A 0.0.0.0"
+local-zone: "volunteerforcovid19.com" redirect
+local-data: "volunteerforcovid19.com A 0.0.0.0"
+local-zone: "coronavirusthefilm.com" redirect
+local-data: "coronavirusthefilm.com A 0.0.0.0"
+local-zone: "covid-19thefilm.com" redirect
+local-data: "covid-19thefilm.com A 0.0.0.0"
+local-zone: "covid-19tvshow.com" redirect
+local-data: "covid-19tvshow.com A 0.0.0.0"
+local-zone: "covid19thevirus.com" redirect
+local-data: "covid19thevirus.com A 0.0.0.0"
+local-zone: "covid-19documentary.com" redirect
+local-data: "covid-19documentary.com A 0.0.0.0"
+local-zone: "covid-19thevirus.com" redirect
+local-data: "covid-19thevirus.com A 0.0.0.0"
+local-zone: "covid19thetruth.com" redirect
+local-data: "covid19thetruth.com A 0.0.0.0"
+local-zone: "coronavirustvshow.com" redirect
+local-data: "coronavirustvshow.com A 0.0.0.0"
+local-zone: "covid-19thetruth.com" redirect
+local-data: "covid-19thetruth.com A 0.0.0.0"
+local-zone: "coronavirusthefilm.com" redirect
+local-data: "coronavirusthefilm.com A 0.0.0.0"
+local-zone: "covid-19tvshow.com" redirect
+local-data: "covid-19tvshow.com A 0.0.0.0"
+local-zone: "covid-19.netsons.org" redirect
+local-data: "covid-19.netsons.org A 0.0.0.0"
+local-zone: "ifightcovid19.net" redirect
+local-data: "ifightcovid19.net A 0.0.0.0"
+local-zone: "ai-covid-19.com" redirect
+local-data: "ai-covid-19.com A 0.0.0.0"
+local-zone: "covid19.joyinfotech.online" redirect
+local-data: "covid19.joyinfotech.online A 0.0.0.0"
+local-zone: "covid19.wi360.net" redirect
+local-data: "covid19.wi360.net A 0.0.0.0"
+local-zone: "covid19.oji.monster" redirect
+local-data: "covid19.oji.monster A 0.0.0.0"
+local-zone: "coronavirus.tv" redirect
+local-data: "coronavirus.tv A 0.0.0.0"
+local-zone: "info.bizcovid19.com" redirect
+local-data: "info.bizcovid19.com A 0.0.0.0"
+local-zone: "coronavirus777.com" redirect
+local-data: "coronavirus777.com A 0.0.0.0"
+local-zone: "www.coronaviruslesoublies.be" redirect
+local-data: "www.coronaviruslesoublies.be A 0.0.0.0"
+local-zone: "mapcovid19.sukabumikota.go.id" redirect
+local-data: "mapcovid19.sukabumikota.go.id A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
