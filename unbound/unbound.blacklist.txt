@@ -17454,6 +17454,28 @@ local-zone: "beatcovid19now.com" redirect
 local-data: "beatcovid19now.com A 0.0.0.0"
 local-zone: "www.fightcovid19.naijaupdates.com.ng" redirect
 local-data: "www.fightcovid19.naijaupdates.com.ng A 0.0.0.0"
+local-zone: "www.covid19rd.org" redirect
+local-data: "www.covid19rd.org A 0.0.0.0"
+local-zone: "ph.againstcovid19.com" redirect
+local-data: "ph.againstcovid19.com A 0.0.0.0"
+local-zone: "covid19.murungrayakab.go.id" redirect
+local-data: "covid19.murungrayakab.go.id A 0.0.0.0"
+local-zone: "coronaviruscrew.com" redirect
+local-data: "coronaviruscrew.com A 0.0.0.0"
+local-zone: "covid19.idionline.org" redirect
+local-data: "covid19.idionline.org A 0.0.0.0"
+local-zone: "coronavirus.hpd.com.br" redirect
+local-data: "coronavirus.hpd.com.br A 0.0.0.0"
+local-zone: "covid-19.chronomics.com" redirect
+local-data: "covid-19.chronomics.com A 0.0.0.0"
+local-zone: "api.kawalcovid19.id" redirect
+local-data: "api.kawalcovid19.id A 0.0.0.0"
+local-zone: "covid-19tracker.live" redirect
+local-data: "covid-19tracker.live A 0.0.0.0"
+local-zone: "sars-coronavirus.org" redirect
+local-data: "sars-coronavirus.org A 0.0.0.0"
+local-zone: "covid19.sumbabaratkab.go.id" redirect
+local-data: "covid19.sumbabaratkab.go.id A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
