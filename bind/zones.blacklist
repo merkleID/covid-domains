@@ -8927,6 +8927,18 @@ zone "covid19saosebastiao.michelliveneziani.com.br" { type master; notify no; fi
 zone "covid19.ubu.care" { type master; notify no; file null.zone.file; };
 zone "stopcovid19.bg" { type master; notify no; file null.zone.file; };
 zone "esn-covid19.es" { type master; notify no; file null.zone.file; };
+zone "coronavirus.azofficials.com" { type master; notify no; file null.zone.file; };
+zone "covid-19.charity" { type master; notify no; file null.zone.file; };
+zone "covid19-entreprises90.fr" { type master; notify no; file null.zone.file; };
+zone "examencoronavirus.cl" { type master; notify no; file null.zone.file; };
+zone "covid-19.cl" { type master; notify no; file null.zone.file; };
+zone "helpdesk.soscoronavirus.info" { type master; notify no; file null.zone.file; };
+zone "ameli-coronavirus.fr" { type master; notify no; file null.zone.file; };
+zone "covid19forecast.org" { type master; notify no; file null.zone.file; };
+zone "coronavirussurvivors.club" { type master; notify no; file null.zone.file; };
+zone "coronavirus-24.ru" { type master; notify no; file null.zone.file; };
+zone "movementtodefeatcovid19.com" { type master; notify no; file null.zone.file; };
+zone "nc-covid19.uhg.com" { type master; notify no; file null.zone.file; };
 zone "anticoronavirus.cloud" { type master; notify no; file null.zone.file; };
 zone "anticoronavirustienda.com" { type master; notify no; file null.zone.file; };
 zone "californiacoronaviruslaw.com" { type master; notify no; file null.zone.file; };
@@ -9329,6 +9341,8 @@ zone "comitatofvgcontrocovid19.it" { type master; notify no; file null.zone.file
 zone "covid19policoro.it" { type master; notify no; file null.zone.file; };
 zone "covid19basilicata.it" { type master; notify no; file null.zone.file; };
 zone "coronavirusafectados.com" { type master; notify no; file null.zone.file; };
+zone "newickcovid19.org.uk" { type master; notify no; file null.zone.file; };
+zone "comecurareilcoronavirus.it" { type master; notify no; file null.zone.file; };
 zone "123corona.com" { type master; notify no; file null.zone.file; };
 zone "123coronavirus.com" { type master; notify no; file null.zone.file; };
 zone "1800covid19.com" { type master; notify no; file null.zone.file; };

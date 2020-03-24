@@ -17856,6 +17856,30 @@ local-zone: "stopcovid19.bg" redirect
 local-data: "stopcovid19.bg A 0.0.0.0"
 local-zone: "esn-covid19.es" redirect
 local-data: "esn-covid19.es A 0.0.0.0"
+local-zone: "coronavirus.azofficials.com" redirect
+local-data: "coronavirus.azofficials.com A 0.0.0.0"
+local-zone: "covid-19.charity" redirect
+local-data: "covid-19.charity A 0.0.0.0"
+local-zone: "covid19-entreprises90.fr" redirect
+local-data: "covid19-entreprises90.fr A 0.0.0.0"
+local-zone: "examencoronavirus.cl" redirect
+local-data: "examencoronavirus.cl A 0.0.0.0"
+local-zone: "covid-19.cl" redirect
+local-data: "covid-19.cl A 0.0.0.0"
+local-zone: "helpdesk.soscoronavirus.info" redirect
+local-data: "helpdesk.soscoronavirus.info A 0.0.0.0"
+local-zone: "ameli-coronavirus.fr" redirect
+local-data: "ameli-coronavirus.fr A 0.0.0.0"
+local-zone: "covid19forecast.org" redirect
+local-data: "covid19forecast.org A 0.0.0.0"
+local-zone: "coronavirussurvivors.club" redirect
+local-data: "coronavirussurvivors.club A 0.0.0.0"
+local-zone: "coronavirus-24.ru" redirect
+local-data: "coronavirus-24.ru A 0.0.0.0"
+local-zone: "movementtodefeatcovid19.com" redirect
+local-data: "movementtodefeatcovid19.com A 0.0.0.0"
+local-zone: "nc-covid19.uhg.com" redirect
+local-data: "nc-covid19.uhg.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -18660,6 +18684,10 @@ local-zone: "covid19basilicata.it" redirect
 local-data: "covid19basilicata.it A 0.0.0.0"
 local-zone: "coronavirusafectados.com" redirect
 local-data: "coronavirusafectados.com A 0.0.0.0"
+local-zone: "newickcovid19.org.uk" redirect
+local-data: "newickcovid19.org.uk A 0.0.0.0"
+local-zone: "comecurareilcoronavirus.it" redirect
+local-data: "comecurareilcoronavirus.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
