@@ -17676,6 +17676,46 @@ local-zone: "covid19vitals.com" redirect
 local-data: "covid19vitals.com A 0.0.0.0"
 local-zone: "covid-19.gsooka.com" redirect
 local-data: "covid-19.gsooka.com A 0.0.0.0"
+local-zone: "coronacovid19pandemic.com" redirect
+local-data: "coronacovid19pandemic.com A 0.0.0.0"
+local-zone: "coronavirussv.com" redirect
+local-data: "coronavirussv.com A 0.0.0.0"
+local-zone: "www.bez-covid19.ru" redirect
+local-data: "www.bez-covid19.ru A 0.0.0.0"
+local-zone: "covid19.theprinceorganization.com" redirect
+local-data: "covid19.theprinceorganization.com A 0.0.0.0"
+local-zone: "coronavirus.rcaid.org" redirect
+local-data: "coronavirus.rcaid.org A 0.0.0.0"
+local-zone: "covid19pe.com" redirect
+local-data: "covid19pe.com A 0.0.0.0"
+local-zone: "covid19.viralaegis.com" redirect
+local-data: "covid19.viralaegis.com A 0.0.0.0"
+local-zone: "news-coronavirus.com" redirect
+local-data: "news-coronavirus.com A 0.0.0.0"
+local-zone: "hypnose-coronavirus.de" redirect
+local-data: "hypnose-coronavirus.de A 0.0.0.0"
+local-zone: "nc-covid19-dev.uhg.com" redirect
+local-data: "nc-covid19-dev.uhg.com A 0.0.0.0"
+local-zone: "www.covid19-aid.de" redirect
+local-data: "www.covid19-aid.de A 0.0.0.0"
+local-zone: "covid19-aid.de" redirect
+local-data: "covid19-aid.de A 0.0.0.0"
+local-zone: "help.coronavirus2020.kz" redirect
+local-data: "help.coronavirus2020.kz A 0.0.0.0"
+local-zone: "covid19-api.landofhere.com" redirect
+local-data: "covid19-api.landofhere.com A 0.0.0.0"
+local-zone: "coronavirus-crisis.co" redirect
+local-data: "coronavirus-crisis.co A 0.0.0.0"
+local-zone: "covid19.diu.ac" redirect
+local-data: "covid19.diu.ac A 0.0.0.0"
+local-zone: "covid-19-api.devbyopeneyes.com" redirect
+local-data: "covid-19-api.devbyopeneyes.com A 0.0.0.0"
+local-zone: "covid19hardships.com" redirect
+local-data: "covid19hardships.com A 0.0.0.0"
+local-zone: "covid19-bamberg.de" redirect
+local-data: "covid19-bamberg.de A 0.0.0.0"
+local-zone: "api.17f5ba99.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.17f5ba99.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
