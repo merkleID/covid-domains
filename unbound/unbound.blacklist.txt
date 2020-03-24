@@ -17716,6 +17716,50 @@ local-zone: "covid19-bamberg.de" redirect
 local-data: "covid19-bamberg.de A 0.0.0.0"
 local-zone: "api.17f5ba99.test.covid-19.forms.digital.nhs.uk" redirect
 local-data: "api.17f5ba99.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "query-covid19.linkeddatafragments.org" redirect
+local-data: "query-covid19.linkeddatafragments.org A 0.0.0.0"
+local-zone: "advancedstudentscovid19.pages.ontraport.net" redirect
+local-data: "advancedstudentscovid19.pages.ontraport.net A 0.0.0.0"
+local-zone: "www.coronavirussupplies.com.au" redirect
+local-data: "www.coronavirussupplies.com.au A 0.0.0.0"
+local-zone: "www.prediction-covid19.fr" redirect
+local-data: "www.prediction-covid19.fr A 0.0.0.0"
+local-zone: "masterscovid19.pages.ontraport.net" redirect
+local-data: "masterscovid19.pages.ontraport.net A 0.0.0.0"
+local-zone: "coronavirus-whls.com" redirect
+local-data: "coronavirus-whls.com A 0.0.0.0"
+local-zone: "masterscovid19.pages.ontraport.net" redirect
+local-data: "masterscovid19.pages.ontraport.net A 0.0.0.0"
+local-zone: "covid19.fromcounsel.com" redirect
+local-data: "covid19.fromcounsel.com A 0.0.0.0"
+local-zone: "novel-coronavirus-2019.com.au" redirect
+local-data: "novel-coronavirus-2019.com.au A 0.0.0.0"
+local-zone: "sacovid-19map.com" redirect
+local-data: "sacovid-19map.com A 0.0.0.0"
+local-zone: "ncov-2019.wangbaiyuan.cn" redirect
+local-data: "ncov-2019.wangbaiyuan.cn A 0.0.0.0"
+local-zone: "covid19.lesmorsolutions.com" redirect
+local-data: "covid19.lesmorsolutions.com A 0.0.0.0"
+local-zone: "covid-19.gamerbadhan.xyz" redirect
+local-data: "covid-19.gamerbadhan.xyz A 0.0.0.0"
+local-zone: "galicia.coronavirusmakers.org" redirect
+local-data: "galicia.coronavirusmakers.org A 0.0.0.0"
+local-zone: "www.agir-covid-19.fr" redirect
+local-data: "www.agir-covid-19.fr A 0.0.0.0"
+local-zone: "wesurvivedcovid19.store" redirect
+local-data: "wesurvivedcovid19.store A 0.0.0.0"
+local-zone: "www.covid19businessresponse.ke" redirect
+local-data: "www.covid19businessresponse.ke A 0.0.0.0"
+local-zone: "www.agir-covid-19.com" redirect
+local-data: "www.agir-covid-19.com A 0.0.0.0"
+local-zone: "covid19.zomg.no" redirect
+local-data: "covid19.zomg.no A 0.0.0.0"
+local-zone: "who3.covid19badge.com" redirect
+local-data: "who3.covid19badge.com A 0.0.0.0"
+local-zone: "covid19sn.org" redirect
+local-data: "covid19sn.org A 0.0.0.0"
+local-zone: "pantaucovid19.ukcagur.com" redirect
+local-data: "pantaucovid19.ukcagur.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
