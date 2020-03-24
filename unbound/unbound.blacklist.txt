@@ -18860,6 +18860,36 @@ local-zone: "www.covid-19.london" redirect
 local-data: "www.covid-19.london A 0.0.0.0"
 local-zone: "covid19frontliners.3zd.org" redirect
 local-data: "covid19frontliners.3zd.org A 0.0.0.0"
+local-zone: "covid19.bitofdata.ro" redirect
+local-data: "covid19.bitofdata.ro A 0.0.0.0"
+local-zone: "covid19.livedesign.org" redirect
+local-data: "covid19.livedesign.org A 0.0.0.0"
+local-zone: "testcovid19.cl" redirect
+local-data: "testcovid19.cl A 0.0.0.0"
+local-zone: "covid19.monadim.com" redirect
+local-data: "covid19.monadim.com A 0.0.0.0"
+local-zone: "infocovid19.de" redirect
+local-data: "infocovid19.de A 0.0.0.0"
+local-zone: "covid19gmu.stcenter.net" redirect
+local-data: "covid19gmu.stcenter.net A 0.0.0.0"
+local-zone: "covid-19.tokyo" redirect
+local-data: "covid-19.tokyo A 0.0.0.0"
+local-zone: "willcoronavirusdestroytheworld.com" redirect
+local-data: "willcoronavirusdestroytheworld.com A 0.0.0.0"
+local-zone: "leonmedicalcenters-coronavirus.com" redirect
+local-data: "leonmedicalcenters-coronavirus.com A 0.0.0.0"
+local-zone: "www.covid-19.tokyo" redirect
+local-data: "www.covid-19.tokyo A 0.0.0.0"
+local-zone: "aides-entreprises-covid19.fr" redirect
+local-data: "aides-entreprises-covid19.fr A 0.0.0.0"
+local-zone: "protectioncovid-19.com" redirect
+local-data: "protectioncovid-19.com A 0.0.0.0"
+local-zone: "www.protectioncovid-19.com" redirect
+local-data: "www.protectioncovid-19.com A 0.0.0.0"
+local-zone: "covid-19-thevaccine.com" redirect
+local-data: "covid-19-thevaccine.com A 0.0.0.0"
+local-zone: "analytics.covid19.oracle.com" redirect
+local-data: "analytics.covid19.oracle.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
