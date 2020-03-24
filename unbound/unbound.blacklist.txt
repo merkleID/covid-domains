@@ -18140,6 +18140,50 @@ local-zone: "don-covid-19.fr" redirect
 local-data: "don-covid-19.fr A 0.0.0.0"
 local-zone: "covid19.4ink.com" redirect
 local-data: "covid19.4ink.com A 0.0.0.0"
+local-zone: "api.c88c60b8.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.c88c60b8.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "don-covid-19.org" redirect
+local-data: "don-covid-19.org A 0.0.0.0"
+local-zone: "c88c60b8.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "c88c60b8.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "www.coronavirus-state.com" redirect
+local-data: "www.coronavirus-state.com A 0.0.0.0"
+local-zone: "tracking.covid-19times.com" redirect
+local-data: "tracking.covid-19times.com A 0.0.0.0"
+local-zone: "masks4covid19.com" redirect
+local-data: "masks4covid19.com A 0.0.0.0"
+local-zone: "e27d6797.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "e27d6797.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "cacoronavirustest.com" redirect
+local-data: "cacoronavirustest.com A 0.0.0.0"
+local-zone: "www.cacovid19law.com" redirect
+local-data: "www.cacovid19law.com A 0.0.0.0"
+local-zone: "coronavirusinnigeria.com" redirect
+local-data: "coronavirusinnigeria.com A 0.0.0.0"
+local-zone: "www.covid-19shopping.com" redirect
+local-data: "www.covid-19shopping.com A 0.0.0.0"
+local-zone: "www.covid19protectworld.com" redirect
+local-data: "www.covid19protectworld.com A 0.0.0.0"
+local-zone: "www.cardsfightingcoronavirus.com" redirect
+local-data: "www.cardsfightingcoronavirus.com A 0.0.0.0"
+local-zone: "lancasterdistrictcovid19.hotfootclients.co.uk" redirect
+local-data: "lancasterdistrictcovid19.hotfootclients.co.uk A 0.0.0.0"
+local-zone: "payment.covid19.kaissa.nl" redirect
+local-data: "payment.covid19.kaissa.nl A 0.0.0.0"
+local-zone: "covid19.paliativnimedicina.cz" redirect
+local-data: "covid19.paliativnimedicina.cz A 0.0.0.0"
+local-zone: "covid19.patralogistik.com" redirect
+local-data: "covid19.patralogistik.com A 0.0.0.0"
+local-zone: "www.covid19conferencia.rgi.com.co" redirect
+local-data: "www.covid19conferencia.rgi.com.co A 0.0.0.0"
+local-zone: "iniciativa-covid19.3dentalab.co" redirect
+local-data: "iniciativa-covid19.3dentalab.co A 0.0.0.0"
+local-zone: "staging.masksforcovid19.org" redirect
+local-data: "staging.masksforcovid19.org A 0.0.0.0"
+local-zone: "covid19-map.cdcmoh.gov.kh" redirect
+local-data: "covid19-map.cdcmoh.gov.kh A 0.0.0.0"
+local-zone: "coronavirus.worg.org.in" redirect
+local-data: "coronavirus.worg.org.in A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
