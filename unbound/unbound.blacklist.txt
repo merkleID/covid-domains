@@ -17786,6 +17786,42 @@ local-zone: "www.covid19.gov.au" redirect
 local-data: "www.covid19.gov.au A 0.0.0.0"
 local-zone: "www.coronavirus.vic.gov.au" redirect
 local-data: "www.coronavirus.vic.gov.au A 0.0.0.0"
+local-zone: "bsdewatertorencoronavirus.be" redirect
+local-data: "bsdewatertorencoronavirus.be A 0.0.0.0"
+local-zone: "covid19.banglikab.go.id" redirect
+local-data: "covid19.banglikab.go.id A 0.0.0.0"
+local-zone: "connectduringcovid19.ca" redirect
+local-data: "connectduringcovid19.ca A 0.0.0.0"
+local-zone: "conquercovid19.ca" redirect
+local-data: "conquercovid19.ca A 0.0.0.0"
+local-zone: "covid19.trivit-ag.de" redirect
+local-data: "covid19.trivit-ag.de A 0.0.0.0"
+local-zone: "ontariovscovid19.ca" redirect
+local-data: "ontariovscovid19.ca A 0.0.0.0"
+local-zone: "covid19-tests.eu" redirect
+local-data: "covid19-tests.eu A 0.0.0.0"
+local-zone: "www.covid19preventie.nl" redirect
+local-data: "www.covid19preventie.nl A 0.0.0.0"
+local-zone: "covid19-ppe.xyz" redirect
+local-data: "covid19-ppe.xyz A 0.0.0.0"
+local-zone: "covid1920live.com" redirect
+local-data: "covid1920live.com A 0.0.0.0"
+local-zone: "coronavirus.meetglimpse.com" redirect
+local-data: "coronavirus.meetglimpse.com A 0.0.0.0"
+local-zone: "covid19posters.searson.com.au" redirect
+local-data: "covid19posters.searson.com.au A 0.0.0.0"
+local-zone: "covid1920live.com" redirect
+local-data: "covid1920live.com A 0.0.0.0"
+local-zone: "coronavirus-ruhepol.com" redirect
+local-data: "coronavirus-ruhepol.com A 0.0.0.0"
+local-zone: "lonelyemptynestermomsduringcoronavirus.blog" redirect
+local-data: "lonelyemptynestermomsduringcoronavirus.blog A 0.0.0.0"
+local-zone: "ipcr-covid19.ucm.es" redirect
+local-data: "ipcr-covid19.ucm.es A 0.0.0.0"
+local-zone: "covid19businessresponse.ke" redirect
+local-data: "covid19businessresponse.ke A 0.0.0.0"
+local-zone: "covid19crc.org" redirect
+local-data: "covid19crc.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -18586,6 +18622,8 @@ local-zone: "comitatofvgcontrocovid19.it" redirect
 local-data: "comitatofvgcontrocovid19.it A 0.0.0.0"
 local-zone: "covid19policoro.it" redirect
 local-data: "covid19policoro.it A 0.0.0.0"
+local-zone: "covid19basilicata.it" redirect
+local-data: "covid19basilicata.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
