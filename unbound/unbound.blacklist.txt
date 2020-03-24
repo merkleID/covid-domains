@@ -17366,6 +17366,58 @@ local-zone: "overcomecovid19.in" redirect
 local-data: "overcomecovid19.in A 0.0.0.0"
 local-zone: "covid19.ilmucoding.com" redirect
 local-data: "covid19.ilmucoding.com A 0.0.0.0"
+local-zone: "overcomecovid19.in" redirect
+local-data: "overcomecovid19.in A 0.0.0.0"
+local-zone: "covid19-remediation.com" redirect
+local-data: "covid19-remediation.com A 0.0.0.0"
+local-zone: "covid19.bojonegoro.org" redirect
+local-data: "covid19.bojonegoro.org A 0.0.0.0"
+local-zone: "covid19masks.fuzziebrain.com" redirect
+local-data: "covid19masks.fuzziebrain.com A 0.0.0.0"
+local-zone: "covid19.tokyomagic.co.uk" redirect
+local-data: "covid19.tokyomagic.co.uk A 0.0.0.0"
+local-zone: "coronaviruscovid19usa.com" redirect
+local-data: "coronaviruscovid19usa.com A 0.0.0.0"
+local-zone: "coronavirushoy.org" redirect
+local-data: "coronavirushoy.org A 0.0.0.0"
+local-zone: "youhavecoronavirus.com" redirect
+local-data: "youhavecoronavirus.com A 0.0.0.0"
+local-zone: "youhavethecoronavirus.com" redirect
+local-data: "youhavethecoronavirus.com A 0.0.0.0"
+local-zone: "toiletpaperforcoronavirus.com" redirect
+local-data: "toiletpaperforcoronavirus.com A 0.0.0.0"
+local-zone: "covid19trk.dostep.id" redirect
+local-data: "covid19trk.dostep.id A 0.0.0.0"
+local-zone: "www.coronavirusanivelmundial.com" redirect
+local-data: "www.coronavirusanivelmundial.com A 0.0.0.0"
+local-zone: "www.covid19hackpack.com" redirect
+local-data: "www.covid19hackpack.com A 0.0.0.0"
+local-zone: "coronavirus.windlog.com.br" redirect
+local-data: "coronavirus.windlog.com.br A 0.0.0.0"
+local-zone: "www.udcovid19smellstudy.com" redirect
+local-data: "www.udcovid19smellstudy.com A 0.0.0.0"
+local-zone: "covid-19firstaid.com" redirect
+local-data: "covid-19firstaid.com A 0.0.0.0"
+local-zone: "www.covid-19firstaid.com" redirect
+local-data: "www.covid-19firstaid.com A 0.0.0.0"
+local-zone: "coronavirus-healthcare.com" redirect
+local-data: "coronavirus-healthcare.com A 0.0.0.0"
+local-zone: "covid19.phoolbutta.com" redirect
+local-data: "covid19.phoolbutta.com A 0.0.0.0"
+local-zone: "covid19.basem3nt.com" redirect
+local-data: "covid19.basem3nt.com A 0.0.0.0"
+local-zone: "covid19nepal.info" redirect
+local-data: "covid19nepal.info A 0.0.0.0"
+local-zone: "www.abcsofcoronavirus.com" redirect
+local-data: "www.abcsofcoronavirus.com A 0.0.0.0"
+local-zone: "covid19outbreak.net" redirect
+local-data: "covid19outbreak.net A 0.0.0.0"
+local-zone: "covid19rdc.info" redirect
+local-data: "covid19rdc.info A 0.0.0.0"
+local-zone: "covid19.phoolbutta.com" redirect
+local-data: "covid19.phoolbutta.com A 0.0.0.0"
+local-zone: "huroncountyohiocovid19.net" redirect
+local-data: "huroncountyohiocovid19.net A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
