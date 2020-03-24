@@ -18890,6 +18890,40 @@ local-zone: "covid-19-thevaccine.com" redirect
 local-data: "covid-19-thevaccine.com A 0.0.0.0"
 local-zone: "analytics.covid19.oracle.com" redirect
 local-data: "analytics.covid19.oracle.com A 0.0.0.0"
+local-zone: "covid19hardship.com" redirect
+local-data: "covid19hardship.com A 0.0.0.0"
+local-zone: "covid-19hardship.com" redirect
+local-data: "covid-19hardship.com A 0.0.0.0"
+local-zone: "coronaviruskenya.buzz" redirect
+local-data: "coronaviruskenya.buzz A 0.0.0.0"
+local-zone: "coronavirusverluste.de" redirect
+local-data: "coronavirusverluste.de A 0.0.0.0"
+local-zone: "mycoronavirusprotection.com" redirect
+local-data: "mycoronavirusprotection.com A 0.0.0.0"
+local-zone: "covid19.gcefe.com" redirect
+local-data: "covid19.gcefe.com A 0.0.0.0"
+local-zone: "www.covid19hazmat.com" redirect
+local-data: "www.covid19hazmat.com A 0.0.0.0"
+local-zone: "covid-19.muntz.com.br" redirect
+local-data: "covid-19.muntz.com.br A 0.0.0.0"
+local-zone: "mapacoronavirus.es" redirect
+local-data: "mapacoronavirus.es A 0.0.0.0"
+local-zone: "covid19insights.org" redirect
+local-data: "covid19insights.org A 0.0.0.0"
+local-zone: "covid19.tools" redirect
+local-data: "covid19.tools A 0.0.0.0"
+local-zone: "covid19citizen.science" redirect
+local-data: "covid19citizen.science A 0.0.0.0"
+local-zone: "covid19.airraro.com" redirect
+local-data: "covid19.airraro.com A 0.0.0.0"
+local-zone: "coronavirusmundial.info" redirect
+local-data: "coronavirusmundial.info A 0.0.0.0"
+local-zone: "trackercovid19.com" redirect
+local-data: "trackercovid19.com A 0.0.0.0"
+local-zone: "alertacovid19.vivir.com.do" redirect
+local-data: "alertacovid19.vivir.com.do A 0.0.0.0"
+local-zone: "brochure.ost-covid19.com" redirect
+local-data: "brochure.ost-covid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -19756,6 +19790,8 @@ local-zone: "covid19koronavirus.ru" redirect
 local-data: "covid19koronavirus.ru A 0.0.0.0"
 local-zone: "dascoronavirus.de" redirect
 local-data: "dascoronavirus.de A 0.0.0.0"
+local-zone: "ethiopia-covid19.com" redirect
+local-data: "ethiopia-covid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
