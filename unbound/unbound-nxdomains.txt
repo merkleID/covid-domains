@@ -8556,6 +8556,16 @@ local-zone: "mm.coronavirus.de" static
 local-zone: "autotestcovid19.org" static
 local-zone: "es.covid19-testimonialsinternational.com" static
 local-zone: "www.buildagainstcovid19.com" static
+local-zone: "covid19.texashealthinstitute.org" static
+local-zone: "covid19fact.com" static
+local-zone: "covid19.taylorcowin.com" static
+local-zone: "coronavirus.indiaforchange.org" static
+local-zone: "coronavirus-social.com" static
+local-zone: "buildagainstcovid19.com" static
+local-zone: "coronavirus-state.com" static
+local-zone: "www.coronavirus-state.com" static
+local-zone: "cpcontacts.covid19tomorrow.com" static
+local-zone: "coronavirus.essalud.gob.pe" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -8945,6 +8955,7 @@ local-zone: "coronavirusayuda.org" static
 local-zone: "coronavirus-anwalt.de" static
 local-zone: "coronavirus-mv.de" static
 local-zone: "surveycovid19.now.sh" static
+local-zone: "covid19crowdfunding.com" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static

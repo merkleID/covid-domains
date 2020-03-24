@@ -17114,6 +17114,26 @@ local-zone: "es.covid19-testimonialsinternational.com" redirect
 local-data: "es.covid19-testimonialsinternational.com A 0.0.0.0"
 local-zone: "www.buildagainstcovid19.com" redirect
 local-data: "www.buildagainstcovid19.com A 0.0.0.0"
+local-zone: "covid19.texashealthinstitute.org" redirect
+local-data: "covid19.texashealthinstitute.org A 0.0.0.0"
+local-zone: "covid19fact.com" redirect
+local-data: "covid19fact.com A 0.0.0.0"
+local-zone: "covid19.taylorcowin.com" redirect
+local-data: "covid19.taylorcowin.com A 0.0.0.0"
+local-zone: "coronavirus.indiaforchange.org" redirect
+local-data: "coronavirus.indiaforchange.org A 0.0.0.0"
+local-zone: "coronavirus-social.com" redirect
+local-data: "coronavirus-social.com A 0.0.0.0"
+local-zone: "buildagainstcovid19.com" redirect
+local-data: "buildagainstcovid19.com A 0.0.0.0"
+local-zone: "coronavirus-state.com" redirect
+local-data: "coronavirus-state.com A 0.0.0.0"
+local-zone: "www.coronavirus-state.com" redirect
+local-data: "www.coronavirus-state.com A 0.0.0.0"
+local-zone: "cpcontacts.covid19tomorrow.com" redirect
+local-data: "cpcontacts.covid19tomorrow.com A 0.0.0.0"
+local-zone: "coronavirus.essalud.gob.pe" redirect
+local-data: "coronavirus.essalud.gob.pe A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -17892,6 +17912,8 @@ local-zone: "coronavirus-mv.de" redirect
 local-data: "coronavirus-mv.de A 0.0.0.0"
 local-zone: "surveycovid19.now.sh" redirect
 local-data: "surveycovid19.now.sh A 0.0.0.0"
+local-zone: "covid19crowdfunding.com" redirect
+local-data: "covid19crowdfunding.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
