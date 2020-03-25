@@ -20130,6 +20130,54 @@ local-zone: "coronavirus-vakcina.online" redirect
 local-data: "coronavirus-vakcina.online A 0.0.0.0"
 local-zone: "covid19-arabic.com" redirect
 local-data: "covid19-arabic.com A 0.0.0.0"
+local-zone: "helpingparentingamidcoronavirus.com" redirect
+local-data: "helpingparentingamidcoronavirus.com A 0.0.0.0"
+local-zone: "cpanel.allaboutcovid-19.com" redirect
+local-data: "cpanel.allaboutcovid-19.com A 0.0.0.0"
+local-zone: "m.covid19.rnbo.gov.ua" redirect
+local-data: "m.covid19.rnbo.gov.ua A 0.0.0.0"
+local-zone: "www.covid19solidaritytee.com" redirect
+local-data: "www.covid19solidaritytee.com A 0.0.0.0"
+local-zone: "covid19.iapps365.com" redirect
+local-data: "covid19.iapps365.com A 0.0.0.0"
+local-zone: "covid19japan.net" redirect
+local-data: "covid19japan.net A 0.0.0.0"
+local-zone: "www.shopcoronavirus.co" redirect
+local-data: "www.shopcoronavirus.co A 0.0.0.0"
+local-zone: "shopcoronavirus.co" redirect
+local-data: "shopcoronavirus.co A 0.0.0.0"
+local-zone: "www.shopcovid19.co.uk" redirect
+local-data: "www.shopcovid19.co.uk A 0.0.0.0"
+local-zone: "www.covid19shop.net" redirect
+local-data: "www.covid19shop.net A 0.0.0.0"
+local-zone: "docs.coronaviruscodex.com" redirect
+local-data: "docs.coronaviruscodex.com A 0.0.0.0"
+local-zone: "www.primacovid19.com" redirect
+local-data: "www.primacovid19.com A 0.0.0.0"
+local-zone: "primacovid19.com" redirect
+local-data: "primacovid19.com A 0.0.0.0"
+local-zone: "www.shopcovid19.net" redirect
+local-data: "www.shopcovid19.net A 0.0.0.0"
+local-zone: "free-covid19.tk" redirect
+local-data: "free-covid19.tk A 0.0.0.0"
+local-zone: "community.covid19.moh.gov.et" redirect
+local-data: "community.covid19.moh.gov.et A 0.0.0.0"
+local-zone: "www.corona-virus-facts.com" redirect
+local-data: "www.corona-virus-facts.com A 0.0.0.0"
+local-zone: "passenger.covid19.moh.gov.et" redirect
+local-data: "passenger.covid19.moh.gov.et A 0.0.0.0"
+local-zone: "covid19.londonfunders.org.uk" redirect
+local-data: "covid19.londonfunders.org.uk A 0.0.0.0"
+local-zone: "coronavirusinfocom.ddns.net" redirect
+local-data: "coronavirusinfocom.ddns.net A 0.0.0.0"
+local-zone: "coronavirusiraq.me.akrons.ca" redirect
+local-data: "coronavirusiraq.me.akrons.ca A 0.0.0.0"
+local-zone: "covid19.altercites.fr" redirect
+local-data: "covid19.altercites.fr A 0.0.0.0"
+local-zone: "shopcovid19.co.uk" redirect
+local-data: "shopcovid19.co.uk A 0.0.0.0"
+local-zone: "appcoronavirus.cl" redirect
+local-data: "appcoronavirus.cl A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21060,6 +21108,8 @@ local-zone: "covid19risarcimenti.it" redirect
 local-data: "covid19risarcimenti.it A 0.0.0.0"
 local-zone: "coupdepoucecovid19.fr" redirect
 local-data: "coupdepoucecovid19.fr A 0.0.0.0"
+local-zone: "covid-19-teststation.de" redirect
+local-data: "covid-19-teststation.de A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
