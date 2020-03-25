@@ -19044,6 +19044,34 @@ local-zone: "coronavirus.comunidad.madrid" redirect
 local-data: "coronavirus.comunidad.madrid A 0.0.0.0"
 local-zone: "infosquebec.coronavirusinfos.ca" redirect
 local-data: "infosquebec.coronavirusinfos.ca A 0.0.0.0"
+local-zone: "cpanel.covid19helpedinburgh.org.uk" redirect
+local-data: "cpanel.covid19helpedinburgh.org.uk A 0.0.0.0"
+local-zone: "covid19.emed.hr" redirect
+local-data: "covid19.emed.hr A 0.0.0.0"
+local-zone: "atencioncovid19.zendesk.com" redirect
+local-data: "atencioncovid19.zendesk.com A 0.0.0.0"
+local-zone: "www.coronavirusspreadingprecautions.ml" redirect
+local-data: "www.coronavirusspreadingprecautions.ml A 0.0.0.0"
+local-zone: "google.com.covid-19.cx" redirect
+local-data: "google.com.covid-19.cx A 0.0.0.0"
+local-zone: "covid19.diginet.my.id" redirect
+local-data: "covid19.diginet.my.id A 0.0.0.0"
+local-zone: "www.covid19cases.info" redirect
+local-data: "www.covid19cases.info A 0.0.0.0"
+local-zone: "covid19.airtransport.com.ng" redirect
+local-data: "covid19.airtransport.com.ng A 0.0.0.0"
+local-zone: "us.covid19signs.info" redirect
+local-data: "us.covid19signs.info A 0.0.0.0"
+local-zone: "covid-19dishes.com" redirect
+local-data: "covid-19dishes.com A 0.0.0.0"
+local-zone: "covid19.planhnd.org" redirect
+local-data: "covid19.planhnd.org A 0.0.0.0"
+local-zone: "www.coronavirus-store.de" redirect
+local-data: "www.coronavirus-store.de A 0.0.0.0"
+local-zone: "coronavirus-shirts.de" redirect
+local-data: "coronavirus-shirts.de A 0.0.0.0"
+local-zone: "boasnoticiascovid19.com.br" redirect
+local-data: "boasnoticiascovid19.com.br A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
