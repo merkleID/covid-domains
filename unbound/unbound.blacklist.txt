@@ -19374,6 +19374,38 @@ local-zone: "coronaviruscleaning.vegas" redirect
 local-data: "coronaviruscleaning.vegas A 0.0.0.0"
 local-zone: "covid19.alftri.xyz" redirect
 local-data: "covid19.alftri.xyz A 0.0.0.0"
+local-zone: "sincoronavirus.net" redirect
+local-data: "sincoronavirus.net A 0.0.0.0"
+local-zone: "masksale-coronavirus.com" redirect
+local-data: "masksale-coronavirus.com A 0.0.0.0"
+local-zone: "covid19.xlung.net" redirect
+local-data: "covid19.xlung.net A 0.0.0.0"
+local-zone: "xn--covid-19opplring-5ob.net" redirect
+local-data: "xn--covid-19opplring-5ob.net A 0.0.0.0"
+local-zone: "www.coronavirus-report.news" redirect
+local-data: "www.coronavirus-report.news A 0.0.0.0"
+local-zone: "covid19live.news" redirect
+local-data: "covid19live.news A 0.0.0.0"
+local-zone: "coronavirusbreaking.news" redirect
+local-data: "coronavirusbreaking.news A 0.0.0.0"
+local-zone: "coronavirus-updates.news" redirect
+local-data: "coronavirus-updates.news A 0.0.0.0"
+local-zone: "www.bescherming-coronavirus.nl" redirect
+local-data: "www.bescherming-coronavirus.nl A 0.0.0.0"
+local-zone: "coronavirusforum.nl" redirect
+local-data: "coronavirusforum.nl A 0.0.0.0"
+local-zone: "www.covid19-info.nl" redirect
+local-data: "www.covid19-info.nl A 0.0.0.0"
+local-zone: "coronavirus-in-nederland.nl" redirect
+local-data: "coronavirus-in-nederland.nl A 0.0.0.0"
+local-zone: "coronavirusactueel.nl" redirect
+local-data: "coronavirusactueel.nl A 0.0.0.0"
+local-zone: "infosquebec.coronavirusinfos.ca" redirect
+local-data: "infosquebec.coronavirusinfos.ca A 0.0.0.0"
+local-zone: "staging6.covid19-bayarea-support.com" redirect
+local-data: "staging6.covid19-bayarea-support.com A 0.0.0.0"
+local-zone: "corona-virus-news.co.za" redirect
+local-data: "corona-virus-news.co.za A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
