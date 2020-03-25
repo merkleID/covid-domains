@@ -9836,6 +9836,16 @@ local-zone: "dev.covid19.adn.be" static
 local-zone: "coronavirus.vic.gov.au" static
 local-zone: "coronavirus.abimo.org.br" static
 local-zone: "coronavirus.fablab-gfi-lyon.fr" static
+local-zone: "covid19newsdaily.com" static
+local-zone: "covid19kit.kprojects-me.com" static
+local-zone: "encuestacovid19.net" static
+local-zone: "thecovid19.law.blog" static
+local-zone: "covid19.labkommat-unm.net" static
+local-zone: "www.contraocoronavirus.com.br" static
+local-zone: "coronavirusblog.com" static
+local-zone: "api.development.testcovid19.be" static
+local-zone: "covid-19.aziziqbal.com" static
+local-zone: "livecovid19tv.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static

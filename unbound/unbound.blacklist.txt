@@ -19674,6 +19674,26 @@ local-zone: "coronavirus.abimo.org.br" redirect
 local-data: "coronavirus.abimo.org.br A 0.0.0.0"
 local-zone: "coronavirus.fablab-gfi-lyon.fr" redirect
 local-data: "coronavirus.fablab-gfi-lyon.fr A 0.0.0.0"
+local-zone: "covid19newsdaily.com" redirect
+local-data: "covid19newsdaily.com A 0.0.0.0"
+local-zone: "covid19kit.kprojects-me.com" redirect
+local-data: "covid19kit.kprojects-me.com A 0.0.0.0"
+local-zone: "encuestacovid19.net" redirect
+local-data: "encuestacovid19.net A 0.0.0.0"
+local-zone: "thecovid19.law.blog" redirect
+local-data: "thecovid19.law.blog A 0.0.0.0"
+local-zone: "covid19.labkommat-unm.net" redirect
+local-data: "covid19.labkommat-unm.net A 0.0.0.0"
+local-zone: "www.contraocoronavirus.com.br" redirect
+local-data: "www.contraocoronavirus.com.br A 0.0.0.0"
+local-zone: "coronavirusblog.com" redirect
+local-data: "coronavirusblog.com A 0.0.0.0"
+local-zone: "api.development.testcovid19.be" redirect
+local-data: "api.development.testcovid19.be A 0.0.0.0"
+local-zone: "covid-19.aziziqbal.com" redirect
+local-data: "covid-19.aziziqbal.com A 0.0.0.0"
+local-zone: "livecovid19tv.com" redirect
+local-data: "livecovid19tv.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
