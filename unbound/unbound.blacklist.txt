@@ -19350,6 +19350,30 @@ local-zone: "covid1924x7.darwindpit.com" redirect
 local-data: "covid1924x7.darwindpit.com A 0.0.0.0"
 local-zone: "allaboutcoronavirus.net" redirect
 local-data: "allaboutcoronavirus.net A 0.0.0.0"
+local-zone: "covid-19familyprotection.com" redirect
+local-data: "covid-19familyprotection.com A 0.0.0.0"
+local-zone: "covid-19ind.tk" redirect
+local-data: "covid-19ind.tk A 0.0.0.0"
+local-zone: "covid19-meds.com" redirect
+local-data: "covid19-meds.com A 0.0.0.0"
+local-zone: "www.coronavirussnews.tk" redirect
+local-data: "www.coronavirussnews.tk A 0.0.0.0"
+local-zone: "www.ccs-coronavirus.net" redirect
+local-data: "www.ccs-coronavirus.net A 0.0.0.0"
+local-zone: "coronavirustestkits.net" redirect
+local-data: "coronavirustestkits.net A 0.0.0.0"
+local-zone: "www.goodnewscoronavirus.net" redirect
+local-data: "www.goodnewscoronavirus.net A 0.0.0.0"
+local-zone: "www.coronavirus777.com" redirect
+local-data: "www.coronavirus777.com A 0.0.0.0"
+local-zone: "coronavirus.coinoprice.com" redirect
+local-data: "coronavirus.coinoprice.com A 0.0.0.0"
+local-zone: "covid19.crestviewstrategy.com" redirect
+local-data: "covid19.crestviewstrategy.com A 0.0.0.0"
+local-zone: "coronaviruscleaning.vegas" redirect
+local-data: "coronaviruscleaning.vegas A 0.0.0.0"
+local-zone: "covid19.alftri.xyz" redirect
+local-data: "covid19.alftri.xyz A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
