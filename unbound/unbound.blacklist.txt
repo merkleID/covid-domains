@@ -19562,6 +19562,38 @@ local-zone: "covid19memorial.info" redirect
 local-data: "covid19memorial.info A 0.0.0.0"
 local-zone: "corona-virus-domains.com" redirect
 local-data: "corona-virus-domains.com A 0.0.0.0"
+local-zone: "covid19.gogreenblocks.com" redirect
+local-data: "covid19.gogreenblocks.com A 0.0.0.0"
+local-zone: "covid19.zvyagel.org" redirect
+local-data: "covid19.zvyagel.org A 0.0.0.0"
+local-zone: "coronavirushelp.se" redirect
+local-data: "coronavirushelp.se A 0.0.0.0"
+local-zone: "info-covid-19.se" redirect
+local-data: "info-covid-19.se A 0.0.0.0"
+local-zone: "mapacovid19.solucionesgraficas.cl" redirect
+local-data: "mapacovid19.solucionesgraficas.cl A 0.0.0.0"
+local-zone: "loveinthetimeofcovid19.blog" redirect
+local-data: "loveinthetimeofcovid19.blog A 0.0.0.0"
+local-zone: "coronavirushelp.services" redirect
+local-data: "coronavirushelp.services A 0.0.0.0"
+local-zone: "memorialcovid19.com" redirect
+local-data: "memorialcovid19.com A 0.0.0.0"
+local-zone: "howtosurvivecoronavirus.site" redirect
+local-data: "howtosurvivecoronavirus.site A 0.0.0.0"
+local-zone: "anticovid19.store" redirect
+local-data: "anticovid19.store A 0.0.0.0"
+local-zone: "coronavirusonline.solutions" redirect
+local-data: "coronavirusonline.solutions A 0.0.0.0"
+local-zone: "mascherine-coronavirus.store" redirect
+local-data: "mascherine-coronavirus.store A 0.0.0.0"
+local-zone: "bollettinocoronavirus.com" redirect
+local-data: "bollettinocoronavirus.com A 0.0.0.0"
+local-zone: "autoevaluacioncoronavirus.com" redirect
+local-data: "autoevaluacioncoronavirus.com A 0.0.0.0"
+local-zone: "covid19.swu.ac.th" redirect
+local-data: "covid19.swu.ac.th A 0.0.0.0"
+local-zone: "coronaviruscovid19.thebermanlawgroup.com" redirect
+local-data: "coronaviruscovid19.thebermanlawgroup.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
