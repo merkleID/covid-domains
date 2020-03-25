@@ -19640,6 +19640,40 @@ local-zone: "www.covid-19supplychain.com" redirect
 local-data: "www.covid-19supplychain.com A 0.0.0.0"
 local-zone: "covid19-corona-virus.com" redirect
 local-data: "covid19-corona-virus.com A 0.0.0.0"
+local-zone: "coronavirus.projectpage.app" redirect
+local-data: "coronavirus.projectpage.app A 0.0.0.0"
+local-zone: "covid19chapelhill.com" redirect
+local-data: "covid19chapelhill.com A 0.0.0.0"
+local-zone: "coronavirus-help.camden.gov.uk" redirect
+local-data: "coronavirus-help.camden.gov.uk A 0.0.0.0"
+local-zone: "covid19response.s29.me" redirect
+local-data: "covid19response.s29.me A 0.0.0.0"
+local-zone: "testcoronavirus.com.ar" redirect
+local-data: "testcoronavirus.com.ar A 0.0.0.0"
+local-zone: "www.sfdvcoronavirus.family.blog" redirect
+local-data: "www.sfdvcoronavirus.family.blog A 0.0.0.0"
+local-zone: "covid-19detectionkit.net" redirect
+local-data: "covid-19detectionkit.net A 0.0.0.0"
+local-zone: "covid19-test.me" redirect
+local-data: "covid19-test.me A 0.0.0.0"
+local-zone: "covid19kit.kprojects-me.com" redirect
+local-data: "covid19kit.kprojects-me.com A 0.0.0.0"
+local-zone: "covid19utah.zendesk.com" redirect
+local-data: "covid19utah.zendesk.com A 0.0.0.0"
+local-zone: "aboutcovid19info.com" redirect
+local-data: "aboutcovid19info.com A 0.0.0.0"
+local-zone: "covid19.invent.al" redirect
+local-data: "covid19.invent.al A 0.0.0.0"
+local-zone: "coronaviruslive.visualdictionaryplus.com" redirect
+local-data: "coronaviruslive.visualdictionaryplus.com A 0.0.0.0"
+local-zone: "dev.covid19.adn.be" redirect
+local-data: "dev.covid19.adn.be A 0.0.0.0"
+local-zone: "coronavirus.vic.gov.au" redirect
+local-data: "coronavirus.vic.gov.au A 0.0.0.0"
+local-zone: "coronavirus.abimo.org.br" redirect
+local-data: "coronavirus.abimo.org.br A 0.0.0.0"
+local-zone: "coronavirus.fablab-gfi-lyon.fr" redirect
+local-data: "coronavirus.fablab-gfi-lyon.fr A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -20544,6 +20578,8 @@ local-zone: "covid-19-desinfection.fr" redirect
 local-data: "covid-19-desinfection.fr A 0.0.0.0"
 local-zone: "covid19hometestingkituk.co.uk" redirect
 local-data: "covid19hometestingkituk.co.uk A 0.0.0.0"
+local-zone: "covid19info.at" redirect
+local-data: "covid19info.at A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
