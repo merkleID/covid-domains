@@ -20178,6 +20178,50 @@ local-zone: "shopcovid19.co.uk" redirect
 local-data: "shopcovid19.co.uk A 0.0.0.0"
 local-zone: "appcoronavirus.cl" redirect
 local-data: "appcoronavirus.cl A 0.0.0.0"
+local-zone: "covid19hkfund.org" redirect
+local-data: "covid19hkfund.org A 0.0.0.0"
+local-zone: "texascoronaviruslawyers.com" redirect
+local-data: "texascoronaviruslawyers.com A 0.0.0.0"
+local-zone: "protezione-covid19.com" redirect
+local-data: "protezione-covid19.com A 0.0.0.0"
+local-zone: "www.livethroughcovid19.com" redirect
+local-data: "www.livethroughcovid19.com A 0.0.0.0"
+local-zone: "hylantcoronavirusinfo.com" redirect
+local-data: "hylantcoronavirusinfo.com A 0.0.0.0"
+local-zone: "thecoronavirus19.in" redirect
+local-data: "thecoronavirus19.in A 0.0.0.0"
+local-zone: "maiavscovid19.com" redirect
+local-data: "maiavscovid19.com A 0.0.0.0"
+local-zone: "covid19.marceloroca.com" redirect
+local-data: "covid19.marceloroca.com A 0.0.0.0"
+local-zone: "impactoeconomicocoronavirus.com" redirect
+local-data: "impactoeconomicocoronavirus.com A 0.0.0.0"
+local-zone: "impots-covid19.com" redirect
+local-data: "impots-covid19.com A 0.0.0.0"
+local-zone: "casecovid19.prod.source.ai" redirect
+local-data: "casecovid19.prod.source.ai A 0.0.0.0"
+local-zone: "api-prod.coronavirusinfo.cl" redirect
+local-data: "api-prod.coronavirusinfo.cl A 0.0.0.0"
+local-zone: "special-offer.coronavirus-help.shop" redirect
+local-data: "special-offer.coronavirus-help.shop A 0.0.0.0"
+local-zone: "webmail.covid19medic.co.uk" redirect
+local-data: "webmail.covid19medic.co.uk A 0.0.0.0"
+local-zone: "covid19fit.uk" redirect
+local-data: "covid19fit.uk A 0.0.0.0"
+local-zone: "psicologoscoronavirus.com" redirect
+local-data: "psicologoscoronavirus.com A 0.0.0.0"
+local-zone: "covid19partnering.com" redirect
+local-data: "covid19partnering.com A 0.0.0.0"
+local-zone: "covid19.iurall.com" redirect
+local-data: "covid19.iurall.com A 0.0.0.0"
+local-zone: "www.registroscovid19.construmateriales.a2hosted.com" redirect
+local-data: "www.registroscovid19.construmateriales.a2hosted.com A 0.0.0.0"
+local-zone: "covid19.confianzamedica.mx" redirect
+local-data: "covid19.confianzamedica.mx A 0.0.0.0"
+local-zone: "www.coronavirus.del.org.bo" redirect
+local-data: "www.coronavirus.del.org.bo A 0.0.0.0"
+local-zone: "endcoronavirus.necsi.edu" redirect
+local-data: "endcoronavirus.necsi.edu A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21106,6 +21150,10 @@ local-zone: "abruzzostopcoronavirus.it" redirect
 local-data: "abruzzostopcoronavirus.it A 0.0.0.0"
 local-zone: "covid19risarcimenti.it" redirect
 local-data: "covid19risarcimenti.it A 0.0.0.0"
+local-zone: "coupdepoucecovid19.fr" redirect
+local-data: "coupdepoucecovid19.fr A 0.0.0.0"
+local-zone: "covid-19-teststation.de" redirect
+local-data: "covid-19-teststation.de A 0.0.0.0"
 local-zone: "coupdepoucecovid19.fr" redirect
 local-data: "coupdepoucecovid19.fr A 0.0.0.0"
 local-zone: "covid-19-teststation.de" redirect
