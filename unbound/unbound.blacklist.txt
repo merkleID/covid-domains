@@ -19208,6 +19208,38 @@ local-zone: "eeyouistcheecovid19.org" redirect
 local-data: "eeyouistcheecovid19.org A 0.0.0.0"
 local-zone: "www.goodnewscovid19.org" redirect
 local-data: "www.goodnewscovid19.org A 0.0.0.0"
+local-zone: "cloroquinacoronavirus.com" redirect
+local-data: "cloroquinacoronavirus.com A 0.0.0.0"
+local-zone: "www.medanthcovid-19.org" redirect
+local-data: "www.medanthcovid-19.org A 0.0.0.0"
+local-zone: "www.covid19.nj.gov" redirect
+local-data: "www.covid19.nj.gov A 0.0.0.0"
+local-zone: "pray4covid19.org" redirect
+local-data: "pray4covid19.org A 0.0.0.0"
+local-zone: "redcovid19mx.org" redirect
+local-data: "redcovid19mx.org A 0.0.0.0"
+local-zone: "anticoronavirus.belworld.net" redirect
+local-data: "anticoronavirus.belworld.net A 0.0.0.0"
+local-zone: "fightcovid19.rumahawan.id" redirect
+local-data: "fightcovid19.rumahawan.id A 0.0.0.0"
+local-zone: "www.covid19bystate.com" redirect
+local-data: "www.covid19bystate.com A 0.0.0.0"
+local-zone: "covid19bystate.com" redirect
+local-data: "covid19bystate.com A 0.0.0.0"
+local-zone: "covid19.geospatials.com.my" redirect
+local-data: "covid19.geospatials.com.my A 0.0.0.0"
+local-zone: "coronavirus.essalud.gob.pe" redirect
+local-data: "coronavirus.essalud.gob.pe A 0.0.0.0"
+local-zone: "covid19precaution.krishnawebs.com" redirect
+local-data: "covid19precaution.krishnawebs.com A 0.0.0.0"
+local-zone: "supplies.coronavirus.com.au" redirect
+local-data: "supplies.coronavirus.com.au A 0.0.0.0"
+local-zone: "webmail.ccibusiness-covid19.fr" redirect
+local-data: "webmail.ccibusiness-covid19.fr A 0.0.0.0"
+local-zone: "covid19.croix.com.au" redirect
+local-data: "covid19.croix.com.au A 0.0.0.0"
+local-zone: "covid19-challenge.fr" redirect
+local-data: "covid19-challenge.fr A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
