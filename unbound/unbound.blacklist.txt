@@ -20088,6 +20088,48 @@ local-zone: "coronavirusbd.info" redirect
 local-data: "coronavirusbd.info A 0.0.0.0"
 local-zone: "masks-forcoronavirus.com" redirect
 local-data: "masks-forcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.elitedigitalagency.com" redirect
+local-data: "covid19.elitedigitalagency.com A 0.0.0.0"
+local-zone: "corona-virus-hq.net" redirect
+local-data: "corona-virus-hq.net A 0.0.0.0"
+local-zone: "covid-19.epyc.be" redirect
+local-data: "covid-19.epyc.be A 0.0.0.0"
+local-zone: "covid19.gelliott.ca" redirect
+local-data: "covid19.gelliott.ca A 0.0.0.0"
+local-zone: "www.churchcovid19.com" redirect
+local-data: "www.churchcovid19.com A 0.0.0.0"
+local-zone: "www.coronavirus.ketcode.in" redirect
+local-data: "www.coronavirus.ketcode.in A 0.0.0.0"
+local-zone: "assicurarecoronavirus.it" redirect
+local-data: "assicurarecoronavirus.it A 0.0.0.0"
+local-zone: "stop-covid19.uk" redirect
+local-data: "stop-covid19.uk A 0.0.0.0"
+local-zone: "covid19computerrepair.com" redirect
+local-data: "covid19computerrepair.com A 0.0.0.0"
+local-zone: "covid19kits.store" redirect
+local-data: "covid19kits.store A 0.0.0.0"
+local-zone: "www.covid19kits.store" redirect
+local-data: "www.covid19kits.store A 0.0.0.0"
+local-zone: "anticovid-2019.ru" redirect
+local-data: "anticovid-2019.ru A 0.0.0.0"
+local-zone: "24x7coronavirus.com" redirect
+local-data: "24x7coronavirus.com A 0.0.0.0"
+local-zone: "webmail.covid19computerrepair.com" redirect
+local-data: "webmail.covid19computerrepair.com A 0.0.0.0"
+local-zone: "covid19.talakunchi.net" redirect
+local-data: "covid19.talakunchi.net A 0.0.0.0"
+local-zone: "covid19.martinsantarelli.com" redirect
+local-data: "covid19.martinsantarelli.com A 0.0.0.0"
+local-zone: "covid19.myiln.co" redirect
+local-data: "covid19.myiln.co A 0.0.0.0"
+local-zone: "virtualsolutionscovid19.com" redirect
+local-data: "virtualsolutionscovid19.com A 0.0.0.0"
+local-zone: "covid19tvm.owrench.com" redirect
+local-data: "covid19tvm.owrench.com A 0.0.0.0"
+local-zone: "coronavirus-vakcina.online" redirect
+local-data: "coronavirus-vakcina.online A 0.0.0.0"
+local-zone: "covid19-arabic.com" redirect
+local-data: "covid19-arabic.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21016,6 +21058,8 @@ local-zone: "abruzzostopcoronavirus.it" redirect
 local-data: "abruzzostopcoronavirus.it A 0.0.0.0"
 local-zone: "covid19risarcimenti.it" redirect
 local-data: "covid19risarcimenti.it A 0.0.0.0"
+local-zone: "coupdepoucecovid19.fr" redirect
+local-data: "coupdepoucecovid19.fr A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
