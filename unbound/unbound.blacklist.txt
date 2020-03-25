@@ -18962,6 +18962,36 @@ local-zone: "endcoronavirusanxiety.com" redirect
 local-data: "endcoronavirusanxiety.com A 0.0.0.0"
 local-zone: "www.covid19.earth" redirect
 local-data: "www.covid19.earth A 0.0.0.0"
+local-zone: "beatcovid19now.org" redirect
+local-data: "beatcovid19now.org A 0.0.0.0"
+local-zone: "ipcr-covid19.ucm.es" redirect
+local-data: "ipcr-covid19.ucm.es A 0.0.0.0"
+local-zone: "covid19.goleaddigital.com" redirect
+local-data: "covid19.goleaddigital.com A 0.0.0.0"
+local-zone: "covid19.earth" redirect
+local-data: "covid19.earth A 0.0.0.0"
+local-zone: "stopcoronavirus.quantastat.com" redirect
+local-data: "stopcoronavirus.quantastat.com A 0.0.0.0"
+local-zone: "www.covid19vaccine.news" redirect
+local-data: "www.covid19vaccine.news A 0.0.0.0"
+local-zone: "covid19.bizumy.com" redirect
+local-data: "covid19.bizumy.com A 0.0.0.0"
+local-zone: "www.covid19hotel.info" redirect
+local-data: "www.covid19hotel.info A 0.0.0.0"
+local-zone: "globalanticovid19.belworld.net" redirect
+local-data: "globalanticovid19.belworld.net A 0.0.0.0"
+local-zone: "willcoronavirusdestroytheworld.com" redirect
+local-data: "willcoronavirusdestroytheworld.com A 0.0.0.0"
+local-zone: "ayudacomercioscoronavirus.com" redirect
+local-data: "ayudacomercioscoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusleague.com" redirect
+local-data: "coronavirusleague.com A 0.0.0.0"
+local-zone: "ayudacomercioscoronavirus.com" redirect
+local-data: "ayudacomercioscoronavirus.com A 0.0.0.0"
+local-zone: "ppecovid19.com" redirect
+local-data: "ppecovid19.com A 0.0.0.0"
+local-zone: "coronavirus-now.artworks.brig.ht" redirect
+local-data: "coronavirus-now.artworks.brig.ht A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -19830,6 +19860,8 @@ local-zone: "dascoronavirus.de" redirect
 local-data: "dascoronavirus.de A 0.0.0.0"
 local-zone: "ethiopia-covid19.com" redirect
 local-data: "ethiopia-covid19.com A 0.0.0.0"
+local-zone: "covid19basilicata.it" redirect
+local-data: "covid19basilicata.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
