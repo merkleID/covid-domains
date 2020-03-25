@@ -19726,6 +19726,28 @@ local-zone: "covid-19-self-assessment.1800md.com" redirect
 local-data: "covid-19-self-assessment.1800md.com A 0.0.0.0"
 local-zone: "covid19boards.com" redirect
 local-data: "covid19boards.com A 0.0.0.0"
+local-zone: "coronacovid19.ml" redirect
+local-data: "coronacovid19.ml A 0.0.0.0"
+local-zone: "coronavirus-covid19stats.com" redirect
+local-data: "coronavirus-covid19stats.com A 0.0.0.0"
+local-zone: "covid19.makinkeren.id" redirect
+local-data: "covid19.makinkeren.id A 0.0.0.0"
+local-zone: "covid19.ssnc.cloud" redirect
+local-data: "covid19.ssnc.cloud A 0.0.0.0"
+local-zone: "covid19.reserve-civqe.gouver.fr" redirect
+local-data: "covid19.reserve-civqe.gouver.fr A 0.0.0.0"
+local-zone: "covid19.desmo.cl" redirect
+local-data: "covid19.desmo.cl A 0.0.0.0"
+local-zone: "data.covid19.sabah.digital" redirect
+local-data: "data.covid19.sabah.digital A 0.0.0.0"
+local-zone: "de.coronavirusde.online" redirect
+local-data: "de.coronavirusde.online A 0.0.0.0"
+local-zone: "api.4469b294.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.4469b294.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19corona.care" redirect
+local-data: "covid19corona.care A 0.0.0.0"
+local-zone: "newcoronavirus.co" redirect
+local-data: "newcoronavirus.co A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -20634,6 +20656,8 @@ local-zone: "covid19info.at" redirect
 local-data: "covid19info.at A 0.0.0.0"
 local-zone: "medicoscoronavirus.com" redirect
 local-data: "medicoscoronavirus.com A 0.0.0.0"
+local-zone: "soutien-deuil-covid19.org" redirect
+local-data: "soutien-deuil-covid19.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
