@@ -20564,6 +20564,24 @@ local-zone: "www.internet-covid19.tk" redirect
 local-data: "www.internet-covid19.tk A 0.0.0.0"
 local-zone: "covid-19.benjmaa.com" redirect
 local-data: "covid-19.benjmaa.com A 0.0.0.0"
+local-zone: "zim-covid19-petition.com" redirect
+local-data: "zim-covid19-petition.com A 0.0.0.0"
+local-zone: "covid19.tribal-dev.com" redirect
+local-data: "covid19.tribal-dev.com A 0.0.0.0"
+local-zone: "portal.covid19.bz" redirect
+local-data: "portal.covid19.bz A 0.0.0.0"
+local-zone: "faq.coronavirus.gov" redirect
+local-data: "faq.coronavirus.gov A 0.0.0.0"
+local-zone: "covid19.taylorcowin.com" redirect
+local-data: "covid19.taylorcowin.com A 0.0.0.0"
+local-zone: "covid-19symptoms.net" redirect
+local-data: "covid-19symptoms.net A 0.0.0.0"
+local-zone: "www.corona-virus2020.de" redirect
+local-data: "www.corona-virus2020.de A 0.0.0.0"
+local-zone: "covid19.tengizchevroil.com" redirect
+local-data: "covid19.tengizchevroil.com A 0.0.0.0"
+local-zone: "coronavirus-app.de" redirect
+local-data: "coronavirus-app.de A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
