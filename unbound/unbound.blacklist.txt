@@ -20060,6 +20060,34 @@ local-zone: "dallascovid19.com" redirect
 local-data: "dallascovid19.com A 0.0.0.0"
 local-zone: "statistichecovid19.altervista.org" redirect
 local-data: "statistichecovid19.altervista.org A 0.0.0.0"
+local-zone: "covid19.douby.cz" redirect
+local-data: "covid19.douby.cz A 0.0.0.0"
+local-zone: "www.covid19warning.org" redirect
+local-data: "www.covid19warning.org A 0.0.0.0"
+local-zone: "curecovid19.in" redirect
+local-data: "curecovid19.in A 0.0.0.0"
+local-zone: "covid-19.stcenter.net" redirect
+local-data: "covid-19.stcenter.net A 0.0.0.0"
+local-zone: "covid19.bgcarlisle.com" redirect
+local-data: "covid19.bgcarlisle.com A 0.0.0.0"
+local-zone: "fuckcovid19shirt.com" redirect
+local-data: "fuckcovid19shirt.com A 0.0.0.0"
+local-zone: "covid19online.site" redirect
+local-data: "covid19online.site A 0.0.0.0"
+local-zone: "covid19med.now.sh" redirect
+local-data: "covid19med.now.sh A 0.0.0.0"
+local-zone: "covid19warning.org" redirect
+local-data: "covid19warning.org A 0.0.0.0"
+local-zone: "alticeusacovid19.com" redirect
+local-data: "alticeusacovid19.com A 0.0.0.0"
+local-zone: "covid19sultra.adhasajiah.id" redirect
+local-data: "covid19sultra.adhasajiah.id A 0.0.0.0"
+local-zone: "covid19-cloud.com" redirect
+local-data: "covid19-cloud.com A 0.0.0.0"
+local-zone: "coronavirusbd.info" redirect
+local-data: "coronavirusbd.info A 0.0.0.0"
+local-zone: "masks-forcoronavirus.com" redirect
+local-data: "masks-forcoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -20980,6 +21008,14 @@ local-zone: "covid19-masque.com" redirect
 local-data: "covid19-masque.com A 0.0.0.0"
 local-zone: "covid19channel.com" redirect
 local-data: "covid19channel.com A 0.0.0.0"
+local-zone: "kpmgcovid19response.co.uk" redirect
+local-data: "kpmgcovid19response.co.uk A 0.0.0.0"
+local-zone: "ptsdcoronavirus.com" redirect
+local-data: "ptsdcoronavirus.com A 0.0.0.0"
+local-zone: "abruzzostopcoronavirus.it" redirect
+local-data: "abruzzostopcoronavirus.it A 0.0.0.0"
+local-zone: "covid19risarcimenti.it" redirect
+local-data: "covid19risarcimenti.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
