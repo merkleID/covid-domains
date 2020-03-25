@@ -20258,6 +20258,58 @@ local-zone: "covid19.city-desk.fr" redirect
 local-data: "covid19.city-desk.fr A 0.0.0.0"
 local-zone: "covid19.myhealthwatcher.es" redirect
 local-data: "covid19.myhealthwatcher.es A 0.0.0.0"
+local-zone: "covid19.joinstorkclub.com" redirect
+local-data: "covid19.joinstorkclub.com A 0.0.0.0"
+local-zone: "covid19.dkbtest.com" redirect
+local-data: "covid19.dkbtest.com A 0.0.0.0"
+local-zone: "info.lillycovid19testing.com" redirect
+local-data: "info.lillycovid19testing.com A 0.0.0.0"
+local-zone: "livecoronavirusupdate.com" redirect
+local-data: "livecoronavirusupdate.com A 0.0.0.0"
+local-zone: "impactoeconomicocoronavirus.com" redirect
+local-data: "impactoeconomicocoronavirus.com A 0.0.0.0"
+local-zone: "covid-19.ideas2it.com" redirect
+local-data: "covid-19.ideas2it.com A 0.0.0.0"
+local-zone: "kendalicovid19.id" redirect
+local-data: "kendalicovid19.id A 0.0.0.0"
+local-zone: "rodekruis-vlaanderen-covid-19learning.epyc.be" redirect
+local-data: "rodekruis-vlaanderen-covid-19learning.epyc.be A 0.0.0.0"
+local-zone: "www.covid19.sukamarakab.go.id" redirect
+local-data: "www.covid19.sukamarakab.go.id A 0.0.0.0"
+local-zone: "instantscreencovid-19.com" redirect
+local-data: "instantscreencovid-19.com A 0.0.0.0"
+local-zone: "covid19-track.com" redirect
+local-data: "covid19-track.com A 0.0.0.0"
+local-zone: "makemoneyduringcoronavirus.com" redirect
+local-data: "makemoneyduringcoronavirus.com A 0.0.0.0"
+local-zone: "maiavscovid19.com" redirect
+local-data: "maiavscovid19.com A 0.0.0.0"
+local-zone: "hammamlif-covid19.com" redirect
+local-data: "hammamlif-covid19.com A 0.0.0.0"
+local-zone: "hackingcovid19ec.org" redirect
+local-data: "hackingcovid19ec.org A 0.0.0.0"
+local-zone: "covid-19.smart-digital.om" redirect
+local-data: "covid-19.smart-digital.om A 0.0.0.0"
+local-zone: "agenda-covid19.info" redirect
+local-data: "agenda-covid19.info A 0.0.0.0"
+local-zone: "letsbeatcovid-19.co.uk" redirect
+local-data: "letsbeatcovid-19.co.uk A 0.0.0.0"
+local-zone: "covid19shippingoffshore.com" redirect
+local-data: "covid19shippingoffshore.com A 0.0.0.0"
+local-zone: "queeselcoronavirus.es" redirect
+local-data: "queeselcoronavirus.es A 0.0.0.0"
+local-zone: "letsbeatcovid-19.co.uk" redirect
+local-data: "letsbeatcovid-19.co.uk A 0.0.0.0"
+local-zone: "masquescovid19.com" redirect
+local-data: "masquescovid19.com A 0.0.0.0"
+local-zone: "www.masquescovid19.com" redirect
+local-data: "www.masquescovid19.com A 0.0.0.0"
+local-zone: "covid19.cimvdl.pt" redirect
+local-data: "covid19.cimvdl.pt A 0.0.0.0"
+local-zone: "covid19testsandmasks.com" redirect
+local-data: "covid19testsandmasks.com A 0.0.0.0"
+local-zone: "www.covid19cpd.com" redirect
+local-data: "www.covid19cpd.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21200,6 +21252,10 @@ local-zone: "mascherinacovid-19.com" redirect
 local-data: "mascherinacovid-19.com A 0.0.0.0"
 local-zone: "aslfrosinonecoronavirus.it" redirect
 local-data: "aslfrosinonecoronavirus.it A 0.0.0.0"
+local-zone: "richyorkscovid19aid.co.uk" redirect
+local-data: "richyorkscovid19aid.co.uk A 0.0.0.0"
+local-zone: "anticovid19.us" redirect
+local-data: "anticovid19.us A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
