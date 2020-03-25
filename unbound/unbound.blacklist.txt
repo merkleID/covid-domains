@@ -19302,6 +19302,22 @@ local-zone: "covid19smsinfo.dsasoftware.com.ph" redirect
 local-data: "covid19smsinfo.dsasoftware.com.ph A 0.0.0.0"
 local-zone: "w32fhbwoenmjjt29c.covid-19tv.gov.au" redirect
 local-data: "w32fhbwoenmjjt29c.covid-19tv.gov.au A 0.0.0.0"
+local-zone: "onefqjh8aqc28t9nf.covid-19tv.gov.au" redirect
+local-data: "onefqjh8aqc28t9nf.covid-19tv.gov.au A 0.0.0.0"
+local-zone: "covid19cubatao.xyz" redirect
+local-data: "covid19cubatao.xyz A 0.0.0.0"
+local-zone: "covid19.maltaenterprise.com" redirect
+local-data: "covid19.maltaenterprise.com A 0.0.0.0"
+local-zone: "stage.covid19screen.com.au" redirect
+local-data: "stage.covid19screen.com.au A 0.0.0.0"
+local-zone: "covid19.hash-tech.co.uk" redirect
+local-data: "covid19.hash-tech.co.uk A 0.0.0.0"
+local-zone: "psicovid19.sergiocosta.me" redirect
+local-data: "psicovid19.sergiocosta.me A 0.0.0.0"
+local-zone: "coronavirusreliefdirectory.com" redirect
+local-data: "coronavirusreliefdirectory.com A 0.0.0.0"
+local-zone: "www.coronavirusspreadingprecautions.ml" redirect
+local-data: "www.coronavirusspreadingprecautions.ml A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
