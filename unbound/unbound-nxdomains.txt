@@ -9510,6 +9510,17 @@ local-zone: "asociaciondeafectadosporcoronavirus.com" static
 local-zone: "auscovid19supplies.com" static
 local-zone: "covid19-under-fhir.smilecdr.com" static
 local-zone: "covid19.wisible.io" static
+local-zone: "coronaviruscolombia.co" static
+local-zone: "test.covid19selfassessment.dhhs.vic.gov.au" static
+local-zone: "www.pisacovid19.it" static
+local-zone: "covid19.i-pool.it" static
+local-zone: "newscovid19.it" static
+local-zone: "covid-19.datoslab.cl" static
+local-zone: "www.covid19intexas.com" static
+local-zone: "coronavirusmasks.us" static
+local-zone: "covid19.limited" static
+local-zone: "coronavirus.comunidad.madrid" static
+local-zone: "infosquebec.coronavirusinfos.ca" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static

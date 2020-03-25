@@ -9510,6 +9510,17 @@ zone "asociaciondeafectadosporcoronavirus.com" { type master; notify no; file nu
 zone "auscovid19supplies.com" { type master; notify no; file null.zone.file; };
 zone "covid19-under-fhir.smilecdr.com" { type master; notify no; file null.zone.file; };
 zone "covid19.wisible.io" { type master; notify no; file null.zone.file; };
+zone "coronaviruscolombia.co" { type master; notify no; file null.zone.file; };
+zone "test.covid19selfassessment.dhhs.vic.gov.au" { type master; notify no; file null.zone.file; };
+zone "www.pisacovid19.it" { type master; notify no; file null.zone.file; };
+zone "covid19.i-pool.it" { type master; notify no; file null.zone.file; };
+zone "newscovid19.it" { type master; notify no; file null.zone.file; };
+zone "covid-19.datoslab.cl" { type master; notify no; file null.zone.file; };
+zone "www.covid19intexas.com" { type master; notify no; file null.zone.file; };
+zone "coronavirusmasks.us" { type master; notify no; file null.zone.file; };
+zone "covid19.limited" { type master; notify no; file null.zone.file; };
+zone "coronavirus.comunidad.madrid" { type master; notify no; file null.zone.file; };
+zone "infosquebec.coronavirusinfos.ca" { type master; notify no; file null.zone.file; };
 zone "anticoronavirus.cloud" { type master; notify no; file null.zone.file; };
 zone "anticoronavirustienda.com" { type master; notify no; file null.zone.file; };
 zone "californiacoronaviruslaw.com" { type master; notify no; file null.zone.file; };

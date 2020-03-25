@@ -19022,6 +19022,28 @@ local-zone: "covid19-under-fhir.smilecdr.com" redirect
 local-data: "covid19-under-fhir.smilecdr.com A 0.0.0.0"
 local-zone: "covid19.wisible.io" redirect
 local-data: "covid19.wisible.io A 0.0.0.0"
+local-zone: "coronaviruscolombia.co" redirect
+local-data: "coronaviruscolombia.co A 0.0.0.0"
+local-zone: "test.covid19selfassessment.dhhs.vic.gov.au" redirect
+local-data: "test.covid19selfassessment.dhhs.vic.gov.au A 0.0.0.0"
+local-zone: "www.pisacovid19.it" redirect
+local-data: "www.pisacovid19.it A 0.0.0.0"
+local-zone: "covid19.i-pool.it" redirect
+local-data: "covid19.i-pool.it A 0.0.0.0"
+local-zone: "newscovid19.it" redirect
+local-data: "newscovid19.it A 0.0.0.0"
+local-zone: "covid-19.datoslab.cl" redirect
+local-data: "covid-19.datoslab.cl A 0.0.0.0"
+local-zone: "www.covid19intexas.com" redirect
+local-data: "www.covid19intexas.com A 0.0.0.0"
+local-zone: "coronavirusmasks.us" redirect
+local-data: "coronavirusmasks.us A 0.0.0.0"
+local-zone: "covid19.limited" redirect
+local-data: "covid19.limited A 0.0.0.0"
+local-zone: "coronavirus.comunidad.madrid" redirect
+local-data: "coronavirus.comunidad.madrid A 0.0.0.0"
+local-zone: "infosquebec.coronavirusinfos.ca" redirect
+local-data: "infosquebec.coronavirusinfos.ca A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
