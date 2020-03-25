@@ -19524,6 +19524,44 @@ local-zone: "www.covid19faq.ph" redirect
 local-data: "www.covid19faq.ph A 0.0.0.0"
 local-zone: "covid19.cinthealthcare.com" redirect
 local-data: "covid19.cinthealthcare.com A 0.0.0.0"
+local-zone: "covid19antibodytesting.com" redirect
+local-data: "covid19antibodytesting.com A 0.0.0.0"
+local-zone: "covid19egypt.com" redirect
+local-data: "covid19egypt.com A 0.0.0.0"
+local-zone: "coronavirus.pro" redirect
+local-data: "coronavirus.pro A 0.0.0.0"
+local-zone: "covid19tech.pro" redirect
+local-data: "covid19tech.pro A 0.0.0.0"
+local-zone: "covid-19emirates.pro" redirect
+local-data: "covid-19emirates.pro A 0.0.0.0"
+local-zone: "covid-19.2you.pt" redirect
+local-data: "covid-19.2you.pt A 0.0.0.0"
+local-zone: "apoiogratuitofinanciamentocovid19.macroconsulting.pt" redirect
+local-data: "apoiogratuitofinanciamentocovid19.macroconsulting.pt A 0.0.0.0"
+local-zone: "coronavirus.rr.sapo.pt" redirect
+local-data: "coronavirus.rr.sapo.pt A 0.0.0.0"
+local-zone: "mascaracoronavirus.pt" redirect
+local-data: "mascaracoronavirus.pt A 0.0.0.0"
+local-zone: "mycovid19insurance.com" redirect
+local-data: "mycovid19insurance.com A 0.0.0.0"
+local-zone: "covid19mission.com" redirect
+local-data: "covid19mission.com A 0.0.0.0"
+local-zone: "www.anti-covid-19.ru" redirect
+local-data: "www.anti-covid-19.ru A 0.0.0.0"
+local-zone: "covid-19mobiletesting.org" redirect
+local-data: "covid-19mobiletesting.org A 0.0.0.0"
+local-zone: "www.corona-virus-info.ru" redirect
+local-data: "www.corona-virus-info.ru A 0.0.0.0"
+local-zone: "coronavirusweb.ru" redirect
+local-data: "coronavirusweb.ru A 0.0.0.0"
+local-zone: "www.help-coronavirus.ru" redirect
+local-data: "www.help-coronavirus.ru A 0.0.0.0"
+local-zone: "coronavirus-montor.ru" redirect
+local-data: "coronavirus-montor.ru A 0.0.0.0"
+local-zone: "covid19memorial.info" redirect
+local-data: "covid19memorial.info A 0.0.0.0"
+local-zone: "corona-virus-domains.com" redirect
+local-data: "corona-virus-domains.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -20422,6 +20460,8 @@ local-zone: "covid19-survey.org" redirect
 local-data: "covid19-survey.org A 0.0.0.0"
 local-zone: "coronavirusjokes.org" redirect
 local-data: "coronavirusjokes.org A 0.0.0.0"
+local-zone: "coronavirus-disease.ru" redirect
+local-data: "coronavirus-disease.ru A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
