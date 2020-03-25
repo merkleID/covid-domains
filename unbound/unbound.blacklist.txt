@@ -19072,6 +19072,40 @@ local-zone: "coronavirus-shirts.de" redirect
 local-data: "coronavirus-shirts.de A 0.0.0.0"
 local-zone: "boasnoticiascovid19.com.br" redirect
 local-data: "boasnoticiascovid19.com.br A 0.0.0.0"
+local-zone: "covid19.qld.gov.au" redirect
+local-data: "covid19.qld.gov.au A 0.0.0.0"
+local-zone: "www.agircovid19.org" redirect
+local-data: "www.agircovid19.org A 0.0.0.0"
+local-zone: "agircovid19.com" redirect
+local-data: "agircovid19.com A 0.0.0.0"
+local-zone: "www.agircovid19.com" redirect
+local-data: "www.agircovid19.com A 0.0.0.0"
+local-zone: "www.alliance-covid-19.org" redirect
+local-data: "www.alliance-covid-19.org A 0.0.0.0"
+local-zone: "www.covid19-dev-api.viadata.io" redirect
+local-data: "www.covid19-dev-api.viadata.io A 0.0.0.0"
+local-zone: "covid19-normalityco.net" redirect
+local-data: "covid19-normalityco.net A 0.0.0.0"
+local-zone: "covid19-hotline-management.onrender.com" redirect
+local-data: "covid19-hotline-management.onrender.com A 0.0.0.0"
+local-zone: "www.coronavirustoday.in" redirect
+local-data: "www.coronavirustoday.in A 0.0.0.0"
+local-zone: "covid19-hotline-management-staging.onrender.com" redirect
+local-data: "covid19-hotline-management-staging.onrender.com A 0.0.0.0"
+local-zone: "www.coronavirustoday.in" redirect
+local-data: "www.coronavirustoday.in A 0.0.0.0"
+local-zone: "neftlix-covid19-promocion.com" redirect
+local-data: "neftlix-covid19-promocion.com A 0.0.0.0"
+local-zone: "truecovid19stories.com" redirect
+local-data: "truecovid19stories.com A 0.0.0.0"
+local-zone: "webmail.coronavirus.in.ua" redirect
+local-data: "webmail.coronavirus.in.ua A 0.0.0.0"
+local-zone: "covid19.anmedia.us" redirect
+local-data: "covid19.anmedia.us A 0.0.0.0"
+local-zone: "news-covid19.de" redirect
+local-data: "news-covid19.de A 0.0.0.0"
+local-zone: "loveinthetimeofcoronavirus.net" redirect
+local-data: "loveinthetimeofcoronavirus.net A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -19948,6 +19982,8 @@ local-zone: "covid19weko.com" redirect
 local-data: "covid19weko.com A 0.0.0.0"
 local-zone: "covid19sucks.net" redirect
 local-data: "covid19sucks.net A 0.0.0.0"
+local-zone: "superbeilcoronavirus.it" redirect
+local-data: "superbeilcoronavirus.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
