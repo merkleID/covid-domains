@@ -20416,6 +20416,28 @@ local-zone: "marylandcovid-19.com" redirect
 local-data: "marylandcovid-19.com A 0.0.0.0"
 local-zone: "coronavirus-hilfe-deutschland.de" redirect
 local-data: "coronavirus-hilfe-deutschland.de A 0.0.0.0"
+local-zone: "covid19.indigitalit.com" redirect
+local-data: "covid19.indigitalit.com A 0.0.0.0"
+local-zone: "on-site-covid19.brightcloudstudioserver.com" redirect
+local-data: "on-site-covid19.brightcloudstudioserver.com A 0.0.0.0"
+local-zone: "nyscovid19challenge.com" redirect
+local-data: "nyscovid19challenge.com A 0.0.0.0"
+local-zone: "coronavirusbusinessaid.org" redirect
+local-data: "coronavirusbusinessaid.org A 0.0.0.0"
+local-zone: "coronavirus-monitor.pl" redirect
+local-data: "coronavirus-monitor.pl A 0.0.0.0"
+local-zone: "covid19.ikbamansas.or.id" redirect
+local-data: "covid19.ikbamansas.or.id A 0.0.0.0"
+local-zone: "coronavirus-19.live" redirect
+local-data: "coronavirus-19.live A 0.0.0.0"
+local-zone: "covid19.ventures" redirect
+local-data: "covid19.ventures A 0.0.0.0"
+local-zone: "covid-19.gipinet.xyz" redirect
+local-data: "covid-19.gipinet.xyz A 0.0.0.0"
+local-zone: "rcccovid19.luis-livedev.org" redirect
+local-data: "rcccovid19.luis-livedev.org A 0.0.0.0"
+local-zone: "mycovid19hq.com" redirect
+local-data: "mycovid19hq.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21372,6 +21394,8 @@ local-zone: "noticiascovid19.org" redirect
 local-data: "noticiascovid19.org A 0.0.0.0"
 local-zone: "corona-virus-cases.com" redirect
 local-data: "corona-virus-cases.com A 0.0.0.0"
+local-zone: "sobrevivealcoronavirus.org" redirect
+local-data: "sobrevivealcoronavirus.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
