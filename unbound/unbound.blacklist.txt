@@ -20010,6 +20010,56 @@ local-zone: "covid19.dongkelan.com" redirect
 local-data: "covid19.dongkelan.com A 0.0.0.0"
 local-zone: "doncovid-19.com" redirect
 local-data: "doncovid-19.com A 0.0.0.0"
+local-zone: "www.athomecoronavirustest.com" redirect
+local-data: "www.athomecoronavirustest.com A 0.0.0.0"
+local-zone: "coronaviruspot.org" redirect
+local-data: "coronaviruspot.org A 0.0.0.0"
+local-zone: "coronaviruspot.buzz" redirect
+local-data: "coronaviruspot.buzz A 0.0.0.0"
+local-zone: "covid19drc.uptodatedevelopers.com" redirect
+local-data: "covid19drc.uptodatedevelopers.com A 0.0.0.0"
+local-zone: "containcovid19.com" redirect
+local-data: "containcovid19.com A 0.0.0.0"
+local-zone: "coronaviruscrypto.com" redirect
+local-data: "coronaviruscrypto.com A 0.0.0.0"
+local-zone: "coronavirusvaccineupdate.com" redirect
+local-data: "coronavirusvaccineupdate.com A 0.0.0.0"
+local-zone: "coronaviruscovid19usa.com" redirect
+local-data: "coronaviruscovid19usa.com A 0.0.0.0"
+local-zone: "coronavirushealthycures.com" redirect
+local-data: "coronavirushealthycures.com A 0.0.0.0"
+local-zone: "coronavirusnewsradio.com" redirect
+local-data: "coronavirusnewsradio.com A 0.0.0.0"
+local-zone: "www.coronavirusanivelmundial.com" redirect
+local-data: "www.coronavirusanivelmundial.com A 0.0.0.0"
+local-zone: "coronavirushandwashchallenge.com" redirect
+local-data: "coronavirushandwashchallenge.com A 0.0.0.0"
+local-zone: "covid19glbr.com" redirect
+local-data: "covid19glbr.com A 0.0.0.0"
+local-zone: "ajudacovid19.react.pt" redirect
+local-data: "ajudacovid19.react.pt A 0.0.0.0"
+local-zone: "athomecoronavirustest.com" redirect
+local-data: "athomecoronavirustest.com A 0.0.0.0"
+local-zone: "stop-coronavirus.world" redirect
+local-data: "stop-coronavirus.world A 0.0.0.0"
+local-zone: "covid19.shopify-ns1.com" redirect
+local-data: "covid19.shopify-ns1.com A 0.0.0.0"
+local-zone: "coronavirus-online2020.ru" redirect
+local-data: "coronavirus-online2020.ru A 0.0.0.0"
+local-zone: "covid19communityresources.com" redirect
+local-data: "covid19communityresources.com A 0.0.0.0"
+local-zone: "covid19parenting.com" redirect
+local-data: "covid19parenting.com A 0.0.0.0"
+local-zone: "covid19b.com" redirect
+local-data: "covid19b.com A 0.0.0.0"
+local-zone: "www.covid19easytestkit.com" redirect
+local-data: "www.covid19easytestkit.com A 0.0.0.0"
+local-zone: "covid19.askphl.com" redirect
+local-data: "covid19.askphl.com A 0.0.0.0"
+local-zone: "dallascovid19.com" redirect
+local-data: "dallascovid19.com A 0.0.0.0"
+local-zone: "statistichecovid19.altervista.org" redirect
+local-data: "statistichecovid19.altervista.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
