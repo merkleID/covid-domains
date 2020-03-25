@@ -20222,6 +20222,42 @@ local-zone: "www.coronavirus.del.org.bo" redirect
 local-data: "www.coronavirus.del.org.bo A 0.0.0.0"
 local-zone: "endcoronavirus.necsi.edu" redirect
 local-data: "endcoronavirus.necsi.edu A 0.0.0.0"
+local-zone: "campain.aides-entreprises-covid19.fr" redirect
+local-data: "campain.aides-entreprises-covid19.fr A 0.0.0.0"
+local-zone: "covid19frontlines.org" redirect
+local-data: "covid19frontlines.org A 0.0.0.0"
+local-zone: "covid19.city-desk.fr" redirect
+local-data: "covid19.city-desk.fr A 0.0.0.0"
+local-zone: "www.covid19newsdigest.com" redirect
+local-data: "www.covid19newsdigest.com A 0.0.0.0"
+local-zone: "covid19frontlines.org" redirect
+local-data: "covid19frontlines.org A 0.0.0.0"
+local-zone: "us-coronavirus-cases-state-by-state.pantiesandlace.com" redirect
+local-data: "us-coronavirus-cases-state-by-state.pantiesandlace.com A 0.0.0.0"
+local-zone: "covid19.nrna.org.np" redirect
+local-data: "covid19.nrna.org.np A 0.0.0.0"
+local-zone: "covid19.leenaitsolutions.com" redirect
+local-data: "covid19.leenaitsolutions.com A 0.0.0.0"
+local-zone: "rapidcovid19test.aeotec.com" redirect
+local-data: "rapidcovid19test.aeotec.com A 0.0.0.0"
+local-zone: "covid19.digital.conncoll.edu" redirect
+local-data: "covid19.digital.conncoll.edu A 0.0.0.0"
+local-zone: "coronavirustoday.eu" redirect
+local-data: "coronavirustoday.eu A 0.0.0.0"
+local-zone: "coronavirusxkiller.com" redirect
+local-data: "coronavirusxkiller.com A 0.0.0.0"
+local-zone: "covid19.bangnam.com" redirect
+local-data: "covid19.bangnam.com A 0.0.0.0"
+local-zone: "www.ksbroadcasterscovid19.com" redirect
+local-data: "www.ksbroadcasterscovid19.com A 0.0.0.0"
+local-zone: "coronavirusroad.com" redirect
+local-data: "coronavirusroad.com A 0.0.0.0"
+local-zone: "covid19.uenp.edu.br" redirect
+local-data: "covid19.uenp.edu.br A 0.0.0.0"
+local-zone: "covid19.city-desk.fr" redirect
+local-data: "covid19.city-desk.fr A 0.0.0.0"
+local-zone: "covid19.myhealthwatcher.es" redirect
+local-data: "covid19.myhealthwatcher.es A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21158,6 +21194,12 @@ local-zone: "coupdepoucecovid19.fr" redirect
 local-data: "coupdepoucecovid19.fr A 0.0.0.0"
 local-zone: "covid-19-teststation.de" redirect
 local-data: "covid-19-teststation.de A 0.0.0.0"
+local-zone: "smittadcovid19.se" redirect
+local-data: "smittadcovid19.se A 0.0.0.0"
+local-zone: "mascherinacovid-19.com" redirect
+local-data: "mascherinacovid-19.com A 0.0.0.0"
+local-zone: "aslfrosinonecoronavirus.it" redirect
+local-data: "aslfrosinonecoronavirus.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
