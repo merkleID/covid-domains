@@ -20438,6 +20438,52 @@ local-zone: "rcccovid19.luis-livedev.org" redirect
 local-data: "rcccovid19.luis-livedev.org A 0.0.0.0"
 local-zone: "mycovid19hq.com" redirect
 local-data: "mycovid19hq.com A 0.0.0.0"
+local-zone: "coronavirus03.ru" redirect
+local-data: "coronavirus03.ru A 0.0.0.0"
+local-zone: "neutralizarcoronavirus.com" redirect
+local-data: "neutralizarcoronavirus.com A 0.0.0.0"
+local-zone: "newsaboutcoronavirus.com" redirect
+local-data: "newsaboutcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.nextvation.com" redirect
+local-data: "covid19.nextvation.com A 0.0.0.0"
+local-zone: "covid19.freshsince1999.com" redirect
+local-data: "covid19.freshsince1999.com A 0.0.0.0"
+local-zone: "notgetcoronavirus.com" redirect
+local-data: "notgetcoronavirus.com A 0.0.0.0"
+local-zone: "covid-19.not-forgotten.com" redirect
+local-data: "covid-19.not-forgotten.com A 0.0.0.0"
+local-zone: "detentecoronavirus.com" redirect
+local-data: "detentecoronavirus.com A 0.0.0.0"
+local-zone: "labs.coronavirus.voce.org.br" redirect
+local-data: "labs.coronavirus.voce.org.br A 0.0.0.0"
+local-zone: "covid19.critical.domains" redirect
+local-data: "covid19.critical.domains A 0.0.0.0"
+local-zone: "covid19-donations.org" redirect
+local-data: "covid19-donations.org A 0.0.0.0"
+local-zone: "www.odin-covid19.com" redirect
+local-data: "www.odin-covid19.com A 0.0.0.0"
+local-zone: "coronavirusmakers.mx" redirect
+local-data: "coronavirusmakers.mx A 0.0.0.0"
+local-zone: "covid19.organic" redirect
+local-data: "covid19.organic A 0.0.0.0"
+local-zone: "covid19-donations.org" redirect
+local-data: "covid19-donations.org A 0.0.0.0"
+local-zone: "www.covid19-donations.org" redirect
+local-data: "www.covid19-donations.org A 0.0.0.0"
+local-zone: "covid19support.co.za" redirect
+local-data: "covid19support.co.za A 0.0.0.0"
+local-zone: "coronavirus-romania.itstart.ro" redirect
+local-data: "coronavirus-romania.itstart.ro A 0.0.0.0"
+local-zone: "ozonecovid19.com" redirect
+local-data: "ozonecovid19.com A 0.0.0.0"
+local-zone: "iepcovid19infantil.com.br" redirect
+local-data: "iepcovid19infantil.com.br A 0.0.0.0"
+local-zone: "www.coronavirusjuarez.com" redirect
+local-data: "www.coronavirusjuarez.com A 0.0.0.0"
+local-zone: "www.covid19bycounty.com" redirect
+local-data: "www.covid19bycounty.com A 0.0.0.0"
+local-zone: "www.coronavirusmovies.com" redirect
+local-data: "www.coronavirusmovies.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
