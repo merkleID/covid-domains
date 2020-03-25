@@ -19748,6 +19748,38 @@ local-zone: "covid19corona.care" redirect
 local-data: "covid19corona.care A 0.0.0.0"
 local-zone: "newcoronavirus.co" redirect
 local-data: "newcoronavirus.co A 0.0.0.0"
+local-zone: "www.anticovid19supply.com" redirect
+local-data: "www.anticovid19supply.com A 0.0.0.0"
+local-zone: "covid19ke.ushahidi.com" redirect
+local-data: "covid19ke.ushahidi.com A 0.0.0.0"
+local-zone: "disquecoronavirus.com.br" redirect
+local-data: "disquecoronavirus.com.br A 0.0.0.0"
+local-zone: "covid19.easylifestudio.com.ng" redirect
+local-data: "covid19.easylifestudio.com.ng A 0.0.0.0"
+local-zone: "covid19.dnews.bg" redirect
+local-data: "covid19.dnews.bg A 0.0.0.0"
+local-zone: "26dada84.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "26dada84.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "teamcovid19.com" redirect
+local-data: "teamcovid19.com A 0.0.0.0"
+local-zone: "static.covid19ke.ushahidi.com" redirect
+local-data: "static.covid19ke.ushahidi.com A 0.0.0.0"
+local-zone: "www.covid19.wapac.my.id" redirect
+local-data: "www.covid19.wapac.my.id A 0.0.0.0"
+local-zone: "donate.ayudacomercioscoronavirus.com" redirect
+local-data: "donate.ayudacomercioscoronavirus.com A 0.0.0.0"
+local-zone: "www.stopcoronaviruscovid19.org" redirect
+local-data: "www.stopcoronaviruscovid19.org A 0.0.0.0"
+local-zone: "covid19.vigilantesdeseguridad.com" redirect
+local-data: "covid19.vigilantesdeseguridad.com A 0.0.0.0"
+local-zone: "coronavirus-survival.co.uk" redirect
+local-data: "coronavirus-survival.co.uk A 0.0.0.0"
+local-zone: "coronavirus-you.ru" redirect
+local-data: "coronavirus-you.ru A 0.0.0.0"
+local-zone: "alertscoronavirus.com" redirect
+local-data: "alertscoronavirus.com A 0.0.0.0"
+local-zone: "covid19-bot.ai4bharat.org" redirect
+local-data: "covid19-bot.ai4bharat.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
