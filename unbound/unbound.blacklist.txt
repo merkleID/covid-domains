@@ -19694,6 +19694,38 @@ local-zone: "covid-19.aziziqbal.com" redirect
 local-data: "covid-19.aziziqbal.com A 0.0.0.0"
 local-zone: "livecovid19tv.com" redirect
 local-data: "livecovid19tv.com A 0.0.0.0"
+local-zone: "covid19-help.org" redirect
+local-data: "covid19-help.org A 0.0.0.0"
+local-zone: "coronavirusprotect.ca" redirect
+local-data: "coronavirusprotect.ca A 0.0.0.0"
+local-zone: "cdn.covid19-news.org" redirect
+local-data: "cdn.covid19-news.org A 0.0.0.0"
+local-zone: "app.coronavirusinfo.cl" redirect
+local-data: "app.coronavirusinfo.cl A 0.0.0.0"
+local-zone: "covid-19.sledilnik.org" redirect
+local-data: "covid-19.sledilnik.org A 0.0.0.0"
+local-zone: "www.coronavirusstimuluschecks.com" redirect
+local-data: "www.coronavirusstimuluschecks.com A 0.0.0.0"
+local-zone: "coronavirus.fablab-gfi-lyon.fr" redirect
+local-data: "coronavirus.fablab-gfi-lyon.fr A 0.0.0.0"
+local-zone: "covid19.roinspace.com" redirect
+local-data: "covid19.roinspace.com A 0.0.0.0"
+local-zone: "bollettinocoronavirus.it" redirect
+local-data: "bollettinocoronavirus.it A 0.0.0.0"
+local-zone: "data.covid19japan.com" redirect
+local-data: "data.covid19japan.com A 0.0.0.0"
+local-zone: "newcoronavirus.co" redirect
+local-data: "newcoronavirus.co A 0.0.0.0"
+local-zone: "api.89703ccc.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.89703ccc.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19.easylifestudio.com.ng" redirect
+local-data: "covid19.easylifestudio.com.ng A 0.0.0.0"
+local-zone: "covid-19.calls9.com" redirect
+local-data: "covid-19.calls9.com A 0.0.0.0"
+local-zone: "covid-19-self-assessment.1800md.com" redirect
+local-data: "covid-19-self-assessment.1800md.com A 0.0.0.0"
+local-zone: "covid19boards.com" redirect
+local-data: "covid19boards.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -20600,6 +20632,8 @@ local-zone: "covid19hometestingkituk.co.uk" redirect
 local-data: "covid19hometestingkituk.co.uk A 0.0.0.0"
 local-zone: "covid19info.at" redirect
 local-data: "covid19info.at A 0.0.0.0"
+local-zone: "medicoscoronavirus.com" redirect
+local-data: "medicoscoronavirus.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
