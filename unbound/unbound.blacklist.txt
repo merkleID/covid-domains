@@ -20582,6 +20582,32 @@ local-zone: "covid19.tengizchevroil.com" redirect
 local-data: "covid19.tengizchevroil.com A 0.0.0.0"
 local-zone: "coronavirus-app.de" redirect
 local-data: "coronavirus-app.de A 0.0.0.0"
+local-zone: "cpcontacts.covid19hilfe.com" redirect
+local-data: "cpcontacts.covid19hilfe.com A 0.0.0.0"
+local-zone: "harrisoncovid19.com" redirect
+local-data: "harrisoncovid19.com A 0.0.0.0"
+local-zone: "www.harrisoncovid19.com" redirect
+local-data: "www.harrisoncovid19.com A 0.0.0.0"
+local-zone: "todoscontraocoronavirus.com" redirect
+local-data: "todoscontraocoronavirus.com A 0.0.0.0"
+local-zone: "staging.covid19py.com" redirect
+local-data: "staging.covid19py.com A 0.0.0.0"
+local-zone: "dpicoronavirus.it" redirect
+local-data: "dpicoronavirus.it A 0.0.0.0"
+local-zone: "daancovid19.sn" redirect
+local-data: "daancovid19.sn A 0.0.0.0"
+local-zone: "ccrhfcovid-19.org" redirect
+local-data: "ccrhfcovid-19.org A 0.0.0.0"
+local-zone: "decretonormativacovid19.freesite.vip" redirect
+local-data: "decretonormativacovid19.freesite.vip A 0.0.0.0"
+local-zone: "hmrc-refund-covid19.com" redirect
+local-data: "hmrc-refund-covid19.com A 0.0.0.0"
+local-zone: "latest-updates-covid19.hewesdesign.com" redirect
+local-data: "latest-updates-covid19.hewesdesign.com A 0.0.0.0"
+local-zone: "www.e-covid19updates.com" redirect
+local-data: "www.e-covid19updates.com A 0.0.0.0"
+local-zone: "coronavirus.digitaltinder.com" redirect
+local-data: "coronavirus.digitaltinder.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21542,6 +21568,8 @@ local-zone: "sobrevivealcoronavirus.org" redirect
 local-data: "sobrevivealcoronavirus.org A 0.0.0.0"
 local-zone: "ultimahoracoronavirus.com" redirect
 local-data: "ultimahoracoronavirus.com A 0.0.0.0"
+local-zone: "covid19off.com" redirect
+local-data: "covid19off.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
