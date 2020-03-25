@@ -19240,6 +19240,48 @@ local-zone: "covid19.croix.com.au" redirect
 local-data: "covid19.croix.com.au A 0.0.0.0"
 local-zone: "covid19-challenge.fr" redirect
 local-data: "covid19-challenge.fr A 0.0.0.0"
+local-zone: "covid19coronanews.com" redirect
+local-data: "covid19coronanews.com A 0.0.0.0"
+local-zone: "www.coronavirus.worg.org.in" redirect
+local-data: "www.coronavirus.worg.org.in A 0.0.0.0"
+local-zone: "coronavirus-symptoms.com.au" redirect
+local-data: "coronavirus-symptoms.com.au A 0.0.0.0"
+local-zone: "covid19tech.pro" redirect
+local-data: "covid19tech.pro A 0.0.0.0"
+local-zone: "webmail.ccibusiness-covid19.fr" redirect
+local-data: "webmail.ccibusiness-covid19.fr A 0.0.0.0"
+local-zone: "covid19.ipb.pt" redirect
+local-data: "covid19.ipb.pt A 0.0.0.0"
+local-zone: "apoiogratuitofinanciamentocovid19.macroconsulting.pt" redirect
+local-data: "apoiogratuitofinanciamentocovid19.macroconsulting.pt A 0.0.0.0"
+local-zone: "desinfectarcoronavirus.es" redirect
+local-data: "desinfectarcoronavirus.es A 0.0.0.0"
+local-zone: "covid19.pesisirbaratkab.go.id" redirect
+local-data: "covid19.pesisirbaratkab.go.id A 0.0.0.0"
+local-zone: "thisismybrainoncovid19.com" redirect
+local-data: "thisismybrainoncovid19.com A 0.0.0.0"
+local-zone: "covid19check.fkraa.com" redirect
+local-data: "covid19check.fkraa.com A 0.0.0.0"
+local-zone: "covid19-statistics.online" redirect
+local-data: "covid19-statistics.online A 0.0.0.0"
+local-zone: "anticovid19.ru" redirect
+local-data: "anticovid19.ru A 0.0.0.0"
+local-zone: "www.coronavirus-hotline.ru" redirect
+local-data: "www.coronavirus-hotline.ru A 0.0.0.0"
+local-zone: "indiacoronavirus.in" redirect
+local-data: "indiacoronavirus.in A 0.0.0.0"
+local-zone: "coronavirusnopanic.ru" redirect
+local-data: "coronavirusnopanic.ru A 0.0.0.0"
+local-zone: "www.help-coronavirus.ru" redirect
+local-data: "www.help-coronavirus.ru A 0.0.0.0"
+local-zone: "satgascovid19tarowang.balang.org" redirect
+local-data: "satgascovid19tarowang.balang.org A 0.0.0.0"
+local-zone: "covid19.spoorthis.com" redirect
+local-data: "covid19.spoorthis.com A 0.0.0.0"
+local-zone: "covid19ro.info" redirect
+local-data: "covid19ro.info A 0.0.0.0"
+local-zone: "www.emergenzacovid19.info" redirect
+local-data: "www.emergenzacovid19.info A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -20124,6 +20166,14 @@ local-zone: "covid19-santepublique.com" redirect
 local-data: "covid19-santepublique.com A 0.0.0.0"
 local-zone: "covid19-survey.org" redirect
 local-data: "covid19-survey.org A 0.0.0.0"
+local-zone: "mascherinecoronavirus.store" redirect
+local-data: "mascherinecoronavirus.store A 0.0.0.0"
+local-zone: "covid-19-justsavelives.com" redirect
+local-data: "covid-19-justsavelives.com A 0.0.0.0"
+local-zone: "covid19resources.info" redirect
+local-data: "covid19resources.info A 0.0.0.0"
+local-zone: "coronavirusnotizie.info" redirect
+local-data: "coronavirusnotizie.info A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
