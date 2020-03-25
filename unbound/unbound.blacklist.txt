@@ -19480,6 +19480,50 @@ local-zone: "covid19.idionline.org" redirect
 local-data: "covid19.idionline.org A 0.0.0.0"
 local-zone: "www.icmanaesthesiacovid-19.org" redirect
 local-data: "www.icmanaesthesiacovid-19.org A 0.0.0.0"
+local-zone: "www.protecta-coronavirus.com" redirect
+local-data: "www.protecta-coronavirus.com A 0.0.0.0"
+local-zone: "protecta-coronavirus.com" redirect
+local-data: "protecta-coronavirus.com A 0.0.0.0"
+local-zone: "covid19.justfunding.org" redirect
+local-data: "covid19.justfunding.org A 0.0.0.0"
+local-zone: "ncovid-19.org" redirect
+local-data: "ncovid-19.org A 0.0.0.0"
+local-zone: "coronavirus.novanthealth.org" redirect
+local-data: "coronavirus.novanthealth.org A 0.0.0.0"
+local-zone: "nyscovid19challenge.org" redirect
+local-data: "nyscovid19challenge.org A 0.0.0.0"
+local-zone: "nwicovid19volunteers.org" redirect
+local-data: "nwicovid19volunteers.org A 0.0.0.0"
+local-zone: "covid19.vervesuper.com.au" redirect
+local-data: "covid19.vervesuper.com.au A 0.0.0.0"
+local-zone: "pray4covid19.org" redirect
+local-data: "pray4covid19.org A 0.0.0.0"
+local-zone: "www.reducecoronavirusanxiety.org" redirect
+local-data: "www.reducecoronavirusanxiety.org A 0.0.0.0"
+local-zone: "covid19.cagibig.com" redirect
+local-data: "covid19.cagibig.com A 0.0.0.0"
+local-zone: "coronavirusalerts.info" redirect
+local-data: "coronavirusalerts.info A 0.0.0.0"
+local-zone: "covid19.thunlp.org" redirect
+local-data: "covid19.thunlp.org A 0.0.0.0"
+local-zone: "f6bfd464.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "f6bfd464.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "ru-coronavirus.site" redirect
+local-data: "ru-coronavirus.site A 0.0.0.0"
+local-zone: "unity-anticovid19.org" redirect
+local-data: "unity-anticovid19.org A 0.0.0.0"
+local-zone: "api.f6bfd464.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.f6bfd464.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "ru-coronavirus.site" redirect
+local-data: "ru-coronavirus.site A 0.0.0.0"
+local-zone: "coronavirus-covid-19.life" redirect
+local-data: "coronavirus-covid-19.life A 0.0.0.0"
+local-zone: "coronavirus.essalud.gob.pe" redirect
+local-data: "coronavirus.essalud.gob.pe A 0.0.0.0"
+local-zone: "www.covid19faq.ph" redirect
+local-data: "www.covid19faq.ph A 0.0.0.0"
+local-zone: "covid19.cinthealthcare.com" redirect
+local-data: "covid19.cinthealthcare.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
