@@ -19814,6 +19814,54 @@ local-zone: "gateway.covid19.apiplatform.io" redirect
 local-data: "gateway.covid19.apiplatform.io A 0.0.0.0"
 local-zone: "world-covid-19.scemo.org" redirect
 local-data: "world-covid-19.scemo.org A 0.0.0.0"
+local-zone: "ayudacomercioscoronavirus.com" redirect
+local-data: "ayudacomercioscoronavirus.com A 0.0.0.0"
+local-zone: "controlcovid19.mawi.band" redirect
+local-data: "controlcovid19.mawi.band A 0.0.0.0"
+local-zone: "covid19.espacepro.me" redirect
+local-data: "covid19.espacepro.me A 0.0.0.0"
+local-zone: "centralcoronavirus.com" redirect
+local-data: "centralcoronavirus.com A 0.0.0.0"
+local-zone: "covid19teez.com" redirect
+local-data: "covid19teez.com A 0.0.0.0"
+local-zone: "covid19.elister.in" redirect
+local-data: "covid19.elister.in A 0.0.0.0"
+local-zone: "mail.covid19roundtable.com" redirect
+local-data: "mail.covid19roundtable.com A 0.0.0.0"
+local-zone: "coronavirusdisasterloans.com" redirect
+local-data: "coronavirusdisasterloans.com A 0.0.0.0"
+local-zone: "www.coronavirus15minutetest.com" redirect
+local-data: "www.coronavirus15minutetest.com A 0.0.0.0"
+local-zone: "fuckyoucoronavirus.com.ar" redirect
+local-data: "fuckyoucoronavirus.com.ar A 0.0.0.0"
+local-zone: "www.fuckyoucoronavirus.com.ar" redirect
+local-data: "www.fuckyoucoronavirus.com.ar A 0.0.0.0"
+local-zone: "gateway.covid19.apiplatform.io" redirect
+local-data: "gateway.covid19.apiplatform.io A 0.0.0.0"
+local-zone: "covid19.apiplatform.io" redirect
+local-data: "covid19.apiplatform.io A 0.0.0.0"
+local-zone: "plataformavictimascovid19.com" redirect
+local-data: "plataformavictimascovid19.com A 0.0.0.0"
+local-zone: "api.dev.covid19.adn.be" redirect
+local-data: "api.dev.covid19.adn.be A 0.0.0.0"
+local-zone: "containcovid19.com" redirect
+local-data: "containcovid19.com A 0.0.0.0"
+local-zone: "coronavirusrisk.com" redirect
+local-data: "coronavirusrisk.com A 0.0.0.0"
+local-zone: "coronaviruspreventionaustin.com" redirect
+local-data: "coronaviruspreventionaustin.com A 0.0.0.0"
+local-zone: "coronavirusbizhelp.com" redirect
+local-data: "coronavirusbizhelp.com A 0.0.0.0"
+local-zone: "coronavirusbusinessguide.com" redirect
+local-data: "coronavirusbusinessguide.com A 0.0.0.0"
+local-zone: "coronavirusbellcurve.com" redirect
+local-data: "coronavirusbellcurve.com A 0.0.0.0"
+local-zone: "coronaviruschemicalsolutions.com" redirect
+local-data: "coronaviruschemicalsolutions.com A 0.0.0.0"
+local-zone: "coronavirus-mask.com" redirect
+local-data: "coronavirus-mask.com A 0.0.0.0"
+local-zone: "coronaviruscommunityassistance.com" redirect
+local-data: "coronaviruscommunityassistance.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -20724,6 +20772,10 @@ local-zone: "medicoscoronavirus.com" redirect
 local-data: "medicoscoronavirus.com A 0.0.0.0"
 local-zone: "soutien-deuil-covid19.org" redirect
 local-data: "soutien-deuil-covid19.org A 0.0.0.0"
+local-zone: "covid19-affected.com" redirect
+local-data: "covid19-affected.com A 0.0.0.0"
+local-zone: "corona-covid19test.de" redirect
+local-data: "corona-covid19test.de A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
