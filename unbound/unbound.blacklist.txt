@@ -20310,6 +20310,36 @@ local-zone: "covid19testsandmasks.com" redirect
 local-data: "covid19testsandmasks.com A 0.0.0.0"
 local-zone: "www.covid19cpd.com" redirect
 local-data: "www.covid19cpd.com A 0.0.0.0"
+local-zone: "covid19economicbarometer.org.wearepotential.org" redirect
+local-data: "covid19economicbarometer.org.wearepotential.org A 0.0.0.0"
+local-zone: "coronavirus-russia.com" redirect
+local-data: "coronavirus-russia.com A 0.0.0.0"
+local-zone: "covid-19safety.in" redirect
+local-data: "covid-19safety.in A 0.0.0.0"
+local-zone: "texascoronaviruslawyers.com" redirect
+local-data: "texascoronaviruslawyers.com A 0.0.0.0"
+local-zone: "covid19.riat.at" redirect
+local-data: "covid19.riat.at A 0.0.0.0"
+local-zone: "cleaningforcoronavirus.com" redirect
+local-data: "cleaningforcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.testingday.com.ar" redirect
+local-data: "covid19.testingday.com.ar A 0.0.0.0"
+local-zone: "trcovid19.com" redirect
+local-data: "trcovid19.com A 0.0.0.0"
+local-zone: "wuhanvirusdeathtoll.com" redirect
+local-data: "wuhanvirusdeathtoll.com A 0.0.0.0"
+local-zone: "covid19.mustaphadabella.com" redirect
+local-data: "covid19.mustaphadabella.com A 0.0.0.0"
+local-zone: "volunteercoronavirus.com" redirect
+local-data: "volunteercoronavirus.com A 0.0.0.0"
+local-zone: "buycovid19signs.com" redirect
+local-data: "buycovid19signs.com A 0.0.0.0"
+local-zone: "isthecoronavirusinflorida.com" redirect
+local-data: "isthecoronavirusinflorida.com A 0.0.0.0"
+local-zone: "www.coronavirus.latardeurbana.com" redirect
+local-data: "www.coronavirus.latardeurbana.com A 0.0.0.0"
+local-zone: "coronavirussanitizeny.com" redirect
+local-data: "coronavirussanitizeny.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21256,6 +21286,8 @@ local-zone: "richyorkscovid19aid.co.uk" redirect
 local-data: "richyorkscovid19aid.co.uk A 0.0.0.0"
 local-zone: "anticovid19.us" redirect
 local-data: "anticovid19.us A 0.0.0.0"
+local-zone: "mascherinacovid-19.it" redirect
+local-data: "mascherinacovid-19.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
