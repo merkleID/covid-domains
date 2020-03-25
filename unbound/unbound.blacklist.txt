@@ -19780,6 +19780,40 @@ local-zone: "alertscoronavirus.com" redirect
 local-data: "alertscoronavirus.com A 0.0.0.0"
 local-zone: "covid19-bot.ai4bharat.org" redirect
 local-data: "covid19-bot.ai4bharat.org A 0.0.0.0"
+local-zone: "covid19-tpia.site" redirect
+local-data: "covid19-tpia.site A 0.0.0.0"
+local-zone: "bidenhascovid19.com" redirect
+local-data: "bidenhascovid19.com A 0.0.0.0"
+local-zone: "t1dcovid19study.com" redirect
+local-data: "t1dcovid19study.com A 0.0.0.0"
+local-zone: "appcovid-19.com" redirect
+local-data: "appcovid-19.com A 0.0.0.0"
+local-zone: "www.anticovid19supply.com" redirect
+local-data: "www.anticovid19supply.com A 0.0.0.0"
+local-zone: "covid19iligan.site" redirect
+local-data: "covid19iligan.site A 0.0.0.0"
+local-zone: "covid19.a7crm.ru" redirect
+local-data: "covid19.a7crm.ru A 0.0.0.0"
+local-zone: "www.covid19-au.com" redirect
+local-data: "www.covid19-au.com A 0.0.0.0"
+local-zone: "covid19.simpple.com.sg" redirect
+local-data: "covid19.simpple.com.sg A 0.0.0.0"
+local-zone: "coronavirus.bzh" redirect
+local-data: "coronavirus.bzh A 0.0.0.0"
+local-zone: "coronavirus.atlasvpn.com" redirect
+local-data: "coronavirus.atlasvpn.com A 0.0.0.0"
+local-zone: "covid19-italia.eu" redirect
+local-data: "covid19-italia.eu A 0.0.0.0"
+local-zone: "covid19-app.meugenio.com" redirect
+local-data: "covid19-app.meugenio.com A 0.0.0.0"
+local-zone: "covid19.bzh" redirect
+local-data: "covid19.bzh A 0.0.0.0"
+local-zone: "covid19.apiplatform.io" redirect
+local-data: "covid19.apiplatform.io A 0.0.0.0"
+local-zone: "gateway.covid19.apiplatform.io" redirect
+local-data: "gateway.covid19.apiplatform.io A 0.0.0.0"
+local-zone: "world-covid-19.scemo.org" redirect
+local-data: "world-covid-19.scemo.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
