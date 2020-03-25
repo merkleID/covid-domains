@@ -19318,6 +19318,38 @@ local-zone: "coronavirusreliefdirectory.com" redirect
 local-data: "coronavirusreliefdirectory.com A 0.0.0.0"
 local-zone: "www.coronavirusspreadingprecautions.ml" redirect
 local-data: "www.coronavirusspreadingprecautions.ml A 0.0.0.0"
+local-zone: "jlacovid19.org" redirect
+local-data: "jlacovid19.org A 0.0.0.0"
+local-zone: "www.2020coronavirusprevention.com" redirect
+local-data: "www.2020coronavirusprevention.com A 0.0.0.0"
+local-zone: "2020coronavirusprevention.com" redirect
+local-data: "2020coronavirusprevention.com A 0.0.0.0"
+local-zone: "covid19corner.co.za" redirect
+local-data: "covid19corner.co.za A 0.0.0.0"
+local-zone: "ecovid-19.pl" redirect
+local-data: "ecovid-19.pl A 0.0.0.0"
+local-zone: "covid19.mindroom.com.br" redirect
+local-data: "covid19.mindroom.com.br A 0.0.0.0"
+local-zone: "covid-19.tn" redirect
+local-data: "covid-19.tn A 0.0.0.0"
+local-zone: "ecovid-19.pl" redirect
+local-data: "ecovid-19.pl A 0.0.0.0"
+local-zone: "fnacvandenborrecovid19.be" redirect
+local-data: "fnacvandenborrecovid19.be A 0.0.0.0"
+local-zone: "covid-19-normalcy.com" redirect
+local-data: "covid-19-normalcy.com A 0.0.0.0"
+local-zone: "19ncov.com" redirect
+local-data: "19ncov.com A 0.0.0.0"
+local-zone: "www.covid1970s.com" redirect
+local-data: "www.covid1970s.com A 0.0.0.0"
+local-zone: "covid19.istos.mu" redirect
+local-data: "covid19.istos.mu A 0.0.0.0"
+local-zone: "covid19.ailservers.com" redirect
+local-data: "covid19.ailservers.com A 0.0.0.0"
+local-zone: "covid1924x7.darwindpit.com" redirect
+local-data: "covid1924x7.darwindpit.com A 0.0.0.0"
+local-zone: "allaboutcoronavirus.net" redirect
+local-data: "allaboutcoronavirus.net A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
