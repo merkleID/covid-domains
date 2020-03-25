@@ -20542,6 +20542,28 @@ local-zone: "coronavirus.acilages.com.br" redirect
 local-data: "coronavirus.acilages.com.br A 0.0.0.0"
 local-zone: "covid19mu.gfchealth.org" redirect
 local-data: "covid19mu.gfchealth.org A 0.0.0.0"
+local-zone: "www.coronavirusmask.love" redirect
+local-data: "www.coronavirusmask.love A 0.0.0.0"
+local-zone: "covid19.geomaticsolutions.dz" redirect
+local-data: "covid19.geomaticsolutions.dz A 0.0.0.0"
+local-zone: "starcoronavirusappeal.org" redirect
+local-data: "starcoronavirusappeal.org A 0.0.0.0"
+local-zone: "covid19.tengizchevroil.com" redirect
+local-data: "covid19.tengizchevroil.com A 0.0.0.0"
+local-zone: "coronavirus.paths4work.com" redirect
+local-data: "coronavirus.paths4work.com A 0.0.0.0"
+local-zone: "covid19.sionadvogados.com.br" redirect
+local-data: "covid19.sionadvogados.com.br A 0.0.0.0"
+local-zone: "covid19.mycwhg.com" redirect
+local-data: "covid19.mycwhg.com A 0.0.0.0"
+local-zone: "worldcoronavirusaid.com" redirect
+local-data: "worldcoronavirusaid.com A 0.0.0.0"
+local-zone: "covid19.clarylent.com.ar" redirect
+local-data: "covid19.clarylent.com.ar A 0.0.0.0"
+local-zone: "www.internet-covid19.tk" redirect
+local-data: "www.internet-covid19.tk A 0.0.0.0"
+local-zone: "covid-19.benjmaa.com" redirect
+local-data: "covid-19.benjmaa.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
