@@ -20608,6 +20608,44 @@ local-zone: "www.e-covid19updates.com" redirect
 local-data: "www.e-covid19updates.com A 0.0.0.0"
 local-zone: "coronavirus.digitaltinder.com" redirect
 local-data: "coronavirus.digitaltinder.com A 0.0.0.0"
+local-zone: "cooperacovid19.org" redirect
+local-data: "cooperacovid19.org A 0.0.0.0"
+local-zone: "coronavirus-about.ru" redirect
+local-data: "coronavirus-about.ru A 0.0.0.0"
+local-zone: "www.mbakscovid19.org" redirect
+local-data: "www.mbakscovid19.org A 0.0.0.0"
+local-zone: "covid19testkiti.zendesk.com" redirect
+local-data: "covid19testkiti.zendesk.com A 0.0.0.0"
+local-zone: "coronavirus.psainfo.com.br" redirect
+local-data: "coronavirus.psainfo.com.br A 0.0.0.0"
+local-zone: "covid19exterminate.com" redirect
+local-data: "covid19exterminate.com A 0.0.0.0"
+local-zone: "covid19.co.bw" redirect
+local-data: "covid19.co.bw A 0.0.0.0"
+local-zone: "webinarsefaccoronavirus.es" redirect
+local-data: "webinarsefaccoronavirus.es A 0.0.0.0"
+local-zone: "clickaine.coronavirusaware.xyz" redirect
+local-data: "clickaine.coronavirusaware.xyz A 0.0.0.0"
+local-zone: "coronavirusmealprep.com" redirect
+local-data: "coronavirusmealprep.com A 0.0.0.0"
+local-zone: "staging.adnvcoronavirus.ch" redirect
+local-data: "staging.adnvcoronavirus.ch A 0.0.0.0"
+local-zone: "coronavirus.nicheautosites.com" redirect
+local-data: "coronavirus.nicheautosites.com A 0.0.0.0"
+local-zone: "gestioncamascovid19.ovh" redirect
+local-data: "gestioncamascovid19.ovh A 0.0.0.0"
+local-zone: "coronavirusprotections.net" redirect
+local-data: "coronavirusprotections.net A 0.0.0.0"
+local-zone: "covid19-challenge.fr" redirect
+local-data: "covid19-challenge.fr A 0.0.0.0"
+local-zone: "france-consommable-covid19.fr" redirect
+local-data: "france-consommable-covid19.fr A 0.0.0.0"
+local-zone: "covid19live.site" redirect
+local-data: "covid19live.site A 0.0.0.0"
+local-zone: "openthroughoutcoronavirus.com" redirect
+local-data: "openthroughoutcoronavirus.com A 0.0.0.0"
+local-zone: "openthroughoutcovid19.com" redirect
+local-data: "openthroughoutcovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
