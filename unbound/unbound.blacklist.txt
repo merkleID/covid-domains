@@ -20646,6 +20646,24 @@ local-zone: "openthroughoutcoronavirus.com" redirect
 local-data: "openthroughoutcoronavirus.com A 0.0.0.0"
 local-zone: "openthroughoutcovid19.com" redirect
 local-data: "openthroughoutcovid19.com A 0.0.0.0"
+local-zone: "coronaviruslive.visualdictionaryplus.com" redirect
+local-data: "coronaviruslive.visualdictionaryplus.com A 0.0.0.0"
+local-zone: "covid19.bz" redirect
+local-data: "covid19.bz A 0.0.0.0"
+local-zone: "covid19serenity.com" redirect
+local-data: "covid19serenity.com A 0.0.0.0"
+local-zone: "www.covid19serenity.com" redirect
+local-data: "www.covid19serenity.com A 0.0.0.0"
+local-zone: "covid19kit.kprojects-me.com" redirect
+local-data: "covid19kit.kprojects-me.com A 0.0.0.0"
+local-zone: "covid19force.com" redirect
+local-data: "covid19force.com A 0.0.0.0"
+local-zone: "elcoronavirus.org" redirect
+local-data: "elcoronavirus.org A 0.0.0.0"
+local-zone: "covid19-survey.net" redirect
+local-data: "covid19-survey.net A 0.0.0.0"
+local-zone: "covid-19j.gq" redirect
+local-data: "covid-19j.gq A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21608,6 +21626,8 @@ local-zone: "ultimahoracoronavirus.com" redirect
 local-data: "ultimahoracoronavirus.com A 0.0.0.0"
 local-zone: "covid19off.com" redirect
 local-data: "covid19off.com A 0.0.0.0"
+local-zone: "willicatchcoronavirus.com" redirect
+local-data: "willicatchcoronavirus.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
