@@ -19142,6 +19142,72 @@ local-zone: "appcovid19.eu" redirect
 local-data: "appcovid19.eu A 0.0.0.0"
 local-zone: "covid19data.bungokab.go.id" redirect
 local-data: "covid19data.bungokab.go.id A 0.0.0.0"
+local-zone: "covid19.istos.mu" redirect
+local-data: "covid19.istos.mu A 0.0.0.0"
+local-zone: "icoronavirus.org" redirect
+local-data: "icoronavirus.org A 0.0.0.0"
+local-zone: "www.covid-19shopping.com" redirect
+local-data: "www.covid-19shopping.com A 0.0.0.0"
+local-zone: "covid19businessrescue.com" redirect
+local-data: "covid19businessrescue.com A 0.0.0.0"
+local-zone: "covid19.fmoh.gov.ba" redirect
+local-data: "covid19.fmoh.gov.ba A 0.0.0.0"
+local-zone: "covid19map.co.nz" redirect
+local-data: "covid19map.co.nz A 0.0.0.0"
+local-zone: "achetermasquecovid19.fr" redirect
+local-data: "achetermasquecovid19.fr A 0.0.0.0"
+local-zone: "slpcoronavirus.mx" redirect
+local-data: "slpcoronavirus.mx A 0.0.0.0"
+local-zone: "www.covid19-newlifeinsurance.com" redirect
+local-data: "www.covid19-newlifeinsurance.com A 0.0.0.0"
+local-zone: "covid19.modospira.com" redirect
+local-data: "covid19.modospira.com A 0.0.0.0"
+local-zone: "aboutcoronavirus.online" redirect
+local-data: "aboutcoronavirus.online A 0.0.0.0"
+local-zone: "covid19-statistics.online" redirect
+local-data: "covid19-statistics.online A 0.0.0.0"
+local-zone: "www.covid-19-map.online" redirect
+local-data: "www.covid-19-map.online A 0.0.0.0"
+local-zone: "www.entreprises-solidarite-covid-19.fr" redirect
+local-data: "www.entreprises-solidarite-covid-19.fr A 0.0.0.0"
+local-zone: "coronavirus-go.com" redirect
+local-data: "coronavirus-go.com A 0.0.0.0"
+local-zone: "busacovid19.org" redirect
+local-data: "busacovid19.org A 0.0.0.0"
+local-zone: "covid-19.cchealth.org" redirect
+local-data: "covid-19.cchealth.org A 0.0.0.0"
+local-zone: "coronaviruseco.com" redirect
+local-data: "coronaviruseco.com A 0.0.0.0"
+local-zone: "protections-coronavirus.com" redirect
+local-data: "protections-coronavirus.com A 0.0.0.0"
+local-zone: "coronaviruscrowd.org" redirect
+local-data: "coronaviruscrowd.org A 0.0.0.0"
+local-zone: "covid19-world.org" redirect
+local-data: "covid19-world.org A 0.0.0.0"
+local-zone: "www.covid-19-cambridge.org" redirect
+local-data: "www.covid-19-cambridge.org A 0.0.0.0"
+local-zone: "coronavirusfinancialhelp.org" redirect
+local-data: "coronavirusfinancialhelp.org A 0.0.0.0"
+local-zone: "www.coronaviruscharities.org" redirect
+local-data: "www.coronaviruscharities.org A 0.0.0.0"
+local-zone: "covid19-mobilisation.org" redirect
+local-data: "covid19-mobilisation.org A 0.0.0.0"
+local-zone: "covid19italia.org" redirect
+local-data: "covid19italia.org A 0.0.0.0"
+local-zone: "www.covid19co.org" redirect
+local-data: "www.covid19co.org A 0.0.0.0"
+local-zone: "cmccovid19.org.ly" redirect
+local-data: "cmccovid19.org.ly A 0.0.0.0"
+local-zone: "coronaviruscasos.org" redirect
+local-data: "coronaviruscasos.org A 0.0.0.0"
+local-zone: "demo.studyduringcovid-19.com" redirect
+local-data: "demo.studyduringcovid-19.com A 0.0.0.0"
+local-zone: "covid19tracker.online" redirect
+local-data: "covid19tracker.online A 0.0.0.0"
+local-zone: "eeyouistcheecovid19.org" redirect
+local-data: "eeyouistcheecovid19.org A 0.0.0.0"
+local-zone: "www.goodnewscovid19.org" redirect
+local-data: "www.goodnewscovid19.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -20022,6 +20088,10 @@ local-zone: "superbeilcoronavirus.it" redirect
 local-data: "superbeilcoronavirus.it A 0.0.0.0"
 local-zone: "eshop-covid19.com" redirect
 local-data: "eshop-covid19.com A 0.0.0.0"
+local-zone: "covid19-santepublique.com" redirect
+local-data: "covid19-santepublique.com A 0.0.0.0"
+local-zone: "covid19-survey.org" redirect
+local-data: "covid19-survey.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
