@@ -19612,6 +19612,34 @@ local-zone: "coronavirustestkits.co.za" redirect
 local-data: "coronavirustestkits.co.za A 0.0.0.0"
 local-zone: "covid-19.patagoniadev.com.ar" redirect
 local-data: "covid-19.patagoniadev.com.ar A 0.0.0.0"
+local-zone: "covid19update.hsbc.clientdocs.us" redirect
+local-data: "covid19update.hsbc.clientdocs.us A 0.0.0.0"
+local-zone: "testcoronavirus.com.ar" redirect
+local-data: "testcoronavirus.com.ar A 0.0.0.0"
+local-zone: "manufacturo-covid19.zendesk.com" redirect
+local-data: "manufacturo-covid19.zendesk.com A 0.0.0.0"
+local-zone: "hirecovid19.com" redirect
+local-data: "hirecovid19.com A 0.0.0.0"
+local-zone: "www.coronaviruses.top" redirect
+local-data: "www.coronaviruses.top A 0.0.0.0"
+local-zone: "covid19.eclathealthcare.com" redirect
+local-data: "covid19.eclathealthcare.com A 0.0.0.0"
+local-zone: "covid19.mhpolice.in" redirect
+local-data: "covid19.mhpolice.in A 0.0.0.0"
+local-zone: "covid-19.augmented-dx.io" redirect
+local-data: "covid-19.augmented-dx.io A 0.0.0.0"
+local-zone: "coronavirus-v-mire.ru" redirect
+local-data: "coronavirus-v-mire.ru A 0.0.0.0"
+local-zone: "coronaviruscannabis.net" redirect
+local-data: "coronaviruscannabis.net A 0.0.0.0"
+local-zone: "coronaviruscannabis.org" redirect
+local-data: "coronaviruscannabis.org A 0.0.0.0"
+local-zone: "coronaviruscannabis.net" redirect
+local-data: "coronaviruscannabis.net A 0.0.0.0"
+local-zone: "www.covid-19supplychain.com" redirect
+local-data: "www.covid-19supplychain.com A 0.0.0.0"
+local-zone: "covid19-corona-virus.com" redirect
+local-data: "covid19-corona-virus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -20512,6 +20540,10 @@ local-zone: "coronavirusjokes.org" redirect
 local-data: "coronavirusjokes.org A 0.0.0.0"
 local-zone: "coronavirus-disease.ru" redirect
 local-data: "coronavirus-disease.ru A 0.0.0.0"
+local-zone: "covid-19-desinfection.fr" redirect
+local-data: "covid-19-desinfection.fr A 0.0.0.0"
+local-zone: "covid19hometestingkituk.co.uk" redirect
+local-data: "covid19hometestingkituk.co.uk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
