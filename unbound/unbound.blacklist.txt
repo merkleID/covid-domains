@@ -20374,6 +20374,48 @@ local-zone: "coronavirus.pcmod.ro" redirect
 local-data: "coronavirus.pcmod.ro A 0.0.0.0"
 local-zone: "webdisk.helpstopcoronavirus.org" redirect
 local-data: "webdisk.helpstopcoronavirus.org A 0.0.0.0"
+local-zone: "www.covid19hotel.info" redirect
+local-data: "www.covid19hotel.info A 0.0.0.0"
+local-zone: "www.prayeragainstcoronavirus.com" redirect
+local-data: "www.prayeragainstcoronavirus.com A 0.0.0.0"
+local-zone: "coronaviruseradication.org" redirect
+local-data: "coronaviruseradication.org A 0.0.0.0"
+local-zone: "covid-19-graphs.net" redirect
+local-data: "covid-19-graphs.net A 0.0.0.0"
+local-zone: "covid-19.holmss.lv" redirect
+local-data: "covid-19.holmss.lv A 0.0.0.0"
+local-zone: "homesolutionscoronavirus.com" redirect
+local-data: "homesolutionscoronavirus.com A 0.0.0.0"
+local-zone: "loveincoronavirus.com" redirect
+local-data: "loveincoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusindia.io" redirect
+local-data: "coronavirusindia.io A 0.0.0.0"
+local-zone: "noblecovid19.com" redirect
+local-data: "noblecovid19.com A 0.0.0.0"
+local-zone: "covid19india-cluster.now.sh" redirect
+local-data: "covid19india-cluster.now.sh A 0.0.0.0"
+local-zone: "covid19.mustaphadabella.com" redirect
+local-data: "covid19.mustaphadabella.com A 0.0.0.0"
+local-zone: "coronavirus666.com" redirect
+local-data: "coronavirus666.com A 0.0.0.0"
+local-zone: "covid19.redclayschools.com" redirect
+local-data: "covid19.redclayschools.com A 0.0.0.0"
+local-zone: "www.procovid19.com" redirect
+local-data: "www.procovid19.com A 0.0.0.0"
+local-zone: "cpcalendars.mamparacovid19.com" redirect
+local-data: "cpcalendars.mamparacovid19.com A 0.0.0.0"
+local-zone: "emergenciacovid19.camarasal.com" redirect
+local-data: "emergenciacovid19.camarasal.com A 0.0.0.0"
+local-zone: "coronavirus-info.kz" redirect
+local-data: "coronavirus-info.kz A 0.0.0.0"
+local-zone: "rirehab-covid19.com" redirect
+local-data: "rirehab-covid19.com A 0.0.0.0"
+local-zone: "protection-covid-19.fr" redirect
+local-data: "protection-covid-19.fr A 0.0.0.0"
+local-zone: "marylandcovid-19.com" redirect
+local-data: "marylandcovid-19.com A 0.0.0.0"
+local-zone: "coronavirus-hilfe-deutschland.de" redirect
+local-data: "coronavirus-hilfe-deutschland.de A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21326,6 +21368,10 @@ local-zone: "testrapidocovid19.it" redirect
 local-data: "testrapidocovid19.it A 0.0.0.0"
 local-zone: "covid19stayathome.eu" redirect
 local-data: "covid19stayathome.eu A 0.0.0.0"
+local-zone: "noticiascovid19.org" redirect
+local-data: "noticiascovid19.org A 0.0.0.0"
+local-zone: "corona-virus-cases.com" redirect
+local-data: "corona-virus-cases.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
