@@ -18924,6 +18924,44 @@ local-zone: "alertacovid19.vivir.com.do" redirect
 local-data: "alertacovid19.vivir.com.do A 0.0.0.0"
 local-zone: "brochure.ost-covid19.com" redirect
 local-data: "brochure.ost-covid19.com A 0.0.0.0"
+local-zone: "coronavirus.avanzasegur.com" redirect
+local-data: "coronavirus.avanzasegur.com A 0.0.0.0"
+local-zone: "coronaviruschile.com" redirect
+local-data: "coronaviruschile.com A 0.0.0.0"
+local-zone: "coronavirusprofit.site" redirect
+local-data: "coronavirusprofit.site A 0.0.0.0"
+local-zone: "covid19.webgis.my.id" redirect
+local-data: "covid19.webgis.my.id A 0.0.0.0"
+local-zone: "infocovid19ponorogo.id" redirect
+local-data: "infocovid19ponorogo.id A 0.0.0.0"
+local-zone: "covid19jobsnyc.com" redirect
+local-data: "covid19jobsnyc.com A 0.0.0.0"
+local-zone: "www.crushcovid19.com" redirect
+local-data: "www.crushcovid19.com A 0.0.0.0"
+local-zone: "coronavirus-info.fr" redirect
+local-data: "coronavirus-info.fr A 0.0.0.0"
+local-zone: "www.covid19clinic.com" redirect
+local-data: "www.covid19clinic.com A 0.0.0.0"
+local-zone: "api.siagacovid19.lebakkab.go.id" redirect
+local-data: "api.siagacovid19.lebakkab.go.id A 0.0.0.0"
+local-zone: "covid19online.xyz" redirect
+local-data: "covid19online.xyz A 0.0.0.0"
+local-zone: "vencercovid19.com" redirect
+local-data: "vencercovid19.com A 0.0.0.0"
+local-zone: "covid19clinic.com" redirect
+local-data: "covid19clinic.com A 0.0.0.0"
+local-zone: "covid19.iwate-pu.net" redirect
+local-data: "covid19.iwate-pu.net A 0.0.0.0"
+local-zone: "covid19.tanwirulafkar.or.id" redirect
+local-data: "covid19.tanwirulafkar.or.id A 0.0.0.0"
+local-zone: "contacto.redcovid19mx.org" redirect
+local-data: "contacto.redcovid19mx.org A 0.0.0.0"
+local-zone: "vircovid19.com" redirect
+local-data: "vircovid19.com A 0.0.0.0"
+local-zone: "endcoronavirusanxiety.com" redirect
+local-data: "endcoronavirusanxiety.com A 0.0.0.0"
+local-zone: "www.covid19.earth" redirect
+local-data: "www.covid19.earth A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
