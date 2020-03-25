@@ -9640,6 +9640,16 @@ zone "satgascovid19tarowang.balang.org" { type master; notify no; file null.zone
 zone "covid19.spoorthis.com" { type master; notify no; file null.zone.file; };
 zone "covid19ro.info" { type master; notify no; file null.zone.file; };
 zone "www.emergenzacovid19.info" { type master; notify no; file null.zone.file; };
+zone "gitlab-covid19.develat.io" { type master; notify no; file null.zone.file; };
+zone "pak-covid19.com" { type master; notify no; file null.zone.file; };
+zone "www.maskcovid19.shop" { type master; notify no; file null.zone.file; };
+zone "howtosurvivecoronavirus.site" { type master; notify no; file null.zone.file; };
+zone "noticiascoronavirus.site" { type master; notify no; file null.zone.file; };
+zone "coronavirus.kkweb.sk" { type master; notify no; file null.zone.file; };
+zone "www.coronaviruses.su" { type master; notify no; file null.zone.file; };
+zone "worldcovid19.ml" { type master; notify no; file null.zone.file; };
+zone "covid19smsinfo.dsasoftware.com.ph" { type master; notify no; file null.zone.file; };
+zone "w32fhbwoenmjjt29c.covid-19tv.gov.au" { type master; notify no; file null.zone.file; };
 zone "anticoronavirus.cloud" { type master; notify no; file null.zone.file; };
 zone "anticoronavirustienda.com" { type master; notify no; file null.zone.file; };
 zone "californiacoronaviruslaw.com" { type master; notify no; file null.zone.file; };

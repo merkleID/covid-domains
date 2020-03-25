@@ -19282,6 +19282,26 @@ local-zone: "covid19ro.info" redirect
 local-data: "covid19ro.info A 0.0.0.0"
 local-zone: "www.emergenzacovid19.info" redirect
 local-data: "www.emergenzacovid19.info A 0.0.0.0"
+local-zone: "gitlab-covid19.develat.io" redirect
+local-data: "gitlab-covid19.develat.io A 0.0.0.0"
+local-zone: "pak-covid19.com" redirect
+local-data: "pak-covid19.com A 0.0.0.0"
+local-zone: "www.maskcovid19.shop" redirect
+local-data: "www.maskcovid19.shop A 0.0.0.0"
+local-zone: "howtosurvivecoronavirus.site" redirect
+local-data: "howtosurvivecoronavirus.site A 0.0.0.0"
+local-zone: "noticiascoronavirus.site" redirect
+local-data: "noticiascoronavirus.site A 0.0.0.0"
+local-zone: "coronavirus.kkweb.sk" redirect
+local-data: "coronavirus.kkweb.sk A 0.0.0.0"
+local-zone: "www.coronaviruses.su" redirect
+local-data: "www.coronaviruses.su A 0.0.0.0"
+local-zone: "worldcovid19.ml" redirect
+local-data: "worldcovid19.ml A 0.0.0.0"
+local-zone: "covid19smsinfo.dsasoftware.com.ph" redirect
+local-data: "covid19smsinfo.dsasoftware.com.ph A 0.0.0.0"
+local-zone: "w32fhbwoenmjjt29c.covid-19tv.gov.au" redirect
+local-data: "w32fhbwoenmjjt29c.covid-19tv.gov.au A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
