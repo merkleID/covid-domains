@@ -20340,6 +20340,40 @@ local-zone: "www.coronavirus.latardeurbana.com" redirect
 local-data: "www.coronavirus.latardeurbana.com A 0.0.0.0"
 local-zone: "coronavirussanitizeny.com" redirect
 local-data: "coronavirussanitizeny.com A 0.0.0.0"
+local-zone: "covid-19.riskline.com" redirect
+local-data: "covid-19.riskline.com A 0.0.0.0"
+local-zone: "covid-19pakistan.com" redirect
+local-data: "covid-19pakistan.com A 0.0.0.0"
+local-zone: "api.coronavirusinfo.cl" redirect
+local-data: "api.coronavirusinfo.cl A 0.0.0.0"
+local-zone: "livecoronavirusupdate.com" redirect
+local-data: "livecoronavirusupdate.com A 0.0.0.0"
+local-zone: "coronavirusworld.news" redirect
+local-data: "coronavirusworld.news A 0.0.0.0"
+local-zone: "lptlup6-17-1.abnsecurecovid-19.noez.me" redirect
+local-data: "lptlup6-17-1.abnsecurecovid-19.noez.me A 0.0.0.0"
+local-zone: "coronavirusworld.news" redirect
+local-data: "coronavirusworld.news A 0.0.0.0"
+local-zone: "covid19-medico24hs.onrender.com" redirect
+local-data: "covid19-medico24hs.onrender.com A 0.0.0.0"
+local-zone: "covid19police.capulustech.com" redirect
+local-data: "covid19police.capulustech.com A 0.0.0.0"
+local-zone: "galicia.coronavirusmakers.org" redirect
+local-data: "galicia.coronavirusmakers.org A 0.0.0.0"
+local-zone: "covid19de.info" redirect
+local-data: "covid19de.info A 0.0.0.0"
+local-zone: "coronavirus.cidademob.com.br" redirect
+local-data: "coronavirus.cidademob.com.br A 0.0.0.0"
+local-zone: "covid19measures.com" redirect
+local-data: "covid19measures.com A 0.0.0.0"
+local-zone: "www.ksbroadcasterscovid19.com" redirect
+local-data: "www.ksbroadcasterscovid19.com A 0.0.0.0"
+local-zone: "covid19.granddatum.com" redirect
+local-data: "covid19.granddatum.com A 0.0.0.0"
+local-zone: "coronavirus.pcmod.ro" redirect
+local-data: "coronavirus.pcmod.ro A 0.0.0.0"
+local-zone: "webdisk.helpstopcoronavirus.org" redirect
+local-data: "webdisk.helpstopcoronavirus.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21288,6 +21322,10 @@ local-zone: "anticovid19.us" redirect
 local-data: "anticovid19.us A 0.0.0.0"
 local-zone: "mascherinacovid-19.it" redirect
 local-data: "mascherinacovid-19.it A 0.0.0.0"
+local-zone: "testrapidocovid19.it" redirect
+local-data: "testrapidocovid19.it A 0.0.0.0"
+local-zone: "covid19stayathome.eu" redirect
+local-data: "covid19stayathome.eu A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
