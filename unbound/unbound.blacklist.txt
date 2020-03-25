@@ -18992,6 +18992,36 @@ local-zone: "ppecovid19.com" redirect
 local-data: "ppecovid19.com A 0.0.0.0"
 local-zone: "coronavirus-now.artworks.brig.ht" redirect
 local-data: "coronavirus-now.artworks.brig.ht A 0.0.0.0"
+local-zone: "covid19vaccine.shop" redirect
+local-data: "covid19vaccine.shop A 0.0.0.0"
+local-zone: "coronavirus-ar.com" redirect
+local-data: "coronavirus-ar.com A 0.0.0.0"
+local-zone: "covid19.or.id" redirect
+local-data: "covid19.or.id A 0.0.0.0"
+local-zone: "covid19nashville.com" redirect
+local-data: "covid19nashville.com A 0.0.0.0"
+local-zone: "www.fuckcoronavirusshop.com" redirect
+local-data: "www.fuckcoronavirusshop.com A 0.0.0.0"
+local-zone: "www.covid19vax.news" redirect
+local-data: "www.covid19vax.news A 0.0.0.0"
+local-zone: "covid19.telangana.gov.in" redirect
+local-data: "covid19.telangana.gov.in A 0.0.0.0"
+local-zone: "coronavirus.pb06.in" redirect
+local-data: "coronavirus.pb06.in A 0.0.0.0"
+local-zone: "covid19checkkit.com" redirect
+local-data: "covid19checkkit.com A 0.0.0.0"
+local-zone: "new.coronavirus-aktuell.de" redirect
+local-data: "new.coronavirus-aktuell.de A 0.0.0.0"
+local-zone: "pandemia-coronavirus.com" redirect
+local-data: "pandemia-coronavirus.com A 0.0.0.0"
+local-zone: "asociaciondeafectadosporcoronavirus.com" redirect
+local-data: "asociaciondeafectadosporcoronavirus.com A 0.0.0.0"
+local-zone: "auscovid19supplies.com" redirect
+local-data: "auscovid19supplies.com A 0.0.0.0"
+local-zone: "covid19-under-fhir.smilecdr.com" redirect
+local-data: "covid19-under-fhir.smilecdr.com A 0.0.0.0"
+local-zone: "covid19.wisible.io" redirect
+local-data: "covid19.wisible.io A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -19862,6 +19892,12 @@ local-zone: "ethiopia-covid19.com" redirect
 local-data: "ethiopia-covid19.com A 0.0.0.0"
 local-zone: "covid19basilicata.it" redirect
 local-data: "covid19basilicata.it A 0.0.0.0"
+local-zone: "coronaviruscol.com" redirect
+local-data: "coronaviruscol.com A 0.0.0.0"
+local-zone: "covid19weko.com" redirect
+local-data: "covid19weko.com A 0.0.0.0"
+local-zone: "covid19sucks.net" redirect
+local-data: "covid19sucks.net A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
