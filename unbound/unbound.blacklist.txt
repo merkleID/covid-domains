@@ -21776,6 +21776,104 @@ local-zone: "coronavirusgobalsafety.online" redirect
 local-data: "coronavirusgobalsafety.online A 0.0.0.0"
 local-zone: "covid19.digitalproblemsolving.com" redirect
 local-data: "covid19.digitalproblemsolving.com A 0.0.0.0"
+local-zone: "swarm-covid19.co.uk" redirect
+local-data: "swarm-covid19.co.uk A 0.0.0.0"
+local-zone: "covid-19victims.com" redirect
+local-data: "covid-19victims.com A 0.0.0.0"
+local-zone: "www.covid19.nyc" redirect
+local-data: "www.covid19.nyc A 0.0.0.0"
+local-zone: "covid19impact.info" redirect
+local-data: "covid19impact.info A 0.0.0.0"
+local-zone: "ccpcoronavirus.covid19businessrelief.org" redirect
+local-data: "ccpcoronavirus.covid19businessrelief.org A 0.0.0.0"
+local-zone: "covid19.transbordernetwork.com" redirect
+local-data: "covid19.transbordernetwork.com A 0.0.0.0"
+local-zone: "covid19.rosminzdrav.ru" redirect
+local-data: "covid19.rosminzdrav.ru A 0.0.0.0"
+local-zone: "covid19.transbordernetwork.com" redirect
+local-data: "covid19.transbordernetwork.com A 0.0.0.0"
+local-zone: "coronaviruscleansers.com.au" redirect
+local-data: "coronaviruscleansers.com.au A 0.0.0.0"
+local-zone: "covid-19.reactmore.com" redirect
+local-data: "covid-19.reactmore.com A 0.0.0.0"
+local-zone: "www.covid19.envisioncircle.com" redirect
+local-data: "www.covid19.envisioncircle.com A 0.0.0.0"
+local-zone: "digitalcoronavirus.com" redirect
+local-data: "digitalcoronavirus.com A 0.0.0.0"
+local-zone: "covid19-testing.co.uk" redirect
+local-data: "covid19-testing.co.uk A 0.0.0.0"
+local-zone: "coronavirustestingla.com" redirect
+local-data: "coronavirustestingla.com A 0.0.0.0"
+local-zone: "coronaviruscloud.com" redirect
+local-data: "coronaviruscloud.com A 0.0.0.0"
+local-zone: "www.coronavirusinf.com" redirect
+local-data: "www.coronavirusinf.com A 0.0.0.0"
+local-zone: "coronavirusdefense.com" redirect
+local-data: "coronavirusdefense.com A 0.0.0.0"
+local-zone: "coronaviruslivetracker.com" redirect
+local-data: "coronaviruslivetracker.com A 0.0.0.0"
+local-zone: "coronavirushunters.com" redirect
+local-data: "coronavirushunters.com A 0.0.0.0"
+local-zone: "coronavirusvaccinelawsuit.com" redirect
+local-data: "coronavirusvaccinelawsuit.com A 0.0.0.0"
+local-zone: "www.coronaviruschatnow.com" redirect
+local-data: "www.coronaviruschatnow.com A 0.0.0.0"
+local-zone: "coronaviruscleaningcharlotte.com" redirect
+local-data: "coronaviruscleaningcharlotte.com A 0.0.0.0"
+local-zone: "coronavirus-spiele.com" redirect
+local-data: "coronavirus-spiele.com A 0.0.0.0"
+local-zone: "coronaviruschatnow.com" redirect
+local-data: "coronaviruschatnow.com A 0.0.0.0"
+local-zone: "coronaviruscaptivity.com" redirect
+local-data: "coronaviruscaptivity.com A 0.0.0.0"
+local-zone: "coronavirushomesforsale.com" redirect
+local-data: "coronavirushomesforsale.com A 0.0.0.0"
+local-zone: "coronavirusinformer.com" redirect
+local-data: "coronavirusinformer.com A 0.0.0.0"
+local-zone: "coronavirusmedvisit.com" redirect
+local-data: "coronavirusmedvisit.com A 0.0.0.0"
+local-zone: "www.coronavirussanitizernow.com" redirect
+local-data: "www.coronavirussanitizernow.com A 0.0.0.0"
+local-zone: "coronavirus0.com" redirect
+local-data: "coronavirus0.com A 0.0.0.0"
+local-zone: "coronavirus-ruhepol.com" redirect
+local-data: "coronavirus-ruhepol.com A 0.0.0.0"
+local-zone: "coronavirussurvivorsclub.com" redirect
+local-data: "coronavirussurvivorsclub.com A 0.0.0.0"
+local-zone: "coronavirusaustin.com" redirect
+local-data: "coronavirusaustin.com A 0.0.0.0"
+local-zone: "coronaviruscautions.com" redirect
+local-data: "coronaviruscautions.com A 0.0.0.0"
+local-zone: "coronavirus-livetracker.com" redirect
+local-data: "coronavirus-livetracker.com A 0.0.0.0"
+local-zone: "coronavirus-romania.com" redirect
+local-data: "coronavirus-romania.com A 0.0.0.0"
+local-zone: "coronaviruscovid19prevention.com" redirect
+local-data: "coronaviruscovid19prevention.com A 0.0.0.0"
+local-zone: "doctor.coronavirusconsulta.com" redirect
+local-data: "doctor.coronavirusconsulta.com A 0.0.0.0"
+local-zone: "covid19.alishlahcurup.or.id" redirect
+local-data: "covid19.alishlahcurup.or.id A 0.0.0.0"
+local-zone: "106-crawler-use-env.covid19vis.lingvis.io" redirect
+local-data: "106-crawler-use-env.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "covid19geometry.com" redirect
+local-data: "covid19geometry.com A 0.0.0.0"
+local-zone: "staging6.covid19-bayarea-support.com" redirect
+local-data: "staging6.covid19-bayarea-support.com A 0.0.0.0"
+local-zone: "covid-19victims.com" redirect
+local-data: "covid-19victims.com A 0.0.0.0"
+local-zone: "covid19shop.com" redirect
+local-data: "covid19shop.com A 0.0.0.0"
+local-zone: "covid19uptodate.com" redirect
+local-data: "covid19uptodate.com A 0.0.0.0"
+local-zone: "covid19chopo.com" redirect
+local-data: "covid19chopo.com A 0.0.0.0"
+local-zone: "covid-19coach.com" redirect
+local-data: "covid-19coach.com A 0.0.0.0"
+local-zone: "covid19hazmat.com" redirect
+local-data: "covid19hazmat.com A 0.0.0.0"
+local-zone: "covid19.bhriguhealthconnect.com" redirect
+local-data: "covid19.bhriguhealthconnect.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
