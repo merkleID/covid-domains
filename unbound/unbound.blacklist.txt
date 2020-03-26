@@ -21432,6 +21432,38 @@ local-zone: "coronavirus.dvrbiologicodinamico.it" redirect
 local-data: "coronavirus.dvrbiologicodinamico.it A 0.0.0.0"
 local-zone: "pandemiccoronavirus.com" redirect
 local-data: "pandemiccoronavirus.com A 0.0.0.0"
+local-zone: "www.coronavirusus.com" redirect
+local-data: "www.coronavirusus.com A 0.0.0.0"
+local-zone: "coronavirusus.com" redirect
+local-data: "coronavirusus.com A 0.0.0.0"
+local-zone: "covid19serenity.com" redirect
+local-data: "covid19serenity.com A 0.0.0.0"
+local-zone: "www.covid19serenity.com" redirect
+local-data: "www.covid19serenity.com A 0.0.0.0"
+local-zone: "restraintandcovid19.nfps.info" redirect
+local-data: "restraintandcovid19.nfps.info A 0.0.0.0"
+local-zone: "infocovid19.pateco.es" redirect
+local-data: "infocovid19.pateco.es A 0.0.0.0"
+local-zone: "covid-19.forallatech.com" redirect
+local-data: "covid-19.forallatech.com A 0.0.0.0"
+local-zone: "coronavirus-monitoring.life" redirect
+local-data: "coronavirus-monitoring.life A 0.0.0.0"
+local-zone: "covid19argentina.com" redirect
+local-data: "covid19argentina.com A 0.0.0.0"
+local-zone: "covid19.atmago.com" redirect
+local-data: "covid19.atmago.com A 0.0.0.0"
+local-zone: "coronavirus.radiichina.com" redirect
+local-data: "coronavirus.radiichina.com A 0.0.0.0"
+local-zone: "coronavirus-covid.fr" redirect
+local-data: "coronavirus-covid.fr A 0.0.0.0"
+local-zone: "covid19.angga.dev" redirect
+local-data: "covid19.angga.dev A 0.0.0.0"
+local-zone: "www.againstcovid-19.com" redirect
+local-data: "www.againstcovid-19.com A 0.0.0.0"
+local-zone: "whatiscoronavirus.bbdiseno.com" redirect
+local-data: "whatiscoronavirus.bbdiseno.com A 0.0.0.0"
+local-zone: "coronavirusflu.org" redirect
+local-data: "coronavirusflu.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
