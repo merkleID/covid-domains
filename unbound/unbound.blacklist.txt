@@ -21128,6 +21128,34 @@ local-zone: "autotestcovid19.org" redirect
 local-data: "autotestcovid19.org A 0.0.0.0"
 local-zone: "mapcovid19.org" redirect
 local-data: "mapcovid19.org A 0.0.0.0"
+local-zone: "coronavirus-updates.tk" redirect
+local-data: "coronavirus-updates.tk A 0.0.0.0"
+local-zone: "beatcoronavirus.co.uk" redirect
+local-data: "beatcoronavirus.co.uk A 0.0.0.0"
+local-zone: "www.coronavirusgrant.co.uk" redirect
+local-data: "www.coronavirusgrant.co.uk A 0.0.0.0"
+local-zone: "coronavirusmyths.co.uk" redirect
+local-data: "coronavirusmyths.co.uk A 0.0.0.0"
+local-zone: "www.coronavirus-hometesting.co.uk" redirect
+local-data: "www.coronavirus-hometesting.co.uk A 0.0.0.0"
+local-zone: "www.coronavirustracker.co.uk" redirect
+local-data: "www.coronavirustracker.co.uk A 0.0.0.0"
+local-zone: "coronaviruslegalsolutions.co.uk" redirect
+local-data: "coronaviruslegalsolutions.co.uk A 0.0.0.0"
+local-zone: "covid19.instantah.com" redirect
+local-data: "covid19.instantah.com A 0.0.0.0"
+local-zone: "covid19.cliniquedelamadeleine.com" redirect
+local-data: "covid19.cliniquedelamadeleine.com A 0.0.0.0"
+local-zone: "loveinthetimeofcovid19.co.uk" redirect
+local-data: "loveinthetimeofcovid19.co.uk A 0.0.0.0"
+local-zone: "ripostecovid19.scoutsdusenegal.org" redirect
+local-data: "ripostecovid19.scoutsdusenegal.org A 0.0.0.0"
+local-zone: "covid19.vcsdata.com" redirect
+local-data: "covid19.vcsdata.com A 0.0.0.0"
+local-zone: "coronavirus.getinvolved.scot" redirect
+local-data: "coronavirus.getinvolved.scot A 0.0.0.0"
+local-zone: "covid-19.scvo.org.uk" redirect
+local-data: "covid-19.scvo.org.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -22118,6 +22146,12 @@ local-zone: "coronavirusclinics.com.au" redirect
 local-data: "coronavirusclinics.com.au A 0.0.0.0"
 local-zone: "mascherinacovid-19.it" redirect
 local-data: "mascherinacovid-19.it A 0.0.0.0"
+local-zone: "coronaviruscleansing.co.uk" redirect
+local-data: "coronaviruscleansing.co.uk A 0.0.0.0"
+local-zone: "coronavirus-treatment.co.uk" redirect
+local-data: "coronavirus-treatment.co.uk A 0.0.0.0"
+local-zone: "ringwood-coronavirus.org.uk" redirect
+local-data: "ringwood-coronavirus.org.uk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
