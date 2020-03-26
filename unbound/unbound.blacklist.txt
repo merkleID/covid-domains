@@ -21032,6 +21032,28 @@ local-zone: "phlcovid-19fund.org" redirect
 local-data: "phlcovid-19fund.org A 0.0.0.0"
 local-zone: "phencovid19.org" redirect
 local-data: "phencovid19.org A 0.0.0.0"
+local-zone: "simcovid19.org" redirect
+local-data: "simcovid19.org A 0.0.0.0"
+local-zone: "sacoronavirus.co.za" redirect
+local-data: "sacoronavirus.co.za A 0.0.0.0"
+local-zone: "covid19.info.gov.pg" redirect
+local-data: "covid19.info.gov.pg A 0.0.0.0"
+local-zone: "covid19.com.pk" redirect
+local-data: "covid19.com.pk A 0.0.0.0"
+local-zone: "covid19.bz" redirect
+local-data: "covid19.bz A 0.0.0.0"
+local-zone: "coronaviruspremierleague.com" redirect
+local-data: "coronaviruspremierleague.com A 0.0.0.0"
+local-zone: "covid19.gentasari.desa.id" redirect
+local-data: "covid19.gentasari.desa.id A 0.0.0.0"
+local-zone: "covid19thinktank.com" redirect
+local-data: "covid19thinktank.com A 0.0.0.0"
+local-zone: "covid19.raturi.in" redirect
+local-data: "covid19.raturi.in A 0.0.0.0"
+local-zone: "abertonocovid19.centrozero.pt" redirect
+local-data: "abertonocovid19.centrozero.pt A 0.0.0.0"
+local-zone: "coronavirusgraph.info" redirect
+local-data: "coronavirusgraph.info A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -22012,6 +22034,10 @@ local-zone: "coronavirusclinics.com.au" redirect
 local-data: "coronavirusclinics.com.au A 0.0.0.0"
 local-zone: "coronavirus-voorkomen.nl" redirect
 local-data: "coronavirus-voorkomen.nl A 0.0.0.0"
+local-zone: "covid19test.zone" redirect
+local-data: "covid19test.zone A 0.0.0.0"
+local-zone: "covid19muststop.com" redirect
+local-data: "covid19muststop.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

@@ -10515,6 +10515,17 @@ local-zone: "www.firstcovid19.com" static
 local-zone: "offmls-covid19.org" static
 local-zone: "phlcovid-19fund.org" static
 local-zone: "phencovid19.org" static
+local-zone: "simcovid19.org" static
+local-zone: "sacoronavirus.co.za" static
+local-zone: "covid19.info.gov.pg" static
+local-zone: "covid19.com.pk" static
+local-zone: "covid19.bz" static
+local-zone: "coronaviruspremierleague.com" static
+local-zone: "covid19.gentasari.desa.id" static
+local-zone: "covid19thinktank.com" static
+local-zone: "covid19.raturi.in" static
+local-zone: "abertonocovid19.centrozero.pt" static
+local-zone: "coronavirusgraph.info" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -11005,6 +11016,8 @@ local-zone: "covid-19-teststation.de" static
 local-zone: "us-covid19-per-capita.net" static
 local-zone: "coronavirusclinics.com.au" static
 local-zone: "coronavirus-voorkomen.nl" static
+local-zone: "covid19test.zone" static
+local-zone: "covid19muststop.com" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
