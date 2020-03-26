@@ -20664,6 +20664,18 @@ local-zone: "covid19-survey.net" redirect
 local-data: "covid19-survey.net A 0.0.0.0"
 local-zone: "covid-19j.gq" redirect
 local-data: "covid-19j.gq A 0.0.0.0"
+local-zone: "soscovid19.com.br" redirect
+local-data: "soscovid19.com.br A 0.0.0.0"
+local-zone: "worldcoronavirusaid.com" redirect
+local-data: "worldcoronavirusaid.com A 0.0.0.0"
+local-zone: "coronavirus-bochum.de" redirect
+local-data: "coronavirus-bochum.de A 0.0.0.0"
+local-zone: "yosobrevivialcovid19.com" redirect
+local-data: "yosobrevivialcovid19.com A 0.0.0.0"
+local-zone: "www.covid19record.com" redirect
+local-data: "www.covid19record.com A 0.0.0.0"
+local-zone: "covid19testkiti.zendesk.com" redirect
+local-data: "covid19testkiti.zendesk.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
