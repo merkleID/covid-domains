@@ -21214,6 +21214,38 @@ local-zone: "www.recywood-covid19.com" redirect
 local-data: "www.recywood-covid19.com A 0.0.0.0"
 local-zone: "coronavirus.davidlinden.scot" redirect
 local-data: "coronavirus.davidlinden.scot A 0.0.0.0"
+local-zone: "covid19india-shuklaayush.now.sh" redirect
+local-data: "covid19india-shuklaayush.now.sh A 0.0.0.0"
+local-zone: "covid19.organic" redirect
+local-data: "covid19.organic A 0.0.0.0"
+local-zone: "mask-anti-covid19.com" redirect
+local-data: "mask-anti-covid19.com A 0.0.0.0"
+local-zone: "coronavirus.itstart.ro" redirect
+local-data: "coronavirus.itstart.ro A 0.0.0.0"
+local-zone: "avoidtocoronavirus.tk" redirect
+local-data: "avoidtocoronavirus.tk A 0.0.0.0"
+local-zone: "www.coronavirus.lu" redirect
+local-data: "www.coronavirus.lu A 0.0.0.0"
+local-zone: "blog.coronavirusspy.com" redirect
+local-data: "blog.coronavirusspy.com A 0.0.0.0"
+local-zone: "covid19.la-spa.fr" redirect
+local-data: "covid19.la-spa.fr A 0.0.0.0"
+local-zone: "covid19vol.qa" redirect
+local-data: "covid19vol.qa A 0.0.0.0"
+local-zone: "covid19globalstat4s.now.sh" redirect
+local-data: "covid19globalstat4s.now.sh A 0.0.0.0"
+local-zone: "www.covid19-ameli.info" redirect
+local-data: "www.covid19-ameli.info A 0.0.0.0"
+local-zone: "www.covid19-ameli.com" redirect
+local-data: "www.covid19-ameli.com A 0.0.0.0"
+local-zone: "covid19india-react-shuklaayush.now.sh" redirect
+local-data: "covid19india-react-shuklaayush.now.sh A 0.0.0.0"
+local-zone: "coronavirus-nov.online" redirect
+local-data: "coronavirus-nov.online A 0.0.0.0"
+local-zone: "beatcovid-19.app" redirect
+local-data: "beatcovid-19.app A 0.0.0.0"
+local-zone: "covid19.army" redirect
+local-data: "covid19.army A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
