@@ -21874,6 +21874,36 @@ local-zone: "covid19hazmat.com" redirect
 local-data: "covid19hazmat.com A 0.0.0.0"
 local-zone: "covid19.bhriguhealthconnect.com" redirect
 local-data: "covid19.bhriguhealthconnect.com A 0.0.0.0"
+local-zone: "crushcovid19.com" redirect
+local-data: "crushcovid19.com A 0.0.0.0"
+local-zone: "covid19info.center" redirect
+local-data: "covid19info.center A 0.0.0.0"
+local-zone: "covid19.petyaari.com" redirect
+local-data: "covid19.petyaari.com A 0.0.0.0"
+local-zone: "coronavirus.benefactory.live" redirect
+local-data: "coronavirus.benefactory.live A 0.0.0.0"
+local-zone: "covid19.thevisiontomorrow.com" redirect
+local-data: "covid19.thevisiontomorrow.com A 0.0.0.0"
+local-zone: "help-coronavirus.be" redirect
+local-data: "help-coronavirus.be A 0.0.0.0"
+local-zone: "covid19pause.com" redirect
+local-data: "covid19pause.com A 0.0.0.0"
+local-zone: "alltomcovid19.se" redirect
+local-data: "alltomcovid19.se A 0.0.0.0"
+local-zone: "gate.covid19.gov.bt" redirect
+local-data: "gate.covid19.gov.bt A 0.0.0.0"
+local-zone: "quizcovid19.com" redirect
+local-data: "quizcovid19.com A 0.0.0.0"
+local-zone: "www.georgiacovid19lawyers.com" redirect
+local-data: "www.georgiacovid19lawyers.com A 0.0.0.0"
+local-zone: "www.georgiacovid19lawyer.com" redirect
+local-data: "www.georgiacovid19lawyer.com A 0.0.0.0"
+local-zone: "www.georgiacoronaviruslawyers.com" redirect
+local-data: "www.georgiacoronaviruslawyers.com A 0.0.0.0"
+local-zone: "www.georgiacoronaviruslawyer.com" redirect
+local-data: "www.georgiacoronaviruslawyer.com A 0.0.0.0"
+local-zone: "epasscovid19.noidapolice.com" redirect
+local-data: "epasscovid19.noidapolice.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
