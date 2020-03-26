@@ -21464,6 +21464,42 @@ local-zone: "whatiscoronavirus.bbdiseno.com" redirect
 local-data: "whatiscoronavirus.bbdiseno.com A 0.0.0.0"
 local-zone: "coronavirusflu.org" redirect
 local-data: "coronavirusflu.org A 0.0.0.0"
+local-zone: "tudelft-bmech-coronavirus.nl" redirect
+local-data: "tudelft-bmech-coronavirus.nl A 0.0.0.0"
+local-zone: "coronavirus.me.uk" redirect
+local-data: "coronavirus.me.uk A 0.0.0.0"
+local-zone: "appcoronavirus.com" redirect
+local-data: "appcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.anambaskab.go.id" redirect
+local-data: "covid19.anambaskab.go.id A 0.0.0.0"
+local-zone: "mascarillascoronavirus.online" redirect
+local-data: "mascarillascoronavirus.online A 0.0.0.0"
+local-zone: "covid19.mydata.org" redirect
+local-data: "covid19.mydata.org A 0.0.0.0"
+local-zone: "novelcovid19.world" redirect
+local-data: "novelcovid19.world A 0.0.0.0"
+local-zone: "vpn-covid19.ac-reunion.fr" redirect
+local-data: "vpn-covid19.ac-reunion.fr A 0.0.0.0"
+local-zone: "covid-19.doxaca.com" redirect
+local-data: "covid-19.doxaca.com A 0.0.0.0"
+local-zone: "covid19.yourws.at" redirect
+local-data: "covid19.yourws.at A 0.0.0.0"
+local-zone: "covid19.jeeonconnect.com" redirect
+local-data: "covid19.jeeonconnect.com A 0.0.0.0"
+local-zone: "covid19.sphericlaser.com" redirect
+local-data: "covid19.sphericlaser.com A 0.0.0.0"
+local-zone: "berau-covid19.berau-tech.co.id" redirect
+local-data: "berau-covid19.berau-tech.co.id A 0.0.0.0"
+local-zone: "covid19.lauzhack.com" redirect
+local-data: "covid19.lauzhack.com A 0.0.0.0"
+local-zone: "coronavirus.indiaforchange.org" redirect
+local-data: "coronavirus.indiaforchange.org A 0.0.0.0"
+local-zone: "covid19.reseausantewallon.be" redirect
+local-data: "covid19.reseausantewallon.be A 0.0.0.0"
+local-zone: "covid19.banggaikep.go.id" redirect
+local-data: "covid19.banggaikep.go.id A 0.0.0.0"
+local-zone: "www.covid19cancerresources.com" redirect
+local-data: "www.covid19cancerresources.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
