@@ -22326,6 +22326,38 @@ local-zone: "covid19.hackerspace.pl" redirect
 local-data: "covid19.hackerspace.pl A 0.0.0.0"
 local-zone: "shcovid19.com" redirect
 local-data: "shcovid19.com A 0.0.0.0"
+local-zone: "nwacovid-19.com" redirect
+local-data: "nwacovid-19.com A 0.0.0.0"
+local-zone: "covid19.give.providence.org" redirect
+local-data: "covid19.give.providence.org A 0.0.0.0"
+local-zone: "thedailycoronavirus.com" redirect
+local-data: "thedailycoronavirus.com A 0.0.0.0"
+local-zone: "covid19-infor.net" redirect
+local-data: "covid19-infor.net A 0.0.0.0"
+local-zone: "dhis-covid19.fhi360.org" redirect
+local-data: "dhis-covid19.fhi360.org A 0.0.0.0"
+local-zone: "covid19.hackerspace.pl" redirect
+local-data: "covid19.hackerspace.pl A 0.0.0.0"
+local-zone: "coronavirus.sulamerica.com.br" redirect
+local-data: "coronavirus.sulamerica.com.br A 0.0.0.0"
+local-zone: "sicurezza-covid19.com" redirect
+local-data: "sicurezza-covid19.com A 0.0.0.0"
+local-zone: "bccovid-19group.ca" redirect
+local-data: "bccovid-19group.ca A 0.0.0.0"
+local-zone: "covid19theband.com" redirect
+local-data: "covid19theband.com A 0.0.0.0"
+local-zone: "stopcovid19.worx-uk.com" redirect
+local-data: "stopcovid19.worx-uk.com A 0.0.0.0"
+local-zone: "650-covid-19-test.exactsciences.net" redirect
+local-data: "650-covid-19-test.exactsciences.net A 0.0.0.0"
+local-zone: "covid19swag.com" redirect
+local-data: "covid19swag.com A 0.0.0.0"
+local-zone: "fkcovid19.org" redirect
+local-data: "fkcovid19.org A 0.0.0.0"
+local-zone: "145-covid-19.exactsciences.net" redirect
+local-data: "145-covid-19.exactsciences.net A 0.0.0.0"
+local-zone: "covid19.mediafix.es" redirect
+local-data: "covid19.mediafix.es A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -23360,6 +23392,8 @@ local-zone: "covid19clinics.com.au" redirect
 local-data: "covid19clinics.com.au A 0.0.0.0"
 local-zone: "coronavirusmakers.org" redirect
 local-data: "coronavirusmakers.org A 0.0.0.0"
+local-zone: "stop-covid19.sk" redirect
+local-data: "stop-covid19.sk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
