@@ -22296,6 +22296,36 @@ local-zone: "covid19.woodlandhillscc.net" redirect
 local-data: "covid19.woodlandhillscc.net A 0.0.0.0"
 local-zone: "covid19peru.macalupu.com" redirect
 local-data: "covid19peru.macalupu.com A 0.0.0.0"
+local-zone: "covid-19cases.xyz" redirect
+local-data: "covid-19cases.xyz A 0.0.0.0"
+local-zone: "covid19.majalengkakab.go.id" redirect
+local-data: "covid19.majalengkakab.go.id A 0.0.0.0"
+local-zone: "www.coronaviruscareforall.com" redirect
+local-data: "www.coronaviruscareforall.com A 0.0.0.0"
+local-zone: "coronaviruspb.online" redirect
+local-data: "coronaviruspb.online A 0.0.0.0"
+local-zone: "handbook.kawalcovid19.id" redirect
+local-data: "handbook.kawalcovid19.id A 0.0.0.0"
+local-zone: "api.pandemia-covid19.org" redirect
+local-data: "api.pandemia-covid19.org A 0.0.0.0"
+local-zone: "www.covid19funding.org" redirect
+local-data: "www.covid19funding.org A 0.0.0.0"
+local-zone: "onupanamacovid19.com" redirect
+local-data: "onupanamacovid19.com A 0.0.0.0"
+local-zone: "covid19.mb-umfragen.de" redirect
+local-data: "covid19.mb-umfragen.de A 0.0.0.0"
+local-zone: "elsalvadorcovid19.com" redirect
+local-data: "elsalvadorcovid19.com A 0.0.0.0"
+local-zone: "covid-19.cozcyt.gob.mx" redirect
+local-data: "covid-19.cozcyt.gob.mx A 0.0.0.0"
+local-zone: "www.covid19maskrelief.com" redirect
+local-data: "www.covid19maskrelief.com A 0.0.0.0"
+local-zone: "northcentraloregoncoronavirusresponse.com" redirect
+local-data: "northcentraloregoncoronavirusresponse.com A 0.0.0.0"
+local-zone: "covid19.hackerspace.pl" redirect
+local-data: "covid19.hackerspace.pl A 0.0.0.0"
+local-zone: "shcovid19.com" redirect
+local-data: "shcovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -23328,6 +23358,8 @@ local-zone: "covid19forecast.eu" redirect
 local-data: "covid19forecast.eu A 0.0.0.0"
 local-zone: "covid19clinics.com.au" redirect
 local-data: "covid19clinics.com.au A 0.0.0.0"
+local-zone: "coronavirusmakers.org" redirect
+local-data: "coronavirusmakers.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
