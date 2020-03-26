@@ -21386,6 +21386,52 @@ local-zone: "admin.covid19.moh.gov.et" redirect
 local-data: "admin.covid19.moh.gov.et A 0.0.0.0"
 local-zone: "covid19.socialtravel.pl" redirect
 local-data: "covid19.socialtravel.pl A 0.0.0.0"
+local-zone: "coronavirus-in-ua.com" redirect
+local-data: "coronavirus-in-ua.com A 0.0.0.0"
+local-zone: "859ab4b8.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "859ab4b8.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "www.abcsofcoronavirus.com" redirect
+local-data: "www.abcsofcoronavirus.com A 0.0.0.0"
+local-zone: "api.859ab4b8.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.859ab4b8.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "wuhanvirus.ch" redirect
+local-data: "wuhanvirus.ch A 0.0.0.0"
+local-zone: "static.sgbcovid19.com" redirect
+local-data: "static.sgbcovid19.com A 0.0.0.0"
+local-zone: "www.againstcovid-19.com" redirect
+local-data: "www.againstcovid-19.com A 0.0.0.0"
+local-zone: "corona-virus.net" redirect
+local-data: "corona-virus.net A 0.0.0.0"
+local-zone: "covid-19.goodrebels.com" redirect
+local-data: "covid-19.goodrebels.com A 0.0.0.0"
+local-zone: "coronaviruslockout.com" redirect
+local-data: "coronaviruslockout.com A 0.0.0.0"
+local-zone: "covid-19.codercell.com" redirect
+local-data: "covid-19.codercell.com A 0.0.0.0"
+local-zone: "www.algeriacovid19.com" redirect
+local-data: "www.algeriacovid19.com A 0.0.0.0"
+local-zone: "dbscovid19.co.uk" redirect
+local-data: "dbscovid19.co.uk A 0.0.0.0"
+local-zone: "covid19.ptspkemenagsleman.net" redirect
+local-data: "covid19.ptspkemenagsleman.net A 0.0.0.0"
+local-zone: "covid19.gutouch.com" redirect
+local-data: "covid19.gutouch.com A 0.0.0.0"
+local-zone: "covid19-news24.fr" redirect
+local-data: "covid19-news24.fr A 0.0.0.0"
+local-zone: "it.privatecovid19.app" redirect
+local-data: "it.privatecovid19.app A 0.0.0.0"
+local-zone: "coronavirus-india.co" redirect
+local-data: "coronavirus-india.co A 0.0.0.0"
+local-zone: "www.covid19conferencia.rgi.com.co" redirect
+local-data: "www.covid19conferencia.rgi.com.co A 0.0.0.0"
+local-zone: "www.covid19-it.com" redirect
+local-data: "www.covid19-it.com A 0.0.0.0"
+local-zone: "webdisk.coronaviruscare.org" redirect
+local-data: "webdisk.coronaviruscare.org A 0.0.0.0"
+local-zone: "coronavirus.dvrbiologicodinamico.it" redirect
+local-data: "coronavirus.dvrbiologicodinamico.it A 0.0.0.0"
+local-zone: "pandemiccoronavirus.com" redirect
+local-data: "pandemiccoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
