@@ -21246,6 +21246,28 @@ local-zone: "beatcovid-19.app" redirect
 local-data: "beatcovid-19.app A 0.0.0.0"
 local-zone: "covid19.army" redirect
 local-data: "covid19.army A 0.0.0.0"
+local-zone: "covid19kabar.buz.mixh.jp" redirect
+local-data: "covid19kabar.buz.mixh.jp A 0.0.0.0"
+local-zone: "mutasicovid-19.com" redirect
+local-data: "mutasicovid-19.com A 0.0.0.0"
+local-zone: "coronavirus.estetica.it" redirect
+local-data: "coronavirus.estetica.it A 0.0.0.0"
+local-zone: "beatcovid19.in" redirect
+local-data: "beatcovid19.in A 0.0.0.0"
+local-zone: "covid19.int.skillmind.pt" redirect
+local-data: "covid19.int.skillmind.pt A 0.0.0.0"
+local-zone: "covid19.crickfobia.com" redirect
+local-data: "covid19.crickfobia.com A 0.0.0.0"
+local-zone: "sars-cov-2.nihon.link" redirect
+local-data: "sars-cov-2.nihon.link A 0.0.0.0"
+local-zone: "covid19.attentive.ai" redirect
+local-data: "covid19.attentive.ai A 0.0.0.0"
+local-zone: "thelatestcoronavirusnews.com" redirect
+local-data: "thelatestcoronavirusnews.com A 0.0.0.0"
+local-zone: "staging.covid19vis.lingvis.io" redirect
+local-data: "staging.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "covid19argentina.com.ar" redirect
+local-data: "covid19argentina.com.ar A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect

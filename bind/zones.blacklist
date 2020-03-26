@@ -10622,6 +10622,17 @@ zone "covid19india-react-shuklaayush.now.sh" { type master; notify no; file null
 zone "coronavirus-nov.online" { type master; notify no; file null.zone.file; };
 zone "beatcovid-19.app" { type master; notify no; file null.zone.file; };
 zone "covid19.army" { type master; notify no; file null.zone.file; };
+zone "covid19kabar.buz.mixh.jp" { type master; notify no; file null.zone.file; };
+zone "mutasicovid-19.com" { type master; notify no; file null.zone.file; };
+zone "coronavirus.estetica.it" { type master; notify no; file null.zone.file; };
+zone "beatcovid19.in" { type master; notify no; file null.zone.file; };
+zone "covid19.int.skillmind.pt" { type master; notify no; file null.zone.file; };
+zone "covid19.crickfobia.com" { type master; notify no; file null.zone.file; };
+zone "sars-cov-2.nihon.link" { type master; notify no; file null.zone.file; };
+zone "covid19.attentive.ai" { type master; notify no; file null.zone.file; };
+zone "thelatestcoronavirusnews.com" { type master; notify no; file null.zone.file; };
+zone "staging.covid19vis.lingvis.io" { type master; notify no; file null.zone.file; };
+zone "covid19argentina.com.ar" { type master; notify no; file null.zone.file; };
 zone "anticoronavirus.cloud" { type master; notify no; file null.zone.file; };
 zone "anticoronavirustienda.com" { type master; notify no; file null.zone.file; };
 zone "californiacoronaviruslaw.com" { type master; notify no; file null.zone.file; };
