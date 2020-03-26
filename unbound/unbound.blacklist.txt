@@ -20770,6 +20770,36 @@ local-zone: "www.ourcovid19.life" redirect
 local-data: "www.ourcovid19.life A 0.0.0.0"
 local-zone: "covid19supply.net" redirect
 local-data: "covid19supply.net A 0.0.0.0"
+local-zone: "coronavirusoffices.com" redirect
+local-data: "coronavirusoffices.com A 0.0.0.0"
+local-zone: "covid19.santuynesia.com" redirect
+local-data: "covid19.santuynesia.com A 0.0.0.0"
+local-zone: "coronavirussneezeguards.com" redirect
+local-data: "coronavirussneezeguards.com A 0.0.0.0"
+local-zone: "fucoronavirus.net" redirect
+local-data: "fucoronavirus.net A 0.0.0.0"
+local-zone: "ww1.covid19kitz.com" redirect
+local-data: "ww1.covid19kitz.com A 0.0.0.0"
+local-zone: "mascherinecoronavirus.net" redirect
+local-data: "mascherinecoronavirus.net A 0.0.0.0"
+local-zone: "bigdata-covid19.icict.fiocruz.br" redirect
+local-data: "bigdata-covid19.icict.fiocruz.br A 0.0.0.0"
+local-zone: "covid19.iwits.me" redirect
+local-data: "covid19.iwits.me A 0.0.0.0"
+local-zone: "coronavirusni.now.sh" redirect
+local-data: "coronavirusni.now.sh A 0.0.0.0"
+local-zone: "viruscovid-19.net" redirect
+local-data: "viruscovid-19.net A 0.0.0.0"
+local-zone: "covid19warning.net" redirect
+local-data: "covid19warning.net A 0.0.0.0"
+local-zone: "covid19news.com.ng" redirect
+local-data: "covid19news.com.ng A 0.0.0.0"
+local-zone: "n95-coronavirus.com" redirect
+local-data: "n95-coronavirus.com A 0.0.0.0"
+local-zone: "coronaviruskit.nl" redirect
+local-data: "coronaviruskit.nl A 0.0.0.0"
+local-zone: "covid19.truepill.com" redirect
+local-data: "covid19.truepill.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
