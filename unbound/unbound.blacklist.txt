@@ -21156,6 +21156,50 @@ local-zone: "coronavirus.getinvolved.scot" redirect
 local-data: "coronavirus.getinvolved.scot A 0.0.0.0"
 local-zone: "covid-19.scvo.org.uk" redirect
 local-data: "covid-19.scvo.org.uk A 0.0.0.0"
+local-zone: "preprodservicios.coronavirus.gub.uy" redirect
+local-data: "preprodservicios.coronavirus.gub.uy A 0.0.0.0"
+local-zone: "coronavirusregion.ru" redirect
+local-data: "coronavirusregion.ru A 0.0.0.0"
+local-zone: "www.covid19-dataexchange.org" redirect
+local-data: "www.covid19-dataexchange.org A 0.0.0.0"
+local-zone: "spike.covid-19.apps.allenai.org" redirect
+local-data: "spike.covid-19.apps.allenai.org A 0.0.0.0"
+local-zone: "mascarillascoronaviruscovid19.website" redirect
+local-data: "mascarillascoronaviruscovid19.website A 0.0.0.0"
+local-zone: "www.coronavirus-matome.website" redirect
+local-data: "www.coronavirus-matome.website A 0.0.0.0"
+local-zone: "coronavirusinfo.world" redirect
+local-data: "coronavirusinfo.world A 0.0.0.0"
+local-zone: "covid19homeselftest.com" redirect
+local-data: "covid19homeselftest.com A 0.0.0.0"
+local-zone: "covid19layoff.world" redirect
+local-data: "covid19layoff.world A 0.0.0.0"
+local-zone: "apoyopsicologicocovid-19.isfos.com" redirect
+local-data: "apoyopsicologicocovid-19.isfos.com A 0.0.0.0"
+local-zone: "covid-19-dataexchange.com" redirect
+local-data: "covid-19-dataexchange.com A 0.0.0.0"
+local-zone: "covid-19.canningspurple.com.au" redirect
+local-data: "covid-19.canningspurple.com.au A 0.0.0.0"
+local-zone: "covid19-dataexchange.org" redirect
+local-data: "covid19-dataexchange.org A 0.0.0.0"
+local-zone: "50e0d3f2.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "50e0d3f2.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid19-it-regional.lucabruno.net" redirect
+local-data: "covid19-it-regional.lucabruno.net A 0.0.0.0"
+local-zone: "covid19bioclean.com.au" redirect
+local-data: "covid19bioclean.com.au A 0.0.0.0"
+local-zone: "coronavirus.lu" redirect
+local-data: "coronavirus.lu A 0.0.0.0"
+local-zone: "ncov2019.in" redirect
+local-data: "ncov2019.in A 0.0.0.0"
+local-zone: "covid-19-nigay.planethoster.world" redirect
+local-data: "covid-19-nigay.planethoster.world A 0.0.0.0"
+local-zone: "covid19portaal.nl" redirect
+local-data: "covid19portaal.nl A 0.0.0.0"
+local-zone: "admin.covid19petpro.com" redirect
+local-data: "admin.covid19petpro.com A 0.0.0.0"
+local-zone: "covid19.pangandarankab.go.id" redirect
+local-data: "covid19.pangandarankab.go.id A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -22152,6 +22196,10 @@ local-zone: "coronavirus-treatment.co.uk" redirect
 local-data: "coronavirus-treatment.co.uk A 0.0.0.0"
 local-zone: "ringwood-coronavirus.org.uk" redirect
 local-data: "ringwood-coronavirus.org.uk A 0.0.0.0"
+local-zone: "memescovid19.com" redirect
+local-data: "memescovid19.com A 0.0.0.0"
+local-zone: "covid19test.zone" redirect
+local-data: "covid19test.zone A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
