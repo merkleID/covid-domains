@@ -22420,6 +22420,56 @@ local-zone: "kodiakcovid19resources.com" redirect
 local-data: "kodiakcovid19resources.com A 0.0.0.0"
 local-zone: "csrcovid19.org" redirect
 local-data: "csrcovid19.org A 0.0.0.0"
+local-zone: "covid19pangasinan.wearepixelhub.com" redirect
+local-data: "covid19pangasinan.wearepixelhub.com A 0.0.0.0"
+local-zone: "shcovid19.com" redirect
+local-data: "shcovid19.com A 0.0.0.0"
+local-zone: "www.covid-19contacts.com" redirect
+local-data: "www.covid-19contacts.com A 0.0.0.0"
+local-zone: "hmrc-refund-covid-19.com" redirect
+local-data: "hmrc-refund-covid-19.com A 0.0.0.0"
+local-zone: "entraide-covid19.getigne-collectif.fr" redirect
+local-data: "entraide-covid19.getigne-collectif.fr A 0.0.0.0"
+local-zone: "covid19essentia.com" redirect
+local-data: "covid19essentia.com A 0.0.0.0"
+local-zone: "www.covid19essentia.com" redirect
+local-data: "www.covid19essentia.com A 0.0.0.0"
+local-zone: "ezcovid19test.com" redirect
+local-data: "ezcovid19test.com A 0.0.0.0"
+local-zone: "covid19.drk-hannover.de" redirect
+local-data: "covid19.drk-hannover.de A 0.0.0.0"
+local-zone: "covid-19.trinityteam.it" redirect
+local-data: "covid-19.trinityteam.it A 0.0.0.0"
+local-zone: "covid-19.digitalie.dev" redirect
+local-data: "covid-19.digitalie.dev A 0.0.0.0"
+local-zone: "coronavirusmasque.com" redirect
+local-data: "coronavirusmasque.com A 0.0.0.0"
+local-zone: "howtomakeacovid19mask.com" redirect
+local-data: "howtomakeacovid19mask.com A 0.0.0.0"
+local-zone: "www.fightcovid19.co.zw" redirect
+local-data: "www.fightcovid19.co.zw A 0.0.0.0"
+local-zone: "cpcontacts.coronavirus-pandemia.com" redirect
+local-data: "cpcontacts.coronavirus-pandemia.com A 0.0.0.0"
+local-zone: "coronaviruscashnow.com" redirect
+local-data: "coronaviruscashnow.com A 0.0.0.0"
+local-zone: "en.testcovid19.io" redirect
+local-data: "en.testcovid19.io A 0.0.0.0"
+local-zone: "covid19.riddlesgroup.com" redirect
+local-data: "covid19.riddlesgroup.com A 0.0.0.0"
+local-zone: "covid-19.com.ua" redirect
+local-data: "covid-19.com.ua A 0.0.0.0"
+local-zone: "azecovid19.org" redirect
+local-data: "azecovid19.org A 0.0.0.0"
+local-zone: "wecarecovid19.com" redirect
+local-data: "wecarecovid19.com A 0.0.0.0"
+local-zone: "covid19care.pineapplegroup.com" redirect
+local-data: "covid19care.pineapplegroup.com A 0.0.0.0"
+local-zone: "www.covid19-normal.com" redirect
+local-data: "www.covid19-normal.com A 0.0.0.0"
+local-zone: "coronavirusmasque.fr" redirect
+local-data: "coronavirusmasque.fr A 0.0.0.0"
+local-zone: "covid19-normal.com" redirect
+local-data: "covid19-normal.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
