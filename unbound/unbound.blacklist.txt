@@ -22186,6 +22186,42 @@ local-zone: "symptoms-coronavirus.ru" redirect
 local-data: "symptoms-coronavirus.ru A 0.0.0.0"
 local-zone: "covid-19.hackanons.com" redirect
 local-data: "covid-19.hackanons.com A 0.0.0.0"
+local-zone: "www.stopcoronavirusrdc.info" redirect
+local-data: "www.stopcoronavirusrdc.info A 0.0.0.0"
+local-zone: "covid19.sanomatics.com" redirect
+local-data: "covid19.sanomatics.com A 0.0.0.0"
+local-zone: "melcovid19checker.com" redirect
+local-data: "melcovid19checker.com A 0.0.0.0"
+local-zone: "covid19smelltaste.com" redirect
+local-data: "covid19smelltaste.com A 0.0.0.0"
+local-zone: "covid19.fact2know.com" redirect
+local-data: "covid19.fact2know.com A 0.0.0.0"
+local-zone: "howpreventcoronavirus.com" redirect
+local-data: "howpreventcoronavirus.com A 0.0.0.0"
+local-zone: "100-switch-to-environment-vari.api.covid19vis.lingvis.io" redirect
+local-data: "100-switch-to-environment-vari.api.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "covid19.subulussalamkota.go.id" redirect
+local-data: "covid19.subulussalamkota.go.id A 0.0.0.0"
+local-zone: "statistics-covid19.easy-facts.com" redirect
+local-data: "statistics-covid19.easy-facts.com A 0.0.0.0"
+local-zone: "www.coronavirus-clothing.com" redirect
+local-data: "www.coronavirus-clothing.com A 0.0.0.0"
+local-zone: "coronavirusinfo.buzz" redirect
+local-data: "coronavirusinfo.buzz A 0.0.0.0"
+local-zone: "104-remove-labels-of-glyphs-on.api.covid19vis.lingvis.io" redirect
+local-data: "104-remove-labels-of-glyphs-on.api.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "www.covid19centralscotland.co.uk" redirect
+local-data: "www.covid19centralscotland.co.uk A 0.0.0.0"
+local-zone: "104-remove-labels-of-glyphs-on.covid19vis.lingvis.io" redirect
+local-data: "104-remove-labels-of-glyphs-on.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "autodiscover.covid19calc.info" redirect
+local-data: "autodiscover.covid19calc.info A 0.0.0.0"
+local-zone: "27-tooltips-for-aggregated-gly.covid19vis.lingvis.io" redirect
+local-data: "27-tooltips-for-aggregated-gly.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "covid19.stereotheque.com" redirect
+local-data: "covid19.stereotheque.com A 0.0.0.0"
+local-zone: "covid19products.webay.co" redirect
+local-data: "covid19products.webay.co A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
