@@ -22222,6 +22222,40 @@ local-zone: "covid19.stereotheque.com" redirect
 local-data: "covid19.stereotheque.com A 0.0.0.0"
 local-zone: "covid19products.webay.co" redirect
 local-data: "covid19products.webay.co A 0.0.0.0"
+local-zone: "south-korea-covid19.ru" redirect
+local-data: "south-korea-covid19.ru A 0.0.0.0"
+local-zone: "www.coronavirusofficial.it" redirect
+local-data: "www.coronavirusofficial.it A 0.0.0.0"
+local-zone: "www.coronavirusnewsletter.org" redirect
+local-data: "www.coronavirusnewsletter.org A 0.0.0.0"
+local-zone: "iwcovid19.com" redirect
+local-data: "iwcovid19.com A 0.0.0.0"
+local-zone: "nnycovid19.com" redirect
+local-data: "nnycovid19.com A 0.0.0.0"
+local-zone: "coronavirus.niralaeducation.com" redirect
+local-data: "coronavirus.niralaeducation.com A 0.0.0.0"
+local-zone: "businesslosscovid19.com" redirect
+local-data: "businesslosscovid19.com A 0.0.0.0"
+local-zone: "coronavirusactivity.com" redirect
+local-data: "coronavirusactivity.com A 0.0.0.0"
+local-zone: "www.map-covid-19.online" redirect
+local-data: "www.map-covid-19.online A 0.0.0.0"
+local-zone: "covid-19-offerings.bcgdv.io" redirect
+local-data: "covid-19-offerings.bcgdv.io A 0.0.0.0"
+local-zone: "covid-19rapidresponse.com" redirect
+local-data: "covid-19rapidresponse.com A 0.0.0.0"
+local-zone: "www.covid19survey.ford.com" redirect
+local-data: "www.covid19survey.ford.com A 0.0.0.0"
+local-zone: "www.covid19.lartdigital.com" redirect
+local-data: "www.covid19.lartdigital.com A 0.0.0.0"
+local-zone: "coronaviruscongolara.kasaiconnect.com" redirect
+local-data: "coronaviruscongolara.kasaiconnect.com A 0.0.0.0"
+local-zone: "covid-19.txtwire.com" redirect
+local-data: "covid-19.txtwire.com A 0.0.0.0"
+local-zone: "covid19.yorkcontainer.com" redirect
+local-data: "covid19.yorkcontainer.com A 0.0.0.0"
+local-zone: "covid19-uk.com" redirect
+local-data: "covid19-uk.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -23248,6 +23282,10 @@ local-zone: "coronavirussalesandmarketingtaskforce.com" redirect
 local-data: "coronavirussalesandmarketingtaskforce.com A 0.0.0.0"
 local-zone: "covid19fundingsolutions.com" redirect
 local-data: "covid19fundingsolutions.com A 0.0.0.0"
+local-zone: "coronavirusmap.ca" redirect
+local-data: "coronavirusmap.ca A 0.0.0.0"
+local-zone: "covid19forecast.eu" redirect
+local-data: "covid19forecast.eu A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
