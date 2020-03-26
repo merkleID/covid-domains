@@ -21952,6 +21952,72 @@ local-zone: "pen.test.covid-19.forms.digital.nhs.uk" redirect
 local-data: "pen.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
 local-zone: "sacoronavirus.com" redirect
 local-data: "sacoronavirus.com A 0.0.0.0"
+local-zone: "trackingcovid19.ca" redirect
+local-data: "trackingcovid19.ca A 0.0.0.0"
+local-zone: "faqscoronavirus.com" redirect
+local-data: "faqscoronavirus.com A 0.0.0.0"
+local-zone: "sparrowcoronavirus.org" redirect
+local-data: "sparrowcoronavirus.org A 0.0.0.0"
+local-zone: "www.infocovid19.kotamagetan.com" redirect
+local-data: "www.infocovid19.kotamagetan.com A 0.0.0.0"
+local-zone: "kg-1.ds-covid19.res.ibm.com" redirect
+local-data: "kg-1.ds-covid19.res.ibm.com A 0.0.0.0"
+local-zone: "covid19.face-h.be" redirect
+local-data: "covid19.face-h.be A 0.0.0.0"
+local-zone: "coronavirus.magpedia.com" redirect
+local-data: "coronavirus.magpedia.com A 0.0.0.0"
+local-zone: "coronavirus-hotline.de" redirect
+local-data: "coronavirus-hotline.de A 0.0.0.0"
+local-zone: "minhocovid19.com" redirect
+local-data: "minhocovid19.com A 0.0.0.0"
+local-zone: "key-worker-coronavirus-home-testing.service.gov.uk" redirect
+local-data: "key-worker-coronavirus-home-testing.service.gov.uk A 0.0.0.0"
+local-zone: "covid19.cethrofurniture.lk" redirect
+local-data: "covid19.cethrofurniture.lk A 0.0.0.0"
+local-zone: "officialcoronavirustestkit.org" redirect
+local-data: "officialcoronavirustestkit.org A 0.0.0.0"
+local-zone: "covid19-azores.pt" redirect
+local-data: "covid19-azores.pt A 0.0.0.0"
+local-zone: "dev.cms.coronavirusresources.phe.gov.uk" redirect
+local-data: "dev.cms.coronavirusresources.phe.gov.uk A 0.0.0.0"
+local-zone: "officialcovid19testkit.org" redirect
+local-data: "officialcovid19testkit.org A 0.0.0.0"
+local-zone: "simonassocies-covid19.com" redirect
+local-data: "simonassocies-covid19.com A 0.0.0.0"
+local-zone: "prod.cms.coronavirusresources.phe.gov.uk" redirect
+local-data: "prod.cms.coronavirusresources.phe.gov.uk A 0.0.0.0"
+local-zone: "officialcovid19testkit.com" redirect
+local-data: "officialcovid19testkit.com A 0.0.0.0"
+local-zone: "www.officialcovid19testkit.com" redirect
+local-data: "www.officialcovid19testkit.com A 0.0.0.0"
+local-zone: "covid19meters.com" redirect
+local-data: "covid19meters.com A 0.0.0.0"
+local-zone: "key-worker-coronavirus-home-testing.service.gov.uk" redirect
+local-data: "key-worker-coronavirus-home-testing.service.gov.uk A 0.0.0.0"
+local-zone: "coronavirus-nyc-3-20.jiminkim.org" redirect
+local-data: "coronavirus-nyc-3-20.jiminkim.org A 0.0.0.0"
+local-zone: "www.trajescoronavirus.com" redirect
+local-data: "www.trajescoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusproducts.net" redirect
+local-data: "coronavirusproducts.net A 0.0.0.0"
+local-zone: "dev.key-worker-coronavirus-home-testing.service.gov.uk" redirect
+local-data: "dev.key-worker-coronavirus-home-testing.service.gov.uk A 0.0.0.0"
+local-zone: "covid19aid.in" redirect
+local-data: "covid19aid.in A 0.0.0.0"
+local-zone: "covid19quarantineworkout.com" redirect
+local-data: "covid19quarantineworkout.com A 0.0.0.0"
+local-zone: "www.covid19quarantineworkout.com" redirect
+local-data: "www.covid19quarantineworkout.com A 0.0.0.0"
+local-zone: "covid19.arae.fr" redirect
+local-data: "covid19.arae.fr A 0.0.0.0"
+local-zone: "covid19.gunadarma.ac.id" redirect
+local-data: "covid19.gunadarma.ac.id A 0.0.0.0"
+local-zone: "coronavirusonlinetherapy.ca" redirect
+local-data: "coronavirusonlinetherapy.ca A 0.0.0.0"
+local-zone: "officialcoronavirustestkit.org" redirect
+local-data: "officialcoronavirustestkit.org A 0.0.0.0"
+local-zone: "covid19.matimerenterprises.com" redirect
+local-data: "covid19.matimerenterprises.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
