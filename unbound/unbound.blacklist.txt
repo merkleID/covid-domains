@@ -22064,6 +22064,36 @@ local-zone: "blmcovid19.hardover.com" redirect
 local-data: "blmcovid19.hardover.com A 0.0.0.0"
 local-zone: "covid19.harmonhall.com" redirect
 local-data: "covid19.harmonhall.com A 0.0.0.0"
+local-zone: "covid19.aquebec.ca" redirect
+local-data: "covid19.aquebec.ca A 0.0.0.0"
+local-zone: "coronavirus-info.su" redirect
+local-data: "coronavirus-info.su A 0.0.0.0"
+local-zone: "27-tooltips-for-aggregated-glyphs.covid19vis.lingvis.io" redirect
+local-data: "27-tooltips-for-aggregated-glyphs.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "jupyter.covid-19.tacc.cloud" redirect
+local-data: "jupyter.covid-19.tacc.cloud A 0.0.0.0"
+local-zone: "v2.covid19product.com" redirect
+local-data: "v2.covid19product.com A 0.0.0.0"
+local-zone: "www.letsbeatcoronavirus.co.uk" redirect
+local-data: "www.letsbeatcoronavirus.co.uk A 0.0.0.0"
+local-zone: "letsbeatcoronavirus.co.uk" redirect
+local-data: "letsbeatcoronavirus.co.uk A 0.0.0.0"
+local-zone: "information-covid-19.com" redirect
+local-data: "information-covid-19.com A 0.0.0.0"
+local-zone: "infocoronaviruses.com" redirect
+local-data: "infocoronaviruses.com A 0.0.0.0"
+local-zone: "covid19.app.mindfoundry.ai" redirect
+local-data: "covid19.app.mindfoundry.ai A 0.0.0.0"
+local-zone: "covid19.communitydata.science" redirect
+local-data: "covid19.communitydata.science A 0.0.0.0"
+local-zone: "coronaviruslocalresponse.co.uk" redirect
+local-data: "coronaviruslocalresponse.co.uk A 0.0.0.0"
+local-zone: "www.covid-19-symptoms.co.uk" redirect
+local-data: "www.covid-19-symptoms.co.uk A 0.0.0.0"
+local-zone: "lifehopecovid19test.provider.mediportal.com" redirect
+local-data: "lifehopecovid19test.provider.mediportal.com A 0.0.0.0"
+local-zone: "covid19mx.pregat.com" redirect
+local-data: "covid19mx.pregat.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
