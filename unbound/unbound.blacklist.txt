@@ -20898,6 +20898,50 @@ local-zone: "coronavirusvaccin.be" redirect
 local-data: "coronavirusvaccin.be A 0.0.0.0"
 local-zone: "covid19allhandsondeck.com" redirect
 local-data: "covid19allhandsondeck.com A 0.0.0.0"
+local-zone: "www.resources.coronavirusfacts.org" redirect
+local-data: "www.resources.coronavirusfacts.org A 0.0.0.0"
+local-zone: "covid19.converseon.com" redirect
+local-data: "covid19.converseon.com A 0.0.0.0"
+local-zone: "covid19essentialservices.com" redirect
+local-data: "covid19essentialservices.com A 0.0.0.0"
+local-zone: "webdisk.mcovid19.com" redirect
+local-data: "webdisk.mcovid19.com A 0.0.0.0"
+local-zone: "www.newcoronavirus.ru" redirect
+local-data: "www.newcoronavirus.ru A 0.0.0.0"
+local-zone: "covid19.gov.ki" redirect
+local-data: "covid19.gov.ki A 0.0.0.0"
+local-zone: "aggiornadecretocovid19.online" redirect
+local-data: "aggiornadecretocovid19.online A 0.0.0.0"
+local-zone: "coronavirus1.coronavirus1.es" redirect
+local-data: "coronavirus1.coronavirus1.es A 0.0.0.0"
+local-zone: "abogadocovid19.cl" redirect
+local-data: "abogadocovid19.cl A 0.0.0.0"
+local-zone: "www.covid-19.monster" redirect
+local-data: "www.covid-19.monster A 0.0.0.0"
+local-zone: "coronavirusimmunitygame.com" redirect
+local-data: "coronavirusimmunitygame.com A 0.0.0.0"
+local-zone: "coronavirusuefa.com" redirect
+local-data: "coronavirusuefa.com A 0.0.0.0"
+local-zone: "coronavirus.mlsi.gov.cy" redirect
+local-data: "coronavirus.mlsi.gov.cy A 0.0.0.0"
+local-zone: "covid19.farlopa.gratis" redirect
+local-data: "covid19.farlopa.gratis A 0.0.0.0"
+local-zone: "covid19noticias.site" redirect
+local-data: "covid19noticias.site A 0.0.0.0"
+local-zone: "covid19exposure.site" redirect
+local-data: "covid19exposure.site A 0.0.0.0"
+local-zone: "covid19-scenarios.org" redirect
+local-data: "covid19-scenarios.org A 0.0.0.0"
+local-zone: "covid19herbs.org" redirect
+local-data: "covid19herbs.org A 0.0.0.0"
+local-zone: "tengocoronavirus.site" redirect
+local-data: "tengocoronavirus.site A 0.0.0.0"
+local-zone: "testercovid19.simply.site" redirect
+local-data: "testercovid19.simply.site A 0.0.0.0"
+local-zone: "covid19stats.global" redirect
+local-data: "covid19stats.global A 0.0.0.0"
+local-zone: "covid19pandemic.solutions" redirect
+local-data: "covid19pandemic.solutions A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21868,6 +21912,8 @@ local-zone: "covid19taxclaim.com" redirect
 local-data: "covid19taxclaim.com A 0.0.0.0"
 local-zone: "covid19taxreward.com" redirect
 local-data: "covid19taxreward.com A 0.0.0.0"
+local-zone: "covid19fundingsolutions.com" redirect
+local-data: "covid19fundingsolutions.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
