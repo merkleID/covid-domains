@@ -21110,6 +21110,24 @@ local-zone: "covid19mx.gubzi.work" redirect
 local-data: "covid19mx.gubzi.work A 0.0.0.0"
 local-zone: "coronavirusaware.xyz" redirect
 local-data: "coronavirusaware.xyz A 0.0.0.0"
+local-zone: "coronavirusmaptracker.com" redirect
+local-data: "coronavirusmaptracker.com A 0.0.0.0"
+local-zone: "oklacovid19.com" redirect
+local-data: "oklacovid19.com A 0.0.0.0"
+local-zone: "cpanel.coronavirusparent.com" redirect
+local-data: "cpanel.coronavirusparent.com A 0.0.0.0"
+local-zone: "www.enpremierelignecovid19.com" redirect
+local-data: "www.enpremierelignecovid19.com A 0.0.0.0"
+local-zone: "www.coronavirusup.date" redirect
+local-data: "www.coronavirusup.date A 0.0.0.0"
+local-zone: "coronavirusup.date" redirect
+local-data: "coronavirusup.date A 0.0.0.0"
+local-zone: "covid19-guidelines.online" redirect
+local-data: "covid19-guidelines.online A 0.0.0.0"
+local-zone: "autotestcovid19.org" redirect
+local-data: "autotestcovid19.org A 0.0.0.0"
+local-zone: "mapcovid19.org" redirect
+local-data: "mapcovid19.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -22098,6 +22116,8 @@ local-zone: "covid19clinics.com.au" redirect
 local-data: "covid19clinics.com.au A 0.0.0.0"
 local-zone: "coronavirusclinics.com.au" redirect
 local-data: "coronavirusclinics.com.au A 0.0.0.0"
+local-zone: "mascherinacovid-19.it" redirect
+local-data: "mascherinacovid-19.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
