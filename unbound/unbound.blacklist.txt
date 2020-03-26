@@ -21002,6 +21002,36 @@ local-zone: "covid19-honesty.com" redirect
 local-data: "covid19-honesty.com A 0.0.0.0"
 local-zone: "www.mghcovid19.ca" redirect
 local-data: "www.mghcovid19.ca A 0.0.0.0"
+local-zone: "covid19.trakntell.com" redirect
+local-data: "covid19.trakntell.com A 0.0.0.0"
+local-zone: "www.shopcoronavirus.co.uk" redirect
+local-data: "www.shopcoronavirus.co.uk A 0.0.0.0"
+local-zone: "coronavirusinfocom.ddns.net" redirect
+local-data: "coronavirusinfocom.ddns.net A 0.0.0.0"
+local-zone: "www.covid19.gob.sv" redirect
+local-data: "www.covid19.gob.sv A 0.0.0.0"
+local-zone: "chekup-covid-19.hibridajaya.desa.id" redirect
+local-data: "chekup-covid-19.hibridajaya.desa.id A 0.0.0.0"
+local-zone: "coronaviruslearning.net" redirect
+local-data: "coronaviruslearning.net A 0.0.0.0"
+local-zone: "covid-19.heigit.org" redirect
+local-data: "covid-19.heigit.org A 0.0.0.0"
+local-zone: "coronavirus-vulnerable-people.service.gov.uk" redirect
+local-data: "coronavirus-vulnerable-people.service.gov.uk A 0.0.0.0"
+local-zone: "covid19-the-truth.com" redirect
+local-data: "covid19-the-truth.com A 0.0.0.0"
+local-zone: "covid-19.pkoh-ac.com" redirect
+local-data: "covid-19.pkoh-ac.com A 0.0.0.0"
+local-zone: "firstcovid19.com" redirect
+local-data: "firstcovid19.com A 0.0.0.0"
+local-zone: "www.firstcovid19.com" redirect
+local-data: "www.firstcovid19.com A 0.0.0.0"
+local-zone: "offmls-covid19.org" redirect
+local-data: "offmls-covid19.org A 0.0.0.0"
+local-zone: "phlcovid-19fund.org" redirect
+local-data: "phlcovid-19fund.org A 0.0.0.0"
+local-zone: "phencovid19.org" redirect
+local-data: "phencovid19.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
