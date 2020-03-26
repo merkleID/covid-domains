@@ -20800,6 +20800,30 @@ local-zone: "coronaviruskit.nl" redirect
 local-data: "coronaviruskit.nl A 0.0.0.0"
 local-zone: "covid19.truepill.com" redirect
 local-data: "covid19.truepill.com A 0.0.0.0"
+local-zone: "covid-19-kaart.nl" redirect
+local-data: "covid-19-kaart.nl A 0.0.0.0"
+local-zone: "plataformavictimascovid19.com" redirect
+local-data: "plataformavictimascovid19.com A 0.0.0.0"
+local-zone: "helpcovid19.lu" redirect
+local-data: "helpcovid19.lu A 0.0.0.0"
+local-zone: "n95forcoronavirus.com" redirect
+local-data: "n95forcoronavirus.com A 0.0.0.0"
+local-zone: "covid19calc.me" redirect
+local-data: "covid19calc.me A 0.0.0.0"
+local-zone: "covid-19.dsi.ic.ac.uk" redirect
+local-data: "covid-19.dsi.ic.ac.uk A 0.0.0.0"
+local-zone: "coronavirus.novanoidgaming.com" redirect
+local-data: "coronavirus.novanoidgaming.com A 0.0.0.0"
+local-zone: "covid19.speakapp.mk" redirect
+local-data: "covid19.speakapp.mk A 0.0.0.0"
+local-zone: "coronaviruskalendar.de" redirect
+local-data: "coronaviruskalendar.de A 0.0.0.0"
+local-zone: "covid19help.nyc" redirect
+local-data: "covid19help.nyc A 0.0.0.0"
+local-zone: "covid19help.2rk.co" redirect
+local-data: "covid19help.2rk.co A 0.0.0.0"
+local-zone: "covid-19symptoms.co.za" redirect
+local-data: "covid-19symptoms.co.za A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
