@@ -22134,6 +22134,58 @@ local-zone: "coronavirus-cases-india-live-update.kolkataffresult.com" redirect
 local-data: "coronavirus-cases-india-live-update.kolkataffresult.com A 0.0.0.0"
 local-zone: "covid19-af.starschema.com" redirect
 local-data: "covid19-af.starschema.com A 0.0.0.0"
+local-zone: "media.coronaviruset.com" redirect
+local-data: "media.coronaviruset.com A 0.0.0.0"
+local-zone: "kutcovid-19.com" redirect
+local-data: "kutcovid-19.com A 0.0.0.0"
+local-zone: "covid19.polsa.ac.id" redirect
+local-data: "covid19.polsa.ac.id A 0.0.0.0"
+local-zone: "italy-covid19.ru" redirect
+local-data: "italy-covid19.ru A 0.0.0.0"
+local-zone: "covid19-spain.ru" redirect
+local-data: "covid19-spain.ru A 0.0.0.0"
+local-zone: "covid19-china.ru" redirect
+local-data: "covid19-china.ru A 0.0.0.0"
+local-zone: "covid19.refli.host" redirect
+local-data: "covid19.refli.host A 0.0.0.0"
+local-zone: "covid19-south-korea.ru" redirect
+local-data: "covid19-south-korea.ru A 0.0.0.0"
+local-zone: "www.coronaviruset.com" redirect
+local-data: "www.coronaviruset.com A 0.0.0.0"
+local-zone: "114-url-are-too-long-for-letse.covid19vis.lingvis.io" redirect
+local-data: "114-url-are-too-long-for-letse.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "russia-covid19.ru" redirect
+local-data: "russia-covid19.ru A 0.0.0.0"
+local-zone: "coronavirus-cases-india-live-update.kolkataffresult.com" redirect
+local-data: "coronavirus-cases-india-live-update.kolkataffresult.com A 0.0.0.0"
+local-zone: "sincoronavirus.com.mx" redirect
+local-data: "sincoronavirus.com.mx A 0.0.0.0"
+local-zone: "115-use-pigz-for-tile-server-dockerization.covid19vis.lingvis.io" redirect
+local-data: "115-use-pigz-for-tile-server-dockerization.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "coronavirus.sematics.com" redirect
+local-data: "coronavirus.sematics.com A 0.0.0.0"
+local-zone: "covid19.vorgroup.com.my" redirect
+local-data: "covid19.vorgroup.com.my A 0.0.0.0"
+local-zone: "coronavirustest.services" redirect
+local-data: "coronavirustest.services A 0.0.0.0"
+local-zone: "covid19.inverence.com" redirect
+local-data: "covid19.inverence.com A 0.0.0.0"
+local-zone: "coronavirus.podemosburlada.info" redirect
+local-data: "coronavirus.podemosburlada.info A 0.0.0.0"
+local-zone: "coronavirus-thearcofva.org" redirect
+local-data: "coronavirus-thearcofva.org A 0.0.0.0"
+local-zone: "103-add-contributors-imprint-b.api.covid19vis.lingvis.io" redirect
+local-data: "103-add-contributors-imprint-b.api.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "covid19.crttf.org" redirect
+local-data: "covid19.crttf.org A 0.0.0.0"
+local-zone: "103-add-contributors-imprint-b.covid19vis.lingvis.io" redirect
+local-data: "103-add-contributors-imprint-b.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "covid19.sanomatics.com" redirect
+local-data: "covid19.sanomatics.com A 0.0.0.0"
+local-zone: "symptoms-coronavirus.ru" redirect
+local-data: "symptoms-coronavirus.ru A 0.0.0.0"
+local-zone: "covid-19.hackanons.com" redirect
+local-data: "covid-19.hackanons.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
