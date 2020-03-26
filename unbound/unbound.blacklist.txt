@@ -21500,6 +21500,44 @@ local-zone: "covid19.banggaikep.go.id" redirect
 local-data: "covid19.banggaikep.go.id A 0.0.0.0"
 local-zone: "www.covid19cancerresources.com" redirect
 local-data: "www.covid19cancerresources.com A 0.0.0.0"
+local-zone: "dev.downloads.coronavirusresources.phe.gov.uk" redirect
+local-data: "dev.downloads.coronavirusresources.phe.gov.uk A 0.0.0.0"
+local-zone: "100-fancify-pipeline.covid19vis.lingvis.io" redirect
+local-data: "100-fancify-pipeline.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "whatiscoronavirus.bbdiseno.com" redirect
+local-data: "whatiscoronavirus.bbdiseno.com A 0.0.0.0"
+local-zone: "stopcoronavirus.tg" redirect
+local-data: "stopcoronavirus.tg A 0.0.0.0"
+local-zone: "imcoronavirus.com" redirect
+local-data: "imcoronavirus.com A 0.0.0.0"
+local-zone: "ccpcoronavirus.covid19businessrelief.org" redirect
+local-data: "ccpcoronavirus.covid19businessrelief.org A 0.0.0.0"
+local-zone: "caxiascontracovid19.com.br" redirect
+local-data: "caxiascontracovid19.com.br A 0.0.0.0"
+local-zone: "web-analytics.api.covid19vis.lingvis.io" redirect
+local-data: "web-analytics.api.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "info.bizcovid19.com" redirect
+local-data: "info.bizcovid19.com A 0.0.0.0"
+local-zone: "covid19.bi-geek.com" redirect
+local-data: "covid19.bi-geek.com A 0.0.0.0"
+local-zone: "ukcoronaviruscancermonitoring.bham.ac.uk" redirect
+local-data: "ukcoronaviruscancermonitoring.bham.ac.uk A 0.0.0.0"
+local-zone: "despedidosporelcoronavirus.com" redirect
+local-data: "despedidosporelcoronavirus.com A 0.0.0.0"
+local-zone: "craemrcovid19.com" redirect
+local-data: "craemrcovid19.com A 0.0.0.0"
+local-zone: "covid-19-symptoms.co.uk" redirect
+local-data: "covid-19-symptoms.co.uk A 0.0.0.0"
+local-zone: "actioncovid19.simoneausterling.com" redirect
+local-data: "actioncovid19.simoneausterling.com A 0.0.0.0"
+local-zone: "covid19mali.com" redirect
+local-data: "covid19mali.com A 0.0.0.0"
+local-zone: "covid19.sysqube.com" redirect
+local-data: "covid19.sysqube.com A 0.0.0.0"
+local-zone: "108-set-default-api-url-to-staging.api.covid19vis.lingvis.io" redirect
+local-data: "108-set-default-api-url-to-staging.api.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "stop-coronavirus.com" redirect
+local-data: "stop-coronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -22508,6 +22546,8 @@ local-zone: "indiafightscovid19.org" redirect
 local-data: "indiafightscovid19.org A 0.0.0.0"
 local-zone: "covid19-news24.com" redirect
 local-data: "covid19-news24.com A 0.0.0.0"
+local-zone: "becoronavirus.com" redirect
+local-data: "becoronavirus.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
