@@ -20824,6 +20824,38 @@ local-zone: "covid19help.2rk.co" redirect
 local-data: "covid19help.2rk.co A 0.0.0.0"
 local-zone: "covid-19symptoms.co.za" redirect
 local-data: "covid-19symptoms.co.za A 0.0.0.0"
+local-zone: "www.newchinaflushing.com" redirect
+local-data: "www.newchinaflushing.com A 0.0.0.0"
+local-zone: "www.airambulance-covid19.info" redirect
+local-data: "www.airambulance-covid19.info A 0.0.0.0"
+local-zone: "covid19lk.info" redirect
+local-data: "covid19lk.info A 0.0.0.0"
+local-zone: "www.covid19lk.info" redirect
+local-data: "www.covid19lk.info A 0.0.0.0"
+local-zone: "fightcovid-19.info" redirect
+local-data: "fightcovid-19.info A 0.0.0.0"
+local-zone: "covid19selftest.org" redirect
+local-data: "covid19selftest.org A 0.0.0.0"
+local-zone: "coronavirusmexico.org.mx" redirect
+local-data: "coronavirusmexico.org.mx A 0.0.0.0"
+local-zone: "covid-19tipjar.com" redirect
+local-data: "covid-19tipjar.com A 0.0.0.0"
+local-zone: "www.ecuadorcoronavirus.org" redirect
+local-data: "www.ecuadorcoronavirus.org A 0.0.0.0"
+local-zone: "epcovid19.org" redirect
+local-data: "epcovid19.org A 0.0.0.0"
+local-zone: "covid19.platodata.io" redirect
+local-data: "covid19.platodata.io A 0.0.0.0"
+local-zone: "covid-19.warocol.com" redirect
+local-data: "covid-19.warocol.com A 0.0.0.0"
+local-zone: "www.covid19.warocol.com" redirect
+local-data: "www.covid19.warocol.com A 0.0.0.0"
+local-zone: "nyscovid19challenge.org" redirect
+local-data: "nyscovid19challenge.org A 0.0.0.0"
+local-zone: "covid19.tokowebpedia.com" redirect
+local-data: "covid19.tokowebpedia.com A 0.0.0.0"
+local-zone: "spcontraocoronavirus.org" redirect
+local-data: "spcontraocoronavirus.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21788,6 +21820,8 @@ local-zone: "covid19off.com" redirect
 local-data: "covid19off.com A 0.0.0.0"
 local-zone: "willicatchcoronavirus.com" redirect
 local-data: "willicatchcoronavirus.com A 0.0.0.0"
+local-zone: "covid19-aomori.info" redirect
+local-data: "covid19-aomori.info A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
