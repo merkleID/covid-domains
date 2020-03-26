@@ -22256,6 +22256,46 @@ local-zone: "covid19.yorkcontainer.com" redirect
 local-data: "covid19.yorkcontainer.com A 0.0.0.0"
 local-zone: "covid19-uk.com" redirect
 local-data: "covid19-uk.com A 0.0.0.0"
+local-zone: "covid19.sanomatics.com" redirect
+local-data: "covid19.sanomatics.com A 0.0.0.0"
+local-zone: "map.covid19homehealth.com" redirect
+local-data: "map.covid19homehealth.com A 0.0.0.0"
+local-zone: "tieneelcovid19yamasmuertosqueelcomunismo.es" redirect
+local-data: "tieneelcovid19yamasmuertosqueelcomunismo.es A 0.0.0.0"
+local-zone: "covid19financialassistance.com" redirect
+local-data: "covid19financialassistance.com A 0.0.0.0"
+local-zone: "thermalcovid19.com" redirect
+local-data: "thermalcovid19.com A 0.0.0.0"
+local-zone: "covid19.marlon.store" redirect
+local-data: "covid19.marlon.store A 0.0.0.0"
+local-zone: "coronaviruscon.com" redirect
+local-data: "coronaviruscon.com A 0.0.0.0"
+local-zone: "covid-19.webtarget.com.ua" redirect
+local-data: "covid-19.webtarget.com.ua A 0.0.0.0"
+local-zone: "stopcovid19-stage.worx-uk.com" redirect
+local-data: "stopcovid19-stage.worx-uk.com A 0.0.0.0"
+local-zone: "www.covid19pins.com" redirect
+local-data: "www.covid19pins.com A 0.0.0.0"
+local-zone: "covid19pins.com" redirect
+local-data: "covid19pins.com A 0.0.0.0"
+local-zone: "fkcovid19.org" redirect
+local-data: "fkcovid19.org A 0.0.0.0"
+local-zone: "protectioncovid-19.com" redirect
+local-data: "protectioncovid-19.com A 0.0.0.0"
+local-zone: "covid19swag.com" redirect
+local-data: "covid19swag.com A 0.0.0.0"
+local-zone: "www.noticias.del-coronavirus.com" redirect
+local-data: "www.noticias.del-coronavirus.com A 0.0.0.0"
+local-zone: "covid-19chat.online" redirect
+local-data: "covid-19chat.online A 0.0.0.0"
+local-zone: "stopcovid19.worx-uk.com" redirect
+local-data: "stopcovid19.worx-uk.com A 0.0.0.0"
+local-zone: "coronaviruscareforall.com" redirect
+local-data: "coronaviruscareforall.com A 0.0.0.0"
+local-zone: "covid19.woodlandhillscc.net" redirect
+local-data: "covid19.woodlandhillscc.net A 0.0.0.0"
+local-zone: "covid19peru.macalupu.com" redirect
+local-data: "covid19peru.macalupu.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -23286,6 +23326,8 @@ local-zone: "coronavirusmap.ca" redirect
 local-data: "coronavirusmap.ca A 0.0.0.0"
 local-zone: "covid19forecast.eu" redirect
 local-data: "covid19forecast.eu A 0.0.0.0"
+local-zone: "covid19clinics.com.au" redirect
+local-data: "covid19clinics.com.au A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
