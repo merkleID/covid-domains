@@ -21080,6 +21080,36 @@ local-zone: "covid-19selftest.co.uk" redirect
 local-data: "covid-19selftest.co.uk A 0.0.0.0"
 local-zone: "coronavirus-pandemic.co.uk" redirect
 local-data: "coronavirus-pandemic.co.uk A 0.0.0.0"
+local-zone: "fightcovid19.shop" redirect
+local-data: "fightcovid19.shop A 0.0.0.0"
+local-zone: "covid-19.adithyanak.repl.run" redirect
+local-data: "covid-19.adithyanak.repl.run A 0.0.0.0"
+local-zone: "covid19.malili-tekno.com" redirect
+local-data: "covid19.malili-tekno.com A 0.0.0.0"
+local-zone: "coronaviruslive.yamisr.com" redirect
+local-data: "coronaviruslive.yamisr.com A 0.0.0.0"
+local-zone: "coronavirus.yamisr.com" redirect
+local-data: "coronavirus.yamisr.com A 0.0.0.0"
+local-zone: "covid19.gov.lv" redirect
+local-data: "covid19.gov.lv A 0.0.0.0"
+local-zone: "coronavirus.popularposting.com" redirect
+local-data: "coronavirus.popularposting.com A 0.0.0.0"
+local-zone: "covid19.eitharqatif.com" redirect
+local-data: "covid19.eitharqatif.com A 0.0.0.0"
+local-zone: "covid19.dasd.us" redirect
+local-data: "covid19.dasd.us A 0.0.0.0"
+local-zone: "covid19nwi.org" redirect
+local-data: "covid19nwi.org A 0.0.0.0"
+local-zone: "coronavirus-token.org" redirect
+local-data: "coronavirus-token.org A 0.0.0.0"
+local-zone: "curecovid-19.org" redirect
+local-data: "curecovid-19.org A 0.0.0.0"
+local-zone: "edit.covid19timecapsule.com" redirect
+local-data: "edit.covid19timecapsule.com A 0.0.0.0"
+local-zone: "covid19mx.gubzi.work" redirect
+local-data: "covid19mx.gubzi.work A 0.0.0.0"
+local-zone: "coronavirusaware.xyz" redirect
+local-data: "coronavirusaware.xyz A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
