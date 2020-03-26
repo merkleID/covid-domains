@@ -22018,6 +22018,52 @@ local-zone: "officialcoronavirustestkit.org" redirect
 local-data: "officialcoronavirustestkit.org A 0.0.0.0"
 local-zone: "covid19.matimerenterprises.com" redirect
 local-data: "covid19.matimerenterprises.com A 0.0.0.0"
+local-zone: "coronavirus-hotline.de" redirect
+local-data: "coronavirus-hotline.de A 0.0.0.0"
+local-zone: "key-worker-coronavirus-home-testing.service.gov.uk" redirect
+local-data: "key-worker-coronavirus-home-testing.service.gov.uk A 0.0.0.0"
+local-zone: "coronavirusproducts.net" redirect
+local-data: "coronavirusproducts.net A 0.0.0.0"
+local-zone: "covid-19.service.innovationtechja.com" redirect
+local-data: "covid-19.service.innovationtechja.com A 0.0.0.0"
+local-zone: "allaboutcovid19.info" redirect
+local-data: "allaboutcovid19.info A 0.0.0.0"
+local-zone: "covid19quarantineworkout.com" redirect
+local-data: "covid19quarantineworkout.com A 0.0.0.0"
+local-zone: "www.gesund-trotz-coronavirus.de" redirect
+local-data: "www.gesund-trotz-coronavirus.de A 0.0.0.0"
+local-zone: "officialcovid19testkit.org" redirect
+local-data: "officialcovid19testkit.org A 0.0.0.0"
+local-zone: "corona-covid19-hilfe.de" redirect
+local-data: "corona-covid19-hilfe.de A 0.0.0.0"
+local-zone: "covid19news.ca" redirect
+local-data: "covid19news.ca A 0.0.0.0"
+local-zone: "viruscovid19.es" redirect
+local-data: "viruscovid19.es A 0.0.0.0"
+local-zone: "covid19.drk-hannover.de" redirect
+local-data: "covid19.drk-hannover.de A 0.0.0.0"
+local-zone: "covid19heroes.live" redirect
+local-data: "covid19heroes.live A 0.0.0.0"
+local-zone: "www.chinavirus.xyz" redirect
+local-data: "www.chinavirus.xyz A 0.0.0.0"
+local-zone: "www.covid19.alkarizma.com" redirect
+local-data: "www.covid19.alkarizma.com A 0.0.0.0"
+local-zone: "covid-19.terraformcorp.com" redirect
+local-data: "covid-19.terraformcorp.com A 0.0.0.0"
+local-zone: "coronavirus-covid19.it" redirect
+local-data: "coronavirus-covid19.it A 0.0.0.0"
+local-zone: "canarias.covid19.dance" redirect
+local-data: "canarias.covid19.dance A 0.0.0.0"
+local-zone: "covid19.cpd-mali.com" redirect
+local-data: "covid19.cpd-mali.com A 0.0.0.0"
+local-zone: "covid-19.hackanons.com" redirect
+local-data: "covid-19.hackanons.com A 0.0.0.0"
+local-zone: "handsoapforcoronavirus.com" redirect
+local-data: "handsoapforcoronavirus.com A 0.0.0.0"
+local-zone: "blmcovid19.hardover.com" redirect
+local-data: "blmcovid19.hardover.com A 0.0.0.0"
+local-zone: "covid19.harmonhall.com" redirect
+local-data: "covid19.harmonhall.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -23040,6 +23086,8 @@ local-zone: "desinfection-coronavirus.org" redirect
 local-data: "desinfection-coronavirus.org A 0.0.0.0"
 local-zone: "designersagainstcoronavirus.com" redirect
 local-data: "designersagainstcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirussalesandmarketingtaskforce.com" redirect
+local-data: "coronavirussalesandmarketingtaskforce.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
