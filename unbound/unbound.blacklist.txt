@@ -20962,6 +20962,46 @@ local-zone: "coronavirusmonster.com" redirect
 local-data: "coronavirusmonster.com A 0.0.0.0"
 local-zone: "www.covid19.warocol.com" redirect
 local-data: "www.covid19.warocol.com A 0.0.0.0"
+local-zone: "covid-19.prime-pedia.com" redirect
+local-data: "covid-19.prime-pedia.com A 0.0.0.0"
+local-zone: "covid19.groundbreaking-ict.nl" redirect
+local-data: "covid19.groundbreaking-ict.nl A 0.0.0.0"
+local-zone: "coronavirusworldmap.com" redirect
+local-data: "coronavirusworldmap.com A 0.0.0.0"
+local-zone: "msmcovid19.com" redirect
+local-data: "msmcovid19.com A 0.0.0.0"
+local-zone: "covid-19.managednet.com" redirect
+local-data: "covid-19.managednet.com A 0.0.0.0"
+local-zone: "www.coronavirushelpmemphis.org" redirect
+local-data: "www.coronavirushelpmemphis.org A 0.0.0.0"
+local-zone: "covid-19.liveinfotime.com" redirect
+local-data: "covid-19.liveinfotime.com A 0.0.0.0"
+local-zone: "coronavirusshitisreal.com" redirect
+local-data: "coronavirusshitisreal.com A 0.0.0.0"
+local-zone: "www.stopcoronavirus.com.ua" redirect
+local-data: "www.stopcoronavirus.com.ua A 0.0.0.0"
+local-zone: "covid19.tajam.news" redirect
+local-data: "covid19.tajam.news A 0.0.0.0"
+local-zone: "mghcovid19.ca" redirect
+local-data: "mghcovid19.ca A 0.0.0.0"
+local-zone: "coronavirusbusinessinterruptionloanscheme.co.uk" redirect
+local-data: "coronavirusbusinessinterruptionloanscheme.co.uk A 0.0.0.0"
+local-zone: "coronavirusmyths.co.uk" redirect
+local-data: "coronavirusmyths.co.uk A 0.0.0.0"
+local-zone: "coronavirusgroup.co.uk" redirect
+local-data: "coronavirusgroup.co.uk A 0.0.0.0"
+local-zone: "coronavirus.developerswork.online" redirect
+local-data: "coronavirus.developerswork.online A 0.0.0.0"
+local-zone: "covid19taxes.online" redirect
+local-data: "covid19taxes.online A 0.0.0.0"
+local-zone: "coronavirus-russia.online" redirect
+local-data: "coronavirus-russia.online A 0.0.0.0"
+local-zone: "coronavirusro.online" redirect
+local-data: "coronavirusro.online A 0.0.0.0"
+local-zone: "covid19-honesty.com" redirect
+local-data: "covid19-honesty.com A 0.0.0.0"
+local-zone: "www.mghcovid19.ca" redirect
+local-data: "www.mghcovid19.ca A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21938,6 +21978,10 @@ local-zone: "covid-19-teststation.de" redirect
 local-data: "covid-19-teststation.de A 0.0.0.0"
 local-zone: "us-covid19-per-capita.net" redirect
 local-data: "us-covid19-per-capita.net A 0.0.0.0"
+local-zone: "coronavirusclinics.com.au" redirect
+local-data: "coronavirusclinics.com.au A 0.0.0.0"
+local-zone: "coronavirus-voorkomen.nl" redirect
+local-data: "coronavirus-voorkomen.nl A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
