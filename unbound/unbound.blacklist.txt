@@ -22500,6 +22500,54 @@ local-zone: "coronaviruscovid19.thebermanlawgroup.com" redirect
 local-data: "coronaviruscovid19.thebermanlawgroup.com A 0.0.0.0"
 local-zone: "thecovid19toolkit.com" redirect
 local-data: "thecovid19toolkit.com A 0.0.0.0"
+local-zone: "pruebascovid19.mx" redirect
+local-data: "pruebascovid19.mx A 0.0.0.0"
+local-zone: "covid19kit.altervista.org" redirect
+local-data: "covid19kit.altervista.org A 0.0.0.0"
+local-zone: "smallbusinesscoronavirushelp.com" redirect
+local-data: "smallbusinesscoronavirushelp.com A 0.0.0.0"
+local-zone: "pl.covid19.dance" redirect
+local-data: "pl.covid19.dance A 0.0.0.0"
+local-zone: "coronavirusuk.com" redirect
+local-data: "coronavirusuk.com A 0.0.0.0"
+local-zone: "oer4covid19.oeru.org" redirect
+local-data: "oer4covid19.oeru.org A 0.0.0.0"
+local-zone: "movimentoscontracovid19.com" redirect
+local-data: "movimentoscontracovid19.com A 0.0.0.0"
+local-zone: "www.covid-19contacts.com" redirect
+local-data: "www.covid-19contacts.com A 0.0.0.0"
+local-zone: "solveforcovid19.com" redirect
+local-data: "solveforcovid19.com A 0.0.0.0"
+local-zone: "movimentoscontracovid19.com" redirect
+local-data: "movimentoscontracovid19.com A 0.0.0.0"
+local-zone: "www.coronavirusexplained.ca" redirect
+local-data: "www.coronavirusexplained.ca A 0.0.0.0"
+local-zone: "www.wascoshermangilliamcovid-19.com" redirect
+local-data: "www.wascoshermangilliamcovid-19.com A 0.0.0.0"
+local-zone: "wascoshermangilliamcovid-19.com" redirect
+local-data: "wascoshermangilliamcovid-19.com A 0.0.0.0"
+local-zone: "mail.tricitiescoronavirusinfo.com" redirect
+local-data: "mail.tricitiescoronavirusinfo.com A 0.0.0.0"
+local-zone: "moncov19.fr" redirect
+local-data: "moncov19.fr A 0.0.0.0"
+local-zone: "trucovid19.com" redirect
+local-data: "trucovid19.com A 0.0.0.0"
+local-zone: "www.solveforcovid19.com" redirect
+local-data: "www.solveforcovid19.com A 0.0.0.0"
+local-zone: "covid-19experience.com" redirect
+local-data: "covid-19experience.com A 0.0.0.0"
+local-zone: "yotuvecoronavirus.info" redirect
+local-data: "yotuvecoronavirus.info A 0.0.0.0"
+local-zone: "covid-19nettoyage.com" redirect
+local-data: "covid-19nettoyage.com A 0.0.0.0"
+local-zone: "coronavirusexplained.ca" redirect
+local-data: "coronavirusexplained.ca A 0.0.0.0"
+local-zone: "coronavirusvaccine.com" redirect
+local-data: "coronavirusvaccine.com A 0.0.0.0"
+local-zone: "www.coronavirusvaccine.com" redirect
+local-data: "www.coronavirusvaccine.com A 0.0.0.0"
+local-zone: "wuhancoronavirusvaccine.com" redirect
+local-data: "wuhancoronavirusvaccine.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -23540,6 +23588,8 @@ local-zone: "update-covid19.com" redirect
 local-data: "update-covid19.com A 0.0.0.0"
 local-zone: "covid19.gob.sv" redirect
 local-data: "covid19.gob.sv A 0.0.0.0"
+local-zone: "covid19-register4assessment.com" redirect
+local-data: "covid19-register4assessment.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
