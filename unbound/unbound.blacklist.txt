@@ -22470,6 +22470,36 @@ local-zone: "coronavirusmasque.fr" redirect
 local-data: "coronavirusmasque.fr A 0.0.0.0"
 local-zone: "covid19-normal.com" redirect
 local-data: "covid19-normal.com A 0.0.0.0"
+local-zone: "stampoutcovid19.com" redirect
+local-data: "stampoutcovid19.com A 0.0.0.0"
+local-zone: "covid19-today.ru" redirect
+local-data: "covid19-today.ru A 0.0.0.0"
+local-zone: "yovivielcoronavirus.com" redirect
+local-data: "yovivielcoronavirus.com A 0.0.0.0"
+local-zone: "covid19ppe.org" redirect
+local-data: "covid19ppe.org A 0.0.0.0"
+local-zone: "covid19.hitalos.com" redirect
+local-data: "covid19.hitalos.com A 0.0.0.0"
+local-zone: "www.covid19-ameli.info" redirect
+local-data: "www.covid19-ameli.info A 0.0.0.0"
+local-zone: "segcovid19.sispro.gov.co" redirect
+local-data: "segcovid19.sispro.gov.co A 0.0.0.0"
+local-zone: "covid19marmaris.com" redirect
+local-data: "covid19marmaris.com A 0.0.0.0"
+local-zone: "superacaocovid19.com" redirect
+local-data: "superacaocovid19.com A 0.0.0.0"
+local-zone: "stampoutcovid-19.com" redirect
+local-data: "stampoutcovid-19.com A 0.0.0.0"
+local-zone: "covid19.sysqube.com" redirect
+local-data: "covid19.sysqube.com A 0.0.0.0"
+local-zone: "thecovid19.blog" redirect
+local-data: "thecovid19.blog A 0.0.0.0"
+local-zone: "covid19ezchart.com" redirect
+local-data: "covid19ezchart.com A 0.0.0.0"
+local-zone: "coronaviruscovid19.thebermanlawgroup.com" redirect
+local-data: "coronaviruscovid19.thebermanlawgroup.com A 0.0.0.0"
+local-zone: "thecovid19toolkit.com" redirect
+local-data: "thecovid19toolkit.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
