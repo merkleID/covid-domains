@@ -22392,6 +22392,34 @@ local-zone: "covid19-support.org" redirect
 local-data: "covid19-support.org A 0.0.0.0"
 local-zone: "www.covid19-support.org" redirect
 local-data: "www.covid19-support.org A 0.0.0.0"
+local-zone: "50e0d3f2.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "50e0d3f2.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "api.50e0d3f2.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.50e0d3f2.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "coronavirus.com.gh" redirect
+local-data: "coronavirus.com.gh A 0.0.0.0"
+local-zone: "ing.securecovid-19.noez.me" redirect
+local-data: "ing.securecovid-19.noez.me A 0.0.0.0"
+local-zone: "tagcovid19.com" redirect
+local-data: "tagcovid19.com A 0.0.0.0"
+local-zone: "self-check.covid19dz.com" redirect
+local-data: "self-check.covid19dz.com A 0.0.0.0"
+local-zone: "coronavirus.veracruz.gob.mx" redirect
+local-data: "coronavirus.veracruz.gob.mx A 0.0.0.0"
+local-zone: "trucovid19.com" redirect
+local-data: "trucovid19.com A 0.0.0.0"
+local-zone: "covid19ezchart.com" redirect
+local-data: "covid19ezchart.com A 0.0.0.0"
+local-zone: "www.covid19ezchart.com" redirect
+local-data: "www.covid19ezchart.com A 0.0.0.0"
+local-zone: "newcoronavirus.net" redirect
+local-data: "newcoronavirus.net A 0.0.0.0"
+local-zone: "forum-coronavirus.fr" redirect
+local-data: "forum-coronavirus.fr A 0.0.0.0"
+local-zone: "kodiakcovid19resources.com" redirect
+local-data: "kodiakcovid19resources.com A 0.0.0.0"
+local-zone: "csrcovid19.org" redirect
+local-data: "csrcovid19.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -23428,6 +23456,10 @@ local-zone: "coronavirusmakers.org" redirect
 local-data: "coronavirusmakers.org A 0.0.0.0"
 local-zone: "stop-covid19.sk" redirect
 local-data: "stop-covid19.sk A 0.0.0.0"
+local-zone: "update-covid19.com" redirect
+local-data: "update-covid19.com A 0.0.0.0"
+local-zone: "covid19.gob.sv" redirect
+local-data: "covid19.gob.sv A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
