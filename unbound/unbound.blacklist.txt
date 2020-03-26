@@ -22548,6 +22548,48 @@ local-zone: "www.coronavirusvaccine.com" redirect
 local-data: "www.coronavirusvaccine.com A 0.0.0.0"
 local-zone: "wuhancoronavirusvaccine.com" redirect
 local-data: "wuhancoronavirusvaccine.com A 0.0.0.0"
+local-zone: "pantaucovid19.ukcagur.com" redirect
+local-data: "pantaucovid19.ukcagur.com A 0.0.0.0"
+local-zone: "coronavirusresources.phe.gov.uk" redirect
+local-data: "coronavirusresources.phe.gov.uk A 0.0.0.0"
+local-zone: "www.coronavirus-strana.ru" redirect
+local-data: "www.coronavirus-strana.ru A 0.0.0.0"
+local-zone: "allcovid19disinfection.com" redirect
+local-data: "allcovid19disinfection.com A 0.0.0.0"
+local-zone: "thaicovid19.techfit.co" redirect
+local-data: "thaicovid19.techfit.co A 0.0.0.0"
+local-zone: "covid19-jyy3.onrender.com" redirect
+local-data: "covid19-jyy3.onrender.com A 0.0.0.0"
+local-zone: "covid19.jaysoni.info" redirect
+local-data: "covid19.jaysoni.info A 0.0.0.0"
+local-zone: "contacto.redcovid19mx.org" redirect
+local-data: "contacto.redcovid19mx.org A 0.0.0.0"
+local-zone: "www.vntestkit-covid19.com" redirect
+local-data: "www.vntestkit-covid19.com A 0.0.0.0"
+local-zone: "www.covid19mapusa.com" redirect
+local-data: "www.covid19mapusa.com A 0.0.0.0"
+local-zone: "covid19demo.aidiq.com" redirect
+local-data: "covid19demo.aidiq.com A 0.0.0.0"
+local-zone: "portal-covid-19.ga" redirect
+local-data: "portal-covid-19.ga A 0.0.0.0"
+local-zone: "www.portal-covid-19.ml" redirect
+local-data: "www.portal-covid-19.ml A 0.0.0.0"
+local-zone: "rapid-test-corona-virus.com" redirect
+local-data: "rapid-test-corona-virus.com A 0.0.0.0"
+local-zone: "covid19coin.xyz" redirect
+local-data: "covid19coin.xyz A 0.0.0.0"
+local-zone: "www.covid-19living.com" redirect
+local-data: "www.covid-19living.com A 0.0.0.0"
+local-zone: "ilwucovid19support.org" redirect
+local-data: "ilwucovid19support.org A 0.0.0.0"
+local-zone: "www.covid-19-en-tu-casa.ml" redirect
+local-data: "www.covid-19-en-tu-casa.ml A 0.0.0.0"
+local-zone: "www.waroncovid-19.com" redirect
+local-data: "www.waroncovid-19.com A 0.0.0.0"
+local-zone: "coronavirus-tracker.uk" redirect
+local-data: "coronavirus-tracker.uk A 0.0.0.0"
+local-zone: "covid19.digitalproblemsolving.com" redirect
+local-data: "covid19.digitalproblemsolving.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -23590,6 +23632,10 @@ local-zone: "covid19.gob.sv" redirect
 local-data: "covid19.gob.sv A 0.0.0.0"
 local-zone: "covid19-register4assessment.com" redirect
 local-data: "covid19-register4assessment.com A 0.0.0.0"
+local-zone: "coronavirusresources.phe.gov.uk" redirect
+local-data: "coronavirusresources.phe.gov.uk A 0.0.0.0"
+local-zone: "covid19-news.it" redirect
+local-data: "covid19-news.it A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
