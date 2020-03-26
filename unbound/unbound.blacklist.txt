@@ -20942,6 +20942,26 @@ local-zone: "covid19stats.global" redirect
 local-data: "covid19stats.global A 0.0.0.0"
 local-zone: "covid19pandemic.solutions" redirect
 local-data: "covid19pandemic.solutions A 0.0.0.0"
+local-zone: "covid-19kit.store" redirect
+local-data: "covid-19kit.store A 0.0.0.0"
+local-zone: "covid19supply.net" redirect
+local-data: "covid19supply.net A 0.0.0.0"
+local-zone: "www.covid19check.net" redirect
+local-data: "www.covid19check.net A 0.0.0.0"
+local-zone: "coronaviruspress.net" redirect
+local-data: "coronaviruspress.net A 0.0.0.0"
+local-zone: "covid19.farmaciasdeservico.net" redirect
+local-data: "covid19.farmaciasdeservico.net A 0.0.0.0"
+local-zone: "coronavirus.kanren.net" redirect
+local-data: "coronavirus.kanren.net A 0.0.0.0"
+local-zone: "phencovid19.org" redirect
+local-data: "phencovid19.org A 0.0.0.0"
+local-zone: "sgbcovid19.com" redirect
+local-data: "sgbcovid19.com A 0.0.0.0"
+local-zone: "coronavirusmonster.com" redirect
+local-data: "coronavirusmonster.com A 0.0.0.0"
+local-zone: "www.covid19.warocol.com" redirect
+local-data: "www.covid19.warocol.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21914,6 +21934,10 @@ local-zone: "covid19taxreward.com" redirect
 local-data: "covid19taxreward.com A 0.0.0.0"
 local-zone: "covid19fundingsolutions.com" redirect
 local-data: "covid19fundingsolutions.com A 0.0.0.0"
+local-zone: "covid-19-teststation.de" redirect
+local-data: "covid-19-teststation.de A 0.0.0.0"
+local-zone: "us-covid19-per-capita.net" redirect
+local-data: "us-covid19-per-capita.net A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

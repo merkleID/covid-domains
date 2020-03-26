@@ -10470,6 +10470,16 @@ local-zone: "tengocoronavirus.site" static
 local-zone: "testercovid19.simply.site" static
 local-zone: "covid19stats.global" static
 local-zone: "covid19pandemic.solutions" static
+local-zone: "covid-19kit.store" static
+local-zone: "covid19supply.net" static
+local-zone: "www.covid19check.net" static
+local-zone: "coronaviruspress.net" static
+local-zone: "covid19.farmaciasdeservico.net" static
+local-zone: "coronavirus.kanren.net" static
+local-zone: "phencovid19.org" static
+local-zone: "sgbcovid19.com" static
+local-zone: "coronavirusmonster.com" static
+local-zone: "www.covid19.warocol.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -10956,6 +10966,8 @@ local-zone: "covid19-aomori.info" static
 local-zone: "covid19taxclaim.com" static
 local-zone: "covid19taxreward.com" static
 local-zone: "covid19fundingsolutions.com" static
+local-zone: "covid-19-teststation.de" static
+local-zone: "us-covid19-per-capita.net" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
