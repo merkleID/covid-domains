@@ -21904,6 +21904,54 @@ local-zone: "www.georgiacoronaviruslawyer.com" redirect
 local-data: "www.georgiacoronaviruslawyer.com A 0.0.0.0"
 local-zone: "epasscovid19.noidapolice.com" redirect
 local-data: "epasscovid19.noidapolice.com A 0.0.0.0"
+local-zone: "covid19peru.jrzconsultores.com" redirect
+local-data: "covid19peru.jrzconsultores.com A 0.0.0.0"
+local-zone: "covid19.jrzconsultores.com" redirect
+local-data: "covid19.jrzconsultores.com A 0.0.0.0"
+local-zone: "handsanitizerforsaleforcoronavirus.com" redirect
+local-data: "handsanitizerforsaleforcoronavirus.com A 0.0.0.0"
+local-zone: "imprimeurs3d-covid19.rudylacrete.fr" redirect
+local-data: "imprimeurs3d-covid19.rudylacrete.fr A 0.0.0.0"
+local-zone: "handsanitizerforsaleforcoronavirus.com" redirect
+local-data: "handsanitizerforsaleforcoronavirus.com A 0.0.0.0"
+local-zone: "noidacovid19.pais.net.in" redirect
+local-data: "noidacovid19.pais.net.in A 0.0.0.0"
+local-zone: "covid19.johnsoncorner.nz" redirect
+local-data: "covid19.johnsoncorner.nz A 0.0.0.0"
+local-zone: "covid19-ita-regional.lucabruno.net" redirect
+local-data: "covid19-ita-regional.lucabruno.net A 0.0.0.0"
+local-zone: "www.covid-19.bizarre-planet.com" redirect
+local-data: "www.covid-19.bizarre-planet.com A 0.0.0.0"
+local-zone: "covid19-rader-for-japan.com" redirect
+local-data: "covid19-rader-for-japan.com A 0.0.0.0"
+local-zone: "platform.covid19crc.org" redirect
+local-data: "platform.covid19crc.org A 0.0.0.0"
+local-zone: "backup.tiles.covid19vis.lingvis.io" redirect
+local-data: "backup.tiles.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "covid19.firstnationsmedia.org.au" redirect
+local-data: "covid19.firstnationsmedia.org.au A 0.0.0.0"
+local-zone: "www.covid-19rapidresponse.com" redirect
+local-data: "www.covid-19rapidresponse.com A 0.0.0.0"
+local-zone: "naocovid19.com.br" redirect
+local-data: "naocovid19.com.br A 0.0.0.0"
+local-zone: "trackingcovid19.ca" redirect
+local-data: "trackingcovid19.ca A 0.0.0.0"
+local-zone: "sacoronavirus.com" redirect
+local-data: "sacoronavirus.com A 0.0.0.0"
+local-zone: "xgscovid19.com" redirect
+local-data: "xgscovid19.com A 0.0.0.0"
+local-zone: "covid19.catalpa.build" redirect
+local-data: "covid19.catalpa.build A 0.0.0.0"
+local-zone: "kabylie-stopcovid-19.com" redirect
+local-data: "kabylie-stopcovid-19.com A 0.0.0.0"
+local-zone: "covid19donate.org" redirect
+local-data: "covid19donate.org A 0.0.0.0"
+local-zone: "api.pen.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.pen.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "pen.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "pen.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "sacoronavirus.com" redirect
+local-data: "sacoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
