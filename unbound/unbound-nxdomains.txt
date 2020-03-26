@@ -10337,6 +10337,17 @@ local-zone: "coronavirus-bochum.de" static
 local-zone: "yosobrevivialcovid19.com" static
 local-zone: "www.covid19record.com" static
 local-zone: "covid19testkiti.zendesk.com" static
+local-zone: "covid19status.in" static
+local-zone: "cdn.covid19-news.org" static
+local-zone: "data.covid19japan.com" static
+local-zone: "fightcovid-19.info" static
+local-zone: "covid19.presidencia.go.cr" static
+local-zone: "coronavirusvaccine.zoekenvind.be" static
+local-zone: "www.covid19rentstrike.com" static
+local-zone: "100-fancify-pipeline.covid19vis.lingvis.io" static
+local-zone: "sanificazionecoronavirus.altervista.org" static
+local-zone: "sars-cov-2.expert" static
+local-zone: "appcovid19.org" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static

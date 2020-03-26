@@ -20676,6 +20676,28 @@ local-zone: "www.covid19record.com" redirect
 local-data: "www.covid19record.com A 0.0.0.0"
 local-zone: "covid19testkiti.zendesk.com" redirect
 local-data: "covid19testkiti.zendesk.com A 0.0.0.0"
+local-zone: "covid19status.in" redirect
+local-data: "covid19status.in A 0.0.0.0"
+local-zone: "cdn.covid19-news.org" redirect
+local-data: "cdn.covid19-news.org A 0.0.0.0"
+local-zone: "data.covid19japan.com" redirect
+local-data: "data.covid19japan.com A 0.0.0.0"
+local-zone: "fightcovid-19.info" redirect
+local-data: "fightcovid-19.info A 0.0.0.0"
+local-zone: "covid19.presidencia.go.cr" redirect
+local-data: "covid19.presidencia.go.cr A 0.0.0.0"
+local-zone: "coronavirusvaccine.zoekenvind.be" redirect
+local-data: "coronavirusvaccine.zoekenvind.be A 0.0.0.0"
+local-zone: "www.covid19rentstrike.com" redirect
+local-data: "www.covid19rentstrike.com A 0.0.0.0"
+local-zone: "100-fancify-pipeline.covid19vis.lingvis.io" redirect
+local-data: "100-fancify-pipeline.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "sanificazionecoronavirus.altervista.org" redirect
+local-data: "sanificazionecoronavirus.altervista.org A 0.0.0.0"
+local-zone: "sars-cov-2.expert" redirect
+local-data: "sars-cov-2.expert A 0.0.0.0"
+local-zone: "appcovid19.org" redirect
+local-data: "appcovid19.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
