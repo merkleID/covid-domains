@@ -21268,6 +21268,56 @@ local-zone: "staging.covid19vis.lingvis.io" redirect
 local-data: "staging.covid19vis.lingvis.io A 0.0.0.0"
 local-zone: "covid19argentina.com.ar" redirect
 local-data: "covid19argentina.com.ar A 0.0.0.0"
+local-zone: "coronavirusresources.phe.gov.uk" redirect
+local-data: "coronavirusresources.phe.gov.uk A 0.0.0.0"
+local-zone: "thaicovid19.techfit.co" redirect
+local-data: "thaicovid19.techfit.co A 0.0.0.0"
+local-zone: "covid19mariana.com.br" redirect
+local-data: "covid19mariana.com.br A 0.0.0.0"
+local-zone: "covid19bmx7.com.br" redirect
+local-data: "covid19bmx7.com.br A 0.0.0.0"
+local-zone: "covid19.majalengkakab.go.id" redirect
+local-data: "covid19.majalengkakab.go.id A 0.0.0.0"
+local-zone: "beatcovid19.in" redirect
+local-data: "beatcovid19.in A 0.0.0.0"
+local-zone: "coronavirus.com.au" redirect
+local-data: "coronavirus.com.au A 0.0.0.0"
+local-zone: "coronavirus.guiataubate.com.br" redirect
+local-data: "coronavirus.guiataubate.com.br A 0.0.0.0"
+local-zone: "mutasicovid-19.com" redirect
+local-data: "mutasicovid-19.com A 0.0.0.0"
+local-zone: "covid-19antibody.com" redirect
+local-data: "covid-19antibody.com A 0.0.0.0"
+local-zone: "covid-19.oxygentech.my.id" redirect
+local-data: "covid-19.oxygentech.my.id A 0.0.0.0"
+local-zone: "covid19-demo.cerist.dz" redirect
+local-data: "covid19-demo.cerist.dz A 0.0.0.0"
+local-zone: "kn95salecoronavirus.com" redirect
+local-data: "kn95salecoronavirus.com A 0.0.0.0"
+local-zone: "coronavirusmasksaleusa.com" redirect
+local-data: "coronavirusmasksaleusa.com A 0.0.0.0"
+local-zone: "coronavirusmasksale-n95.com" redirect
+local-data: "coronavirusmasksale-n95.com A 0.0.0.0"
+local-zone: "coronavirus.fairwork.gov.au" redirect
+local-data: "coronavirus.fairwork.gov.au A 0.0.0.0"
+local-zone: "coronavirus.tas.gov.au" redirect
+local-data: "coronavirus.tas.gov.au A 0.0.0.0"
+local-zone: "covid19.amanahfoundation.org" redirect
+local-data: "covid19.amanahfoundation.org A 0.0.0.0"
+local-zone: "coronavirus.pinhais.pr.gov.br" redirect
+local-data: "coronavirus.pinhais.pr.gov.br A 0.0.0.0"
+local-zone: "transfer-coronavirus-data.service.gov.uk" redirect
+local-data: "transfer-coronavirus-data.service.gov.uk A 0.0.0.0"
+local-zone: "www.covid-19antibody.com" redirect
+local-data: "www.covid-19antibody.com A 0.0.0.0"
+local-zone: "covid19.andradas.tur.br" redirect
+local-data: "covid19.andradas.tur.br A 0.0.0.0"
+local-zone: "covid19.funpreneur.my.id" redirect
+local-data: "covid19.funpreneur.my.id A 0.0.0.0"
+local-zone: "www.covid19central.ca" redirect
+local-data: "www.covid19central.ca A 0.0.0.0"
+local-zone: "www.fuckcovid-19.ca" redirect
+local-data: "www.fuckcovid-19.ca A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -22270,6 +22320,8 @@ local-zone: "covid19test.zone" redirect
 local-data: "covid19test.zone A 0.0.0.0"
 local-zone: "asociacionafectadoscoronavirus.org" redirect
 local-data: "asociacionafectadoscoronavirus.org A 0.0.0.0"
+local-zone: "coronavirusactionfund.com.au" redirect
+local-data: "coronavirusactionfund.com.au A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
