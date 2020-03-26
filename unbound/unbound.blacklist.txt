@@ -22358,6 +22358,40 @@ local-zone: "145-covid-19.exactsciences.net" redirect
 local-data: "145-covid-19.exactsciences.net A 0.0.0.0"
 local-zone: "covid19.mediafix.es" redirect
 local-data: "covid19.mediafix.es A 0.0.0.0"
+local-zone: "decretocovid19.ws" redirect
+local-data: "decretocovid19.ws A 0.0.0.0"
+local-zone: "infoscovid19-bf.com" redirect
+local-data: "infoscovid19-bf.com A 0.0.0.0"
+local-zone: "covid19.corporate-sense.com" redirect
+local-data: "covid19.corporate-sense.com A 0.0.0.0"
+local-zone: "argentina-coronavirus.com" redirect
+local-data: "argentina-coronavirus.com A 0.0.0.0"
+local-zone: "www.covid19charity.net" redirect
+local-data: "www.covid19charity.net A 0.0.0.0"
+local-zone: "covid19africawatch.org" redirect
+local-data: "covid19africawatch.org A 0.0.0.0"
+local-zone: "coronavirus.beallucanbegroup.com" redirect
+local-data: "coronavirus.beallucanbegroup.com A 0.0.0.0"
+local-zone: "covid19.ghelt.com.br" redirect
+local-data: "covid19.ghelt.com.br A 0.0.0.0"
+local-zone: "testcovid19.io" redirect
+local-data: "testcovid19.io A 0.0.0.0"
+local-zone: "pruebascoronavirus.com" redirect
+local-data: "pruebascoronavirus.com A 0.0.0.0"
+local-zone: "covid19bharat.info" redirect
+local-data: "covid19bharat.info A 0.0.0.0"
+local-zone: "115-use-pigz-for-tile-server-d.covid19vis.lingvis.io" redirect
+local-data: "115-use-pigz-for-tile-server-d.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "covid19charity.org" redirect
+local-data: "covid19charity.org A 0.0.0.0"
+local-zone: "argentina-coronavirus.com" redirect
+local-data: "argentina-coronavirus.com A 0.0.0.0"
+local-zone: "coronavirus-covid.fr" redirect
+local-data: "coronavirus-covid.fr A 0.0.0.0"
+local-zone: "covid19-support.org" redirect
+local-data: "covid19-support.org A 0.0.0.0"
+local-zone: "www.covid19-support.org" redirect
+local-data: "www.covid19-support.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
