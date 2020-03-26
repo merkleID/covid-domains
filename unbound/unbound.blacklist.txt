@@ -20698,6 +20698,32 @@ local-zone: "sars-cov-2.expert" redirect
 local-data: "sars-cov-2.expert A 0.0.0.0"
 local-zone: "appcovid19.org" redirect
 local-data: "appcovid19.org A 0.0.0.0"
+local-zone: "coronavirus.co.ke" redirect
+local-data: "coronavirus.co.ke A 0.0.0.0"
+local-zone: "www.covid-19.google" redirect
+local-data: "www.covid-19.google A 0.0.0.0"
+local-zone: "combateaocoronavirus.feira.br" redirect
+local-data: "combateaocoronavirus.feira.br A 0.0.0.0"
+local-zone: "coronavirusuk.live" redirect
+local-data: "coronavirusuk.live A 0.0.0.0"
+local-zone: "encuestacovid19.hcg.gob.mx" redirect
+local-data: "encuestacovid19.hcg.gob.mx A 0.0.0.0"
+local-zone: "covid19info.lt" redirect
+local-data: "covid19info.lt A 0.0.0.0"
+local-zone: "helpcovid19.lu" redirect
+local-data: "helpcovid19.lu A 0.0.0.0"
+local-zone: "covid19impact.info" redirect
+local-data: "covid19impact.info A 0.0.0.0"
+local-zone: "covid19.speakapp.mk" redirect
+local-data: "covid19.speakapp.mk A 0.0.0.0"
+local-zone: "covid19.mojtermin.mk" redirect
+local-data: "covid19.mojtermin.mk A 0.0.0.0"
+local-zone: "covid19.pharaohhosting.com" redirect
+local-data: "covid19.pharaohhosting.com A 0.0.0.0"
+local-zone: "www.fitnessincovid19.com" redirect
+local-data: "www.fitnessincovid19.com A 0.0.0.0"
+local-zone: "covid19nigeria.org" redirect
+local-data: "covid19nigeria.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
