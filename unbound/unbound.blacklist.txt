@@ -21348,6 +21348,44 @@ local-zone: "www.covid-19cover.com" redirect
 local-data: "www.covid-19cover.com A 0.0.0.0"
 local-zone: "coronavirus.nuvolagis.it" redirect
 local-data: "coronavirus.nuvolagis.it A 0.0.0.0"
+local-zone: "covid-19-status.anexia.com" redirect
+local-data: "covid-19-status.anexia.com A 0.0.0.0"
+local-zone: "covid-19.cheap" redirect
+local-data: "covid-19.cheap A 0.0.0.0"
+local-zone: "covid19.cmp.cl" redirect
+local-data: "covid19.cmp.cl A 0.0.0.0"
+local-zone: "covid19.getpy.biz" redirect
+local-data: "covid19.getpy.biz A 0.0.0.0"
+local-zone: "nl.fnacvandenborrecovid19.be" redirect
+local-data: "nl.fnacvandenborrecovid19.be A 0.0.0.0"
+local-zone: "indiafightscovid19.org" redirect
+local-data: "indiafightscovid19.org A 0.0.0.0"
+local-zone: "covid19policies.com" redirect
+local-data: "covid19policies.com A 0.0.0.0"
+local-zone: "livingincovid19denial.com" redirect
+local-data: "livingincovid19denial.com A 0.0.0.0"
+local-zone: "www.covid19conferencia.rgi.com.co" redirect
+local-data: "www.covid19conferencia.rgi.com.co A 0.0.0.0"
+local-zone: "coronavirus-india.co" redirect
+local-data: "coronavirus-india.co A 0.0.0.0"
+local-zone: "www.stopcovid-19.com.ua" redirect
+local-data: "www.stopcovid-19.com.ua A 0.0.0.0"
+local-zone: "rujamosanteelcovid19.lyown.co" redirect
+local-data: "rujamosanteelcovid19.lyown.co A 0.0.0.0"
+local-zone: "covid19.framadrop.org" redirect
+local-data: "covid19.framadrop.org A 0.0.0.0"
+local-zone: "febris-covid-19-simulations.ddns.net" redirect
+local-data: "febris-covid-19-simulations.ddns.net A 0.0.0.0"
+local-zone: "covid19-solidarite237.com" redirect
+local-data: "covid19-solidarite237.com A 0.0.0.0"
+local-zone: "hfr.api.covid19.moh.gov.et" redirect
+local-data: "hfr.api.covid19.moh.gov.et A 0.0.0.0"
+local-zone: "hfr.covid19.moh.gov.et" redirect
+local-data: "hfr.covid19.moh.gov.et A 0.0.0.0"
+local-zone: "admin.covid19.moh.gov.et" redirect
+local-data: "admin.covid19.moh.gov.et A 0.0.0.0"
+local-zone: "covid19.socialtravel.pl" redirect
+local-data: "covid19.socialtravel.pl A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -22352,6 +22390,10 @@ local-zone: "asociacionafectadoscoronavirus.org" redirect
 local-data: "asociacionafectadoscoronavirus.org A 0.0.0.0"
 local-zone: "coronavirusactionfund.com.au" redirect
 local-data: "coronavirusactionfund.com.au A 0.0.0.0"
+local-zone: "indiafightscovid19.org" redirect
+local-data: "indiafightscovid19.org A 0.0.0.0"
+local-zone: "covid19-news24.com" redirect
+local-data: "covid19-news24.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
