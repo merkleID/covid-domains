@@ -21054,6 +21054,32 @@ local-zone: "abertonocovid19.centrozero.pt" redirect
 local-data: "abertonocovid19.centrozero.pt A 0.0.0.0"
 local-zone: "coronavirusgraph.info" redirect
 local-data: "coronavirusgraph.info A 0.0.0.0"
+local-zone: "covid19.gentasari.desa.id" redirect
+local-data: "covid19.gentasari.desa.id A 0.0.0.0"
+local-zone: "antivirus-covid19.ru" redirect
+local-data: "antivirus-covid19.ru A 0.0.0.0"
+local-zone: "chinecoronavirus.ru" redirect
+local-data: "chinecoronavirus.ru A 0.0.0.0"
+local-zone: "coronavirus.developerswork.online" redirect
+local-data: "coronavirus.developerswork.online A 0.0.0.0"
+local-zone: "covid-19-vucap.org" redirect
+local-data: "covid-19-vucap.org A 0.0.0.0"
+local-zone: "coronaviruslegaladvice.com.au" redirect
+local-data: "coronaviruslegaladvice.com.au A 0.0.0.0"
+local-zone: "sars-cov-2-vaccine.com" redirect
+local-data: "sars-cov-2-vaccine.com A 0.0.0.0"
+local-zone: "covid19olympics.com" redirect
+local-data: "covid19olympics.com A 0.0.0.0"
+local-zone: "coronavirus-for-game-jam.djwang.repl.run" redirect
+local-data: "coronavirus-for-game-jam.djwang.repl.run A 0.0.0.0"
+local-zone: "webmail.covid19-status.live" redirect
+local-data: "webmail.covid19-status.live A 0.0.0.0"
+local-zone: "www.coronavirushelp.se" redirect
+local-data: "www.coronavirushelp.se A 0.0.0.0"
+local-zone: "covid-19selftest.co.uk" redirect
+local-data: "covid-19selftest.co.uk A 0.0.0.0"
+local-zone: "coronavirus-pandemic.co.uk" redirect
+local-data: "coronavirus-pandemic.co.uk A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -22038,6 +22064,10 @@ local-zone: "covid19test.zone" redirect
 local-data: "covid19test.zone A 0.0.0.0"
 local-zone: "covid19muststop.com" redirect
 local-data: "covid19muststop.com A 0.0.0.0"
+local-zone: "covid19clinics.com.au" redirect
+local-data: "covid19clinics.com.au A 0.0.0.0"
+local-zone: "coronavirusclinics.com.au" redirect
+local-data: "coronavirusclinics.com.au A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
