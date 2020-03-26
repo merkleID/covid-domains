@@ -21200,6 +21200,20 @@ local-zone: "admin.covid19petpro.com" redirect
 local-data: "admin.covid19petpro.com A 0.0.0.0"
 local-zone: "covid19.pangandarankab.go.id" redirect
 local-data: "covid19.pangandarankab.go.id A 0.0.0.0"
+local-zone: "ds-covid19.res.ibm.com" redirect
+local-data: "ds-covid19.res.ibm.com A 0.0.0.0"
+local-zone: "kg-1.ds-covid19.res.ibm.com" redirect
+local-data: "kg-1.ds-covid19.res.ibm.com A 0.0.0.0"
+local-zone: "cps.ds-covid19.res.ibm.com" redirect
+local-data: "cps.ds-covid19.res.ibm.com A 0.0.0.0"
+local-zone: "operationcovid19.org" redirect
+local-data: "operationcovid19.org A 0.0.0.0"
+local-zone: "recywood-covid19.com" redirect
+local-data: "recywood-covid19.com A 0.0.0.0"
+local-zone: "www.recywood-covid19.com" redirect
+local-data: "www.recywood-covid19.com A 0.0.0.0"
+local-zone: "coronavirus.davidlinden.scot" redirect
+local-data: "coronavirus.davidlinden.scot A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -22200,6 +22214,8 @@ local-zone: "memescovid19.com" redirect
 local-data: "memescovid19.com A 0.0.0.0"
 local-zone: "covid19test.zone" redirect
 local-data: "covid19test.zone A 0.0.0.0"
+local-zone: "asociacionafectadoscoronavirus.org" redirect
+local-data: "asociacionafectadoscoronavirus.org A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

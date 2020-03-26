@@ -10599,6 +10599,13 @@ zone "covid-19-nigay.planethoster.world" { type master; notify no; file null.zon
 zone "covid19portaal.nl" { type master; notify no; file null.zone.file; };
 zone "admin.covid19petpro.com" { type master; notify no; file null.zone.file; };
 zone "covid19.pangandarankab.go.id" { type master; notify no; file null.zone.file; };
+zone "ds-covid19.res.ibm.com" { type master; notify no; file null.zone.file; };
+zone "kg-1.ds-covid19.res.ibm.com" { type master; notify no; file null.zone.file; };
+zone "cps.ds-covid19.res.ibm.com" { type master; notify no; file null.zone.file; };
+zone "operationcovid19.org" { type master; notify no; file null.zone.file; };
+zone "recywood-covid19.com" { type master; notify no; file null.zone.file; };
+zone "www.recywood-covid19.com" { type master; notify no; file null.zone.file; };
+zone "coronavirus.davidlinden.scot" { type master; notify no; file null.zone.file; };
 zone "anticoronavirus.cloud" { type master; notify no; file null.zone.file; };
 zone "anticoronavirustienda.com" { type master; notify no; file null.zone.file; };
 zone "californiacoronaviruslaw.com" { type master; notify no; file null.zone.file; };
@@ -11099,6 +11106,7 @@ zone "coronavirus-treatment.co.uk" { type master; notify no; file null.zone.file
 zone "ringwood-coronavirus.org.uk" { type master; notify no; file null.zone.file; };
 zone "memescovid19.com" { type master; notify no; file null.zone.file; };
 zone "covid19test.zone" { type master; notify no; file null.zone.file; };
+zone "asociacionafectadoscoronavirus.org" { type master; notify no; file null.zone.file; };
 zone "123corona.com" { type master; notify no; file null.zone.file; };
 zone "123coronavirus.com" { type master; notify no; file null.zone.file; };
 zone "1800covid19.com" { type master; notify no; file null.zone.file; };

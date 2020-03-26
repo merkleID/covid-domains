@@ -10599,6 +10599,13 @@ local-zone: "covid-19-nigay.planethoster.world" static
 local-zone: "covid19portaal.nl" static
 local-zone: "admin.covid19petpro.com" static
 local-zone: "covid19.pangandarankab.go.id" static
+local-zone: "ds-covid19.res.ibm.com" static
+local-zone: "kg-1.ds-covid19.res.ibm.com" static
+local-zone: "cps.ds-covid19.res.ibm.com" static
+local-zone: "operationcovid19.org" static
+local-zone: "recywood-covid19.com" static
+local-zone: "www.recywood-covid19.com" static
+local-zone: "coronavirus.davidlinden.scot" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -11099,6 +11106,7 @@ local-zone: "coronavirus-treatment.co.uk" static
 local-zone: "ringwood-coronavirus.org.uk" static
 local-zone: "memescovid19.com" static
 local-zone: "covid19test.zone" static
+local-zone: "asociacionafectadoscoronavirus.org" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
