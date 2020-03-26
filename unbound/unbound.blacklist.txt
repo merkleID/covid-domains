@@ -20856,6 +20856,48 @@ local-zone: "covid19.tokowebpedia.com" redirect
 local-data: "covid19.tokowebpedia.com A 0.0.0.0"
 local-zone: "spcontraocoronavirus.org" redirect
 local-data: "spcontraocoronavirus.org A 0.0.0.0"
+local-zone: "www.groupe-covid19.org" redirect
+local-data: "www.groupe-covid19.org A 0.0.0.0"
+local-zone: "ajudacovid19.react.pt" redirect
+local-data: "ajudacovid19.react.pt A 0.0.0.0"
+local-zone: "writingawrongcovid19.com" redirect
+local-data: "writingawrongcovid19.com A 0.0.0.0"
+local-zone: "covid-19xs2020.com" redirect
+local-data: "covid-19xs2020.com A 0.0.0.0"
+local-zone: "coronavirus.g7.pe" redirect
+local-data: "coronavirus.g7.pe A 0.0.0.0"
+local-zone: "n95masksalecoronavirus.com" redirect
+local-data: "n95masksalecoronavirus.com A 0.0.0.0"
+local-zone: "openduringcovid19.app" redirect
+local-data: "openduringcovid19.app A 0.0.0.0"
+local-zone: "www.covid19outreach.org" redirect
+local-data: "www.covid19outreach.org A 0.0.0.0"
+local-zone: "covid19kams.org.au" redirect
+local-data: "covid19kams.org.au A 0.0.0.0"
+local-zone: "covid19.trixmath.com" redirect
+local-data: "covid19.trixmath.com A 0.0.0.0"
+local-zone: "coronavirusenlinea.org" redirect
+local-data: "coronavirusenlinea.org A 0.0.0.0"
+local-zone: "covid19news.com.ng" redirect
+local-data: "covid19news.com.ng A 0.0.0.0"
+local-zone: "coronavirusuk.live" redirect
+local-data: "coronavirusuk.live A 0.0.0.0"
+local-zone: "covid19pet.nz" redirect
+local-data: "covid19pet.nz A 0.0.0.0"
+local-zone: "api.covid-19.health.gov.lk" redirect
+local-data: "api.covid-19.health.gov.lk A 0.0.0.0"
+local-zone: "covid19info.lt" redirect
+local-data: "covid19info.lt A 0.0.0.0"
+local-zone: "abertonocovid19.centrozero.pt" redirect
+local-data: "abertonocovid19.centrozero.pt A 0.0.0.0"
+local-zone: "www.covid-19.com.pt" redirect
+local-data: "www.covid-19.com.pt A 0.0.0.0"
+local-zone: "donewithcoronavirus.org" redirect
+local-data: "donewithcoronavirus.org A 0.0.0.0"
+local-zone: "coronavirusvaccin.be" redirect
+local-data: "coronavirusvaccin.be A 0.0.0.0"
+local-zone: "covid19allhandsondeck.com" redirect
+local-data: "covid19allhandsondeck.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -21822,6 +21864,10 @@ local-zone: "willicatchcoronavirus.com" redirect
 local-data: "willicatchcoronavirus.com A 0.0.0.0"
 local-zone: "covid19-aomori.info" redirect
 local-data: "covid19-aomori.info A 0.0.0.0"
+local-zone: "covid19taxclaim.com" redirect
+local-data: "covid19taxclaim.com A 0.0.0.0"
+local-zone: "covid19taxreward.com" redirect
+local-data: "covid19taxreward.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
