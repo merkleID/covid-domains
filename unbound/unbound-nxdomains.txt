@@ -11741,6 +11741,15 @@ local-zone: "cpcontacts.covid19infoapp.com" static
 local-zone: "respuestasalcoronavirus.org" static
 local-zone: "pilarcoronavirus.com.br" static
 local-zone: "coronavirus.psainfo.com.br" static
+local-zone: "avocats-crise-coronavirus.ch" static
+local-zone: "covid19ezchart.com" static
+local-zone: "coronavirusglobal.chat" static
+local-zone: "covid-19.uz.ac.zw" static
+local-zone: "stopcoronavirus.cd" static
+local-zone: "perinatalcovid19.org" static
+local-zone: "www.covid19homefitness.com" static
+local-zone: "ndp-covid-19-3pzivzy-hykleghmsctmg.eu-2.platformsh.site" static
+local-zone: "covid19khabar.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -12278,6 +12287,7 @@ local-zone: "echeloncovid19.co.uk" static
 local-zone: "covid19.houseliver.com" static
 local-zone: "lux-covid19.lu" static
 local-zone: "covid-19.smartify-it.de" static
+local-zone: "covid19graphql.now.sh" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static

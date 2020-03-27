@@ -23484,6 +23484,24 @@ local-zone: "pilarcoronavirus.com.br" redirect
 local-data: "pilarcoronavirus.com.br A 0.0.0.0"
 local-zone: "coronavirus.psainfo.com.br" redirect
 local-data: "coronavirus.psainfo.com.br A 0.0.0.0"
+local-zone: "avocats-crise-coronavirus.ch" redirect
+local-data: "avocats-crise-coronavirus.ch A 0.0.0.0"
+local-zone: "covid19ezchart.com" redirect
+local-data: "covid19ezchart.com A 0.0.0.0"
+local-zone: "coronavirusglobal.chat" redirect
+local-data: "coronavirusglobal.chat A 0.0.0.0"
+local-zone: "covid-19.uz.ac.zw" redirect
+local-data: "covid-19.uz.ac.zw A 0.0.0.0"
+local-zone: "stopcoronavirus.cd" redirect
+local-data: "stopcoronavirus.cd A 0.0.0.0"
+local-zone: "perinatalcovid19.org" redirect
+local-data: "perinatalcovid19.org A 0.0.0.0"
+local-zone: "www.covid19homefitness.com" redirect
+local-data: "www.covid19homefitness.com A 0.0.0.0"
+local-zone: "ndp-covid-19-3pzivzy-hykleghmsctmg.eu-2.platformsh.site" redirect
+local-data: "ndp-covid-19-3pzivzy-hykleghmsctmg.eu-2.platformsh.site A 0.0.0.0"
+local-zone: "covid19khabar.com" redirect
+local-data: "covid19khabar.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -24558,6 +24576,8 @@ local-zone: "lux-covid19.lu" redirect
 local-data: "lux-covid19.lu A 0.0.0.0"
 local-zone: "covid-19.smartify-it.de" redirect
 local-data: "covid-19.smartify-it.de A 0.0.0.0"
+local-zone: "covid19graphql.now.sh" redirect
+local-data: "covid19graphql.now.sh A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
