@@ -24004,6 +24004,36 @@ local-zone: "autoevaluacion.covid19.gob.sv" redirect
 local-data: "autoevaluacion.covid19.gob.sv A 0.0.0.0"
 local-zone: "covid19.inzata.com" redirect
 local-data: "covid19.inzata.com A 0.0.0.0"
+local-zone: "105-for-single-glyphs-add-line.api.covid19vis.lingvis.io" redirect
+local-data: "105-for-single-glyphs-add-line.api.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "covid19.welfarepharmacy.co.uk" redirect
+local-data: "covid19.welfarepharmacy.co.uk A 0.0.0.0"
+local-zone: "covid19.wp.huncwot.dev" redirect
+local-data: "covid19.wp.huncwot.dev A 0.0.0.0"
+local-zone: "howisurvivedcovid-19.com" redirect
+local-data: "howisurvivedcovid-19.com A 0.0.0.0"
+local-zone: "hmrc.approvedrefund-covid-19.com" redirect
+local-data: "hmrc.approvedrefund-covid-19.com A 0.0.0.0"
+local-zone: "silentvoice-covid19.com" redirect
+local-data: "silentvoice-covid19.com A 0.0.0.0"
+local-zone: "covid19.dufferinbot.ca" redirect
+local-data: "covid19.dufferinbot.ca A 0.0.0.0"
+local-zone: "airbnb.id-covid19.com" redirect
+local-data: "airbnb.id-covid19.com A 0.0.0.0"
+local-zone: "ideascovid19.com" redirect
+local-data: "ideascovid19.com A 0.0.0.0"
+local-zone: "covid-19.ideas2it.com" redirect
+local-data: "covid-19.ideas2it.com A 0.0.0.0"
+local-zone: "www.citizensagainstcovid-19.org" redirect
+local-data: "www.citizensagainstcovid-19.org A 0.0.0.0"
+local-zone: "www.coronavirus-tracker.at" redirect
+local-data: "www.coronavirus-tracker.at A 0.0.0.0"
+local-zone: "coronavirus-easy-test.com" redirect
+local-data: "coronavirus-easy-test.com A 0.0.0.0"
+local-zone: "coronavirus-tracker.at" redirect
+local-data: "coronavirus-tracker.at A 0.0.0.0"
+local-zone: "citizensagainstcovid-19.org" redirect
+local-data: "citizensagainstcovid-19.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -25100,6 +25130,20 @@ local-zone: "coronavirus.luizcorreia.eti.br" redirect
 local-data: "coronavirus.luizcorreia.eti.br A 0.0.0.0"
 local-zone: "stopcovid19.design" redirect
 local-data: "stopcovid19.design A 0.0.0.0"
+local-zone: "informacioncovid19.com" redirect
+local-data: "informacioncovid19.com A 0.0.0.0"
+local-zone: "coronavirus-bigbang.com" redirect
+local-data: "coronavirus-bigbang.com A 0.0.0.0"
+local-zone: "covid19-carnival.com" redirect
+local-data: "covid19-carnival.com A 0.0.0.0"
+local-zone: "covid19-royalcaribbean.com" redirect
+local-data: "covid19-royalcaribbean.com A 0.0.0.0"
+local-zone: "covid19-nhs.co.uk" redirect
+local-data: "covid19-nhs.co.uk A 0.0.0.0"
+local-zone: "covid19-nhs.com" redirect
+local-data: "covid19-nhs.com A 0.0.0.0"
+local-zone: "covid19-norwegian.com" redirect
+local-data: "covid19-norwegian.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
