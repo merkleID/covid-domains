@@ -24222,6 +24222,50 @@ local-zone: "pro-coronavirus.com" redirect
 local-data: "pro-coronavirus.com A 0.0.0.0"
 local-zone: "chinesecoronavirusclassaction.com" redirect
 local-data: "chinesecoronavirusclassaction.com A 0.0.0.0"
+local-zone: "112covid-19.com" redirect
+local-data: "112covid-19.com A 0.0.0.0"
+local-zone: "coronavirus-radar24.ru" redirect
+local-data: "coronavirus-radar24.ru A 0.0.0.0"
+local-zone: "proforma-covid19.com" redirect
+local-data: "proforma-covid19.com A 0.0.0.0"
+local-zone: "covid19alert.net" redirect
+local-data: "covid19alert.net A 0.0.0.0"
+local-zone: "covid19.yj.fr" redirect
+local-data: "covid19.yj.fr A 0.0.0.0"
+local-zone: "didicatchthecoronavirus.com" redirect
+local-data: "didicatchthecoronavirus.com A 0.0.0.0"
+local-zone: "covid19-api.digitaltech.id" redirect
+local-data: "covid19-api.digitaltech.id A 0.0.0.0"
+local-zone: "xn--test-covid-19--domicile-i5b.com" redirect
+local-data: "xn--test-covid-19--domicile-i5b.com A 0.0.0.0"
+local-zone: "covid19.turbi.com.br" redirect
+local-data: "covid19.turbi.com.br A 0.0.0.0"
+local-zone: "www.covid19.liquid.do" redirect
+local-data: "www.covid19.liquid.do A 0.0.0.0"
+local-zone: "covid-19.nhc.electricpulp.net" redirect
+local-data: "covid-19.nhc.electricpulp.net A 0.0.0.0"
+local-zone: "ncovid19-supplies.com" redirect
+local-data: "ncovid19-supplies.com A 0.0.0.0"
+local-zone: "hpc2covid19.fieb.org.br" redirect
+local-data: "hpc2covid19.fieb.org.br A 0.0.0.0"
+local-zone: "covid19realdata.com" redirect
+local-data: "covid19realdata.com A 0.0.0.0"
+local-zone: "coronavirusonooeir.huidps.com" redirect
+local-data: "coronavirusonooeir.huidps.com A 0.0.0.0"
+local-zone: "sonev-covid19.com" redirect
+local-data: "sonev-covid19.com A 0.0.0.0"
+local-zone: "covid-19webinar.ifma.org" redirect
+local-data: "covid-19webinar.ifma.org A 0.0.0.0"
+local-zone: "sacovid-19map.com" redirect
+local-data: "sacovid-19map.com A 0.0.0.0"
+local-zone: "conference.coronavirus-niger.com" redirect
+local-data: "conference.coronavirus-niger.com A 0.0.0.0"
+local-zone: "goa-covid-19.in" redirect
+local-data: "goa-covid-19.in A 0.0.0.0"
+local-zone: "becoronavirusready.com" redirect
+local-data: "becoronavirusready.com A 0.0.0.0"
+local-zone: "www.covid-19sticker.com" redirect
+local-data: "www.covid-19sticker.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -25338,6 +25382,8 @@ local-zone: "covid19sharing.com" redirect
 local-data: "covid19sharing.com A 0.0.0.0"
 local-zone: "swocovid19.com" redirect
 local-data: "swocovid19.com A 0.0.0.0"
+local-zone: "covid19testme.com" redirect
+local-data: "covid19testme.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
