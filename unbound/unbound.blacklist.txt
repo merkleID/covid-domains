@@ -23530,6 +23530,40 @@ local-zone: "coronavirus-pobedim.ru" redirect
 local-data: "coronavirus-pobedim.ru A 0.0.0.0"
 local-zone: "hack4covid-19.tn" redirect
 local-data: "hack4covid-19.tn A 0.0.0.0"
+local-zone: "www.coronavirushometestkit.co.uk" redirect
+local-data: "www.coronavirushometestkit.co.uk A 0.0.0.0"
+local-zone: "covid19.cristal.je" redirect
+local-data: "covid19.cristal.je A 0.0.0.0"
+local-zone: "covid19.amo0.com" redirect
+local-data: "covid19.amo0.com A 0.0.0.0"
+local-zone: "covid19masks.tech" redirect
+local-data: "covid19masks.tech A 0.0.0.0"
+local-zone: "covid19.bizumy.com" redirect
+local-data: "covid19.bizumy.com A 0.0.0.0"
+local-zone: "www.covid-19-india.in" redirect
+local-data: "www.covid-19-india.in A 0.0.0.0"
+local-zone: "engage.covid19.sorcero.io" redirect
+local-data: "engage.covid19.sorcero.io A 0.0.0.0"
+local-zone: "strahovka-coronavirus.ru" redirect
+local-data: "strahovka-coronavirus.ru A 0.0.0.0"
+local-zone: "engage.covid19.sorcero.io" redirect
+local-data: "engage.covid19.sorcero.io A 0.0.0.0"
+local-zone: "strahovka-coronavirus.ru" redirect
+local-data: "strahovka-coronavirus.ru A 0.0.0.0"
+local-zone: "covid-19-tracker.iotsolutionz.com" redirect
+local-data: "covid-19-tracker.iotsolutionz.com A 0.0.0.0"
+local-zone: "covid19.holdings" redirect
+local-data: "covid19.holdings A 0.0.0.0"
+local-zone: "covid19.transferfactorbusiness.com" redirect
+local-data: "covid19.transferfactorbusiness.com A 0.0.0.0"
+local-zone: "onlinecoronaviruscheck.com" redirect
+local-data: "onlinecoronaviruscheck.com A 0.0.0.0"
+local-zone: "www.protectworldcovid19.com" redirect
+local-data: "www.protectworldcovid19.com A 0.0.0.0"
+local-zone: "protectworldcovid19.com" redirect
+local-data: "protectworldcovid19.com A 0.0.0.0"
+local-zone: "www.anticovid-19virus.com" redirect
+local-data: "www.anticovid-19virus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -24608,6 +24642,8 @@ local-zone: "covid19graphql.now.sh" redirect
 local-data: "covid19graphql.now.sh A 0.0.0.0"
 local-zone: "covid19richmondshire.org" redirect
 local-data: "covid19richmondshire.org A 0.0.0.0"
+local-zone: "apoioscovid19.pt" redirect
+local-data: "apoioscovid19.pt A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
