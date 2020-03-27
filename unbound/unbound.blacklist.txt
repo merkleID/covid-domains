@@ -23240,6 +23240,36 @@ local-zone: "kn95salecoronavirus.com" redirect
 local-data: "kn95salecoronavirus.com A 0.0.0.0"
 local-zone: "www.covid-19helps.com" redirect
 local-data: "www.covid-19helps.com A 0.0.0.0"
+local-zone: "covid-19helps.com" redirect
+local-data: "covid-19helps.com A 0.0.0.0"
+local-zone: "covid19smelltaste.com" redirect
+local-data: "covid19smelltaste.com A 0.0.0.0"
+local-zone: "covid19.stereotheque.com" redirect
+local-data: "covid19.stereotheque.com A 0.0.0.0"
+local-zone: "covid19.diffamr.me" redirect
+local-data: "covid19.diffamr.me A 0.0.0.0"
+local-zone: "coronavirusbe.now.sh" redirect
+local-data: "coronavirusbe.now.sh A 0.0.0.0"
+local-zone: "coronavirusk.now.sh" redirect
+local-data: "coronavirusk.now.sh A 0.0.0.0"
+local-zone: "www.covid19-positivity.com" redirect
+local-data: "www.covid19-positivity.com A 0.0.0.0"
+local-zone: "covid19-positivity.com" redirect
+local-data: "covid19-positivity.com A 0.0.0.0"
+local-zone: "dpcovid19.org" redirect
+local-data: "dpcovid19.org A 0.0.0.0"
+local-zone: "www.covid19nepal.support" redirect
+local-data: "www.covid19nepal.support A 0.0.0.0"
+local-zone: "en.maskforcoronavirus.shop" redirect
+local-data: "en.maskforcoronavirus.shop A 0.0.0.0"
+local-zone: "maskforcoronavirus.shop" redirect
+local-data: "maskforcoronavirus.shop A 0.0.0.0"
+local-zone: "www.covid19nepal.support" redirect
+local-data: "www.covid19nepal.support A 0.0.0.0"
+local-zone: "covid19.forsale" redirect
+local-data: "covid19.forsale A 0.0.0.0"
+local-zone: "dev.fopcovid19.org" redirect
+local-data: "dev.fopcovid19.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
