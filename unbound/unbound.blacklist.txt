@@ -24034,6 +24034,32 @@ local-zone: "coronavirus-tracker.at" redirect
 local-data: "coronavirus-tracker.at A 0.0.0.0"
 local-zone: "citizensagainstcovid-19.org" redirect
 local-data: "citizensagainstcovid-19.org A 0.0.0.0"
+local-zone: "coronavirus-live-statistics.com" redirect
+local-data: "coronavirus-live-statistics.com A 0.0.0.0"
+local-zone: "covid19.bianmanis.repl.run" redirect
+local-data: "covid19.bianmanis.repl.run A 0.0.0.0"
+local-zone: "covid19iraq.com" redirect
+local-data: "covid19iraq.com A 0.0.0.0"
+local-zone: "coronavirustest.services" redirect
+local-data: "coronavirustest.services A 0.0.0.0"
+local-zone: "covid19fighters.net" redirect
+local-data: "covid19fighters.net A 0.0.0.0"
+local-zone: "covid19.yohan.dev" redirect
+local-data: "covid19.yohan.dev A 0.0.0.0"
+local-zone: "www.coronavirustestingkit.uk" redirect
+local-data: "www.coronavirustestingkit.uk A 0.0.0.0"
+local-zone: "www.covid19sh.tk" redirect
+local-data: "www.covid19sh.tk A 0.0.0.0"
+local-zone: "www.coronavirus-protection.shop" redirect
+local-data: "www.coronavirus-protection.shop A 0.0.0.0"
+local-zone: "www.covid19-workout.com" redirect
+local-data: "www.covid19-workout.com A 0.0.0.0"
+local-zone: "ajuda-covid19.nan.pt" redirect
+local-data: "ajuda-covid19.nan.pt A 0.0.0.0"
+local-zone: "covid19.shapeways.com" redirect
+local-data: "covid19.shapeways.com A 0.0.0.0"
+local-zone: "ajuda-covid19.nan.pt" redirect
+local-data: "ajuda-covid19.nan.pt A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
