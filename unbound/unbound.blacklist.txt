@@ -24114,6 +24114,46 @@ local-zone: "covid19-claims.uk" redirect
 local-data: "covid19-claims.uk A 0.0.0.0"
 local-zone: "www.coronavirus-news.ru.net" redirect
 local-data: "www.coronavirus-news.ru.net A 0.0.0.0"
+local-zone: "www.covid-19-vfp-apsi-wiki.ch" redirect
+local-data: "www.covid-19-vfp-apsi-wiki.ch A 0.0.0.0"
+local-zone: "cpcalendars.mamparacovid19.com" redirect
+local-data: "cpcalendars.mamparacovid19.com A 0.0.0.0"
+local-zone: "covid-19-data.virtadpt.net" redirect
+local-data: "covid-19-data.virtadpt.net A 0.0.0.0"
+local-zone: "www.coronavirus-news.ru.net" redirect
+local-data: "www.coronavirus-news.ru.net A 0.0.0.0"
+local-zone: "masque-coronavirus-france.com" redirect
+local-data: "masque-coronavirus-france.com A 0.0.0.0"
+local-zone: "covid19.vspventures.com" redirect
+local-data: "covid19.vspventures.com A 0.0.0.0"
+local-zone: "covid19aids.troniclab.com" redirect
+local-data: "covid19aids.troniclab.com A 0.0.0.0"
+local-zone: "covid19.infn.it" redirect
+local-data: "covid19.infn.it A 0.0.0.0"
+local-zone: "www.covid-19.ciid.dk" redirect
+local-data: "www.covid-19.ciid.dk A 0.0.0.0"
+local-zone: "covid-19-case-counter.vaibhavbhatla.repl.run" redirect
+local-data: "covid-19-case-counter.vaibhavbhatla.repl.run A 0.0.0.0"
+local-zone: "covid-19.ciid.dk" redirect
+local-data: "covid-19.ciid.dk A 0.0.0.0"
+local-zone: "www.hmrc-govupdate-covid-19.com" redirect
+local-data: "www.hmrc-govupdate-covid-19.com A 0.0.0.0"
+local-zone: "covid-19detectionkit.com" redirect
+local-data: "covid-19detectionkit.com A 0.0.0.0"
+local-zone: "coronavirus-ok.com" redirect
+local-data: "coronavirus-ok.com A 0.0.0.0"
+local-zone: "covid19medicals.com" redirect
+local-data: "covid19medicals.com A 0.0.0.0"
+local-zone: "www.covid19medicals.com" redirect
+local-data: "www.covid19medicals.com A 0.0.0.0"
+local-zone: "www.moondancecovid19relieffund.com" redirect
+local-data: "www.moondancecovid19relieffund.com A 0.0.0.0"
+local-zone: "covid19.pasdo.org" redirect
+local-data: "covid19.pasdo.org A 0.0.0.0"
+local-zone: "mxcovid19.com" redirect
+local-data: "mxcovid19.com A 0.0.0.0"
+local-zone: "uk.vscoronavirus.com" redirect
+local-data: "uk.vscoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -25224,6 +25264,8 @@ local-zone: "covid19-nhs.com" redirect
 local-data: "covid19-nhs.com A 0.0.0.0"
 local-zone: "covid19-norwegian.com" redirect
 local-data: "covid19-norwegian.com A 0.0.0.0"
+local-zone: "mercedcounty-covid19.com" redirect
+local-data: "mercedcounty-covid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
