@@ -22894,6 +22894,174 @@ local-zone: "covid-19.acceleratingbiz.com" redirect
 local-data: "covid-19.acceleratingbiz.com A 0.0.0.0"
 local-zone: "wuhancoronavirusdisease.org" redirect
 local-data: "wuhancoronavirusdisease.org A 0.0.0.0"
+local-zone: "coronavirusdisease.info" redirect
+local-data: "coronavirusdisease.info A 0.0.0.0"
+local-zone: "www.coronavirusdisease.net" redirect
+local-data: "www.coronavirusdisease.net A 0.0.0.0"
+local-zone: "www.coronavirusrapidtests.com" redirect
+local-data: "www.coronavirusrapidtests.com A 0.0.0.0"
+local-zone: "wuhancoronavirustests.com" redirect
+local-data: "wuhancoronavirustests.com A 0.0.0.0"
+local-zone: "coronavirusdisease.org" redirect
+local-data: "coronavirusdisease.org A 0.0.0.0"
+local-zone: "coronavirusdisease2020.net" redirect
+local-data: "coronavirusdisease2020.net A 0.0.0.0"
+local-zone: "www.coronavirusdisease2020.com" redirect
+local-data: "www.coronavirusdisease2020.com A 0.0.0.0"
+local-zone: "www.novelcoronavirusvaccine.com" redirect
+local-data: "www.novelcoronavirusvaccine.com A 0.0.0.0"
+local-zone: "wuhancoronavirus2020.org" redirect
+local-data: "wuhancoronavirus2020.org A 0.0.0.0"
+local-zone: "coronavirustestkit.com" redirect
+local-data: "coronavirustestkit.com A 0.0.0.0"
+local-zone: "wuhancoronavirusvaccine.org" redirect
+local-data: "wuhancoronavirusvaccine.org A 0.0.0.0"
+local-zone: "www.novelcoronavirustestlab.com" redirect
+local-data: "www.novelcoronavirustestlab.com A 0.0.0.0"
+local-zone: "coronavirusdisease.org" redirect
+local-data: "coronavirusdisease.org A 0.0.0.0"
+local-zone: "www.coronavirusdisease2020.com" redirect
+local-data: "www.coronavirusdisease2020.com A 0.0.0.0"
+local-zone: "novelcoronaviruslab.com" redirect
+local-data: "novelcoronaviruslab.com A 0.0.0.0"
+local-zone: "wuhancoronavirusdisease.info" redirect
+local-data: "wuhancoronavirusdisease.info A 0.0.0.0"
+local-zone: "www.coronavirusdisease.org" redirect
+local-data: "www.coronavirusdisease.org A 0.0.0.0"
+local-zone: "www.wuhancoronavirus2020.com" redirect
+local-data: "www.wuhancoronavirus2020.com A 0.0.0.0"
+local-zone: "wuhancoronavirusvaccine.net" redirect
+local-data: "wuhancoronavirusvaccine.net A 0.0.0.0"
+local-zone: "www.wuhancoronavirusdisease.com" redirect
+local-data: "www.wuhancoronavirusdisease.com A 0.0.0.0"
+local-zone: "coronavirusselftests.com" redirect
+local-data: "coronavirusselftests.com A 0.0.0.0"
+local-zone: "novelcoronavirustests.com" redirect
+local-data: "novelcoronavirustests.com A 0.0.0.0"
+local-zone: "coronavirusvaccine.info" redirect
+local-data: "coronavirusvaccine.info A 0.0.0.0"
+local-zone: "www.rapidcoronavirustests.com" redirect
+local-data: "www.rapidcoronavirustests.com A 0.0.0.0"
+local-zone: "www.novelcoronaviruskit.com" redirect
+local-data: "www.novelcoronaviruskit.com A 0.0.0.0"
+local-zone: "novelcoronavirustestinglab.com" redirect
+local-data: "novelcoronavirustestinglab.com A 0.0.0.0"
+local-zone: "www.novelcoronavirustesters.com" redirect
+local-data: "www.novelcoronavirustesters.com A 0.0.0.0"
+local-zone: "rapidcoronavirustests.com" redirect
+local-data: "rapidcoronavirustests.com A 0.0.0.0"
+local-zone: "coronavirusepidemic.net" redirect
+local-data: "coronavirusepidemic.net A 0.0.0.0"
+local-zone: "www.novelcoronavirushometestkits.com" redirect
+local-data: "www.novelcoronavirushometestkits.com A 0.0.0.0"
+local-zone: "novelcoronavirusdisease.org" redirect
+local-data: "novelcoronavirusdisease.org A 0.0.0.0"
+local-zone: "www.coronavirustestkit.com" redirect
+local-data: "www.coronavirustestkit.com A 0.0.0.0"
+local-zone: "www.novelcoronavirushometest.com" redirect
+local-data: "www.novelcoronavirushometest.com A 0.0.0.0"
+local-zone: "novelcoronavirustestingkits.com" redirect
+local-data: "novelcoronavirustestingkits.com A 0.0.0.0"
+local-zone: "wuhancoronavirus2020.com" redirect
+local-data: "wuhancoronavirus2020.com A 0.0.0.0"
+local-zone: "wuhancoronavirusdisease.com" redirect
+local-data: "wuhancoronavirusdisease.com A 0.0.0.0"
+local-zone: "www.novelcoronavirusdisease.net" redirect
+local-data: "www.novelcoronavirusdisease.net A 0.0.0.0"
+local-zone: "www.wuhancoronavirusdisease.net" redirect
+local-data: "www.wuhancoronavirusdisease.net A 0.0.0.0"
+local-zone: "www.coronavirusselftests.com" redirect
+local-data: "www.coronavirusselftests.com A 0.0.0.0"
+local-zone: "www.novelcoronavirusdisease.info" redirect
+local-data: "www.novelcoronavirusdisease.info A 0.0.0.0"
+local-zone: "www.wuhancoronavirustest.com" redirect
+local-data: "www.wuhancoronavirustest.com A 0.0.0.0"
+local-zone: "www.coronavirusdiseasenews.com" redirect
+local-data: "www.coronavirusdiseasenews.com A 0.0.0.0"
+local-zone: "wuhancoronavirus2020.net" redirect
+local-data: "wuhancoronavirus2020.net A 0.0.0.0"
+local-zone: "www.wuhancoronavirus2020.net" redirect
+local-data: "www.wuhancoronavirus2020.net A 0.0.0.0"
+local-zone: "www.anticoronavirus.org" redirect
+local-data: "www.anticoronavirus.org A 0.0.0.0"
+local-zone: "novelcoronavirusdisease.info" redirect
+local-data: "novelcoronavirusdisease.info A 0.0.0.0"
+local-zone: "www.novelcoronavirusdisease.org" redirect
+local-data: "www.novelcoronavirusdisease.org A 0.0.0.0"
+local-zone: "www.novelcoronaviruslabtest.com" redirect
+local-data: "www.novelcoronaviruslabtest.com A 0.0.0.0"
+local-zone: "coronaviruspandemic2020.net" redirect
+local-data: "coronaviruspandemic2020.net A 0.0.0.0"
+local-zone: "coronavirusdiseasenews.com" redirect
+local-data: "coronavirusdiseasenews.com A 0.0.0.0"
+local-zone: "www.anticoronavirusdrug.com" redirect
+local-data: "www.anticoronavirusdrug.com A 0.0.0.0"
+local-zone: "fightcovid19store.com" redirect
+local-data: "fightcovid19store.com A 0.0.0.0"
+local-zone: "www.wuhancoronavirus2020.info" redirect
+local-data: "www.wuhancoronavirus2020.info A 0.0.0.0"
+local-zone: "www.novelcoronaviruslab.com" redirect
+local-data: "www.novelcoronaviruslab.com A 0.0.0.0"
+local-zone: "www.novelcoronavirustests.com" redirect
+local-data: "www.novelcoronavirustests.com A 0.0.0.0"
+local-zone: "anticoronavirusdrugs.com" redirect
+local-data: "anticoronavirusdrugs.com A 0.0.0.0"
+local-zone: "novelcoronavirusdisease.net" redirect
+local-data: "novelcoronavirusdisease.net A 0.0.0.0"
+local-zone: "www.anticoronavirusshop.com" redirect
+local-data: "www.anticoronavirusshop.com A 0.0.0.0"
+local-zone: "novelcoronaviruskit.com" redirect
+local-data: "novelcoronaviruskit.com A 0.0.0.0"
+local-zone: "novelcoronavirustest.com" redirect
+local-data: "novelcoronavirustest.com A 0.0.0.0"
+local-zone: "www.novelcoronavirustestinglab.com" redirect
+local-data: "www.novelcoronavirustestinglab.com A 0.0.0.0"
+local-zone: "novelcoronavirushometestkits.com" redirect
+local-data: "novelcoronavirushometestkits.com A 0.0.0.0"
+local-zone: "novelcoronavirusvaccine.net" redirect
+local-data: "novelcoronavirusvaccine.net A 0.0.0.0"
+local-zone: "www.coronavirusselftestkits.com" redirect
+local-data: "www.coronavirusselftestkits.com A 0.0.0.0"
+local-zone: "coronavirusselftestkits.com" redirect
+local-data: "coronavirusselftestkits.com A 0.0.0.0"
+local-zone: "novelcoronaviruskits.com" redirect
+local-data: "novelcoronaviruskits.com A 0.0.0.0"
+local-zone: "novelcoronavirustestlab.com" redirect
+local-data: "novelcoronavirustestlab.com A 0.0.0.0"
+local-zone: "www.novelcoronavirustestingkit.com" redirect
+local-data: "www.novelcoronavirustestingkit.com A 0.0.0.0"
+local-zone: "wuhancoronavirus2020.info" redirect
+local-data: "wuhancoronavirus2020.info A 0.0.0.0"
+local-zone: "www.coronavirusvaccine.info" redirect
+local-data: "www.coronavirusvaccine.info A 0.0.0.0"
+local-zone: "www.novelcoronaviruskits.com" redirect
+local-data: "www.novelcoronaviruskits.com A 0.0.0.0"
+local-zone: "www.coronavirusrespirators.com" redirect
+local-data: "www.coronavirusrespirators.com A 0.0.0.0"
+local-zone: "covid-19.writtle.ac.uk" redirect
+local-data: "covid-19.writtle.ac.uk A 0.0.0.0"
+local-zone: "novelcoronaviruslabtests.com" redirect
+local-data: "novelcoronaviruslabtests.com A 0.0.0.0"
+local-zone: "anticoronavirusshop.com" redirect
+local-data: "anticoronavirusshop.com A 0.0.0.0"
+local-zone: "anticoronaviruskits.com" redirect
+local-data: "anticoronaviruskits.com A 0.0.0.0"
+local-zone: "thecoronavirusdisease.com" redirect
+local-data: "thecoronavirusdisease.com A 0.0.0.0"
+local-zone: "bb-covid-19.agenciavirtuals.com" redirect
+local-data: "bb-covid-19.agenciavirtuals.com A 0.0.0.0"
+local-zone: "www.covid19-ugm.org" redirect
+local-data: "www.covid19-ugm.org A 0.0.0.0"
+local-zone: "coronavirus.cchealth.org" redirect
+local-data: "coronavirus.cchealth.org A 0.0.0.0"
+local-zone: "covid19page-hayakun.tk" redirect
+local-data: "covid19page-hayakun.tk A 0.0.0.0"
+local-zone: "safeworldcovid19.kinsuhub.com" redirect
+local-data: "safeworldcovid19.kinsuhub.com A 0.0.0.0"
+local-zone: "www.covid-2019-protect.com" redirect
+local-data: "www.covid-2019-protect.com A 0.0.0.0"
+local-zone: "bb-covid-19.agencia-virtual.com" redirect
+local-data: "bb-covid-19.agencia-virtual.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
