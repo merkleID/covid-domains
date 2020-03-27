@@ -23216,6 +23216,30 @@ local-zone: "covid19.lailisalassyifa.com" redirect
 local-data: "covid19.lailisalassyifa.com A 0.0.0.0"
 local-zone: "www.covid19.codeonec.co" redirect
 local-data: "www.covid19.codeonec.co A 0.0.0.0"
+local-zone: "covid19-testkit.org" redirect
+local-data: "covid19-testkit.org A 0.0.0.0"
+local-zone: "2019-ncov.wiki" redirect
+local-data: "2019-ncov.wiki A 0.0.0.0"
+local-zone: "covid19.minahasa.go.id" redirect
+local-data: "covid19.minahasa.go.id A 0.0.0.0"
+local-zone: "it.maskforcoronavirus.shop" redirect
+local-data: "it.maskforcoronavirus.shop A 0.0.0.0"
+local-zone: "coronavirusmasksale-n95.com" redirect
+local-data: "coronavirusmasksale-n95.com A 0.0.0.0"
+local-zone: "nl.maskforcoronavirus.shop" redirect
+local-data: "nl.maskforcoronavirus.shop A 0.0.0.0"
+local-zone: "npt-covid19.com" redirect
+local-data: "npt-covid19.com A 0.0.0.0"
+local-zone: "covid19.unicampus.it" redirect
+local-data: "covid19.unicampus.it A 0.0.0.0"
+local-zone: "anticovid19araras.life" redirect
+local-data: "anticovid19araras.life A 0.0.0.0"
+local-zone: "coronavirusmasksaleusa.com" redirect
+local-data: "coronavirusmasksaleusa.com A 0.0.0.0"
+local-zone: "kn95salecoronavirus.com" redirect
+local-data: "kn95salecoronavirus.com A 0.0.0.0"
+local-zone: "www.covid-19helps.com" redirect
+local-data: "www.covid-19helps.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
