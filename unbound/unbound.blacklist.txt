@@ -23688,6 +23688,34 @@ local-zone: "covid19vienna.com" redirect
 local-data: "covid19vienna.com A 0.0.0.0"
 local-zone: "covid19.trending.ng" redirect
 local-data: "covid19.trending.ng A 0.0.0.0"
+local-zone: "www.coronavirus19-pandemia.ru" redirect
+local-data: "www.coronavirus19-pandemia.ru A 0.0.0.0"
+local-zone: "coronavirus-tests.ru" redirect
+local-data: "coronavirus-tests.ru A 0.0.0.0"
+local-zone: "dailycoronavirus.com" redirect
+local-data: "dailycoronavirus.com A 0.0.0.0"
+local-zone: "trackcovid19linebot.com" redirect
+local-data: "trackcovid19linebot.com A 0.0.0.0"
+local-zone: "covid19gt.com" redirect
+local-data: "covid19gt.com A 0.0.0.0"
+local-zone: "ganaremosalcoronavirus.com" redirect
+local-data: "ganaremosalcoronavirus.com A 0.0.0.0"
+local-zone: "covid19helpme.com" redirect
+local-data: "covid19helpme.com A 0.0.0.0"
+local-zone: "coronavirus24.com" redirect
+local-data: "coronavirus24.com A 0.0.0.0"
+local-zone: "covid19.fayzlab.com" redirect
+local-data: "covid19.fayzlab.com A 0.0.0.0"
+local-zone: "covid19jobmatch.org.au" redirect
+local-data: "covid19jobmatch.org.au A 0.0.0.0"
+local-zone: "covid19taskforcedv.org" redirect
+local-data: "covid19taskforcedv.org A 0.0.0.0"
+local-zone: "covid19osr.alephsrl.com" redirect
+local-data: "covid19osr.alephsrl.com A 0.0.0.0"
+local-zone: "tristatecovid19.org" redirect
+local-data: "tristatecovid19.org A 0.0.0.0"
+local-zone: "covid19.asociatiacivica.ro" redirect
+local-data: "covid19.asociatiacivica.ro A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -24772,6 +24800,8 @@ local-zone: "covid19.biodati.com" redirect
 local-data: "covid19.biodati.com A 0.0.0.0"
 local-zone: "coronaviruserrands.com" redirect
 local-data: "coronaviruserrands.com A 0.0.0.0"
+local-zone: "covid-19ita.com" redirect
+local-data: "covid-19ita.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
