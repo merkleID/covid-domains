@@ -24060,6 +24060,60 @@ local-zone: "covid19.shapeways.com" redirect
 local-data: "covid19.shapeways.com A 0.0.0.0"
 local-zone: "ajuda-covid19.nan.pt" redirect
 local-data: "ajuda-covid19.nan.pt A 0.0.0.0"
+local-zone: "covid19network.org" redirect
+local-data: "covid19network.org A 0.0.0.0"
+local-zone: "www.covid19-tests.com" redirect
+local-data: "www.covid19-tests.com A 0.0.0.0"
+local-zone: "www.covid-19hometestkit.com" redirect
+local-data: "www.covid-19hometestkit.com A 0.0.0.0"
+local-zone: "covid-19selftests.com" redirect
+local-data: "covid-19selftests.com A 0.0.0.0"
+local-zone: "www.covid19selftests.com" redirect
+local-data: "www.covid19selftests.com A 0.0.0.0"
+local-zone: "covid19.zenithstrategy.com" redirect
+local-data: "covid19.zenithstrategy.com A 0.0.0.0"
+local-zone: "coronavirustrakker.info" redirect
+local-data: "coronavirustrakker.info A 0.0.0.0"
+local-zone: "trackcovid19.now.sh" redirect
+local-data: "trackcovid19.now.sh A 0.0.0.0"
+local-zone: "www.testforcovid19.ru" redirect
+local-data: "www.testforcovid19.ru A 0.0.0.0"
+local-zone: "covid19.leanpichincha.com" redirect
+local-data: "covid19.leanpichincha.com A 0.0.0.0"
+local-zone: "lebicoronavirusmask.com" redirect
+local-data: "lebicoronavirusmask.com A 0.0.0.0"
+local-zone: "sobrevivabemaocoronavirus.com.br" redirect
+local-data: "sobrevivabemaocoronavirus.com.br A 0.0.0.0"
+local-zone: "www.lhgcovid19.com" redirect
+local-data: "www.lhgcovid19.com A 0.0.0.0"
+local-zone: "covid19.crisis.seesawing.into.a.whole.earth" redirect
+local-data: "covid19.crisis.seesawing.into.a.whole.earth A 0.0.0.0"
+local-zone: "coronavirus2020news.com" redirect
+local-data: "coronavirus2020news.com A 0.0.0.0"
+local-zone: "covid19.id-airbnb.com" redirect
+local-data: "covid19.id-airbnb.com A 0.0.0.0"
+local-zone: "sa-coronavirus.co.za" redirect
+local-data: "sa-coronavirus.co.za A 0.0.0.0"
+local-zone: "covid19networktracker.com" redirect
+local-data: "covid19networktracker.com A 0.0.0.0"
+local-zone: "www.coronaviruslive.ml" redirect
+local-data: "www.coronaviruslive.ml A 0.0.0.0"
+local-zone: "livecovid19tv.com" redirect
+local-data: "livecovid19tv.com A 0.0.0.0"
+local-zone: "covid-19.perezcleaners.com" redirect
+local-data: "covid-19.perezcleaners.com A 0.0.0.0"
+local-zone: "covid-19.strollopia.com" redirect
+local-data: "covid-19.strollopia.com A 0.0.0.0"
+local-zone: "covid19.infn.it" redirect
+local-data: "covid19.infn.it A 0.0.0.0"
+local-zone: "covid19.lumacms.com" redirect
+local-data: "covid19.lumacms.com A 0.0.0.0"
+local-zone: "sgtiflexcovid19.com" redirect
+local-data: "sgtiflexcovid19.com A 0.0.0.0"
+local-zone: "covid19-claims.uk" redirect
+local-data: "covid19-claims.uk A 0.0.0.0"
+local-zone: "www.coronavirus-news.ru.net" redirect
+local-data: "www.coronavirus-news.ru.net A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
