@@ -24452,6 +24452,32 @@ local-zone: "test.covid-19mx.app" redirect
 local-data: "test.covid-19mx.app A 0.0.0.0"
 local-zone: "coronavirus-schweiz.com" redirect
 local-data: "coronavirus-schweiz.com A 0.0.0.0"
+local-zone: "coronavirus.earth" redirect
+local-data: "coronavirus.earth A 0.0.0.0"
+local-zone: "www.coronavirus.earth" redirect
+local-data: "www.coronavirus.earth A 0.0.0.0"
+local-zone: "testcovid19.utalca.cl" redirect
+local-data: "testcovid19.utalca.cl A 0.0.0.0"
+local-zone: "www.test-covid19.ru" redirect
+local-data: "www.test-covid19.ru A 0.0.0.0"
+local-zone: "covid19.jimmysdixon.com" redirect
+local-data: "covid19.jimmysdixon.com A 0.0.0.0"
+local-zone: "coronavirusglobe.info" redirect
+local-data: "coronavirusglobe.info A 0.0.0.0"
+local-zone: "covid19.donateisrael.net" redirect
+local-data: "covid19.donateisrael.net A 0.0.0.0"
+local-zone: "my.respondingtocoronavirus.com" redirect
+local-data: "my.respondingtocoronavirus.com A 0.0.0.0"
+local-zone: "covid19.aciccerejeiras.com.br" redirect
+local-data: "covid19.aciccerejeiras.com.br A 0.0.0.0"
+local-zone: "wuhanvirus.com" redirect
+local-data: "wuhanvirus.com A 0.0.0.0"
+local-zone: "covid-19.chelveston.org.uk" redirect
+local-data: "covid-19.chelveston.org.uk A 0.0.0.0"
+local-zone: "covid19dataproject.org" redirect
+local-data: "covid19dataproject.org A 0.0.0.0"
+local-zone: "covid19.sante.dz.org" redirect
+local-data: "covid19.sante.dz.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -25574,6 +25600,8 @@ local-zone: "covid19.houseliver.com" redirect
 local-data: "covid19.houseliver.com A 0.0.0.0"
 local-zone: "babyinthetimeofcoronavirus.com" redirect
 local-data: "babyinthetimeofcoronavirus.com A 0.0.0.0"
+local-zone: "covid19-tester.cz" redirect
+local-data: "covid19-tester.cz A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
