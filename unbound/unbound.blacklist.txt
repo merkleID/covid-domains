@@ -24366,6 +24366,46 @@ local-zone: "testkitforcovid19.com" redirect
 local-data: "testkitforcovid19.com A 0.0.0.0"
 local-zone: "beatcovid-19.kars.app" redirect
 local-data: "beatcovid-19.kars.app A 0.0.0.0"
+local-zone: "response2covid19.com" redirect
+local-data: "response2covid19.com A 0.0.0.0"
+local-zone: "covid19quarantinegames.com" redirect
+local-data: "covid19quarantinegames.com A 0.0.0.0"
+local-zone: "acoronavirus.co.uk" redirect
+local-data: "acoronavirus.co.uk A 0.0.0.0"
+local-zone: "www.acoronavirus.co.uk" redirect
+local-data: "www.acoronavirus.co.uk A 0.0.0.0"
+local-zone: "covid19.designofox.com" redirect
+local-data: "covid19.designofox.com A 0.0.0.0"
+local-zone: "www.busacovid19.org" redirect
+local-data: "www.busacovid19.org A 0.0.0.0"
+local-zone: "covid19.ruulr.ee" redirect
+local-data: "covid19.ruulr.ee A 0.0.0.0"
+local-zone: "medicarecoronavirus.com" redirect
+local-data: "medicarecoronavirus.com A 0.0.0.0"
+local-zone: "covid19taskforce.sciensano.be" redirect
+local-data: "covid19taskforce.sciensano.be A 0.0.0.0"
+local-zone: "www.coronavirus-stat.info" redirect
+local-data: "www.coronavirus-stat.info A 0.0.0.0"
+local-zone: "www.covid19protect.ca" redirect
+local-data: "www.covid19protect.ca A 0.0.0.0"
+local-zone: "fightcoronaviruscovid19.com" redirect
+local-data: "fightcoronaviruscovid19.com A 0.0.0.0"
+local-zone: "autoevaluacion.covid19.gob.sv" redirect
+local-data: "autoevaluacion.covid19.gob.sv A 0.0.0.0"
+local-zone: "tshirt-covid19.com" redirect
+local-data: "tshirt-covid19.com A 0.0.0.0"
+local-zone: "testcovid19.utalca.cl" redirect
+local-data: "testcovid19.utalca.cl A 0.0.0.0"
+local-zone: "www.fluandcoronavirus.com" redirect
+local-data: "www.fluandcoronavirus.com A 0.0.0.0"
+local-zone: "www.flyacovid-19flag.com" redirect
+local-data: "www.flyacovid-19flag.com A 0.0.0.0"
+local-zone: "covid19-maps.ru" redirect
+local-data: "covid19-maps.ru A 0.0.0.0"
+local-zone: "twistlecovid19.com" redirect
+local-data: "twistlecovid19.com A 0.0.0.0"
+local-zone: "112covid-19.com" redirect
+local-data: "112covid-19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
