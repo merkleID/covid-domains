@@ -24322,6 +24322,50 @@ local-zone: "covid19relief.sba.gov" redirect
 local-data: "covid19relief.sba.gov A 0.0.0.0"
 local-zone: "offficialcoronavirus.com" redirect
 local-data: "offficialcoronavirus.com A 0.0.0.0"
+local-zone: "www.coronaviruscleaningcompany.co.uk" redirect
+local-data: "www.coronaviruscleaningcompany.co.uk A 0.0.0.0"
+local-zone: "covid19initiatives.com" redirect
+local-data: "covid19initiatives.com A 0.0.0.0"
+local-zone: "ko.maskforcoronavirus.shop" redirect
+local-data: "ko.maskforcoronavirus.shop A 0.0.0.0"
+local-zone: "covid-19.vspventures.com" redirect
+local-data: "covid-19.vspventures.com A 0.0.0.0"
+local-zone: "don.shopaxe.online.covid19aph.com" redirect
+local-data: "don.shopaxe.online.covid19aph.com A 0.0.0.0"
+local-zone: "covid19.junglemetal.com" redirect
+local-data: "covid19.junglemetal.com A 0.0.0.0"
+local-zone: "covid19.hvpaesdebarros.com.br" redirect
+local-data: "covid19.hvpaesdebarros.com.br A 0.0.0.0"
+local-zone: "coronavirus.omarliberatto.net" redirect
+local-data: "coronavirus.omarliberatto.net A 0.0.0.0"
+local-zone: "covid-19.epseth.com" redirect
+local-data: "covid-19.epseth.com A 0.0.0.0"
+local-zone: "testcovid19.utalca.cl" redirect
+local-data: "testcovid19.utalca.cl A 0.0.0.0"
+local-zone: "supportcovid-19.com" redirect
+local-data: "supportcovid-19.com A 0.0.0.0"
+local-zone: "autoevaluacion.covid19.gob.sv" redirect
+local-data: "autoevaluacion.covid19.gob.sv A 0.0.0.0"
+local-zone: "whm.svmcovid19.com" redirect
+local-data: "whm.svmcovid19.com A 0.0.0.0"
+local-zone: "offficialcoronavirus.com" redirect
+local-data: "offficialcoronavirus.com A 0.0.0.0"
+local-zone: "covid19-indialive.easocare.com" redirect
+local-data: "covid19-indialive.easocare.com A 0.0.0.0"
+local-zone: "coronavirusafrica.live" redirect
+local-data: "coronavirusafrica.live A 0.0.0.0"
+local-zone: "coronavirus-medicalsupplies.com" redirect
+local-data: "coronavirus-medicalsupplies.com A 0.0.0.0"
+local-zone: "theoffficialcoronavirus.com" redirect
+local-data: "theoffficialcoronavirus.com A 0.0.0.0"
+local-zone: "cscovid19.ro" redirect
+local-data: "cscovid19.ro A 0.0.0.0"
+local-zone: "www.coronavirus-medicalsupplies.com" redirect
+local-data: "www.coronavirus-medicalsupplies.com A 0.0.0.0"
+local-zone: "testkitforcovid19.com" redirect
+local-data: "testkitforcovid19.com A 0.0.0.0"
+local-zone: "beatcovid-19.kars.app" redirect
+local-data: "beatcovid-19.kars.app A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -25440,6 +25484,8 @@ local-zone: "swocovid19.com" redirect
 local-data: "swocovid19.com A 0.0.0.0"
 local-zone: "covid19testme.com" redirect
 local-data: "covid19testme.com A 0.0.0.0"
+local-zone: "covid19.houseliver.com" redirect
+local-data: "covid19.houseliver.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
