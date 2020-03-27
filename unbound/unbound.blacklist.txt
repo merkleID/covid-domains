@@ -22686,6 +22686,38 @@ local-zone: "worldcupcoronavirus.com" redirect
 local-data: "worldcupcoronavirus.com A 0.0.0.0"
 local-zone: "webdisk.kogicovid19.com.ng" redirect
 local-data: "webdisk.kogicovid19.com.ng A 0.0.0.0"
+local-zone: "covid19.oskar.website" redirect
+local-data: "covid19.oskar.website A 0.0.0.0"
+local-zone: "coronavirustotalcleaning.com" redirect
+local-data: "coronavirustotalcleaning.com A 0.0.0.0"
+local-zone: "kickingcovid19.com" redirect
+local-data: "kickingcovid19.com A 0.0.0.0"
+local-zone: "www.kickingcovid19.com" redirect
+local-data: "www.kickingcovid19.com A 0.0.0.0"
+local-zone: "www.covid19shortagestore.com" redirect
+local-data: "www.covid19shortagestore.com A 0.0.0.0"
+local-zone: "www.ph-covid19.com" redirect
+local-data: "www.ph-covid19.com A 0.0.0.0"
+local-zone: "yotuvecoronavirus.info" redirect
+local-data: "yotuvecoronavirus.info A 0.0.0.0"
+local-zone: "covid19.datacommons.io" redirect
+local-data: "covid19.datacommons.io A 0.0.0.0"
+local-zone: "covid19updte.gotdns.ch" redirect
+local-data: "covid19updte.gotdns.ch A 0.0.0.0"
+local-zone: "www.coronavirusdata.it" redirect
+local-data: "www.coronavirusdata.it A 0.0.0.0"
+local-zone: "coronavirus-pandemie.com" redirect
+local-data: "coronavirus-pandemie.com A 0.0.0.0"
+local-zone: "covid19.agencia-virtual.com" redirect
+local-data: "covid19.agencia-virtual.com A 0.0.0.0"
+local-zone: "covid19-info.in.ithinkcreatives.com" redirect
+local-data: "covid19-info.in.ithinkcreatives.com A 0.0.0.0"
+local-zone: "mail.covid19direct.care" redirect
+local-data: "mail.covid19direct.care A 0.0.0.0"
+local-zone: "whenwillcovid19end.com" redirect
+local-data: "whenwillcovid19end.com A 0.0.0.0"
+local-zone: "api.covid-19.digitalie.dev" redirect
+local-data: "api.covid-19.digitalie.dev A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -23734,6 +23766,12 @@ local-zone: "covid19-news.it" redirect
 local-data: "covid19-news.it A 0.0.0.0"
 local-zone: "covid19-assessment-registration.ca" redirect
 local-data: "covid19-assessment-registration.ca A 0.0.0.0"
+local-zone: "phcovid19.info" redirect
+local-data: "phcovid19.info A 0.0.0.0"
+local-zone: "coronacovid19.it" redirect
+local-data: "coronacovid19.it A 0.0.0.0"
+local-zone: "covid-19outreach.com" redirect
+local-data: "covid-19outreach.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
