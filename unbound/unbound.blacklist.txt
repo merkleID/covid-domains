@@ -23152,6 +23152,26 @@ local-zone: "www.covid-19-world.com" redirect
 local-data: "www.covid-19-world.com A 0.0.0.0"
 local-zone: "covid19.fernandes.org" redirect
 local-data: "covid19.fernandes.org A 0.0.0.0"
+local-zone: "covid19.codingnewxcode.site" redirect
+local-data: "covid19.codingnewxcode.site A 0.0.0.0"
+local-zone: "covid19data.hira.or.kr" redirect
+local-data: "covid19data.hira.or.kr A 0.0.0.0"
+local-zone: "reportcovid19.com.ng" redirect
+local-data: "reportcovid19.com.ng A 0.0.0.0"
+local-zone: "covid19.azores.net" redirect
+local-data: "covid19.azores.net A 0.0.0.0"
+local-zone: "covid19.angstrom.bio" redirect
+local-data: "covid19.angstrom.bio A 0.0.0.0"
+local-zone: "covid19data.hira.or.kr" redirect
+local-data: "covid19data.hira.or.kr A 0.0.0.0"
+local-zone: "covid-19-6soo.onrender.com" redirect
+local-data: "covid-19-6soo.onrender.com A 0.0.0.0"
+local-zone: "covid19southafrica.com" redirect
+local-data: "covid19southafrica.com A 0.0.0.0"
+local-zone: "kawalcovid19.maliliurbanenduro.com" redirect
+local-data: "kawalcovid19.maliliurbanenduro.com A 0.0.0.0"
+local-zone: "stop-covid19.online" redirect
+local-data: "stop-covid19.online A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
