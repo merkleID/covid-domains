@@ -24266,6 +24266,62 @@ local-zone: "becoronavirusready.com" redirect
 local-data: "becoronavirusready.com A 0.0.0.0"
 local-zone: "www.covid-19sticker.com" redirect
 local-data: "www.covid-19sticker.com A 0.0.0.0"
+local-zone: "www.sciotocovid19.com" redirect
+local-data: "www.sciotocovid19.com A 0.0.0.0"
+local-zone: "covid19.tech-advocates.com" redirect
+local-data: "covid19.tech-advocates.com A 0.0.0.0"
+local-zone: "xn--test-covid-19--domicile-i5b.fr" redirect
+local-data: "xn--test-covid-19--domicile-i5b.fr A 0.0.0.0"
+local-zone: "coronavirusdesk.com" redirect
+local-data: "coronavirusdesk.com A 0.0.0.0"
+local-zone: "covid19grandjury.com" redirect
+local-data: "covid19grandjury.com A 0.0.0.0"
+local-zone: "maker-vs-covid19.sensesiot.com" redirect
+local-data: "maker-vs-covid19.sensesiot.com A 0.0.0.0"
+local-zone: "covid19response.icrinc.com" redirect
+local-data: "covid19response.icrinc.com A 0.0.0.0"
+local-zone: "www.covid-19communityrelief-iowa.com" redirect
+local-data: "www.covid-19communityrelief-iowa.com A 0.0.0.0"
+local-zone: "dev-covid19.yaniz.dev" redirect
+local-data: "dev-covid19.yaniz.dev A 0.0.0.0"
+local-zone: "es.coronavirus-rife.com" redirect
+local-data: "es.coronavirus-rife.com A 0.0.0.0"
+local-zone: "en.coronavirus-rife.com" redirect
+local-data: "en.coronavirus-rife.com A 0.0.0.0"
+local-zone: "covid-19communityrelief-iowa.com" redirect
+local-data: "covid-19communityrelief-iowa.com A 0.0.0.0"
+local-zone: "covid19taskforce.sciensano.be" redirect
+local-data: "covid19taskforce.sciensano.be A 0.0.0.0"
+local-zone: "stage.roccovid19masks.org" redirect
+local-data: "stage.roccovid19masks.org A 0.0.0.0"
+local-zone: "actioncovid19.servitechenergie.com" redirect
+local-data: "actioncovid19.servitechenergie.com A 0.0.0.0"
+local-zone: "gamesvscovid19.com" redirect
+local-data: "gamesvscovid19.com A 0.0.0.0"
+local-zone: "www.gocilcovid19.online" redirect
+local-data: "www.gocilcovid19.online A 0.0.0.0"
+local-zone: "coronavirus.marklogic.com" redirect
+local-data: "coronavirus.marklogic.com A 0.0.0.0"
+local-zone: "covid19.alpaka.si" redirect
+local-data: "covid19.alpaka.si A 0.0.0.0"
+local-zone: "covid-19survivorof2020.com" redirect
+local-data: "covid-19survivorof2020.com A 0.0.0.0"
+local-zone: "coronavirussurvivorof2020.com" redirect
+local-data: "coronavirussurvivorof2020.com A 0.0.0.0"
+local-zone: "www.coronaviruscleaningcompany.co.uk" redirect
+local-data: "www.coronaviruscleaningcompany.co.uk A 0.0.0.0"
+local-zone: "educovid19.ca" redirect
+local-data: "educovid19.ca A 0.0.0.0"
+local-zone: "www.covid19response.icrinc.com" redirect
+local-data: "www.covid19response.icrinc.com A 0.0.0.0"
+local-zone: "coronaviruschroniclesarchive.com" redirect
+local-data: "coronaviruschroniclesarchive.com A 0.0.0.0"
+local-zone: "www.covid19response.icrinc.com" redirect
+local-data: "www.covid19response.icrinc.com A 0.0.0.0"
+local-zone: "covid19relief.sba.gov" redirect
+local-data: "covid19relief.sba.gov A 0.0.0.0"
+local-zone: "offficialcoronavirus.com" redirect
+local-data: "offficialcoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
