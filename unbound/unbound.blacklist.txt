@@ -23564,6 +23564,32 @@ local-zone: "protectworldcovid19.com" redirect
 local-data: "protectworldcovid19.com A 0.0.0.0"
 local-zone: "www.anticovid-19virus.com" redirect
 local-data: "www.anticovid-19virus.com A 0.0.0.0"
+local-zone: "www.covid19.kyawmoehan.me" redirect
+local-data: "www.covid19.kyawmoehan.me A 0.0.0.0"
+local-zone: "covid19.dampal.com" redirect
+local-data: "covid19.dampal.com A 0.0.0.0"
+local-zone: "covid-19safe.com.au" redirect
+local-data: "covid-19safe.com.au A 0.0.0.0"
+local-zone: "covid19.dawi.tn" redirect
+local-data: "covid19.dawi.tn A 0.0.0.0"
+local-zone: "covid-1984.co.uk" redirect
+local-data: "covid-1984.co.uk A 0.0.0.0"
+local-zone: "coronavirus.de" redirect
+local-data: "coronavirus.de A 0.0.0.0"
+local-zone: "coronavirus-inrealtime.com" redirect
+local-data: "coronavirus-inrealtime.com A 0.0.0.0"
+local-zone: "blmcovid19.hardover.com" redirect
+local-data: "blmcovid19.hardover.com A 0.0.0.0"
+local-zone: "anticoronavirusbay.com" redirect
+local-data: "anticoronavirusbay.com A 0.0.0.0"
+local-zone: "covid-19.fendtube.com" redirect
+local-data: "covid-19.fendtube.com A 0.0.0.0"
+local-zone: "vale-verdecovid19.com.br" redirect
+local-data: "vale-verdecovid19.com.br A 0.0.0.0"
+local-zone: "www.coronavirusdot.com" redirect
+local-data: "www.coronavirusdot.com A 0.0.0.0"
+local-zone: "covid-19.anac.bj" redirect
+local-data: "covid-19.anac.bj A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -24644,6 +24670,8 @@ local-zone: "covid19richmondshire.org" redirect
 local-data: "covid19richmondshire.org A 0.0.0.0"
 local-zone: "apoioscovid19.pt" redirect
 local-data: "apoioscovid19.pt A 0.0.0.0"
+local-zone: "covid19.biodati.com" redirect
+local-data: "covid19.biodati.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
