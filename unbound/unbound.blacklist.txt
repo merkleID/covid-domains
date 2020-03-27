@@ -23632,6 +23632,62 @@ local-zone: "www.covid19-kits.co.uk" redirect
 local-data: "www.covid19-kits.co.uk A 0.0.0.0"
 local-zone: "covid19digitalarchive.com" redirect
 local-data: "covid19digitalarchive.com A 0.0.0.0"
+local-zone: "covid19-map.lu" redirect
+local-data: "covid19-map.lu A 0.0.0.0"
+local-zone: "lockcoronavirus.com" redirect
+local-data: "lockcoronavirus.com A 0.0.0.0"
+local-zone: "covid19.osom.finance" redirect
+local-data: "covid19.osom.finance A 0.0.0.0"
+local-zone: "coronavirus.predpazi.com" redirect
+local-data: "coronavirus.predpazi.com A 0.0.0.0"
+local-zone: "webcovid19.habber.com" redirect
+local-data: "webcovid19.habber.com A 0.0.0.0"
+local-zone: "covid19.internalia.net" redirect
+local-data: "covid19.internalia.net A 0.0.0.0"
+local-zone: "covid19.loans.frog16.com" redirect
+local-data: "covid19.loans.frog16.com A 0.0.0.0"
+local-zone: "coronavirus-schweiz.com" redirect
+local-data: "coronavirus-schweiz.com A 0.0.0.0"
+local-zone: "coronaviruscounting.com" redirect
+local-data: "coronaviruscounting.com A 0.0.0.0"
+local-zone: "coronavirusdisinfectantsupply.com" redirect
+local-data: "coronavirusdisinfectantsupply.com A 0.0.0.0"
+local-zone: "coronavirusuvlight.com" redirect
+local-data: "coronavirusuvlight.com A 0.0.0.0"
+local-zone: "webmail.coronavirus-toolkit.com" redirect
+local-data: "webmail.coronavirus-toolkit.com A 0.0.0.0"
+local-zone: "www.corona-virus-facts.com" redirect
+local-data: "www.corona-virus-facts.com A 0.0.0.0"
+local-zone: "coronavirusfunnyjokes.com" redirect
+local-data: "coronavirusfunnyjokes.com A 0.0.0.0"
+local-zone: "coronavirus-ekaterinburg.ru" redirect
+local-data: "coronavirus-ekaterinburg.ru A 0.0.0.0"
+local-zone: "coronavirushandgels.com" redirect
+local-data: "coronavirushandgels.com A 0.0.0.0"
+local-zone: "www.coronaviruscleaningnyc.com" redirect
+local-data: "www.coronaviruscleaningnyc.com A 0.0.0.0"
+local-zone: "coronavirusdefenselawyer.com" redirect
+local-data: "coronavirusdefenselawyer.com A 0.0.0.0"
+local-zone: "coronavirusalert.com" redirect
+local-data: "coronavirusalert.com A 0.0.0.0"
+local-zone: "coronavirusnewslocal.com" redirect
+local-data: "coronavirusnewslocal.com A 0.0.0.0"
+local-zone: "corona-virus-domains.com" redirect
+local-data: "corona-virus-domains.com A 0.0.0.0"
+local-zone: "coronavirusprevension.com" redirect
+local-data: "coronavirusprevension.com A 0.0.0.0"
+local-zone: "coronavirusshitisreal.com" redirect
+local-data: "coronavirusshitisreal.com A 0.0.0.0"
+local-zone: "coronavirusinjurylaw.com" redirect
+local-data: "coronavirusinjurylaw.com A 0.0.0.0"
+local-zone: "coronavirusayurvedictreatment.com" redirect
+local-data: "coronavirusayurvedictreatment.com A 0.0.0.0"
+local-zone: "coronavirus.amnhealthcare.com" redirect
+local-data: "coronavirus.amnhealthcare.com A 0.0.0.0"
+local-zone: "covid19vienna.com" redirect
+local-data: "covid19vienna.com A 0.0.0.0"
+local-zone: "covid19.trending.ng" redirect
+local-data: "covid19.trending.ng A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -24714,6 +24770,8 @@ local-zone: "apoioscovid19.pt" redirect
 local-data: "apoioscovid19.pt A 0.0.0.0"
 local-zone: "covid19.biodati.com" redirect
 local-data: "covid19.biodati.com A 0.0.0.0"
+local-zone: "coronaviruserrands.com" redirect
+local-data: "coronaviruserrands.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
