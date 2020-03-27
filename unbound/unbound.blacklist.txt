@@ -23590,6 +23590,48 @@ local-zone: "www.coronavirusdot.com" redirect
 local-data: "www.coronavirusdot.com A 0.0.0.0"
 local-zone: "covid-19.anac.bj" redirect
 local-data: "covid-19.anac.bj A 0.0.0.0"
+local-zone: "atlanticnickelcovid19.com" redirect
+local-data: "atlanticnickelcovid19.com A 0.0.0.0"
+local-zone: "coronaviruscauses.com" redirect
+local-data: "coronaviruscauses.com A 0.0.0.0"
+local-zone: "covid19papua.com" redirect
+local-data: "covid19papua.com A 0.0.0.0"
+local-zone: "khaosancovid19.com" redirect
+local-data: "khaosancovid19.com A 0.0.0.0"
+local-zone: "covid19-remediation.com" redirect
+local-data: "covid19-remediation.com A 0.0.0.0"
+local-zone: "www.covid19-decontamination.com" redirect
+local-data: "www.covid19-decontamination.com A 0.0.0.0"
+local-zone: "coronavirusmemoirs.com" redirect
+local-data: "coronavirusmemoirs.com A 0.0.0.0"
+local-zone: "corona-virus.tel" redirect
+local-data: "corona-virus.tel A 0.0.0.0"
+local-zone: "covid19-lens.novi.systems" redirect
+local-data: "covid19-lens.novi.systems A 0.0.0.0"
+local-zone: "californiabusinesscoronavirus.com" redirect
+local-data: "californiabusinesscoronavirus.com A 0.0.0.0"
+local-zone: "iscoronavirusoveryet.com" redirect
+local-data: "iscoronavirusoveryet.com A 0.0.0.0"
+local-zone: "inscripcio.estudicovid19.org" redirect
+local-data: "inscripcio.estudicovid19.org A 0.0.0.0"
+local-zone: "stampoutcovid19.org" redirect
+local-data: "stampoutcovid19.org A 0.0.0.0"
+local-zone: "www.covid19-remediation.com" redirect
+local-data: "www.covid19-remediation.com A 0.0.0.0"
+local-zone: "covid19.wra-protect.com" redirect
+local-data: "covid19.wra-protect.com A 0.0.0.0"
+local-zone: "www.covid19-kits.co.uk" redirect
+local-data: "www.covid19-kits.co.uk A 0.0.0.0"
+local-zone: "covid19-self-defense.com" redirect
+local-data: "covid19-self-defense.com A 0.0.0.0"
+local-zone: "covid19.bizumy.com" redirect
+local-data: "covid19.bizumy.com A 0.0.0.0"
+local-zone: "coronavirusnews.guru" redirect
+local-data: "coronavirusnews.guru A 0.0.0.0"
+local-zone: "www.covid19-kits.co.uk" redirect
+local-data: "www.covid19-kits.co.uk A 0.0.0.0"
+local-zone: "covid19digitalarchive.com" redirect
+local-data: "covid19digitalarchive.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
