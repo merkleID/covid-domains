@@ -23290,6 +23290,42 @@ local-zone: "www.dichcovid19.com" redirect
 local-data: "www.dichcovid19.com A 0.0.0.0"
 local-zone: "covid19.milknight.com" redirect
 local-data: "covid19.milknight.com A 0.0.0.0"
+local-zone: "ko.maskforcoronavirus.shop" redirect
+local-data: "ko.maskforcoronavirus.shop A 0.0.0.0"
+local-zone: "gardonslecap-covid19.ch" redirect
+local-data: "gardonslecap-covid19.ch A 0.0.0.0"
+local-zone: "covid19.letalliance.co.uk" redirect
+local-data: "covid19.letalliance.co.uk A 0.0.0.0"
+local-zone: "www.covid19.lartdigital.com" redirect
+local-data: "www.covid19.lartdigital.com A 0.0.0.0"
+local-zone: "covid-19rapidresponse.com" redirect
+local-data: "covid-19rapidresponse.com A 0.0.0.0"
+local-zone: "m.stopcoronavirus.km" redirect
+local-data: "m.stopcoronavirus.km A 0.0.0.0"
+local-zone: "covid19pins.com" redirect
+local-data: "covid19pins.com A 0.0.0.0"
+local-zone: "register.covid19partnering.com" redirect
+local-data: "register.covid19partnering.com A 0.0.0.0"
+local-zone: "covid-19.minahasa.go.id" redirect
+local-data: "covid-19.minahasa.go.id A 0.0.0.0"
+local-zone: "www.survivingcoronavirus.org" redirect
+local-data: "www.survivingcoronavirus.org A 0.0.0.0"
+local-zone: "pt.maskforcoronavirus.shop" redirect
+local-data: "pt.maskforcoronavirus.shop A 0.0.0.0"
+local-zone: "covid19lockdown.co.za" redirect
+local-data: "covid19lockdown.co.za A 0.0.0.0"
+local-zone: "covid19.solidaires-handicaps.fr" redirect
+local-data: "covid19.solidaires-handicaps.fr A 0.0.0.0"
+local-zone: "test.covid19map.co.nz" redirect
+local-data: "test.covid19map.co.nz A 0.0.0.0"
+local-zone: "covid-19.city-desk.fr" redirect
+local-data: "covid-19.city-desk.fr A 0.0.0.0"
+local-zone: "covid-19.ru.net" redirect
+local-data: "covid-19.ru.net A 0.0.0.0"
+local-zone: "www.covid19.solidaires-handicaps.fr" redirect
+local-data: "www.covid19.solidaires-handicaps.fr A 0.0.0.0"
+local-zone: "coronavirus.auquan.com" redirect
+local-data: "coronavirus.auquan.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
