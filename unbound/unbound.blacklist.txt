@@ -22654,6 +22654,38 @@ local-zone: "yotuvecoronavirus.com" redirect
 local-data: "yotuvecoronavirus.com A 0.0.0.0"
 local-zone: "yovivielcoronavirus.com" redirect
 local-data: "yovivielcoronavirus.com A 0.0.0.0"
+local-zone: "covid19-pk.com" redirect
+local-data: "covid19-pk.com A 0.0.0.0"
+local-zone: "coronavirus.darkdust.tk" redirect
+local-data: "coronavirus.darkdust.tk A 0.0.0.0"
+local-zone: "antipandemiacovid19.com" redirect
+local-data: "antipandemiacovid19.com A 0.0.0.0"
+local-zone: "www.covid19forum.cz" redirect
+local-data: "www.covid19forum.cz A 0.0.0.0"
+local-zone: "www.antipandemiacovid19.com" redirect
+local-data: "www.antipandemiacovid19.com A 0.0.0.0"
+local-zone: "covid19backtobasics.com" redirect
+local-data: "covid19backtobasics.com A 0.0.0.0"
+local-zone: "www.covid19-supply-chain-models.org" redirect
+local-data: "www.covid19-supply-chain-models.org A 0.0.0.0"
+local-zone: "covid19-supply-chain-models.org" redirect
+local-data: "covid19-supply-chain-models.org A 0.0.0.0"
+local-zone: "www.coronavirus-msp.info" redirect
+local-data: "www.coronavirus-msp.info A 0.0.0.0"
+local-zone: "www.covid19backtobasics.com" redirect
+local-data: "www.covid19backtobasics.com A 0.0.0.0"
+local-zone: "coronavirus-schnelltests.de" redirect
+local-data: "coronavirus-schnelltests.de A 0.0.0.0"
+local-zone: "peoplewhohadcoronavirus.info" redirect
+local-data: "peoplewhohadcoronavirus.info A 0.0.0.0"
+local-zone: "covid19.trion3d.com.br" redirect
+local-data: "covid19.trion3d.com.br A 0.0.0.0"
+local-zone: "covid19protection.space" redirect
+local-data: "covid19protection.space A 0.0.0.0"
+local-zone: "worldcupcoronavirus.com" redirect
+local-data: "worldcupcoronavirus.com A 0.0.0.0"
+local-zone: "webdisk.kogicovid19.com.ng" redirect
+local-data: "webdisk.kogicovid19.com.ng A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
