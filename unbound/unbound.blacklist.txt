@@ -23088,6 +23088,56 @@ local-zone: "covid-19.zenithstrategy.com" redirect
 local-data: "covid-19.zenithstrategy.com A 0.0.0.0"
 local-zone: "coronavirus-24.ru" redirect
 local-data: "coronavirus-24.ru A 0.0.0.0"
+local-zone: "calcular-covid19.jhonguerra.info" redirect
+local-data: "calcular-covid19.jhonguerra.info A 0.0.0.0"
+local-zone: "viruscovid19.fr" redirect
+local-data: "viruscovid19.fr A 0.0.0.0"
+local-zone: "viruscovid19.biz" redirect
+local-data: "viruscovid19.biz A 0.0.0.0"
+local-zone: "covid19masks.us" redirect
+local-data: "covid19masks.us A 0.0.0.0"
+local-zone: "anticovid-19.org" redirect
+local-data: "anticovid-19.org A 0.0.0.0"
+local-zone: "www.covid-2019testkit.com" redirect
+local-data: "www.covid-2019testkit.com A 0.0.0.0"
+local-zone: "www.covid19masks.us" redirect
+local-data: "www.covid19masks.us A 0.0.0.0"
+local-zone: "wecovid19.com" redirect
+local-data: "wecovid19.com A 0.0.0.0"
+local-zone: "covid-19hometestkit.com" redirect
+local-data: "covid-19hometestkit.com A 0.0.0.0"
+local-zone: "covid19selftests.com" redirect
+local-data: "covid19selftests.com A 0.0.0.0"
+local-zone: "covid-2019testkits.com" redirect
+local-data: "covid-2019testkits.com A 0.0.0.0"
+local-zone: "treatingcoronavirus.com" redirect
+local-data: "treatingcoronavirus.com A 0.0.0.0"
+local-zone: "www.covid-19selftests.com" redirect
+local-data: "www.covid-19selftests.com A 0.0.0.0"
+local-zone: "covid-19selftestkits.com" redirect
+local-data: "covid-19selftestkits.com A 0.0.0.0"
+local-zone: "www.covid-19hometestkit.com" redirect
+local-data: "www.covid-19hometestkit.com A 0.0.0.0"
+local-zone: "www.covid19-testkits.com" redirect
+local-data: "www.covid19-testkits.com A 0.0.0.0"
+local-zone: "sparrowcoronavirus.org" redirect
+local-data: "sparrowcoronavirus.org A 0.0.0.0"
+local-zone: "www.covid-19hometestkits.com" redirect
+local-data: "www.covid-19hometestkits.com A 0.0.0.0"
+local-zone: "covid19selftestkits.com" redirect
+local-data: "covid19selftestkits.com A 0.0.0.0"
+local-zone: "covid19vent.net" redirect
+local-data: "covid19vent.net A 0.0.0.0"
+local-zone: "covid19-stag-gl.dev-box.tech" redirect
+local-data: "covid19-stag-gl.dev-box.tech A 0.0.0.0"
+local-zone: "coronavirusjaca.es" redirect
+local-data: "coronavirusjaca.es A 0.0.0.0"
+local-zone: "uk.covid19bank.com" redirect
+local-data: "uk.covid19bank.com A 0.0.0.0"
+local-zone: "covid19.richardbestlaw.com" redirect
+local-data: "covid19.richardbestlaw.com A 0.0.0.0"
+local-zone: "coronavirussurvival.site" redirect
+local-data: "coronavirussurvival.site A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -24144,6 +24194,8 @@ local-zone: "covid-19outreach.com" redirect
 local-data: "covid-19outreach.com A 0.0.0.0"
 local-zone: "coronavirus.luizcorreia.eti.br" redirect
 local-data: "coronavirus.luizcorreia.eti.br A 0.0.0.0"
+local-zone: "treat-coronavirus.com" redirect
+local-data: "treat-coronavirus.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
