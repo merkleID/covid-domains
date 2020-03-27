@@ -23410,6 +23410,34 @@ local-zone: "coronavirus-info.by" redirect
 local-data: "coronavirus-info.by A 0.0.0.0"
 local-zone: "sars-cov-2.art" redirect
 local-data: "sars-cov-2.art A 0.0.0.0"
+local-zone: "coronavirus.westlondon.com" redirect
+local-data: "coronavirus.westlondon.com A 0.0.0.0"
+local-zone: "covid-19.angosocial.com" redirect
+local-data: "covid-19.angosocial.com A 0.0.0.0"
+local-zone: "www.coronavirusbills.com" redirect
+local-data: "www.coronavirusbills.com A 0.0.0.0"
+local-zone: "sars-cov-2.art" redirect
+local-data: "sars-cov-2.art A 0.0.0.0"
+local-zone: "covid19.crisp.watch" redirect
+local-data: "covid19.crisp.watch A 0.0.0.0"
+local-zone: "covid19.intellectit.com.au" redirect
+local-data: "covid19.intellectit.com.au A 0.0.0.0"
+local-zone: "covid19.dtact.com" redirect
+local-data: "covid19.dtact.com A 0.0.0.0"
+local-zone: "survivingcoronavirus.org" redirect
+local-data: "survivingcoronavirus.org A 0.0.0.0"
+local-zone: "pilarcoronavirus.com.br" redirect
+local-data: "pilarcoronavirus.com.br A 0.0.0.0"
+local-zone: "covid19.islamicity.tv" redirect
+local-data: "covid19.islamicity.tv A 0.0.0.0"
+local-zone: "covid-19-yfgt.onrender.com" redirect
+local-data: "covid-19-yfgt.onrender.com A 0.0.0.0"
+local-zone: "covid-19.mackie.me" redirect
+local-data: "covid-19.mackie.me A 0.0.0.0"
+local-zone: "coronavirus.saopedro.sp.gov.br" redirect
+local-data: "coronavirus.saopedro.sp.gov.br A 0.0.0.0"
+local-zone: "covid19helpline.info" redirect
+local-data: "covid19helpline.info A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -24478,6 +24506,8 @@ local-zone: "sblcovid19testing.co.uk" redirect
 local-data: "sblcovid19testing.co.uk A 0.0.0.0"
 local-zone: "echeloncovid19.co.uk" redirect
 local-data: "echeloncovid19.co.uk A 0.0.0.0"
+local-zone: "covid19.houseliver.com" redirect
+local-data: "covid19.houseliver.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
