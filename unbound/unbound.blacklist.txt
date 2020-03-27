@@ -24154,6 +24154,52 @@ local-zone: "mxcovid19.com" redirect
 local-data: "mxcovid19.com A 0.0.0.0"
 local-zone: "uk.vscoronavirus.com" redirect
 local-data: "uk.vscoronavirus.com A 0.0.0.0"
+local-zone: "covid19response.myrondout.com" redirect
+local-data: "covid19response.myrondout.com A 0.0.0.0"
+local-zone: "covid19.azores.net" redirect
+local-data: "covid19.azores.net A 0.0.0.0"
+local-zone: "upcovid19tracks.in" redirect
+local-data: "upcovid19tracks.in A 0.0.0.0"
+local-zone: "covid19.strollopia.com" redirect
+local-data: "covid19.strollopia.com A 0.0.0.0"
+local-zone: "covid-19.perezcleaners.com" redirect
+local-data: "covid-19.perezcleaners.com A 0.0.0.0"
+local-zone: "www.covid19sma.com" redirect
+local-data: "www.covid19sma.com A 0.0.0.0"
+local-zone: "askcovid19.optum.com" redirect
+local-data: "askcovid19.optum.com A 0.0.0.0"
+local-zone: "mytestcovid19.com" redirect
+local-data: "mytestcovid19.com A 0.0.0.0"
+local-zone: "covid-19rt.steramed.info" redirect
+local-data: "covid-19rt.steramed.info A 0.0.0.0"
+local-zone: "covid-19.greatpetoria.ga" redirect
+local-data: "covid-19.greatpetoria.ga A 0.0.0.0"
+local-zone: "www.sos-covid19.cat" redirect
+local-data: "www.sos-covid19.cat A 0.0.0.0"
+local-zone: "covid19.es.sophie.isadigitalhuman.com" redirect
+local-data: "covid19.es.sophie.isadigitalhuman.com A 0.0.0.0"
+local-zone: "novelcoronaviruse.com" redirect
+local-data: "novelcoronaviruse.com A 0.0.0.0"
+local-zone: "noblecovid19.com" redirect
+local-data: "noblecovid19.com A 0.0.0.0"
+local-zone: "covid-19.laithzeki.repl.co" redirect
+local-data: "covid-19.laithzeki.repl.co A 0.0.0.0"
+local-zone: "www.covid19.guelma-news.com" redirect
+local-data: "www.covid19.guelma-news.com A 0.0.0.0"
+local-zone: "coronavirus.sbahq.org" redirect
+local-data: "coronavirus.sbahq.org A 0.0.0.0"
+local-zone: "covid19-sa.trevthe.dev" redirect
+local-data: "covid19-sa.trevthe.dev A 0.0.0.0"
+local-zone: "stopcoronavirusglobal.org" redirect
+local-data: "stopcoronavirusglobal.org A 0.0.0.0"
+local-zone: "covid19.trevthe.dev" redirect
+local-data: "covid19.trevthe.dev A 0.0.0.0"
+local-zone: "www.stayhomeactivities-covid19.com" redirect
+local-data: "www.stayhomeactivities-covid19.com A 0.0.0.0"
+local-zone: "covid19.adex-group.com" redirect
+local-data: "covid19.adex-group.com A 0.0.0.0"
+local-zone: "coronavirus-monitor24.ru" redirect
+local-data: "coronavirus-monitor24.ru A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -25266,6 +25312,8 @@ local-zone: "covid19-norwegian.com" redirect
 local-data: "covid19-norwegian.com A 0.0.0.0"
 local-zone: "mercedcounty-covid19.com" redirect
 local-data: "mercedcounty-covid19.com A 0.0.0.0"
+local-zone: "covid19sharing.com" redirect
+local-data: "covid19sharing.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
