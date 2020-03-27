@@ -23860,6 +23860,60 @@ local-zone: "emergenza-covid-19.xfire.it" redirect
 local-data: "emergenza-covid-19.xfire.it A 0.0.0.0"
 local-zone: "diagnosticocoronavirus.com.br" redirect
 local-data: "diagnosticocoronavirus.com.br A 0.0.0.0"
+local-zone: "covid19.theifriend.com" redirect
+local-data: "covid19.theifriend.com A 0.0.0.0"
+local-zone: "covid19mexico.gemathus.mx" redirect
+local-data: "covid19mexico.gemathus.mx A 0.0.0.0"
+local-zone: "covid19.gcefe.com" redirect
+local-data: "covid19.gcefe.com A 0.0.0.0"
+local-zone: "covid19collaborators.org" redirect
+local-data: "covid19collaborators.org A 0.0.0.0"
+local-zone: "covid19initiatives.org" redirect
+local-data: "covid19initiatives.org A 0.0.0.0"
+local-zone: "covid19grandjury.org" redirect
+local-data: "covid19grandjury.org A 0.0.0.0"
+local-zone: "covid19-informations.com" redirect
+local-data: "covid19-informations.com A 0.0.0.0"
+local-zone: "covid19collaborations.org" redirect
+local-data: "covid19collaborations.org A 0.0.0.0"
+local-zone: "autotest-covid-19.fr" redirect
+local-data: "autotest-covid-19.fr A 0.0.0.0"
+local-zone: "coronavirustest.services" redirect
+local-data: "coronavirustest.services A 0.0.0.0"
+local-zone: "www.wuhanscoronavirus.com" redirect
+local-data: "www.wuhanscoronavirus.com A 0.0.0.0"
+local-zone: "covid-19.ginkgofoundation.org" redirect
+local-data: "covid-19.ginkgofoundation.org A 0.0.0.0"
+local-zone: "decretonormativacovid19.xyz" redirect
+local-data: "decretonormativacovid19.xyz A 0.0.0.0"
+local-zone: "www.gocorona-virus.com" redirect
+local-data: "www.gocorona-virus.com A 0.0.0.0"
+local-zone: "coronavirus19br.com.br" redirect
+local-data: "coronavirus19br.com.br A 0.0.0.0"
+local-zone: "www.crappycoronavirushousewife.com" redirect
+local-data: "www.crappycoronavirushousewife.com A 0.0.0.0"
+local-zone: "www.covid19-2020.ru" redirect
+local-data: "www.covid19-2020.ru A 0.0.0.0"
+local-zone: "covid19.hrsbdc.org" redirect
+local-data: "covid19.hrsbdc.org A 0.0.0.0"
+local-zone: "coronavirus-19.site" redirect
+local-data: "coronavirus-19.site A 0.0.0.0"
+local-zone: "uniticontroilcovid19.it" redirect
+local-data: "uniticontroilcovid19.it A 0.0.0.0"
+local-zone: "www.mascarascaseirascovid19.pt" redirect
+local-data: "www.mascarascaseirascovid19.pt A 0.0.0.0"
+local-zone: "covid19congo.info" redirect
+local-data: "covid19congo.info A 0.0.0.0"
+local-zone: "mascarascaseirascovid19.pt" redirect
+local-data: "mascarascaseirascovid19.pt A 0.0.0.0"
+local-zone: "covid19.cnnumerique.fr" redirect
+local-data: "covid19.cnnumerique.fr A 0.0.0.0"
+local-zone: "www.covid19va.info" redirect
+local-data: "www.covid19va.info A 0.0.0.0"
+local-zone: "coronavirusspray.net" redirect
+local-data: "coronavirusspray.net A 0.0.0.0"
+local-zone: "coronavirusspray.com" redirect
+local-data: "coronavirusspray.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -24950,6 +25004,8 @@ local-zone: "coronaviruserrands.com" redirect
 local-data: "coronaviruserrands.com A 0.0.0.0"
 local-zone: "ridofcovid19.com" redirect
 local-data: "ridofcovid19.com A 0.0.0.0"
+local-zone: "mascherinecovid-19.eu" redirect
+local-data: "mascherinecovid-19.eu A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
