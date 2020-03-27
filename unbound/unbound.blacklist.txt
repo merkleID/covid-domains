@@ -23350,6 +23350,26 @@ local-zone: "psicovid19.bedita.net" redirect
 local-data: "psicovid19.bedita.net A 0.0.0.0"
 local-zone: "www.coronavirus-stop.com" redirect
 local-data: "www.coronavirus-stop.com A 0.0.0.0"
+local-zone: "covid19.co.zw" redirect
+local-data: "covid19.co.zw A 0.0.0.0"
+local-zone: "www.infocovid19.sman1jatisrono.sch.id" redirect
+local-data: "www.infocovid19.sman1jatisrono.sch.id A 0.0.0.0"
+local-zone: "covid19bkl.deta-oktariani.com" redirect
+local-data: "covid19bkl.deta-oktariani.com A 0.0.0.0"
+local-zone: "covid19.demographicscience.ox.ac.uk" redirect
+local-data: "covid19.demographicscience.ox.ac.uk A 0.0.0.0"
+local-zone: "covid-19.cibo.be" redirect
+local-data: "covid-19.cibo.be A 0.0.0.0"
+local-zone: "solidarite-covid19.mairie-begles.fr" redirect
+local-data: "solidarite-covid19.mairie-begles.fr A 0.0.0.0"
+local-zone: "covid19.afriplay.my.id" redirect
+local-data: "covid19.afriplay.my.id A 0.0.0.0"
+local-zone: "covid19.oliveros.com.ar" redirect
+local-data: "covid19.oliveros.com.ar A 0.0.0.0"
+local-zone: "sars-cov-2.art" redirect
+local-data: "sars-cov-2.art A 0.0.0.0"
+local-zone: "covid19-live.diskusicantik.com" redirect
+local-data: "covid19-live.diskusicantik.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -24410,6 +24430,12 @@ local-zone: "treat-coronavirus.com" redirect
 local-data: "treat-coronavirus.com A 0.0.0.0"
 local-zone: "covid19.houseliver.com" redirect
 local-data: "covid19.houseliver.com A 0.0.0.0"
+local-zone: "tramitescoronavirus.es" redirect
+local-data: "tramitescoronavirus.es A 0.0.0.0"
+local-zone: "covid19.houseliver.com" redirect
+local-data: "covid19.houseliver.com A 0.0.0.0"
+local-zone: "sblcovid19testing.co.uk" redirect
+local-data: "sblcovid19testing.co.uk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
