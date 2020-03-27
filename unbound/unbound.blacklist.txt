@@ -23138,6 +23138,20 @@ local-zone: "covid19.richardbestlaw.com" redirect
 local-data: "covid19.richardbestlaw.com A 0.0.0.0"
 local-zone: "coronavirussurvival.site" redirect
 local-data: "coronavirussurvival.site A 0.0.0.0"
+local-zone: "covid19.matimerenterprises.com" redirect
+local-data: "covid19.matimerenterprises.com A 0.0.0.0"
+local-zone: "99xt-covid-19.tk" redirect
+local-data: "99xt-covid-19.tk A 0.0.0.0"
+local-zone: "covid19ataglance.com" redirect
+local-data: "covid19ataglance.com A 0.0.0.0"
+local-zone: "www.gryphoncovid19.com" redirect
+local-data: "www.gryphoncovid19.com A 0.0.0.0"
+local-zone: "www.coronavirussafemask.site" redirect
+local-data: "www.coronavirussafemask.site A 0.0.0.0"
+local-zone: "www.covid-19-world.com" redirect
+local-data: "www.covid-19-world.com A 0.0.0.0"
+local-zone: "covid19.fernandes.org" redirect
+local-data: "covid19.fernandes.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
