@@ -22590,6 +22590,36 @@ local-zone: "coronavirus-tracker.uk" redirect
 local-data: "coronavirus-tracker.uk A 0.0.0.0"
 local-zone: "covid19.digitalproblemsolving.com" redirect
 local-data: "covid19.digitalproblemsolving.com A 0.0.0.0"
+local-zone: "wecovid19.com" redirect
+local-data: "wecovid19.com A 0.0.0.0"
+local-zone: "coronavirus.menu.com.br" redirect
+local-data: "coronavirus.menu.com.br A 0.0.0.0"
+local-zone: "coronavirusstats.net" redirect
+local-data: "coronavirusstats.net A 0.0.0.0"
+local-zone: "covid19.saykosoft.com" redirect
+local-data: "covid19.saykosoft.com A 0.0.0.0"
+local-zone: "coronavirusleaked.es" redirect
+local-data: "coronavirusleaked.es A 0.0.0.0"
+local-zone: "covid19resources.ca" redirect
+local-data: "covid19resources.ca A 0.0.0.0"
+local-zone: "covid19-gov.yext.com" redirect
+local-data: "covid19-gov.yext.com A 0.0.0.0"
+local-zone: "api-covid-19-br.filipemanuel.repl.run" redirect
+local-data: "api-covid-19-br.filipemanuel.repl.run A 0.0.0.0"
+local-zone: "covid19.yext.com" redirect
+local-data: "covid19.yext.com A 0.0.0.0"
+local-zone: "covid19.technicolor.com" redirect
+local-data: "covid19.technicolor.com A 0.0.0.0"
+local-zone: "covid-19mx.app" redirect
+local-data: "covid-19mx.app A 0.0.0.0"
+local-zone: "www.tristatecovid19.org" redirect
+local-data: "www.tristatecovid19.org A 0.0.0.0"
+local-zone: "www.covid-19-sras-cov-2.fr" redirect
+local-data: "www.covid-19-sras-cov-2.fr A 0.0.0.0"
+local-zone: "covid-2019.phys.ust.hk" redirect
+local-data: "covid-2019.phys.ust.hk A 0.0.0.0"
+local-zone: "www.covid19coalition.org" redirect
+local-data: "www.covid19coalition.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
