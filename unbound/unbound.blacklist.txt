@@ -24434,6 +24434,24 @@ local-zone: "covid19.nlc.org" redirect
 local-data: "covid19.nlc.org A 0.0.0.0"
 local-zone: "www.labgeotcovid19.uns.edu.ar" redirect
 local-data: "www.labgeotcovid19.uns.edu.ar A 0.0.0.0"
+local-zone: "covid-19rt.steramed.info" redirect
+local-data: "covid-19rt.steramed.info A 0.0.0.0"
+local-zone: "coronaviruses-updates.org" redirect
+local-data: "coronaviruses-updates.org A 0.0.0.0"
+local-zone: "willcoronavirusgetme.com" redirect
+local-data: "willcoronavirusgetme.com A 0.0.0.0"
+local-zone: "sgf-mumedstudent-covid19ref.org" redirect
+local-data: "sgf-mumedstudent-covid19ref.org A 0.0.0.0"
+local-zone: "www.beatcovid19.app" redirect
+local-data: "www.beatcovid19.app A 0.0.0.0"
+local-zone: "coronavirus-ru.online" redirect
+local-data: "coronavirus-ru.online A 0.0.0.0"
+local-zone: "covid-19.jeetsangani.com" redirect
+local-data: "covid-19.jeetsangani.com A 0.0.0.0"
+local-zone: "test.covid-19mx.app" redirect
+local-data: "test.covid-19mx.app A 0.0.0.0"
+local-zone: "coronavirus-schweiz.com" redirect
+local-data: "coronavirus-schweiz.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
