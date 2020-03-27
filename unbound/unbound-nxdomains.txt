@@ -11634,6 +11634,16 @@ local-zone: "maskforcoronavirus.shop" static
 local-zone: "www.covid19nepal.support" static
 local-zone: "covid19.forsale" static
 local-zone: "dev.fopcovid19.org" static
+local-zone: "test.ds-covid19.res.ibm.com" static
+local-zone: "www.anti-covid19.info" static
+local-zone: "anti-covid19.info" static
+local-zone: "covid19encdmx.com" static
+local-zone: "covid19-newsroom.com" static
+local-zone: "coronaviruspost.com" static
+local-zone: "covid19.rebooteurope.eu" static
+local-zone: "covid19.hydlab.in" static
+local-zone: "www.dichcovid19.com" static
+local-zone: "covid19.milknight.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -12163,6 +12173,7 @@ local-zone: "coronacovid19.it" static
 local-zone: "covid-19outreach.com" static
 local-zone: "coronavirus.luizcorreia.eti.br" static
 local-zone: "treat-coronavirus.com" static
+local-zone: "covid19.houseliver.com" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static

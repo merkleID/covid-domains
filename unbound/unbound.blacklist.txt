@@ -23270,6 +23270,26 @@ local-zone: "covid19.forsale" redirect
 local-data: "covid19.forsale A 0.0.0.0"
 local-zone: "dev.fopcovid19.org" redirect
 local-data: "dev.fopcovid19.org A 0.0.0.0"
+local-zone: "test.ds-covid19.res.ibm.com" redirect
+local-data: "test.ds-covid19.res.ibm.com A 0.0.0.0"
+local-zone: "www.anti-covid19.info" redirect
+local-data: "www.anti-covid19.info A 0.0.0.0"
+local-zone: "anti-covid19.info" redirect
+local-data: "anti-covid19.info A 0.0.0.0"
+local-zone: "covid19encdmx.com" redirect
+local-data: "covid19encdmx.com A 0.0.0.0"
+local-zone: "covid19-newsroom.com" redirect
+local-data: "covid19-newsroom.com A 0.0.0.0"
+local-zone: "coronaviruspost.com" redirect
+local-data: "coronaviruspost.com A 0.0.0.0"
+local-zone: "covid19.rebooteurope.eu" redirect
+local-data: "covid19.rebooteurope.eu A 0.0.0.0"
+local-zone: "covid19.hydlab.in" redirect
+local-data: "covid19.hydlab.in A 0.0.0.0"
+local-zone: "www.dichcovid19.com" redirect
+local-data: "www.dichcovid19.com A 0.0.0.0"
+local-zone: "covid19.milknight.com" redirect
+local-data: "covid19.milknight.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -24328,6 +24348,8 @@ local-zone: "coronavirus.luizcorreia.eti.br" redirect
 local-data: "coronavirus.luizcorreia.eti.br A 0.0.0.0"
 local-zone: "treat-coronavirus.com" redirect
 local-data: "treat-coronavirus.com A 0.0.0.0"
+local-zone: "covid19.houseliver.com" redirect
+local-data: "covid19.houseliver.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
