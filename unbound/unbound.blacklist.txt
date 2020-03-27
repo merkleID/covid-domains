@@ -22746,6 +22746,52 @@ local-zone: "covid-19info.ml" redirect
 local-data: "covid-19info.ml A 0.0.0.0"
 local-zone: "covid-19.catataniman.com" redirect
 local-data: "covid-19.catataniman.com A 0.0.0.0"
+local-zone: "www.covid19selfreport.net" redirect
+local-data: "www.covid19selfreport.net A 0.0.0.0"
+local-zone: "covid19.wegrx.com" redirect
+local-data: "covid19.wegrx.com A 0.0.0.0"
+local-zone: "covid19selfreport.net" redirect
+local-data: "covid19selfreport.net A 0.0.0.0"
+local-zone: "covid19selfreport.com" redirect
+local-data: "covid19selfreport.com A 0.0.0.0"
+local-zone: "covid19selfreport.me" redirect
+local-data: "covid19selfreport.me A 0.0.0.0"
+local-zone: "www.covid19selfreport.com" redirect
+local-data: "www.covid19selfreport.com A 0.0.0.0"
+local-zone: "www.covid19selfreport.org" redirect
+local-data: "www.covid19selfreport.org A 0.0.0.0"
+local-zone: "covid-19shields.com" redirect
+local-data: "covid-19shields.com A 0.0.0.0"
+local-zone: "cadastro.juntoscontracovid19.com.br" redirect
+local-data: "cadastro.juntoscontracovid19.com.br A 0.0.0.0"
+local-zone: "covid19.ahyoxsoft.com" redirect
+local-data: "covid19.ahyoxsoft.com A 0.0.0.0"
+local-zone: "covid19.tdr.com.mx" redirect
+local-data: "covid19.tdr.com.mx A 0.0.0.0"
+local-zone: "covid19.usefulwebapps.com" redirect
+local-data: "covid19.usefulwebapps.com A 0.0.0.0"
+local-zone: "covid19.31337.it" redirect
+local-data: "covid19.31337.it A 0.0.0.0"
+local-zone: "covid19selfreport.news" redirect
+local-data: "covid19selfreport.news A 0.0.0.0"
+local-zone: "covid19py.com" redirect
+local-data: "covid19py.com A 0.0.0.0"
+local-zone: "covid19selfreport.org" redirect
+local-data: "covid19selfreport.org A 0.0.0.0"
+local-zone: "covid19.diasystems.net" redirect
+local-data: "covid19.diasystems.net A 0.0.0.0"
+local-zone: "www.covid19selfreport.me" redirect
+local-data: "www.covid19selfreport.me A 0.0.0.0"
+local-zone: "global.covid19uk.live" redirect
+local-data: "global.covid19uk.live A 0.0.0.0"
+local-zone: "bidenhascovid19.net" redirect
+local-data: "bidenhascovid19.net A 0.0.0.0"
+local-zone: "musicamexicocitycovid19.com" redirect
+local-data: "musicamexicocitycovid19.com A 0.0.0.0"
+local-zone: "kumamoto.stopcovid19.jp" redirect
+local-data: "kumamoto.stopcovid19.jp A 0.0.0.0"
+local-zone: "covid19.discoverycampus.com" redirect
+local-data: "covid19.discoverycampus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
