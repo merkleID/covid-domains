@@ -23914,6 +23914,56 @@ local-zone: "coronavirusspray.net" redirect
 local-data: "coronavirusspray.net A 0.0.0.0"
 local-zone: "coronavirusspray.com" redirect
 local-data: "coronavirusspray.com A 0.0.0.0"
+local-zone: "mail.link-covid19.phc.org.ua" redirect
+local-data: "mail.link-covid19.phc.org.ua A 0.0.0.0"
+local-zone: "cpanel.testcovid19ec.com" redirect
+local-data: "cpanel.testcovid19ec.com A 0.0.0.0"
+local-zone: "worldwidecoronavirus.org" redirect
+local-data: "worldwidecoronavirus.org A 0.0.0.0"
+local-zone: "decretonormativacovid19.xyz" redirect
+local-data: "decretonormativacovid19.xyz A 0.0.0.0"
+local-zone: "covid19.taclia.com" redirect
+local-data: "covid19.taclia.com A 0.0.0.0"
+local-zone: "www.homebrightwel-covid19.duckdns.org" redirect
+local-data: "www.homebrightwel-covid19.duckdns.org A 0.0.0.0"
+local-zone: "coronavirusspray.org" redirect
+local-data: "coronavirusspray.org A 0.0.0.0"
+local-zone: "confinementcoronavirus.fr" redirect
+local-data: "confinementcoronavirus.fr A 0.0.0.0"
+local-zone: "apparelcovid19.com" redirect
+local-data: "apparelcovid19.com A 0.0.0.0"
+local-zone: "covid19.ascentis.com" redirect
+local-data: "covid19.ascentis.com A 0.0.0.0"
+local-zone: "covid19.iltakecare.in" redirect
+local-data: "covid19.iltakecare.in A 0.0.0.0"
+local-zone: "covid19api.iltakecare.in" redirect
+local-data: "covid19api.iltakecare.in A 0.0.0.0"
+local-zone: "covid19chatbot.iltakecare.in" redirect
+local-data: "covid19chatbot.iltakecare.in A 0.0.0.0"
+local-zone: "europevscovid19.org" redirect
+local-data: "europevscovid19.org A 0.0.0.0"
+local-zone: "coronavirus-online-statistika.ru" redirect
+local-data: "coronavirus-online-statistika.ru A 0.0.0.0"
+local-zone: "covid19.kanwilsumbagut.com" redirect
+local-data: "covid19.kanwilsumbagut.com A 0.0.0.0"
+local-zone: "coronavirus-vaccine.co.uk" redirect
+local-data: "coronavirus-vaccine.co.uk A 0.0.0.0"
+local-zone: "coronavirusspray.org" redirect
+local-data: "coronavirusspray.org A 0.0.0.0"
+local-zone: "covid19.frontierofasylum.net" redirect
+local-data: "covid19.frontierofasylum.net A 0.0.0.0"
+local-zone: "testkitcovid19.org" redirect
+local-data: "testkitcovid19.org A 0.0.0.0"
+local-zone: "covid-19.bibok.ru" redirect
+local-data: "covid-19.bibok.ru A 0.0.0.0"
+local-zone: "coronavirus.tech.cg" redirect
+local-data: "coronavirus.tech.cg A 0.0.0.0"
+local-zone: "ajuda-covid-19.nan.pt" redirect
+local-data: "ajuda-covid-19.nan.pt A 0.0.0.0"
+local-zone: "www.covid19sa.com" redirect
+local-data: "www.covid19sa.com A 0.0.0.0"
+local-zone: "covid19.davidsuwandi.xyz" redirect
+local-data: "covid19.davidsuwandi.xyz A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -25006,6 +25056,8 @@ local-zone: "ridofcovid19.com" redirect
 local-data: "ridofcovid19.com A 0.0.0.0"
 local-zone: "mascherinecovid-19.eu" redirect
 local-data: "mascherinecovid-19.eu A 0.0.0.0"
+local-zone: "coronavirus.luizcorreia.eti.br" redirect
+local-data: "coronavirus.luizcorreia.eti.br A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
