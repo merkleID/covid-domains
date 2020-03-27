@@ -23370,6 +23370,46 @@ local-zone: "sars-cov-2.art" redirect
 local-data: "sars-cov-2.art A 0.0.0.0"
 local-zone: "covid19-live.diskusicantik.com" redirect
 local-data: "covid19-live.diskusicantik.com A 0.0.0.0"
+local-zone: "covid19map.co.nz" redirect
+local-data: "covid19map.co.nz A 0.0.0.0"
+local-zone: "covid19.gy" redirect
+local-data: "covid19.gy A 0.0.0.0"
+local-zone: "against-coronavirus.com" redirect
+local-data: "against-coronavirus.com A 0.0.0.0"
+local-zone: "pbuddycovid19.citi-in.com" redirect
+local-data: "pbuddycovid19.citi-in.com A 0.0.0.0"
+local-zone: "covid19.armiko.moe" redirect
+local-data: "covid19.armiko.moe A 0.0.0.0"
+local-zone: "covid19.inforlabs.net" redirect
+local-data: "covid19.inforlabs.net A 0.0.0.0"
+local-zone: "covid19-drugs.org" redirect
+local-data: "covid19-drugs.org A 0.0.0.0"
+local-zone: "covid19facts.org.ng" redirect
+local-data: "covid19facts.org.ng A 0.0.0.0"
+local-zone: "covid19.gunungsitolikota.go.id" redirect
+local-data: "covid19.gunungsitolikota.go.id A 0.0.0.0"
+local-zone: "covid19.qld.gov.au" redirect
+local-data: "covid19.qld.gov.au A 0.0.0.0"
+local-zone: "covid-19.muntz.com.br" redirect
+local-data: "covid-19.muntz.com.br A 0.0.0.0"
+local-zone: "covid19.gptwonline.com" redirect
+local-data: "covid19.gptwonline.com A 0.0.0.0"
+local-zone: "covid19.mawi.band" redirect
+local-data: "covid19.mawi.band A 0.0.0.0"
+local-zone: "pbuddycovid19.citi-in.com" redirect
+local-data: "pbuddycovid19.citi-in.com A 0.0.0.0"
+local-zone: "covid19.leadnurse.africa" redirect
+local-data: "covid19.leadnurse.africa A 0.0.0.0"
+local-zone: "controlcovid19.mawi.band" redirect
+local-data: "controlcovid19.mawi.band A 0.0.0.0"
+local-zone: "covid19.filipzeman.com" redirect
+local-data: "covid19.filipzeman.com A 0.0.0.0"
+local-zone: "covid19.didakta.be" redirect
+local-data: "covid19.didakta.be A 0.0.0.0"
+local-zone: "coronavirus-info.by" redirect
+local-data: "coronavirus-info.by A 0.0.0.0"
+local-zone: "sars-cov-2.art" redirect
+local-data: "sars-cov-2.art A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -24436,6 +24476,8 @@ local-zone: "covid19.houseliver.com" redirect
 local-data: "covid19.houseliver.com A 0.0.0.0"
 local-zone: "sblcovid19testing.co.uk" redirect
 local-data: "sblcovid19testing.co.uk A 0.0.0.0"
+local-zone: "echeloncovid19.co.uk" redirect
+local-data: "echeloncovid19.co.uk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
