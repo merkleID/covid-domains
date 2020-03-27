@@ -23172,6 +23172,50 @@ local-zone: "kawalcovid19.maliliurbanenduro.com" redirect
 local-data: "kawalcovid19.maliliurbanenduro.com A 0.0.0.0"
 local-zone: "stop-covid19.online" redirect
 local-data: "stop-covid19.online A 0.0.0.0"
+local-zone: "asistencia.covid19.gob.es" redirect
+local-data: "asistencia.covid19.gob.es A 0.0.0.0"
+local-zone: "webapp.covid19.gob.es" redirect
+local-data: "webapp.covid19.gob.es A 0.0.0.0"
+local-zone: "dev.covid19.engine2.prixa.ai" redirect
+local-data: "dev.covid19.engine2.prixa.ai A 0.0.0.0"
+local-zone: "www.helpingbusinessessurvivethruandthriveaftercovid-19.com" redirect
+local-data: "www.helpingbusinessessurvivethruandthriveaftercovid-19.com A 0.0.0.0"
+local-zone: "helpingbusinessessurvivethruandthriveaftercovid-19.com" redirect
+local-data: "helpingbusinessessurvivethruandthriveaftercovid-19.com A 0.0.0.0"
+local-zone: "www.helpingbusinessessurvivethruandthriveaftercovid-19.com" redirect
+local-data: "www.helpingbusinessessurvivethruandthriveaftercovid-19.com A 0.0.0.0"
+local-zone: "helpingbusinessessurvivethruandthriveaftercovid-19.com" redirect
+local-data: "helpingbusinessessurvivethruandthriveaftercovid-19.com A 0.0.0.0"
+local-zone: "covid19impact.net" redirect
+local-data: "covid19impact.net A 0.0.0.0"
+local-zone: "coronavirusfreehome.com" redirect
+local-data: "coronavirusfreehome.com A 0.0.0.0"
+local-zone: "coronavirus-2019.us" redirect
+local-data: "coronavirus-2019.us A 0.0.0.0"
+local-zone: "covid19.kowismu.or.id" redirect
+local-data: "covid19.kowismu.or.id A 0.0.0.0"
+local-zone: "protectyourselffromcoronavirus.com" redirect
+local-data: "protectyourselffromcoronavirus.com A 0.0.0.0"
+local-zone: "protectingyourselffromcoronavirus.com" redirect
+local-data: "protectingyourselffromcoronavirus.com A 0.0.0.0"
+local-zone: "protectingyourselffromcoronavirusnaturally.com" redirect
+local-data: "protectingyourselffromcoronavirusnaturally.com A 0.0.0.0"
+local-zone: "covid19.newscrossover.com" redirect
+local-data: "covid19.newscrossover.com A 0.0.0.0"
+local-zone: "protectyourselffromcoronavirus.com" redirect
+local-data: "protectyourselffromcoronavirus.com A 0.0.0.0"
+local-zone: "protectingyourselffromcoronavirus.com" redirect
+local-data: "protectingyourselffromcoronavirus.com A 0.0.0.0"
+local-zone: "covid19live.xyz" redirect
+local-data: "covid19live.xyz A 0.0.0.0"
+local-zone: "covid-19app.co.za" redirect
+local-data: "covid-19app.co.za A 0.0.0.0"
+local-zone: "covid19response.co.za" redirect
+local-data: "covid19response.co.za A 0.0.0.0"
+local-zone: "covid19.lailisalassyifa.com" redirect
+local-data: "covid19.lailisalassyifa.com A 0.0.0.0"
+local-zone: "www.covid19.codeonec.co" redirect
+local-data: "www.covid19.codeonec.co A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
