@@ -23814,6 +23814,52 @@ local-zone: "dailycoronavirus.com" redirect
 local-data: "dailycoronavirus.com A 0.0.0.0"
 local-zone: "www.firstcovid19.com" redirect
 local-data: "www.firstcovid19.com A 0.0.0.0"
+local-zone: "covid19homestore.com" redirect
+local-data: "covid19homestore.com A 0.0.0.0"
+local-zone: "covid19.diasystems.net" redirect
+local-data: "covid19.diasystems.net A 0.0.0.0"
+local-zone: "erte-coronavirus.es" redirect
+local-data: "erte-coronavirus.es A 0.0.0.0"
+local-zone: "coronavirus.private.olaf.int.4ws.io" redirect
+local-data: "coronavirus.private.olaf.int.4ws.io A 0.0.0.0"
+local-zone: "covid19webinar01.pages.ontraport.net" redirect
+local-data: "covid19webinar01.pages.ontraport.net A 0.0.0.0"
+local-zone: "tests-coronavirus.fr" redirect
+local-data: "tests-coronavirus.fr A 0.0.0.0"
+local-zone: "coronavirusgame.net" redirect
+local-data: "coronavirusgame.net A 0.0.0.0"
+local-zone: "covid19selfreport.me" redirect
+local-data: "covid19selfreport.me A 0.0.0.0"
+local-zone: "logistica.coronavirusmakers.org" redirect
+local-data: "logistica.coronavirusmakers.org A 0.0.0.0"
+local-zone: "www.wuhanscoronavirus.com" redirect
+local-data: "www.wuhanscoronavirus.com A 0.0.0.0"
+local-zone: "covid19.usefulwebapps.com" redirect
+local-data: "covid19.usefulwebapps.com A 0.0.0.0"
+local-zone: "covid-19.th.fendtube.com" redirect
+local-data: "covid-19.th.fendtube.com A 0.0.0.0"
+local-zone: "autonomoscoronavirus.es" redirect
+local-data: "autonomoscoronavirus.es A 0.0.0.0"
+local-zone: "covid-19.pierrenifzawa.tn" redirect
+local-data: "covid-19.pierrenifzawa.tn A 0.0.0.0"
+local-zone: "coronavirus.ceo" redirect
+local-data: "coronavirus.ceo A 0.0.0.0"
+local-zone: "donacovid19.com" redirect
+local-data: "donacovid19.com A 0.0.0.0"
+local-zone: "covid19.diasystems.net" redirect
+local-data: "covid19.diasystems.net A 0.0.0.0"
+local-zone: "covid19tracker.artyboy.dev" redirect
+local-data: "covid19tracker.artyboy.dev A 0.0.0.0"
+local-zone: "covid19.ndp-studio.com" redirect
+local-data: "covid19.ndp-studio.com A 0.0.0.0"
+local-zone: "covid19.esw.me" redirect
+local-data: "covid19.esw.me A 0.0.0.0"
+local-zone: "covid19webinar01recording.pages.ontraport.net" redirect
+local-data: "covid19webinar01recording.pages.ontraport.net A 0.0.0.0"
+local-zone: "emergenza-covid-19.xfire.it" redirect
+local-data: "emergenza-covid-19.xfire.it A 0.0.0.0"
+local-zone: "diagnosticocoronavirus.com.br" redirect
+local-data: "diagnosticocoronavirus.com.br A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -24902,6 +24948,8 @@ local-zone: "covid-19ita.com" redirect
 local-data: "covid-19ita.com A 0.0.0.0"
 local-zone: "coronaviruserrands.com" redirect
 local-data: "coronaviruserrands.com A 0.0.0.0"
+local-zone: "ridofcovid19.com" redirect
+local-data: "ridofcovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
