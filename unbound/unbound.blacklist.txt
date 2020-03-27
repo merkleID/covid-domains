@@ -24406,6 +24406,34 @@ local-zone: "twistlecovid19.com" redirect
 local-data: "twistlecovid19.com A 0.0.0.0"
 local-zone: "112covid-19.com" redirect
 local-data: "112covid-19.com A 0.0.0.0"
+local-zone: "fuckcoronavirusshop.com" redirect
+local-data: "fuckcoronavirusshop.com A 0.0.0.0"
+local-zone: "covid19.gcefe.com" redirect
+local-data: "covid19.gcefe.com A 0.0.0.0"
+local-zone: "the-politics-of-covid-19.com" redirect
+local-data: "the-politics-of-covid-19.com A 0.0.0.0"
+local-zone: "covid19.sulsel.net" redirect
+local-data: "covid19.sulsel.net A 0.0.0.0"
+local-zone: "vitamincandcoronavirus.com" redirect
+local-data: "vitamincandcoronavirus.com A 0.0.0.0"
+local-zone: "covid19tracker.interesante.com" redirect
+local-data: "covid19tracker.interesante.com A 0.0.0.0"
+local-zone: "tratamentocoronavirus.com" redirect
+local-data: "tratamentocoronavirus.com A 0.0.0.0"
+local-zone: "www.busacovid19.org" redirect
+local-data: "www.busacovid19.org A 0.0.0.0"
+local-zone: "testcovid19.undanganku.id" redirect
+local-data: "testcovid19.undanganku.id A 0.0.0.0"
+local-zone: "covid19kota.undanganku.id" redirect
+local-data: "covid19kota.undanganku.id A 0.0.0.0"
+local-zone: "covid19kab.undanganku.id" redirect
+local-data: "covid19kab.undanganku.id A 0.0.0.0"
+local-zone: "www.oldschool.runescape-covid-19.info" redirect
+local-data: "www.oldschool.runescape-covid-19.info A 0.0.0.0"
+local-zone: "covid19.nlc.org" redirect
+local-data: "covid19.nlc.org A 0.0.0.0"
+local-zone: "www.labgeotcovid19.uns.edu.ar" redirect
+local-data: "www.labgeotcovid19.uns.edu.ar A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -25526,6 +25554,8 @@ local-zone: "covid19testme.com" redirect
 local-data: "covid19testme.com A 0.0.0.0"
 local-zone: "covid19.houseliver.com" redirect
 local-data: "covid19.houseliver.com A 0.0.0.0"
+local-zone: "babyinthetimeofcoronavirus.com" redirect
+local-data: "babyinthetimeofcoronavirus.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
