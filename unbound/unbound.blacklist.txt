@@ -24200,6 +24200,28 @@ local-zone: "covid19.adex-group.com" redirect
 local-data: "covid19.adex-group.com A 0.0.0.0"
 local-zone: "coronavirus-monitor24.ru" redirect
 local-data: "coronavirus-monitor24.ru A 0.0.0.0"
+local-zone: "covid-19mx.app" redirect
+local-data: "covid-19mx.app A 0.0.0.0"
+local-zone: "idrycoronavirus.com" redirect
+local-data: "idrycoronavirus.com A 0.0.0.0"
+local-zone: "www.idrycoronavirus.com" redirect
+local-data: "www.idrycoronavirus.com A 0.0.0.0"
+local-zone: "covid-19.tellic.com" redirect
+local-data: "covid-19.tellic.com A 0.0.0.0"
+local-zone: "covid-19.elewat.com" redirect
+local-data: "covid-19.elewat.com A 0.0.0.0"
+local-zone: "coronavirus.paths4work.com" redirect
+local-data: "coronavirus.paths4work.com A 0.0.0.0"
+local-zone: "covid19.koliodev.me" redirect
+local-data: "covid19.koliodev.me A 0.0.0.0"
+local-zone: "covid-19.callumeddisford.co.uk" redirect
+local-data: "covid-19.callumeddisford.co.uk A 0.0.0.0"
+local-zone: "gocilcovid19.online" redirect
+local-data: "gocilcovid19.online A 0.0.0.0"
+local-zone: "pro-coronavirus.com" redirect
+local-data: "pro-coronavirus.com A 0.0.0.0"
+local-zone: "chinesecoronavirusclassaction.com" redirect
+local-data: "chinesecoronavirusclassaction.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -25314,6 +25336,8 @@ local-zone: "mercedcounty-covid19.com" redirect
 local-data: "mercedcounty-covid19.com A 0.0.0.0"
 local-zone: "covid19sharing.com" redirect
 local-data: "covid19sharing.com A 0.0.0.0"
+local-zone: "swocovid19.com" redirect
+local-data: "swocovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

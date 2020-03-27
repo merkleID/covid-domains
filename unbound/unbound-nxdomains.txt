@@ -12099,6 +12099,17 @@ local-zone: "covid19.trevthe.dev" static
 local-zone: "www.stayhomeactivities-covid19.com" static
 local-zone: "covid19.adex-group.com" static
 local-zone: "coronavirus-monitor24.ru" static
+local-zone: "covid-19mx.app" static
+local-zone: "idrycoronavirus.com" static
+local-zone: "www.idrycoronavirus.com" static
+local-zone: "covid-19.tellic.com" static
+local-zone: "covid-19.elewat.com" static
+local-zone: "coronavirus.paths4work.com" static
+local-zone: "covid19.koliodev.me" static
+local-zone: "covid-19.callumeddisford.co.uk" static
+local-zone: "gocilcovid19.online" static
+local-zone: "pro-coronavirus.com" static
+local-zone: "chinesecoronavirusclassaction.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -12656,6 +12667,7 @@ local-zone: "covid19-nhs.com" static
 local-zone: "covid19-norwegian.com" static
 local-zone: "mercedcounty-covid19.com" static
 local-zone: "covid19sharing.com" static
+local-zone: "swocovid19.com" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
