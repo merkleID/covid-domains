@@ -23062,6 +23062,32 @@ local-zone: "www.covid-2019-protect.com" redirect
 local-data: "www.covid-2019-protect.com A 0.0.0.0"
 local-zone: "bb-covid-19.agencia-virtual.com" redirect
 local-data: "bb-covid-19.agencia-virtual.com A 0.0.0.0"
+local-zone: "coronavirusrates.com" redirect
+local-data: "coronavirusrates.com A 0.0.0.0"
+local-zone: "confinement-coronavirus.site" redirect
+local-data: "confinement-coronavirus.site A 0.0.0.0"
+local-zone: "confinement-coronavirus.org" redirect
+local-data: "confinement-coronavirus.org A 0.0.0.0"
+local-zone: "przewodnik.covid19.chwp.pl" redirect
+local-data: "przewodnik.covid19.chwp.pl A 0.0.0.0"
+local-zone: "desinfectarcoronavirus.es" redirect
+local-data: "desinfectarcoronavirus.es A 0.0.0.0"
+local-zone: "covid19-special-relief-fund.kyro.my" redirect
+local-data: "covid19-special-relief-fund.kyro.my A 0.0.0.0"
+local-zone: "www.coronavirus-monitor.press" redirect
+local-data: "www.coronavirus-monitor.press A 0.0.0.0"
+local-zone: "coronavirus-19.pro" redirect
+local-data: "coronavirus-19.pro A 0.0.0.0"
+local-zone: "covid19.naipunya.ind.in" redirect
+local-data: "covid19.naipunya.ind.in A 0.0.0.0"
+local-zone: "covid-19.zenithstrategy.com" redirect
+local-data: "covid-19.zenithstrategy.com A 0.0.0.0"
+local-zone: "sars-cov-2.science" redirect
+local-data: "sars-cov-2.science A 0.0.0.0"
+local-zone: "covid-19.zenithstrategy.com" redirect
+local-data: "covid-19.zenithstrategy.com A 0.0.0.0"
+local-zone: "coronavirus-24.ru" redirect
+local-data: "coronavirus-24.ru A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
