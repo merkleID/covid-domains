@@ -22792,6 +22792,48 @@ local-zone: "kumamoto.stopcovid19.jp" redirect
 local-data: "kumamoto.stopcovid19.jp A 0.0.0.0"
 local-zone: "covid19.discoverycampus.com" redirect
 local-data: "covid19.discoverycampus.com A 0.0.0.0"
+local-zone: "coronavirus.pathway.md" redirect
+local-data: "coronavirus.pathway.md A 0.0.0.0"
+local-zone: "covid19-app.mdeeweb.com" redirect
+local-data: "covid19-app.mdeeweb.com A 0.0.0.0"
+local-zone: "webmail.covid19-minahasa.info" redirect
+local-data: "webmail.covid19-minahasa.info A 0.0.0.0"
+local-zone: "icoronavirus.cz" redirect
+local-data: "icoronavirus.cz A 0.0.0.0"
+local-zone: "avocats-covid19.fr" redirect
+local-data: "avocats-covid19.fr A 0.0.0.0"
+local-zone: "coronavirus.caprover.do1.pathway.md" redirect
+local-data: "coronavirus.caprover.do1.pathway.md A 0.0.0.0"
+local-zone: "coronavirusturkiye.info" redirect
+local-data: "coronavirusturkiye.info A 0.0.0.0"
+local-zone: "coronavirus-covid19-dashboard.com" redirect
+local-data: "coronavirus-covid19-dashboard.com A 0.0.0.0"
+local-zone: "covid19.agenciavirtuals.com" redirect
+local-data: "covid19.agenciavirtuals.com A 0.0.0.0"
+local-zone: "covid19.cornelltech.io" redirect
+local-data: "covid19.cornelltech.io A 0.0.0.0"
+local-zone: "covid19.vietsoft.site" redirect
+local-data: "covid19.vietsoft.site A 0.0.0.0"
+local-zone: "www.covid19selfreport.live" redirect
+local-data: "www.covid19selfreport.live A 0.0.0.0"
+local-zone: "covid19selfreport.live" redirect
+local-data: "covid19selfreport.live A 0.0.0.0"
+local-zone: "www.covid19.superliga66.com.br" redirect
+local-data: "www.covid19.superliga66.com.br A 0.0.0.0"
+local-zone: "www.covid19selfreport.news" redirect
+local-data: "www.covid19selfreport.news A 0.0.0.0"
+local-zone: "coronavirus.now.sh" redirect
+local-data: "coronavirus.now.sh A 0.0.0.0"
+local-zone: "thedailycoronavirus.com" redirect
+local-data: "thedailycoronavirus.com A 0.0.0.0"
+local-zone: "covid19.petyaari.com" redirect
+local-data: "covid19.petyaari.com A 0.0.0.0"
+local-zone: "es.wascoshermangilliamcovid-19.com" redirect
+local-data: "es.wascoshermangilliamcovid-19.com A 0.0.0.0"
+local-zone: "fightcovid19store.com" redirect
+local-data: "fightcovid19store.com A 0.0.0.0"
+local-zone: "yotuvecoronavirus.net" redirect
+local-data: "yotuvecoronavirus.net A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -23846,6 +23888,8 @@ local-zone: "coronacovid19.it" redirect
 local-data: "coronacovid19.it A 0.0.0.0"
 local-zone: "covid-19outreach.com" redirect
 local-data: "covid-19outreach.com A 0.0.0.0"
+local-zone: "coronavirus.luizcorreia.eti.br" redirect
+local-data: "coronavirus.luizcorreia.eti.br A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
