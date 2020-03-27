@@ -23326,6 +23326,30 @@ local-zone: "www.covid19.solidaires-handicaps.fr" redirect
 local-data: "www.covid19.solidaires-handicaps.fr A 0.0.0.0"
 local-zone: "coronavirus.auquan.com" redirect
 local-data: "coronavirus.auquan.com A 0.0.0.0"
+local-zone: "covid19initiatives.com" redirect
+local-data: "covid19initiatives.com A 0.0.0.0"
+local-zone: "covid19.vmobile.eu" redirect
+local-data: "covid19.vmobile.eu A 0.0.0.0"
+local-zone: "covid19ppe.org" redirect
+local-data: "covid19ppe.org A 0.0.0.0"
+local-zone: "coronavirus.iibce.edu.uy" redirect
+local-data: "coronavirus.iibce.edu.uy A 0.0.0.0"
+local-zone: "decoronavirus19.com" redirect
+local-data: "decoronavirus19.com A 0.0.0.0"
+local-zone: "www.covid19.ehfikri.id" redirect
+local-data: "www.covid19.ehfikri.id A 0.0.0.0"
+local-zone: "decoronavirus19.com" redirect
+local-data: "decoronavirus19.com A 0.0.0.0"
+local-zone: "covid19data.global" redirect
+local-data: "covid19data.global A 0.0.0.0"
+local-zone: "coronavirus.atlasvpn.com" redirect
+local-data: "coronavirus.atlasvpn.com A 0.0.0.0"
+local-zone: "covid19test.expert" redirect
+local-data: "covid19test.expert A 0.0.0.0"
+local-zone: "psicovid19.bedita.net" redirect
+local-data: "psicovid19.bedita.net A 0.0.0.0"
+local-zone: "www.coronavirus-stop.com" redirect
+local-data: "www.coronavirus-stop.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
