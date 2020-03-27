@@ -22718,6 +22718,34 @@ local-zone: "whenwillcovid19end.com" redirect
 local-data: "whenwillcovid19end.com A 0.0.0.0"
 local-zone: "api.covid-19.digitalie.dev" redirect
 local-data: "api.covid-19.digitalie.dev A 0.0.0.0"
+local-zone: "mail.covid19direct.care" redirect
+local-data: "mail.covid19direct.care A 0.0.0.0"
+local-zone: "coronavirustestkit2020.com" redirect
+local-data: "coronavirustestkit2020.com A 0.0.0.0"
+local-zone: "covid19.agenciavirtuals.com" redirect
+local-data: "covid19.agenciavirtuals.com A 0.0.0.0"
+local-zone: "coronavirustestingkit.uk" redirect
+local-data: "coronavirustestingkit.uk A 0.0.0.0"
+local-zone: "covid19-ph.com" redirect
+local-data: "covid19-ph.com A 0.0.0.0"
+local-zone: "ncov19ppe.com" redirect
+local-data: "ncov19ppe.com A 0.0.0.0"
+local-zone: "covid19.motorama.com.au" redirect
+local-data: "covid19.motorama.com.au A 0.0.0.0"
+local-zone: "covid19.nznorth.cloudapp.cloud.umbrellar.io" redirect
+local-data: "covid19.nznorth.cloudapp.cloud.umbrellar.io A 0.0.0.0"
+local-zone: "covid19outbreak.com" redirect
+local-data: "covid19outbreak.com A 0.0.0.0"
+local-zone: "covid19test.com" redirect
+local-data: "covid19test.com A 0.0.0.0"
+local-zone: "covid19cure.com" redirect
+local-data: "covid19cure.com A 0.0.0.0"
+local-zone: "covid19.ridohidayat.com" redirect
+local-data: "covid19.ridohidayat.com A 0.0.0.0"
+local-zone: "covid-19info.ml" redirect
+local-data: "covid-19info.ml A 0.0.0.0"
+local-zone: "covid-19.catataniman.com" redirect
+local-data: "covid-19.catataniman.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
