@@ -25168,6 +25168,18 @@ local-zone: "coronavirus-lierneux.be" redirect
 local-data: "coronavirus-lierneux.be A 0.0.0.0"
 local-zone: "rodekruis-vlaanderen-covid-19learning.epyc.be" redirect
 local-data: "rodekruis-vlaanderen-covid-19learning.epyc.be A 0.0.0.0"
+local-zone: "covid19beneficio.sanjuan.gob.ar" redirect
+local-data: "covid19beneficio.sanjuan.gob.ar A 0.0.0.0"
+local-zone: "cdn.covid19.hackerspace.sv" redirect
+local-data: "cdn.covid19.hackerspace.sv A 0.0.0.0"
+local-zone: "brisbanecoronaviruscleaners.com.au" redirect
+local-data: "brisbanecoronaviruscleaners.com.au A 0.0.0.0"
+local-zone: "cdn.covid19.hackerspace.sv" redirect
+local-data: "cdn.covid19.hackerspace.sv A 0.0.0.0"
+local-zone: "covid19.algocrats.com" redirect
+local-data: "covid19.algocrats.com A 0.0.0.0"
+local-zone: "coronavirus.menu.com.br" redirect
+local-data: "coronavirus.menu.com.br A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
