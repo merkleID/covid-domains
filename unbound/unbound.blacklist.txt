@@ -25918,6 +25918,40 @@ local-zone: "covid19india.email" redirect
 local-data: "covid19india.email A 0.0.0.0"
 local-zone: "covid19nigeria.live" redirect
 local-data: "covid19nigeria.live A 0.0.0.0"
+local-zone: "coronavirusnewsheadlines.com" redirect
+local-data: "coronavirusnewsheadlines.com A 0.0.0.0"
+local-zone: "covid19.staging.guardian.ng" redirect
+local-data: "covid19.staging.guardian.ng A 0.0.0.0"
+local-zone: "trackcovid19.ca" redirect
+local-data: "trackcovid19.ca A 0.0.0.0"
+local-zone: "coronavirusresponse.tzvs.ec" redirect
+local-data: "coronavirusresponse.tzvs.ec A 0.0.0.0"
+local-zone: "www.covid19notes.info" redirect
+local-data: "www.covid19notes.info A 0.0.0.0"
+local-zone: "cpcalendars.coronavirustestingkits.co.uk" redirect
+local-data: "cpcalendars.coronavirustestingkits.co.uk A 0.0.0.0"
+local-zone: "covid-19.kiwidatascience.com" redirect
+local-data: "covid-19.kiwidatascience.com A 0.0.0.0"
+local-zone: "covid19dz.info" redirect
+local-data: "covid19dz.info A 0.0.0.0"
+local-zone: "coronacovid19.es" redirect
+local-data: "coronacovid19.es A 0.0.0.0"
+local-zone: "lifeline.kolhapurcovid19care.com" redirect
+local-data: "lifeline.kolhapurcovid19care.com A 0.0.0.0"
+local-zone: "covid-19.tech-spots.com" redirect
+local-data: "covid-19.tech-spots.com A 0.0.0.0"
+local-zone: "ledc-covid19.com" redirect
+local-data: "ledc-covid19.com A 0.0.0.0"
+local-zone: "covid-19publisher.com" redirect
+local-data: "covid-19publisher.com A 0.0.0.0"
+local-zone: "promocion-netflix-covid19.com" redirect
+local-data: "promocion-netflix-covid19.com A 0.0.0.0"
+local-zone: "livingincovid19denial.com" redirect
+local-data: "livingincovid19denial.com A 0.0.0.0"
+local-zone: "covid19.loglabprojetos.com" redirect
+local-data: "covid19.loglabprojetos.com A 0.0.0.0"
+local-zone: "sheldoncovid19.com" redirect
+local-data: "sheldoncovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -27122,6 +27156,10 @@ local-zone: "localfoodcovid19.co.uk" redirect
 local-data: "localfoodcovid19.co.uk A 0.0.0.0"
 local-zone: "covid19helpdesk.in" redirect
 local-data: "covid19helpdesk.in A 0.0.0.0"
+local-zone: "avoidcoronaviruswithsara.com" redirect
+local-data: "avoidcoronaviruswithsara.com A 0.0.0.0"
+local-zone: "classcovid19.com" redirect
+local-data: "classcovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
