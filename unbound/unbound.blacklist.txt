@@ -25006,6 +25006,40 @@ local-zone: "admin.covid19.rnbo.gov.ua" redirect
 local-data: "admin.covid19.rnbo.gov.ua A 0.0.0.0"
 local-zone: "covid19.kiev.ua" redirect
 local-data: "covid19.kiev.ua A 0.0.0.0"
+local-zone: "www.emergenciacovid19.gob.com" redirect
+local-data: "www.emergenciacovid19.gob.com A 0.0.0.0"
+local-zone: "covid19detection.co.uk" redirect
+local-data: "covid19detection.co.uk A 0.0.0.0"
+local-zone: "covid19welling.co.uk" redirect
+local-data: "covid19welling.co.uk A 0.0.0.0"
+local-zone: "coronavirus-maps.xyz" redirect
+local-data: "coronavirus-maps.xyz A 0.0.0.0"
+local-zone: "covid19world.tk" redirect
+local-data: "covid19world.tk A 0.0.0.0"
+local-zone: "www.dental-coronavirus-protection.co.uk" redirect
+local-data: "www.dental-coronavirus-protection.co.uk A 0.0.0.0"
+local-zone: "www.luchandocontraelcovid19.co.uk" redirect
+local-data: "www.luchandocontraelcovid19.co.uk A 0.0.0.0"
+local-zone: "covid19india.anewzon.com" redirect
+local-data: "covid19india.anewzon.com A 0.0.0.0"
+local-zone: "covid19govloan.promisedirect.co.uk" redirect
+local-data: "covid19govloan.promisedirect.co.uk A 0.0.0.0"
+local-zone: "streetsmartcovid19.com" redirect
+local-data: "streetsmartcovid19.com A 0.0.0.0"
+local-zone: "cpanel.novelcoronavirus.de" redirect
+local-data: "cpanel.novelcoronavirus.de A 0.0.0.0"
+local-zone: "covid19checker.online" redirect
+local-data: "covid19checker.online A 0.0.0.0"
+local-zone: "wellmeadowcovid19.co.uk" redirect
+local-data: "wellmeadowcovid19.co.uk A 0.0.0.0"
+local-zone: "coronavirus-help.camden.gov.uk" redirect
+local-data: "coronavirus-help.camden.gov.uk A 0.0.0.0"
+local-zone: "covid-19.shamed.uk" redirect
+local-data: "covid-19.shamed.uk A 0.0.0.0"
+local-zone: "covid-19watch.org" redirect
+local-data: "covid-19watch.org A 0.0.0.0"
+local-zone: "www.covid-19watch.org" redirect
+local-data: "www.covid-19watch.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -26156,6 +26190,8 @@ local-zone: "mascherinecovid-19.eu" redirect
 local-data: "mascherinecovid-19.eu A 0.0.0.0"
 local-zone: "coronavirusinform.ru" redirect
 local-data: "coronavirusinform.ru A 0.0.0.0"
+local-zone: "mycoronavirussupport.co.uk" redirect
+local-data: "mycoronavirussupport.co.uk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
