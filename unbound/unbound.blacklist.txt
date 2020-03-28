@@ -25952,6 +25952,46 @@ local-zone: "covid19.loglabprojetos.com" redirect
 local-data: "covid19.loglabprojetos.com A 0.0.0.0"
 local-zone: "sheldoncovid19.com" redirect
 local-data: "sheldoncovid19.com A 0.0.0.0"
+local-zone: "covid19newstracker.com" redirect
+local-data: "covid19newstracker.com A 0.0.0.0"
+local-zone: "www.covid19.midnapore.in" redirect
+local-data: "www.covid19.midnapore.in A 0.0.0.0"
+local-zone: "test-covid-19.online" redirect
+local-data: "test-covid-19.online A 0.0.0.0"
+local-zone: "plesk.schutz-vor-coronavirus.de" redirect
+local-data: "plesk.schutz-vor-coronavirus.de A 0.0.0.0"
+local-zone: "coronavirus.sunoindia.in" redirect
+local-data: "coronavirus.sunoindia.in A 0.0.0.0"
+local-zone: "covid19-checkup.com" redirect
+local-data: "covid19-checkup.com A 0.0.0.0"
+local-zone: "covid19fedcash.com" redirect
+local-data: "covid19fedcash.com A 0.0.0.0"
+local-zone: "covid19-3.dresdresdres.repl.run" redirect
+local-data: "covid19-3.dresdresdres.repl.run A 0.0.0.0"
+local-zone: "coronavirussupplies-usa.com" redirect
+local-data: "coronavirussupplies-usa.com A 0.0.0.0"
+local-zone: "covid19.sotolitolabs.com" redirect
+local-data: "covid19.sotolitolabs.com A 0.0.0.0"
+local-zone: "coronavirus.myjancy.com" redirect
+local-data: "coronavirus.myjancy.com A 0.0.0.0"
+local-zone: "coronavirus.bitfrost.pl" redirect
+local-data: "coronavirus.bitfrost.pl A 0.0.0.0"
+local-zone: "covid19.coretanit.com" redirect
+local-data: "covid19.coretanit.com A 0.0.0.0"
+local-zone: "covid19.mediflic.com" redirect
+local-data: "covid19.mediflic.com A 0.0.0.0"
+local-zone: "lifehopecovid19test.provider.mediportal.com" redirect
+local-data: "lifehopecovid19test.provider.mediportal.com A 0.0.0.0"
+local-zone: "masksale-coronavirus.com" redirect
+local-data: "masksale-coronavirus.com A 0.0.0.0"
+local-zone: "manageit.cmccovid19.org.ly" redirect
+local-data: "manageit.cmccovid19.org.ly A 0.0.0.0"
+local-zone: "covid19.mediflic.com" redirect
+local-data: "covid19.mediflic.com A 0.0.0.0"
+local-zone: "covid19.etrilabs.com" redirect
+local-data: "covid19.etrilabs.com A 0.0.0.0"
+local-zone: "coronavirusworldnews.org" redirect
+local-data: "coronavirusworldnews.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
