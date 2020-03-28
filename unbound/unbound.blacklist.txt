@@ -25334,6 +25334,62 @@ local-zone: "coronavirus.surf" redirect
 local-data: "coronavirus.surf A 0.0.0.0"
 local-zone: "coronaviruspandemicdefense.com" redirect
 local-data: "coronaviruspandemicdefense.com A 0.0.0.0"
+local-zone: "www.covid19.gitbook.io" redirect
+local-data: "www.covid19.gitbook.io A 0.0.0.0"
+local-zone: "covid19.tamansari-puribali.com" redirect
+local-data: "covid19.tamansari-puribali.com A 0.0.0.0"
+local-zone: "covid-19.tamansari-puribali.com" redirect
+local-data: "covid-19.tamansari-puribali.com A 0.0.0.0"
+local-zone: "covid19.mighil.com" redirect
+local-data: "covid19.mighil.com A 0.0.0.0"
+local-zone: "tuttoinfocovid19.altervista.org" redirect
+local-data: "tuttoinfocovid19.altervista.org A 0.0.0.0"
+local-zone: "coronavirus-rasprostranenie.ru" redirect
+local-data: "coronavirus-rasprostranenie.ru A 0.0.0.0"
+local-zone: "covid19.makersbaleares.es" redirect
+local-data: "covid19.makersbaleares.es A 0.0.0.0"
+local-zone: "covid19.cubedna.web.id" redirect
+local-data: "covid19.cubedna.web.id A 0.0.0.0"
+local-zone: "maskforcovid19.com" redirect
+local-data: "maskforcovid19.com A 0.0.0.0"
+local-zone: "www.downwithcovid19.com" redirect
+local-data: "www.downwithcovid19.com A 0.0.0.0"
+local-zone: "covid-19-us-api.dholmes.co.uk" redirect
+local-data: "covid-19-us-api.dholmes.co.uk A 0.0.0.0"
+local-zone: "businesslosscovid19.com" redirect
+local-data: "businesslosscovid19.com A 0.0.0.0"
+local-zone: "buycoronavirusprotection.com" redirect
+local-data: "buycoronavirusprotection.com A 0.0.0.0"
+local-zone: "covid19.ngs-it.com" redirect
+local-data: "covid19.ngs-it.com A 0.0.0.0"
+local-zone: "byebyecovid19.com" redirect
+local-data: "byebyecovid19.com A 0.0.0.0"
+local-zone: "southport-covid19-support.calypsas.com" redirect
+local-data: "southport-covid19-support.calypsas.com A 0.0.0.0"
+local-zone: "www.covid-19suppliesaustralia.com" redirect
+local-data: "www.covid-19suppliesaustralia.com A 0.0.0.0"
+local-zone: "click.ncov2019.co.uk" redirect
+local-data: "click.ncov2019.co.uk A 0.0.0.0"
+local-zone: "covid-19suppliesaustralia.com" redirect
+local-data: "covid-19suppliesaustralia.com A 0.0.0.0"
+local-zone: "downwithcovid19.com" redirect
+local-data: "downwithcovid19.com A 0.0.0.0"
+local-zone: "covid19alliance.net" redirect
+local-data: "covid19alliance.net A 0.0.0.0"
+local-zone: "covid19challenge.info" redirect
+local-data: "covid19challenge.info A 0.0.0.0"
+local-zone: "covid19philippines.info" redirect
+local-data: "covid19philippines.info A 0.0.0.0"
+local-zone: "www.downwithcovid19.com" redirect
+local-data: "www.downwithcovid19.com A 0.0.0.0"
+local-zone: "mail.dons-coronavirus.be" redirect
+local-data: "mail.dons-coronavirus.be A 0.0.0.0"
+local-zone: "covid19-france-medecinechinoise.fr" redirect
+local-data: "covid19-france-medecinechinoise.fr A 0.0.0.0"
+local-zone: "covid19.heaglobe.com" redirect
+local-data: "covid19.heaglobe.com A 0.0.0.0"
+local-zone: "ccpcoronavirus.com" redirect
+local-data: "ccpcoronavirus.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -26520,6 +26576,8 @@ local-zone: "coronavirus24.co.uk" redirect
 local-data: "coronavirus24.co.uk A 0.0.0.0"
 local-zone: "apocalipsiscovid19.com" redirect
 local-data: "apocalipsiscovid19.com A 0.0.0.0"
+local-zone: "info-coronavirus-france.fr" redirect
+local-data: "info-coronavirus-france.fr A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
