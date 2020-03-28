@@ -10998,6 +10998,8 @@ local-zone: "covid19charity.org" redirect
 local-data: "covid19charity.org A 0.0.0.0"
 local-zone: "covid19charlotte.com" redirect
 local-data: "covid19charlotte.com A 0.0.0.0"
+local-zone: "covid19chart.online" redirect
+local-data: "covid19chart.online A 0.0.0.0"
 local-zone: "covid19charts.net" redirect
 local-data: "covid19charts.net A 0.0.0.0"
 local-zone: "covid19chatbot.iltakecare.in" redirect
@@ -13588,6 +13590,8 @@ local-zone: "covid19.lukos.org" redirect
 local-data: "covid19.lukos.org A 0.0.0.0"
 local-zone: "covid19.lumeapresei.ro" redirect
 local-data: "covid19.lumeapresei.ro A 0.0.0.0"
+local-zone: "covid19.lunarwings.dev" redirect
+local-data: "covid19.lunarwings.dev A 0.0.0.0"
 local-zone: "covid19.lunbel.com" redirect
 local-data: "covid19.lunbel.com A 0.0.0.0"
 local-zone: "covid19.lusites.xyz" redirect

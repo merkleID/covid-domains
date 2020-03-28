@@ -5498,6 +5498,7 @@ local-zone: "covid19.changethailand.org" static
 local-zone: "covid-19.charity" static
 local-zone: "covid19charity.org" static
 local-zone: "covid19charlotte.com" static
+local-zone: "covid19chart.online" static
 local-zone: "covid19charts.net" static
 local-zone: "covid19chatbot.iltakecare.in" static
 local-zone: "covid19-chat.com" static
@@ -6793,6 +6794,7 @@ local-zone: "covid-19.lpdpugm.or.id" static
 local-zone: "covid-19.luasoftware.com" static
 local-zone: "covid19.lukos.org" static
 local-zone: "covid19.lumeapresei.ro" static
+local-zone: "covid19.lunarwings.dev" static
 local-zone: "covid19.lunbel.com" static
 local-zone: "covid19.lusites.xyz" static
 local-zone: "covid19.luwukab.go.id" static
