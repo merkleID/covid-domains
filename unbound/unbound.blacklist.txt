@@ -24932,6 +24932,52 @@ local-zone: "coronaviruscov.com" redirect
 local-data: "coronaviruscov.com A 0.0.0.0"
 local-zone: "www.coronavirusdisinfecting.services" redirect
 local-data: "www.coronavirusdisinfecting.services A 0.0.0.0"
+local-zone: "covid19.chirohorit.com" redirect
+local-data: "covid19.chirohorit.com A 0.0.0.0"
+local-zone: "www.covid19southkorea.com" redirect
+local-data: "www.covid19southkorea.com A 0.0.0.0"
+local-zone: "thecovid19faceshield.com" redirect
+local-data: "thecovid19faceshield.com A 0.0.0.0"
+local-zone: "covid19.dufferinbot.ca" redirect
+local-data: "covid19.dufferinbot.ca A 0.0.0.0"
+local-zone: "protecta-coronavirus.com" redirect
+local-data: "protecta-coronavirus.com A 0.0.0.0"
+local-zone: "covid19lk.site" redirect
+local-data: "covid19lk.site A 0.0.0.0"
+local-zone: "coronavirustrack.in" redirect
+local-data: "coronavirustrack.in A 0.0.0.0"
+local-zone: "covid19newstracker.com" redirect
+local-data: "covid19newstracker.com A 0.0.0.0"
+local-zone: "covid19kits.store" redirect
+local-data: "covid19kits.store A 0.0.0.0"
+local-zone: "3dcovid19.tech" redirect
+local-data: "3dcovid19.tech A 0.0.0.0"
+local-zone: "covid19.alfaintelli.tech" redirect
+local-data: "covid19.alfaintelli.tech A 0.0.0.0"
+local-zone: "www.ncov19.tech" redirect
+local-data: "www.ncov19.tech A 0.0.0.0"
+local-zone: "covid19.voicetv.co.th" redirect
+local-data: "covid19.voicetv.co.th A 0.0.0.0"
+local-zone: "www.covid19newstracker.com" redirect
+local-data: "www.covid19newstracker.com A 0.0.0.0"
+local-zone: "99xt-covid-19.tk" redirect
+local-data: "99xt-covid-19.tk A 0.0.0.0"
+local-zone: "coronavirus.ravenpack.com" redirect
+local-data: "coronavirus.ravenpack.com A 0.0.0.0"
+local-zone: "covid-19.org.ua" redirect
+local-data: "covid-19.org.ua A 0.0.0.0"
+local-zone: "thecoronavirusanxiety.com" redirect
+local-data: "thecoronavirusanxiety.com A 0.0.0.0"
+local-zone: "coronavirusvideos.marketinghull.com" redirect
+local-data: "coronavirusvideos.marketinghull.com A 0.0.0.0"
+local-zone: "covid-19-trauma-informed-care.info" redirect
+local-data: "covid-19-trauma-informed-care.info A 0.0.0.0"
+local-zone: "covid19.thecenterformissingandexploitedsystems.com" redirect
+local-data: "covid19.thecenterformissingandexploitedsystems.com A 0.0.0.0"
+local-zone: "covid-19-traumapaedagogik.de" redirect
+local-data: "covid-19-traumapaedagogik.de A 0.0.0.0"
+local-zone: "thecoronavirustimes.com" redirect
+local-data: "thecoronavirustimes.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
