@@ -25238,6 +25238,22 @@ local-zone: "covid19online.info" redirect
 local-data: "covid19online.info A 0.0.0.0"
 local-zone: "covid192019.ca" redirect
 local-data: "covid192019.ca A 0.0.0.0"
+local-zone: "covid19.rynok.co" redirect
+local-data: "covid19.rynok.co A 0.0.0.0"
+local-zone: "www.newchinaflushing.com" redirect
+local-data: "www.newchinaflushing.com A 0.0.0.0"
+local-zone: "emergencia.covid-19.gob.com" redirect
+local-data: "emergencia.covid-19.gob.com A 0.0.0.0"
+local-zone: "19covid19.com" redirect
+local-data: "19covid19.com A 0.0.0.0"
+local-zone: "stopcovid19.today" redirect
+local-data: "stopcovid19.today A 0.0.0.0"
+local-zone: "covid19.zeus.vision" redirect
+local-data: "covid19.zeus.vision A 0.0.0.0"
+local-zone: "unodonationcovid-19.org" redirect
+local-data: "unodonationcovid-19.org A 0.0.0.0"
+local-zone: "www.login.covid19telangana.in" redirect
+local-data: "www.login.covid19telangana.in A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
