@@ -24598,6 +24598,30 @@ local-zone: "gouvernement-coronavirus.for-our.info" redirect
 local-data: "gouvernement-coronavirus.for-our.info A 0.0.0.0"
 local-zone: "covid19us.life" redirect
 local-data: "covid19us.life A 0.0.0.0"
+local-zone: "desinfeccioncovid19.gruporeyna.com" redirect
+local-data: "desinfeccioncovid19.gruporeyna.com A 0.0.0.0"
+local-zone: "bip.covid19.athenarc.gr" redirect
+local-data: "bip.covid19.athenarc.gr A 0.0.0.0"
+local-zone: "covid19.neakriti.gr" redirect
+local-data: "covid19.neakriti.gr A 0.0.0.0"
+local-zone: "covid19repos.com" redirect
+local-data: "covid19repos.com A 0.0.0.0"
+local-zone: "covid19.nlc.health" redirect
+local-data: "covid19.nlc.health A 0.0.0.0"
+local-zone: "covid19.ehe.health" redirect
+local-data: "covid19.ehe.health A 0.0.0.0"
+local-zone: "www.coronaviruss.tk" redirect
+local-data: "www.coronaviruss.tk A 0.0.0.0"
+local-zone: "covid19-api.yggdrasil.id" redirect
+local-data: "covid19-api.yggdrasil.id A 0.0.0.0"
+local-zone: "talktokidsaboutcoronavirus.com" redirect
+local-data: "talktokidsaboutcoronavirus.com A 0.0.0.0"
+local-zone: "corona-covid-19.net" redirect
+local-data: "corona-covid-19.net A 0.0.0.0"
+local-zone: "ncov19.in" redirect
+local-data: "ncov19.in A 0.0.0.0"
+local-zone: "staging.helpstopcovid19.com" redirect
+local-data: "staging.helpstopcovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -25732,6 +25756,8 @@ local-zone: "remedycovid19.com" redirect
 local-data: "remedycovid19.com A 0.0.0.0"
 local-zone: "punchcovid19.com" redirect
 local-data: "punchcovid19.com A 0.0.0.0"
+local-zone: "salirdecasacoronavirus.es" redirect
+local-data: "salirdecasacoronavirus.es A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

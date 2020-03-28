@@ -12298,6 +12298,18 @@ local-zone: "covid19-bb.agencia-virtual.com" static
 local-zone: "covid19.manadokota.go.id" static
 local-zone: "gouvernement-coronavirus.for-our.info" static
 local-zone: "covid19us.life" static
+local-zone: "desinfeccioncovid19.gruporeyna.com" static
+local-zone: "bip.covid19.athenarc.gr" static
+local-zone: "covid19.neakriti.gr" static
+local-zone: "covid19repos.com" static
+local-zone: "covid19.nlc.health" static
+local-zone: "covid19.ehe.health" static
+local-zone: "www.coronaviruss.tk" static
+local-zone: "covid19-api.yggdrasil.id" static
+local-zone: "talktokidsaboutcoronavirus.com" static
+local-zone: "corona-covid-19.net" static
+local-zone: "ncov19.in" static
+local-zone: "staging.helpstopcovid19.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -12865,6 +12877,7 @@ local-zone: "stopcovid19now.de" static
 local-zone: "memorialcoronavirus.com" static
 local-zone: "remedycovid19.com" static
 local-zone: "punchcovid19.com" static
+local-zone: "salirdecasacoronavirus.es" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
