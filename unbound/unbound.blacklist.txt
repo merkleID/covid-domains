@@ -24736,6 +24736,38 @@ local-zone: "covid19grandjury.net" redirect
 local-data: "covid19grandjury.net A 0.0.0.0"
 local-zone: "openthroughoutcoronavirus.com" redirect
 local-data: "openthroughoutcoronavirus.com A 0.0.0.0"
+local-zone: "stampoutcovid-19.net" redirect
+local-data: "stampoutcovid-19.net A 0.0.0.0"
+local-zone: "desinfeccionylimpiezacoronavirus.es" redirect
+local-data: "desinfeccionylimpiezacoronavirus.es A 0.0.0.0"
+local-zone: "coronavirus.petitsfreresdespauvres.fr" redirect
+local-data: "coronavirus.petitsfreresdespauvres.fr A 0.0.0.0"
+local-zone: "coronavirushygienetest.nl" redirect
+local-data: "coronavirushygienetest.nl A 0.0.0.0"
+local-zone: "coronavirus-2019.com" redirect
+local-data: "coronavirus-2019.com A 0.0.0.0"
+local-zone: "covid19-tests.xyz" redirect
+local-data: "covid19-tests.xyz A 0.0.0.0"
+local-zone: "covid19.tomohon.go.id" redirect
+local-data: "covid19.tomohon.go.id A 0.0.0.0"
+local-zone: "emergencian.covid19.gob.com" redirect
+local-data: "emergencian.covid19.gob.com A 0.0.0.0"
+local-zone: "covid19utstyr.no" redirect
+local-data: "covid19utstyr.no A 0.0.0.0"
+local-zone: "covid19.lumacms.com" redirect
+local-data: "covid19.lumacms.com A 0.0.0.0"
+local-zone: "nonprofitcovid19.org" redirect
+local-data: "nonprofitcovid19.org A 0.0.0.0"
+local-zone: "covid19.jzabala.com" redirect
+local-data: "covid19.jzabala.com A 0.0.0.0"
+local-zone: "stampoutcovid19.net" redirect
+local-data: "stampoutcovid19.net A 0.0.0.0"
+local-zone: "covid19.hackhub.cn" redirect
+local-data: "covid19.hackhub.cn A 0.0.0.0"
+local-zone: "covid19checker.life" redirect
+local-data: "covid19checker.life A 0.0.0.0"
+local-zone: "www.nonprofitcovid19.org" redirect
+local-data: "www.nonprofitcovid19.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
