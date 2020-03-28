@@ -24768,6 +24768,116 @@ local-zone: "covid19checker.life" redirect
 local-data: "covid19checker.life A 0.0.0.0"
 local-zone: "www.nonprofitcovid19.org" redirect
 local-data: "www.nonprofitcovid19.org A 0.0.0.0"
+local-zone: "covid-19faceshields.com" redirect
+local-data: "covid-19faceshields.com A 0.0.0.0"
+local-zone: "mask-covid19.com" redirect
+local-data: "mask-covid19.com A 0.0.0.0"
+local-zone: "www.maskforcoronavirus.com" redirect
+local-data: "www.maskforcoronavirus.com A 0.0.0.0"
+local-zone: "masque-coronavirus-france.com" redirect
+local-data: "masque-coronavirus-france.com A 0.0.0.0"
+local-zone: "coronavirus-portugal.canalfoto.org" redirect
+local-data: "coronavirus-portugal.canalfoto.org A 0.0.0.0"
+local-zone: "covid19.medelse.com" redirect
+local-data: "covid19.medelse.com A 0.0.0.0"
+local-zone: "www.coronavirus-nachbarschaftshilfe.org" redirect
+local-data: "www.coronavirus-nachbarschaftshilfe.org A 0.0.0.0"
+local-zone: "coronavirusblog.org" redirect
+local-data: "coronavirusblog.org A 0.0.0.0"
+local-zone: "coronavirusactiongroup.org" redirect
+local-data: "coronavirusactiongroup.org A 0.0.0.0"
+local-zone: "www.coronavirusrelationships.org" redirect
+local-data: "www.coronavirusrelationships.org A 0.0.0.0"
+local-zone: "coronavirushoy.org" redirect
+local-data: "coronavirushoy.org A 0.0.0.0"
+local-zone: "coronavirus-nachbarschaftshilfe.org" redirect
+local-data: "coronavirus-nachbarschaftshilfe.org A 0.0.0.0"
+local-zone: "www.covid19vaxdev.org" redirect
+local-data: "www.covid19vaxdev.org A 0.0.0.0"
+local-zone: "covid19vaxdev.org" redirect
+local-data: "covid19vaxdev.org A 0.0.0.0"
+local-zone: "covid19-aide-entreprises.org" redirect
+local-data: "covid19-aide-entreprises.org A 0.0.0.0"
+local-zone: "covid19mexico.org" redirect
+local-data: "covid19mexico.org A 0.0.0.0"
+local-zone: "coronavirusflu.org" redirect
+local-data: "coronavirusflu.org A 0.0.0.0"
+local-zone: "coronavirus-testing.org" redirect
+local-data: "coronavirus-testing.org A 0.0.0.0"
+local-zone: "covid19helpinghand.org" redirect
+local-data: "covid19helpinghand.org A 0.0.0.0"
+local-zone: "covid19sim.org" redirect
+local-data: "covid19sim.org A 0.0.0.0"
+local-zone: "www.covid19rd.org" redirect
+local-data: "www.covid19rd.org A 0.0.0.0"
+local-zone: "covid19aominuto-gw.org" redirect
+local-data: "covid19aominuto-gw.org A 0.0.0.0"
+local-zone: "covid19alliance.org" redirect
+local-data: "covid19alliance.org A 0.0.0.0"
+local-zone: "staging.covid19responsefund.org" redirect
+local-data: "staging.covid19responsefund.org A 0.0.0.0"
+local-zone: "covid19america.org" redirect
+local-data: "covid19america.org A 0.0.0.0"
+local-zone: "covid19supply.org" redirect
+local-data: "covid19supply.org A 0.0.0.0"
+local-zone: "covid19frontlines.org" redirect
+local-data: "covid19frontlines.org A 0.0.0.0"
+local-zone: "covid-19.basf.com.br" redirect
+local-data: "covid-19.basf.com.br A 0.0.0.0"
+local-zone: "www.covid19histories.org" redirect
+local-data: "www.covid19histories.org A 0.0.0.0"
+local-zone: "covid19tracing.org" redirect
+local-data: "covid19tracing.org A 0.0.0.0"
+local-zone: "covid19nutrition.org" redirect
+local-data: "covid19nutrition.org A 0.0.0.0"
+local-zone: "covid19impacto.org" redirect
+local-data: "covid19impacto.org A 0.0.0.0"
+local-zone: "www.covid19relationships.org" redirect
+local-data: "www.covid19relationships.org A 0.0.0.0"
+local-zone: "covid-19support.org" redirect
+local-data: "covid-19support.org A 0.0.0.0"
+local-zone: "coronavirus.org" redirect
+local-data: "coronavirus.org A 0.0.0.0"
+local-zone: "covid-19solutions.org" redirect
+local-data: "covid-19solutions.org A 0.0.0.0"
+local-zone: "covid19world.org" redirect
+local-data: "covid19world.org A 0.0.0.0"
+local-zone: "covid19france.org" redirect
+local-data: "covid19france.org A 0.0.0.0"
+local-zone: "coronaviruscoach.org" redirect
+local-data: "coronaviruscoach.org A 0.0.0.0"
+local-zone: "covid19mask-adam.org" redirect
+local-data: "covid19mask-adam.org A 0.0.0.0"
+local-zone: "coronaviruscharity.org" redirect
+local-data: "coronaviruscharity.org A 0.0.0.0"
+local-zone: "ar.covid19lexington.org" redirect
+local-data: "ar.covid19lexington.org A 0.0.0.0"
+local-zone: "mexicovid-19.com" redirect
+local-data: "mexicovid-19.com A 0.0.0.0"
+local-zone: "www.globalcoronavirus.org" redirect
+local-data: "www.globalcoronavirus.org A 0.0.0.0"
+local-zone: "globalcoronavirus.org" redirect
+local-data: "globalcoronavirus.org A 0.0.0.0"
+local-zone: "chepstowcovid19.co.uk" redirect
+local-data: "chepstowcovid19.co.uk A 0.0.0.0"
+local-zone: "webdisk.helpstopcoronavirus.org" redirect
+local-data: "webdisk.helpstopcoronavirus.org A 0.0.0.0"
+local-zone: "covid-19.fm" redirect
+local-data: "covid-19.fm A 0.0.0.0"
+local-zone: "coronavirus.komen.org" redirect
+local-data: "coronavirus.komen.org A 0.0.0.0"
+local-zone: "covid-19watch.org" redirect
+local-data: "covid-19watch.org A 0.0.0.0"
+local-zone: "louisianacoronavirusdata.org" redirect
+local-data: "louisianacoronavirusdata.org A 0.0.0.0"
+local-zone: "www.mbakscovid19.org" redirect
+local-data: "www.mbakscovid19.org A 0.0.0.0"
+local-zone: "mensajescovid19.org" redirect
+local-data: "mensajescovid19.org A 0.0.0.0"
+local-zone: "coronavirus-info.ru" redirect
+local-data: "coronavirus-info.ru A 0.0.0.0"
+local-zone: "admin.redcovid19mx.org" redirect
+local-data: "admin.redcovid19mx.org A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -25910,6 +26020,10 @@ local-zone: "informacioncovid19.com" redirect
 local-data: "informacioncovid19.com A 0.0.0.0"
 local-zone: "estudicovid19.org" redirect
 local-data: "estudicovid19.org A 0.0.0.0"
+local-zone: "covid19mobility.org" redirect
+local-data: "covid19mobility.org A 0.0.0.0"
+local-zone: "coronavirus-hub.com" redirect
+local-data: "coronavirus-hub.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
