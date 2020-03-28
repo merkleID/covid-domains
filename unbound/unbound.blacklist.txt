@@ -9312,6 +9312,8 @@ local-zone: "coronavirustheband.com" redirect
 local-data: "coronavirustheband.com A 0.0.0.0"
 local-zone: "coronavirus.thebesthosting.pk" redirect
 local-data: "coronavirus.thebesthosting.pk A 0.0.0.0"
+local-zone: "coronavirus.thecertifiedhustler.com" redirect
+local-data: "coronavirus.thecertifiedhustler.com A 0.0.0.0"
 local-zone: "coronavirus.thechickenman.repl.run" redirect
 local-data: "coronavirus.thechickenman.repl.run A 0.0.0.0"
 local-zone: "coronavirus.thecrafttime.com" redirect
@@ -9538,6 +9540,8 @@ local-zone: "coronavirus.umich.edu" redirect
 local-data: "coronavirus.umich.edu A 0.0.0.0"
 local-zone: "coronavirus-uncensored.com" redirect
 local-data: "coronavirus-uncensored.com A 0.0.0.0"
+local-zone: "coronavirus-und-arbeits.recht-anwalt.com" redirect
+local-data: "coronavirus-und-arbeits.recht-anwalt.com A 0.0.0.0"
 local-zone: "coronavirus.uniasselvi.com.br" redirect
 local-data: "coronavirus.uniasselvi.com.br A 0.0.0.0"
 local-zone: "coronavirus.unisante.ch.de" redirect
@@ -11522,8 +11526,6 @@ local-zone: "covid19cure.xyz" redirect
 local-data: "covid19cure.xyz A 0.0.0.0"
 local-zone: "covid-19.cute-alien.com" redirect
 local-data: "covid-19.cute-alien.com A 0.0.0.0"
-local-zone: "covid19.cv" redirect
-local-data: "covid19.cv A 0.0.0.0"
 local-zone: "covid19cvm.com" redirect
 local-data: "covid19cvm.com A 0.0.0.0"
 local-zone: "covid19.cwerner.ai" redirect
@@ -12416,6 +12418,8 @@ local-zone: "covid19gmu.stcenter.net" redirect
 local-data: "covid19gmu.stcenter.net A 0.0.0.0"
 local-zone: "covid-19.go123.biz" redirect
 local-data: "covid-19.go123.biz A 0.0.0.0"
+local-zone: "covid19goaerobic.life" redirect
+local-data: "covid19goaerobic.life A 0.0.0.0"
 local-zone: "covid-19.gob.es" redirect
 local-data: "covid-19.gob.es A 0.0.0.0"
 local-zone: "covid19.gob.sv" redirect
@@ -13182,6 +13186,8 @@ local-zone: "covid19.javibenitez.com" redirect
 local-data: "covid19.javibenitez.com A 0.0.0.0"
 local-zone: "covid19.javieroliver.co" redirect
 local-data: "covid19.javieroliver.co A 0.0.0.0"
+local-zone: "covid19.jayapurakab.go.id" redirect
+local-data: "covid19.jayapurakab.go.id A 0.0.0.0"
 local-zone: "covid19.jaysoni.info" redirect
 local-data: "covid19.jaysoni.info A 0.0.0.0"
 local-zone: "covid-19.jean-francois-labbe.com" redirect
@@ -15164,6 +15170,8 @@ local-zone: "covid19-scenarios.now.sh" redirect
 local-data: "covid19-scenarios.now.sh A 0.0.0.0"
 local-zone: "covid19.schene.net" redirect
 local-data: "covid19.schene.net A 0.0.0.0"
+local-zone: "covid-19schnelltest.com" redirect
+local-data: "covid-19schnelltest.com A 0.0.0.0"
 local-zone: "covid19.school" redirect
 local-data: "covid19.school A 0.0.0.0"
 local-zone: "covid19schoolclosures.com" redirect
@@ -16518,8 +16526,6 @@ local-zone: "covid-19.vc" redirect
 local-data: "covid-19.vc A 0.0.0.0"
 local-zone: "covid19v.com" redirect
 local-data: "covid19v.com A 0.0.0.0"
-local-zone: "covid19.vcsdata.com" redirect
-local-data: "covid19.vcsdata.com A 0.0.0.0"
 local-zone: "covid19.vecdis.es" redirect
 local-data: "covid19.vecdis.es A 0.0.0.0"
 local-zone: "covid19-veiligheid.omgevingkeuze.web5282.cweb04.gamingweb.de" redirect
@@ -18136,6 +18142,10 @@ local-zone: "eduvemcovid19.eduvem.com" redirect
 local-data: "eduvemcovid19.eduvem.com A 0.0.0.0"
 local-zone: "eeyouistcheecovid19.org" redirect
 local-data: "eeyouistcheecovid19.org A 0.0.0.0"
+local-zone: "efeitocoronavirus.com" redirect
+local-data: "efeitocoronavirus.com A 0.0.0.0"
+local-zone: "efeitoscoronavirus.com" redirect
+local-data: "efeitoscoronavirus.com A 0.0.0.0"
 local-zone: "effcovid-19.com" redirect
 local-data: "effcovid-19.com A 0.0.0.0"
 local-zone: "effcovid19.com" redirect
@@ -19004,8 +19014,6 @@ local-zone: "helpcovid19survivors.com" redirect
 local-data: "helpcovid19survivors.com A 0.0.0.0"
 local-zone: "help.covid-19team.com" redirect
 local-data: "help.covid-19team.com A 0.0.0.0"
-local-zone: "helpcovid19testing.co.uk" redirect
-local-data: "helpcovid19testing.co.uk A 0.0.0.0"
 local-zone: "helpdesk.soscoronavirus.info" redirect
 local-data: "helpdesk.soscoronavirus.info A 0.0.0.0"
 local-zone: "helpfightcorona.com" redirect
@@ -20726,6 +20734,8 @@ local-zone: "nextcovid-19.now.sh" redirect
 local-data: "nextcovid-19.now.sh A 0.0.0.0"
 local-zone: "nextepidemic.com" redirect
 local-data: "nextepidemic.com A 0.0.0.0"
+local-zone: "ngcoronavirus.info" redirect
+local-data: "ngcoronavirus.info A 0.0.0.0"
 local-zone: "nhcoronavirus.com" redirect
 local-data: "nhcoronavirus.com A 0.0.0.0"
 local-zone: "nhscoronavirus.com" redirect
@@ -23726,8 +23736,6 @@ local-zone: "vorprod.coronavirus.bayern.de" redirect
 local-data: "vorprod.coronavirus.bayern.de A 0.0.0.0"
 local-zone: "vostptcovid19.orpheu.ws" redirect
 local-data: "vostptcovid19.orpheu.ws A 0.0.0.0"
-local-zone: "votecovid19.com" redirect
-local-data: "votecovid19.com A 0.0.0.0"
 local-zone: "vpn-covid19.ac-reunion.fr" redirect
 local-data: "vpn-covid19.ac-reunion.fr A 0.0.0.0"
 local-zone: "vtcoronavirus.com" redirect
@@ -25424,6 +25432,8 @@ local-zone: "www.covid19safety.care" redirect
 local-data: "www.covid19safety.care A 0.0.0.0"
 local-zone: "www.covid19safety.shop" redirect
 local-data: "www.covid19safety.shop A 0.0.0.0"
+local-zone: "www.covid-19schnelltest.com" redirect
+local-data: "www.covid-19schnelltest.com A 0.0.0.0"
 local-zone: "www.covid19schoolfunding.com" redirect
 local-data: "www.covid19schoolfunding.com A 0.0.0.0"
 local-zone: "www.covid19scotland.co.uk" redirect
