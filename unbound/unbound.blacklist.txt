@@ -25310,6 +25310,30 @@ local-zone: "www.login.covid19telangana.in" redirect
 local-data: "www.login.covid19telangana.in A 0.0.0.0"
 local-zone: "covid19info.me" redirect
 local-data: "covid19info.me A 0.0.0.0"
+local-zone: "www.stopcovid19now.eu" redirect
+local-data: "www.stopcovid19now.eu A 0.0.0.0"
+local-zone: "api.covid19.therappx.com" redirect
+local-data: "api.covid19.therappx.com A 0.0.0.0"
+local-zone: "system.sudancovid19.info" redirect
+local-data: "system.sudancovid19.info A 0.0.0.0"
+local-zone: "tracker.uavscovid19.com.ua" redirect
+local-data: "tracker.uavscovid19.com.ua A 0.0.0.0"
+local-zone: "emergencias.covid19.gob.com" redirect
+local-data: "emergencias.covid19.gob.com A 0.0.0.0"
+local-zone: "covid19-moscow.ru" redirect
+local-data: "covid19-moscow.ru A 0.0.0.0"
+local-zone: "www.covid19-hilft.de" redirect
+local-data: "www.covid19-hilft.de A 0.0.0.0"
+local-zone: "covid19.bi-geek.com" redirect
+local-data: "covid19.bi-geek.com A 0.0.0.0"
+local-zone: "www.covid19-hilfe.eu" redirect
+local-data: "www.covid19-hilfe.eu A 0.0.0.0"
+local-zone: "covid19sl.exaltconclave.com" redirect
+local-data: "covid19sl.exaltconclave.com A 0.0.0.0"
+local-zone: "coronavirus.surf" redirect
+local-data: "coronavirus.surf A 0.0.0.0"
+local-zone: "coronaviruspandemicdefense.com" redirect
+local-data: "coronaviruspandemicdefense.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
