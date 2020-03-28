@@ -25128,6 +25128,18 @@ local-zone: "coronavirus.teckgeekz.com" redirect
 local-data: "coronavirus.teckgeekz.com A 0.0.0.0"
 local-zone: "covid19.kodemonk.com" redirect
 local-data: "covid19.kodemonk.com A 0.0.0.0"
+local-zone: "masque-coronavirus-france.com" redirect
+local-data: "masque-coronavirus-france.com A 0.0.0.0"
+local-zone: "coronavirus-advice.com" redirect
+local-data: "coronavirus-advice.com A 0.0.0.0"
+local-zone: "coronavirus.sardegna-clima.it" redirect
+local-data: "coronavirus.sardegna-clima.it A 0.0.0.0"
+local-zone: "coronavirusa-karta.ru" redirect
+local-data: "coronavirusa-karta.ru A 0.0.0.0"
+local-zone: "covid19.outsideof.africa" redirect
+local-data: "covid19.outsideof.africa A 0.0.0.0"
+local-zone: "covid19jagratha.kerala.nic.in" redirect
+local-data: "covid19jagratha.kerala.nic.in A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
