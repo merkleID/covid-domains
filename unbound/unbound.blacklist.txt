@@ -24878,6 +24878,34 @@ local-zone: "coronavirus-info.ru" redirect
 local-data: "coronavirus-info.ru A 0.0.0.0"
 local-zone: "admin.redcovid19mx.org" redirect
 local-data: "admin.redcovid19mx.org A 0.0.0.0"
+local-zone: "www.testkitforcovid19.com" redirect
+local-data: "www.testkitforcovid19.com A 0.0.0.0"
+local-zone: "covid19grandjury.org" redirect
+local-data: "covid19grandjury.org A 0.0.0.0"
+local-zone: "www.covid19-2020.ru" redirect
+local-data: "www.covid19-2020.ru A 0.0.0.0"
+local-zone: "covid19iligan-chatbot.now.sh" redirect
+local-data: "covid19iligan-chatbot.now.sh A 0.0.0.0"
+local-zone: "coronaviruscaseupdate.com" redirect
+local-data: "coronaviruscaseupdate.com A 0.0.0.0"
+local-zone: "www.newchinaflushing.com" redirect
+local-data: "www.newchinaflushing.com A 0.0.0.0"
+local-zone: "covid19odszkodowanie.pl" redirect
+local-data: "covid19odszkodowanie.pl A 0.0.0.0"
+local-zone: "emergencia.covid19.cob.com" redirect
+local-data: "emergencia.covid19.cob.com A 0.0.0.0"
+local-zone: "covid19counselling.com" redirect
+local-data: "covid19counselling.com A 0.0.0.0"
+local-zone: "acercacovid-19.pt" redirect
+local-data: "acercacovid-19.pt A 0.0.0.0"
+local-zone: "covid19.indexhouse.pt" redirect
+local-data: "covid19.indexhouse.pt A 0.0.0.0"
+local-zone: "covid19.niasbaratkab.go.id" redirect
+local-data: "covid19.niasbaratkab.go.id A 0.0.0.0"
+local-zone: "www.coronavirus2019.report" redirect
+local-data: "www.coronavirus2019.report A 0.0.0.0"
+local-zone: "coronavirus.itstart.ro" redirect
+local-data: "coronavirus.itstart.ro A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -26024,6 +26052,8 @@ local-zone: "covid19mobility.org" redirect
 local-data: "covid19mobility.org A 0.0.0.0"
 local-zone: "coronavirus-hub.com" redirect
 local-data: "coronavirus-hub.com A 0.0.0.0"
+local-zone: "mascherinecovid-19.eu" redirect
+local-data: "mascherinecovid-19.eu A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
