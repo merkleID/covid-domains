@@ -25992,6 +25992,40 @@ local-zone: "covid19.etrilabs.com" redirect
 local-data: "covid19.etrilabs.com A 0.0.0.0"
 local-zone: "coronavirusworldnews.org" redirect
 local-data: "coronavirusworldnews.org A 0.0.0.0"
+local-zone: "covid19.mvltda.com" redirect
+local-data: "covid19.mvltda.com A 0.0.0.0"
+local-zone: "covid19india.org.in" redirect
+local-data: "covid19india.org.in A 0.0.0.0"
+local-zone: "viralcovid19.com" redirect
+local-data: "viralcovid19.com A 0.0.0.0"
+local-zone: "mdc.covid19.mylinksapp.com" redirect
+local-data: "mdc.covid19.mylinksapp.com A 0.0.0.0"
+local-zone: "coronavirusautonomos.com" redirect
+local-data: "coronavirusautonomos.com A 0.0.0.0"
+local-zone: "emergenzacovid19.insuditalia.it" redirect
+local-data: "emergenzacovid19.insuditalia.it A 0.0.0.0"
+local-zone: "heycovid19.com" redirect
+local-data: "heycovid19.com A 0.0.0.0"
+local-zone: "www.heycovid19.com" redirect
+local-data: "www.heycovid19.com A 0.0.0.0"
+local-zone: "covid19.ahmetkoken.com" redirect
+local-data: "covid19.ahmetkoken.com A 0.0.0.0"
+local-zone: "covid19-inworld.com" redirect
+local-data: "covid19-inworld.com A 0.0.0.0"
+local-zone: "n95masksalecoronavirus.com" redirect
+local-data: "n95masksalecoronavirus.com A 0.0.0.0"
+local-zone: "covid-19panama.com" redirect
+local-data: "covid-19panama.com A 0.0.0.0"
+local-zone: "covid19.sheepfish.gr" redirect
+local-data: "covid19.sheepfish.gr A 0.0.0.0"
+local-zone: "covid19.rakmana.com" redirect
+local-data: "covid19.rakmana.com A 0.0.0.0"
+local-zone: "nebroadcasterscovid19.com" redirect
+local-data: "nebroadcasterscovid19.com A 0.0.0.0"
+local-zone: "www.covid-19panama.com" redirect
+local-data: "www.covid-19panama.com A 0.0.0.0"
+local-zone: "nigeriacovid19.com" redirect
+local-data: "nigeriacovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
