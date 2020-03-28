@@ -25040,6 +25040,42 @@ local-zone: "covid-19watch.org" redirect
 local-data: "covid-19watch.org A 0.0.0.0"
 local-zone: "www.covid-19watch.org" redirect
 local-data: "www.covid-19watch.org A 0.0.0.0"
+local-zone: "covid-19watch.org" redirect
+local-data: "covid-19watch.org A 0.0.0.0"
+local-zone: "coronaviruspe.desbloquea.net" redirect
+local-data: "coronaviruspe.desbloquea.net A 0.0.0.0"
+local-zone: "covid19.hayatgarip.com" redirect
+local-data: "covid19.hayatgarip.com A 0.0.0.0"
+local-zone: "www.mhcovid19.24hrstrack.com" redirect
+local-data: "www.mhcovid19.24hrstrack.com A 0.0.0.0"
+local-zone: "covid19live.xyz" redirect
+local-data: "covid19live.xyz A 0.0.0.0"
+local-zone: "covid19awareness.tk" redirect
+local-data: "covid19awareness.tk A 0.0.0.0"
+local-zone: "covid19.reseausantewallon.be" redirect
+local-data: "covid19.reseausantewallon.be A 0.0.0.0"
+local-zone: "covid19-rus.ru" redirect
+local-data: "covid19-rus.ru A 0.0.0.0"
+local-zone: "covid19.exaltconclave.com" redirect
+local-data: "covid19.exaltconclave.com A 0.0.0.0"
+local-zone: "covid-19watch.org" redirect
+local-data: "covid-19watch.org A 0.0.0.0"
+local-zone: "www.whatcanwedowithcovid-19.co.uk" redirect
+local-data: "www.whatcanwedowithcovid-19.co.uk A 0.0.0.0"
+local-zone: "covid19apple.com" redirect
+local-data: "covid19apple.com A 0.0.0.0"
+local-zone: "www.covid-19watch.org" redirect
+local-data: "www.covid-19watch.org A 0.0.0.0"
+local-zone: "whatcanwedowithcovid-19.co.uk" redirect
+local-data: "whatcanwedowithcovid-19.co.uk A 0.0.0.0"
+local-zone: "coronavirusproducts.net" redirect
+local-data: "coronavirusproducts.net A 0.0.0.0"
+local-zone: "covid-19watch.org" redirect
+local-data: "covid-19watch.org A 0.0.0.0"
+local-zone: "teamcovid19.com" redirect
+local-data: "teamcovid19.com A 0.0.0.0"
+local-zone: "wuhanvirus.store" redirect
+local-data: "wuhanvirus.store A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -26192,6 +26228,8 @@ local-zone: "coronavirusinform.ru" redirect
 local-data: "coronavirusinform.ru A 0.0.0.0"
 local-zone: "mycoronavirussupport.co.uk" redirect
 local-data: "mycoronavirussupport.co.uk A 0.0.0.0"
+local-zone: "stopcovid19cameroun.com" redirect
+local-data: "stopcovid19cameroun.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
