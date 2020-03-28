@@ -24978,6 +24978,34 @@ local-zone: "covid-19-traumapaedagogik.de" redirect
 local-data: "covid-19-traumapaedagogik.de A 0.0.0.0"
 local-zone: "thecoronavirustimes.com" redirect
 local-data: "thecoronavirustimes.com A 0.0.0.0"
+local-zone: "webmail.iowcoronavirus.co.uk" redirect
+local-data: "webmail.iowcoronavirus.co.uk A 0.0.0.0"
+local-zone: "api.covid19.hackhub.cn" redirect
+local-data: "api.covid19.hackhub.cn A 0.0.0.0"
+local-zone: "cegahcovid-19.com" redirect
+local-data: "cegahcovid-19.com A 0.0.0.0"
+local-zone: "covid19.maval.com.mx" redirect
+local-data: "covid19.maval.com.mx A 0.0.0.0"
+local-zone: "www.covid19telangana.in" redirect
+local-data: "www.covid19telangana.in A 0.0.0.0"
+local-zone: "regionvasterbotten-covid19.se" redirect
+local-data: "regionvasterbotten-covid19.se A 0.0.0.0"
+local-zone: "www.covid19medisupply.com" redirect
+local-data: "www.covid19medisupply.com A 0.0.0.0"
+local-zone: "covid19.serveirc.com" redirect
+local-data: "covid19.serveirc.com A 0.0.0.0"
+local-zone: "www.corona-virus-news.today" redirect
+local-data: "www.corona-virus-news.today A 0.0.0.0"
+local-zone: "covid19.lightapps.tn" redirect
+local-data: "covid19.lightapps.tn A 0.0.0.0"
+local-zone: "busacovid19.org" redirect
+local-data: "busacovid19.org A 0.0.0.0"
+local-zone: "covid19api.kodemonk.com" redirect
+local-data: "covid19api.kodemonk.com A 0.0.0.0"
+local-zone: "admin.covid19.rnbo.gov.ua" redirect
+local-data: "admin.covid19.rnbo.gov.ua A 0.0.0.0"
+local-zone: "covid19.kiev.ua" redirect
+local-data: "covid19.kiev.ua A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
