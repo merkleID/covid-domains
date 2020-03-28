@@ -25140,6 +25140,34 @@ local-zone: "covid19.outsideof.africa" redirect
 local-data: "covid19.outsideof.africa A 0.0.0.0"
 local-zone: "covid19jagratha.kerala.nic.in" redirect
 local-data: "covid19jagratha.kerala.nic.in A 0.0.0.0"
+local-zone: "cloudwhc.educovid19.ca" redirect
+local-data: "cloudwhc.educovid19.ca A 0.0.0.0"
+local-zone: "covid19.cafebookkeepers.com.au" redirect
+local-data: "covid19.cafebookkeepers.com.au A 0.0.0.0"
+local-zone: "testnacovid19.ru" redirect
+local-data: "testnacovid19.ru A 0.0.0.0"
+local-zone: "www.covid19nieuws.nl" redirect
+local-data: "www.covid19nieuws.nl A 0.0.0.0"
+local-zone: "www.covid19-nieuws.nl" redirect
+local-data: "www.covid19-nieuws.nl A 0.0.0.0"
+local-zone: "medicai-covid-19.com" redirect
+local-data: "medicai-covid-19.com A 0.0.0.0"
+local-zone: "app.covid19govt.xyz" redirect
+local-data: "app.covid19govt.xyz A 0.0.0.0"
+local-zone: "doctor-coronavirus.ru" redirect
+local-data: "doctor-coronavirus.ru A 0.0.0.0"
+local-zone: "unidoscontra-elcoronavirus.es" redirect
+local-data: "unidoscontra-elcoronavirus.es A 0.0.0.0"
+local-zone: "decretonormativacovid19.freesite.vip" redirect
+local-data: "decretonormativacovid19.freesite.vip A 0.0.0.0"
+local-zone: "nuovodecreto.decretonormativacovid19.freesite.vip" redirect
+local-data: "nuovodecreto.decretonormativacovid19.freesite.vip A 0.0.0.0"
+local-zone: "nuovodecreto.xyz.decretonormativacovid19.freesite.vip" redirect
+local-data: "nuovodecreto.xyz.decretonormativacovid19.freesite.vip A 0.0.0.0"
+local-zone: "coronavirus-lierneux.be" redirect
+local-data: "coronavirus-lierneux.be A 0.0.0.0"
+local-zone: "rodekruis-vlaanderen-covid-19learning.epyc.be" redirect
+local-data: "rodekruis-vlaanderen-covid-19learning.epyc.be A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -26300,6 +26328,8 @@ local-zone: "coronavirus-sa.co.za" redirect
 local-data: "coronavirus-sa.co.za A 0.0.0.0"
 local-zone: "dev.covid19govt.xyz" redirect
 local-data: "dev.covid19govt.xyz A 0.0.0.0"
+local-zone: "covid19-eu-zh-2.now.sh" redirect
+local-data: "covid19-eu-zh-2.now.sh A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
