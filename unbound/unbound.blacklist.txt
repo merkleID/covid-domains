@@ -25834,6 +25834,50 @@ local-zone: "www.covid19gear.co.uk" redirect
 local-data: "www.covid19gear.co.uk A 0.0.0.0"
 local-zone: "www.covid19.kn" redirect
 local-data: "www.covid19.kn A 0.0.0.0"
+local-zone: "corona-virus-monitor.ru" redirect
+local-data: "corona-virus-monitor.ru A 0.0.0.0"
+local-zone: "www.covid-19.gob.com" redirect
+local-data: "www.covid-19.gob.com A 0.0.0.0"
+local-zone: "emergencia.covid19.g.sv" redirect
+local-data: "emergencia.covid19.g.sv A 0.0.0.0"
+local-zone: "fastcovid19tests.com" redirect
+local-data: "fastcovid19tests.com A 0.0.0.0"
+local-zone: "covid-19.hnlconrac.com" redirect
+local-data: "covid-19.hnlconrac.com A 0.0.0.0"
+local-zone: "www.covid19.kn" redirect
+local-data: "www.covid19.kn A 0.0.0.0"
+local-zone: "mbcovid19report.com" redirect
+local-data: "mbcovid19report.com A 0.0.0.0"
+local-zone: "covid19.ccblm.ma" redirect
+local-data: "covid19.ccblm.ma A 0.0.0.0"
+local-zone: "emergencias.covid19.gob.sv.axpuntes.com" redirect
+local-data: "emergencias.covid19.gob.sv.axpuntes.com A 0.0.0.0"
+local-zone: "covid19.acacypac.coop" redirect
+local-data: "covid19.acacypac.coop A 0.0.0.0"
+local-zone: "rucovid-19.ru" redirect
+local-data: "rucovid-19.ru A 0.0.0.0"
+local-zone: "coronavirus1919.online" redirect
+local-data: "coronavirus1919.online A 0.0.0.0"
+local-zone: "community.covid19.moh.gov.et" redirect
+local-data: "community.covid19.moh.gov.et A 0.0.0.0"
+local-zone: "covid19.gutsylab.com" redirect
+local-data: "covid19.gutsylab.com A 0.0.0.0"
+local-zone: "emergncia.covid19.g.sv" redirect
+local-data: "emergncia.covid19.g.sv A 0.0.0.0"
+local-zone: "covid19invest.com" redirect
+local-data: "covid19invest.com A 0.0.0.0"
+local-zone: "www.guerra-coronavirus.com" redirect
+local-data: "www.guerra-coronavirus.com A 0.0.0.0"
+local-zone: "covid19india.email" redirect
+local-data: "covid19india.email A 0.0.0.0"
+local-zone: "covid-19-coronavirus.tools" redirect
+local-data: "covid-19-coronavirus.tools A 0.0.0.0"
+local-zone: "coronavirus-rasprostranenie.ru" redirect
+local-data: "coronavirus-rasprostranenie.ru A 0.0.0.0"
+local-zone: "coronavirus-remember.com" redirect
+local-data: "coronavirus-remember.com A 0.0.0.0"
+local-zone: "www.harrisoncovid19.com" redirect
+local-data: "www.harrisoncovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -27030,6 +27074,10 @@ local-zone: "protection-covid19.com" redirect
 local-data: "protection-covid19.com A 0.0.0.0"
 local-zone: "covid19-thermometers.co.za" redirect
 local-data: "covid19-thermometers.co.za A 0.0.0.0"
+local-zone: "covid19pv.com" redirect
+local-data: "covid19pv.com A 0.0.0.0"
+local-zone: "covid19russia.now.sh" redirect
+local-data: "covid19russia.now.sh A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
