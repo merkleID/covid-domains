@@ -24566,6 +24566,38 @@ local-zone: "autodiscover.corona-virus-status.co.uk" redirect
 local-data: "autodiscover.corona-virus-status.co.uk A 0.0.0.0"
 local-zone: "ma-api.ncov-19.net" redirect
 local-data: "ma-api.ncov-19.net A 0.0.0.0"
+local-zone: "coronavirus-weka.hkvbs.ch" redirect
+local-data: "coronavirus-weka.hkvbs.ch A 0.0.0.0"
+local-zone: "coronavirus-congress.org" redirect
+local-data: "coronavirus-congress.org A 0.0.0.0"
+local-zone: "covid-19.bobo.bg" redirect
+local-data: "covid-19.bobo.bg A 0.0.0.0"
+local-zone: "onlinecoronaviruscheck.com" redirect
+local-data: "onlinecoronaviruscheck.com A 0.0.0.0"
+local-zone: "coronavirusmentalhealth.org" redirect
+local-data: "coronavirusmentalhealth.org A 0.0.0.0"
+local-zone: "www.smacovid19.com" redirect
+local-data: "www.smacovid19.com A 0.0.0.0"
+local-zone: "covid19-demo.cerist.dz" redirect
+local-data: "covid19-demo.cerist.dz A 0.0.0.0"
+local-zone: "covid19.synapsedev.net" redirect
+local-data: "covid19.synapsedev.net A 0.0.0.0"
+local-zone: "www.affordablecoronavirustest.com" redirect
+local-data: "www.affordablecoronavirustest.com A 0.0.0.0"
+local-zone: "affordablecoronavirustest.com" redirect
+local-data: "affordablecoronavirustest.com A 0.0.0.0"
+local-zone: "covid19-2.info-aid.net" redirect
+local-data: "covid19-2.info-aid.net A 0.0.0.0"
+local-zone: "www.coronavirus247.tap-marketing.com" redirect
+local-data: "www.coronavirus247.tap-marketing.com A 0.0.0.0"
+local-zone: "covid19-bb.agencia-virtual.com" redirect
+local-data: "covid19-bb.agencia-virtual.com A 0.0.0.0"
+local-zone: "covid19.manadokota.go.id" redirect
+local-data: "covid19.manadokota.go.id A 0.0.0.0"
+local-zone: "gouvernement-coronavirus.for-our.info" redirect
+local-data: "gouvernement-coronavirus.for-our.info A 0.0.0.0"
+local-zone: "covid19us.life" redirect
+local-data: "covid19us.life A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
