@@ -3280,6 +3280,7 @@ local-zone: "coronavirusink.live" static
 local-zone: "coronavirusink.net" static
 local-zone: "coronavirusink.vip" static
 local-zone: "coronavirusink.world" static
+local-zone: "coronavirusin.mx" static
 local-zone: "coronavirus-in-nederland.nl" static
 local-zone: "coronavirusinnews.com" static
 local-zone: "coronavirusinnovation.com" static
@@ -3553,6 +3554,7 @@ local-zone: "coronavirusmascarilla.com" static
 local-zone: "coronavirusmasck.com" static
 local-zone: "coronavirusmask24.com" static
 local-zone: "coronavirusmask4u.com" static
+local-zone: "coronavirusmaskandgear.com" static
 local-zone: "coronavirusmask.best" static
 local-zone: "coronavirusmaskco.com" static
 local-zone: "coronavirus-maske.docdc.biz" static
@@ -4686,6 +4688,7 @@ local-zone: "coronavirustonic.com" static
 local-zone: "coronavirustoolbox.com" static
 local-zone: "coronavirustoolkit.com" static
 local-zone: "coronavirus-tools4italy.com" static
+local-zone: "coronavirus.topichubs.com" static
 local-zone: "coronavirustop.net" static
 local-zone: "coronavirustoronto.com" static
 local-zone: "coronavirustoys.com" static
@@ -4976,6 +4979,7 @@ local-zone: "coronavirusxout.com" static
 local-zone: "coronavirusxp.com" static
 local-zone: "coronavirus-x.ru" static
 local-zone: "coronavirusxxx.com" static
+local-zone: "coronavirus.y3y.es" static
 local-zone: "coronavirusya.com" static
 local-zone: "coronavirus.yamisr.com" static
 local-zone: "coronavirusyemen.com" static
@@ -5038,6 +5042,7 @@ local-zone: "coronazelftest.com" static
 local-zone: "coronaziekte.com" static
 local-zone: "corona-zombie.com" static
 local-zone: "cotedivoirecoronavirus.com" static
+local-zone: "counter-covid19.com" static
 local-zone: "countingcovid19.com" static
 local-zone: "couturecoronation.com" static
 local-zone: "covid-10.com" static
@@ -6245,6 +6250,7 @@ local-zone: "covid-19-graphs.net" static
 local-zone: "covid19.gratis" static
 local-zone: "covid19.graviolaprozono.com" static
 local-zone: "covid-19.grayghostindustries.com" static
+local-zone: "covid19.greatercaribbean.org" static
 local-zone: "covid-19.greatpetoria.ga" static
 local-zone: "covid19-greece.com" static
 local-zone: "covid19greencard.com" static
@@ -6542,6 +6548,7 @@ local-zone: "covid19intelhub.in" static
 local-zone: "covid19.intellectit.com.au" static
 local-zone: "covid19.internalia.net" static
 local-zone: "covid19internationalinfectionreports.com" static
+local-zone: "covid19intervention.com" static
 local-zone: "covid19.int.skillmind.pt" static
 local-zone: "covid19inusa.com" static
 local-zone: "covid19.invent.al" static
@@ -6845,7 +6852,6 @@ local-zone: "covid-19maps.com" static
 local-zone: "covid19map.tech" static
 local-zone: "covid19-map-tunisie.com" static
 local-zone: "covid19-map.uk" static
-local-zone: "covid19map.uptodate.com" static
 local-zone: "covid19maribor.si" static
 local-zone: "covid19marketplace.martinscottvo.com" static
 local-zone: "covid19.marlon.store" static
@@ -8001,6 +8007,7 @@ local-zone: "covid19-test-kit.co.uk" static
 local-zone: "covid-19testkit.eu" static
 local-zone: "covid19-testkit.net" static
 local-zone: "covid19testkit.net" static
+local-zone: "covid-19-testkit.nl" static
 local-zone: "covid19-testkit.org" static
 local-zone: "covid19testkits.ie" static
 local-zone: "covid19testkits.net" static
@@ -9084,6 +9091,7 @@ local-zone: "emergencia.covid19.c.sv" static
 local-zone: "emergenciacovid19.fundaciocollserola.cat" static
 local-zone: "emergencia.covid-19.gob.com" static
 local-zone: "emergencia.covid19.go.b.sv" static
+local-zone: "emergencia.covid19.gob.sv" static
 local-zone: "emergencia.covid19.g.sv" static
 local-zone: "emergencia.covid19.sv.gob.com" static
 local-zone: "emergencian.covid19.gob.com" static
@@ -9493,6 +9501,7 @@ local-zone: "helpcovid-19.org" static
 local-zone: "help.covid19ph.net" static
 local-zone: "helpcovid19survivors.com" static
 local-zone: "help.covid-19team.com" static
+local-zone: "helpcovid19testing.co.uk" static
 local-zone: "helpdesk.soscoronavirus.info" static
 local-zone: "helpfightcorona.com" static
 local-zone: "helpfightcoronavirus.com" static
@@ -9974,6 +9983,7 @@ local-zone: "mail.coronavirus-bg.info" static
 local-zone: "mail.coronaviruscleaning.info" static
 local-zone: "mail.coronaviruscureuk.com" static
 local-zone: "mail.coronavirusofficial.online" static
+local-zone: "mail.coronavirusstatistics.co.za" static
 local-zone: "mail.covid19cuore.it" static
 local-zone: "mail.covid19.portal.azhe.info" static
 local-zone: "mail.covid19roundtable.com" static
@@ -11251,6 +11261,7 @@ local-zone: "staycoronavirusfree.com" static
 local-zone: "staysafecovid19.com" static
 local-zone: "staysafecovid-19.info" static
 local-zone: "staysafefromcorona.com" static
+local-zone: "stimuluspackagecovid19.com" static
 local-zone: "stiricoronavirus.ro" static
 local-zone: "stlcorona.com" static
 local-zone: "stlcoronavirus.com" static
@@ -11659,7 +11670,6 @@ local-zone: "trackcovid19linebot.com" static
 local-zone: "trackcovid-19.live" static
 local-zone: "trackcovid19.now.sh" static
 local-zone: "track.covid-19.rowles.ch" static
-local-zone: "trackercoronavirus.com" static
 local-zone: "tracker.uavscovid19.com.ua" static
 local-zone: "tracovid19.pt" static
 local-zone: "traefik.covid-19.dnastack.com" static
@@ -12288,6 +12298,7 @@ local-zone: "www.coronavirus.lu" static
 local-zone: "www.coronavirus-mapping.ru" static
 local-zone: "www.coronavirus-market.shop" static
 local-zone: "www.coronavirusmask2020.com" static
+local-zone: "www.coronavirusmaskandgear.com" static
 local-zone: "www.coronavirusmask.love" static
 local-zone: "www.coronavirusmaskn95.com" static
 local-zone: "www.coronavirusmaskonline.com" static
@@ -12583,6 +12594,7 @@ local-zone: "www.covid19info.co" static
 local-zone: "www.covid19-info-co-uk.wrinkle-reduction.com" static
 local-zone: "www.covid19.infonanggroe.com" static
 local-zone: "www.covid19instatest.com" static
+local-zone: "www.covid19intervention.com" static
 local-zone: "www.covid19intexas.com" static
 local-zone: "www.covid19-inworld.com" static
 local-zone: "www.covid-19-italia.it" static
