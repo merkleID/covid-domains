@@ -25180,6 +25180,38 @@ local-zone: "covid19.algocrats.com" redirect
 local-data: "covid19.algocrats.com A 0.0.0.0"
 local-zone: "coronavirus.menu.com.br" redirect
 local-data: "coronavirus.menu.com.br A 0.0.0.0"
+local-zone: "coronavirus.belcco.be" redirect
+local-data: "coronavirus.belcco.be A 0.0.0.0"
+local-zone: "hackcovid19.be" redirect
+local-data: "hackcovid19.be A 0.0.0.0"
+local-zone: "covid-19.nihar.xyz" redirect
+local-data: "covid-19.nihar.xyz A 0.0.0.0"
+local-zone: "todoscontracovid19.com.br" redirect
+local-data: "todoscontracovid19.com.br A 0.0.0.0"
+local-zone: "covid-19.tourrer.com" redirect
+local-data: "covid-19.tourrer.com A 0.0.0.0"
+local-zone: "coronavirus.alemparaiba.mg.gov.br" redirect
+local-data: "coronavirus.alemparaiba.mg.gov.br A 0.0.0.0"
+local-zone: "comprasemergenciaiscovid19.saude.pe.gov.br" redirect
+local-data: "comprasemergenciaiscovid19.saude.pe.gov.br A 0.0.0.0"
+local-zone: "pugliacovid19.altervista.org" redirect
+local-data: "pugliacovid19.altervista.org A 0.0.0.0"
+local-zone: "covid19global.now.sh" redirect
+local-data: "covid19global.now.sh A 0.0.0.0"
+local-zone: "www.infocovid-19.info" redirect
+local-data: "www.infocovid-19.info A 0.0.0.0"
+local-zone: "covid19.bz" redirect
+local-data: "covid19.bz A 0.0.0.0"
+local-zone: "brasilcontracoronavirus.com.br" redirect
+local-data: "brasilcontracoronavirus.com.br A 0.0.0.0"
+local-zone: "api.82c77b7e.test.covid-19.forms.digital.nhs.uk" redirect
+local-data: "api.82c77b7e.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "covid-19.tourrer.com" redirect
+local-data: "covid-19.tourrer.com A 0.0.0.0"
+local-zone: "covid19houston.com" redirect
+local-data: "covid19houston.com A 0.0.0.0"
+local-zone: "covid19houstonscreen.com" redirect
+local-data: "covid19houstonscreen.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
