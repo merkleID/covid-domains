@@ -24688,6 +24688,30 @@ local-zone: "covid-19.ideas2it.com" redirect
 local-data: "covid-19.ideas2it.com A 0.0.0.0"
 local-zone: "ideascovid19.com" redirect
 local-data: "ideascovid19.com A 0.0.0.0"
+local-zone: "covid19livedata.com" redirect
+local-data: "covid19livedata.com A 0.0.0.0"
+local-zone: "coronavirus-ekaterinburg.ru" redirect
+local-data: "coronavirus-ekaterinburg.ru A 0.0.0.0"
+local-zone: "fr.monmasquecovid19.com" redirect
+local-data: "fr.monmasquecovid19.com A 0.0.0.0"
+local-zone: "www.coronaviruskit.uk" redirect
+local-data: "www.coronaviruskit.uk A 0.0.0.0"
+local-zone: "it.monmasquecovid19.com" redirect
+local-data: "it.monmasquecovid19.com A 0.0.0.0"
+local-zone: "es.monmasquecovid19.com" redirect
+local-data: "es.monmasquecovid19.com A 0.0.0.0"
+local-zone: "allo-coronavirus.com" redirect
+local-data: "allo-coronavirus.com A 0.0.0.0"
+local-zone: "covid19accion.com" redirect
+local-data: "covid19accion.com A 0.0.0.0"
+local-zone: "allo-covid19.com" redirect
+local-data: "allo-covid19.com A 0.0.0.0"
+local-zone: "allocoronavirus.net" redirect
+local-data: "allocoronavirus.net A 0.0.0.0"
+local-zone: "allocovid19.fr" redirect
+local-data: "allocovid19.fr A 0.0.0.0"
+local-zone: "irc-covid-19.com" redirect
+local-data: "irc-covid-19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -25826,6 +25850,8 @@ local-zone: "salirdecasacoronavirus.es" redirect
 local-data: "salirdecasacoronavirus.es A 0.0.0.0"
 local-zone: "punchcovid19.com" redirect
 local-data: "punchcovid19.com A 0.0.0.0"
+local-zone: "informacioncovid19.com" redirect
+local-data: "informacioncovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
