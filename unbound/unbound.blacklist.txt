@@ -25736,6 +25736,68 @@ local-zone: "emergiacia.covid19.gob.com" redirect
 local-data: "emergiacia.covid19.gob.com A 0.0.0.0"
 local-zone: "covid-19.goodrebels.com" redirect
 local-data: "covid-19.goodrebels.com A 0.0.0.0"
+local-zone: "covid19bankruptcies.com" redirect
+local-data: "covid19bankruptcies.com A 0.0.0.0"
+local-zone: "covid-19.constellium.com" redirect
+local-data: "covid-19.constellium.com A 0.0.0.0"
+local-zone: "staging.helpstopcovid19.com" redirect
+local-data: "staging.helpstopcovid19.com A 0.0.0.0"
+local-zone: "www.covid19resourcehub.com" redirect
+local-data: "www.covid19resourcehub.com A 0.0.0.0"
+local-zone: "coronavirus.gary-chou.com" redirect
+local-data: "coronavirus.gary-chou.com A 0.0.0.0"
+local-zone: "api.covid-19.clicksandbox.com" redirect
+local-data: "api.covid-19.clicksandbox.com A 0.0.0.0"
+local-zone: "cpanel.covid19affectedfinder.com" redirect
+local-data: "cpanel.covid19affectedfinder.com A 0.0.0.0"
+local-zone: "actioncovid19.groupesimoneau.com" redirect
+local-data: "actioncovid19.groupesimoneau.com A 0.0.0.0"
+local-zone: "peruvoluntariadocovid19.cluster.pe" redirect
+local-data: "peruvoluntariadocovid19.cluster.pe A 0.0.0.0"
+local-zone: "coronavirushospitaldelmar.cat" redirect
+local-data: "coronavirushospitaldelmar.cat A 0.0.0.0"
+local-zone: "godsresponsetocovid19.com" redirect
+local-data: "godsresponsetocovid19.com A 0.0.0.0"
+local-zone: "coronavirusdisasterrelief.org" redirect
+local-data: "coronavirusdisasterrelief.org A 0.0.0.0"
+local-zone: "www.covid19governmentclaimsgroup.com" redirect
+local-data: "www.covid19governmentclaimsgroup.com A 0.0.0.0"
+local-zone: "covid19governmentclaimsgroup.com" redirect
+local-data: "covid19governmentclaimsgroup.com A 0.0.0.0"
+local-zone: "covid19lerove.fr" redirect
+local-data: "covid19lerove.fr A 0.0.0.0"
+local-zone: "covid19intelhub.in" redirect
+local-data: "covid19intelhub.in A 0.0.0.0"
+local-zone: "passenger.api.covid19.moh.gov.et" redirect
+local-data: "passenger.api.covid19.moh.gov.et A 0.0.0.0"
+local-zone: "tcm-covid19.org" redirect
+local-data: "tcm-covid19.org A 0.0.0.0"
+local-zone: "www.tcm-covid19.org" redirect
+local-data: "www.tcm-covid19.org A 0.0.0.0"
+local-zone: "passenger.covid19.moh.gov.et" redirect
+local-data: "passenger.covid19.moh.gov.et A 0.0.0.0"
+local-zone: "covid19governmentclaimsgroup.co.uk" redirect
+local-data: "covid19governmentclaimsgroup.co.uk A 0.0.0.0"
+local-zone: "www.coronavirusclaimsgroup.com" redirect
+local-data: "www.coronavirusclaimsgroup.com A 0.0.0.0"
+local-zone: "coronavirusclaimsgroup.com" redirect
+local-data: "coronavirusclaimsgroup.com A 0.0.0.0"
+local-zone: "coronaviruscymru.wales" redirect
+local-data: "coronaviruscymru.wales A 0.0.0.0"
+local-zone: "covid19turkey.com" redirect
+local-data: "covid19turkey.com A 0.0.0.0"
+local-zone: "www.covid19governmentclaimsgroup.co.uk" redirect
+local-data: "www.covid19governmentclaimsgroup.co.uk A 0.0.0.0"
+local-zone: "covid19mohp.naxa.com.np" redirect
+local-data: "covid19mohp.naxa.com.np A 0.0.0.0"
+local-zone: "covid19.kreatorapps.com" redirect
+local-data: "covid19.kreatorapps.com A 0.0.0.0"
+local-zone: "servicios-covid-19.gq" redirect
+local-data: "servicios-covid-19.gq A 0.0.0.0"
+local-zone: "servicios-covid-19-ayudas.gq" redirect
+local-data: "servicios-covid-19-ayudas.gq A 0.0.0.0"
+local-zone: "sense9covid19.now.sh" redirect
+local-data: "sense9covid19.now.sh A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
