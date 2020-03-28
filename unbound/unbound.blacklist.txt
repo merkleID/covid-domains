@@ -25878,6 +25878,22 @@ local-zone: "coronavirus-remember.com" redirect
 local-data: "coronavirus-remember.com A 0.0.0.0"
 local-zone: "www.harrisoncovid19.com" redirect
 local-data: "www.harrisoncovid19.com A 0.0.0.0"
+local-zone: "corona-virusindia.in" redirect
+local-data: "corona-virusindia.in A 0.0.0.0"
+local-zone: "helpfromcovid-19.com" redirect
+local-data: "helpfromcovid-19.com A 0.0.0.0"
+local-zone: "heroescovid19.com" redirect
+local-data: "heroescovid19.com A 0.0.0.0"
+local-zone: "covid19.hitalos.com" redirect
+local-data: "covid19.hitalos.com A 0.0.0.0"
+local-zone: "covid19appeal.net" redirect
+local-data: "covid19appeal.net A 0.0.0.0"
+local-zone: "covid19.gtem.ca" redirect
+local-data: "covid19.gtem.ca A 0.0.0.0"
+local-zone: "covid-19.hnlconrac.com" redirect
+local-data: "covid-19.hnlconrac.com A 0.0.0.0"
+local-zone: "mail.digitalcovid19.com" redirect
+local-data: "mail.digitalcovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
