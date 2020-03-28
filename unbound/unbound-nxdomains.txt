@@ -12355,6 +12355,18 @@ local-zone: "allo-covid19.com" static
 local-zone: "allocoronavirus.net" static
 local-zone: "allocovid19.fr" static
 local-zone: "irc-covid-19.com" static
+local-zone: "coronavirus123.net" static
+local-zone: "coronavirusblog.net" static
+local-zone: "www.covid19ppesupply.com" static
+local-zone: "coronavirus247.org" static
+local-zone: "maskforcoronavirus.net" static
+local-zone: "covid-19.idecol.com" static
+local-zone: "altoalcoronavirus.org" static
+local-zone: "covid19.plen.co" static
+local-zone: "ru-coronavirus.net" static
+local-zone: "covid19insights.org" static
+local-zone: "covid19grandjury.net" static
+local-zone: "openthroughoutcoronavirus.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -12925,6 +12937,7 @@ local-zone: "punchcovid19.com" static
 local-zone: "salirdecasacoronavirus.es" static
 local-zone: "punchcovid19.com" static
 local-zone: "informacioncovid19.com" static
+local-zone: "estudicovid19.org" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
