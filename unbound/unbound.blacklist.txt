@@ -24478,6 +24478,22 @@ local-zone: "covid19dataproject.org" redirect
 local-data: "covid19dataproject.org A 0.0.0.0"
 local-zone: "covid19.sante.dz.org" redirect
 local-data: "covid19.sante.dz.org A 0.0.0.0"
+local-zone: "covid19dataproject.org" redirect
+local-data: "covid19dataproject.org A 0.0.0.0"
+local-zone: "coronavirus.mlsi.gov.cy" redirect
+local-data: "coronavirus.mlsi.gov.cy A 0.0.0.0"
+local-zone: "pl.covid19.dance" redirect
+local-data: "pl.covid19.dance A 0.0.0.0"
+local-zone: "stuff.covid19.dougthwaites.nz" redirect
+local-data: "stuff.covid19.dougthwaites.nz A 0.0.0.0"
+local-zone: "medicalmasksforcoronavirus.com" redirect
+local-data: "medicalmasksforcoronavirus.com A 0.0.0.0"
+local-zone: "coronavirus.inc" redirect
+local-data: "coronavirus.inc A 0.0.0.0"
+local-zone: "entreprisesunies-covid19.bzh" redirect
+local-data: "entreprisesunies-covid19.bzh A 0.0.0.0"
+local-zone: "api.covid19.therappx.com" redirect
+local-data: "api.covid19.therappx.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -25602,6 +25618,10 @@ local-zone: "babyinthetimeofcoronavirus.com" redirect
 local-data: "babyinthetimeofcoronavirus.com A 0.0.0.0"
 local-zone: "covid19-tester.cz" redirect
 local-data: "covid19-tester.cz A 0.0.0.0"
+local-zone: "remedycovid19.com" redirect
+local-data: "remedycovid19.com A 0.0.0.0"
+local-zone: "stopcovid19now.de" redirect
+local-data: "stopcovid19now.de A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect

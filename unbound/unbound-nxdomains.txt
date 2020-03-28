@@ -12238,6 +12238,14 @@ local-zone: "wuhanvirus.com" static
 local-zone: "covid-19.chelveston.org.uk" static
 local-zone: "covid19dataproject.org" static
 local-zone: "covid19.sante.dz.org" static
+local-zone: "covid19dataproject.org" static
+local-zone: "coronavirus.mlsi.gov.cy" static
+local-zone: "pl.covid19.dance" static
+local-zone: "stuff.covid19.dougthwaites.nz" static
+local-zone: "medicalmasksforcoronavirus.com" static
+local-zone: "coronavirus.inc" static
+local-zone: "entreprisesunies-covid19.bzh" static
+local-zone: "api.covid19.therappx.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -12800,6 +12808,8 @@ local-zone: "covid19testme.com" static
 local-zone: "covid19.houseliver.com" static
 local-zone: "babyinthetimeofcoronavirus.com" static
 local-zone: "covid19-tester.cz" static
+local-zone: "remedycovid19.com" static
+local-zone: "stopcovid19now.de" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static
