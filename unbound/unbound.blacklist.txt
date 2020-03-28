@@ -25212,6 +25212,32 @@ local-zone: "covid19houston.com" redirect
 local-data: "covid19houston.com A 0.0.0.0"
 local-zone: "covid19houstonscreen.com" redirect
 local-data: "covid19houstonscreen.com A 0.0.0.0"
+local-zone: "covid-19.opendata.ccbsoftware.com" redirect
+local-data: "covid-19.opendata.ccbsoftware.com A 0.0.0.0"
+local-zone: "covid19protection.ca" redirect
+local-data: "covid19protection.ca A 0.0.0.0"
+local-zone: "covid19legalclaims.ca" redirect
+local-data: "covid19legalclaims.ca A 0.0.0.0"
+local-zone: "coronavirus.makonator.tech" redirect
+local-data: "coronavirus.makonator.tech A 0.0.0.0"
+local-zone: "www.coronavirusreportcard.ca" redirect
+local-data: "www.coronavirusreportcard.ca A 0.0.0.0"
+local-zone: "coronavirus-news.ru.net" redirect
+local-data: "coronavirus-news.ru.net A 0.0.0.0"
+local-zone: "emergencia.covid19.go.b.sv" redirect
+local-data: "emergencia.covid19.go.b.sv A 0.0.0.0"
+local-zone: "trackingcovid19.ca" redirect
+local-data: "trackingcovid19.ca A 0.0.0.0"
+local-zone: "coronavirus19.cl" redirect
+local-data: "coronavirus19.cl A 0.0.0.0"
+local-zone: "covid19.salmonchile.cl" redirect
+local-data: "covid19.salmonchile.cl A 0.0.0.0"
+local-zone: "covid19.proxus.dk" redirect
+local-data: "covid19.proxus.dk A 0.0.0.0"
+local-zone: "covid19online.info" redirect
+local-data: "covid19online.info A 0.0.0.0"
+local-zone: "covid192019.ca" redirect
+local-data: "covid192019.ca A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -26374,6 +26400,12 @@ local-zone: "dev.covid19govt.xyz" redirect
 local-data: "dev.covid19govt.xyz A 0.0.0.0"
 local-zone: "covid19-eu-zh-2.now.sh" redirect
 local-data: "covid19-eu-zh-2.now.sh A 0.0.0.0"
+local-zone: "testarcovid19.com.br" redirect
+local-data: "testarcovid19.com.br A 0.0.0.0"
+local-zone: "ayudacoronavirustdv.org" redirect
+local-data: "ayudacoronavirustdv.org A 0.0.0.0"
+local-zone: "covid19-support.uk" redirect
+local-data: "covid19-support.uk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
