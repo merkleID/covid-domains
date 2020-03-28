@@ -25682,6 +25682,34 @@ local-zone: "covid19-db.aniccom.com" redirect
 local-data: "covid19-db.aniccom.com A 0.0.0.0"
 local-zone: "despedidosporelcoronavirus.com" redirect
 local-data: "despedidosporelcoronavirus.com A 0.0.0.0"
+local-zone: "badge1.covid19quiz.com" redirect
+local-data: "badge1.covid19quiz.com A 0.0.0.0"
+local-zone: "coronavirus.illinois.gov" redirect
+local-data: "coronavirus.illinois.gov A 0.0.0.0"
+local-zone: "upcovid19tracks.in" redirect
+local-data: "upcovid19tracks.in A 0.0.0.0"
+local-zone: "www.v-covid-19.site" redirect
+local-data: "www.v-covid-19.site A 0.0.0.0"
+local-zone: "covid19naija.com" redirect
+local-data: "covid19naija.com A 0.0.0.0"
+local-zone: "covid-19suppliesaustralia.com" redirect
+local-data: "covid-19suppliesaustralia.com A 0.0.0.0"
+local-zone: "www.opensourceagainstcovid19.org" redirect
+local-data: "www.opensourceagainstcovid19.org A 0.0.0.0"
+local-zone: "elsalvadorcovid19.com" redirect
+local-data: "elsalvadorcovid19.com A 0.0.0.0"
+local-zone: "www.enpremierelignecovid19.com" redirect
+local-data: "www.enpremierelignecovid19.com A 0.0.0.0"
+local-zone: "corona-virus.devthines.com" redirect
+local-data: "corona-virus.devthines.com A 0.0.0.0"
+local-zone: "trackcovid19.shivanshutiwari.co" redirect
+local-data: "trackcovid19.shivanshutiwari.co A 0.0.0.0"
+local-zone: "coronavirus-map.com" redirect
+local-data: "coronavirus-map.com A 0.0.0.0"
+local-zone: "trackcovid19.shivanshutiwari.co" redirect
+local-data: "trackcovid19.shivanshutiwari.co A 0.0.0.0"
+local-zone: "covid19communications.info" redirect
+local-data: "covid19communications.info A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -26872,6 +26900,8 @@ local-zone: "info-coronavirus-france.fr" redirect
 local-data: "info-coronavirus-france.fr A 0.0.0.0"
 local-zone: "covid19clinicalsupplies.com" redirect
 local-data: "covid19clinicalsupplies.com A 0.0.0.0"
+local-zone: "2020coronavirus.ru" redirect
+local-data: "2020coronavirus.ru A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
