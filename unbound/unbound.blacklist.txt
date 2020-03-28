@@ -26026,6 +26026,38 @@ local-zone: "www.covid-19panama.com" redirect
 local-data: "www.covid-19panama.com A 0.0.0.0"
 local-zone: "nigeriacovid19.com" redirect
 local-data: "nigeriacovid19.com A 0.0.0.0"
+local-zone: "busacovid19.org" redirect
+local-data: "busacovid19.org A 0.0.0.0"
+local-zone: "www.nz-coronavirus.com" redirect
+local-data: "www.nz-coronavirus.com A 0.0.0.0"
+local-zone: "walkingwithstrengththroughcovid19.com" redirect
+local-data: "walkingwithstrengththroughcovid19.com A 0.0.0.0"
+local-zone: "www.walkingwithstrengththroughcovid19.com" redirect
+local-data: "www.walkingwithstrengththroughcovid19.com A 0.0.0.0"
+local-zone: "covid19forecast.info" redirect
+local-data: "covid19forecast.info A 0.0.0.0"
+local-zone: "okbroadcasterscovid19.com" redirect
+local-data: "okbroadcasterscovid19.com A 0.0.0.0"
+local-zone: "covid19thaisupport.edmserviceth.com" redirect
+local-data: "covid19thaisupport.edmserviceth.com A 0.0.0.0"
+local-zone: "www.covid-19forums.org" redirect
+local-data: "www.covid-19forums.org A 0.0.0.0"
+local-zone: "650-covid-19-qa.exactsciences.net" redirect
+local-data: "650-covid-19-qa.exactsciences.net A 0.0.0.0"
+local-zone: "covid-19.apnasite.in" redirect
+local-data: "covid-19.apnasite.in A 0.0.0.0"
+local-zone: "covid19.distributed.computer" redirect
+local-data: "covid19.distributed.computer A 0.0.0.0"
+local-zone: "paraclinic-covid19.com" redirect
+local-data: "paraclinic-covid19.com A 0.0.0.0"
+local-zone: "plataformavictimascovid19.com" redirect
+local-data: "plataformavictimascovid19.com A 0.0.0.0"
+local-zone: "covid-19-clean.org" redirect
+local-data: "covid-19-clean.org A 0.0.0.0"
+local-zone: "covid19.open4didact.co" redirect
+local-data: "covid19.open4didact.co A 0.0.0.0"
+local-zone: "coronavirusportal.com.br" redirect
+local-data: "coronavirusportal.com.br A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -27234,6 +27266,8 @@ local-zone: "avoidcoronaviruswithsara.com" redirect
 local-data: "avoidcoronaviruswithsara.com A 0.0.0.0"
 local-zone: "classcovid19.com" redirect
 local-data: "classcovid19.com A 0.0.0.0"
+local-zone: "covid19worldnews.live" redirect
+local-data: "covid19worldnews.live A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
