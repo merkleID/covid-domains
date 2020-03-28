@@ -24520,6 +24520,52 @@ local-zone: "www.coronavirusnewsroom.com" redirect
 local-data: "www.coronavirusnewsroom.com A 0.0.0.0"
 local-zone: "covid-19.providence.edu" redirect
 local-data: "covid-19.providence.edu A 0.0.0.0"
+local-zone: "coronaviruserte.es" redirect
+local-data: "coronaviruserte.es A 0.0.0.0"
+local-zone: "covid-19.es" redirect
+local-data: "covid-19.es A 0.0.0.0"
+local-zone: "combatealcoronavirus.es" redirect
+local-data: "combatealcoronavirus.es A 0.0.0.0"
+local-zone: "desinfectarcoronavirus.es" redirect
+local-data: "desinfectarcoronavirus.es A 0.0.0.0"
+local-zone: "covid19.vecdis.es" redirect
+local-data: "covid19.vecdis.es A 0.0.0.0"
+local-zone: "covid19-geteccu.webcastlive.es" redirect
+local-data: "covid19-geteccu.webcastlive.es A 0.0.0.0"
+local-zone: "www.covid19testkit.eu" redirect
+local-data: "www.covid19testkit.eu A 0.0.0.0"
+local-zone: "corona-virus-covid-19.eu" redirect
+local-data: "corona-virus-covid-19.eu A 0.0.0.0"
+local-zone: "covid19.nextia.mx" redirect
+local-data: "covid19.nextia.mx A 0.0.0.0"
+local-zone: "covid-19anonymous.com" redirect
+local-data: "covid-19anonymous.com A 0.0.0.0"
+local-zone: "mascherine-coronavirus.eu" redirect
+local-data: "mascherine-coronavirus.eu A 0.0.0.0"
+local-zone: "whodiedfromthecoronavirus.com" redirect
+local-data: "whodiedfromthecoronavirus.com A 0.0.0.0"
+local-zone: "www.covid-19-sras-cov-2.fr" redirect
+local-data: "www.covid-19-sras-cov-2.fr A 0.0.0.0"
+local-zone: "covid-19.live-stream.events" redirect
+local-data: "covid-19.live-stream.events A 0.0.0.0"
+local-zone: "www.covid19essential.org" redirect
+local-data: "www.covid19essential.org A 0.0.0.0"
+local-zone: "covid19essential.org" redirect
+local-data: "covid19essential.org A 0.0.0.0"
+local-zone: "covid19.lesmorsolutions.com" redirect
+local-data: "covid19.lesmorsolutions.com A 0.0.0.0"
+local-zone: "examencoronavirus.mx" redirect
+local-data: "examencoronavirus.mx A 0.0.0.0"
+local-zone: "covid19help.leidi.ee" redirect
+local-data: "covid19help.leidi.ee A 0.0.0.0"
+local-zone: "ameli-coronavirus.fr" redirect
+local-data: "ameli-coronavirus.fr A 0.0.0.0"
+local-zone: "covid19.4cweb.com.br" redirect
+local-data: "covid19.4cweb.com.br A 0.0.0.0"
+local-zone: "autodiscover.corona-virus-status.co.uk" redirect
+local-data: "autodiscover.corona-virus-status.co.uk A 0.0.0.0"
+local-zone: "ma-api.ncov-19.net" redirect
+local-data: "ma-api.ncov-19.net A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -25652,6 +25698,8 @@ local-zone: "memorialcoronavirus.com" redirect
 local-data: "memorialcoronavirus.com A 0.0.0.0"
 local-zone: "remedycovid19.com" redirect
 local-data: "remedycovid19.com A 0.0.0.0"
+local-zone: "punchcovid19.com" redirect
+local-data: "punchcovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
