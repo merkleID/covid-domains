@@ -25254,6 +25254,32 @@ local-zone: "unodonationcovid-19.org" redirect
 local-data: "unodonationcovid-19.org A 0.0.0.0"
 local-zone: "www.login.covid19telangana.in" redirect
 local-data: "www.login.covid19telangana.in A 0.0.0.0"
+local-zone: "coronavirusglobe.info" redirect
+local-data: "coronavirusglobe.info A 0.0.0.0"
+local-zone: "covid19.hackerspace.sv" redirect
+local-data: "covid19.hackerspace.sv A 0.0.0.0"
+local-zone: "covid19.angelomadara.me" redirect
+local-data: "covid19.angelomadara.me A 0.0.0.0"
+local-zone: "covid19.fyi.my.id" redirect
+local-data: "covid19.fyi.my.id A 0.0.0.0"
+local-zone: "covid19.algolysis.com" redirect
+local-data: "covid19.algolysis.com A 0.0.0.0"
+local-zone: "19covid19.com" redirect
+local-data: "19covid19.com A 0.0.0.0"
+local-zone: "covid19.hitsk.com" redirect
+local-data: "covid19.hitsk.com A 0.0.0.0"
+local-zone: "lawancovid19.1tekno.com" redirect
+local-data: "lawancovid19.1tekno.com A 0.0.0.0"
+local-zone: "covid19.amo0.com" redirect
+local-data: "covid19.amo0.com A 0.0.0.0"
+local-zone: "map-coronavirus.ru" redirect
+local-data: "map-coronavirus.ru A 0.0.0.0"
+local-zone: "covid19donate.net" redirect
+local-data: "covid19donate.net A 0.0.0.0"
+local-zone: "coronaviruscina.com" redirect
+local-data: "coronaviruscina.com A 0.0.0.0"
+local-zone: "covid19.adrianorosa.com" redirect
+local-data: "covid19.adrianorosa.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -26422,6 +26448,22 @@ local-zone: "ayudacoronavirustdv.org" redirect
 local-data: "ayudacoronavirustdv.org A 0.0.0.0"
 local-zone: "covid19-support.uk" redirect
 local-data: "covid19-support.uk A 0.0.0.0"
+local-zone: "sars-cov-2-covid19.com" redirect
+local-data: "sars-cov-2-covid19.com A 0.0.0.0"
+local-zone: "covid19-support.uk.com" redirect
+local-data: "covid19-support.uk.com A 0.0.0.0"
+local-zone: "covid19support.uk.com" redirect
+local-data: "covid19support.uk.com A 0.0.0.0"
+local-zone: "apocalipsiscovid19.com" redirect
+local-data: "apocalipsiscovid19.com A 0.0.0.0"
+local-zone: "covid19support.uk.com" redirect
+local-data: "covid19support.uk.com A 0.0.0.0"
+local-zone: "covid19rapidtest.org" redirect
+local-data: "covid19rapidtest.org A 0.0.0.0"
+local-zone: "kummernummer-covid-19.de" redirect
+local-data: "kummernummer-covid-19.de A 0.0.0.0"
+local-zone: "coronavirus24.co.uk" redirect
+local-data: "coronavirus24.co.uk A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
