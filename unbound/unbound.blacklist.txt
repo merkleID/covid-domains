@@ -26058,6 +26058,42 @@ local-zone: "covid19.open4didact.co" redirect
 local-data: "covid19.open4didact.co A 0.0.0.0"
 local-zone: "coronavirusportal.com.br" redirect
 local-data: "coronavirusportal.com.br A 0.0.0.0"
+local-zone: "covid-19safetyresources.com" redirect
+local-data: "covid-19safetyresources.com A 0.0.0.0"
+local-zone: "covid19caribbean.onrender.com" redirect
+local-data: "covid19caribbean.onrender.com A 0.0.0.0"
+local-zone: "covid19.pitchground.com" redirect
+local-data: "covid19.pitchground.com A 0.0.0.0"
+local-zone: "ocoronaviruse24.ru" redirect
+local-data: "ocoronaviruse24.ru A 0.0.0.0"
+local-zone: "covid19.qodexmedia.com" redirect
+local-data: "covid19.qodexmedia.com A 0.0.0.0"
+local-zone: "coronavirusaidreliefandeconomicsecurityact2020.com" redirect
+local-data: "coronavirusaidreliefandeconomicsecurityact2020.com A 0.0.0.0"
+local-zone: "testcoronavirus.fr" redirect
+local-data: "testcoronavirus.fr A 0.0.0.0"
+local-zone: "covid-19.konekt.rs" redirect
+local-data: "covid-19.konekt.rs A 0.0.0.0"
+local-zone: "alert-covid-19.com" redirect
+local-data: "alert-covid-19.com A 0.0.0.0"
+local-zone: "craemrcovid19.com" redirect
+local-data: "craemrcovid19.com A 0.0.0.0"
+local-zone: "covid19lives.com" redirect
+local-data: "covid19lives.com A 0.0.0.0"
+local-zone: "volunteer-coronavirus.online" redirect
+local-data: "volunteer-coronavirus.online A 0.0.0.0"
+local-zone: "bcpcovid19.com" redirect
+local-data: "bcpcovid19.com A 0.0.0.0"
+local-zone: "test-covid-19.ml" redirect
+local-data: "test-covid-19.ml A 0.0.0.0"
+local-zone: "readingbeyondcovid19.com" redirect
+local-data: "readingbeyondcovid19.com A 0.0.0.0"
+local-zone: "covid19gis.gradtrunk.com" redirect
+local-data: "covid19gis.gradtrunk.com A 0.0.0.0"
+local-zone: "covid19.reporterspost24.com" redirect
+local-data: "covid19.reporterspost24.com A 0.0.0.0"
+local-zone: "bcpcovid19.com" redirect
+local-data: "bcpcovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -27268,6 +27304,12 @@ local-zone: "classcovid19.com" redirect
 local-data: "classcovid19.com A 0.0.0.0"
 local-zone: "covid19worldnews.live" redirect
 local-data: "covid19worldnews.live A 0.0.0.0"
+local-zone: "ivdcovid19.com" redirect
+local-data: "ivdcovid19.com A 0.0.0.0"
+local-zone: "protezione-covid19.com" redirect
+local-data: "protezione-covid19.com A 0.0.0.0"
+local-zone: "coronavirusfootprint.com" redirect
+local-data: "coronavirusfootprint.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
