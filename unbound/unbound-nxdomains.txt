@@ -12946,6 +12946,18 @@ local-zone: "covid19appeal.net" static
 local-zone: "covid19.gtem.ca" static
 local-zone: "covid-19.hnlconrac.com" static
 local-zone: "mail.digitalcovid19.com" static
+local-zone: "www.covid19helpdesk.in" static
+local-zone: "coronavirusfactory.com" static
+local-zone: "coronavirus1919.ru" static
+local-zone: "coronavirushospitaldelmar.cat" static
+local-zone: "coronavirusonlinetherapy-az.com" static
+local-zone: "covid19.itlaa.com" static
+local-zone: "www.covid19frontline.org" static
+local-zone: "covid19.sotolitolabs.com" static
+local-zone: "www.covid19-inworld.com" static
+local-zone: "covid19.localhostsc.my.id" static
+local-zone: "covid19india.email" static
+local-zone: "covid19nigeria.live" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirustienda.com" static
 local-zone: "californiacoronaviruslaw.com" static
@@ -13546,6 +13558,8 @@ local-zone: "protection-covid19.com" static
 local-zone: "covid19-thermometers.co.za" static
 local-zone: "covid19pv.com" static
 local-zone: "covid19russia.now.sh" static
+local-zone: "localfoodcovid19.co.uk" static
+local-zone: "covid19helpdesk.in" static
 local-zone: "123corona.com" static
 local-zone: "123coronavirus.com" static
 local-zone: "1800covid19.com" static

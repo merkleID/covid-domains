@@ -25894,6 +25894,30 @@ local-zone: "covid-19.hnlconrac.com" redirect
 local-data: "covid-19.hnlconrac.com A 0.0.0.0"
 local-zone: "mail.digitalcovid19.com" redirect
 local-data: "mail.digitalcovid19.com A 0.0.0.0"
+local-zone: "www.covid19helpdesk.in" redirect
+local-data: "www.covid19helpdesk.in A 0.0.0.0"
+local-zone: "coronavirusfactory.com" redirect
+local-data: "coronavirusfactory.com A 0.0.0.0"
+local-zone: "coronavirus1919.ru" redirect
+local-data: "coronavirus1919.ru A 0.0.0.0"
+local-zone: "coronavirushospitaldelmar.cat" redirect
+local-data: "coronavirushospitaldelmar.cat A 0.0.0.0"
+local-zone: "coronavirusonlinetherapy-az.com" redirect
+local-data: "coronavirusonlinetherapy-az.com A 0.0.0.0"
+local-zone: "covid19.itlaa.com" redirect
+local-data: "covid19.itlaa.com A 0.0.0.0"
+local-zone: "www.covid19frontline.org" redirect
+local-data: "www.covid19frontline.org A 0.0.0.0"
+local-zone: "covid19.sotolitolabs.com" redirect
+local-data: "covid19.sotolitolabs.com A 0.0.0.0"
+local-zone: "www.covid19-inworld.com" redirect
+local-data: "www.covid19-inworld.com A 0.0.0.0"
+local-zone: "covid19.localhostsc.my.id" redirect
+local-data: "covid19.localhostsc.my.id A 0.0.0.0"
+local-zone: "covid19india.email" redirect
+local-data: "covid19india.email A 0.0.0.0"
+local-zone: "covid19nigeria.live" redirect
+local-data: "covid19nigeria.live A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -27094,6 +27118,10 @@ local-zone: "covid19pv.com" redirect
 local-data: "covid19pv.com A 0.0.0.0"
 local-zone: "covid19russia.now.sh" redirect
 local-data: "covid19russia.now.sh A 0.0.0.0"
+local-zone: "localfoodcovid19.co.uk" redirect
+local-data: "localfoodcovid19.co.uk A 0.0.0.0"
+local-zone: "covid19helpdesk.in" redirect
+local-data: "covid19helpdesk.in A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
