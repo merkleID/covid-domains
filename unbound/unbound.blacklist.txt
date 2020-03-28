@@ -25280,6 +25280,36 @@ local-zone: "coronaviruscina.com" redirect
 local-data: "coronaviruscina.com A 0.0.0.0"
 local-zone: "covid19.adrianorosa.com" redirect
 local-data: "covid19.adrianorosa.com A 0.0.0.0"
+local-zone: "covid19.karokab.go.id" redirect
+local-data: "covid19.karokab.go.id A 0.0.0.0"
+local-zone: "coronavirus-worldnews.jp" redirect
+local-data: "coronavirus-worldnews.jp A 0.0.0.0"
+local-zone: "covid19online.viralimx.com" redirect
+local-data: "covid19online.viralimx.com A 0.0.0.0"
+local-zone: "covid19.cloudbhutan.com" redirect
+local-data: "covid19.cloudbhutan.com A 0.0.0.0"
+local-zone: "covid-19.cd.swiftglobalservice-rdc.com" redirect
+local-data: "covid-19.cd.swiftglobalservice-rdc.com A 0.0.0.0"
+local-zone: "covid19cases.today" redirect
+local-data: "covid19cases.today A 0.0.0.0"
+local-zone: "covid-19-testingkit.com" redirect
+local-data: "covid-19-testingkit.com A 0.0.0.0"
+local-zone: "zapcovid-19.com" redirect
+local-data: "zapcovid-19.com A 0.0.0.0"
+local-zone: "www.covid19response.ie" redirect
+local-data: "www.covid19response.ie A 0.0.0.0"
+local-zone: "covid19.nilay.cc" redirect
+local-data: "covid19.nilay.cc A 0.0.0.0"
+local-zone: "www.coronavirus-novosti.website" redirect
+local-data: "www.coronavirus-novosti.website A 0.0.0.0"
+local-zone: "covid19.artisanvs.com" redirect
+local-data: "covid19.artisanvs.com A 0.0.0.0"
+local-zone: "www.coronaviruspandemicdefense.com" redirect
+local-data: "www.coronaviruspandemicdefense.com A 0.0.0.0"
+local-zone: "www.login.covid19telangana.in" redirect
+local-data: "www.login.covid19telangana.in A 0.0.0.0"
+local-zone: "covid19info.me" redirect
+local-data: "covid19info.me A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -26464,6 +26494,8 @@ local-zone: "kummernummer-covid-19.de" redirect
 local-data: "kummernummer-covid-19.de A 0.0.0.0"
 local-zone: "coronavirus24.co.uk" redirect
 local-data: "coronavirus24.co.uk A 0.0.0.0"
+local-zone: "apocalipsiscovid19.com" redirect
+local-data: "apocalipsiscovid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
