@@ -24660,6 +24660,34 @@ local-zone: "www.stopcoronavirusshop.co.nz" redirect
 local-data: "www.stopcoronavirusshop.co.nz A 0.0.0.0"
 local-zone: "coronavirus.illinois.gov" redirect
 local-data: "coronavirus.illinois.gov A 0.0.0.0"
+local-zone: "www.public-health-covid19.de" redirect
+local-data: "www.public-health-covid19.de A 0.0.0.0"
+local-zone: "coronavirusupdates.co.ke" redirect
+local-data: "coronavirusupdates.co.ke A 0.0.0.0"
+local-zone: "coronavirusnow.es" redirect
+local-data: "coronavirusnow.es A 0.0.0.0"
+local-zone: "coronavirusisrael.live" redirect
+local-data: "coronavirusisrael.live A 0.0.0.0"
+local-zone: "corona-virus.live" redirect
+local-data: "corona-virus.live A 0.0.0.0"
+local-zone: "www.covid-19dk.live" redirect
+local-data: "www.covid-19dk.live A 0.0.0.0"
+local-zone: "coronavirus-2019.live" redirect
+local-data: "coronavirus-2019.live A 0.0.0.0"
+local-zone: "covid19resourcehub.com" redirect
+local-data: "covid19resourcehub.com A 0.0.0.0"
+local-zone: "www.covid19-hilft.de" redirect
+local-data: "www.covid19-hilft.de A 0.0.0.0"
+local-zone: "covid19s.nl" redirect
+local-data: "covid19s.nl A 0.0.0.0"
+local-zone: "covid19funding.co.za" redirect
+local-data: "covid19funding.co.za A 0.0.0.0"
+local-zone: "covid19ruinmysummer.xyz" redirect
+local-data: "covid19ruinmysummer.xyz A 0.0.0.0"
+local-zone: "covid-19.ideas2it.com" redirect
+local-data: "covid-19.ideas2it.com A 0.0.0.0"
+local-zone: "ideascovid19.com" redirect
+local-data: "ideascovid19.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
