@@ -25710,6 +25710,32 @@ local-zone: "trackcovid19.shivanshutiwari.co" redirect
 local-data: "trackcovid19.shivanshutiwari.co A 0.0.0.0"
 local-zone: "covid19communications.info" redirect
 local-data: "covid19communications.info A 0.0.0.0"
+local-zone: "www.covid19communications.info" redirect
+local-data: "www.covid19communications.info A 0.0.0.0"
+local-zone: "fitnessincovid19.com" redirect
+local-data: "fitnessincovid19.com A 0.0.0.0"
+local-zone: "covid-19.hogsback.info" redirect
+local-data: "covid-19.hogsback.info A 0.0.0.0"
+local-zone: "eduvemcovid19.eduvem.com" redirect
+local-data: "eduvemcovid19.eduvem.com A 0.0.0.0"
+local-zone: "emergencia.covid19.sv.gob.com" redirect
+local-data: "emergencia.covid19.sv.gob.com A 0.0.0.0"
+local-zone: "cpanel.covid19pr.info" redirect
+local-data: "cpanel.covid19pr.info A 0.0.0.0"
+local-zone: "coronavirusapp.in" redirect
+local-data: "coronavirusapp.in A 0.0.0.0"
+local-zone: "covid19ind.zendesk.com" redirect
+local-data: "covid19ind.zendesk.com A 0.0.0.0"
+local-zone: "covid19.depisthta.net" redirect
+local-data: "covid19.depisthta.net A 0.0.0.0"
+local-zone: "findcoronavirustest.com" redirect
+local-data: "findcoronavirustest.com A 0.0.0.0"
+local-zone: "covid19-id.now.sh" redirect
+local-data: "covid19-id.now.sh A 0.0.0.0"
+local-zone: "emergiacia.covid19.gob.com" redirect
+local-data: "emergiacia.covid19.gob.com A 0.0.0.0"
+local-zone: "covid-19.goodrebels.com" redirect
+local-data: "covid-19.goodrebels.com A 0.0.0.0"
 local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirustienda.com" redirect
@@ -26902,6 +26928,8 @@ local-zone: "covid19clinicalsupplies.com" redirect
 local-data: "covid19clinicalsupplies.com A 0.0.0.0"
 local-zone: "2020coronavirus.ru" redirect
 local-data: "2020coronavirus.ru A 0.0.0.0"
+local-zone: "protection-covid19.com" redirect
+local-data: "protection-covid19.com A 0.0.0.0"
 local-zone: "123corona.com" redirect
 local-data: "123corona.com A 0.0.0.0"
 local-zone: "123coronavirus.com" redirect
