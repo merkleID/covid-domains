@@ -12592,6 +12592,8 @@ local-zone: "covid19.hackhub.cn" redirect
 local-data: "covid19.hackhub.cn A 0.0.0.0"
 local-zone: "covid19.haidarhawthorne.com" redirect
 local-data: "covid19.haidarhawthorne.com A 0.0.0.0"
+local-zone: "covid19.haltengkab.go.id" redirect
+local-data: "covid19.haltengkab.go.id A 0.0.0.0"
 local-zone: "covid19.hamels.be" redirect
 local-data: "covid19.hamels.be A 0.0.0.0"
 local-zone: "covid19handsanitize.com" redirect
@@ -14700,8 +14702,6 @@ local-zone: "covid-19-predator.com" redirect
 local-data: "covid-19-predator.com A 0.0.0.0"
 local-zone: "covid-19.predpazi.com" redirect
 local-data: "covid-19.predpazi.com A 0.0.0.0"
-local-zone: "covid-19prehospitalguidance.wales" redirect
-local-data: "covid-19prehospitalguidance.wales A 0.0.0.0"
 local-zone: "covid19-preparation.com" redirect
 local-data: "covid19-preparation.com A 0.0.0.0"
 local-zone: "covid19-prep.com" redirect
@@ -14802,6 +14802,8 @@ local-zone: "covid19.proxus.dk" redirect
 local-data: "covid19.proxus.dk A 0.0.0.0"
 local-zone: "covid19ptforum.com" redirect
 local-data: "covid19ptforum.com A 0.0.0.0"
+local-zone: "covid19.ptik.bppt.go.id" redirect
+local-data: "covid19.ptik.bppt.go.id A 0.0.0.0"
 local-zone: "covid19.ptspkemenagsleman.net" redirect
 local-data: "covid19.ptspkemenagsleman.net A 0.0.0.0"
 local-zone: "covid19.publica.gr" redirect
@@ -16576,6 +16578,8 @@ local-zone: "covid19.vanzotech.com" redirect
 local-data: "covid19.vanzotech.com A 0.0.0.0"
 local-zone: "covid19.vapp.vn" redirect
 local-data: "covid19.vapp.vn A 0.0.0.0"
+local-zone: "covid19-var-83.live" redirect
+local-data: "covid19-var-83.live A 0.0.0.0"
 local-zone: "covid19vaxdev.com" redirect
 local-data: "covid19vaxdev.com A 0.0.0.0"
 local-zone: "covid19vaxdev.net" redirect
@@ -18618,6 +18622,8 @@ local-zone: "fightcovid19.today" redirect
 local-data: "fightcovid19.today A 0.0.0.0"
 local-zone: "fightcovid19virus.com" redirect
 local-data: "fightcovid19virus.com A 0.0.0.0"
+local-zone: "fight-covid-2019.com" redirect
+local-data: "fight-covid-2019.com A 0.0.0.0"
 local-zone: "fight-covid.com" redirect
 local-data: "fight-covid.com A 0.0.0.0"
 local-zone: "fightcovid.com" redirect
@@ -25050,6 +25056,8 @@ local-zone: "www.covid19backtobasics.com" redirect
 local-data: "www.covid19backtobasics.com A 0.0.0.0"
 local-zone: "www.covid19ban.com" redirect
 local-data: "www.covid19ban.com A 0.0.0.0"
+local-zone: "www.covid19.bangryan.website" redirect
+local-data: "www.covid19.bangryan.website A 0.0.0.0"
 local-zone: "www.covid19b.com" redirect
 local-data: "www.covid19b.com A 0.0.0.0"
 local-zone: "www.covid19-bih.info" redirect
@@ -25622,6 +25630,8 @@ local-zone: "www.covid-19supplier.com" redirect
 local-data: "www.covid-19supplier.com A 0.0.0.0"
 local-zone: "www.covid-19suppliesaustralia.com" redirect
 local-data: "www.covid-19suppliesaustralia.com A 0.0.0.0"
+local-zone: "www.covid19suppliessa.co.za" redirect
+local-data: "www.covid19suppliessa.co.za A 0.0.0.0"
 local-zone: "www.covid19supply.ca" redirect
 local-data: "www.covid19supply.ca A 0.0.0.0"
 local-zone: "www.covid-19supplychain.com" redirect
@@ -25784,6 +25794,8 @@ local-zone: "www.dichcovid19.com" redirect
 local-data: "www.dichcovid19.com A 0.0.0.0"
 local-zone: "www.digitalhubcovid19esp.org" redirect
 local-data: "www.digitalhubcovid19esp.org A 0.0.0.0"
+local-zone: "www.digitalhubcovid19.org" redirect
+local-data: "www.digitalhubcovid19.org A 0.0.0.0"
 local-zone: "www.diolicovid19.info" redirect
 local-data: "www.diolicovid19.info A 0.0.0.0"
 local-zone: "www.doihavecovid19.net" redirect
