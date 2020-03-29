@@ -8248,6 +8248,8 @@ local-zone: "coronavirusproperties.com" redirect
 local-data: "coronavirusproperties.com A 0.0.0.0"
 local-zone: "coronavirusprophecy.com" redirect
 local-data: "coronavirusprophecy.com A 0.0.0.0"
+local-zone: "coronavirus.proprietary-data.com" redirect
+local-data: "coronavirus.proprietary-data.com A 0.0.0.0"
 local-zone: "coronavirusprotection101.com" redirect
 local-data: "coronavirusprotection101.com A 0.0.0.0"
 local-zone: "coronavirusprotection2020.com" redirect
@@ -12402,6 +12404,8 @@ local-zone: "covid19garance.cz" redirect
 local-data: "covid19garance.cz A 0.0.0.0"
 local-zone: "covid19garance.eu" redirect
 local-data: "covid19garance.eu A 0.0.0.0"
+local-zone: "covid19.gatetechnology.net" redirect
+local-data: "covid19.gatetechnology.net A 0.0.0.0"
 local-zone: "covid-19.gayolueskab.go.id" redirect
 local-data: "covid-19.gayolueskab.go.id A 0.0.0.0"
 local-zone: "covid19.gccstat.org" redirect
@@ -14426,8 +14430,8 @@ local-zone: "covid19.open4didact.co" redirect
 local-data: "covid19.open4didact.co A 0.0.0.0"
 local-zone: "covid19.openbrolly.com" redirect
 local-data: "covid19.openbrolly.com A 0.0.0.0"
-local-zone: "covid-19.opendata.ccbsoftware.com" redirect
-local-data: "covid-19.opendata.ccbsoftware.com A 0.0.0.0"
+local-zone: "covid19.opencloud.lu" redirect
+local-data: "covid19.opencloud.lu A 0.0.0.0"
 local-zone: "covid19.opendata.lk" redirect
 local-data: "covid19.opendata.lk A 0.0.0.0"
 local-zone: "covid19.opendxc.com" redirect
@@ -15414,8 +15418,6 @@ local-zone: "covid19.seychelles.travel" redirect
 local-data: "covid19.seychelles.travel A 0.0.0.0"
 local-zone: "covid19sfp.com" redirect
 local-data: "covid19sfp.com A 0.0.0.0"
-local-zone: "covid19.sfpq.qc.ca" redirect
-local-data: "covid19.sfpq.qc.ca A 0.0.0.0"
 local-zone: "covid19.sgdd.org.tr" redirect
 local-data: "covid19.sgdd.org.tr A 0.0.0.0"
 local-zone: "covid-19.shamed.uk" redirect
@@ -16518,6 +16520,8 @@ local-zone: "covid19updates-india.bhooraj.com" redirect
 local-data: "covid19updates-india.bhooraj.com A 0.0.0.0"
 local-zone: "covid19update.site" redirect
 local-data: "covid19update.site A 0.0.0.0"
+local-zone: "covid19updates.ml" redirect
+local-data: "covid19updates.ml A 0.0.0.0"
 local-zone: "covid19updates.online" redirect
 local-data: "covid19updates.online A 0.0.0.0"
 local-zone: "covid19-updates.rohitnaik.in" redirect
@@ -20058,8 +20062,6 @@ local-zone: "love-in-the-time-of-coronavirus.com" redirect
 local-data: "love-in-the-time-of-coronavirus.com A 0.0.0.0"
 local-zone: "loveinthetimeofcoronavirus.life" redirect
 local-data: "loveinthetimeofcoronavirus.life A 0.0.0.0"
-local-zone: "loveinthetimeofcovid19.blog" redirect
-local-data: "loveinthetimeofcovid19.blog A 0.0.0.0"
 local-zone: "loveinthetimeofcovid-19.com" redirect
 local-data: "loveinthetimeofcovid-19.com A 0.0.0.0"
 local-zone: "loveinthetimeofcovid19.com" redirect
@@ -26118,8 +26120,6 @@ local-zone: "www.mylifeaftercoronavirus.ch" redirect
 local-data: "www.mylifeaftercoronavirus.ch A 0.0.0.0"
 local-zone: "www.myworkandcoronavirus.co.uk" redirect
 local-data: "www.myworkandcoronavirus.co.uk A 0.0.0.0"
-local-zone: "www.nancovid19.ca" redirect
-local-data: "www.nancovid19.ca A 0.0.0.0"
 local-zone: "www.naturalcoronavirusprevention.com" redirect
 local-data: "www.naturalcoronavirusprevention.com A 0.0.0.0"
 local-zone: "www.ncbroadcasterscovid19.com" redirect

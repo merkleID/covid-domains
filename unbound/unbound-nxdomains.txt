@@ -4123,6 +4123,7 @@ local-zone: "coronaviruspromotions.com" static
 local-zone: "coronavirusproofhome.com" static
 local-zone: "coronavirusproperties.com" static
 local-zone: "coronavirusprophecy.com" static
+local-zone: "coronavirus.proprietary-data.com" static
 local-zone: "coronavirusprotection101.com" static
 local-zone: "coronavirusprotection2020.com" static
 local-zone: "coronavirusprotection.biz" static
@@ -6200,6 +6201,7 @@ local-zone: "covid19-garage.com" static
 local-zone: "covid19garance.com" static
 local-zone: "covid19garance.cz" static
 local-zone: "covid19garance.eu" static
+local-zone: "covid19.gatetechnology.net" static
 local-zone: "covid-19.gayolueskab.go.id" static
 local-zone: "covid19.gccstat.org" static
 local-zone: "covid19.gdanforth.com" static
@@ -7212,7 +7214,7 @@ local-zone: "covid19ontario.com" static
 local-zone: "covid19.opalsolutions.be" static
 local-zone: "covid19.open4didact.co" static
 local-zone: "covid19.openbrolly.com" static
-local-zone: "covid-19.opendata.ccbsoftware.com" static
+local-zone: "covid19.opencloud.lu" static
 local-zone: "covid19.opendata.lk" static
 local-zone: "covid19.opendxc.com" static
 local-zone: "covid19.opentic.eu" static
@@ -7706,7 +7708,6 @@ local-zone: "covid19settlement.com" static
 local-zone: "covid19sex.com" static
 local-zone: "covid19.seychelles.travel" static
 local-zone: "covid19sfp.com" static
-local-zone: "covid19.sfpq.qc.ca" static
 local-zone: "covid19.sgdd.org.tr" static
 local-zone: "covid-19.shamed.uk" static
 local-zone: "covid-19.shapelab.ee" static
@@ -8258,6 +8259,7 @@ local-zone: "covid19update.royalstrides.com" static
 local-zone: "covid-19-update.sherwin-williams.com" static
 local-zone: "covid19updates-india.bhooraj.com" static
 local-zone: "covid19update.site" static
+local-zone: "covid19updates.ml" static
 local-zone: "covid19updates.online" static
 local-zone: "covid19-updates.rohitnaik.in" static
 local-zone: "covid19updates.shopopool.com" static
@@ -10028,7 +10030,6 @@ local-zone: "loveintheageofcoronavirus.net" static
 local-zone: "loveinthetimeofcorona.com" static
 local-zone: "love-in-the-time-of-coronavirus.com" static
 local-zone: "loveinthetimeofcoronavirus.life" static
-local-zone: "loveinthetimeofcovid19.blog" static
 local-zone: "loveinthetimeofcovid-19.com" static
 local-zone: "loveinthetimeofcovid19.com" static
 local-zone: "loveinthetimeofcovid19.co.uk" static
@@ -13058,7 +13059,6 @@ local-zone: "www.mycovid19.ru" static
 local-zone: "www.mycovid19supplies.com" static
 local-zone: "www.mylifeaftercoronavirus.ch" static
 local-zone: "www.myworkandcoronavirus.co.uk" static
-local-zone: "www.nancovid19.ca" static
 local-zone: "www.naturalcoronavirusprevention.com" static
 local-zone: "www.ncbroadcasterscovid19.com" static
 local-zone: "www.ncov19.de" static
