@@ -254,6 +254,8 @@ local-zone: "afghanistancoronavirus.com" redirect
 local-data: "afghanistancoronavirus.com A 0.0.0.0"
 local-zone: "africacoronavirus.com" redirect
 local-data: "africacoronavirus.com A 0.0.0.0"
+local-zone: "africantechcovid19response.com" redirect
+local-data: "africantechcovid19response.com A 0.0.0.0"
 local-zone: "aftercovid19plan.com" redirect
 local-data: "aftercovid19plan.com A 0.0.0.0"
 local-zone: "againstcorona.com" redirect
@@ -3886,6 +3888,8 @@ local-zone: "coronavirus212.com" redirect
 local-data: "coronavirus212.com A 0.0.0.0"
 local-zone: "coronavirus247.org" redirect
 local-data: "coronavirus247.org A 0.0.0.0"
+local-zone: "coronavirus247.ru" redirect
+local-data: "coronavirus247.ru A 0.0.0.0"
 local-zone: "coronavirus24.com" redirect
 local-data: "coronavirus24.com A 0.0.0.0"
 local-zone: "coronavirus24.co.uk" redirect
@@ -5028,6 +5032,8 @@ local-zone: "coronavirus-covid2019.ru" redirect
 local-data: "coronavirus-covid2019.ru A 0.0.0.0"
 local-zone: "coronaviruscovidadvisors.com" redirect
 local-data: "coronaviruscovidadvisors.com A 0.0.0.0"
+local-zone: "coronavirus-covid.online" redirect
+local-data: "coronavirus-covid.online A 0.0.0.0"
 local-zone: "coronaviruscovit19.com" redirect
 local-data: "coronaviruscovit19.com A 0.0.0.0"
 local-zone: "coronaviruscrafts.com" redirect
@@ -7390,6 +7396,8 @@ local-zone: "coronavirus-monitor.pro" redirect
 local-data: "coronavirus-monitor.pro A 0.0.0.0"
 local-zone: "corona-virus-monitor.ru" redirect
 local-data: "corona-virus-monitor.ru A 0.0.0.0"
+local-zone: "coronavirus-monitor.ru" redirect
+local-data: "coronavirus-monitor.ru A 0.0.0.0"
 local-zone: "coronavirus-monitor.site" redirect
 local-data: "coronavirus-monitor.site A 0.0.0.0"
 local-zone: "coronavirus-monitor.su" redirect
@@ -10630,6 +10638,8 @@ local-zone: "covid19-azores.pt" redirect
 local-data: "covid19-azores.pt A 0.0.0.0"
 local-zone: "covid-19.b-11.net" redirect
 local-data: "covid-19.b-11.net A 0.0.0.0"
+local-zone: "covid-19.ba" redirect
+local-data: "covid-19.ba A 0.0.0.0"
 local-zone: "covid19.babcock.ml" redirect
 local-data: "covid19.babcock.ml A 0.0.0.0"
 local-zone: "covid19.babelprov.go.id" redirect
@@ -12144,6 +12154,8 @@ local-zone: "covid19exterminator.com" redirect
 local-data: "covid19exterminator.com A 0.0.0.0"
 local-zone: "covid19ezeiza.dstecnologia.com.ar" redirect
 local-data: "covid19ezeiza.dstecnologia.com.ar A 0.0.0.0"
+local-zone: "covid-19.eznglib.com" redirect
+local-data: "covid-19.eznglib.com A 0.0.0.0"
 local-zone: "covid19.f88.vn" redirect
 local-data: "covid19.f88.vn A 0.0.0.0"
 local-zone: "covid-19faceguard.com" redirect
@@ -12346,6 +12358,8 @@ local-zone: "covid19.fundacionio.com" redirect
 local-data: "covid19.fundacionio.com A 0.0.0.0"
 local-zone: "covid19funding.co.za" redirect
 local-data: "covid19funding.co.za A 0.0.0.0"
+local-zone: "covid19fundnmr.az" redirect
+local-data: "covid19fundnmr.az A 0.0.0.0"
 local-zone: "covid19fundraisers.com" redirect
 local-data: "covid19fundraisers.com A 0.0.0.0"
 local-zone: "covid19fundraisers.net" redirect
@@ -12462,8 +12476,6 @@ local-zone: "covid-19.gob.es" redirect
 local-data: "covid-19.gob.es A 0.0.0.0"
 local-zone: "covid19.gob.es" redirect
 local-data: "covid19.gob.es A 0.0.0.0"
-local-zone: "covid19.gob.sv" redirect
-local-data: "covid19.gob.sv A 0.0.0.0"
 local-zone: "covid19.gogreenblocks.com" redirect
 local-data: "covid19.gogreenblocks.com A 0.0.0.0"
 local-zone: "covid19goiania.chat.comunix.tech" redirect
@@ -12760,8 +12772,6 @@ local-zone: "covid19holidays.online" redirect
 local-data: "covid19holidays.online A 0.0.0.0"
 local-zone: "covid-19.holmss.lv" redirect
 local-data: "covid-19.holmss.lv A 0.0.0.0"
-local-zone: "covid19.homeaffairs.gov.au" redirect
-local-data: "covid19.homeaffairs.gov.au A 0.0.0.0"
 local-zone: "covid19homecare.com" redirect
 local-data: "covid19homecare.com A 0.0.0.0"
 local-zone: "covid19homefitness.com" redirect
@@ -12862,8 +12872,6 @@ local-zone: "covid19.hrsbdc.org" redirect
 local-data: "covid19.hrsbdc.org A 0.0.0.0"
 local-zone: "covid-19hubadmin.govops.ca.gov" redirect
 local-data: "covid-19hubadmin.govops.ca.gov A 0.0.0.0"
-local-zone: "covid-19hub.govops.ca.gov" redirect
-local-data: "covid-19hub.govops.ca.gov A 0.0.0.0"
 local-zone: "covid-19.humanitarian.digital" redirect
 local-data: "covid-19.humanitarian.digital A 0.0.0.0"
 local-zone: "covid-19-hun.now.sh" redirect
@@ -15370,6 +15378,8 @@ local-zone: "covid-19seminars.com" redirect
 local-data: "covid-19seminars.com A 0.0.0.0"
 local-zone: "covid19senegal.com" redirect
 local-data: "covid19senegal.com A 0.0.0.0"
+local-zone: "covid-19.seqmayors.qld.gov.au" redirect
+local-data: "covid-19.seqmayors.qld.gov.au A 0.0.0.0"
 local-zone: "covid19serum.com" redirect
 local-data: "covid19serum.com A 0.0.0.0"
 local-zone: "covid19.seruyankab.go.id" redirect
@@ -16664,6 +16674,8 @@ local-zone: "covid-19viruspandemic.com" redirect
 local-data: "covid-19viruspandemic.com A 0.0.0.0"
 local-zone: "covid-19virusprotection.com" redirect
 local-data: "covid-19virusprotection.com A 0.0.0.0"
+local-zone: "covid-19-virus.ru" redirect
+local-data: "covid-19-virus.ru A 0.0.0.0"
 local-zone: "covid19virus.solutions" redirect
 local-data: "covid19virus.solutions A 0.0.0.0"
 local-zone: "covid-19virussupplies.com" redirect
@@ -18914,6 +18926,8 @@ local-zone: "getyourcoronavirusmoney.com" redirect
 local-data: "getyourcoronavirusmoney.com A 0.0.0.0"
 local-zone: "ghanacoronavirus.com" redirect
 local-data: "ghanacoronavirus.com A 0.0.0.0"
+local-zone: "ghanacovid19fund.com" redirect
+local-data: "ghanacovid19fund.com A 0.0.0.0"
 local-zone: "ghanafundscovid19.org" redirect
 local-data: "ghanafundscovid19.org A 0.0.0.0"
 local-zone: "gi-covid-19.org" redirect
@@ -20864,8 +20878,6 @@ local-zone: "niigata.stopcovid19.jp" redirect
 local-data: "niigata.stopcovid19.jp A 0.0.0.0"
 local-zone: "njatmacovid19.zendesk.com" redirect
 local-data: "njatmacovid19.zendesk.com A 0.0.0.0"
-local-zone: "nl.fnacvandenborrecovid19.be" redirect
-local-data: "nl.fnacvandenborrecovid19.be A 0.0.0.0"
 local-zone: "nl.maskforcoronavirus.shop" redirect
 local-data: "nl.maskforcoronavirus.shop A 0.0.0.0"
 local-zone: "nlp4covid19.ez.sats.cloud" redirect
@@ -22356,6 +22368,8 @@ local-zone: "seiu6covid19info.com" redirect
 local-data: "seiu6covid19info.com A 0.0.0.0"
 local-zone: "self-check.covid19dz.com" redirect
 local-data: "self-check.covid19dz.com A 0.0.0.0"
+local-zone: "self.covid19.nj.gov" redirect
+local-data: "self.covid19.nj.gov A 0.0.0.0"
 local-zone: "selling-despite-covid-19.sandiegoprofessionaljournal.com" redirect
 local-data: "selling-despite-covid-19.sandiegoprofessionaljournal.com A 0.0.0.0"
 local-zone: "sendlovenotcovid19fear.com" redirect
@@ -22960,6 +22974,8 @@ local-zone: "telecoronavirus.com" redirect
 local-data: "telecoronavirus.com A 0.0.0.0"
 local-zone: "telehealthforthecoronavirus.com" redirect
 local-data: "telehealthforthecoronavirus.com A 0.0.0.0"
+local-zone: "telehealth.kolhapurcovid19care.com" redirect
+local-data: "telehealth.kolhapurcovid19care.com A 0.0.0.0"
 local-zone: "telemedicineforthecoronavirus.com" redirect
 local-data: "telemedicineforthecoronavirus.com A 0.0.0.0"
 local-zone: "teletravail-coronavirus.com" redirect
@@ -24478,6 +24494,8 @@ local-zone: "www.coronavirusbaby.net" redirect
 local-data: "www.coronavirusbaby.net A 0.0.0.0"
 local-zone: "www.coronavirus.band" redirect
 local-data: "www.coronavirus.band A 0.0.0.0"
+local-zone: "www.coronavirus.barcelona" redirect
+local-data: "www.coronavirus.barcelona A 0.0.0.0"
 local-zone: "www.coronavirus-baseball.com" redirect
 local-data: "www.coronavirus-baseball.com A 0.0.0.0"
 local-zone: "www.coronavirusbd.com" redirect
@@ -24948,8 +24966,6 @@ local-zone: "www.coronavirustips.us" redirect
 local-data: "www.coronavirustips.us A 0.0.0.0"
 local-zone: "www.coronavirustop.net" redirect
 local-data: "www.coronavirustop.net A 0.0.0.0"
-local-zone: "www.coronavirus-tracker.at" redirect
-local-data: "www.coronavirus-tracker.at A 0.0.0.0"
 local-zone: "www.coronavirus-tshirts.com" redirect
 local-data: "www.coronavirus-tshirts.com A 0.0.0.0"
 local-zone: "www.coronavirustshirts.store" redirect
