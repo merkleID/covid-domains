@@ -3244,7 +3244,6 @@ local-zone: "coronavirusinfo.dev" static
 local-zone: "coronavirusinfo.directory" static
 local-zone: "coronavirusinfofl.com" static
 local-zone: "coronavirusinfoforemployers.com" static
-local-zone: "coronavirus-info.fr" static
 local-zone: "coronavirusinfoguide.com" static
 local-zone: "coronavirusinfoguide.krishnablogtips.com" static
 local-zone: "coronavirus-info.kz" static
@@ -5563,7 +5562,6 @@ local-zone: "covid19.cimvdl.pt" static
 local-zone: "covid19.cincinnaticares.org" static
 local-zone: "covid19cincinnati.com" static
 local-zone: "covid19.cinthealthcare.com" static
-local-zone: "covid19.cirebonkota.go.id" static
 local-zone: "covid19.citibot.io" static
 local-zone: "covid19cities.com" static
 local-zone: "covid19citizen.science" static
@@ -6637,6 +6635,7 @@ local-zone: "covid19.kadamsi.com" static
 local-zone: "covid19.kadantte.moe" static
 local-zone: "covid19-kagawa.jp" static
 local-zone: "covid19.kaissa.nl" static
+local-zone: "covid19.kaltimprov.go.id" static
 local-zone: "covid19kams.org.au" static
 local-zone: "covid19.kanwilsumbagut.com" static
 local-zone: "covid19.karadzic.info" static
@@ -6900,7 +6899,6 @@ local-zone: "covid19.medanalises.net" static
 local-zone: "covid-19.med.app" static
 local-zone: "covid-19.medapps.com.au" static
 local-zone: "covid19-medecinechinoise.ch" static
-local-zone: "covid19-medecinechinoise-france.fr" static
 local-zone: "covid-19.medelse.com" static
 local-zone: "covid19.medelse.com" static
 local-zone: "covid19.mediadial.xyz" static
@@ -7225,7 +7223,6 @@ local-zone: "covid19pandemic.in" static
 local-zone: "covid19pandemic.life" static
 local-zone: "covid19pandemic.net" static
 local-zone: "covid19pandemic.solutions" static
-local-zone: "covid19.pangandarankab.go.id" static
 local-zone: "covid19pangasinan.wearepixelhub.com" static
 local-zone: "covid19.panuiapp.net" static
 local-zone: "covid19.paperplanetm.com" static
@@ -9149,6 +9146,7 @@ local-zone: "endingcoronavirus.com" static
 local-zone: "endingcovid19.com" static
 local-zone: "endofcoronavirus.com" static
 local-zone: "en.doihavethecoronavirus.org" static
+local-zone: "enfermedadcoronavirus.com" static
 local-zone: "en.fnacvandenborrecovid19.be" static
 local-zone: "engine.covid19caribtracker.com" static
 local-zone: "en.kit-test-covid19.com" static
@@ -9684,6 +9682,7 @@ local-zone: "infocovid19.pateco.es" static
 local-zone: "infocovid19ponorogo.id" static
 local-zone: "info-covid19-qualita.com" static
 local-zone: "infocovid.com" static
+local-zone: "info-entreprises-covid19.economie.gouv.fr" static
 local-zone: "info.lillycovid19testing.com" static
 local-zone: "infomarcionyrecuperacioncovid19.live" static
 local-zone: "informacioncoronavirus.net" static
@@ -12782,7 +12781,6 @@ local-zone: "www.covid19-supply-chain-models.org" static
 local-zone: "www.covid19-support.org" static
 local-zone: "www.covid19surveyaz.com" static
 local-zone: "www.covid19survey.ford.com" static
-local-zone: "www.covid19-survey.ga" static
 local-zone: "www.covid19sv.info" static
 local-zone: "www.covid19telangana.in" static
 local-zone: "www.covid19-testing.churchofthehighlands.com" static

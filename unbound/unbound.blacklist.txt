@@ -6490,8 +6490,6 @@ local-zone: "coronavirusinfofl.com" redirect
 local-data: "coronavirusinfofl.com A 0.0.0.0"
 local-zone: "coronavirusinfoforemployers.com" redirect
 local-data: "coronavirusinfoforemployers.com A 0.0.0.0"
-local-zone: "coronavirus-info.fr" redirect
-local-data: "coronavirus-info.fr A 0.0.0.0"
 local-zone: "coronavirusinfoguide.com" redirect
 local-data: "coronavirusinfoguide.com A 0.0.0.0"
 local-zone: "coronavirusinfoguide.krishnablogtips.com" redirect
@@ -11128,8 +11126,6 @@ local-zone: "covid19cincinnati.com" redirect
 local-data: "covid19cincinnati.com A 0.0.0.0"
 local-zone: "covid19.cinthealthcare.com" redirect
 local-data: "covid19.cinthealthcare.com A 0.0.0.0"
-local-zone: "covid19.cirebonkota.go.id" redirect
-local-data: "covid19.cirebonkota.go.id A 0.0.0.0"
 local-zone: "covid19.citibot.io" redirect
 local-data: "covid19.citibot.io A 0.0.0.0"
 local-zone: "covid19cities.com" redirect
@@ -13276,6 +13272,8 @@ local-zone: "covid19-kagawa.jp" redirect
 local-data: "covid19-kagawa.jp A 0.0.0.0"
 local-zone: "covid19.kaissa.nl" redirect
 local-data: "covid19.kaissa.nl A 0.0.0.0"
+local-zone: "covid19.kaltimprov.go.id" redirect
+local-data: "covid19.kaltimprov.go.id A 0.0.0.0"
 local-zone: "covid19kams.org.au" redirect
 local-data: "covid19kams.org.au A 0.0.0.0"
 local-zone: "covid19.kanwilsumbagut.com" redirect
@@ -13802,8 +13800,6 @@ local-zone: "covid-19.medapps.com.au" redirect
 local-data: "covid-19.medapps.com.au A 0.0.0.0"
 local-zone: "covid19-medecinechinoise.ch" redirect
 local-data: "covid19-medecinechinoise.ch A 0.0.0.0"
-local-zone: "covid19-medecinechinoise-france.fr" redirect
-local-data: "covid19-medecinechinoise-france.fr A 0.0.0.0"
 local-zone: "covid-19.medelse.com" redirect
 local-data: "covid-19.medelse.com A 0.0.0.0"
 local-zone: "covid19.medelse.com" redirect
@@ -14452,8 +14448,6 @@ local-zone: "covid19pandemic.net" redirect
 local-data: "covid19pandemic.net A 0.0.0.0"
 local-zone: "covid19pandemic.solutions" redirect
 local-data: "covid19pandemic.solutions A 0.0.0.0"
-local-zone: "covid19.pangandarankab.go.id" redirect
-local-data: "covid19.pangandarankab.go.id A 0.0.0.0"
 local-zone: "covid19pangasinan.wearepixelhub.com" redirect
 local-data: "covid19pangasinan.wearepixelhub.com A 0.0.0.0"
 local-zone: "covid19.panuiapp.net" redirect
@@ -18300,6 +18294,8 @@ local-zone: "endofcoronavirus.com" redirect
 local-data: "endofcoronavirus.com A 0.0.0.0"
 local-zone: "en.doihavethecoronavirus.org" redirect
 local-data: "en.doihavethecoronavirus.org A 0.0.0.0"
+local-zone: "enfermedadcoronavirus.com" redirect
+local-data: "enfermedadcoronavirus.com A 0.0.0.0"
 local-zone: "en.fnacvandenborrecovid19.be" redirect
 local-data: "en.fnacvandenborrecovid19.be A 0.0.0.0"
 local-zone: "engine.covid19caribtracker.com" redirect
@@ -19370,6 +19366,8 @@ local-zone: "info-covid19-qualita.com" redirect
 local-data: "info-covid19-qualita.com A 0.0.0.0"
 local-zone: "infocovid.com" redirect
 local-data: "infocovid.com A 0.0.0.0"
+local-zone: "info-entreprises-covid19.economie.gouv.fr" redirect
+local-data: "info-entreprises-covid19.economie.gouv.fr A 0.0.0.0"
 local-zone: "info.lillycovid19testing.com" redirect
 local-data: "info.lillycovid19testing.com A 0.0.0.0"
 local-zone: "infomarcionyrecuperacioncovid19.live" redirect
@@ -25566,8 +25564,6 @@ local-zone: "www.covid19surveyaz.com" redirect
 local-data: "www.covid19surveyaz.com A 0.0.0.0"
 local-zone: "www.covid19survey.ford.com" redirect
 local-data: "www.covid19survey.ford.com A 0.0.0.0"
-local-zone: "www.covid19-survey.ga" redirect
-local-data: "www.covid19-survey.ga A 0.0.0.0"
 local-zone: "www.covid19sv.info" redirect
 local-data: "www.covid19sv.info A 0.0.0.0"
 local-zone: "www.covid19telangana.in" redirect
