@@ -3786,8 +3786,6 @@ local-zone: "coronaviru-realtime.com" redirect
 local-data: "coronaviru-realtime.com A 0.0.0.0"
 local-zone: "coronavirus019.com" redirect
 local-data: "coronavirus019.com A 0.0.0.0"
-local-zone: "coronavirus1001.ru" redirect
-local-data: "coronavirus1001.ru A 0.0.0.0"
 local-zone: "coronavirus100.com" redirect
 local-data: "coronavirus100.com A 0.0.0.0"
 local-zone: "coronavirus101.org" redirect
@@ -10556,8 +10554,6 @@ local-zone: "covid19appeal.net" redirect
 local-data: "covid19appeal.net A 0.0.0.0"
 local-zone: "covid19app.it" redirect
 local-data: "covid19app.it A 0.0.0.0"
-local-zone: "covid19.app.keyreply.com" redirect
-local-data: "covid19.app.keyreply.com A 0.0.0.0"
 local-zone: "covid19apple.com" redirect
 local-data: "covid19apple.com A 0.0.0.0"
 local-zone: "covid19-app.mdeeweb.com" redirect
@@ -13086,6 +13082,8 @@ local-zone: "covid19india-shuklaayush.now.sh" redirect
 local-data: "covid19india-shuklaayush.now.sh A 0.0.0.0"
 local-zone: "covid19india.tech" redirect
 local-data: "covid19india.tech A 0.0.0.0"
+local-zone: "covid19india.today" redirect
+local-data: "covid19india.today A 0.0.0.0"
 local-zone: "covid19india.urpetplaza.in" redirect
 local-data: "covid19india.urpetplaza.in A 0.0.0.0"
 local-zone: "covid19.indigitalit.com" redirect
@@ -13328,8 +13326,6 @@ local-zone: "covid19.jemasih.com" redirect
 local-data: "covid19.jemasih.com A 0.0.0.0"
 local-zone: "covid-19j.gq" redirect
 local-data: "covid-19j.gq A 0.0.0.0"
-local-zone: "covid19.jimmysdixon.com" redirect
-local-data: "covid19.jimmysdixon.com A 0.0.0.0"
 local-zone: "covid19.jipraks.com" redirect
 local-data: "covid19.jipraks.com A 0.0.0.0"
 local-zone: "covid19.jjfl.edu.mx" redirect
@@ -13340,6 +13336,8 @@ local-zone: "covid-19job.com" redirect
 local-data: "covid-19job.com A 0.0.0.0"
 local-zone: "covid19jobmatch.org.au" redirect
 local-data: "covid19jobmatch.org.au A 0.0.0.0"
+local-zone: "covid19jobsboard.com" redirect
+local-data: "covid19jobsboard.com A 0.0.0.0"
 local-zone: "covid19jobs.com" redirect
 local-data: "covid19jobs.com A 0.0.0.0"
 local-zone: "covid19jobsnyc.com" redirect
@@ -17082,6 +17080,8 @@ local-zone: "covid19.zendesk.com" redirect
 local-data: "covid19.zendesk.com A 0.0.0.0"
 local-zone: "covid19.zeus.vision" redirect
 local-data: "covid19.zeus.vision A 0.0.0.0"
+local-zone: "covid19.zinly.pk" redirect
+local-data: "covid19.zinly.pk A 0.0.0.0"
 local-zone: "covid19zombies.com" redirect
 local-data: "covid19zombies.com A 0.0.0.0"
 local-zone: "covid19.zomg.no" redirect
@@ -20280,6 +20280,8 @@ local-zone: "manmadecoronavirus.com" redirect
 local-data: "manmadecoronavirus.com A 0.0.0.0"
 local-zone: "manufacturo-covid19.zendesk.com" redirect
 local-data: "manufacturo-covid19.zendesk.com A 0.0.0.0"
+local-zone: "maolavaoutracovid19.blog" redirect
+local-data: "maolavaoutracovid19.blog A 0.0.0.0"
 local-zone: "mapacoronavirusbrasil.com" redirect
 local-data: "mapacoronavirusbrasil.com A 0.0.0.0"
 local-zone: "mapacoronavirus.es" redirect
@@ -22010,6 +22012,8 @@ local-zone: "protetcorona.com" redirect
 local-data: "protetcorona.com A 0.0.0.0"
 local-zone: "proticovid19.sk" redirect
 local-data: "proticovid19.sk A 0.0.0.0"
+local-zone: "pruebacoronavirus.blogtailandia.com" redirect
+local-data: "pruebacoronavirus.blogtailandia.com A 0.0.0.0"
 local-zone: "pruebadecoronavirus.com" redirect
 local-data: "pruebadecoronavirus.com A 0.0.0.0"
 local-zone: "pruebadecoronavirus.com.mx" redirect
@@ -22502,8 +22506,6 @@ local-zone: "self-check.covid19dz.com" redirect
 local-data: "self-check.covid19dz.com A 0.0.0.0"
 local-zone: "self.covid19.nj.gov" redirect
 local-data: "self.covid19.nj.gov A 0.0.0.0"
-local-zone: "selftestcovid19.in" redirect
-local-data: "selftestcovid19.in A 0.0.0.0"
 local-zone: "selling-despite-covid-19.sandiegoprofessionaljournal.com" redirect
 local-data: "selling-despite-covid-19.sandiegoprofessionaljournal.com A 0.0.0.0"
 local-zone: "sendlovenotcovid19fear.com" redirect
@@ -23896,6 +23898,8 @@ local-zone: "vale-verdecovid19.com.br" redirect
 local-data: "vale-verdecovid19.com.br A 0.0.0.0"
 local-zone: "vanishcorona.com" redirect
 local-data: "vanishcorona.com A 0.0.0.0"
+local-zone: "vaquinhaonlinecoronavirus1.voceexpert.com.br" redirect
+local-data: "vaquinhaonlinecoronavirus1.voceexpert.com.br A 0.0.0.0"
 local-zone: "vax4covid19.com" redirect
 local-data: "vax4covid19.com A 0.0.0.0"
 local-zone: "vaxcoronavirus.com" redirect
@@ -24420,8 +24424,6 @@ local-zone: "ww1.covid19kitz.com" redirect
 local-data: "ww1.covid19kitz.com A 0.0.0.0"
 local-zone: "ww.emergencia.covid19.gob.com" redirect
 local-data: "ww.emergencia.covid19.gob.com A 0.0.0.0"
-local-zone: "www.19covid.us" redirect
-local-data: "www.19covid.us A 0.0.0.0"
 local-zone: "www.19-ncov.org" redirect
 local-data: "www.19-ncov.org A 0.0.0.0"
 local-zone: "www.2020coronavirusprevention.com" redirect
@@ -24626,8 +24628,6 @@ local-zone: "www.coronavirus19.net" redirect
 local-data: "www.coronavirus19.net A 0.0.0.0"
 local-zone: "www.coronavirus19-pandemia.ru" redirect
 local-data: "www.coronavirus19-pandemia.ru A 0.0.0.0"
-local-zone: "www.coronavirus19.pro" redirect
-local-data: "www.coronavirus19.pro A 0.0.0.0"
 local-zone: "www.coronavirus19screening.com" redirect
 local-data: "www.coronavirus19screening.com A 0.0.0.0"
 local-zone: "www.coronavirus-19.tk" redirect
@@ -25790,8 +25790,6 @@ local-zone: "www.covid19signs.store" redirect
 local-data: "www.covid19signs.store A 0.0.0.0"
 local-zone: "www.covid19situations.com" redirect
 local-data: "www.covid19situations.com A 0.0.0.0"
-local-zone: "www.covid-19-skaa.ru" redirect
-local-data: "www.covid-19-skaa.ru A 0.0.0.0"
 local-zone: "www.covid-19smallbusinessgrants.finance-ni.gov.uk" redirect
 local-data: "www.covid-19smallbusinessgrants.finance-ni.gov.uk A 0.0.0.0"
 local-zone: "www.covid-19.smkcordova.sch.id" redirect
