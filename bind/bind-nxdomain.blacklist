@@ -764,6 +764,8 @@ api.staging.covid19.adn.be CNAME .
 *.api.staging.covid19.adn.be CNAME .
 api.track.covid-19.rowles.ch CNAME .
 *.api.track.covid-19.rowles.ch CNAME .
+api.wacovid19stats.com CNAME .
+*.api.wacovid19stats.com CNAME .
 api.worldcoronavirus.org CNAME .
 *.api.worldcoronavirus.org CNAME .
 apoioscovid19.pt CNAME .
@@ -7192,6 +7194,8 @@ coronavirusmarketing.com CNAME .
 *.coronavirusmarketing.com CNAME .
 coronavirusmarketplace.com CNAME .
 *.coronavirusmarketplace.com CNAME .
+coronavirus.markets CNAME .
+*.coronavirus.markets CNAME .
 coronavirusmarkets.com CNAME .
 *.coronavirusmarkets.com CNAME .
 coronavirusmarketwatch.com CNAME .
@@ -9390,6 +9394,8 @@ coronavirustestla.com CNAME .
 *.coronavirustestla.com CNAME .
 coronavirustestlocations.com CNAME .
 *.coronavirustestlocations.com CNAME .
+coronavirustestmelbourne.com.au CNAME .
+*.coronavirustestmelbourne.com.au CNAME .
 coronavirus-test.net CNAME .
 *.coronavirus-test.net CNAME .
 coronavirustestnow.com CNAME .
@@ -10014,6 +10020,8 @@ coronaviruswikipedia.com CNAME .
 *.coronaviruswikipedia.com CNAME .
 coronaviruswiki.ru CNAME .
 *.coronaviruswiki.ru CNAME .
+coronaviruswiki.southbeach.com.au CNAME .
+*.coronaviruswiki.southbeach.com.au CNAME .
 corona-virus.win CNAME .
 *.corona-virus.win CNAME .
 coronavirus.windlog.com.br CNAME .
@@ -12662,6 +12670,8 @@ covid19governmentclaimsgroup.com CNAME .
 *.covid19governmentclaimsgroup.com CNAME .
 covid19governmentclaimsgroup.co.uk CNAME .
 *.covid19governmentclaimsgroup.co.uk CNAME .
+covid19governmenthelp.org CNAME .
+*.covid19governmenthelp.org CNAME .
 covid-19.gov.gr CNAME .
 *.covid-19.gov.gr CNAME .
 covid19.gov.ki CNAME .
@@ -12874,6 +12884,8 @@ covid19-help.online CNAME .
 *.covid19-help.online CNAME .
 covid19help.thepocketcouch.com CNAME .
 *.covid19help.thepocketcouch.com CNAME .
+covid19help.today CNAME .
+*.covid19help.today CNAME .
 covid19help.xavincidev.com CNAME .
 *.covid19help.xavincidev.com CNAME .
 covid19help.zendesk.com CNAME .
@@ -14126,6 +14138,8 @@ covid19mexico.gemathus.mx CNAME .
 *.covid19mexico.gemathus.mx CNAME .
 covid19.mfischer.dev CNAME .
 *.covid19.mfischer.dev CNAME .
+covid19.mgm.pictures CNAME .
+*.covid19.mgm.pictures CNAME .
 covid19mgmt.com CNAME .
 *.covid19mgmt.com CNAME .
 covid19.mhbproject.com CNAME .
@@ -14758,6 +14772,8 @@ covid19patrol.org CNAME .
 *.covid19patrol.org CNAME .
 covid19pause.com CNAME .
 *.covid19pause.com CNAME .
+covid-19pay.online CNAME .
+*.covid-19pay.online CNAME .
 covid-19.paytech.tech CNAME .
 *.covid-19.paytech.tech CNAME .
 covid19pdhelp.com CNAME .
@@ -16030,8 +16046,6 @@ covid19-survey.ga CNAME .
 *.covid19-survey.ga CNAME .
 covid19-survey.net CNAME .
 *.covid19-survey.net CNAME .
-covid19survey.rsham.co.id CNAME .
-*.covid19survey.rsham.co.id CNAME .
 covid-19survival.club CNAME .
 *.covid-19survival.club CNAME .
 covid19-survival.com CNAME .
@@ -16906,8 +16920,6 @@ covid-19viruspandemic.com CNAME .
 *.covid-19viruspandemic.com CNAME .
 covid-19virusprotection.com CNAME .
 *.covid-19virusprotection.com CNAME .
-covid-19-virus.ru CNAME .
-*.covid-19-virus.ru CNAME .
 covid19virus.solutions CNAME .
 *.covid19virus.solutions CNAME .
 covid-19virussupplies.com CNAME .
@@ -17212,6 +17224,8 @@ covid19.zendesk.com CNAME .
 *.covid19.zendesk.com CNAME .
 covid19.zeus.vision CNAME .
 *.covid19.zeus.vision CNAME .
+covid19.zinergo.com CNAME .
+*.covid19.zinergo.com CNAME .
 covid19.zinly.pk CNAME .
 *.covid19.zinly.pk CNAME .
 covid19zombies.com CNAME .
@@ -18902,6 +18916,8 @@ fightcovid19.powerzoneservices.com CNAME .
 *.fightcovid19.powerzoneservices.com CNAME .
 fightcovid19.rumahawan.id CNAME .
 *.fightcovid19.rumahawan.id CNAME .
+fightcovid19.rusamahaque.com CNAME .
+*.fightcovid19.rusamahaque.com CNAME .
 fightcovid19.tectom.com.hk CNAME .
 *.fightcovid19.tectom.com.hk CNAME .
 fightcovid19.today CNAME .
@@ -19004,6 +19020,8 @@ forum.coronavirussuisse.ch CNAME .
 *.forum.coronavirussuisse.ch CNAME .
 forumcovid19.com CNAME .
 *.forumcovid19.com CNAME .
+fralert-mesurespourlutter-contrelecovid19.fr CNAME .
+*.fralert-mesurespourlutter-contrelecovid19.fr CNAME .
 france-consommable-covid19.fr CNAME .
 *.france-consommable-covid19.fr CNAME .
 francovidal.com CNAME .
@@ -19642,8 +19660,6 @@ imcoronavirus.com CNAME .
 *.imcoronavirus.com CNAME .
 impactcovid19.com CNAME .
 *.impactcovid19.com CNAME .
-imprimeurs3d-covid19.rudylacrete.fr CNAME .
-*.imprimeurs3d-covid19.rudylacrete.fr CNAME .
 incorocontrocorona.com CNAME .
 *.incorocontrocorona.com CNAME .
 indemnizacionescoronavirus.net CNAME .
@@ -19864,8 +19880,6 @@ isurvivedthecovid19quarantine.com CNAME .
 *.isurvivedthecovid19quarantine.com CNAME .
 italia-coronavirus.com CNAME .
 *.italia-coronavirus.com CNAME .
-italiacoronavirus.eu CNAME .
-*.italiacoronavirus.eu CNAME .
 italiancoronavirus.com CNAME .
 *.italiancoronavirus.com CNAME .
 italiancovid19free.com CNAME .
@@ -20374,6 +20388,8 @@ mail.covid-19prevention.com CNAME .
 *.mail.covid-19prevention.com CNAME .
 mail.covid19roundtable.com CNAME .
 *.mail.covid19roundtable.com CNAME .
+mail.covid19.web.tr CNAME .
+*.mail.covid19.web.tr CNAME .
 mail.digitalcovid19.com CNAME .
 *.mail.digitalcovid19.com CNAME .
 mail.dons-coronavirus.be CNAME .
@@ -21202,6 +21218,8 @@ nocoronavirus.info CNAME .
 *.nocoronavirus.info CNAME .
 nocoronavirusin.space CNAME .
 *.nocoronavirusin.space CNAME .
+no-corona-virus.org CNAME .
+*.no-corona-virus.org CNAME .
 nocovid19.online CNAME .
 *.nocovid19.online CNAME .
 nocovid19.top CNAME .
@@ -23136,6 +23154,8 @@ stuff.covid19.dougthwaites.nz CNAME .
 *.stuff.covid19.dougthwaites.nz CNAME .
 sudancoronavirus.com CNAME .
 *.sudancoronavirus.com CNAME .
+suivi-covid19.fr CNAME .
+*.suivi-covid19.fr CNAME .
 suministroscoronavirus.com CNAME .
 *.suministroscoronavirus.com CNAME .
 superacaocovid19.com CNAME .
@@ -23392,8 +23412,6 @@ testingcoronavirus.com CNAME .
 *.testingcoronavirus.com CNAME .
 testingcovid19.com CNAME .
 *.testingcovid19.com CNAME .
-testingcovid19.eu CNAME .
-*.testingcovid19.eu CNAME .
 testingcovid19.us CNAME .
 *.testingcovid19.us CNAME .
 testingforcorona.com CNAME .
@@ -24228,6 +24246,8 @@ w3covid-19.org CNAME .
 *.w3covid-19.org CNAME .
 wacoronavirus.com CNAME .
 *.wacoronavirus.com CNAME .
+wacovid19stats.com CNAME .
+*.wacovid19stats.com CNAME .
 wahkiakumcovid19.com CNAME .
 *.wahkiakumcovid19.com CNAME .
 walkinginthetimeofcoronavirus.com CNAME .
@@ -24520,8 +24540,6 @@ wuhandutai.com CNAME .
 *.wuhandutai.com CNAME .
 wuhanfacemask.com CNAME .
 *.wuhanfacemask.com CNAME .
-wuhanfluisjesus.com CNAME .
-*.wuhanfluisjesus.com CNAME .
 wuhanfp163.com CNAME .
 *.wuhanfp163.com CNAME .
 wuhanganmo.com CNAME .
@@ -24636,8 +24654,6 @@ www.agir-covid-19.com CNAME .
 *.www.agir-covid-19.com CNAME .
 www.agir-covid19.com CNAME .
 *.www.agir-covid19.com CNAME .
-www.agir-covid-19.fr CNAME .
-*.www.agir-covid-19.fr CNAME .
 www.agircovid19.fr CNAME .
 *.www.agircovid19.fr CNAME .
 www.agir-covid-19.org CNAME .
