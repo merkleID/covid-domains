@@ -326,7 +326,6 @@ local-zone: "api.covid19.aida.app" static
 local-zone: "api.covid19.arproject.web.id" static
 local-zone: "api-covid-19-br.filipemanuel.repl.run" static
 local-zone: "api.covid-19.clicksandbox.com" static
-local-zone: "api.covid19.commonhelp.it" static
 local-zone: "api.covid-19.digitalie.dev" static
 local-zone: "api.covid19.finspect.me" static
 local-zone: "api.covid-19.forms.digital.nhs.uk" static
@@ -390,6 +389,9 @@ local-zone: "app.covid19govt.xyz" static
 local-zone: "appcovid19.org" static
 local-zone: "appelenrantcovid19.net.ua" static
 local-zone: "app.fightcovid19.ai" static
+local-zone: "apply.coronavirusrelief.co" static
+local-zone: "apply.floridacoronavirusbusinessloans.com" static
+local-zone: "apply.floridacoronavirusrelief.com" static
 local-zone: "appquarantenacovid19.altervista.org" static
 local-zone: "apreslecoronavirus.org" static
 local-zone: "arabiacoronavirus.com" static
@@ -1063,7 +1065,6 @@ local-zone: "coronacountryrx.com" static
 local-zone: "coronacounts.com" static
 local-zone: "coronacovid19.es" static
 local-zone: "corona-covid19-hilfe.de" static
-local-zone: "coronacovid19.it" static
 local-zone: "coronacovid19.ml" static
 local-zone: "coronacovid19mutation.com" static
 local-zone: "coronacovid-19.online" static
@@ -3230,6 +3231,7 @@ local-zone: "coronavirusinf.com" static
 local-zone: "coronavirusinfection.report" static
 local-zone: "coronavirusinfectionreports.com" static
 local-zone: "coronavirus.infectious-disease.info" static
+local-zone: "coronavirus.info" static
 local-zone: "coronavirus-info24.ru" static
 local-zone: "coronavirusinfoapp.com" static
 local-zone: "coronavirus-info.be" static
@@ -3422,6 +3424,7 @@ local-zone: "coronavirus-lawyers.com" static
 local-zone: "coronaviruslawyersnyc.com" static
 local-zone: "coronaviruslawyerusa.com" static
 local-zone: "coronaviruslaywer.com" static
+local-zone: "coronaviruslazio.it" static
 local-zone: "coronavirus-l.com" static
 local-zone: "coronavirusl.com" static
 local-zone: "coronavirusleader.com" static
@@ -4416,6 +4419,7 @@ local-zone: "coronavirussoft.com" static
 local-zone: "coronavirussoftware.com" static
 local-zone: "coronavirus-soigner.com" static
 local-zone: "coronavirussolutions.ca" static
+local-zone: "coronavirus-solutions.info" static
 local-zone: "coronavirussolutions.life" static
 local-zone: "coronavirussomalia.com" static
 local-zone: "coronavirus.somemaps.com" static
@@ -5432,6 +5436,7 @@ local-zone: "covid19businessupdate.com" static
 local-zone: "covid-19buzz.com" static
 local-zone: "covid19.buzzme.pro" static
 local-zone: "covid-19.bvrs.me" static
+local-zone: "covid19bvsspa.info" static
 local-zone: "covid19-bw.com" static
 local-zone: "covid19.bzh" static
 local-zone: "covid-19.c0l.repl.run" static
@@ -6238,7 +6243,6 @@ local-zone: "covid19governmentclaimsgroup.com" static
 local-zone: "covid19governmentclaimsgroup.co.uk" static
 local-zone: "covid-19.gov.gr" static
 local-zone: "covid19.gov.ki" static
-local-zone: "covid19.gov.la" static
 local-zone: "covid19govloan.promisedirect.co.uk" static
 local-zone: "covid19.govt.nz" static
 local-zone: "covid19-gov.yext.com" static
@@ -6852,7 +6856,6 @@ local-zone: "covid19.manychat.com" static
 local-zone: "covid19mapachile.cl" static
 local-zone: "covid19mapa.es" static
 local-zone: "covid19map.altervista.org" static
-local-zone: "covid19-map.cdcmoh.gov.kh" static
 local-zone: "covid19map-dev.health.wolterskluwer.io" static
 local-zone: "covid19maping.com" static
 local-zone: "covid19map.io" static
@@ -7157,6 +7160,7 @@ local-zone: "covid-19.oncash.tn" static
 local-zone: "covid19onderzoek.nl" static
 local-zone: "covid19.onellar.com" static
 local-zone: "covid-19.oniosoft.com" static
+local-zone: "covid19.onitec.ch" static
 local-zone: "covid19.onl" static
 local-zone: "covid19.online-apply.fr" static
 local-zone: "covid19onlinedr.com" static
@@ -7302,7 +7306,6 @@ local-zone: "covid-19.plyk.io" static
 local-zone: "covid19-poker.com" static
 local-zone: "covid19police.capulustech.com" static
 local-zone: "covid19policies.com" static
-local-zone: "covid19policoro.it" static
 local-zone: "covid19.polsa.ac.id" static
 local-zone: "covid-19.ponticadev.com" static
 local-zone: "covid19porn.com" static
@@ -7372,7 +7375,6 @@ local-zone: "covid-19-protection.co.uk" static
 local-zone: "covid19protection.net" static
 local-zone: "covid-19protectionproduct.com" static
 local-zone: "covid19protection.space" static
-local-zone: "covid19-protezioni.it" static
 local-zone: "covid19protocol.com" static
 local-zone: "covid-19.providence.edu" static
 local-zone: "covid19.proxus.dk" static
@@ -7713,7 +7715,6 @@ local-zone: "covid19.skotial.net" static
 local-zone: "covid19slayer.site" static
 local-zone: "covid-19.sledilnik.org" static
 local-zone: "covid-19.slj.me" static
-local-zone: "covid-19-sls.netseven.it" static
 local-zone: "covid19sl.tk" static
 local-zone: "covid19.smartbojonegoro.id" static
 local-zone: "covid-19.smart-digital.om" static
@@ -8043,6 +8044,7 @@ local-zone: "covid19textbot.com" static
 local-zone: "covid19.thaich8.com" static
 local-zone: "covid19thai.com" static
 local-zone: "covid19thaisupport.edmserviceth.com" static
+local-zone: "covid19thaisupport.eu" static
 local-zone: "covid19th.com" static
 local-zone: "covid19theband.com" static
 local-zone: "covid19.thecenterformissingandexploitedsystems.com" static
@@ -8264,7 +8266,6 @@ local-zone: "covid19.vantagestudio.net" static
 local-zone: "covid19.vanzotech.com" static
 local-zone: "covid19.vapp.vn" static
 local-zone: "covid19vaxdev.com" static
-local-zone: "covid19vaxdev.info" static
 local-zone: "covid19vaxdev.net" static
 local-zone: "covid19vaxdev.org" static
 local-zone: "covid-19.vc" static
@@ -10150,6 +10151,7 @@ local-zone: "medicarecoronavirus.com" static
 local-zone: "medicarecoronavirustest.com" static
 local-zone: "medicationcorona.com" static
 local-zone: "megahackcovid19comunicacao.shawee.io" static
+local-zone: "megahackcovid19latam.shawee.io" static
 local-zone: "melcovid19checker.com" static
 local-zone: "memescovid19.com" static
 local-zone: "memorialcoronavirus.com" static
@@ -10527,7 +10529,6 @@ local-zone: "officialcovid19testkit.com" static
 local-zone: "offmls-covid19.org" static
 local-zone: "ohcoronavirus.com" static
 local-zone: "ohiocoronavirus.com" static
-local-zone: "oita.stopcovid19.jp" static
 local-zone: "okayama.stopcovid19.jp" static
 local-zone: "okaycovid.com" static
 local-zone: "okbroadcasterscovid19.com" static
