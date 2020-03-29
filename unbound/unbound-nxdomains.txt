@@ -6189,7 +6189,6 @@ local-zone: "covid19.geospatials.com.my" static
 local-zone: "covid19gestio.catsalut.cat" static
 local-zone: "covid19.getacafe.com" static
 local-zone: "covid19.getambee.com" static
-local-zone: "covid19-geteccu.webcastlive.es" static
 local-zone: "covid-19.getmydna.com" static
 local-zone: "covid19.getpy.biz" static
 local-zone: "covid19.ghelt.com.br" static
@@ -9121,6 +9120,7 @@ local-zone: "emergenzacovid19-hypovbg.it" static
 local-zone: "emergenzacovid19.insuditalia.it" static
 local-zone: "emergenza-covid-19.xfire.it" static
 local-zone: "emergiacia.covid19.gob.com" static
+local-zone: "emergia.covid19.gob.com" static
 local-zone: "emergiscoronavirus.nl" static
 local-zone: "emergncia.covid19.g.sv" static
 local-zone: "employeecoronavirus.com" static
@@ -9211,6 +9211,7 @@ local-zone: "eshop-covid19.fr" static
 local-zone: "es.monmasquecovid19.com" static
 local-zone: "esn-covid19.es" static
 local-zone: "espandemic.com" static
+local-zone: "estadistica-de-coronavirus.es" static
 local-zone: "estadisticascoronavirus.com" static
 local-zone: "estrescoronavirus.com" static
 local-zone: "es.wascoshermangilliamcovid-19.com" static
@@ -9660,6 +9661,7 @@ local-zone: "indiafightscovid19.com" static
 local-zone: "indianacoronavirus.com" static
 local-zone: "indianapoliscoronavirus.com" static
 local-zone: "indonesiacoronavirus.com" static
+local-zone: "infectadoscovid19.es" static
 local-zone: "infectionscoronavirus.com" static
 local-zone: "infezionecoronavirus.it" static
 local-zone: "infocoronavirusbr.com" static
@@ -10534,6 +10536,7 @@ local-zone: "omahacoronavirus.com" static
 local-zone: "oncovid19.myownboss.ca" static
 local-zone: "ondetemcoronavirus.com.br" static
 local-zone: "onefqjh8aqc28t9nf.covid-19tv.gov.au" static
+local-zone: "onlineberatung-coronavirus.de" static
 local-zone: "onlinecoronachecker.com" static
 local-zone: "onlinecoronatest.com" static
 local-zone: "onlinecoronavirusclinic.com" static
@@ -10781,6 +10784,7 @@ local-zone: "potcurescoronavirus.com" static
 local-zone: "potcurescoronavirus.net" static
 local-zone: "ppcovid19.tapinkab.go.id" static
 local-zone: "ppecovid19.com" static
+local-zone: "prawdaocoronavirusie.pl" static
 local-zone: "praycoronavirus.com" static
 local-zone: "praycovid19.com" static
 local-zone: "prayeristheanswertocovid19.com" static
@@ -11867,6 +11871,7 @@ local-zone: "viruscovid-19.ro" static
 local-zone: "virus-covid19.ru" static
 local-zone: "viruscovid19.sk" static
 local-zone: "viruspandemic.net" static
+local-zone: "visio-coronavirus.fr" static
 local-zone: "vitaminsforcoronavirus.com" static
 local-zone: "viviannincoronato.com" static
 local-zone: "voiceofcorona.com" static
@@ -12994,6 +12999,7 @@ local-zone: "www.nebraskabroadcasterscovid19resources.com" static
 local-zone: "www.nechcicovid19.cz" static
 local-zone: "www.newcoronavirus2019.info" static
 local-zone: "www.newcoronavirus.co" static
+local-zone: "www.nomorecovid-19.com" static
 local-zone: "www.nonprofitcovid19.org" static
 local-zone: "www.normalityforcovid-19.com" static
 local-zone: "www.notcoronavirusnews.com" static

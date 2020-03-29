@@ -12380,8 +12380,6 @@ local-zone: "covid19.getacafe.com" redirect
 local-data: "covid19.getacafe.com A 0.0.0.0"
 local-zone: "covid19.getambee.com" redirect
 local-data: "covid19.getambee.com A 0.0.0.0"
-local-zone: "covid19-geteccu.webcastlive.es" redirect
-local-data: "covid19-geteccu.webcastlive.es A 0.0.0.0"
 local-zone: "covid-19.getmydna.com" redirect
 local-data: "covid-19.getmydna.com A 0.0.0.0"
 local-zone: "covid19.getpy.biz" redirect
@@ -18244,6 +18242,8 @@ local-zone: "emergenza-covid-19.xfire.it" redirect
 local-data: "emergenza-covid-19.xfire.it A 0.0.0.0"
 local-zone: "emergiacia.covid19.gob.com" redirect
 local-data: "emergiacia.covid19.gob.com A 0.0.0.0"
+local-zone: "emergia.covid19.gob.com" redirect
+local-data: "emergia.covid19.gob.com A 0.0.0.0"
 local-zone: "emergiscoronavirus.nl" redirect
 local-data: "emergiscoronavirus.nl A 0.0.0.0"
 local-zone: "emergncia.covid19.g.sv" redirect
@@ -18424,6 +18424,8 @@ local-zone: "esn-covid19.es" redirect
 local-data: "esn-covid19.es A 0.0.0.0"
 local-zone: "espandemic.com" redirect
 local-data: "espandemic.com A 0.0.0.0"
+local-zone: "estadistica-de-coronavirus.es" redirect
+local-data: "estadistica-de-coronavirus.es A 0.0.0.0"
 local-zone: "estadisticascoronavirus.com" redirect
 local-data: "estadisticascoronavirus.com A 0.0.0.0"
 local-zone: "estrescoronavirus.com" redirect
@@ -19322,6 +19324,8 @@ local-zone: "indianapoliscoronavirus.com" redirect
 local-data: "indianapoliscoronavirus.com A 0.0.0.0"
 local-zone: "indonesiacoronavirus.com" redirect
 local-data: "indonesiacoronavirus.com A 0.0.0.0"
+local-zone: "infectadoscovid19.es" redirect
+local-data: "infectadoscovid19.es A 0.0.0.0"
 local-zone: "infectionscoronavirus.com" redirect
 local-data: "infectionscoronavirus.com A 0.0.0.0"
 local-zone: "infezionecoronavirus.it" redirect
@@ -21070,6 +21074,8 @@ local-zone: "ondetemcoronavirus.com.br" redirect
 local-data: "ondetemcoronavirus.com.br A 0.0.0.0"
 local-zone: "onefqjh8aqc28t9nf.covid-19tv.gov.au" redirect
 local-data: "onefqjh8aqc28t9nf.covid-19tv.gov.au A 0.0.0.0"
+local-zone: "onlineberatung-coronavirus.de" redirect
+local-data: "onlineberatung-coronavirus.de A 0.0.0.0"
 local-zone: "onlinecoronachecker.com" redirect
 local-data: "onlinecoronachecker.com A 0.0.0.0"
 local-zone: "onlinecoronatest.com" redirect
@@ -21564,6 +21570,8 @@ local-zone: "ppcovid19.tapinkab.go.id" redirect
 local-data: "ppcovid19.tapinkab.go.id A 0.0.0.0"
 local-zone: "ppecovid19.com" redirect
 local-data: "ppecovid19.com A 0.0.0.0"
+local-zone: "prawdaocoronavirusie.pl" redirect
+local-data: "prawdaocoronavirusie.pl A 0.0.0.0"
 local-zone: "praycoronavirus.com" redirect
 local-data: "praycoronavirus.com A 0.0.0.0"
 local-zone: "praycovid19.com" redirect
@@ -23736,6 +23744,8 @@ local-zone: "viruscovid19.sk" redirect
 local-data: "viruscovid19.sk A 0.0.0.0"
 local-zone: "viruspandemic.net" redirect
 local-data: "viruspandemic.net A 0.0.0.0"
+local-zone: "visio-coronavirus.fr" redirect
+local-data: "visio-coronavirus.fr A 0.0.0.0"
 local-zone: "vitaminsforcoronavirus.com" redirect
 local-data: "vitaminsforcoronavirus.com A 0.0.0.0"
 local-zone: "viviannincoronato.com" redirect
@@ -25990,6 +26000,8 @@ local-zone: "www.newcoronavirus2019.info" redirect
 local-data: "www.newcoronavirus2019.info A 0.0.0.0"
 local-zone: "www.newcoronavirus.co" redirect
 local-data: "www.newcoronavirus.co A 0.0.0.0"
+local-zone: "www.nomorecovid-19.com" redirect
+local-data: "www.nomorecovid-19.com A 0.0.0.0"
 local-zone: "www.nonprofitcovid19.org" redirect
 local-data: "www.nonprofitcovid19.org A 0.0.0.0"
 local-zone: "www.normalityforcovid-19.com" redirect
