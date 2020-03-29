@@ -458,8 +458,6 @@ local-zone: "anticoronavirus.cloud" redirect
 local-data: "anticoronavirus.cloud A 0.0.0.0"
 local-zone: "anticoronavirus.com.ua" redirect
 local-data: "anticoronavirus.com.ua A 0.0.0.0"
-local-zone: "anticoronavirus.cz" redirect
-local-data: "anticoronavirus.cz A 0.0.0.0"
 local-zone: "anticoronavirusdiet.com" redirect
 local-data: "anticoronavirusdiet.com A 0.0.0.0"
 local-zone: "anticoronavirusdrugs.com" redirect
@@ -1604,6 +1602,8 @@ local-zone: "connecticutcoronaviruscleaning.com" redirect
 local-data: "connecticutcoronaviruscleaning.com A 0.0.0.0"
 local-zone: "connecticutcoronavirus.com" redirect
 local-data: "connecticutcoronavirus.com A 0.0.0.0"
+local-zone: "connectingforhumanity-covid19.com" redirect
+local-data: "connectingforhumanity-covid19.com A 0.0.0.0"
 local-zone: "consejoscoronavirus.net" redirect
 local-data: "consejoscoronavirus.net A 0.0.0.0"
 local-zone: "construction.coronavirustestingcenters.org" redirect
@@ -8724,6 +8724,8 @@ local-zone: "coronavirusseville.com" redirect
 local-data: "coronavirusseville.com A 0.0.0.0"
 local-zone: "coronavirussex.com" redirect
 local-data: "coronavirussex.com A 0.0.0.0"
+local-zone: "coronavirussex.de" redirect
+local-data: "coronavirussex.de A 0.0.0.0"
 local-zone: "coronavirus-sf.com" redirect
 local-data: "coronavirus-sf.com A 0.0.0.0"
 local-zone: "coronavirussf.com" redirect
@@ -11580,6 +11582,8 @@ local-zone: "covid19.dashiell.w2odst.com" redirect
 local-data: "covid19.dashiell.w2odst.com A 0.0.0.0"
 local-zone: "covid19.dashiell.w2ostag.com" redirect
 local-data: "covid19.dashiell.w2ostag.com A 0.0.0.0"
+local-zone: "covid19dataanalytics.com" redirect
+local-data: "covid19dataanalytics.com A 0.0.0.0"
 local-zone: "covid19data.bungokab.go.id" redirect
 local-data: "covid19data.bungokab.go.id A 0.0.0.0"
 local-zone: "covid19.dataclue.bi" redirect
@@ -12568,8 +12572,6 @@ local-zone: "covid19.h2.cl" redirect
 local-data: "covid19.h2.cl A 0.0.0.0"
 local-zone: "covid19hackathon.com" redirect
 local-data: "covid19hackathon.com A 0.0.0.0"
-local-zone: "covid19.hackerspace.sv" redirect
-local-data: "covid19.hackerspace.sv A 0.0.0.0"
 local-zone: "covid19.hackhub.cn" redirect
 local-data: "covid19.hackhub.cn A 0.0.0.0"
 local-zone: "covid19.haidarhawthorne.com" redirect
@@ -12934,6 +12936,8 @@ local-zone: "covid19-impfung.com" redirect
 local-data: "covid19-impfung.com A 0.0.0.0"
 local-zone: "covid19impfung.com" redirect
 local-data: "covid19impfung.com A 0.0.0.0"
+local-zone: "covid19-ims.info-aid.net" redirect
+local-data: "covid19-ims.info-aid.net A 0.0.0.0"
 local-zone: "covid19imt.garp.sandbox.jxeeno.com" redirect
 local-data: "covid19imt.garp.sandbox.jxeeno.com A 0.0.0.0"
 local-zone: "covid19.inapp.io" redirect
@@ -18506,6 +18510,8 @@ local-zone: "fcukcoronavirus.com" redirect
 local-data: "fcukcoronavirus.com A 0.0.0.0"
 local-zone: "fdacoronavirustestkit.com" redirect
 local-data: "fdacoronavirustestkit.com A 0.0.0.0"
+local-zone: "fd-vigilanciacovid19-prod.azurefd.net" redirect
+local-data: "fd-vigilanciacovid19-prod.azurefd.net A 0.0.0.0"
 local-zone: "fearepidemic.com" redirect
 local-data: "fearepidemic.com A 0.0.0.0"
 local-zone: "feat-covid-19.staging.teamup.net" redirect
@@ -18716,6 +18722,8 @@ local-zone: "fuckthecoronavirus.org" redirect
 local-data: "fuckthecoronavirus.org A 0.0.0.0"
 local-zone: "fuckucorona.com" redirect
 local-data: "fuckucorona.com A 0.0.0.0"
+local-zone: "fuckyoucoronavirus.club" redirect
+local-data: "fuckyoucoronavirus.club A 0.0.0.0"
 local-zone: "fuckyoucoronavirus.com.ar" redirect
 local-data: "fuckyoucoronavirus.com.ar A 0.0.0.0"
 local-zone: "fuckyoucovid19.pt" redirect
@@ -19826,6 +19834,8 @@ local-zone: "learningduringcovid19.com" redirect
 local-data: "learningduringcovid19.com A 0.0.0.0"
 local-zone: "lebanoncorona.com" redirect
 local-data: "lebanoncorona.com A 0.0.0.0"
+local-zone: "lecoronavirus.fr" redirect
+local-data: "lecoronavirus.fr A 0.0.0.0"
 local-zone: "ledc-covid19.com" redirect
 local-data: "ledc-covid19.com A 0.0.0.0"
 local-zone: "legalhelpcoronavirus.com" redirect
@@ -20232,8 +20242,6 @@ local-zone: "masques-coronavirus.site" redirect
 local-data: "masques-coronavirus.site A 0.0.0.0"
 local-zone: "masques-coronavirus.store" redirect
 local-data: "masques-coronavirus.store A 0.0.0.0"
-local-zone: "masques-covid19.fr" redirect
-local-data: "masques-covid19.fr A 0.0.0.0"
 local-zone: "massachusettscoronavirus.com" redirect
 local-data: "massachusettscoronavirus.com A 0.0.0.0"
 local-zone: "master.covid-19-e-learning.sevastjanova.lingvis.io" redirect
@@ -22846,8 +22854,6 @@ local-zone: "tanzaniacoronavirus.com" redirect
 local-data: "tanzaniacoronavirus.com A 0.0.0.0"
 local-zone: "taskforcecorona.com" redirect
 local-data: "taskforcecorona.com A 0.0.0.0"
-local-zone: "tccoronavirus.fr" redirect
-local-data: "tccoronavirus.fr A 0.0.0.0"
 local-zone: "tcm-covid19.org" redirect
 local-data: "tcm-covid19.org A 0.0.0.0"
 local-zone: "teams-gegen-covid19.de" redirect
@@ -24924,6 +24930,8 @@ local-zone: "www.covid19.admin.ch" redirect
 local-data: "www.covid19.admin.ch A 0.0.0.0"
 local-zone: "www.covid19admin.eql.ai" redirect
 local-data: "www.covid19admin.eql.ai A 0.0.0.0"
+local-zone: "www.covid19admin.gooditsolutions.ca" redirect
+local-data: "www.covid19admin.gooditsolutions.ca A 0.0.0.0"
 local-zone: "www.covid19.agiletechaccounting.com" redirect
 local-data: "www.covid19.agiletechaccounting.com A 0.0.0.0"
 local-zone: "www.covid19-aid.de" redirect
@@ -25064,6 +25072,8 @@ local-zone: "www.covid19crisismanagement.com" redirect
 local-data: "www.covid19crisismanagement.com A 0.0.0.0"
 local-zone: "www.covid19dailyinfo.com" redirect
 local-data: "www.covid19dailyinfo.com A 0.0.0.0"
+local-zone: "www.covid19dataanalytics.com" redirect
+local-data: "www.covid19dataanalytics.com A 0.0.0.0"
 local-zone: "www.covid19-dataexchange.org" redirect
 local-data: "www.covid19-dataexchange.org A 0.0.0.0"
 local-zone: "www.covid19deal.com" redirect
@@ -25556,6 +25566,8 @@ local-zone: "www.covid19surveyaz.com" redirect
 local-data: "www.covid19surveyaz.com A 0.0.0.0"
 local-zone: "www.covid19survey.ford.com" redirect
 local-data: "www.covid19survey.ford.com A 0.0.0.0"
+local-zone: "www.covid19-survey.ga" redirect
+local-data: "www.covid19-survey.ga A 0.0.0.0"
 local-zone: "www.covid19sv.info" redirect
 local-data: "www.covid19sv.info A 0.0.0.0"
 local-zone: "www.covid19telangana.in" redirect
@@ -25788,6 +25800,8 @@ local-zone: "www.fuckthecoronavirus.org" redirect
 local-data: "www.fuckthecoronavirus.org A 0.0.0.0"
 local-zone: "www.fuckthecovid19.com" redirect
 local-data: "www.fuckthecovid19.com A 0.0.0.0"
+local-zone: "www.fuckyoucoronavirus.club" redirect
+local-data: "www.fuckyoucoronavirus.club A 0.0.0.0"
 local-zone: "www.fuckyoucoronavirus.com.ar" redirect
 local-data: "www.fuckyoucoronavirus.com.ar A 0.0.0.0"
 local-zone: "www.fucovid19.net" redirect
@@ -26082,6 +26096,8 @@ local-zone: "www.overcovid19.nl" redirect
 local-data: "www.overcovid19.nl A 0.0.0.0"
 local-zone: "www.packanticontagiocoronavirus.com" redirect
 local-data: "www.packanticontagiocoronavirus.com A 0.0.0.0"
+local-zone: "www.pakcoronavirus.com" redirect
+local-data: "www.pakcoronavirus.com A 0.0.0.0"
 local-zone: "www.pandemia-covid19.ru" redirect
 local-data: "www.pandemia-covid19.ru A 0.0.0.0"
 local-zone: "www.pandemic-covid19.online" redirect

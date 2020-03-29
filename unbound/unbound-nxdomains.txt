@@ -228,7 +228,6 @@ local-zone: "anticoronavirus.belworld.net" static
 local-zone: "anticoronaviruscare.com" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirus.com.ua" static
-local-zone: "anticoronavirus.cz" static
 local-zone: "anticoronavirusdiet.com" static
 local-zone: "anticoronavirusdrugs.com" static
 local-zone: "anti-coronaviruses.com" static
@@ -801,6 +800,7 @@ local-zone: "confinement-coronavirus.site" static
 local-zone: "congocoronavirus.com" static
 local-zone: "connecticutcoronaviruscleaning.com" static
 local-zone: "connecticutcoronavirus.com" static
+local-zone: "connectingforhumanity-covid19.com" static
 local-zone: "consejoscoronavirus.net" static
 local-zone: "construction.coronavirustestingcenters.org" static
 local-zone: "consultaparacoronavirus.com" static
@@ -4361,6 +4361,7 @@ local-zone: "coronavirus.sevenstar.org" static
 local-zone: "coronavirussevilla.com" static
 local-zone: "coronavirusseville.com" static
 local-zone: "coronavirussex.com" static
+local-zone: "coronavirussex.de" static
 local-zone: "coronavirus-sf.com" static
 local-zone: "coronavirussf.com" static
 local-zone: "coronavirus.sgteste.com.br" static
@@ -5789,6 +5790,7 @@ local-zone: "covid19-dashboard-nextjs.now.sh" static
 local-zone: "covid19dashboard.online" static
 local-zone: "covid19.dashiell.w2odst.com" static
 local-zone: "covid19.dashiell.w2ostag.com" static
+local-zone: "covid19dataanalytics.com" static
 local-zone: "covid19data.bungokab.go.id" static
 local-zone: "covid19.dataclue.bi" static
 local-zone: "covid19data.co.il" static
@@ -6283,7 +6285,6 @@ local-zone: "covid19.gy" static
 local-zone: "covid19gy.com" static
 local-zone: "covid19.h2.cl" static
 local-zone: "covid19hackathon.com" static
-local-zone: "covid19.hackerspace.sv" static
 local-zone: "covid19.hackhub.cn" static
 local-zone: "covid19.haidarhawthorne.com" static
 local-zone: "covid19.hamels.be" static
@@ -6466,6 +6467,7 @@ local-zone: "covid19impacto.org" static
 local-zone: "covid-19-impfung.com" static
 local-zone: "covid19-impfung.com" static
 local-zone: "covid19impfung.com" static
+local-zone: "covid19-ims.info-aid.net" static
 local-zone: "covid19imt.garp.sandbox.jxeeno.com" static
 local-zone: "covid19.inapp.io" static
 local-zone: "covid19inazerbaijan.info" static
@@ -9252,6 +9254,7 @@ local-zone: "fckcovid19.zendesk.com" static
 local-zone: "fcovid19.org" static
 local-zone: "fcukcoronavirus.com" static
 local-zone: "fdacoronavirustestkit.com" static
+local-zone: "fd-vigilanciacovid19-prod.azurefd.net" static
 local-zone: "fearepidemic.com" static
 local-zone: "feat-covid-19.staging.teamup.net" static
 local-zone: "feature-covid-19-text.praxis-hecker-thome.stage.km2.io" static
@@ -9357,6 +9360,7 @@ local-zone: "fuckoffcoronaviruswall.com" static
 local-zone: "fuckthecoronavirus.com" static
 local-zone: "fuckthecoronavirus.org" static
 local-zone: "fuckucorona.com" static
+local-zone: "fuckyoucoronavirus.club" static
 local-zone: "fuckyoucoronavirus.com.ar" static
 local-zone: "fuckyoucovid19.pt" static
 local-zone: "fucorona.com" static
@@ -9912,6 +9916,7 @@ local-zone: "lcovidcure.com" static
 local-zone: "learncoronavirus.life" static
 local-zone: "learningduringcovid19.com" static
 local-zone: "lebanoncorona.com" static
+local-zone: "lecoronavirus.fr" static
 local-zone: "ledc-covid19.com" static
 local-zone: "legalhelpcoronavirus.com" static
 local-zone: "leknacoronavirus.cz" static
@@ -10115,7 +10120,6 @@ local-zone: "masques-coronavirus.info" static
 local-zone: "masquescoronavirus.shop" static
 local-zone: "masques-coronavirus.site" static
 local-zone: "masques-coronavirus.store" static
-local-zone: "masques-covid19.fr" static
 local-zone: "massachusettscoronavirus.com" static
 local-zone: "master.covid-19-e-learning.sevastjanova.lingvis.io" static
 local-zone: "matchcorona.com" static
@@ -11422,7 +11426,6 @@ local-zone: "takecoronavirustest.com" static
 local-zone: "takecovid19pill.com" static
 local-zone: "tanzaniacoronavirus.com" static
 local-zone: "taskforcecorona.com" static
-local-zone: "tccoronavirus.fr" static
 local-zone: "tcm-covid19.org" static
 local-zone: "teams-gegen-covid19.de" static
 local-zone: "tebingtinggiperangicovid19.tebingtinggikota.go.id" static
@@ -12461,6 +12464,7 @@ local-zone: "www.covid19a.com" static
 local-zone: "www.covid19actnow.co.uk" static
 local-zone: "www.covid19.admin.ch" static
 local-zone: "www.covid19admin.eql.ai" static
+local-zone: "www.covid19admin.gooditsolutions.ca" static
 local-zone: "www.covid19.agiletechaccounting.com" static
 local-zone: "www.covid19-aid.de" static
 local-zone: "www.covid19alaska.com" static
@@ -12531,6 +12535,7 @@ local-zone: "www.covid-19cover.com" static
 local-zone: "www.covid19cpd.com" static
 local-zone: "www.covid19crisismanagement.com" static
 local-zone: "www.covid19dailyinfo.com" static
+local-zone: "www.covid19dataanalytics.com" static
 local-zone: "www.covid19-dataexchange.org" static
 local-zone: "www.covid19deal.com" static
 local-zone: "www.covid19-decontamination.com" static
@@ -12777,6 +12782,7 @@ local-zone: "www.covid19-supply-chain-models.org" static
 local-zone: "www.covid19-support.org" static
 local-zone: "www.covid19surveyaz.com" static
 local-zone: "www.covid19survey.ford.com" static
+local-zone: "www.covid19-survey.ga" static
 local-zone: "www.covid19sv.info" static
 local-zone: "www.covid19telangana.in" static
 local-zone: "www.covid19-testing.churchofthehighlands.com" static
@@ -12893,6 +12899,7 @@ local-zone: "www.fuckcovid-19.ca" static
 local-zone: "www.fuckcovid19shirt.com" static
 local-zone: "www.fuckthecoronavirus.org" static
 local-zone: "www.fuckthecovid19.com" static
+local-zone: "www.fuckyoucoronavirus.club" static
 local-zone: "www.fuckyoucoronavirus.com.ar" static
 local-zone: "www.fucovid19.net" static
 local-zone: "www.gemeinsam-gegen-covid19.de" static
@@ -13040,6 +13047,7 @@ local-zone: "www.ost-covid19.com" static
 local-zone: "www.ourcovid19.life" static
 local-zone: "www.overcovid19.nl" static
 local-zone: "www.packanticontagiocoronavirus.com" static
+local-zone: "www.pakcoronavirus.com" static
 local-zone: "www.pandemia-covid19.ru" static
 local-zone: "www.pandemic-covid19.online" static
 local-zone: "www.pandemic-covid19.ru" static
