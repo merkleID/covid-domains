@@ -72,6 +72,7 @@ local-zone: "650-covid-19-test.exactsciences.net" static
 local-zone: "772coronavirus.com" static
 local-zone: "8335.covid19.moh.gov.et" static
 local-zone: "859ab4b8.test.covid-19.forms.digital.nhs.uk" static
+local-zone: "86-covid-19.com" static
 local-zone: "87corona.com" static
 local-zone: "88covid19.com" static
 local-zone: "88peopleofwuhan.com" static
@@ -438,7 +439,6 @@ local-zone: "attestation-covid19.fr" static
 local-zone: "attestation-deplacement-coronavirus.fr" static
 local-zone: "attorneyforcoronavirus.com" static
 local-zone: "au.coronavirusdating.com" static
-local-zone: "auscovid19supplies.com" static
 local-zone: "austincoronavirusdisinfection.com" static
 local-zone: "austincovid-19disinfection.com" static
 local-zone: "austincovid19disinfection.com" static
@@ -2449,6 +2449,7 @@ local-zone: "coronaviruscomedy.com.au" static
 local-zone: "coronaviruscomedyfactory.com" static
 local-zone: "coronaviruscomfort.com" static
 local-zone: "coronavirus.com.gh" static
+local-zone: "coronavirus.com.hk" static
 local-zone: "coronaviruscommercialcleaning.com" static
 local-zone: "coronaviruscommunity.com" static
 local-zone: "coronaviruscommunity.co.uk" static
@@ -6818,6 +6819,7 @@ local-zone: "covid19livedata.org" static
 local-zone: "covid19-live.diskusicantik.com" static
 local-zone: "covid19liveinfo.rubymega.com" static
 local-zone: "covid-19.liveinfotime.com" static
+local-zone: "covid19live.it" static
 local-zone: "covid19live.kz" static
 local-zone: "covid19-live.ml" static
 local-zone: "covid19live.now.sh" static
@@ -7571,6 +7573,7 @@ local-zone: "covid19risk.ai" static
 local-zone: "covid19riskassessment.com" static
 local-zone: "covid19risk.info" static
 local-zone: "covid-19.riskline.com" static
+local-zone: "covid19riskscanner.com" static
 local-zone: "covid-19risks.com" static
 local-zone: "covid19risks.com" static
 local-zone: "covid19.rnbo.gov.ua" static
@@ -8101,7 +8104,6 @@ local-zone: "covid19thai.com" static
 local-zone: "covid19thaisupport.edmserviceth.com" static
 local-zone: "covid19thaisupport.eu" static
 local-zone: "covid19th.com" static
-local-zone: "covid19.theatmojo.com" static
 local-zone: "covid19theband.com" static
 local-zone: "covid19.thecenterformissingandexploitedsystems.com" static
 local-zone: "covid19.theclaussengroup.com" static
@@ -11913,6 +11915,7 @@ local-zone: "verizon19covid.com" static
 local-zone: "verizoncovid19.info" static
 local-zone: "vermontcoronavirus.com" static
 local-zone: "vi.coronavirus-novaregion.org" static
+local-zone: "vi-covid19.ru" static
 local-zone: "video.coronavirus-you.ru" static
 local-zone: "video.covid19webapp.com" static
 local-zone: "vietnamcoronavirus.com" static
@@ -12204,6 +12207,7 @@ local-zone: "www.anti-covid19-store.com" static
 local-zone: "www.anticovid-19virus.com" static
 local-zone: "www.antipandemiacovid19.com" static
 local-zone: "www.antiviruscoronacovid19maskmedical.com" static
+local-zone: "www.apollo13covid19.com" static
 local-zone: "www.apparelcovid19.com" static
 local-zone: "www.appcoronavirusalert.com" static
 local-zone: "www.appcoronavirusalert.it" static
@@ -12216,7 +12220,9 @@ local-zone: "www.asesoriaertescoronavirus.com" static
 local-zone: "www.athomecoronavirustest.com" static
 local-zone: "www.attestation-covid19.tech" static
 local-zone: "www.attestation-sortie-covid19.fr" static
+local-zone: "www.auscovid19supplies.com" static
 local-zone: "www.avertcoronavirus.com" static
+local-zone: "www.ayudas-covid-19.gq" static
 local-zone: "www.ayudaspymescoronavirus.es" static
 local-zone: "www.bangkokcovid19.com" static
 local-zone: "www.baohiemcovid19pvi.com" static
@@ -12441,6 +12447,7 @@ local-zone: "www.coronavirusprayers.net" static
 local-zone: "www.coronavirus-pray-now.com" static
 local-zone: "www.coronaviruspressers.com" static
 local-zone: "www.coronaviruspreventioncenter.com" static
+local-zone: "www.corona-virus-prevention.com" static
 local-zone: "www.coronavirusprevention.online" static
 local-zone: "www.coronaviruspreventionus.com" static
 local-zone: "www.coronavirus.priscilaguskuma.com.br" static

@@ -150,6 +150,8 @@ dns-zone-blacklist. IN NS localhost.
 *.8335.covid19.moh.gov.et CNAME .
 859ab4b8.test.covid-19.forms.digital.nhs.uk CNAME .
 *.859ab4b8.test.covid-19.forms.digital.nhs.uk CNAME .
+86-covid-19.com CNAME .
+*.86-covid-19.com CNAME .
 87corona.com CNAME .
 *.87corona.com CNAME .
 88covid19.com CNAME .
@@ -882,8 +884,6 @@ attorneyforcoronavirus.com CNAME .
 *.attorneyforcoronavirus.com CNAME .
 au.coronavirusdating.com CNAME .
 *.au.coronavirusdating.com CNAME .
-auscovid19supplies.com CNAME .
-*.auscovid19supplies.com CNAME .
 austincoronavirusdisinfection.com CNAME .
 *.austincoronavirusdisinfection.com CNAME .
 austincovid-19disinfection.com CNAME .
@@ -4904,6 +4904,8 @@ coronaviruscomfort.com CNAME .
 *.coronaviruscomfort.com CNAME .
 coronavirus.com.gh CNAME .
 *.coronavirus.com.gh CNAME .
+coronavirus.com.hk CNAME .
+*.coronavirus.com.hk CNAME .
 coronaviruscommercialcleaning.com CNAME .
 *.coronaviruscommercialcleaning.com CNAME .
 coronaviruscommunity.com CNAME .
@@ -13642,6 +13644,8 @@ covid19liveinfo.rubymega.com CNAME .
 *.covid19liveinfo.rubymega.com CNAME .
 covid-19.liveinfotime.com CNAME .
 *.covid-19.liveinfotime.com CNAME .
+covid19live.it CNAME .
+*.covid19live.it CNAME .
 covid19live.kz CNAME .
 *.covid19live.kz CNAME .
 covid19-live.ml CNAME .
@@ -15148,6 +15152,8 @@ covid19risk.info CNAME .
 *.covid19risk.info CNAME .
 covid-19.riskline.com CNAME .
 *.covid-19.riskline.com CNAME .
+covid19riskscanner.com CNAME .
+*.covid19riskscanner.com CNAME .
 covid-19risks.com CNAME .
 *.covid-19risks.com CNAME .
 covid19risks.com CNAME .
@@ -16208,8 +16214,6 @@ covid19thaisupport.eu CNAME .
 *.covid19thaisupport.eu CNAME .
 covid19th.com CNAME .
 *.covid19th.com CNAME .
-covid19.theatmojo.com CNAME .
-*.covid19.theatmojo.com CNAME .
 covid19theband.com CNAME .
 *.covid19theband.com CNAME .
 covid19.thecenterformissingandexploitedsystems.com CNAME .
@@ -23832,6 +23836,8 @@ vermontcoronavirus.com CNAME .
 *.vermontcoronavirus.com CNAME .
 vi.coronavirus-novaregion.org CNAME .
 *.vi.coronavirus-novaregion.org CNAME .
+vi-covid19.ru CNAME .
+*.vi-covid19.ru CNAME .
 video.coronavirus-you.ru CNAME .
 *.video.coronavirus-you.ru CNAME .
 video.covid19webapp.com CNAME .
@@ -24414,6 +24420,8 @@ www.antipandemiacovid19.com CNAME .
 *.www.antipandemiacovid19.com CNAME .
 www.antiviruscoronacovid19maskmedical.com CNAME .
 *.www.antiviruscoronacovid19maskmedical.com CNAME .
+www.apollo13covid19.com CNAME .
+*.www.apollo13covid19.com CNAME .
 www.apparelcovid19.com CNAME .
 *.www.apparelcovid19.com CNAME .
 www.appcoronavirusalert.com CNAME .
@@ -24438,8 +24446,12 @@ www.attestation-covid19.tech CNAME .
 *.www.attestation-covid19.tech CNAME .
 www.attestation-sortie-covid19.fr CNAME .
 *.www.attestation-sortie-covid19.fr CNAME .
+www.auscovid19supplies.com CNAME .
+*.www.auscovid19supplies.com CNAME .
 www.avertcoronavirus.com CNAME .
 *.www.avertcoronavirus.com CNAME .
+www.ayudas-covid-19.gq CNAME .
+*.www.ayudas-covid-19.gq CNAME .
 www.ayudaspymescoronavirus.es CNAME .
 *.www.ayudaspymescoronavirus.es CNAME .
 www.bangkokcovid19.com CNAME .
@@ -24888,6 +24900,8 @@ www.coronaviruspressers.com CNAME .
 *.www.coronaviruspressers.com CNAME .
 www.coronaviruspreventioncenter.com CNAME .
 *.www.coronaviruspreventioncenter.com CNAME .
+www.corona-virus-prevention.com CNAME .
+*.www.corona-virus-prevention.com CNAME .
 www.coronavirusprevention.online CNAME .
 *.www.coronavirusprevention.online CNAME .
 www.coronaviruspreventionus.com CNAME .
