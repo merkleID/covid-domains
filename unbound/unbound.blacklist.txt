@@ -12058,6 +12058,8 @@ local-zone: "covid19elpaso.com" redirect
 local-data: "covid19elpaso.com A 0.0.0.0"
 local-zone: "covid19elsalvador.com" redirect
 local-data: "covid19elsalvador.com A 0.0.0.0"
+local-zone: "covid19-elsavador.com" redirect
+local-data: "covid19-elsavador.com A 0.0.0.0"
 local-zone: "covid-19.emapx.com.br" redirect
 local-data: "covid-19.emapx.com.br A 0.0.0.0"
 local-zone: "covid19.emapx.com.br" redirect
@@ -12772,6 +12774,8 @@ local-zone: "covid19help.nyc" redirect
 local-data: "covid19help.nyc A 0.0.0.0"
 local-zone: "covid19-help.online" redirect
 local-data: "covid19-help.online A 0.0.0.0"
+local-zone: "covid19help.thepocketcouch.com" redirect
+local-data: "covid19help.thepocketcouch.com A 0.0.0.0"
 local-zone: "covid19help.xavincidev.com" redirect
 local-data: "covid19help.xavincidev.com A 0.0.0.0"
 local-zone: "covid19help.zendesk.com" redirect
@@ -18458,8 +18462,6 @@ local-zone: "endcoronavirus.org" redirect
 local-data: "endcoronavirus.org A 0.0.0.0"
 local-zone: "endcovid-19.ayuglobalinc.org.ng" redirect
 local-data: "endcovid-19.ayuglobalinc.org.ng A 0.0.0.0"
-local-zone: "endcovid19.com" redirect
-local-data: "endcovid19.com A 0.0.0.0"
 local-zone: "endcovid-19.info" redirect
 local-data: "endcovid-19.info A 0.0.0.0"
 local-zone: "endingcorona.com" redirect
@@ -18638,8 +18640,6 @@ local-zone: "eyecoronaandson.com" redirect
 local-data: "eyecoronaandson.com A 0.0.0.0"
 local-zone: "eyecoronaandsun.com" redirect
 local-data: "eyecoronaandsun.com A 0.0.0.0"
-local-zone: "ezcovid19test.com" redirect
-local-data: "ezcovid19test.com A 0.0.0.0"
 local-zone: "f6bfd464.test.covid-19.forms.digital.nhs.uk" redirect
 local-data: "f6bfd464.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
 local-zone: "facecoronavirusmasks.com" redirect
@@ -22478,6 +22478,8 @@ local-zone: "self-check.covid19dz.com" redirect
 local-data: "self-check.covid19dz.com A 0.0.0.0"
 local-zone: "self.covid19.nj.gov" redirect
 local-data: "self.covid19.nj.gov A 0.0.0.0"
+local-zone: "selftestcovid19.in" redirect
+local-data: "selftestcovid19.in A 0.0.0.0"
 local-zone: "selling-despite-covid-19.sandiegoprofessionaljournal.com" redirect
 local-data: "selling-despite-covid-19.sandiegoprofessionaljournal.com A 0.0.0.0"
 local-zone: "sendlovenotcovid19fear.com" redirect
@@ -23782,6 +23784,8 @@ local-zone: "updatecovid19.com" redirect
 local-data: "updatecovid19.com A 0.0.0.0"
 local-zone: "updatescoronavirus.com" redirect
 local-data: "updatescoronavirus.com A 0.0.0.0"
+local-zone: "ur.covid-19.com.pk" redirect
+local-data: "ur.covid-19.com.pk A 0.0.0.0"
 local-zone: "urgencescoronavirus.fr" redirect
 local-data: "urgencescoronavirus.fr A 0.0.0.0"
 local-zone: "usa-coronaviruscleaning.com" redirect
@@ -24882,6 +24886,8 @@ local-zone: "www.coronavirusmedicalmasks.com" redirect
 local-data: "www.coronavirusmedicalmasks.com A 0.0.0.0"
 local-zone: "www.coronavirus-medicalsupplies.com" redirect
 local-data: "www.coronavirus-medicalsupplies.com A 0.0.0.0"
+local-zone: "www.coronavirus-memorial.com" redirect
+local-data: "www.coronavirus-memorial.com A 0.0.0.0"
 local-zone: "www.coronavirusmexico.org.mx" redirect
 local-data: "www.coronavirusmexico.org.mx A 0.0.0.0"
 local-zone: "www.coronavirus-mmac.org" redirect
