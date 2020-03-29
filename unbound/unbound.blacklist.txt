@@ -882,8 +882,6 @@ local-zone: "au.coronavirusdating.com" redirect
 local-data: "au.coronavirusdating.com A 0.0.0.0"
 local-zone: "austincoronavirusdisinfection.com" redirect
 local-data: "austincoronavirusdisinfection.com A 0.0.0.0"
-local-zone: "austincovid-19disinfection.com" redirect
-local-data: "austincovid-19disinfection.com A 0.0.0.0"
 local-zone: "austincovid19disinfection.com" redirect
 local-data: "austincovid19disinfection.com A 0.0.0.0"
 local-zone: "australiacoronavirus.com" redirect
@@ -1150,6 +1148,8 @@ local-zone: "blogfeedbackcoronavirus.com" redirect
 local-data: "blogfeedbackcoronavirus.com A 0.0.0.0"
 local-zone: "blog.guerra-coronavirus.com" redirect
 local-data: "blog.guerra-coronavirus.com A 0.0.0.0"
+local-zone: "blogprocoronavirus.online" redirect
+local-data: "blogprocoronavirus.online A 0.0.0.0"
 local-zone: "blog.viruscovid19.com.es" redirect
 local-data: "blog.viruscovid19.com.es A 0.0.0.0"
 local-zone: "bnb32.covid19.eas.cornell.edu" redirect
@@ -8818,6 +8818,8 @@ local-zone: "coronavirusshoulditravel.com" redirect
 local-data: "coronavirusshoulditravel.com A 0.0.0.0"
 local-zone: "coronavirussia.com" redirect
 local-data: "coronavirussia.com A 0.0.0.0"
+local-zone: "coronavirussia.online" redirect
+local-data: "coronavirussia.online A 0.0.0.0"
 local-zone: "coronavirus-sicherheit.de" redirect
 local-data: "coronavirus-sicherheit.de A 0.0.0.0"
 local-zone: "coronavirus.sicuritalia.it" redirect
@@ -10988,6 +10990,8 @@ local-zone: "covid19.carepirates.co.uk" redirect
 local-data: "covid19.carepirates.co.uk A 0.0.0.0"
 local-zone: "covid19.carey.cl" redirect
 local-data: "covid19.carey.cl A 0.0.0.0"
+local-zone: "covid19.cargo.ir" redirect
+local-data: "covid19.cargo.ir A 0.0.0.0"
 local-zone: "covid19caribbean.onrender.com" redirect
 local-data: "covid19caribbean.onrender.com A 0.0.0.0"
 local-zone: "covid19caribtracker.com" redirect
@@ -11970,6 +11974,8 @@ local-zone: "covid19.duskertas.com" redirect
 local-data: "covid19.duskertas.com A 0.0.0.0"
 local-zone: "covid19dx.com" redirect
 local-data: "covid19dx.com A 0.0.0.0"
+local-zone: "covid19.dyto.ir" redirect
+local-data: "covid19.dyto.ir A 0.0.0.0"
 local-zone: "covid19dz.info" redirect
 local-data: "covid19dz.info A 0.0.0.0"
 local-zone: "covid19-dz.live" redirect
@@ -19960,6 +19966,8 @@ local-zone: "lawyerforcoronavirus.com" redirect
 local-data: "lawyerforcoronavirus.com A 0.0.0.0"
 local-zone: "lawyerscoronavirus.com" redirect
 local-data: "lawyerscoronavirus.com A 0.0.0.0"
+local-zone: "lb.covid-19.husseinsaleh.me" redirect
+local-data: "lb.covid-19.husseinsaleh.me A 0.0.0.0"
 local-zone: "lcovid19.com" redirect
 local-data: "lcovid19.com A 0.0.0.0"
 local-zone: "lcovid19cure.com" redirect
@@ -21094,6 +21102,8 @@ local-zone: "novocoronavirus.com" redirect
 local-data: "novocoronavirus.com A 0.0.0.0"
 local-zone: "novocoronavirus.info" redirect
 local-data: "novocoronavirus.info A 0.0.0.0"
+local-zone: "novocoronavirus.org.br" redirect
+local-data: "novocoronavirus.org.br A 0.0.0.0"
 local-zone: "novocoronavirus.recife.pe.gov.br" redirect
 local-data: "novocoronavirus.recife.pe.gov.br A 0.0.0.0"
 local-zone: "npt-covid19.com" redirect
@@ -21968,6 +21978,8 @@ local-zone: "pugliacovid19.altervista.org" redirect
 local-data: "pugliacovid19.altervista.org A 0.0.0.0"
 local-zone: "pulcino.dc.coronavirus-clinic.com" redirect
 local-data: "pulcino.dc.coronavirus-clinic.com A 0.0.0.0"
+local-zone: "pulsa-covid19.event-indo.com" redirect
+local-data: "pulsa-covid19.event-indo.com A 0.0.0.0"
 local-zone: "pulverizadorcoronavirus.com" redirect
 local-data: "pulverizadorcoronavirus.com A 0.0.0.0"
 local-zone: "punecovid19support.in.punecovid19support.in" redirect
@@ -24464,6 +24476,8 @@ local-zone: "www.bgrdccovid19.com" redirect
 local-data: "www.bgrdccovid19.com A 0.0.0.0"
 local-zone: "www.blackhawkcovid19.com" redirect
 local-data: "www.blackhawkcovid19.com A 0.0.0.0"
+local-zone: "www.blogoltreilcoronavirus.com" redirect
+local-data: "www.blogoltreilcoronavirus.com A 0.0.0.0"
 local-zone: "www.boutique-coronavirus.fr" redirect
 local-data: "www.boutique-coronavirus.fr A 0.0.0.0"
 local-zone: "www.brcovid19.com.br" redirect
@@ -25816,6 +25830,8 @@ local-zone: "www.covid19-virus.ru" redirect
 local-data: "www.covid19-virus.ru A 0.0.0.0"
 local-zone: "www.covid19virusupplies.com" redirect
 local-data: "www.covid19virusupplies.com A 0.0.0.0"
+local-zone: "www.covid19.vitaminax.ro" redirect
+local-data: "www.covid19.vitaminax.ro A 0.0.0.0"
 local-zone: "www.covid19.wapac.my.id" redirect
 local-data: "www.covid19.wapac.my.id A 0.0.0.0"
 local-zone: "www.covid-19war.com" redirect
