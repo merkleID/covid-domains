@@ -692,6 +692,8 @@ api-covid19.prod.8layertech.io CNAME .
 *.api-covid19.prod.8layertech.io CNAME .
 api.covid19.rnbo.gov.ua CNAME .
 *.api.covid19.rnbo.gov.ua CNAME .
+apicovid19.ru CNAME .
+*.apicovid19.ru CNAME .
 api.covid19sas.com CNAME .
 *.api.covid19sas.com CNAME .
 api.covid19.social CNAME .
@@ -4290,6 +4292,8 @@ coronavirusbarrier.com CNAME .
 *.coronavirusbarrier.com CNAME .
 coronavirusbarueri.com CNAME .
 *.coronavirusbarueri.com CNAME .
+coronavirusbasilicata.it CNAME .
+*.coronavirusbasilicata.it CNAME .
 coronavirusbayarea.com CNAME .
 *.coronavirusbayarea.com CNAME .
 coronavirusbcp.com CNAME .
@@ -6980,6 +6984,8 @@ coronavirus-live.org CNAME .
 *.coronavirus-live.org CNAME .
 coronavirus-live-statistics.com CNAME .
 *.coronavirus-live-statistics.com CNAME .
+corona-virus-live-statistics.now.sh CNAME .
+*.corona-virus-live-statistics.now.sh CNAME .
 coronaviruslivestatus.com CNAME .
 *.coronaviruslivestatus.com CNAME .
 coronaviruslivestream.com CNAME .
@@ -10012,6 +10018,8 @@ coronavirusworld.world CNAME .
 *.coronavirusworld.world CNAME .
 coronaviruswristbands.com CNAME .
 *.coronaviruswristbands.com CNAME .
+coronaviruswristbands.com.au CNAME .
+*.coronaviruswristbands.com.au CNAME .
 coronaviruswriter.com CNAME .
 *.coronaviruswriter.com CNAME .
 coronaviruswrongfuldeath.com CNAME .
@@ -13072,8 +13080,6 @@ covid19indata.now.sh CNAME .
 *.covid19indata.now.sh CNAME .
 covid19india.anewzon.com CNAME .
 *.covid19india.anewzon.com CNAME .
-covid19india-cluster-alpha.now.sh CNAME .
-*.covid19india-cluster-alpha.now.sh CNAME .
 covid19india-cluster.now.sh CNAME .
 *.covid19india-cluster.now.sh CNAME .
 covid19-indialive.easocare.com CNAME .
@@ -13680,6 +13686,8 @@ covid-19.liveinfotime.com CNAME .
 *.covid-19.liveinfotime.com CNAME .
 covid19live.kz CNAME .
 *.covid19live.kz CNAME .
+covid19livemap.club CNAME .
+*.covid19livemap.club CNAME .
 covid19-live.ml CNAME .
 *.covid19-live.ml CNAME .
 covid19live.now.sh CNAME .
@@ -14058,6 +14066,8 @@ covid19.minahasa.go.id CNAME .
 *.covid19.minahasa.go.id CNAME .
 covid19.mindroom.com.br CNAME .
 *.covid19.mindroom.com.br CNAME .
+covid19.mindstronghealth.com CNAME .
+*.covid19.mindstronghealth.com CNAME .
 covid19.minnal.dk CNAME .
 *.covid19.minnal.dk CNAME .
 covid19-minsaude.onrender.com CNAME .
@@ -14992,6 +15002,8 @@ covid19rapidscan.com CNAME .
 *.covid19rapidscan.com CNAME .
 covid-19-rapid-test.com CNAME .
 *.covid-19-rapid-test.com CNAME .
+covid19rapidtest.com CNAME .
+*.covid19rapidtest.com CNAME .
 covid19-rapidtest.co.uk CNAME .
 *.covid19-rapidtest.co.uk CNAME .
 covid19rapidtest.it CNAME .
@@ -17014,6 +17026,8 @@ covid19.wra-protect.com CNAME .
 *.covid19.wra-protect.com CNAME .
 covid-19.wrigglemarketing.co.uk CNAME .
 *.covid-19.wrigglemarketing.co.uk CNAME .
+covid19wristbands.com CNAME .
+*.covid19wristbands.com CNAME .
 covid-19wristbands.com.au CNAME .
 *.covid-19wristbands.com.au CNAME .
 covid19wristbands.com.au CNAME .
@@ -18794,6 +18808,8 @@ fightoffcoronavirus.com CNAME .
 *.fightoffcoronavirus.com CNAME .
 fightthecoronavirus.org CNAME .
 *.fightthecoronavirus.org CNAME .
+fightthecovid19.com CNAME .
+*.fightthecovid19.com CNAME .
 fightvscorona.com CNAME .
 *.fightvscorona.com CNAME .
 file.soscoronavirus.info CNAME .
@@ -19334,6 +19350,8 @@ homeopathyforcoronavirus.com CNAME .
 *.homeopathyforcoronavirus.com CNAME .
 homesolutionscoronavirus.com CNAME .
 *.homesolutionscoronavirus.com CNAME .
+home.thecoronaviruscoverup.com CNAME .
+*.home.thecoronaviruscoverup.com CNAME .
 homologacao-nustcovid19.icict.fiocruz.br CNAME .
 *.homologacao-nustcovid19.icict.fiocruz.br CNAME .
 hondurascoronavirus.com CNAME .
@@ -19556,6 +19574,8 @@ infocoronavirus.ru CNAME .
 *.infocoronavirus.ru CNAME .
 infocoronavirus.xyz CNAME .
 *.infocoronavirus.xyz CNAME .
+infocovid19.belkia.com CNAME .
+*.infocovid19.belkia.com CNAME .
 info-covid-19.com CNAME .
 *.info-covid-19.com CNAME .
 infocovid19.de CNAME .
@@ -20532,8 +20552,6 @@ melcovid19checker.com CNAME .
 *.melcovid19checker.com CNAME .
 memescovid19.com CNAME .
 *.memescovid19.com CNAME .
-memorialcoronavirus.com CNAME .
-*.memorialcoronavirus.com CNAME .
 memorialcovid19.com CNAME .
 *.memorialcovid19.com CNAME .
 memphiscoronavirus.com CNAME .
@@ -20638,6 +20656,8 @@ monitor-coronavirus.ru CNAME .
 *.monitor-coronavirus.ru CNAME .
 monitor.covid19api.com CNAME .
 *.monitor.covid19api.com CNAME .
+monitorcovid19.com CNAME .
+*.monitorcovid19.com CNAME .
 monitor.covid19portugal.org CNAME .
 *.monitor.covid19portugal.org CNAME .
 montanacoronavirus.com CNAME .
@@ -24124,6 +24144,8 @@ webmail.coronavirusremoval.xyz CNAME .
 *.webmail.coronavirusremoval.xyz CNAME .
 webmail.covid19computerrepair.com CNAME .
 *.webmail.covid19computerrepair.com CNAME .
+webmail.covid19financialrelief.org CNAME .
+*.webmail.covid19financialrelief.org CNAME .
 webmail.covid19.gouv.tg CNAME .
 *.webmail.covid19.gouv.tg CNAME .
 webmail.covid19medic.co.uk CNAME .
@@ -24972,6 +24994,8 @@ www.coronavirusnewsroom.com CNAME .
 *.www.coronavirusnewsroom.com CNAME .
 www.coronavirusnews.tv CNAME .
 *.www.coronavirusnews.tv CNAME .
+www.coronavirusnigeria.ml CNAME .
+*.www.coronavirusnigeria.ml CNAME .
 www.coronavirus-normality.com CNAME .
 *.www.coronavirus-normality.com CNAME .
 www.coronavirus.normanok.gov CNAME .
@@ -25162,6 +25186,8 @@ www.coronavirusus.info CNAME .
 *.www.coronavirusus.info CNAME .
 www.coronavirususvi.com CNAME .
 *.www.coronavirususvi.com CNAME .
+www.coronavirus-uzbekistan.ru CNAME .
+*.www.coronavirus-uzbekistan.ru CNAME .
 www.coronavirusvaccine.info CNAME .
 *.www.coronavirusvaccine.info CNAME .
 www.coronavirusvaccinelaw.com CNAME .
@@ -25640,6 +25666,8 @@ www.covid19-nieuws.nl CNAME .
 *.www.covid19-nieuws.nl CNAME .
 www.covid19nieuws.nl CNAME .
 *.www.covid19nieuws.nl CNAME .
+www.covid-19nigeria.ml CNAME .
+*.www.covid-19nigeria.ml CNAME .
 www.covid19-nogentleroi.fr CNAME .
 *.www.covid19-nogentleroi.fr CNAME .
 www.covid19-normal.com CNAME .
@@ -26706,6 +26734,8 @@ www.wuhan-virus-info.com CNAME .
 *.www.wuhan-virus-info.com CNAME .
 www.wwwcoronavirus.ru CNAME .
 *.www.wwwcoronavirus.ru CNAME .
+www.www.www.www.mail.covid19financialrelief.org CNAME .
+*.www.www.www.www.mail.covid19financialrelief.org CNAME .
 www.xn--covid-19enimgenes-ipb.com CNAME .
 *.www.xn--covid-19enimgenes-ipb.com CNAME .
 www.xn--covid-19opplring-5ob.no CNAME .
