@@ -120,6 +120,7 @@
 0.0.0.0 adioscorona.com
 0.0.0.0 adioscoronavirus.es
 0.0.0.0 admin-api.coronavirus-monitor.com
+0.0.0.0 admincovid19.kotabogor.go.id
 0.0.0.0 admin.covid19.moh.gov.et
 0.0.0.0 admin.covid19petpro.com
 0.0.0.0 admin.covid19-uk.co.uk
@@ -375,7 +376,6 @@
 0.0.0.0 api.rapidcovid19.rymedi.com
 0.0.0.0 api.rapidtest.relawancovid19.id
 0.0.0.0 apirestcovid19.habber.com
-0.0.0.0 api.siagacovid19.lebakkab.go.id
 0.0.0.0 api.staging.covid19.adn.be
 0.0.0.0 api.track.covid-19.rowles.ch
 0.0.0.0 api.worldcoronavirus.org
@@ -445,6 +445,7 @@
 0.0.0.0 attorneyforcoronavirus.com
 0.0.0.0 au.coronavirusdating.com
 0.0.0.0 austincoronavirusdisinfection.com
+0.0.0.0 austincovid19.com
 0.0.0.0 austincovid19disinfection.com
 0.0.0.0 australiacoronavirus.com
 0.0.0.0 austriacoronavirus.com
@@ -2489,6 +2490,7 @@
 0.0.0.0 coronavirusconnecticut.com
 0.0.0.0 coronavirusconquerer.com
 0.0.0.0 coronavirusconsejos.com
+0.0.0.0 coronavirusconspiracies.info
 0.0.0.0 coronavirusconsulta.infofuturo.es
 0.0.0.0 coronavirus-consultancy.com
 0.0.0.0 coronavirusconsultancy.com
@@ -2687,12 +2689,10 @@
 0.0.0.0 coronavirusdiscuss.com
 0.0.0.0 coronavirusdisease19.co.uk
 0.0.0.0 coronavirusdisease2019covid-19.com
-0.0.0.0 coronavirusdisease2020.info
 0.0.0.0 coronavirusdisease2020.net
 0.0.0.0 coronavirusdisease.altervista.org
 0.0.0.0 coronavirusdisease.com
 0.0.0.0 coronavirusdiseasecovid-19.com
-0.0.0.0 coronavirusdisease.info
 0.0.0.0 corona-virus-disease.net
 0.0.0.0 coronavirusdisease.net
 0.0.0.0 coronavirusdisease.news
@@ -4395,6 +4395,7 @@
 0.0.0.0 coronavirus.scvo.org
 0.0.0.0 coronavirus.scvo.org.uk
 0.0.0.0 coronavirussd.com
+0.0.0.0 corona-virus.se
 0.0.0.0 coronavirusseattle.com
 0.0.0.0 coronavirussebachao.cf
 0.0.0.0 coronavirus-secure.com
@@ -4829,7 +4830,6 @@
 0.0.0.0 coronavirus.ufpa.br
 0.0.0.0 coronavirus.ufpi.edu.br
 0.0.0.0 coronavirusuganda.com
-0.0.0.0 coronavirusu.info
 0.0.0.0 coronavirusuisse.ch
 0.0.0.0 coronavirus-uk.com
 0.0.0.0 coronavirusuk.com
@@ -4859,7 +4859,6 @@
 0.0.0.0 coronavirusupdate.farukmd.com
 0.0.0.0 coronavirus-update.hinglishblog.com
 0.0.0.0 coronavirus-update.in
-0.0.0.0 corona-virus-update.info
 0.0.0.0 coronavirusupdateinfo.com
 0.0.0.0 corona-virus-update.live
 0.0.0.0 corona-virus-update.net
@@ -5393,6 +5392,7 @@
 0.0.0.0 covid19.bandung.go.id
 0.0.0.0 covid19.bandungkab.go.id
 0.0.0.0 covid19.banggaikep.go.id
+0.0.0.0 covid19.bangkabaratkab.go.id
 0.0.0.0 covid19.bangka.go.id
 0.0.0.0 covid19.banglikab.go.id
 0.0.0.0 covid19.bangnam.com
@@ -5414,6 +5414,7 @@
 0.0.0.0 covid19bc.com
 0.0.0.0 covid19.bcnnv.ac.th
 0.0.0.0 covid19bd.com
+0.0.0.0 covid19bd.info
 0.0.0.0 covid19bdtrack.com
 0.0.0.0 covid-19.bearos.repl.run
 0.0.0.0 covid-19beer.com
@@ -5427,11 +5428,13 @@
 0.0.0.0 covid19.bemporad.repl.run
 0.0.0.0 covid19beneficio.sanjuan.gob.ar
 0.0.0.0 covid19-bengkaliskab.com
+0.0.0.0 covid19.bengkaliskab.go.id
 0.0.0.0 covid-19.benjmaa.com
 0.0.0.0 covid19.bergandwilliams.com
 0.0.0.0 covid19.berggroup.app
 0.0.0.0 covid19.beritabali.com
 0.0.0.0 covid19.berjasa.org.my
+0.0.0.0 covid19bestcure.com
 0.0.0.0 covid-19bestpractices.com
 0.0.0.0 covid-19.betaflex.us
 0.0.0.0 covid19.betreuung-gesucht.de
@@ -6376,7 +6379,6 @@
 0.0.0.0 covid19guide.me
 0.0.0.0 covid19.gunadarma.ac.id
 0.0.0.0 covid19-gunma.com
-0.0.0.0 covid19.gunungsitolikota.go.id
 0.0.0.0 covid19.guru
 0.0.0.0 covid19.gutouch.com
 0.0.0.0 covid19.gy
@@ -6437,7 +6439,6 @@
 0.0.0.0 covid19helpinghand.org
 0.0.0.0 covid19help.leidi.ee
 0.0.0.0 covid19help-line.com
-0.0.0.0 covid19helpline.info
 0.0.0.0 covid-19.helpmedx.com
 0.0.0.0 covid19help.nyc
 0.0.0.0 covid19-help.online
@@ -6771,7 +6772,6 @@
 0.0.0.0 covid19.ke-network.com
 0.0.0.0 covid19.kerala.gov.in
 0.0.0.0 covid-19.keruji.com
-0.0.0.0 covid19.ketapangkab.go.id
 0.0.0.0 covid19khabar.com
 0.0.0.0 covid-19killer.com
 0.0.0.0 covid19killer.com
@@ -6977,6 +6977,7 @@
 0.0.0.0 covid19mapachile.cl
 0.0.0.0 covid19mapa.es
 0.0.0.0 covid19map.altervista.org
+0.0.0.0 covid19mapas507.info
 0.0.0.0 covid19map-dev.health.wolterskluwer.io
 0.0.0.0 covid19maping.com
 0.0.0.0 covid19map.io
@@ -7179,7 +7180,6 @@
 0.0.0.0 covid19.nectarhub.io
 0.0.0.0 covid-19nepal.com
 0.0.0.0 covid19nepal.com
-0.0.0.0 covid19nepal.info
 0.0.0.0 covid19.nepallearning.com
 0.0.0.0 covid19.netaqsoft.com
 0.0.0.0 covid-19.net.in
@@ -7531,6 +7531,7 @@
 0.0.0.0 covid-19py.me
 0.0.0.0 covid-19.qa.experteer.com
 0.0.0.0 covid19qc.ca
+0.0.0.0 covid19qc.info
 0.0.0.0 covid-19.qcu.org
 0.0.0.0 covid19.qri.com
 0.0.0.0 covid-19quarantine.com
@@ -7957,6 +7958,8 @@
 0.0.0.0 covid-19staysafe.com
 0.0.0.0 covid19-stay-safe.online
 0.0.0.0 covid19stays.co.uk
+0.0.0.0 covid-19.steramed.info
+0.0.0.0 covid19.steth.gr
 0.0.0.0 covid-19steun.nl
 0.0.0.0 covid-19-steunpakket.nl
 0.0.0.0 covid-19steunpakket.nl
@@ -8248,6 +8251,7 @@
 0.0.0.0 covid-19tipjar.com
 0.0.0.0 covid-19tips.com
 0.0.0.0 covid19tips.co.za
+0.0.0.0 covid19tips.info
 0.0.0.0 covid19.tlaquepaque.gob.mx
 0.0.0.0 covid19.tldev.io
 0.0.0.0 covid19tn.com
@@ -9734,6 +9738,7 @@
 0.0.0.0 higiene.coronavirusmakers.org
 0.0.0.0 hilfe-covid19.de
 0.0.0.0 hillsroadcovid19.co.uk
+0.0.0.0 hira-covid19.net
 0.0.0.0 hirecovid19.com
 0.0.0.0 hirecovidbusters.com
 0.0.0.0 historyofcovid19.com
@@ -11898,6 +11903,7 @@
 0.0.0.0 tn.againstcovid19.com
 0.0.0.0 tncoronavirus.com
 0.0.0.0 toddandcue.covid19-updates.co.uk
+0.0.0.0 todocovid19.info
 0.0.0.0 todoscontraelcoronavirus.org
 0.0.0.0 todosobrecoronavirus.cf
 0.0.0.0 togetheragainstcorona.com
@@ -12215,6 +12221,7 @@
 0.0.0.0 willcoronaviruskillme.com
 0.0.0.0 willisurvivecovid19.com
 0.0.0.0 willyousurvivecovid19.com
+0.0.0.0 wincovid-19.com
 0.0.0.0 win-covid-19.net
 0.0.0.0 wincovid.com
 0.0.0.0 wirvscovid19.de
@@ -12356,6 +12363,7 @@
 0.0.0.0 www.anticoronavirus.de
 0.0.0.0 www.anticoronavirusdrug.com
 0.0.0.0 www.anticoronavirushelp.com
+0.0.0.0 www.anticoronavirus.net
 0.0.0.0 www.anticoronavirus.org
 0.0.0.0 www.anticoronavirusshop.com
 0.0.0.0 www.anticoronavirus.site
@@ -12408,6 +12416,7 @@
 0.0.0.0 www.canada-alert-covid19.com
 0.0.0.0 www.cardsfightingcoronavirus.com
 0.0.0.0 www.cascoronavirus.fr
+0.0.0.0 www.ccprc-covid19.icorp.cm
 0.0.0.0 www.ccs-coronavirus.net
 0.0.0.0 www.chestercoronavirusdeliveries.co.uk
 0.0.0.0 www.chinavirus.xyz
@@ -12669,6 +12678,7 @@
 0.0.0.0 www.coronavirustestingkit.uk
 0.0.0.0 www.coronavirustest.io
 0.0.0.0 www.coronavirustestkit.com
+0.0.0.0 www.coronavirustestkit.info
 0.0.0.0 www.corona-virus-tests.be
 0.0.0.0 www.corona-virus-tests.com
 0.0.0.0 www.coronavirustherapy.info
@@ -12871,6 +12881,7 @@
 0.0.0.0 www.covid19info.co
 0.0.0.0 www.covid19-info-co-uk.wrinkle-reduction.com
 0.0.0.0 www.covid19.infonanggroe.com
+0.0.0.0 www.covid19innovations.org
 0.0.0.0 www.covid19instatest.com
 0.0.0.0 www.covid19intervention.com
 0.0.0.0 www.covid19intexas.com
@@ -12900,6 +12911,7 @@
 0.0.0.0 www.covid19.london
 0.0.0.0 www.covid19madeinchina.com
 0.0.0.0 www.covid19man.com
+0.0.0.0 www.covid19mapas507.info
 0.0.0.0 www.covid19map.ru
 0.0.0.0 www.covid19mapusa.com
 0.0.0.0 www.covid19maskmatch.org
@@ -13274,6 +13286,7 @@
 0.0.0.0 www.nechcicovid19.cz
 0.0.0.0 www.newcoronavirus2019.info
 0.0.0.0 www.newcoronavirus.co
+0.0.0.0 www.news-coronavirus.net
 0.0.0.0 www.nhscovid19.fund
 0.0.0.0 www.nomorecovid-19.com
 0.0.0.0 www.nonprofitcovid19.org
@@ -13452,6 +13465,7 @@
 0.0.0.0 www.vidacarecovid19.com.br
 0.0.0.0 www.voluntarioscovid19.com
 0.0.0.0 www.volunteersforcoronavirus.com
+0.0.0.0 www.wacovid19therapists.com
 0.0.0.0 www.waroncovid-19.com
 0.0.0.0 www.wearecoronavirussurvivors.com
 0.0.0.0 www.webcovid-19.live
@@ -13460,6 +13474,7 @@
 0.0.0.0 www.whatiscovid-19.co.uk
 0.0.0.0 www.whitmancovid19.com
 0.0.0.0 www.willidiefromcoronavirus.org
+0.0.0.0 www.wincovid-19.com
 0.0.0.0 www.wincovid19.life
 0.0.0.0 www.wolverhampton-covid-19-mutual-aid.org
 0.0.0.0 www.wolvescovid19.uk
