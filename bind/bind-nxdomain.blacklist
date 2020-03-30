@@ -256,6 +256,8 @@ admin.covid19petpro.com CNAME .
 *.admin.covid19petpro.com CNAME .
 admin.covid19-uk.co.uk CNAME .
 *.admin.covid19-uk.co.uk CNAME .
+admin.luftambulanse-covid19.no CNAME .
+*.admin.luftambulanse-covid19.no CNAME .
 adms.covid19.tanahlautkab.go.id CNAME .
 *.adms.covid19.tanahlautkab.go.id CNAME .
 advancedstudentscovid19.pages.ontraport.net CNAME .
@@ -566,6 +568,8 @@ anticovid19.site CNAME .
 *.anticovid19.site CNAME .
 anticovid19.store CNAME .
 *.anticovid19.store CNAME .
+anticovid19.supplies CNAME .
+*.anticovid19.supplies CNAME .
 anticovid19supply.com CNAME .
 *.anticovid19supply.com CNAME .
 anticovid19.us CNAME .
@@ -894,6 +898,8 @@ attachments.cdn.covid19.senseilabs.com CNAME .
 *.attachments.cdn.covid19.senseilabs.com CNAME .
 attachments.cdn.k-covid19.senseilabs.com CNAME .
 *.attachments.cdn.k-covid19.senseilabs.com CNAME .
+attachments.covid19-qa.senseilabs.com CNAME .
+*.attachments.covid19-qa.senseilabs.com CNAME .
 attachments.covid19support.senseilabs.com CNAME .
 *.attachments.covid19support.senseilabs.com CNAME .
 attestationcoronavirus.fr CNAME .
@@ -1370,6 +1376,8 @@ casescoronavirus.com CNAME .
 *.casescoronavirus.com CNAME .
 casescoronavirus.coronaviruscasos.com.br CNAME .
 *.casescoronavirus.coronaviruscasos.com.br CNAME .
+casescovid19.com CNAME .
+*.casescovid19.com CNAME .
 casesofcoronavirus.goldmanwilhelm.com CNAME .
 *.casesofcoronavirus.goldmanwilhelm.com CNAME .
 cashcorona.com CNAME .
@@ -4640,6 +4648,8 @@ coronaviruscannabisoil.com CNAME .
 *.coronaviruscannabisoil.com CNAME .
 coronaviruscannabis.org CNAME .
 *.coronaviruscannabis.org CNAME .
+coronavirus.cantabria.rocks CNAME .
+*.coronavirus.cantabria.rocks CNAME .
 coronaviruscantkillthemovies.com CNAME .
 *.coronaviruscantkillthemovies.com CNAME .
 coronaviruscapecod.com CNAME .
@@ -10988,6 +10998,8 @@ covid19bioclean.com.au CNAME .
 *.covid19bioclean.com.au CNAME .
 covid19.bioga.org CNAME .
 *.covid19.bioga.org CNAME .
+covid-19.biorisc.com CNAME .
+*.covid-19.biorisc.com CNAME .
 covid19.biosens.rs CNAME .
 *.covid19.biosens.rs CNAME .
 covid19birkenhead.co.uk CNAME .
@@ -14132,6 +14144,8 @@ covid19maribor.si CNAME .
 *.covid19maribor.si CNAME .
 covid19marketplace.martinscottvo.com CNAME .
 *.covid19marketplace.martinscottvo.com CNAME .
+covid19market.store CNAME .
+*.covid19market.store CNAME .
 covid19.marlon.store CNAME .
 *.covid19.marlon.store CNAME .
 covid19marmaris.com CNAME .
@@ -14416,6 +14430,8 @@ covid19ms.com CNAME .
 *.covid19ms.com CNAME .
 covid19.mtb.co.th CNAME .
 *.covid19.mtb.co.th CNAME .
+covid19.mtu.gov.ua CNAME .
+*.covid19.mtu.gov.ua CNAME .
 covid19.mu CNAME .
 *.covid19.mu CNAME .
 covid19mu.gfchealth.org CNAME .
@@ -14566,6 +14582,8 @@ covid19news.io CNAME .
 *.covid19news.io CNAME .
 covid19newsit.altervista.org CNAME .
 *.covid19newsit.altervista.org CNAME .
+covid19news.ml CNAME .
+*.covid19news.ml CNAME .
 covid19-news.net CNAME .
 *.covid19-news.net CNAME .
 covid19newsnow.com CNAME .
@@ -18520,6 +18538,8 @@ dev.covid19.engine2.prixa.ai CNAME .
 *.dev.covid19.engine2.prixa.ai CNAME .
 dev.covid19govt.xyz CNAME .
 *.dev.covid19govt.xyz CNAME .
+dev.covid19-gpg.innovationlab.org.uk CNAME .
+*.dev.covid19-gpg.innovationlab.org.uk CNAME .
 dev.covid19.trbot.ca CNAME .
 *.dev.covid19.trbot.ca CNAME .
 dev-covid19.yaniz.dev CNAME .
@@ -18568,6 +18588,8 @@ disinfectingcoronavirus.com CNAME .
 *.disinfectingcoronavirus.com CNAME .
 disinfection-corona.com CNAME .
 *.disinfection-corona.com CNAME .
+diskominfo.infocovid-19.my.id CNAME .
+*.diskominfo.infocovid-19.my.id CNAME .
 dispatchhealthcovid19info.com CNAME .
 *.dispatchhealthcovid19info.com CNAME .
 disquecoronavirus.com.br CNAME .
@@ -18874,6 +18896,8 @@ en.covid-19.md CNAME .
 *.en.covid-19.md CNAME .
 en.covid-19now.info CNAME .
 *.en.covid-19now.info CNAME .
+en.covid19-solidarity.com CNAME .
+*.en.covid19-solidarity.com CNAME .
 encuestacovid19.hcg.gob.mx CNAME .
 *.encuestacovid19.hcg.gob.mx CNAME .
 encuestacovid19.net CNAME .
@@ -19736,6 +19760,8 @@ hmrc-refund-covid-19.com CNAME .
 *.hmrc-refund-covid-19.com CNAME .
 hmrc-refund-covid19.com CNAME .
 *.hmrc-refund-covid19.com CNAME .
+holding.key-worker-coronavirus-home-testing.service.gov.uk CNAME .
+*.holding.key-worker-coronavirus-home-testing.service.gov.uk CNAME .
 homecoronatest.com CNAME .
 *.homecoronatest.com CNAME .
 homecoronaviruskit.co.uk CNAME .
@@ -20118,6 +20144,8 @@ isitcoronavirus.com CNAME .
 *.isitcoronavirus.com CNAME .
 isitcovid-19.com CNAME .
 *.isitcovid-19.com CNAME .
+isp-covid19.bcg.com CNAME .
+*.isp-covid19.bcg.com CNAME .
 israelcoronavirus.com CNAME .
 *.israelcoronavirus.com CNAME .
 israelcovid19.com CNAME .
@@ -20248,8 +20276,6 @@ k12coronavirussafety.com CNAME .
 *.k12coronavirussafety.com CNAME .
 k45wcvfy3fdz.covid-19training.gov.au CNAME .
 *.k45wcvfy3fdz.covid-19training.gov.au CNAME .
-kabylie-stopcovid-19.com CNAME .
-*.kabylie-stopcovid-19.com CNAME .
 kaletracoronavirus.com CNAME .
 *.kaletracoronavirus.com CNAME .
 kaletracovid19.com CNAME .
@@ -20374,6 +20400,8 @@ kit-pandemic.com CNAME .
 *.kit-pandemic.com CNAME .
 kitparacoronavirus.com CNAME .
 *.kitparacoronavirus.com CNAME .
+kitprotection-covid19.com CNAME .
+*.kitprotection-covid19.com CNAME .
 kn95coronavirus.com CNAME .
 *.kn95coronavirus.com CNAME .
 knowaboutcorona.com CNAME .
@@ -24542,6 +24570,8 @@ voiceofcovid19.com CNAME .
 *.voiceofcovid19.com CNAME .
 volonter-coronavirus.ru CNAME .
 *.volonter-coronavirus.ru CNAME .
+voluntarios-covid19.pt CNAME .
+*.voluntarios-covid19.pt CNAME .
 voluntarioscovid19segovia.org CNAME .
 *.voluntarioscovid19segovia.org CNAME .
 volunteer-coronavirus.online CNAME .
@@ -26140,6 +26170,8 @@ www.covid19.kyawmoehan.me CNAME .
 *.www.covid19.kyawmoehan.me CNAME .
 www.covid19.la CNAME .
 *.www.covid19.la CNAME .
+www.covid19lab.com CNAME .
+*.www.covid19lab.com CNAME .
 www.covid19.ldhavoice.co.uk CNAME .
 *.www.covid19.ldhavoice.co.uk CNAME .
 www.covid19.lesmorsolutions.com CNAME .
@@ -26240,6 +26272,8 @@ www.covid-19-normal.fr CNAME .
 *.www.covid-19-normal.fr CNAME .
 www.covid-19normality.co CNAME .
 *.www.covid-19normality.co CNAME .
+www.covid19normality.store CNAME .
+*.www.covid19normality.store CNAME .
 www.covid19notes.info CNAME .
 *.www.covid19notes.info CNAME .
 www.covid19.nyc CNAME .
@@ -26752,6 +26786,8 @@ www.hmrc-govupdate-covid-19.com CNAME .
 *.www.hmrc-govupdate-covid-19.com CNAME .
 www.homebrightwel-covid19.duckdns.org CNAME .
 *.www.homebrightwel-covid19.duckdns.org CNAME .
+www.horshampacovid19.org CNAME .
+*.www.horshampacovid19.org CNAME .
 www.iabroadcasterscovid19.com CNAME .
 *.www.iabroadcasterscovid19.com CNAME .
 www.iamvinay.covid19status.xyz CNAME .
