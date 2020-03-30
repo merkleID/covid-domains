@@ -118,6 +118,8 @@ dns-zone-blacklist. IN NS localhost.
 *.3cd73248.test.covid-19.forms.digital.nhs.uk CNAME .
 3cxcovid19.my3cx.ru CNAME .
 *.3cxcovid19.my3cx.ru CNAME .
+3dcovid19.org CNAME .
+*.3dcovid19.org CNAME .
 3dcovid19.tech.mornings4.com CNAME .
 *.3dcovid19.tech.mornings4.com CNAME .
 3f2feb80.test.covid-19.forms.digital.nhs.uk CNAME .
@@ -5780,8 +5782,6 @@ corona-viruses.in CNAME .
 *.corona-viruses.in CNAME .
 coronaviruses.life CNAME .
 *.coronaviruses.life CNAME .
-coronaviruses.mhgi.cz CNAME .
-*.coronaviruses.mhgi.cz CNAME .
 coronavirus-espana.es CNAME .
 *.coronavirus-espana.es CNAME .
 coronavirusespana.eu CNAME .
@@ -6716,6 +6716,8 @@ coronavirus-info.ru CNAME .
 *.coronavirus-info.ru CNAME .
 coronavirus-infos.app CNAME .
 *.coronavirus-infos.app CNAME .
+coronavirusinfos.ch CNAME .
+*.coronavirusinfos.ch CNAME .
 coronavirusinfo.se CNAME .
 *.coronavirusinfo.se CNAME .
 coronavirus-infos.eu CNAME .
@@ -9388,6 +9390,8 @@ coronavirussymptomtest.com CNAME .
 *.coronavirussymptomtest.com CNAME .
 coronavirussymtoms.com CNAME .
 *.coronavirussymtoms.com CNAME .
+coronavirus-syria.com CNAME .
+*.coronavirus-syria.com CNAME .
 coronavirussyria.com CNAME .
 *.coronavirussyria.com CNAME .
 coronavirussystems.com CNAME .
@@ -10442,6 +10446,8 @@ covid19-20.com CNAME .
 *.covid19-20.com CNAME .
 covid1920.it CNAME .
 *.covid1920.it CNAME .
+covid-19-20.online CNAME .
+*.covid-19-20.online CNAME .
 covid19-20.online CNAME .
 *.covid19-20.online CNAME .
 covid19.21h.io CNAME .
@@ -14742,8 +14748,6 @@ covid19-news24.fr CNAME .
 *.covid19-news24.fr CNAME .
 covid19news.ca CNAME .
 *.covid19news.ca CNAME .
-covid19news.ch CNAME .
-*.covid19news.ch CNAME .
 covid19.newscrossover.com CNAME .
 *.covid19.newscrossover.com CNAME .
 covid19newsdaily.com CNAME .
@@ -15462,6 +15466,8 @@ covid19qia.com CNAME .
 *.covid19qia.com CNAME .
 covid19.qri.com CNAME .
 *.covid19.qri.com CNAME .
+covid19qr.icu CNAME .
+*.covid19qr.icu CNAME .
 covid19.qserve.co.ke CNAME .
 *.covid19.qserve.co.ke CNAME .
 covid-19quarantine.com CNAME .
@@ -20248,8 +20254,6 @@ indiacovid-19.in CNAME .
 *.indiacovid-19.in CNAME .
 indiacovid19.in CNAME .
 *.indiacovid19.in CNAME .
-indiacovid19trends.starke.repl.run CNAME .
-*.indiacovid19trends.starke.repl.run CNAME .
 indiacovid.com CNAME .
 *.indiacovid.com CNAME .
 indiafightscovid19.com CNAME .
@@ -23060,8 +23064,6 @@ reclamacionescoronavirus.es CNAME .
 *.reclamacionescoronavirus.es CNAME .
 reconversie-coronavirus.ro CNAME .
 *.reconversie-coronavirus.ro CNAME .
-recovid19.it CNAME .
-*.recovid19.it CNAME .
 recuperacionyaccesoalainformacioncovid19.live CNAME .
 *.recuperacionyaccesoalainformacioncovid19.live CNAME .
 recywood-covid19.com CNAME .
@@ -27238,6 +27240,8 @@ www.kickcovid19.org CNAME .
 *.www.kickcovid19.org CNAME .
 www.kickingcovid19.com CNAME .
 *.www.kickingcovid19.com CNAME .
+www.kickthecoronavirusring.com CNAME .
+*.www.kickthecoronavirusring.com CNAME .
 www.killthecoronavirusclothing.com CNAME .
 *.www.killthecoronavirusclothing.com CNAME .
 www.kitchenhelpcovid19.com CNAME .
