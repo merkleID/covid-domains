@@ -88,7 +88,6 @@ local-zone: "a641313f.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "aaacoronaviruscleaningservices.com.au" static
 local-zone: "aapicovid19.org" static
 local-zone: "abc-coronavirus.planethoster.world" static
-local-zone: "abc.ds-covid19.res.ibm.com" static
 local-zone: "abnsecurecovid-19.web5293.cweb04.gamingweb.de" static
 local-zone: "abogadacoronavirus.es" static
 local-zone: "abogadocovid19.cl" static
@@ -357,6 +356,7 @@ local-zone: "api.covid19.rnbo.gov.ua" static
 local-zone: "apicovid19.ru" static
 local-zone: "api.covid19sas.com" static
 local-zone: "api.covid19.social" static
+local-zone: "api.covid19tracking.appliedxl.com" static
 local-zone: "api.covid19uk.live" static
 local-zone: "api.covid19.ziphio.com" static
 local-zone: "api.dev.covid19.adn.be" static
@@ -2838,6 +2838,7 @@ local-zone: "coronavirusemergencyresponseplan.com" static
 local-zone: "coronavirusemployeetestkits.co.uk" static
 local-zone: "coronavirusemploymentlaw.com" static
 local-zone: "coronavirusemploymentlawyer.com" static
+local-zone: "coronavirus.emprisehc.com" static
 local-zone: "coronavirusemsantacatarina.com.br" static
 local-zone: "coronavirusemsc.com.br" static
 local-zone: "coronavirusencasa.com" static
@@ -2959,6 +2960,7 @@ local-zone: "coronavirusfestival.com" static
 local-zone: "coronavirusfiction.com" static
 local-zone: "coronavirus.fieldfisherjausas.com" static
 local-zone: "coronavirusfighterca.com" static
+local-zone: "coronavirusfighters.club" static
 local-zone: "coronavirusfightersindia.com" static
 local-zone: "coronavirusfight.net" static
 local-zone: "coronavirusfile.com" static
@@ -3904,6 +3906,7 @@ local-zone: "coronavirusnineteen.com" static
 local-zone: "coronavirusni.now.sh" static
 local-zone: "coronavirus.niralaeducation.com" static
 local-zone: "coronavirusnj.com" static
+local-zone: "coronavirus.nkwebdesign.nl" static
 local-zone: "coronavirusnl.com" static
 local-zone: "coronavirusnm.com" static
 local-zone: "coronavirus-nn.ru" static
@@ -5447,6 +5450,7 @@ local-zone: "covid19.babcock.ml" static
 local-zone: "covid19.babelprov.go.id" static
 local-zone: "covid19.bacalagers.com" static
 local-zone: "covid19backtobasics.com" static
+local-zone: "covid19bahia.com.br" static
 local-zone: "covid19.baltimorejewishlife.com" static
 local-zone: "covid-19-banchile-aumento.gq" static
 local-zone: "covid-19-banchile-aumento.tk" static
@@ -6359,6 +6363,7 @@ local-zone: "covid19.funpreneur.my.id" static
 local-zone: "covid19.fyi.my.id" static
 local-zone: "covid19ga.com" static
 local-zone: "covid19.gadgetstoreview.com" static
+local-zone: "covid19.gakla.net" static
 local-zone: "covid19.gal" static
 local-zone: "covid19.gamabox.id" static
 local-zone: "covid19game.co.uk" static
@@ -6603,6 +6608,7 @@ local-zone: "covid19-horizon.org" static
 local-zone: "covid-19hospital.com" static
 local-zone: "covid19hospital.com" static
 local-zone: "covid-19hospitalguideline.wales" static
+local-zone: "covid19hospitalstatus.com" static
 local-zone: "covid19.hostmario.com" static
 local-zone: "covid19hotel.com" static
 local-zone: "covid19.hotelexpert.club" static
@@ -7515,6 +7521,7 @@ local-zone: "covid19patrol.es" static
 local-zone: "covid19pause.com" static
 local-zone: "covid-19pay.online" static
 local-zone: "covid-19.paytech.tech" static
+local-zone: "covid19.pcvdev.com" static
 local-zone: "covid19pdhelp.com" static
 local-zone: "covid19percentage.com" static
 local-zone: "covid-19.perfecttechreviews.com" static
@@ -8075,6 +8082,7 @@ local-zone: "covid19-static.cdn-apple.com" static
 local-zone: "covid19-statistics.com" static
 local-zone: "covid19statistics.com" static
 local-zone: "covid19statistics.org" static
+local-zone: "covid19.statmodeller.com" static
 local-zone: "covid-19stat.online" static
 local-zone: "covid19stats.app" static
 local-zone: "covid19stats.ca" static
@@ -8245,6 +8253,7 @@ local-zone: "covid19taxreward.com" static
 local-zone: "covid19.taylor.edu" static
 local-zone: "covid19-tchad.org" static
 local-zone: "covid19tcs.com" static
+local-zone: "covid19.td" static
 local-zone: "covid19.tdr.com.mx" static
 local-zone: "covid19teachers.com" static
 local-zone: "covid19team.com" static
@@ -8529,6 +8538,7 @@ local-zone: "covid19update.nl" static
 local-zone: "covid19updatenow.com" static
 local-zone: "covid19-update.rohitnaik.in" static
 local-zone: "covid19update.royalstrides.com" static
+local-zone: "covid-19-updates.acreageholdings.com" static
 local-zone: "covid-19-update.sherwin-williams.com" static
 local-zone: "covid19updates-india.bhooraj.com" static
 local-zone: "covid19update.site" static
@@ -9142,7 +9152,6 @@ local-zone: "cpanel.novelcoronavirus.de" static
 local-zone: "cpanel.testcovid19ec.com" static
 local-zone: "cpcalendars.coronavirustestingkits.co.uk" static
 local-zone: "cpcontacts.coronavirus-pandemia.com" static
-local-zone: "cpcontacts.covid19.bgsuae.com" static
 local-zone: "cpcontacts.covid19hilfe.com" static
 local-zone: "cpcontacts.covid19infoapp.com" static
 local-zone: "cpcontacts.covid19testkit.life" static
@@ -10097,10 +10106,10 @@ local-zone: "irancovidcount.com" static
 local-zone: "iraqcoronavirus.com" static
 local-zone: "irc-covid-19.com" static
 local-zone: "iscoronavirusahoax.com" static
+local-zone: "iscoronaviruscrisisover.com" static
 local-zone: "iscoronavirusdefeatedyet.co.uk" static
 local-zone: "iscoronavirusgoingtokillyou.com" static
 local-zone: "iscoronavirusover.com" static
-local-zone: "iscoronavirusoveryet.com" static
 local-zone: "iscovid19nearme.com" static
 local-zone: "iscovid19overyet.com" static
 local-zone: "iseverythingstillcanceledbecausecoronavirus.com" static
@@ -10487,6 +10496,7 @@ local-zone: "maskforcoronavirus.shop" static
 local-zone: "maskforcovid19.anywin.co.uk" static
 local-zone: "maskforcovid.com" static
 local-zone: "maskforthecoronavirus.com" static
+local-zone: "maskicovid19.pl" static
 local-zone: "maskitagainistcovid-19.com" static
 local-zone: "maskofcorona.com" static
 local-zone: "masks4covid19.com" static
@@ -12965,7 +12975,6 @@ local-zone: "www.covid19analytica.com" static
 local-zone: "www.covid-19antibody.com" static
 local-zone: "www.covid19antibodytesting.com" static
 local-zone: "www.covid19apparel.store" static
-local-zone: "www.covid19.ariepedia.net" static
 local-zone: "www.covid19.arkansasofficeproducts.com" static
 local-zone: "www.covid19armor.com" static
 local-zone: "www.covid19.army" static
@@ -13115,6 +13124,8 @@ local-zone: "www.covid19homefitness.com" static
 local-zone: "www.covid19homestore.com" static
 local-zone: "www.covid-19hometestkits.com" static
 local-zone: "www.covid19honduras.org" static
+local-zone: "www.covid19hospitalstatus.com" static
+local-zone: "www.covid19hospitalstatus.org" static
 local-zone: "www.covid-19housingsolutions.com" static
 local-zone: "www.covid19i-ch4ase.com" static
 local-zone: "www.covid19-id.org" static
@@ -13334,6 +13345,7 @@ local-zone: "www.covid19unemployment.net" static
 local-zone: "www.covid19.uni.lodz.pl" static
 local-zone: "www.covid-19update.app" static
 local-zone: "www.covid-19.update.jevezo.com" static
+local-zone: "www.covid-19-updates.acreageholdings.com" static
 local-zone: "www.covid19-updates.cf" static
 local-zone: "www.covid19updates.in" static
 local-zone: "www.covid19usadebtrelief.com" static
