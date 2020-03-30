@@ -385,6 +385,7 @@ local-zone: "api.preview.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "api-prod.coronavirusinfo.cl" static
 local-zone: "api.rapidcovid19.rymedi.com" static
 local-zone: "api.rapidtest.relawancovid19.id" static
+local-zone: "api.reportecovid19.com" static
 local-zone: "apirestcovid19.habber.com" static
 local-zone: "api.staging.covid19.adn.be" static
 local-zone: "api.track.covid-19.rowles.ch" static
@@ -592,6 +593,7 @@ local-zone: "blockchain-covid19.com" static
 local-zone: "blog.4covid19.club" static
 local-zone: "blog.coronaviruselpaso.org" static
 local-zone: "blog.coronavirusspy.com" static
+local-zone: "blog.covid19archive.sites.carleton.edu" static
 local-zone: "blogfeedbackcoronavirus.com" static
 local-zone: "blog.guerra-coronavirus.com" static
 local-zone: "blogprocoronavirus.online" static
@@ -1966,6 +1968,7 @@ local-zone: "coronavirus19testing.com" static
 local-zone: "coronavirus19testingkit.com" static
 local-zone: "coronavirus19tests.com" static
 local-zone: "coronavirus19usa.com" static
+local-zone: "coronavirus1.online" static
 local-zone: "coronavirus-2019.com" static
 local-zone: "coronavirus2019.co.uk" static
 local-zone: "coronavirus-2019.es" static
@@ -2248,6 +2251,7 @@ local-zone: "coronavirusbook.org" static
 local-zone: "coronavirusbooks.com" static
 local-zone: "corona-virus-bot.botplatform.xyz" static
 local-zone: "coronavirus-bot.com" static
+local-zone: "coronavirus-bot.ru" static
 local-zone: "coronavirusbox.com" static
 local-zone: "coronavirusbracelets.com" static
 local-zone: "coronavirus.brandproducts.best" static
@@ -6393,7 +6397,6 @@ local-zone: "covid19.funpreneur.my.id" static
 local-zone: "covid19.fyi.my.id" static
 local-zone: "covid19ga.com" static
 local-zone: "covid19.gadgetstoreview.com" static
-local-zone: "covid19.gakla.net" static
 local-zone: "covid19.gal" static
 local-zone: "covid19.gamabox.id" static
 local-zone: "covid19game.co.uk" static
@@ -7411,7 +7414,6 @@ local-zone: "covid19.nokensoft.com" static
 local-zone: "covid19nordic.com" static
 local-zone: "covid19-normal.com" static
 local-zone: "covid-19-normalcy.com" static
-local-zone: "covid-19normality.co" static
 local-zone: "covid-19normality.com" static
 local-zone: "covid19-norwegian.com" static
 local-zone: "covid-19-notebooks.devk8s.iunera.com" static
@@ -7422,6 +7424,7 @@ local-zone: "covid19notify.com" static
 local-zone: "covid19.novae-group.com" static
 local-zone: "covid-19now.com" static
 local-zone: "covid-19now.info" static
+local-zone: "covid19np.info" static
 local-zone: "covid19.nrna.org.np" static
 local-zone: "covid19.n-tech365.com" static
 local-zone: "covid-19.nubestaging.com" static
@@ -8098,6 +8101,7 @@ local-zone: "covid19.soprarpower.com" static
 local-zone: "covid19.sorcero.io" static
 local-zone: "covid-19-sos.com" static
 local-zone: "covid19sos.com" static
+local-zone: "covid19.sosdados.com.br" static
 local-zone: "covid-19.sos.pl" static
 local-zone: "covid19.sos.pl" static
 local-zone: "covid-19-sos.tiendasdeabarrotes.com" static
@@ -8320,7 +8324,6 @@ local-zone: "covid19tech.org" static
 local-zone: "covid19.techranco.ir" static
 local-zone: "covid19.techsathi.com" static
 local-zone: "covid19techspot.com" static
-local-zone: "covid-19.tech-spots.com" static
 local-zone: "covid19.tecopedia.com" static
 local-zone: "covid19teez.com" static
 local-zone: "covid19.telangana.gov.in" static
@@ -8466,6 +8469,7 @@ local-zone: "covid19times.com" static
 local-zone: "covid-19tip.com" static
 local-zone: "covid19tip.com" static
 local-zone: "covid-19tipjar.com" static
+local-zone: "covid19.tipricks.com" static
 local-zone: "covid-19tips.com" static
 local-zone: "covid19tips.co.za" static
 local-zone: "covid19tips.info" static
@@ -9479,7 +9483,6 @@ local-zone: "dukcovid19live.com" static
 local-zone: "duplessiscoronavirusupdate.com" static
 local-zone: "durgscoronavirus.com" static
 local-zone: "durgsforcoronavirus.com" static
-local-zone: "duringcovid19.com" static
 local-zone: "duvidascoronavirus.com" static
 local-zone: "e18a5112.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "e2d377f6.test.covid-19.forms.digital.nhs.uk" static
@@ -10186,6 +10189,7 @@ local-zone: "iscoronavirusgoingtokillyou.com" static
 local-zone: "iscoronavirusover.com" static
 local-zone: "iscovid19nearme.com" static
 local-zone: "iscovid19overyet.com" static
+local-zone: "iservivedcovid-19.us" static
 local-zone: "iseverythingstillcanceledbecausecoronavirus.com" static
 local-zone: "isitcoronavirus.com" static
 local-zone: "isitcovid-19.com" static
@@ -10831,6 +10835,7 @@ local-zone: "neo4j.grace-covid19.2021.services" static
 local-zone: "nepalcorona.com" static
 local-zone: "nepalcoronavirus.com" static
 local-zone: "neplusavoirpeurducoronavirus.com" static
+local-zone: "neptune-covid19.com" static
 local-zone: "netflixcovid19s.com" static
 local-zone: "netherlandscoronavirus.com" static
 local-zone: "nettoyagecoronavirus.com" static
@@ -11360,6 +11365,7 @@ local-zone: "previeneelcoronavirus.com" static
 local-zone: "primacovid19.com" static
 local-zone: "privatecoronavirustest.com" static
 local-zone: "private.covid-19lab.com" static
+local-zone: "pro-coronavirus24.ru" static
 local-zone: "pro-coronavirus.com" static
 local-zone: "pro-covid19.ru" static
 local-zone: "prod.cms.coronavirusresources.phe.gov.uk" static
@@ -11528,7 +11534,6 @@ local-zone: "removecorona.com" static
 local-zone: "repelcoronavirus.com" static
 local-zone: "reportcovid19.com.ng" static
 local-zone: "reportcovid.com" static
-local-zone: "reportecovid19.com" static
 local-zone: "resist-corona.com" static
 local-zone: "resistcovid-19.com" static
 local-zone: "resistcovid19.org" static
@@ -13743,6 +13748,7 @@ local-zone: "www.recherche-covid-19.com" static
 local-zone: "www.recywood-covid19.com" static
 local-zone: "www.registroscovid19.construmateriales.a2hosted.com" static
 local-zone: "www.reportcoronavirussymptoms.com" static
+local-zone: "www.reportecovid19.com" static
 local-zone: "www.resistiendoalcoronavirus.com" static
 local-zone: "www.resources.coronavirusfacts.org" static
 local-zone: "www.ridicovid19.com" static
