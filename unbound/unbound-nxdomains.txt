@@ -5880,7 +5880,6 @@ local-zone: "covid19-dataexchange.com" static
 local-zone: "covid-19-dataexchange.org" static
 local-zone: "covid19-dataexchange.org" static
 local-zone: "covid19data.fr" static
-local-zone: "covid19data.global" static
 local-zone: "covid19.data.gov.rs" static
 local-zone: "covid-19data.net" static
 local-zone: "covid19datanow.com" static
@@ -6706,6 +6705,7 @@ local-zone: "covid19.ivis.africa" static
 local-zone: "covid19.iwate-pu.net" static
 local-zone: "covid19jagratha.kerala.nic.in" static
 local-zone: "covid19.jambikota.go.id" static
+local-zone: "covid19.jandeu.cz" static
 local-zone: "covid19-japan.com" static
 local-zone: "covid19japan.net" static
 local-zone: "covid19.javahost.id" static
@@ -8519,6 +8519,7 @@ local-zone: "covid19.webfashion.eu" static
 local-zone: "covid19.webgis.my.id" static
 local-zone: "covid19webinar01.pages.ontraport.net" static
 local-zone: "covid19webinar01recording.pages.ontraport.net" static
+local-zone: "covid19-webinar.alem.lu" static
 local-zone: "covid-19webinar.ifma.org" static
 local-zone: "covid19.webinasia.com" static
 local-zone: "covid19.webislam.id" static
@@ -9555,6 +9556,7 @@ local-zone: "fuckyoucovid19.pt" static
 local-zone: "fucorona.com" static
 local-zone: "fucoronavirus.co.uk" static
 local-zone: "fucovid19.com" static
+local-zone: "fukuoka.stopcovid19.jp" static
 local-zone: "fundacionayudacoronavirus.xyz" static
 local-zone: "fundascoronavirus.com" static
 local-zone: "fvckcovid-19.com" static
@@ -12130,6 +12132,7 @@ local-zone: "w3covid-19.net" static
 local-zone: "w3covid19.net" static
 local-zone: "w3covid-19.org" static
 local-zone: "wacoronavirus.com" static
+local-zone: "wa-daily-covid-19.com" static
 local-zone: "wahkiakumcovid19.com" static
 local-zone: "walkinginthetimeofcoronavirus.com" static
 local-zone: "warcorona.com" static
@@ -13271,6 +13274,7 @@ local-zone: "www.nebraskabroadcasterscovid19resources.com" static
 local-zone: "www.nechcicovid19.cz" static
 local-zone: "www.newcoronavirus2019.info" static
 local-zone: "www.newcoronavirus.co" static
+local-zone: "www.nhscovid19.fund" static
 local-zone: "www.nomorecovid-19.com" static
 local-zone: "www.nonprofitcovid19.org" static
 local-zone: "www.normalityforcovid-19.com" static

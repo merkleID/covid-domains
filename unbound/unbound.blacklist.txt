@@ -11762,8 +11762,6 @@ local-zone: "covid19-dataexchange.org" redirect
 local-data: "covid19-dataexchange.org A 0.0.0.0"
 local-zone: "covid19data.fr" redirect
 local-data: "covid19data.fr A 0.0.0.0"
-local-zone: "covid19data.global" redirect
-local-data: "covid19data.global A 0.0.0.0"
 local-zone: "covid19.data.gov.rs" redirect
 local-data: "covid19.data.gov.rs A 0.0.0.0"
 local-zone: "covid-19data.net" redirect
@@ -13414,6 +13412,8 @@ local-zone: "covid19jagratha.kerala.nic.in" redirect
 local-data: "covid19jagratha.kerala.nic.in A 0.0.0.0"
 local-zone: "covid19.jambikota.go.id" redirect
 local-data: "covid19.jambikota.go.id A 0.0.0.0"
+local-zone: "covid19.jandeu.cz" redirect
+local-data: "covid19.jandeu.cz A 0.0.0.0"
 local-zone: "covid19-japan.com" redirect
 local-data: "covid19-japan.com A 0.0.0.0"
 local-zone: "covid19japan.net" redirect
@@ -17040,6 +17040,8 @@ local-zone: "covid19webinar01.pages.ontraport.net" redirect
 local-data: "covid19webinar01.pages.ontraport.net A 0.0.0.0"
 local-zone: "covid19webinar01recording.pages.ontraport.net" redirect
 local-data: "covid19webinar01recording.pages.ontraport.net A 0.0.0.0"
+local-zone: "covid19-webinar.alem.lu" redirect
+local-data: "covid19-webinar.alem.lu A 0.0.0.0"
 local-zone: "covid-19webinar.ifma.org" redirect
 local-data: "covid-19webinar.ifma.org A 0.0.0.0"
 local-zone: "covid19.webinasia.com" redirect
@@ -19112,6 +19114,8 @@ local-zone: "fucoronavirus.co.uk" redirect
 local-data: "fucoronavirus.co.uk A 0.0.0.0"
 local-zone: "fucovid19.com" redirect
 local-data: "fucovid19.com A 0.0.0.0"
+local-zone: "fukuoka.stopcovid19.jp" redirect
+local-data: "fukuoka.stopcovid19.jp A 0.0.0.0"
 local-zone: "fundacionayudacoronavirus.xyz" redirect
 local-data: "fundacionayudacoronavirus.xyz A 0.0.0.0"
 local-zone: "fundascoronavirus.com" redirect
@@ -24262,6 +24266,8 @@ local-zone: "w3covid-19.org" redirect
 local-data: "w3covid-19.org A 0.0.0.0"
 local-zone: "wacoronavirus.com" redirect
 local-data: "wacoronavirus.com A 0.0.0.0"
+local-zone: "wa-daily-covid-19.com" redirect
+local-data: "wa-daily-covid-19.com A 0.0.0.0"
 local-zone: "wahkiakumcovid19.com" redirect
 local-data: "wahkiakumcovid19.com A 0.0.0.0"
 local-zone: "walkinginthetimeofcoronavirus.com" redirect
@@ -26544,6 +26550,8 @@ local-zone: "www.newcoronavirus2019.info" redirect
 local-data: "www.newcoronavirus2019.info A 0.0.0.0"
 local-zone: "www.newcoronavirus.co" redirect
 local-data: "www.newcoronavirus.co A 0.0.0.0"
+local-zone: "www.nhscovid19.fund" redirect
+local-data: "www.nhscovid19.fund A 0.0.0.0"
 local-zone: "www.nomorecovid-19.com" redirect
 local-data: "www.nomorecovid-19.com A 0.0.0.0"
 local-zone: "www.nonprofitcovid19.org" redirect

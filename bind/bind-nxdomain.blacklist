@@ -11766,8 +11766,6 @@ covid19-dataexchange.org CNAME .
 *.covid19-dataexchange.org CNAME .
 covid19data.fr CNAME .
 *.covid19data.fr CNAME .
-covid19data.global CNAME .
-*.covid19data.global CNAME .
 covid19.data.gov.rs CNAME .
 *.covid19.data.gov.rs CNAME .
 covid-19data.net CNAME .
@@ -13418,6 +13416,8 @@ covid19jagratha.kerala.nic.in CNAME .
 *.covid19jagratha.kerala.nic.in CNAME .
 covid19.jambikota.go.id CNAME .
 *.covid19.jambikota.go.id CNAME .
+covid19.jandeu.cz CNAME .
+*.covid19.jandeu.cz CNAME .
 covid19-japan.com CNAME .
 *.covid19-japan.com CNAME .
 covid19japan.net CNAME .
@@ -17044,6 +17044,8 @@ covid19webinar01.pages.ontraport.net CNAME .
 *.covid19webinar01.pages.ontraport.net CNAME .
 covid19webinar01recording.pages.ontraport.net CNAME .
 *.covid19webinar01recording.pages.ontraport.net CNAME .
+covid19-webinar.alem.lu CNAME .
+*.covid19-webinar.alem.lu CNAME .
 covid-19webinar.ifma.org CNAME .
 *.covid-19webinar.ifma.org CNAME .
 covid19.webinasia.com CNAME .
@@ -19116,6 +19118,8 @@ fucoronavirus.co.uk CNAME .
 *.fucoronavirus.co.uk CNAME .
 fucovid19.com CNAME .
 *.fucovid19.com CNAME .
+fukuoka.stopcovid19.jp CNAME .
+*.fukuoka.stopcovid19.jp CNAME .
 fundacionayudacoronavirus.xyz CNAME .
 *.fundacionayudacoronavirus.xyz CNAME .
 fundascoronavirus.com CNAME .
@@ -24266,6 +24270,8 @@ w3covid-19.org CNAME .
 *.w3covid-19.org CNAME .
 wacoronavirus.com CNAME .
 *.wacoronavirus.com CNAME .
+wa-daily-covid-19.com CNAME .
+*.wa-daily-covid-19.com CNAME .
 wahkiakumcovid19.com CNAME .
 *.wahkiakumcovid19.com CNAME .
 walkinginthetimeofcoronavirus.com CNAME .
@@ -26548,6 +26554,8 @@ www.newcoronavirus2019.info CNAME .
 *.www.newcoronavirus2019.info CNAME .
 www.newcoronavirus.co CNAME .
 *.www.newcoronavirus.co CNAME .
+www.nhscovid19.fund CNAME .
+*.www.nhscovid19.fund CNAME .
 www.nomorecovid-19.com CNAME .
 *.www.nomorecovid-19.com CNAME .
 www.nonprofitcovid19.org CNAME .
