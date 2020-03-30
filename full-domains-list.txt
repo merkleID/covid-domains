@@ -9,6 +9,7 @@
 105-for-single-glyphs-add-line.api.covid19vis.lingvis.io
 106-crawler-use-env.covid19vis.lingvis.io
 108-set-default-api-url-to-staging.api.covid19vis.lingvis.io
+112covid19.ro
 113-incorporate-divi-data-to-bed-counts.covid19vis.lingvis.io
 114-url-are-too-long-for-letse.covid19vis.lingvis.io
 115-use-pigz-for-tile-server-d.covid19vis.lingvis.io
@@ -2073,6 +2074,7 @@ corona-virus-answers.com
 coronavirusantibiotic.com
 coronavirus-antibody.co.uk
 coronavirusantidoto.com
+coronavirus-antigen.co.uk
 coronavirusanxietytips.com
 coronavirus.ao.cl
 coronavirusapandemic.com
@@ -2639,6 +2641,7 @@ coronavirusdebtrelief.com
 coronavirusde.com
 coronavirus-decontamination-services.com
 coronavirusdecontaminationservices.com
+coronavirusdeepcleaners.co.uk
 coronavirusdeepdisinfection.com
 coronavirusdefencepack.com
 coronavirusdefend.co
@@ -3192,6 +3195,7 @@ coronavirus-hometest.eu
 coronavirushometesting.com
 coronavirushometestingkit.com
 coronavirushometestingkits.com
+coronavirushometestkit.co.uk
 coronavirushometestkits.com
 coronavirushometestkits.co.uk
 coronavirushometestkits.net
@@ -3530,7 +3534,6 @@ coronavirusloans.com
 coronavirusloansnow.com
 coronavirusloans.org
 corona-virus.localbusinessonline.ie
-coronaviruslocalresponse.co.uk
 corona-virus-location.com
 coronaviruslocationmap.com
 coronavirus-locations.com
@@ -5803,6 +5806,7 @@ covid-19-cos.org
 covid19.costamednetwork.net
 covid19.cost.or.ug
 covid19.cosupni.org
+covid-19.co.uk
 covid19counsel.com
 covid19counselling.com
 covid19countdown.com
@@ -6175,6 +6179,7 @@ covid19.faleddo.com
 covid19familyguide.com
 covid-19familyprotection.com
 covid19fandemic.com
+covid19.fap.pt
 covid-19-faq.com
 covid19faqs.com
 covid19faqs.net
@@ -6211,6 +6216,7 @@ covid19fit.uk
 covid19-flashsale.xulamexicancoffee.com
 covid19fl.com
 covid19.flowme.online
+covid19.flowsa.com
 covid19flushot.com
 covid-19.fm
 covid19.fmoh.gov.ba
@@ -6342,6 +6348,7 @@ covid19.gorter.io
 covid19.gou.go.ug
 covid19.goumkm.online
 covid19.gov.au
+covid-19.gov-business.support
 covid19.govcms.gov.au
 covid-19.gov.cv
 covid19.gov.cv
@@ -7257,6 +7264,7 @@ covid-19-notebooks.devk8s.iunera.com
 covid19notes.com
 covid-19.not-forgotten.com
 covid19notifier.devs-cast.com
+covid19notify.com
 covid19.novae-group.com
 covid-19now.com
 covid-19now.info
@@ -7597,6 +7605,7 @@ covid19-redhill-io.now.sh
 covid19redmond.com
 covid19.redslab.ie
 covid19.redtailstudio.com
+covid-19.redwards.co.uk
 covid19.refli.host
 covid19.regionmadrededios.gob.pe
 covid19-register4assessment.com
@@ -7661,6 +7670,7 @@ covid19.riddlesgroup.com
 covid19riding.cl
 covid19.ridohidayat.com
 covid19.rinookta.com
+covid19.rip
 covid19risarcimenti.it
 covid19risk.ai
 covid19riskassessment.com
@@ -10260,7 +10270,6 @@ map-coronavirus.info
 mapcovid19.com
 map.covid19homehealth.com
 map-covid19.online
-mapcovid19.org
 mapcovid19.sukabumikota.go.id
 map-covid.com
 mapearocoronavirus.insidesi.com.br
@@ -11279,7 +11288,6 @@ romaniacoronavirus.com
 roofclad.covid-19.wrigglemarketing.co.uk
 roomingwithcovid19.com
 router.ncov2019.asia
-roxascitycovid19.ph
 rsacovid-19.novaltd.co.za
 rstudio.covid19data.dk
 ru-coronavirus.info
@@ -11386,14 +11394,12 @@ server.coronavirustelesalud.com
 servicios.coronavirus.gub.uy
 servicios-covid-19-ayudas.gq
 servicios-covid-19.gq
-servicos.covid19eu.pt
 sesaicoronavirus.org
 settlementcovid19.com
 sg.againstcovid19.com
 sgbcovid19.com
 sg-coronavirus-statistics.ash15khng.repl.run
 sgcovid19.zendesk.com
-sgf-mumedstudent-covid19ref.org
 sgtiflexcovid19.com
 sha52.covid19.eas.cornell.edu
 sh-covid19.zendesk.com
@@ -11642,11 +11648,9 @@ survivedcovid19.com
 survivethecoronavirus.info
 survivingcorona2020.com
 surviving-coronavirus.com
-survivingcoronavirus.org
 survivingcoronavirusoutbreak.com
 survivingcovid19.com
 survivingcovid19.life
-survivingcovid-19.org
 survivingcovid19.org
 survivingcovid.com
 survivingthepandemic.com
@@ -11717,6 +11721,7 @@ testcovid19.com.pl
 testcovid-19.de
 test.covid19india.org
 testcovid19.io
+test.covid-19.krd
 test.covid19map.co.nz
 testcovid19.me
 test-covid-19.ml
@@ -11994,6 +11999,7 @@ turkiyecoronavirusu.com
 turmericforcoronavirus.com
 tuttoinfocovid19.altervista.org
 tvcoronavirus.es
+twitterdata.covid19dataresources.org
 txcoronavirus.com
 uaecoronavirus.com
 uatcovid19.labcrunch.org
@@ -12378,6 +12384,7 @@ www.alliance-covid19.fr
 www.alliance-covid-19.org
 www.alliancecovid19.org
 www.amandaricovid19.com
+www.amapacontracovid19.com.br
 www.anticoronavirus-19.com
 www.anticoronavirus2020.com
 www.anticoronavirus.de
@@ -13207,7 +13214,6 @@ www.gemeinsam-gegen-covid19.de
 www.georgiacovid19law.com
 www.gesund-trotz-coronavirus.de
 www.getcovid19help.com
-www.globalcoronavirus.org
 www.global-corona-virus-test.com
 www.globalcovid19poll.com
 www.goarmybeatcovid19.com
@@ -13266,6 +13272,7 @@ www.lowereastside-covid19.com
 www.luchandocontraelcovid19.co.uk
 www.luftambulanse-covid19.no
 www.lutte-coronavirus.com
+www.maciu.ajutorcovid19.net
 www.madeinchinacovid19.com
 www.maiavscovid19.com
 www.maladie-coronavirus.com

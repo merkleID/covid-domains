@@ -9,6 +9,7 @@
 0.0.0.0 105-for-single-glyphs-add-line.api.covid19vis.lingvis.io
 0.0.0.0 106-crawler-use-env.covid19vis.lingvis.io
 0.0.0.0 108-set-default-api-url-to-staging.api.covid19vis.lingvis.io
+0.0.0.0 112covid19.ro
 0.0.0.0 113-incorporate-divi-data-to-bed-counts.covid19vis.lingvis.io
 0.0.0.0 114-url-are-too-long-for-letse.covid19vis.lingvis.io
 0.0.0.0 115-use-pigz-for-tile-server-d.covid19vis.lingvis.io
@@ -2073,6 +2074,7 @@
 0.0.0.0 coronavirusantibiotic.com
 0.0.0.0 coronavirus-antibody.co.uk
 0.0.0.0 coronavirusantidoto.com
+0.0.0.0 coronavirus-antigen.co.uk
 0.0.0.0 coronavirusanxietytips.com
 0.0.0.0 coronavirus.ao.cl
 0.0.0.0 coronavirusapandemic.com
@@ -2639,6 +2641,7 @@
 0.0.0.0 coronavirusde.com
 0.0.0.0 coronavirus-decontamination-services.com
 0.0.0.0 coronavirusdecontaminationservices.com
+0.0.0.0 coronavirusdeepcleaners.co.uk
 0.0.0.0 coronavirusdeepdisinfection.com
 0.0.0.0 coronavirusdefencepack.com
 0.0.0.0 coronavirusdefend.co
@@ -3192,6 +3195,7 @@
 0.0.0.0 coronavirushometesting.com
 0.0.0.0 coronavirushometestingkit.com
 0.0.0.0 coronavirushometestingkits.com
+0.0.0.0 coronavirushometestkit.co.uk
 0.0.0.0 coronavirushometestkits.com
 0.0.0.0 coronavirushometestkits.co.uk
 0.0.0.0 coronavirushometestkits.net
@@ -3530,7 +3534,6 @@
 0.0.0.0 coronavirusloansnow.com
 0.0.0.0 coronavirusloans.org
 0.0.0.0 corona-virus.localbusinessonline.ie
-0.0.0.0 coronaviruslocalresponse.co.uk
 0.0.0.0 corona-virus-location.com
 0.0.0.0 coronaviruslocationmap.com
 0.0.0.0 coronavirus-locations.com
@@ -5803,6 +5806,7 @@
 0.0.0.0 covid19.costamednetwork.net
 0.0.0.0 covid19.cost.or.ug
 0.0.0.0 covid19.cosupni.org
+0.0.0.0 covid-19.co.uk
 0.0.0.0 covid19counsel.com
 0.0.0.0 covid19counselling.com
 0.0.0.0 covid19countdown.com
@@ -6175,6 +6179,7 @@
 0.0.0.0 covid19familyguide.com
 0.0.0.0 covid-19familyprotection.com
 0.0.0.0 covid19fandemic.com
+0.0.0.0 covid19.fap.pt
 0.0.0.0 covid-19-faq.com
 0.0.0.0 covid19faqs.com
 0.0.0.0 covid19faqs.net
@@ -6211,6 +6216,7 @@
 0.0.0.0 covid19-flashsale.xulamexicancoffee.com
 0.0.0.0 covid19fl.com
 0.0.0.0 covid19.flowme.online
+0.0.0.0 covid19.flowsa.com
 0.0.0.0 covid19flushot.com
 0.0.0.0 covid-19.fm
 0.0.0.0 covid19.fmoh.gov.ba
@@ -6342,6 +6348,7 @@
 0.0.0.0 covid19.gou.go.ug
 0.0.0.0 covid19.goumkm.online
 0.0.0.0 covid19.gov.au
+0.0.0.0 covid-19.gov-business.support
 0.0.0.0 covid19.govcms.gov.au
 0.0.0.0 covid-19.gov.cv
 0.0.0.0 covid19.gov.cv
@@ -7257,6 +7264,7 @@
 0.0.0.0 covid19notes.com
 0.0.0.0 covid-19.not-forgotten.com
 0.0.0.0 covid19notifier.devs-cast.com
+0.0.0.0 covid19notify.com
 0.0.0.0 covid19.novae-group.com
 0.0.0.0 covid-19now.com
 0.0.0.0 covid-19now.info
@@ -7597,6 +7605,7 @@
 0.0.0.0 covid19redmond.com
 0.0.0.0 covid19.redslab.ie
 0.0.0.0 covid19.redtailstudio.com
+0.0.0.0 covid-19.redwards.co.uk
 0.0.0.0 covid19.refli.host
 0.0.0.0 covid19.regionmadrededios.gob.pe
 0.0.0.0 covid19-register4assessment.com
@@ -7661,6 +7670,7 @@
 0.0.0.0 covid19riding.cl
 0.0.0.0 covid19.ridohidayat.com
 0.0.0.0 covid19.rinookta.com
+0.0.0.0 covid19.rip
 0.0.0.0 covid19risarcimenti.it
 0.0.0.0 covid19risk.ai
 0.0.0.0 covid19riskassessment.com
@@ -10260,7 +10270,6 @@
 0.0.0.0 mapcovid19.com
 0.0.0.0 map.covid19homehealth.com
 0.0.0.0 map-covid19.online
-0.0.0.0 mapcovid19.org
 0.0.0.0 mapcovid19.sukabumikota.go.id
 0.0.0.0 map-covid.com
 0.0.0.0 mapearocoronavirus.insidesi.com.br
@@ -11279,7 +11288,6 @@
 0.0.0.0 roofclad.covid-19.wrigglemarketing.co.uk
 0.0.0.0 roomingwithcovid19.com
 0.0.0.0 router.ncov2019.asia
-0.0.0.0 roxascitycovid19.ph
 0.0.0.0 rsacovid-19.novaltd.co.za
 0.0.0.0 rstudio.covid19data.dk
 0.0.0.0 ru-coronavirus.info
@@ -11386,14 +11394,12 @@
 0.0.0.0 servicios.coronavirus.gub.uy
 0.0.0.0 servicios-covid-19-ayudas.gq
 0.0.0.0 servicios-covid-19.gq
-0.0.0.0 servicos.covid19eu.pt
 0.0.0.0 sesaicoronavirus.org
 0.0.0.0 settlementcovid19.com
 0.0.0.0 sg.againstcovid19.com
 0.0.0.0 sgbcovid19.com
 0.0.0.0 sg-coronavirus-statistics.ash15khng.repl.run
 0.0.0.0 sgcovid19.zendesk.com
-0.0.0.0 sgf-mumedstudent-covid19ref.org
 0.0.0.0 sgtiflexcovid19.com
 0.0.0.0 sha52.covid19.eas.cornell.edu
 0.0.0.0 sh-covid19.zendesk.com
@@ -11642,11 +11648,9 @@
 0.0.0.0 survivethecoronavirus.info
 0.0.0.0 survivingcorona2020.com
 0.0.0.0 surviving-coronavirus.com
-0.0.0.0 survivingcoronavirus.org
 0.0.0.0 survivingcoronavirusoutbreak.com
 0.0.0.0 survivingcovid19.com
 0.0.0.0 survivingcovid19.life
-0.0.0.0 survivingcovid-19.org
 0.0.0.0 survivingcovid19.org
 0.0.0.0 survivingcovid.com
 0.0.0.0 survivingthepandemic.com
@@ -11717,6 +11721,7 @@
 0.0.0.0 testcovid-19.de
 0.0.0.0 test.covid19india.org
 0.0.0.0 testcovid19.io
+0.0.0.0 test.covid-19.krd
 0.0.0.0 test.covid19map.co.nz
 0.0.0.0 testcovid19.me
 0.0.0.0 test-covid-19.ml
@@ -11994,6 +11999,7 @@
 0.0.0.0 turmericforcoronavirus.com
 0.0.0.0 tuttoinfocovid19.altervista.org
 0.0.0.0 tvcoronavirus.es
+0.0.0.0 twitterdata.covid19dataresources.org
 0.0.0.0 txcoronavirus.com
 0.0.0.0 uaecoronavirus.com
 0.0.0.0 uatcovid19.labcrunch.org
@@ -12378,6 +12384,7 @@
 0.0.0.0 www.alliance-covid-19.org
 0.0.0.0 www.alliancecovid19.org
 0.0.0.0 www.amandaricovid19.com
+0.0.0.0 www.amapacontracovid19.com.br
 0.0.0.0 www.anticoronavirus-19.com
 0.0.0.0 www.anticoronavirus2020.com
 0.0.0.0 www.anticoronavirus.de
@@ -13207,7 +13214,6 @@
 0.0.0.0 www.georgiacovid19law.com
 0.0.0.0 www.gesund-trotz-coronavirus.de
 0.0.0.0 www.getcovid19help.com
-0.0.0.0 www.globalcoronavirus.org
 0.0.0.0 www.global-corona-virus-test.com
 0.0.0.0 www.globalcovid19poll.com
 0.0.0.0 www.goarmybeatcovid19.com
@@ -13266,6 +13272,7 @@
 0.0.0.0 www.luchandocontraelcovid19.co.uk
 0.0.0.0 www.luftambulanse-covid19.no
 0.0.0.0 www.lutte-coronavirus.com
+0.0.0.0 www.maciu.ajutorcovid19.net
 0.0.0.0 www.madeinchinacovid19.com
 0.0.0.0 www.maiavscovid19.com
 0.0.0.0 www.maladie-coronavirus.com
