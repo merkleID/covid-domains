@@ -3976,6 +3976,8 @@ local-zone: "coronavirus2020survivor.com" redirect
 local-data: "coronavirus2020survivor.com A 0.0.0.0"
 local-zone: "coronavirus2020tees.com" redirect
 local-data: "coronavirus2020tees.com A 0.0.0.0"
+local-zone: "coronavirus-2020.world" redirect
+local-data: "coronavirus-2020.world A 0.0.0.0"
 local-zone: "coronavirus2020.wtf" redirect
 local-data: "coronavirus2020.wtf A 0.0.0.0"
 local-zone: "coronavirus2021survivor.com" redirect
@@ -5696,8 +5698,6 @@ local-zone: "coronavirusemergencyplans.com" redirect
 local-data: "coronavirusemergencyplans.com A 0.0.0.0"
 local-zone: "coronavirusemergencyresponseplan.com" redirect
 local-data: "coronavirusemergencyresponseplan.com A 0.0.0.0"
-local-zone: "coronavirusemployeetestkits.co.uk" redirect
-local-data: "coronavirusemployeetestkits.co.uk A 0.0.0.0"
 local-zone: "coronavirusemploymentlaw.com" redirect
 local-data: "coronavirusemploymentlaw.com A 0.0.0.0"
 local-zone: "coronavirusemploymentlawyer.com" redirect
@@ -11050,6 +11050,8 @@ local-zone: "covid19-bengkaliskab.com" redirect
 local-data: "covid19-bengkaliskab.com A 0.0.0.0"
 local-zone: "covid19.bengkaliskab.go.id" redirect
 local-data: "covid19.bengkaliskab.go.id A 0.0.0.0"
+local-zone: "covid19.bengkuluprov.go.id" redirect
+local-data: "covid19.bengkuluprov.go.id A 0.0.0.0"
 local-zone: "covid-19.benjmaa.com" redirect
 local-data: "covid-19.benjmaa.com A 0.0.0.0"
 local-zone: "covid19.bergandwilliams.com" redirect
@@ -12142,6 +12144,8 @@ local-zone: "covid19.dhis.hisp.org" redirect
 local-data: "covid19.dhis.hisp.org A 0.0.0.0"
 local-zone: "covid19diagnosis.com" redirect
 local-data: "covid19diagnosis.com A 0.0.0.0"
+local-zone: "covid19diagnosis.eu" redirect
+local-data: "covid19diagnosis.eu A 0.0.0.0"
 local-zone: "covid19diagnostic.com" redirect
 local-data: "covid19diagnostic.com A 0.0.0.0"
 local-zone: "covid-19diagnostics.com" redirect
@@ -14074,6 +14078,8 @@ local-zone: "covid19.linkgroup.com" redirect
 local-data: "covid19.linkgroup.com A 0.0.0.0"
 local-zone: "covid19list.com" redirect
 local-data: "covid19list.com A 0.0.0.0"
+local-zone: "covid19.literesults.net" redirect
+local-data: "covid19.literesults.net A 0.0.0.0"
 local-zone: "covid19-live.com" redirect
 local-data: "covid19-live.com A 0.0.0.0"
 local-zone: "covid-19-livedata.com" redirect
@@ -15280,6 +15286,8 @@ local-zone: "covid19pot.net" redirect
 local-data: "covid19pot.net A 0.0.0.0"
 local-zone: "covid19.povelyn.com" redirect
 local-data: "covid19.povelyn.com A 0.0.0.0"
+local-zone: "covid-19.poweranalytics.com" redirect
+local-data: "covid-19.poweranalytics.com A 0.0.0.0"
 local-zone: "covid19.powerandharmony.be" redirect
 local-data: "covid19.powerandharmony.be A 0.0.0.0"
 local-zone: "covid-19ppe.com" redirect
@@ -16660,6 +16668,8 @@ local-zone: "covid19.tecopedia.com" redirect
 local-data: "covid19.tecopedia.com A 0.0.0.0"
 local-zone: "covid19teez.com" redirect
 local-data: "covid19teez.com A 0.0.0.0"
+local-zone: "covid19.teknokose.com" redirect
+local-data: "covid19.teknokose.com A 0.0.0.0"
 local-zone: "covid19.telangana.gov.in" redirect
 local-data: "covid19.telangana.gov.in A 0.0.0.0"
 local-zone: "covid19.telecom.mu" redirect
@@ -19274,6 +19284,8 @@ local-zone: "erasecovid19.com" redirect
 local-data: "erasecovid19.com A 0.0.0.0"
 local-zone: "ermergencia.covid19.2.sv" redirect
 local-data: "ermergencia.covid19.2.sv A 0.0.0.0"
+local-zone: "errors.somalilandcoronavirus.com" redirect
+local-data: "errors.somalilandcoronavirus.com A 0.0.0.0"
 local-zone: "erte-coronavirus.es" redirect
 local-data: "erte-coronavirus.es A 0.0.0.0"
 local-zone: "erte-por-coronavirus.es" redirect
@@ -22826,6 +22838,8 @@ local-zone: "protegerse-coronavirus.com" redirect
 local-data: "protegerse-coronavirus.com A 0.0.0.0"
 local-zone: "protetcorona.com" redirect
 local-data: "protetcorona.com A 0.0.0.0"
+local-zone: "protezionicovid19.it" redirect
+local-data: "protezionicovid19.it A 0.0.0.0"
 local-zone: "proticovid19.sk" redirect
 local-data: "proticovid19.sk A 0.0.0.0"
 local-zone: "pruebacoronavirus.blogtailandia.com" redirect
@@ -25032,6 +25046,8 @@ local-zone: "web.persicovid19.id" redirect
 local-data: "web.persicovid19.id A 0.0.0.0"
 local-zone: "wecanstopcovid19.com" redirect
 local-data: "wecanstopcovid19.com A 0.0.0.0"
+local-zone: "wecoronavirus.com" redirect
+local-data: "wecoronavirus.com A 0.0.0.0"
 local-zone: "wedmorecovid19.co.uk" redirect
 local-data: "wedmorecovid19.co.uk A 0.0.0.0"
 local-zone: "wefightcoronavirus.org" redirect
@@ -25490,6 +25506,8 @@ local-zone: "www.bestmask-coronavirus.com" redirect
 local-data: "www.bestmask-coronavirus.com A 0.0.0.0"
 local-zone: "www.bgrdccovid19.com" redirect
 local-data: "www.bgrdccovid19.com A 0.0.0.0"
+local-zone: "www.bicovid19.com.br" redirect
+local-data: "www.bicovid19.com.br A 0.0.0.0"
 local-zone: "www.blackhawkcovid19.com" redirect
 local-data: "www.blackhawkcovid19.com A 0.0.0.0"
 local-zone: "www.blogoltreilcoronavirus.com" redirect
@@ -27488,6 +27506,8 @@ local-zone: "www.protectioncovid-19.com" redirect
 local-data: "www.protectioncovid-19.com A 0.0.0.0"
 local-zone: "www.protectworldcovid19.com" redirect
 local-data: "www.protectworldcovid19.com A 0.0.0.0"
+local-zone: "www.protezionicovid19.it" redirect
+local-data: "www.protezionicovid19.it A 0.0.0.0"
 local-zone: "www.public-health-covid19.de" redirect
 local-data: "www.public-health-covid19.de A 0.0.0.0"
 local-zone: "www.publicite.coronavirusinfos.ca" redirect
