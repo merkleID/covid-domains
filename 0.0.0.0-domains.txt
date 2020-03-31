@@ -729,8 +729,10 @@
 0.0.0.0 cdccovid-19.com
 0.0.0.0 cdccovid19.com
 0.0.0.0 cdc-covid19.org
+0.0.0.0 cdc.gov.coronavirus.secure.portal.dog-office.online
 0.0.0.0 cdn.coronavirus-monitor.info
 0.0.0.0 cdn.covid19-app.fr
+0.0.0.0 cdn.covid-19-au.com
 0.0.0.0 cdn.covid19-pressepro.com
 0.0.0.0 cedarcountycovid19.org
 0.0.0.0 cegahcorona.com
@@ -3135,6 +3137,7 @@
 0.0.0.0 coronavirus.gouv.cg
 0.0.0.0 coronavirusgovernmentfunds.com
 0.0.0.0 coronavirus-gov.in
+0.0.0.0 coronavirus.gov.secure.portal.index.dog-office.online
 0.0.0.0 corona-virus.gplayer.uk
 0.0.0.0 coronavirus-gps.com
 0.0.0.0 coronavirusgps.com
@@ -3997,6 +4000,7 @@
 0.0.0.0 coronavirus.now.im
 0.0.0.0 coronavirusnownews.com
 0.0.0.0 coronavirus-now.online
+0.0.0.0 coronavirusnow.preprod.brig.ht
 0.0.0.0 coronavirus.now.sh
 0.0.0.0 coronavirus.nubu.es
 0.0.0.0 coronavirusnumber.com
@@ -4057,6 +4061,8 @@
 0.0.0.0 coronavirusonooeir.huidps.com
 0.0.0.0 coronaviruson.thex.us
 0.0.0.0 coronavirus.openbrasil.org
+0.0.0.0 coronavirus-openhardware.net
+0.0.0.0 coronavirus-openkit.net
 0.0.0.0 coronavirusoracle.com
 0.0.0.0 coronavirusoregon.net
 0.0.0.0 coronavirus.org.do
@@ -5295,6 +5301,7 @@
 0.0.0.0 covid19-736323.par01.containers.appdomain.cloud
 0.0.0.0 covid-1984.co.uk
 0.0.0.0 covid1999.com
+0.0.0.0 covid199.altervista.org
 0.0.0.0 covid19.a7crm.ru
 0.0.0.0 covid-19.aacs.tech
 0.0.0.0 covid-19.aandbloem.co.za
@@ -6118,6 +6125,7 @@
 0.0.0.0 covid19defend.net
 0.0.0.0 covid19defense.info
 0.0.0.0 covid19de.info
+0.0.0.0 covid19.delamine.ro
 0.0.0.0 covid-19deli.com
 0.0.0.0 covid19-deliveries.com
 0.0.0.0 covid19delivery.org
@@ -6223,7 +6231,6 @@
 0.0.0.0 covid-19domains.com
 0.0.0.0 covid19domains.com
 0.0.0.0 covid19.dominicoamerican.org
-0.0.0.0 covid19.domleo.dev
 0.0.0.0 covid-19donate.com
 0.0.0.0 covid19.donateisrael.net
 0.0.0.0 covid19.dongkelan.com
@@ -6341,7 +6348,6 @@
 0.0.0.0 covid-19.es
 0.0.0.0 covid19es.costamed.org
 0.0.0.0 covid19.esi.uclm.es
-0.0.0.0 covid19.esmonde-white.com
 0.0.0.0 covid19.espacepro.me
 0.0.0.0 covid19essentia.com
 0.0.0.0 covid19essential.org
@@ -6550,6 +6556,7 @@
 0.0.0.0 covid-19.gob.es
 0.0.0.0 covid19.gob.es
 0.0.0.0 covid19.goclever.in
+0.0.0.0 covid-19.godrishti.com
 0.0.0.0 covid19.gogreenblocks.com
 0.0.0.0 covid19goiania.chat.comunix.tech
 0.0.0.0 covid19.gokoding.com
@@ -6580,6 +6587,7 @@
 0.0.0.0 covid19.gozayaan.travel
 0.0.0.0 covid19.gptwonline.com
 0.0.0.0 covid-19.gr
+0.0.0.0 covid19gr.agenso.gr
 0.0.0.0 covid19.granddatum.com
 0.0.0.0 covid19grandjury.com
 0.0.0.0 covid19grandjury.net
@@ -7789,6 +7797,7 @@
 0.0.0.0 covid19-prewencja.pl
 0.0.0.0 covid19primarycare.org
 0.0.0.0 covid19.primaryhealth.net.au
+0.0.0.0 covid-19.primeminister.kz
 0.0.0.0 covid-19.prime-pedia.com
 0.0.0.0 covid-19.primeplay.pt
 0.0.0.0 covid-19print.com
@@ -8299,6 +8308,7 @@
 0.0.0.0 covid19stats.netslate.co.za
 0.0.0.0 covid19stats.ph
 0.0.0.0 covid19stats.pt
+0.0.0.0 covid19stats.schatzdesigns.com
 0.0.0.0 covid-19-stats.si
 0.0.0.0 covid19stats.site
 0.0.0.0 covid19stats.xyz
@@ -8895,6 +8905,7 @@
 0.0.0.0 covid19.wangayahospital.com
 0.0.0.0 covid-19war.com
 0.0.0.0 covid19ware.com
+0.0.0.0 covid19.warengonzaga.com
 0.0.0.0 covid-19warmline.org
 0.0.0.0 covid-19warnings.com
 0.0.0.0 covid19warnings.com
@@ -9921,9 +9932,7 @@
 0.0.0.0 flacoronavirustracker.com
 0.0.0.0 flattenthecoronavirus.com
 0.0.0.0 flcoronavirus.com
-0.0.0.0 flcovid-19.com
 0.0.0.0 floridacorona.com
-0.0.0.0 floridacoronaviruslawyers.com
 0.0.0.0 floridacoronavirusupdate.com
 0.0.0.0 floridacovid.com
 0.0.0.0 flucovid19.com
@@ -11646,6 +11655,7 @@
 0.0.0.0 queuesafe-covid19.com
 0.0.0.0 quickcoronatest.com
 0.0.0.0 quickcovidresults.com
+0.0.0.0 quicktestcovid-19.com
 0.0.0.0 quizcovid19.com
 0.0.0.0 raleighcoronavirus.com
 0.0.0.0 rapidcorona.com
@@ -11755,6 +11765,7 @@
 0.0.0.0 riskcovid19.com
 0.0.0.0 roccovid19masks.org
 0.0.0.0 ro.coronavirusreal.com
+0.0.0.0 ro.covid19romania.org
 0.0.0.0 rogers-covid19.com
 0.0.0.0 romaniacoronavirus.com
 0.0.0.0 roofclad.covid-19.wrigglemarketing.co.uk
@@ -13449,6 +13460,7 @@
 0.0.0.0 www.covid19hospitalstatus.org
 0.0.0.0 www.covid-19housingsolutions.com
 0.0.0.0 www.covid19i-ch4ase.com
+0.0.0.0 www.covid19.idealsolutions.pk
 0.0.0.0 www.covid19-id.org
 0.0.0.0 www.covid19-if.space
 0.0.0.0 www.covid19impacto.org
@@ -13467,6 +13479,7 @@
 0.0.0.0 www.covid19-inworld.com
 0.0.0.0 www.covid-19-italia.it
 0.0.0.0 www.covid19-it.com
+0.0.0.0 www.covid19.joboffer.com.ng
 0.0.0.0 www.covid19jombang.gatsubro.id
 0.0.0.0 www.covid-19journey.com
 0.0.0.0 www.covid19.jussor.sa
@@ -13751,6 +13764,7 @@
 0.0.0.0 www.essentialcovid19.com
 0.0.0.0 www.eucoronaviruscancermonitoring.com
 0.0.0.0 www.excelsoinscoronavirus.com
+0.0.0.0 www.faitesvosmasques-covid19.com
 0.0.0.0 www.fallinginlovewithcovid19.com
 0.0.0.0 www.fastcovid19tests.com
 0.0.0.0 www.fcovid-19.com
@@ -13878,6 +13892,7 @@
 0.0.0.0 www.medanthcovid-19.org
 0.0.0.0 www.medical-covid-19.com
 0.0.0.0 www.medicalprotectcovid19.com
+0.0.0.0 www.medicarecoronavirus.com
 0.0.0.0 www.medicarecoronavirustest.com
 0.0.0.0 www.melcovid19checker.com
 0.0.0.0 www.mgcovid19.com
@@ -13985,6 +14000,7 @@
 0.0.0.0 www.realhousewivescoronavirus.com
 0.0.0.0 www.recherche-covid-19.com
 0.0.0.0 www.recywood-covid19.com
+0.0.0.0 www.referenciacovid19.com.br
 0.0.0.0 www.registroscovid19.construmateriales.a2hosted.com
 0.0.0.0 www.reportcoronavirussymptoms.com
 0.0.0.0 www.reportecovid19.com
