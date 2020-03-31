@@ -676,6 +676,8 @@ api.coronavirusliveupdate.org CNAME .
 *.api.coronavirusliveupdate.org CNAME .
 api.coronavirus.pear.ws CNAME .
 *.api.coronavirus.pear.ws CNAME .
+api.coronavirus.visualdatahq.com CNAME .
+*.api.coronavirus.visualdatahq.com CNAME .
 api.countingcovid19.com CNAME .
 *.api.countingcovid19.com CNAME .
 api.covid19.aida.app CNAME .
@@ -14642,6 +14644,8 @@ covid19.modospira.com CNAME .
 *.covid19.modospira.com CNAME .
 covid19.mohfw.gov.bd CNAME .
 *.covid19.mohfw.gov.bd CNAME .
+covid19.mohp.gov.np CNAME .
+*.covid19.mohp.gov.np CNAME .
 covid19mohp.naxa.com.np CNAME .
 *.covid19mohp.naxa.com.np CNAME .
 covid-19mom.com CNAME .
@@ -16696,8 +16700,6 @@ covid-19.tacc.utexas.edu CNAME .
 *.covid-19.tacc.utexas.edu CNAME .
 covid19.taclia.com CNAME .
 *.covid19.taclia.com CNAME .
-covid19.tajam.news CNAME .
-*.covid19.tajam.news CNAME .
 covid-19takip.com CNAME .
 *.covid-19takip.com CNAME .
 covid19.talakunchi.net CNAME .
@@ -16850,8 +16852,6 @@ covid19testgear.com CNAME .
 *.covid19testgear.com CNAME .
 covid19test.guru CNAME .
 *.covid19test.guru CNAME .
-covid19test.hykenow.com.ng CNAME .
-*.covid19test.hykenow.com.ng CNAME .
 covid19-testimonialsinternational.com CNAME .
 *.covid19-testimonialsinternational.com CNAME .
 covid19-testing.broadinstitute.org CNAME .
@@ -21876,6 +21876,8 @@ newscovid.com CNAME .
 *.newscovid.com CNAME .
 newsoncovid19.com CNAME .
 *.newsoncovid19.com CNAME .
+newsprocoronavirus.ru CNAME .
+*.newsprocoronavirus.ru CNAME .
 newyorkcoronaviruscleaning.com CNAME .
 *.newyorkcoronaviruscleaning.com CNAME .
 nextactcovid19.com CNAME .
@@ -25112,6 +25114,8 @@ washingtonstatecoronavirus.com CNAME .
 *.washingtonstatecoronavirus.com CNAME .
 washingtonstatecoronavirusoutbreak.com CNAME .
 *.washingtonstatecoronavirusoutbreak.com CNAME .
+watiscovid19.nl CNAME .
+*.watiscovid19.nl CNAME .
 wearecoronavirussurvivors.com CNAME .
 *.wearecoronavirussurvivors.com CNAME .
 wearestrongerthancovid-19.com CNAME .
@@ -25144,6 +25148,8 @@ webmail.coronavirusmexico.net CNAME .
 *.webmail.coronavirusmexico.net CNAME .
 webmail.coronavirusremoval.xyz CNAME .
 *.webmail.coronavirusremoval.xyz CNAME .
+webmail.coronavirustrack.shop CNAME .
+*.webmail.coronavirustrack.shop CNAME .
 webmail.covid19computerrepair.com CNAME .
 *.webmail.covid19computerrepair.com CNAME .
 webmail.covid19financialrelief.org CNAME .
@@ -25968,8 +25974,6 @@ www.coronaviruslive.ml CNAME .
 *.www.coronaviruslive.ml CNAME .
 www.coronavirusliveupdates.org CNAME .
 *.www.coronavirusliveupdates.org CNAME .
-www.coronaviruslk.tk CNAME .
-*.www.coronaviruslk.tk CNAME .
 www.coronavirus.lu CNAME .
 *.www.coronavirus.lu CNAME .
 www.coronavirus-mapping.ru CNAME .
@@ -26326,6 +26330,8 @@ www.covid19-au.com CNAME .
 *.www.covid19-au.com CNAME .
 www.covid-19-aumento-valido-chile.gq CNAME .
 *.www.covid-19-aumento-valido-chile.gq CNAME .
+www.covid19awareness.tk CNAME .
+*.www.covid19awareness.tk CNAME .
 www.covid19awarenesstshirts.org CNAME .
 *.www.covid19awarenesstshirts.org CNAME .
 www.covid19backtobasics.com CNAME .
@@ -26978,6 +26984,8 @@ www.covid-19supplychain.com CNAME .
 *.www.covid-19supplychain.com CNAME .
 www.covid19-supply-chain-models.org CNAME .
 *.www.covid19-supply-chain-models.org CNAME .
+www.covid-19-supply.com CNAME .
+*.www.covid-19-supply.com CNAME .
 www.covid19-support.org CNAME .
 *.www.covid19-support.org CNAME .
 www.covid19surveyaz.com CNAME .
@@ -27338,6 +27346,8 @@ www.infocovid-19.info CNAME .
 *.www.infocovid-19.info CNAME .
 www.infocovid19.kotamagetan.com CNAME .
 *.www.infocovid19.kotamagetan.com CNAME .
+www.info-covid19.site CNAME .
+*.www.info-covid19.site CNAME .
 www.infocovid19.sman1jatisrono.sch.id CNAME .
 *.www.infocovid19.sman1jatisrono.sch.id CNAME .
 www.info.lillycovid19testing.com CNAME .
