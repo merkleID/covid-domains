@@ -1226,6 +1226,8 @@ blog.viruscovid19.com.es CNAME .
 *.blog.viruscovid19.com.es CNAME .
 bnb32.covid19.eas.cornell.edu CNAME .
 *.bnb32.covid19.eas.cornell.edu CNAME .
+bnr.covid19ro.info CNAME .
+*.bnr.covid19ro.info CNAME .
 boasnoticiascovid19.com.br CNAME .
 *.boasnoticiascovid19.com.br CNAME .
 boletim-covid19.com CNAME .
@@ -9756,6 +9758,8 @@ coronavirustoday.eu CNAME .
 *.coronavirustoday.eu CNAME .
 coronavirus-today.info CNAME .
 *.coronavirus-today.info CNAME .
+coronavirus-today.online CNAME .
+*.coronavirus-today.online CNAME .
 coronavirustoday.xyz CNAME .
 *.coronavirustoday.xyz CNAME .
 coronavirus.todosplanosdesaude.com.br CNAME .
@@ -10976,6 +10980,8 @@ covid19app.net CNAME .
 *.covid19app.net CNAME .
 covid19app.pt CNAME .
 *.covid19app.pt CNAME .
+covid-19-app-service-env.appserviceenvironment.net CNAME .
+*.covid-19-app-service-env.appserviceenvironment.net CNAME .
 covid19.appsquest.org CNAME .
 *.covid19.appsquest.org CNAME .
 covid19.apsugis.org CNAME .
@@ -13596,6 +13602,8 @@ covid19-icu.net CNAME .
 *.covid19-icu.net CNAME .
 covid19-icu.org CNAME .
 *.covid19-icu.org CNAME .
+covid19.idbigdata.com CNAME .
+*.covid19.idbigdata.com CNAME .
 covid19id.com CNAME .
 *.covid19id.com CNAME .
 covid-19.idecol.com CNAME .
@@ -15242,6 +15250,8 @@ covid19.opalsolutions.be CNAME .
 *.covid19.opalsolutions.be CNAME .
 covid19.open4didact.co CNAME .
 *.covid19.open4didact.co CNAME .
+covid19.openasapp.com CNAME .
+*.covid19.openasapp.com CNAME .
 covid19.openbrolly.com CNAME .
 *.covid19.openbrolly.com CNAME .
 covid19.opencloud.lu CNAME .
@@ -17186,8 +17196,6 @@ covid19.thedacareosp.org CNAME .
 *.covid19.thedacareosp.org CNAME .
 covid-19thefilm.com CNAME .
 *.covid-19thefilm.com CNAME .
-covid19.thegauntlet.ca CNAME .
-*.covid19.thegauntlet.ca CNAME .
 covid19.thegreens.co.uk CNAME .
 *.covid19.thegreens.co.uk CNAME .
 covid19.theifriend.com CNAME .
@@ -22210,6 +22218,8 @@ nocoronavirusin.space CNAME .
 *.nocoronavirusin.space CNAME .
 no-corona-virus.org CNAME .
 *.no-corona-virus.org CNAME .
+no-coronavirus.ru CNAME .
+*.no-coronavirus.ru CNAME .
 nocovid19.online CNAME .
 *.nocovid19.online CNAME .
 nocovid19.top CNAME .
@@ -27090,6 +27100,8 @@ www.covid19nieuws.nl CNAME .
 *.www.covid19nieuws.nl CNAME .
 www.covid-19nigeria.ml CNAME .
 *.www.covid-19nigeria.ml CNAME .
+www.covid19.nilay.cc CNAME .
+*.www.covid19.nilay.cc CNAME .
 www.covid19-nogentleroi.fr CNAME .
 *.www.covid19-nogentleroi.fr CNAME .
 www.covid19-normal.com CNAME .
@@ -27448,6 +27460,8 @@ www.covid19world.today CNAME .
 *.www.covid19world.today CNAME .
 www.covid19-yamanaka.com CNAME .
 *.www.covid19-yamanaka.com CNAME .
+www.covid19.yousef.best CNAME .
+*.www.covid19.yousef.best CNAME .
 www.covid-2019-protect.com CNAME .
 *.www.covid-2019-protect.com CNAME .
 www.covid-2019testkit.com CNAME .

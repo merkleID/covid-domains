@@ -1222,6 +1222,8 @@ local-zone: "blog.viruscovid19.com.es" redirect
 local-data: "blog.viruscovid19.com.es A 0.0.0.0"
 local-zone: "bnb32.covid19.eas.cornell.edu" redirect
 local-data: "bnb32.covid19.eas.cornell.edu A 0.0.0.0"
+local-zone: "bnr.covid19ro.info" redirect
+local-data: "bnr.covid19ro.info A 0.0.0.0"
 local-zone: "boasnoticiascovid19.com.br" redirect
 local-data: "boasnoticiascovid19.com.br A 0.0.0.0"
 local-zone: "boletim-covid19.com" redirect
@@ -9752,6 +9754,8 @@ local-zone: "coronavirustoday.eu" redirect
 local-data: "coronavirustoday.eu A 0.0.0.0"
 local-zone: "coronavirus-today.info" redirect
 local-data: "coronavirus-today.info A 0.0.0.0"
+local-zone: "coronavirus-today.online" redirect
+local-data: "coronavirus-today.online A 0.0.0.0"
 local-zone: "coronavirustoday.xyz" redirect
 local-data: "coronavirustoday.xyz A 0.0.0.0"
 local-zone: "coronavirus.todosplanosdesaude.com.br" redirect
@@ -10972,6 +10976,8 @@ local-zone: "covid19app.net" redirect
 local-data: "covid19app.net A 0.0.0.0"
 local-zone: "covid19app.pt" redirect
 local-data: "covid19app.pt A 0.0.0.0"
+local-zone: "covid-19-app-service-env.appserviceenvironment.net" redirect
+local-data: "covid-19-app-service-env.appserviceenvironment.net A 0.0.0.0"
 local-zone: "covid19.appsquest.org" redirect
 local-data: "covid19.appsquest.org A 0.0.0.0"
 local-zone: "covid19.apsugis.org" redirect
@@ -13592,6 +13598,8 @@ local-zone: "covid19-icu.net" redirect
 local-data: "covid19-icu.net A 0.0.0.0"
 local-zone: "covid19-icu.org" redirect
 local-data: "covid19-icu.org A 0.0.0.0"
+local-zone: "covid19.idbigdata.com" redirect
+local-data: "covid19.idbigdata.com A 0.0.0.0"
 local-zone: "covid19id.com" redirect
 local-data: "covid19id.com A 0.0.0.0"
 local-zone: "covid-19.idecol.com" redirect
@@ -15238,6 +15246,8 @@ local-zone: "covid19.opalsolutions.be" redirect
 local-data: "covid19.opalsolutions.be A 0.0.0.0"
 local-zone: "covid19.open4didact.co" redirect
 local-data: "covid19.open4didact.co A 0.0.0.0"
+local-zone: "covid19.openasapp.com" redirect
+local-data: "covid19.openasapp.com A 0.0.0.0"
 local-zone: "covid19.openbrolly.com" redirect
 local-data: "covid19.openbrolly.com A 0.0.0.0"
 local-zone: "covid19.opencloud.lu" redirect
@@ -17182,8 +17192,6 @@ local-zone: "covid19.thedacareosp.org" redirect
 local-data: "covid19.thedacareosp.org A 0.0.0.0"
 local-zone: "covid-19thefilm.com" redirect
 local-data: "covid-19thefilm.com A 0.0.0.0"
-local-zone: "covid19.thegauntlet.ca" redirect
-local-data: "covid19.thegauntlet.ca A 0.0.0.0"
 local-zone: "covid19.thegreens.co.uk" redirect
 local-data: "covid19.thegreens.co.uk A 0.0.0.0"
 local-zone: "covid19.theifriend.com" redirect
@@ -22206,6 +22214,8 @@ local-zone: "nocoronavirusin.space" redirect
 local-data: "nocoronavirusin.space A 0.0.0.0"
 local-zone: "no-corona-virus.org" redirect
 local-data: "no-corona-virus.org A 0.0.0.0"
+local-zone: "no-coronavirus.ru" redirect
+local-data: "no-coronavirus.ru A 0.0.0.0"
 local-zone: "nocovid19.online" redirect
 local-data: "nocovid19.online A 0.0.0.0"
 local-zone: "nocovid19.top" redirect
@@ -27086,6 +27096,8 @@ local-zone: "www.covid19nieuws.nl" redirect
 local-data: "www.covid19nieuws.nl A 0.0.0.0"
 local-zone: "www.covid-19nigeria.ml" redirect
 local-data: "www.covid-19nigeria.ml A 0.0.0.0"
+local-zone: "www.covid19.nilay.cc" redirect
+local-data: "www.covid19.nilay.cc A 0.0.0.0"
 local-zone: "www.covid19-nogentleroi.fr" redirect
 local-data: "www.covid19-nogentleroi.fr A 0.0.0.0"
 local-zone: "www.covid19-normal.com" redirect
@@ -27444,6 +27456,8 @@ local-zone: "www.covid19world.today" redirect
 local-data: "www.covid19world.today A 0.0.0.0"
 local-zone: "www.covid19-yamanaka.com" redirect
 local-data: "www.covid19-yamanaka.com A 0.0.0.0"
+local-zone: "www.covid19.yousef.best" redirect
+local-data: "www.covid19.yousef.best A 0.0.0.0"
 local-zone: "www.covid-2019-protect.com" redirect
 local-data: "www.covid-2019-protect.com A 0.0.0.0"
 local-zone: "www.covid-2019testkit.com" redirect
