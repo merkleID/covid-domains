@@ -148,6 +148,8 @@ dns-zone-blacklist. IN NS localhost.
 *.650-covid-19-test.exactsciences.net CNAME .
 772coronavirus.com CNAME .
 *.772coronavirus.com CNAME .
+8335.api.covid19.moh.gov.et CNAME .
+*.8335.api.covid19.moh.gov.et CNAME .
 8335.covid19.moh.gov.et CNAME .
 *.8335.covid19.moh.gov.et CNAME .
 859ab4b8.test.covid-19.forms.digital.nhs.uk CNAME .
@@ -11650,6 +11652,8 @@ covid19-claims.uk CNAME .
 *.covid19-claims.uk CNAME .
 covid19.claraval.xyz CNAME .
 *.covid19.claraval.xyz CNAME .
+covid-19.claretianos.mx CNAME .
+*.covid-19.claretianos.mx CNAME .
 covid19.clarylent.com.ar CNAME .
 *.covid19.clarylent.com.ar CNAME .
 covid19classaction.com CNAME .
@@ -17428,6 +17432,8 @@ covid-19.unimedsudoeste.com.br CNAME .
 *.covid-19.unimedsudoeste.com.br CNAME .
 covid19.unimedsudoeste.com.br CNAME .
 *.covid19.unimedsudoeste.com.br CNAME .
+covid19.unleashedmarketing.co CNAME .
+*.covid19.unleashedmarketing.co CNAME .
 covid19untoldstories.com CNAME .
 *.covid19untoldstories.com CNAME .
 covid19-update1.com CNAME .
@@ -20236,10 +20242,6 @@ heycovid.com CNAME .
 *.heycovid.com CNAME .
 heywuhan.com CNAME .
 *.heywuhan.com CNAME .
-hfr.api.covid19.moh.gov.et CNAME .
-*.hfr.api.covid19.moh.gov.et CNAME .
-hfr.covid19.moh.gov.et CNAME .
-*.hfr.covid19.moh.gov.et CNAME .
 hi.burnabycoronavirus.com CNAME .
 *.hi.burnabycoronavirus.com CNAME .
 hicovid19.com CNAME .
@@ -20474,6 +20476,8 @@ imcoronavirus.com CNAME .
 *.imcoronavirus.com CNAME .
 impactcovid19.com CNAME .
 *.impactcovid19.com CNAME .
+impalamusic-covid19.info CNAME .
+*.impalamusic-covid19.info CNAME .
 incorocontrocorona.com CNAME .
 *.incorocontrocorona.com CNAME .
 indemnizacionescoronavirus.net CNAME .
@@ -21808,8 +21812,6 @@ mycovidtracker.com CNAME .
 *.mycovidtracker.com CNAME .
 myepidemic.com CNAME .
 *.myepidemic.com CNAME .
-mylifeaftercoronavirus.ch CNAME .
-*.mylifeaftercoronavirus.ch CNAME .
 mypandemichealth.com CNAME .
 *.mypandemichealth.com CNAME .
 mypandemicprep.com CNAME .
@@ -22866,8 +22868,6 @@ portsmouthcoronavirussupport.org.uk CNAME .
 *.portsmouthcoronavirussupport.org.uk CNAME .
 portugalcoronavirus.com CNAME .
 *.portugalcoronavirus.com CNAME .
-portugalcovid19.pt CNAME .
-*.portugalcovid19.pt CNAME .
 positivecoronanews.com CNAME .
 *.positivecoronanews.com CNAME .
 postcorona.com CNAME .
@@ -23496,6 +23496,8 @@ sanificazionecoronavirus.madovetiva.com CNAME .
 *.sanificazionecoronavirus.madovetiva.com CNAME .
 sanificazionicoronavirus.com CNAME .
 *.sanificazionicoronavirus.com CNAME .
+sanitizacovid19.cl CNAME .
+*.sanitizacovid19.cl CNAME .
 sanjosecoronavirus.com CNAME .
 *.sanjosecoronavirus.com CNAME .
 santamaria-rs.covid19.erclinic.com.br CNAME .
@@ -27552,6 +27554,10 @@ www.kickingcovid19.com CNAME .
 *.www.kickingcovid19.com CNAME .
 www.kickthecoronavirusring.com CNAME .
 *.www.kickthecoronavirusring.com CNAME .
+www.kill-covid19.online CNAME .
+*.www.kill-covid19.online CNAME .
+www.killcovid-19.online CNAME .
+*.www.killcovid-19.online CNAME .
 www.killthecoronavirusclothing.com CNAME .
 *.www.killthecoronavirusclothing.com CNAME .
 www.kitchenhelpcovid19.com CNAME .
@@ -27702,6 +27708,8 @@ www.newyork-20covid-19.com CNAME .
 *.www.newyork-20covid-19.com CNAME .
 www.nhscovid19.fund CNAME .
 *.www.nhscovid19.fund CNAME .
+www.no-covid19.online CNAME .
+*.www.no-covid19.online CNAME .
 www.nomorecovid-19.com CNAME .
 *.www.nomorecovid-19.com CNAME .
 www.nonprofitcovid19.org CNAME .
@@ -27876,6 +27884,8 @@ www.sanidadcoronavirus.com CNAME .
 *.www.sanidadcoronavirus.com CNAME .
 www.sars-cov-2.care CNAME .
 *.www.sars-cov-2.care CNAME .
+www.sars-cov-2-tracker.de CNAME .
+*.www.sars-cov-2-tracker.de CNAME .
 www.savecoronavirus.store CNAME .
 *.www.savecoronavirus.store CNAME .
 www.sbacoronavirusloanassistance.com CNAME .
