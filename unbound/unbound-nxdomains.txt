@@ -2812,6 +2812,7 @@ local-zone: "coronavirusdomainnames.com" static
 local-zone: "coronavirus.domains" static
 local-zone: "coronavirusdominican.com" static
 local-zone: "coronavirusdonatenow.com" static
+local-zone: "coronavirusdonationprogramme.olympuswave.com" static
 local-zone: "coronavirusdonotbescaredbesmart.com" static
 local-zone: "coronavirusdonotbescaredbesmart.net" static
 local-zone: "coronavirusdontbescaredbesmart.com" static
@@ -3312,6 +3313,7 @@ local-zone: "coronavirusidiots.com" static
 local-zone: "coronavirus.iguidemedical.com" static
 local-zone: "coronavirus.iibce.edu.uy" static
 local-zone: "coronavirusik.ru" static
+local-zone: "coronavirus-il.com" static
 local-zone: "coronavirusil.com" static
 local-zone: "coronavirusillinois.com" static
 local-zone: "coronavirusimages.com" static
@@ -4846,6 +4848,7 @@ local-zone: "coronavirustiktok.com" static
 local-zone: "coronavirustimecapsule.com" static
 local-zone: "coronavirustimeline.com" static
 local-zone: "coronavirustime.ru" static
+local-zone: "coronavirustimes.com" static
 local-zone: "coronavirustincture.com" static
 local-zone: "coronavirustip.com" static
 local-zone: "coronavirus-tipps.de" static
@@ -7416,6 +7419,7 @@ local-zone: "covid19.mydata.org" static
 local-zone: "covid19.myfbf.com" static
 local-zone: "covid19.myhealthwatcher.es" static
 local-zone: "covid19.myiln.co" static
+local-zone: "covid19.myschool.in.th" static
 local-zone: "covid19.myserviceagent.net" static
 local-zone: "covid19-my-stag.dev-box.tech" static
 local-zone: "covid19.my-survey.host" static

@@ -5626,6 +5626,8 @@ local-zone: "coronavirusdominican.com" redirect
 local-data: "coronavirusdominican.com A 0.0.0.0"
 local-zone: "coronavirusdonatenow.com" redirect
 local-data: "coronavirusdonatenow.com A 0.0.0.0"
+local-zone: "coronavirusdonationprogramme.olympuswave.com" redirect
+local-data: "coronavirusdonationprogramme.olympuswave.com A 0.0.0.0"
 local-zone: "coronavirusdonotbescaredbesmart.com" redirect
 local-data: "coronavirusdonotbescaredbesmart.com A 0.0.0.0"
 local-zone: "coronavirusdonotbescaredbesmart.net" redirect
@@ -6626,6 +6628,8 @@ local-zone: "coronavirus.iibce.edu.uy" redirect
 local-data: "coronavirus.iibce.edu.uy A 0.0.0.0"
 local-zone: "coronavirusik.ru" redirect
 local-data: "coronavirusik.ru A 0.0.0.0"
+local-zone: "coronavirus-il.com" redirect
+local-data: "coronavirus-il.com A 0.0.0.0"
 local-zone: "coronavirusil.com" redirect
 local-data: "coronavirusil.com A 0.0.0.0"
 local-zone: "coronavirusillinois.com" redirect
@@ -9694,6 +9698,8 @@ local-zone: "coronavirustimeline.com" redirect
 local-data: "coronavirustimeline.com A 0.0.0.0"
 local-zone: "coronavirustime.ru" redirect
 local-data: "coronavirustime.ru A 0.0.0.0"
+local-zone: "coronavirustimes.com" redirect
+local-data: "coronavirustimes.com A 0.0.0.0"
 local-zone: "coronavirustincture.com" redirect
 local-data: "coronavirustincture.com A 0.0.0.0"
 local-zone: "coronavirustip.com" redirect
@@ -14834,6 +14840,8 @@ local-zone: "covid19.myhealthwatcher.es" redirect
 local-data: "covid19.myhealthwatcher.es A 0.0.0.0"
 local-zone: "covid19.myiln.co" redirect
 local-data: "covid19.myiln.co A 0.0.0.0"
+local-zone: "covid19.myschool.in.th" redirect
+local-data: "covid19.myschool.in.th A 0.0.0.0"
 local-zone: "covid19.myserviceagent.net" redirect
 local-data: "covid19.myserviceagent.net A 0.0.0.0"
 local-zone: "covid19-my-stag.dev-box.tech" redirect
