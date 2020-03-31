@@ -1452,6 +1452,8 @@ local-zone: "cegahcorona.com" redirect
 local-data: "cegahcorona.com A 0.0.0.0"
 local-zone: "cegahcovid-19.com" redirect
 local-data: "cegahcovid-19.com A 0.0.0.0"
+local-zone: "cegahcovid19.sttbandung.ac.id" redirect
+local-data: "cegahcovid19.sttbandung.ac.id A 0.0.0.0"
 local-zone: "cekdiri.kawalcovid19.id" redirect
 local-data: "cekdiri.kawalcovid19.id A 0.0.0.0"
 local-zone: "cekdiristaging.kawalcovid19.id" redirect
@@ -6202,6 +6204,8 @@ local-zone: "coronavirusglobalimpact.rainbowgist.com" redirect
 local-data: "coronavirusglobalimpact.rainbowgist.com A 0.0.0.0"
 local-zone: "coronavirus.glolani.com.br" redirect
 local-data: "coronavirus.glolani.com.br A 0.0.0.0"
+local-zone: "coronavirus.gob.es" redirect
+local-data: "coronavirus.gob.es A 0.0.0.0"
 local-zone: "coronavirus.gobiernodepozarica.gob.mx" redirect
 local-data: "coronavirus.gobiernodepozarica.gob.mx A 0.0.0.0"
 local-zone: "coronavirus-go.com" redirect
@@ -9632,6 +9636,8 @@ local-zone: "coronavirusticker.com" redirect
 local-data: "coronavirusticker.com A 0.0.0.0"
 local-zone: "coronavirus.ticyweb.ch" redirect
 local-data: "coronavirus.ticyweb.ch A 0.0.0.0"
+local-zone: "coronavirus.tikaocomunicacao.com.br" redirect
+local-data: "coronavirus.tikaocomunicacao.com.br A 0.0.0.0"
 local-zone: "coronavirustiktok.com" redirect
 local-data: "coronavirustiktok.com A 0.0.0.0"
 local-zone: "coronavirustimecapsule.com" redirect
@@ -10828,6 +10834,8 @@ local-zone: "covid-19app.com" redirect
 local-data: "covid-19app.com A 0.0.0.0"
 local-zone: "covid19appeal.net" redirect
 local-data: "covid19appeal.net A 0.0.0.0"
+local-zone: "covid19app.gnstudios.dev" redirect
+local-data: "covid19app.gnstudios.dev A 0.0.0.0"
 local-zone: "covid19app.it" redirect
 local-data: "covid19app.it A 0.0.0.0"
 local-zone: "covid19apple.com" redirect
@@ -12828,8 +12836,6 @@ local-zone: "covid19fundraisers.org" redirect
 local-data: "covid19fundraisers.org A 0.0.0.0"
 local-zone: "covid19.funpreneur.my.id" redirect
 local-data: "covid19.funpreneur.my.id A 0.0.0.0"
-local-zone: "covid19.fyi.my.id" redirect
-local-data: "covid19.fyi.my.id A 0.0.0.0"
 local-zone: "covid19ga.com" redirect
 local-data: "covid19ga.com A 0.0.0.0"
 local-zone: "covid19.gadgetstoreview.com" redirect
@@ -13632,8 +13638,6 @@ local-zone: "covid19in.linknrun.com" redirect
 local-data: "covid19in.linknrun.com A 0.0.0.0"
 local-zone: "covid19.inlots.com.br" redirect
 local-data: "covid19.inlots.com.br A 0.0.0.0"
-local-zone: "covid19-in.ml" redirect
-local-data: "covid19-in.ml A 0.0.0.0"
 local-zone: "covid-19.in-mo.site" redirect
 local-data: "covid-19.in-mo.site A 0.0.0.0"
 local-zone: "covid19inmyarea.com" redirect
@@ -14484,6 +14488,8 @@ local-zone: "covid-19.men" redirect
 local-data: "covid-19.men A 0.0.0.0"
 local-zone: "covid19.merakiinnotech.com" redirect
 local-data: "covid19.merakiinnotech.com A 0.0.0.0"
+local-zone: "covid-19.mercaei.com.mx" redirect
+local-data: "covid-19.mercaei.com.mx A 0.0.0.0"
 local-zone: "covid-19-merch.com" redirect
 local-data: "covid-19-merch.com A 0.0.0.0"
 local-zone: "covid19-merch.com" redirect
@@ -20620,6 +20626,8 @@ local-zone: "kentuckycoronavirus.com" redirect
 local-data: "kentuckycoronavirus.com A 0.0.0.0"
 local-zone: "kenyacoronavirus.com" redirect
 local-data: "kenyacoronavirus.com A 0.0.0.0"
+local-zone: "keystone.covid19.cynder.io" redirect
+local-data: "keystone.covid19.cynder.io A 0.0.0.0"
 local-zone: "kharkivcovid-19.kharkivoda.gov.ua" redirect
 local-data: "kharkivcovid-19.kharkivoda.gov.ua A 0.0.0.0"
 local-zone: "kick-corona.com" redirect
@@ -26560,6 +26568,8 @@ local-zone: "www.covid19-info-co-uk.wrinkle-reduction.com" redirect
 local-data: "www.covid19-info-co-uk.wrinkle-reduction.com A 0.0.0.0"
 local-zone: "www.covid19.infonanggroe.com" redirect
 local-data: "www.covid19.infonanggroe.com A 0.0.0.0"
+local-zone: "www.covid19-in.ml" redirect
+local-data: "www.covid19-in.ml A 0.0.0.0"
 local-zone: "www.covid19innovations.org" redirect
 local-data: "www.covid19innovations.org A 0.0.0.0"
 local-zone: "www.covid19instatest.com" redirect
@@ -26690,6 +26700,8 @@ local-zone: "www.covid19-nieuws.nl" redirect
 local-data: "www.covid19-nieuws.nl A 0.0.0.0"
 local-zone: "www.covid19nieuws.nl" redirect
 local-data: "www.covid19nieuws.nl A 0.0.0.0"
+local-zone: "www.covid19nigeria.live" redirect
+local-data: "www.covid19nigeria.live A 0.0.0.0"
 local-zone: "www.covid-19nigeria.ml" redirect
 local-data: "www.covid-19nigeria.ml A 0.0.0.0"
 local-zone: "www.covid19-nogentleroi.fr" redirect
