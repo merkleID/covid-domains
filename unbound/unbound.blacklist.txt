@@ -222,8 +222,6 @@ local-zone: "acespandemic.net" redirect
 local-data: "acespandemic.net A 0.0.0.0"
 local-zone: "achetermasquecovid19.fr" redirect
 local-data: "achetermasquecovid19.fr A 0.0.0.0"
-local-zone: "acoronavirus.co.uk" redirect
-local-data: "acoronavirus.co.uk A 0.0.0.0"
 local-zone: "acoronaviruscure.com" redirect
 local-data: "acoronaviruscure.com A 0.0.0.0"
 local-zone: "a-covid-19.com" redirect
@@ -9734,6 +9732,8 @@ local-zone: "coronavirustrackerapp.com" redirect
 local-data: "coronavirustrackerapp.com A 0.0.0.0"
 local-zone: "coronavirus-tracker.at" redirect
 local-data: "coronavirus-tracker.at A 0.0.0.0"
+local-zone: "coronavirustracker.info" redirect
+local-data: "coronavirustracker.info A 0.0.0.0"
 local-zone: "coronavirustrackers.com" redirect
 local-data: "coronavirustrackers.com A 0.0.0.0"
 local-zone: "coronavirustracker.today" redirect
@@ -10272,6 +10272,8 @@ local-zone: "coronavirusworld.com" redirect
 local-data: "coronavirusworld.com A 0.0.0.0"
 local-zone: "coronavirusworldhealthwatch.com" redirect
 local-data: "coronavirusworldhealthwatch.com A 0.0.0.0"
+local-zone: "corona-virus-world.info" redirect
+local-data: "corona-virus-world.info A 0.0.0.0"
 local-zone: "coronavirusworld.mixh.jp" redirect
 local-data: "coronavirusworld.mixh.jp A 0.0.0.0"
 local-zone: "coronavirus-worldnews.jp" redirect
@@ -13270,6 +13272,8 @@ local-zone: "covid19help-line.com" redirect
 local-data: "covid19help-line.com A 0.0.0.0"
 local-zone: "covid19helpline.qa.sadhan.co.in" redirect
 local-data: "covid19helpline.qa.sadhan.co.in A 0.0.0.0"
+local-zone: "covid19helpline.sadhan.co.in" redirect
+local-data: "covid19helpline.sadhan.co.in A 0.0.0.0"
 local-zone: "covid-19.helpmedx.com" redirect
 local-data: "covid-19.helpmedx.com A 0.0.0.0"
 local-zone: "covid19help.nyc" redirect
@@ -17406,6 +17410,8 @@ local-zone: "covid19.us.digitalhumans.com" redirect
 local-data: "covid19.us.digitalhumans.com A 0.0.0.0"
 local-zone: "covid19us.life" redirect
 local-data: "covid19us.life A 0.0.0.0"
+local-zone: "covid19usmap.com" redirect
+local-data: "covid19usmap.com A 0.0.0.0"
 local-zone: "covid-19-us.online" redirect
 local-data: "covid-19-us.online A 0.0.0.0"
 local-zone: "covid-19-us.site" redirect
@@ -20086,6 +20092,8 @@ local-zone: "helpcovid-19.org" redirect
 local-data: "helpcovid-19.org A 0.0.0.0"
 local-zone: "help.covid19ph.net" redirect
 local-data: "help.covid19ph.net A 0.0.0.0"
+local-zone: "help-covid19.ru" redirect
+local-data: "help-covid19.ru A 0.0.0.0"
 local-zone: "helpcovid19survivors.com" redirect
 local-data: "helpcovid19survivors.com A 0.0.0.0"
 local-zone: "help.covid-19team.com" redirect
@@ -26584,6 +26592,8 @@ local-zone: "www.covid-19familyprotection.com" redirect
 local-data: "www.covid-19familyprotection.com A 0.0.0.0"
 local-zone: "www.covid19-faq.de" redirect
 local-data: "www.covid19-faq.de A 0.0.0.0"
+local-zone: "www.covid19f.com" redirect
+local-data: "www.covid19f.com A 0.0.0.0"
 local-zone: "www.covid19.feghas.com" redirect
 local-data: "www.covid19.feghas.com A 0.0.0.0"
 local-zone: "www.covid-19firstaid.com" redirect

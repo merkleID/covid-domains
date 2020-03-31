@@ -110,7 +110,6 @@ local-zone: "ac.covid19-mobilisation.org" static
 local-zone: "acdcanticovid19.ml" static
 local-zone: "acespandemic.net" static
 local-zone: "achetermasquecovid19.fr" static
-local-zone: "acoronavirus.co.uk" static
 local-zone: "acoronaviruscure.com" static
 local-zone: "a-covid-19.com" static
 local-zone: "acovid19.com" static
@@ -4866,6 +4865,7 @@ local-zone: "coronavirus-track.com" static
 local-zone: "coronavirus-tracker.app" static
 local-zone: "coronavirustrackerapp.com" static
 local-zone: "coronavirus-tracker.at" static
+local-zone: "coronavirustracker.info" static
 local-zone: "coronavirustrackers.com" static
 local-zone: "coronavirustracker.today" static
 local-zone: "coronavirus-tracker.uk" static
@@ -5135,6 +5135,7 @@ local-zone: "coronavirus-world-cases.com" static
 local-zone: "coronavirus-world.com" static
 local-zone: "coronavirusworld.com" static
 local-zone: "coronavirusworldhealthwatch.com" static
+local-zone: "corona-virus-world.info" static
 local-zone: "coronavirusworld.mixh.jp" static
 local-zone: "coronavirus-worldnews.jp" static
 local-zone: "coronavirusworldnews.org" static
@@ -6634,6 +6635,7 @@ local-zone: "covid19helpinghand.org" static
 local-zone: "covid19help.leidi.ee" static
 local-zone: "covid19help-line.com" static
 local-zone: "covid19helpline.qa.sadhan.co.in" static
+local-zone: "covid19helpline.sadhan.co.in" static
 local-zone: "covid-19.helpmedx.com" static
 local-zone: "covid19help.nyc" static
 local-zone: "covid19-help.online" static
@@ -8702,6 +8704,7 @@ local-zone: "covid-19-us-api.dholmes.co.uk" static
 local-zone: "covid19usatracker.com" static
 local-zone: "covid19.us.digitalhumans.com" static
 local-zone: "covid19us.life" static
+local-zone: "covid19usmap.com" static
 local-zone: "covid-19-us.online" static
 local-zone: "covid-19-us.site" static
 local-zone: "covid19.ussl.info" static
@@ -10042,6 +10045,7 @@ local-zone: "helpcovid19.altervista.org" static
 local-zone: "help-covid19.com" static
 local-zone: "helpcovid-19.org" static
 local-zone: "help.covid19ph.net" static
+local-zone: "help-covid19.ru" static
 local-zone: "helpcovid19survivors.com" static
 local-zone: "help.covid-19team.com" static
 local-zone: "helpdesk.soscoronavirus.info" static
@@ -13291,6 +13295,7 @@ local-zone: "www.covid19facemasks.com" static
 local-zone: "www.covid-19facemasks.org" static
 local-zone: "www.covid-19familyprotection.com" static
 local-zone: "www.covid19-faq.de" static
+local-zone: "www.covid19f.com" static
 local-zone: "www.covid19.feghas.com" static
 local-zone: "www.covid-19firstaid.com" static
 local-zone: "www.covid19foremployers.com" static
