@@ -5290,6 +5290,8 @@ local-zone: "coronaviruscustommask.com" redirect
 local-data: "coronaviruscustommask.com A 0.0.0.0"
 local-zone: "coronavirus.cwgrowthhub.co.uk" redirect
 local-data: "coronavirus.cwgrowthhub.co.uk A 0.0.0.0"
+local-zone: "coronaviruscy.com" redirect
+local-data: "coronaviruscy.com A 0.0.0.0"
 local-zone: "coronaviruscymru.wales" redirect
 local-data: "coronaviruscymru.wales A 0.0.0.0"
 local-zone: "coronaviruscyprus.com" redirect
@@ -9704,8 +9706,6 @@ local-zone: "coronavirustips.xyz" redirect
 local-data: "coronavirustips.xyz A 0.0.0.0"
 local-zone: "coronavirustldr.com" redirect
 local-data: "coronavirustldr.com A 0.0.0.0"
-local-zone: "coronavirus.tnb.rocks" redirect
-local-data: "coronavirus.tnb.rocks A 0.0.0.0"
 local-zone: "coronavirustn.com" redirect
 local-data: "coronavirustn.com A 0.0.0.0"
 local-zone: "corona-virus.today" redirect
@@ -11326,6 +11326,8 @@ local-zone: "covid19bug.com" redirect
 local-data: "covid19bug.com A 0.0.0.0"
 local-zone: "covid19bulgaria.com" redirect
 local-data: "covid19bulgaria.com A 0.0.0.0"
+local-zone: "covid19.bullray.eu" redirect
+local-data: "covid19.bullray.eu A 0.0.0.0"
 local-zone: "covid19.bungokab.go.id" redirect
 local-data: "covid19.bungokab.go.id A 0.0.0.0"
 local-zone: "covid19burkina.org" redirect
@@ -11758,6 +11760,8 @@ local-zone: "covid19cocktail.com" redirect
 local-data: "covid19cocktail.com A 0.0.0.0"
 local-zone: "covid19co.com" redirect
 local-data: "covid19co.com A 0.0.0.0"
+local-zone: "covid19.code4kochi.com" redirect
+local-data: "covid19.code4kochi.com A 0.0.0.0"
 local-zone: "covid19.codebrowse.in" redirect
 local-data: "covid19.codebrowse.in A 0.0.0.0"
 local-zone: "covid19.codehexz.com" redirect
@@ -15760,6 +15764,8 @@ local-zone: "covid19recovery.org" redirect
 local-data: "covid19recovery.org A 0.0.0.0"
 local-zone: "covid19recoverytexas.org" redirect
 local-data: "covid19recoverytexas.org A 0.0.0.0"
+local-zone: "covid-19-rectoz667.rectoz667.repl.run" redirect
+local-data: "covid-19-rectoz667.rectoz667.repl.run A 0.0.0.0"
 local-zone: "covid19.redbird.co" redirect
 local-data: "covid19.redbird.co A 0.0.0.0"
 local-zone: "covid19.redclayschools.com" redirect
@@ -16084,6 +16090,8 @@ local-zone: "covid19scams.net" redirect
 local-data: "covid19scams.net A 0.0.0.0"
 local-zone: "covid19scams.org" redirect
 local-data: "covid19scams.org A 0.0.0.0"
+local-zone: "covid19-scan.com" redirect
+local-data: "covid19-scan.com A 0.0.0.0"
 local-zone: "covid19scanner.widya-analytic.com" redirect
 local-data: "covid19scanner.widya-analytic.com A 0.0.0.0"
 local-zone: "covid19.scatter.wiki" redirect
@@ -19932,8 +19940,6 @@ local-zone: "gdecoronavirus.ru" redirect
 local-data: "gdecoronavirus.ru A 0.0.0.0"
 local-zone: "gearcorona.com" redirect
 local-data: "gearcorona.com A 0.0.0.0"
-local-zone: "gegencovid19.de" redirect
-local-data: "gegencovid19.de A 0.0.0.0"
 local-zone: "genezenvancoronavirus.nl" redirect
 local-data: "genezenvancoronavirus.nl A 0.0.0.0"
 local-zone: "geocoronavirus.com" redirect
@@ -26180,6 +26186,8 @@ local-zone: "www.coronavirusliveupdates.org" redirect
 local-data: "www.coronavirusliveupdates.org A 0.0.0.0"
 local-zone: "www.coronavirus.lu" redirect
 local-data: "www.coronavirus.lu A 0.0.0.0"
+local-zone: "www.coronavirusmap.me" redirect
+local-data: "www.coronavirusmap.me A 0.0.0.0"
 local-zone: "www.coronavirus-mapping.ru" redirect
 local-data: "www.coronavirus-mapping.ru A 0.0.0.0"
 local-zone: "www.coronavirusmask2020.com" redirect
