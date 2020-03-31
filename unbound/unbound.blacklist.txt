@@ -500,6 +500,8 @@ local-zone: "anticoronavirus-masks.com" redirect
 local-data: "anticoronavirus-masks.com A 0.0.0.0"
 local-zone: "anticoronavirus.moscow" redirect
 local-data: "anticoronavirus.moscow A 0.0.0.0"
+local-zone: "anticoronavirusmovie.com" redirect
+local-data: "anticoronavirusmovie.com A 0.0.0.0"
 local-zone: "anticoronavirus.net" redirect
 local-data: "anticoronavirus.net A 0.0.0.0"
 local-zone: "anti-coronavirus-optom.ru" redirect
@@ -1720,6 +1722,8 @@ local-zone: "construction.coronavirustestingcenters.org" redirect
 local-data: "construction.coronavirustestingcenters.org A 0.0.0.0"
 local-zone: "consultaparacoronavirus.com" redirect
 local-data: "consultaparacoronavirus.com A 0.0.0.0"
+local-zone: "contagicoronavirus.com" redirect
+local-data: "contagicoronavirus.com A 0.0.0.0"
 local-zone: "containcorona.com" redirect
 local-data: "containcorona.com A 0.0.0.0"
 local-zone: "continuingthroughcoronavirus.com" redirect
@@ -11628,6 +11632,8 @@ local-zone: "covid19.cityofpiraeus.org" redirect
 local-data: "covid19.cityofpiraeus.org A 0.0.0.0"
 local-zone: "covid19.civlr.com" redirect
 local-data: "covid19.civlr.com A 0.0.0.0"
+local-zone: "covid19.ck.ua" redirect
+local-data: "covid19.ck.ua A 0.0.0.0"
 local-zone: "covid19claim.com" redirect
 local-data: "covid19claim.com A 0.0.0.0"
 local-zone: "covid19.claims" redirect
@@ -12124,6 +12130,8 @@ local-zone: "covid19.datava.com" redirect
 local-data: "covid19.datava.com A 0.0.0.0"
 local-zone: "covid-19-data.virtadpt.net" redirect
 local-data: "covid-19-data.virtadpt.net A 0.0.0.0"
+local-zone: "covid19datavisualizations.com" redirect
+local-data: "covid19datavisualizations.com A 0.0.0.0"
 local-zone: "covid-19.datawire.gr" redirect
 local-data: "covid-19.datawire.gr A 0.0.0.0"
 local-zone: "covid19.dataword.id" redirect
@@ -13740,6 +13748,8 @@ local-zone: "covid19in.linknrun.com" redirect
 local-data: "covid19in.linknrun.com A 0.0.0.0"
 local-zone: "covid19.inlots.com.br" redirect
 local-data: "covid19.inlots.com.br A 0.0.0.0"
+local-zone: "covid19.inmax.com.ua" redirect
+local-data: "covid19.inmax.com.ua A 0.0.0.0"
 local-zone: "covid-19.in-mo.site" redirect
 local-data: "covid-19.in-mo.site A 0.0.0.0"
 local-zone: "covid19inmyarea.com" redirect
@@ -14162,6 +14172,8 @@ local-zone: "covid19l.com" redirect
 local-data: "covid19l.com A 0.0.0.0"
 local-zone: "covid19.leadnurse.africa" redirect
 local-data: "covid19.leadnurse.africa A 0.0.0.0"
+local-zone: "covid19.leadwire.io" redirect
+local-data: "covid19.leadwire.io A 0.0.0.0"
 local-zone: "covid19.leanpichincha.com" redirect
 local-data: "covid19.leanpichincha.com A 0.0.0.0"
 local-zone: "covid19-learn.com" redirect
@@ -19958,6 +19970,8 @@ local-zone: "getyourcoronavirusmoney.com" redirect
 local-data: "getyourcoronavirusmoney.com A 0.0.0.0"
 local-zone: "ghanacoronavirus.com" redirect
 local-data: "ghanacoronavirus.com A 0.0.0.0"
+local-zone: "ghanacovid19.org" redirect
+local-data: "ghanacovid19.org A 0.0.0.0"
 local-zone: "ghanafundscovid19.org" redirect
 local-data: "ghanafundscovid19.org A 0.0.0.0"
 local-zone: "gi-covid-19.org" redirect
@@ -27642,6 +27656,8 @@ local-zone: "www.naturalcoronaviruscure.com" redirect
 local-data: "www.naturalcoronaviruscure.com A 0.0.0.0"
 local-zone: "www.naturalcoronavirusprevention.com" redirect
 local-data: "www.naturalcoronavirusprevention.com A 0.0.0.0"
+local-zone: "www.nbanticovid19.com" redirect
+local-data: "www.nbanticovid19.com A 0.0.0.0"
 local-zone: "www.ncbroadcasterscovid19.com" redirect
 local-data: "www.ncbroadcasterscovid19.com A 0.0.0.0"
 local-zone: "www.ncov19.de" redirect
@@ -28000,6 +28016,8 @@ local-zone: "www.thecoronavirustales.com" redirect
 local-data: "www.thecoronavirustales.com A 0.0.0.0"
 local-zone: "www.thecovid19cure.com" redirect
 local-data: "www.thecovid19cure.com A 0.0.0.0"
+local-zone: "www.thecovid19essentials.com" redirect
+local-data: "www.thecovid19essentials.com A 0.0.0.0"
 local-zone: "www.thecovid19mask.co.za" redirect
 local-data: "www.thecovid19mask.co.za A 0.0.0.0"
 local-zone: "www.thecovid19store.com" redirect
