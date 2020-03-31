@@ -10698,6 +10698,8 @@ local-zone: "covid19alerts.info" redirect
 local-data: "covid19alerts.info A 0.0.0.0"
 local-zone: "covid19alerts.net" redirect
 local-data: "covid19alerts.net A 0.0.0.0"
+local-zone: "covid19alessandria.help" redirect
+local-data: "covid19alessandria.help A 0.0.0.0"
 local-zone: "covid19.alfaintelli.tech" redirect
 local-data: "covid19.alfaintelli.tech A 0.0.0.0"
 local-zone: "covid19-alfieqashwa.now.sh" redirect
@@ -12356,6 +12358,8 @@ local-zone: "covid19.dkbtest.com" redirect
 local-data: "covid19.dkbtest.com A 0.0.0.0"
 local-zone: "covid19-dk.com" redirect
 local-data: "covid19-dk.com A 0.0.0.0"
+local-zone: "covid-19.dkkmaju.com" redirect
+local-data: "covid-19.dkkmaju.com A 0.0.0.0"
 local-zone: "covid19.dkolves.com.br" redirect
 local-data: "covid19.dkolves.com.br A 0.0.0.0"
 local-zone: "covid-19.dnastack.com" redirect
@@ -12582,6 +12586,8 @@ local-zone: "covid19.engine2.prixa.ai" redirect
 local-data: "covid19.engine2.prixa.ai A 0.0.0.0"
 local-zone: "covid19england.kre.brighton.domains" redirect
 local-data: "covid19england.kre.brighton.domains A 0.0.0.0"
+local-zone: "covid-19.enokey.dev" redirect
+local-data: "covid-19.enokey.dev A 0.0.0.0"
 local-zone: "covid19.enterprises" redirect
 local-data: "covid19.enterprises A 0.0.0.0"
 local-zone: "covid19entraide.fr" redirect
@@ -14044,6 +14050,8 @@ local-zone: "covid19.kreatorapps.com" redirect
 local-data: "covid19.kreatorapps.com A 0.0.0.0"
 local-zone: "covid19.kripthor.xyz" redirect
 local-data: "covid19.kripthor.xyz A 0.0.0.0"
+local-zone: "covid19-krise.de" redirect
+local-data: "covid19-krise.de A 0.0.0.0"
 local-zone: "covid-19.kristijan-web.com" redirect
 local-data: "covid-19.kristijan-web.com A 0.0.0.0"
 local-zone: "covid19-ks.com" redirect
@@ -14644,6 +14652,8 @@ local-zone: "covid19.milknight.com" redirect
 local-data: "covid19.milknight.com A 0.0.0.0"
 local-zone: "covid19.millihealth.com" redirect
 local-data: "covid19.millihealth.com A 0.0.0.0"
+local-zone: "covid-19millionaire.com" redirect
+local-data: "covid-19millionaire.com A 0.0.0.0"
 local-zone: "covid19milwaukee.com" redirect
 local-data: "covid19milwaukee.com A 0.0.0.0"
 local-zone: "covid-19.minahasa.go.id" redirect
@@ -24872,6 +24882,8 @@ local-zone: "uncoronavirusenlondres.com" redirect
 local-data: "uncoronavirusenlondres.com A 0.0.0.0"
 local-zone: "un-covid19grant.org" redirect
 local-data: "un-covid19grant.org A 0.0.0.0"
+local-zone: "un-covid19responsefund.org" redirect
+local-data: "un-covid19responsefund.org A 0.0.0.0"
 local-zone: "understandcoronavirus.com" redirect
 local-data: "understandcoronavirus.com A 0.0.0.0"
 local-zone: "understandingcovid19.com" redirect
@@ -27038,6 +27050,8 @@ local-zone: "www.covid-19-signs.org" redirect
 local-data: "www.covid-19-signs.org A 0.0.0.0"
 local-zone: "www.covid19signs.store" redirect
 local-data: "www.covid19signs.store A 0.0.0.0"
+local-zone: "www.covid19.simalungunkab.go.id" redirect
+local-data: "www.covid19.simalungunkab.go.id A 0.0.0.0"
 local-zone: "www.covid19situations.com" redirect
 local-data: "www.covid19situations.com A 0.0.0.0"
 local-zone: "www.covid-19smallbusinessgrants.finance-ni.gov.uk" redirect
