@@ -3914,6 +3914,8 @@ local-zone: "coronavirus19info.com" redirect
 local-data: "coronavirus19info.com A 0.0.0.0"
 local-zone: "coronavirus19info.live" redirect
 local-data: "coronavirus19info.live A 0.0.0.0"
+local-zone: "coronavirus19.it" redirect
+local-data: "coronavirus19.it A 0.0.0.0"
 local-zone: "coronavirus19kit.com" redirect
 local-data: "coronavirus19kit.com A 0.0.0.0"
 local-zone: "coronavirus19.legal" redirect
@@ -13960,8 +13962,6 @@ local-zone: "covid19labtests.com" redirect
 local-data: "covid19labtests.com A 0.0.0.0"
 local-zone: "covid19.labuhanbatukab.go.id" redirect
 local-data: "covid19.labuhanbatukab.go.id A 0.0.0.0"
-local-zone: "covid19.labura.go.id" redirect
-local-data: "covid19.labura.go.id A 0.0.0.0"
 local-zone: "covid19la.com" redirect
 local-data: "covid19la.com A 0.0.0.0"
 local-zone: "covid19.lacounty.gov" redirect
@@ -15316,8 +15316,6 @@ local-zone: "covid19pot.net" redirect
 local-data: "covid19pot.net A 0.0.0.0"
 local-zone: "covid19.povelyn.com" redirect
 local-data: "covid19.povelyn.com A 0.0.0.0"
-local-zone: "covid-19.poweranalytics.com" redirect
-local-data: "covid-19.poweranalytics.com A 0.0.0.0"
 local-zone: "covid19.powerandharmony.be" redirect
 local-data: "covid19.powerandharmony.be A 0.0.0.0"
 local-zone: "covid-19ppe.com" redirect
@@ -16014,6 +16012,8 @@ local-zone: "covid19.seanllc.com" redirect
 local-data: "covid19.seanllc.com A 0.0.0.0"
 local-zone: "covid19search.com" redirect
 local-data: "covid19search.com A 0.0.0.0"
+local-zone: "covid-19.sebastienvezina.com" redirect
+local-data: "covid-19.sebastienvezina.com A 0.0.0.0"
 local-zone: "covid19secrets.com" redirect
 local-data: "covid19secrets.com A 0.0.0.0"
 local-zone: "covid19.seed.dev" redirect
@@ -17450,6 +17450,8 @@ local-zone: "covid19virussaftey.com" redirect
 local-data: "covid19virussaftey.com A 0.0.0.0"
 local-zone: "covid19virus.solutions" redirect
 local-data: "covid19virus.solutions A 0.0.0.0"
+local-zone: "covid19virus.su" redirect
+local-data: "covid19virus.su A 0.0.0.0"
 local-zone: "covid-19virussupplies.com" redirect
 local-data: "covid-19virussupplies.com A 0.0.0.0"
 local-zone: "covid19virussupplies.com" redirect
@@ -20936,6 +20938,8 @@ local-zone: "louisvillecovid19match.com" redirect
 local-data: "louisvillecovid19match.com A 0.0.0.0"
 local-zone: "lovecorona.com" redirect
 local-data: "lovecorona.com A 0.0.0.0"
+local-zone: "loveinatimeofcoronavirus.blog" redirect
+local-data: "loveinatimeofcoronavirus.blog A 0.0.0.0"
 local-zone: "loveincoronavirus.com" redirect
 local-data: "loveincoronavirus.com A 0.0.0.0"
 local-zone: "loveintheageofcoronavirus.com" redirect
@@ -22198,6 +22202,8 @@ local-zone: "organizingduringcorona.com" redirect
 local-data: "organizingduringcorona.com A 0.0.0.0"
 local-zone: "organizingwhilecorona.com" redirect
 local-data: "organizingwhilecorona.com A 0.0.0.0"
+local-zone: "origin.covid19.moneyforward.com" redirect
+local-data: "origin.covid19.moneyforward.com A 0.0.0.0"
 local-zone: "osugi-dc.coronavirus-clinic.com" redirect
 local-data: "osugi-dc.coronavirus-clinic.com A 0.0.0.0"
 local-zone: "ourcorona.com" redirect
@@ -27302,6 +27308,8 @@ local-zone: "www.lluhpicucovid19hub.org" redirect
 local-data: "www.lluhpicucovid19hub.org A 0.0.0.0"
 local-zone: "www.lojacoronavirus.com" redirect
 local-data: "www.lojacoronavirus.com A 0.0.0.0"
+local-zone: "www.loveinatimeofcoronavirus.blog" redirect
+local-data: "www.loveinatimeofcoronavirus.blog A 0.0.0.0"
 local-zone: "www.loveinatimeofcoronavirus.com" redirect
 local-data: "www.loveinatimeofcoronavirus.com A 0.0.0.0"
 local-zone: "www.loveintheageofcoronaviruses.com" redirect
@@ -27624,6 +27632,8 @@ local-zone: "www.shopcovid19.net" redirect
 local-data: "www.shopcovid19.net A 0.0.0.0"
 local-zone: "www.simplecoronavirus.com" redirect
 local-data: "www.simplecoronavirus.com A 0.0.0.0"
+local-zone: "www.siparadigm-covid19.com" redirect
+local-data: "www.siparadigm-covid19.com A 0.0.0.0"
 local-zone: "www.smacovid19.com" redirect
 local-data: "www.smacovid19.com A 0.0.0.0"
 local-zone: "www.sobrecoronavirus.es" redirect
