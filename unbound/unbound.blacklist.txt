@@ -10528,6 +10528,8 @@ local-zone: "covid-19.3cx.co" redirect
 local-data: "covid-19.3cx.co A 0.0.0.0"
 local-zone: "covid19-3.dresdresdres.repl.run" redirect
 local-data: "covid19-3.dresdresdres.repl.run A 0.0.0.0"
+local-zone: "covid19.3dusher.com" redirect
+local-data: "covid19.3dusher.com A 0.0.0.0"
 local-zone: "covid19.428lab.net" redirect
 local-data: "covid19.428lab.net A 0.0.0.0"
 local-zone: "covid19.4cweb.com.br" redirect
@@ -16928,6 +16930,8 @@ local-zone: "covid-19test.com.co" redirect
 local-data: "covid-19test.com.co A 0.0.0.0"
 local-zone: "covid19test.com.mx" redirect
 local-data: "covid19test.com.mx A 0.0.0.0"
+local-zone: "covid19test.com.ng" redirect
+local-data: "covid19test.com.ng A 0.0.0.0"
 local-zone: "covid-19test.co.nz" redirect
 local-data: "covid-19test.co.nz A 0.0.0.0"
 local-zone: "covid19testcy.com" redirect
@@ -19304,6 +19308,8 @@ local-zone: "emergenciacovid19.camarasal.com" redirect
 local-data: "emergenciacovid19.camarasal.com A 0.0.0.0"
 local-zone: "emergencia.covid19.cob.com" redirect
 local-data: "emergencia.covid19.cob.com A 0.0.0.0"
+local-zone: "emergenciacovid19.com" redirect
+local-data: "emergenciacovid19.com A 0.0.0.0"
 local-zone: "emergencia.covid19.c.sv" redirect
 local-data: "emergencia.covid19.c.sv A 0.0.0.0"
 local-zone: "emergenciacovid19.fundaciocollserola.cat" redirect
@@ -19588,6 +19594,8 @@ local-zone: "facemaskstopscoronavirus.com" redirect
 local-data: "facemaskstopscoronavirus.com A 0.0.0.0"
 local-zone: "faceofcoronavirus.com" redirect
 local-data: "faceofcoronavirus.com A 0.0.0.0"
+local-zone: "facesandvoicesofcovid-19.org" redirect
+local-data: "facesandvoicesofcovid-19.org A 0.0.0.0"
 local-zone: "factsaboutcoronavirus.com" redirect
 local-data: "factsaboutcoronavirus.com A 0.0.0.0"
 local-zone: "factsoncovid-19.com" redirect
@@ -21660,6 +21668,8 @@ local-zone: "moroccovid.com" redirect
 local-data: "moroccovid.com A 0.0.0.0"
 local-zone: "mosaicovidal.com" redirect
 local-data: "mosaicovidal.com A 0.0.0.0"
+local-zone: "mosanticovid19.online" redirect
+local-data: "mosanticovid19.online A 0.0.0.0"
 local-zone: "movementtodefeatcovid19.com" redirect
 local-data: "movementtodefeatcovid19.com A 0.0.0.0"
 local-zone: "movimientocoronavirus.es" redirect
@@ -24378,6 +24388,8 @@ local-zone: "testkitcovid19.org" redirect
 local-data: "testkitcovid19.org A 0.0.0.0"
 local-zone: "testnacoronavirus.ru" redirect
 local-data: "testnacoronavirus.ru A 0.0.0.0"
+local-zone: "testnacovid19.com" redirect
+local-data: "testnacovid19.com A 0.0.0.0"
 local-zone: "testnacovid19.cz" redirect
 local-data: "testnacovid19.cz A 0.0.0.0"
 local-zone: "testnacovid19.ru" redirect
@@ -25782,8 +25794,6 @@ local-zone: "www.blogoltreilcoronavirus.com" redirect
 local-data: "www.blogoltreilcoronavirus.com A 0.0.0.0"
 local-zone: "www.boutique-coronavirus.fr" redirect
 local-data: "www.boutique-coronavirus.fr A 0.0.0.0"
-local-zone: "www.brcovid19.com.br" redirect
-local-data: "www.brcovid19.com.br A 0.0.0.0"
 local-zone: "www.bridgecovid19.com" redirect
 local-data: "www.bridgecovid19.com A 0.0.0.0"
 local-zone: "www.brooklinecovid19.com" redirect
@@ -27110,6 +27120,8 @@ local-zone: "www.covid-19smallbusinessgrants.finance-ni.gov.uk" redirect
 local-data: "www.covid-19smallbusinessgrants.finance-ni.gov.uk A 0.0.0.0"
 local-zone: "www.covid-19.smkcordova.sch.id" redirect
 local-data: "www.covid-19.smkcordova.sch.id A 0.0.0.0"
+local-zone: "www.covid19.sof-web.com" redirect
+local-data: "www.covid19.sof-web.com A 0.0.0.0"
 local-zone: "www.covid19.solidaires-handicaps.fr" redirect
 local-data: "www.covid19.solidaires-handicaps.fr A 0.0.0.0"
 local-zone: "www.covid19solidaritytee.com" redirect

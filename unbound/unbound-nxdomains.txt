@@ -5263,6 +5263,7 @@ local-zone: "covid19-2.info-aid.net" static
 local-zone: "covid-19.2you.pt" static
 local-zone: "covid-19.3cx.co" static
 local-zone: "covid19-3.dresdresdres.repl.run" static
+local-zone: "covid19.3dusher.com" static
 local-zone: "covid19.428lab.net" static
 local-zone: "covid19.4cweb.com.br" static
 local-zone: "covid19.4ink.com" static
@@ -8463,6 +8464,7 @@ local-zone: "covid19-test.com" static
 local-zone: "covid19test.com" static
 local-zone: "covid-19test.com.co" static
 local-zone: "covid19test.com.mx" static
+local-zone: "covid19test.com.ng" static
 local-zone: "covid-19test.co.nz" static
 local-zone: "covid19testcy.com" static
 local-zone: "covid19-test.de" static
@@ -9651,6 +9653,7 @@ local-zone: "emergecia.covid19.gob.com" static
 local-zone: "emergencia.covid19.b.sv" static
 local-zone: "emergenciacovid19.camarasal.com" static
 local-zone: "emergencia.covid19.cob.com" static
+local-zone: "emergenciacovid19.com" static
 local-zone: "emergencia.covid19.c.sv" static
 local-zone: "emergenciacovid19.fundaciocollserola.cat" static
 local-zone: "emergencia.covid-19.gob.com" static
@@ -9793,6 +9796,7 @@ local-zone: "facemaskcoronaviruses.com" static
 local-zone: "facemaskforcoronavirus.com" static
 local-zone: "facemaskstopscoronavirus.com" static
 local-zone: "faceofcoronavirus.com" static
+local-zone: "facesandvoicesofcovid-19.org" static
 local-zone: "factsaboutcoronavirus.com" static
 local-zone: "factsoncovid-19.com" static
 local-zone: "factsoncovid19.com" static
@@ -10829,6 +10833,7 @@ local-zone: "montpellier-covid19.vigilo.city" static
 local-zone: "moroccocoronavirus.com" static
 local-zone: "moroccovid.com" static
 local-zone: "mosaicovidal.com" static
+local-zone: "mosanticovid19.online" static
 local-zone: "movementtodefeatcovid19.com" static
 local-zone: "movimientocoronavirus.es" static
 local-zone: "mozambiquecoronavirus.com" static
@@ -12188,6 +12193,7 @@ local-zone: "testkitcovid-19.de" static
 local-zone: "testkitcovid19.de" static
 local-zone: "testkitcovid19.org" static
 local-zone: "testnacoronavirus.ru" static
+local-zone: "testnacovid19.com" static
 local-zone: "testnacovid19.cz" static
 local-zone: "testnacovid19.ru" static
 local-zone: "testonlinecovid19.com" static
@@ -12890,7 +12896,6 @@ local-zone: "www.bicovid19.com.br" static
 local-zone: "www.blackhawkcovid19.com" static
 local-zone: "www.blogoltreilcoronavirus.com" static
 local-zone: "www.boutique-coronavirus.fr" static
-local-zone: "www.brcovid19.com.br" static
 local-zone: "www.bridgecovid19.com" static
 local-zone: "www.brooklinecovid19.com" static
 local-zone: "www.buildagainstcovid19.com" static
@@ -13554,6 +13559,7 @@ local-zone: "www.covid19.simalungunkab.go.id" static
 local-zone: "www.covid19situations.com" static
 local-zone: "www.covid-19smallbusinessgrants.finance-ni.gov.uk" static
 local-zone: "www.covid-19.smkcordova.sch.id" static
+local-zone: "www.covid19.sof-web.com" static
 local-zone: "www.covid19.solidaires-handicaps.fr" static
 local-zone: "www.covid19solidaritytee.com" static
 local-zone: "www.covid19southkorea.com" static
