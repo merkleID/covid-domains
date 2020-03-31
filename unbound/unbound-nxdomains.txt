@@ -2859,6 +2859,7 @@ local-zone: "coronavirusemergencykit.com" static
 local-zone: "coronavirusemergencykits.com" static
 local-zone: "coronavirusemergencyplans.com" static
 local-zone: "coronavirusemergencyresponseplan.com" static
+local-zone: "coronavirusemployeetestkits.com" static
 local-zone: "coronavirusemploymentlaw.com" static
 local-zone: "coronavirusemploymentlawyer.com" static
 local-zone: "coronavirus.emprisehc.com" static
@@ -5412,6 +5413,7 @@ local-zone: "covid19-api.bighead.co.th" static
 local-zone: "covid-19-api-casjay.now.sh" static
 local-zone: "covid19-api.com" static
 local-zone: "covid-19-api.devbyopeneyes.com" static
+local-zone: "covid19-api-dev.igeargeek.com" static
 local-zone: "covid19.api.dev.tdy.pl" static
 local-zone: "covid-19-api.dholmes.co.uk" static
 local-zone: "covid19-api.digitaltech.id" static
@@ -6099,10 +6101,12 @@ local-zone: "covid-19detectionkit.com" static
 local-zone: "covid-19detectionkit.co.uk" static
 local-zone: "covid-19detectionkit.net" static
 local-zone: "covid19detectionkits.com" static
+local-zone: "covid-19detector.com" static
 local-zone: "covid19detector.onrender.com" static
 local-zone: "covid19detectors.com" static
 local-zone: "covid19detroit.com" static
 local-zone: "covid19.dev.aida.app" static
+local-zone: "covid-19-dev-api.berdodee.com" static
 local-zone: "covid19-dev.cdmx.gob.mx" static
 local-zone: "covid19-dev.eipm-research.org" static
 local-zone: "covid-19.devel.wdf.cz" static
@@ -7737,6 +7741,7 @@ local-zone: "covid19products.communitydataplatforms.com" static
 local-zone: "covid19products.webay.co" static
 local-zone: "covid19.professorb.info" static
 local-zone: "covid19profit.com" static
+local-zone: "covid19program.phapa.org" static
 local-zone: "covid19project.info" static
 local-zone: "covid19projection.com" static
 local-zone: "covid19projections.com" static
@@ -7923,7 +7928,6 @@ local-zone: "covid19.rnbo.gov.ua" static
 local-zone: "covid19.roashunter.com" static
 local-zone: "covid19rochester.com" static
 local-zone: "covid-19.rocket-lab.net" static
-local-zone: "covid19ro.com" static
 local-zone: "covid19.roinspace.com" static
 local-zone: "covid-19.royalbanknotification.com" static
 local-zone: "covid19.royalbeats.in" static
@@ -10989,7 +10993,6 @@ local-zone: "nocoronavirus.info" static
 local-zone: "nocoronavirusin.space" static
 local-zone: "no-corona-virus.org" static
 local-zone: "nocovid19.online" static
-local-zone: "nocovid19.org" static
 local-zone: "nocovid19.top" static
 local-zone: "noidacovid19.pais.net.in" static
 local-zone: "nomigustacorona.com" static
@@ -11809,7 +11812,6 @@ local-zone: "smallbusinesscoronavirushelp.com" static
 local-zone: "smallbusiness.covid19businesscenter.com" static
 local-zone: "smb.portal.covid19.web5282.cweb04.gamingweb.de" static
 local-zone: "smc-covid19.com" static
-local-zone: "smittadcovid19.se" static
 local-zone: "smokeoutcovid19.com" static
 local-zone: "smtechcovid-19.com" static
 local-zone: "sobrevivealcoronavirus.org" static

@@ -5720,6 +5720,8 @@ local-zone: "coronavirusemergencyplans.com" redirect
 local-data: "coronavirusemergencyplans.com A 0.0.0.0"
 local-zone: "coronavirusemergencyresponseplan.com" redirect
 local-data: "coronavirusemergencyresponseplan.com A 0.0.0.0"
+local-zone: "coronavirusemployeetestkits.com" redirect
+local-data: "coronavirusemployeetestkits.com A 0.0.0.0"
 local-zone: "coronavirusemploymentlaw.com" redirect
 local-data: "coronavirusemploymentlaw.com A 0.0.0.0"
 local-zone: "coronavirusemploymentlawyer.com" redirect
@@ -10826,6 +10828,8 @@ local-zone: "covid19-api.com" redirect
 local-data: "covid19-api.com A 0.0.0.0"
 local-zone: "covid-19-api.devbyopeneyes.com" redirect
 local-data: "covid-19-api.devbyopeneyes.com A 0.0.0.0"
+local-zone: "covid19-api-dev.igeargeek.com" redirect
+local-data: "covid19-api-dev.igeargeek.com A 0.0.0.0"
 local-zone: "covid19.api.dev.tdy.pl" redirect
 local-data: "covid19.api.dev.tdy.pl A 0.0.0.0"
 local-zone: "covid-19-api.dholmes.co.uk" redirect
@@ -12200,6 +12204,8 @@ local-zone: "covid-19detectionkit.net" redirect
 local-data: "covid-19detectionkit.net A 0.0.0.0"
 local-zone: "covid19detectionkits.com" redirect
 local-data: "covid19detectionkits.com A 0.0.0.0"
+local-zone: "covid-19detector.com" redirect
+local-data: "covid-19detector.com A 0.0.0.0"
 local-zone: "covid19detector.onrender.com" redirect
 local-data: "covid19detector.onrender.com A 0.0.0.0"
 local-zone: "covid19detectors.com" redirect
@@ -12208,6 +12214,8 @@ local-zone: "covid19detroit.com" redirect
 local-data: "covid19detroit.com A 0.0.0.0"
 local-zone: "covid19.dev.aida.app" redirect
 local-data: "covid19.dev.aida.app A 0.0.0.0"
+local-zone: "covid-19-dev-api.berdodee.com" redirect
+local-data: "covid-19-dev-api.berdodee.com A 0.0.0.0"
 local-zone: "covid19-dev.cdmx.gob.mx" redirect
 local-data: "covid19-dev.cdmx.gob.mx A 0.0.0.0"
 local-zone: "covid19-dev.eipm-research.org" redirect
@@ -15476,6 +15484,8 @@ local-zone: "covid19.professorb.info" redirect
 local-data: "covid19.professorb.info A 0.0.0.0"
 local-zone: "covid19profit.com" redirect
 local-data: "covid19profit.com A 0.0.0.0"
+local-zone: "covid19program.phapa.org" redirect
+local-data: "covid19program.phapa.org A 0.0.0.0"
 local-zone: "covid19project.info" redirect
 local-data: "covid19project.info A 0.0.0.0"
 local-zone: "covid19projection.com" redirect
@@ -15848,8 +15858,6 @@ local-zone: "covid19rochester.com" redirect
 local-data: "covid19rochester.com A 0.0.0.0"
 local-zone: "covid-19.rocket-lab.net" redirect
 local-data: "covid-19.rocket-lab.net A 0.0.0.0"
-local-zone: "covid19ro.com" redirect
-local-data: "covid19ro.com A 0.0.0.0"
 local-zone: "covid19.roinspace.com" redirect
 local-data: "covid19.roinspace.com A 0.0.0.0"
 local-zone: "covid-19.royalbanknotification.com" redirect
@@ -21980,8 +21988,6 @@ local-zone: "no-corona-virus.org" redirect
 local-data: "no-corona-virus.org A 0.0.0.0"
 local-zone: "nocovid19.online" redirect
 local-data: "nocovid19.online A 0.0.0.0"
-local-zone: "nocovid19.org" redirect
-local-data: "nocovid19.org A 0.0.0.0"
 local-zone: "nocovid19.top" redirect
 local-data: "nocovid19.top A 0.0.0.0"
 local-zone: "noidacovid19.pais.net.in" redirect
@@ -23620,8 +23626,6 @@ local-zone: "smb.portal.covid19.web5282.cweb04.gamingweb.de" redirect
 local-data: "smb.portal.covid19.web5282.cweb04.gamingweb.de A 0.0.0.0"
 local-zone: "smc-covid19.com" redirect
 local-data: "smc-covid19.com A 0.0.0.0"
-local-zone: "smittadcovid19.se" redirect
-local-data: "smittadcovid19.se A 0.0.0.0"
 local-zone: "smokeoutcovid19.com" redirect
 local-data: "smokeoutcovid19.com A 0.0.0.0"
 local-zone: "smtechcovid-19.com" redirect
