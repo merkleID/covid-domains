@@ -824,6 +824,8 @@ appcovid19.eu CNAME .
 *.appcovid19.eu CNAME .
 app.covid19govt.xyz CNAME .
 *.app.covid19govt.xyz CNAME .
+app.covid19.klungkungkab.go.id CNAME .
+*.app.covid19.klungkungkab.go.id CNAME .
 appcovid19.org CNAME .
 *.appcovid19.org CNAME .
 appelenrantcovid19.net.ua CNAME .
@@ -946,8 +948,6 @@ autodepistage-covid19.fr CNAME .
 *.autodepistage-covid19.fr CNAME .
 autodiscover.business-plan-for-coronavirus-grants.co.uk CNAME .
 *.autodiscover.business-plan-for-coronavirus-grants.co.uk CNAME .
-autodiscover.corona-virus-status.co.uk CNAME .
-*.autodiscover.corona-virus-status.co.uk CNAME .
 autodiscover.covid19calc.info CNAME .
 *.autodiscover.covid19calc.info CNAME .
 autodiscover.prevenircoronavirus.net CNAME .
@@ -10590,6 +10590,8 @@ covid19.admos.de CNAME .
 *.covid19.admos.de CNAME .
 covid19.adoddle.org CNAME .
 *.covid19.adoddle.org CNAME .
+covid19adoptagrandparent.com CNAME .
+*.covid19adoptagrandparent.com CNAME .
 covid19.adsumplus.com CNAME .
 *.covid19.adsumplus.com CNAME .
 covid19.advancesinsurgery.com CNAME .
@@ -13260,6 +13262,8 @@ covid19help.leidi.ee CNAME .
 *.covid19help.leidi.ee CNAME .
 covid19help-line.com CNAME .
 *.covid19help-line.com CNAME .
+covid19helpline.qa.sadhan.co.in CNAME .
+*.covid19helpline.qa.sadhan.co.in CNAME .
 covid-19.helpmedx.com CNAME .
 *.covid-19.helpmedx.com CNAME .
 covid19help.nyc CNAME .
@@ -13578,6 +13582,8 @@ covid19india.tech CNAME .
 *.covid19india.tech CNAME .
 covid19india.today CNAME .
 *.covid19india.today CNAME .
+covid19indiatracker.com CNAME .
+*.covid19indiatracker.com CNAME .
 covid19india.urpetplaza.in CNAME .
 *.covid19india.urpetplaza.in CNAME .
 covid19.indigitalit.com CNAME .
@@ -16656,6 +16662,8 @@ covid19.svots.edu CNAME .
 *.covid19.svots.edu CNAME .
 covid-19swabtest.com CNAME .
 *.covid-19swabtest.com CNAME .
+covid19.swattourism.com.pk CNAME .
+*.covid19.swattourism.com.pk CNAME .
 covid19.swesem.org CNAME .
 *.covid19.swesem.org CNAME .
 covid19.swiftracks.com CNAME .
@@ -17466,6 +17474,8 @@ covid19.vapp.vn CNAME .
 *.covid19.vapp.vn CNAME .
 covid19-var-83.live CNAME .
 *.covid19-var-83.live CNAME .
+covid19.vascowatchonline.com CNAME .
+*.covid19.vascowatchonline.com CNAME .
 covid19vaxdev.com CNAME .
 *.covid19vaxdev.com CNAME .
 covid19vaxdev.net CNAME .
@@ -18774,8 +18784,6 @@ db.covid-19.monster CNAME .
 *.db.covid-19.monster CNAME .
 db.covid19.sorcero.io CNAME .
 *.db.covid19.sorcero.io CNAME .
-dbscovid19.co.uk CNAME .
-*.dbscovid19.co.uk CNAME .
 ddlg-covid19.southeastasia.cloudapp.azure.com CNAME .
 *.ddlg-covid19.southeastasia.cloudapp.azure.com CNAME .
 deadlycorona.com CNAME .
@@ -19904,6 +19912,8 @@ global-covid-19.info CNAME .
 *.global-covid-19.info CNAME .
 globalcovid19live.com CNAME .
 *.globalcovid19live.com CNAME .
+global-covid19.shop CNAME .
+*.global-covid19.shop CNAME .
 global.covid19uk.live CNAME .
 *.global.covid19uk.live CNAME .
 globalcovid.com CNAME .
@@ -24018,8 +24028,6 @@ survivecoronavirus.net CNAME .
 *.survivecoronavirus.net CNAME .
 survivecoronavirusoutbreak.com CNAME .
 *.survivecoronavirusoutbreak.com CNAME .
-survive-coronavirus.top CNAME .
-*.survive-coronavirus.top CNAME .
 survive-covid19.com CNAME .
 *.survive-covid19.com CNAME .
 survivecovid19.com.au CNAME .
@@ -24126,6 +24134,8 @@ teigncovid19.co.uk CNAME .
 *.teigncovid19.co.uk CNAME .
 telan-covid19.id CNAME .
 *.telan-covid19.id CNAME .
+telecharger-test-covid-19.crestos.info CNAME .
+*.telecharger-test-covid-19.crestos.info CNAME .
 telecoronavirus.com CNAME .
 *.telecoronavirus.com CNAME .
 telehealthforthecoronavirus.com CNAME .
@@ -25894,6 +25904,8 @@ www.corona-virus.fyi CNAME .
 *.www.corona-virus.fyi CNAME .
 www.coronavirusgearnow.com CNAME .
 *.www.coronavirusgearnow.com CNAME .
+www.coronavirus-glavnoe.ru CNAME .
+*.www.coronavirus-glavnoe.ru CNAME .
 www.coronavirus.gob.mx CNAME .
 *.www.coronavirus.gob.mx CNAME .
 www.coronavirus-goodnews.com CNAME .
@@ -27872,6 +27884,8 @@ www.thecoronavirushackathon.com CNAME .
 *.www.thecoronavirushackathon.com CNAME .
 www.thecoronavirusinfo.com CNAME .
 *.www.thecoronavirusinfo.com CNAME .
+www.thecoronavirussucks.com CNAME .
+*.www.thecoronavirussucks.com CNAME .
 www.thecoronavirussupplystore.com CNAME .
 *.www.thecoronavirussupplystore.com CNAME .
 www.thecoronavirustales.com CNAME .

@@ -820,6 +820,8 @@ local-zone: "appcovid19.eu" redirect
 local-data: "appcovid19.eu A 0.0.0.0"
 local-zone: "app.covid19govt.xyz" redirect
 local-data: "app.covid19govt.xyz A 0.0.0.0"
+local-zone: "app.covid19.klungkungkab.go.id" redirect
+local-data: "app.covid19.klungkungkab.go.id A 0.0.0.0"
 local-zone: "appcovid19.org" redirect
 local-data: "appcovid19.org A 0.0.0.0"
 local-zone: "appelenrantcovid19.net.ua" redirect
@@ -942,8 +944,6 @@ local-zone: "autodepistage-covid19.fr" redirect
 local-data: "autodepistage-covid19.fr A 0.0.0.0"
 local-zone: "autodiscover.business-plan-for-coronavirus-grants.co.uk" redirect
 local-data: "autodiscover.business-plan-for-coronavirus-grants.co.uk A 0.0.0.0"
-local-zone: "autodiscover.corona-virus-status.co.uk" redirect
-local-data: "autodiscover.corona-virus-status.co.uk A 0.0.0.0"
 local-zone: "autodiscover.covid19calc.info" redirect
 local-data: "autodiscover.covid19calc.info A 0.0.0.0"
 local-zone: "autodiscover.prevenircoronavirus.net" redirect
@@ -10586,6 +10586,8 @@ local-zone: "covid19.admos.de" redirect
 local-data: "covid19.admos.de A 0.0.0.0"
 local-zone: "covid19.adoddle.org" redirect
 local-data: "covid19.adoddle.org A 0.0.0.0"
+local-zone: "covid19adoptagrandparent.com" redirect
+local-data: "covid19adoptagrandparent.com A 0.0.0.0"
 local-zone: "covid19.adsumplus.com" redirect
 local-data: "covid19.adsumplus.com A 0.0.0.0"
 local-zone: "covid19.advancesinsurgery.com" redirect
@@ -13256,6 +13258,8 @@ local-zone: "covid19help.leidi.ee" redirect
 local-data: "covid19help.leidi.ee A 0.0.0.0"
 local-zone: "covid19help-line.com" redirect
 local-data: "covid19help-line.com A 0.0.0.0"
+local-zone: "covid19helpline.qa.sadhan.co.in" redirect
+local-data: "covid19helpline.qa.sadhan.co.in A 0.0.0.0"
 local-zone: "covid-19.helpmedx.com" redirect
 local-data: "covid-19.helpmedx.com A 0.0.0.0"
 local-zone: "covid19help.nyc" redirect
@@ -13574,6 +13578,8 @@ local-zone: "covid19india.tech" redirect
 local-data: "covid19india.tech A 0.0.0.0"
 local-zone: "covid19india.today" redirect
 local-data: "covid19india.today A 0.0.0.0"
+local-zone: "covid19indiatracker.com" redirect
+local-data: "covid19indiatracker.com A 0.0.0.0"
 local-zone: "covid19india.urpetplaza.in" redirect
 local-data: "covid19india.urpetplaza.in A 0.0.0.0"
 local-zone: "covid19.indigitalit.com" redirect
@@ -16652,6 +16658,8 @@ local-zone: "covid19.svots.edu" redirect
 local-data: "covid19.svots.edu A 0.0.0.0"
 local-zone: "covid-19swabtest.com" redirect
 local-data: "covid-19swabtest.com A 0.0.0.0"
+local-zone: "covid19.swattourism.com.pk" redirect
+local-data: "covid19.swattourism.com.pk A 0.0.0.0"
 local-zone: "covid19.swesem.org" redirect
 local-data: "covid19.swesem.org A 0.0.0.0"
 local-zone: "covid19.swiftracks.com" redirect
@@ -17462,6 +17470,8 @@ local-zone: "covid19.vapp.vn" redirect
 local-data: "covid19.vapp.vn A 0.0.0.0"
 local-zone: "covid19-var-83.live" redirect
 local-data: "covid19-var-83.live A 0.0.0.0"
+local-zone: "covid19.vascowatchonline.com" redirect
+local-data: "covid19.vascowatchonline.com A 0.0.0.0"
 local-zone: "covid19vaxdev.com" redirect
 local-data: "covid19vaxdev.com A 0.0.0.0"
 local-zone: "covid19vaxdev.net" redirect
@@ -18770,8 +18780,6 @@ local-zone: "db.covid-19.monster" redirect
 local-data: "db.covid-19.monster A 0.0.0.0"
 local-zone: "db.covid19.sorcero.io" redirect
 local-data: "db.covid19.sorcero.io A 0.0.0.0"
-local-zone: "dbscovid19.co.uk" redirect
-local-data: "dbscovid19.co.uk A 0.0.0.0"
 local-zone: "ddlg-covid19.southeastasia.cloudapp.azure.com" redirect
 local-data: "ddlg-covid19.southeastasia.cloudapp.azure.com A 0.0.0.0"
 local-zone: "deadlycorona.com" redirect
@@ -19900,6 +19908,8 @@ local-zone: "global-covid-19.info" redirect
 local-data: "global-covid-19.info A 0.0.0.0"
 local-zone: "globalcovid19live.com" redirect
 local-data: "globalcovid19live.com A 0.0.0.0"
+local-zone: "global-covid19.shop" redirect
+local-data: "global-covid19.shop A 0.0.0.0"
 local-zone: "global.covid19uk.live" redirect
 local-data: "global.covid19uk.live A 0.0.0.0"
 local-zone: "globalcovid.com" redirect
@@ -24014,8 +24024,6 @@ local-zone: "survivecoronavirus.net" redirect
 local-data: "survivecoronavirus.net A 0.0.0.0"
 local-zone: "survivecoronavirusoutbreak.com" redirect
 local-data: "survivecoronavirusoutbreak.com A 0.0.0.0"
-local-zone: "survive-coronavirus.top" redirect
-local-data: "survive-coronavirus.top A 0.0.0.0"
 local-zone: "survive-covid19.com" redirect
 local-data: "survive-covid19.com A 0.0.0.0"
 local-zone: "survivecovid19.com.au" redirect
@@ -24122,6 +24130,8 @@ local-zone: "teigncovid19.co.uk" redirect
 local-data: "teigncovid19.co.uk A 0.0.0.0"
 local-zone: "telan-covid19.id" redirect
 local-data: "telan-covid19.id A 0.0.0.0"
+local-zone: "telecharger-test-covid-19.crestos.info" redirect
+local-data: "telecharger-test-covid-19.crestos.info A 0.0.0.0"
 local-zone: "telecoronavirus.com" redirect
 local-data: "telecoronavirus.com A 0.0.0.0"
 local-zone: "telehealthforthecoronavirus.com" redirect
@@ -25890,6 +25900,8 @@ local-zone: "www.corona-virus.fyi" redirect
 local-data: "www.corona-virus.fyi A 0.0.0.0"
 local-zone: "www.coronavirusgearnow.com" redirect
 local-data: "www.coronavirusgearnow.com A 0.0.0.0"
+local-zone: "www.coronavirus-glavnoe.ru" redirect
+local-data: "www.coronavirus-glavnoe.ru A 0.0.0.0"
 local-zone: "www.coronavirus.gob.mx" redirect
 local-data: "www.coronavirus.gob.mx A 0.0.0.0"
 local-zone: "www.coronavirus-goodnews.com" redirect
@@ -27868,6 +27880,8 @@ local-zone: "www.thecoronavirushackathon.com" redirect
 local-data: "www.thecoronavirushackathon.com A 0.0.0.0"
 local-zone: "www.thecoronavirusinfo.com" redirect
 local-data: "www.thecoronavirusinfo.com A 0.0.0.0"
+local-zone: "www.thecoronavirussucks.com" redirect
+local-data: "www.thecoronavirussucks.com A 0.0.0.0"
 local-zone: "www.thecoronavirussupplystore.com" redirect
 local-data: "www.thecoronavirussupplystore.com A 0.0.0.0"
 local-zone: "www.thecoronavirustales.com" redirect
