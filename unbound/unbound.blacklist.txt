@@ -7450,6 +7450,8 @@ local-zone: "coronavirusmaskpro.com" redirect
 local-data: "coronavirusmaskpro.com A 0.0.0.0"
 local-zone: "coronavirusmasksanitizer.in" redirect
 local-data: "coronavirusmasksanitizer.in A 0.0.0.0"
+local-zone: "coronavirus-masks.ca" redirect
+local-data: "coronavirus-masks.ca A 0.0.0.0"
 local-zone: "coronavirusmaskscovid19.com" redirect
 local-data: "coronavirusmaskscovid19.com A 0.0.0.0"
 local-zone: "coronavirus-masks-for-sale.co.uk" redirect
@@ -9944,6 +9946,8 @@ local-zone: "coronavirustx.net" redirect
 local-data: "coronavirustx.net A 0.0.0.0"
 local-zone: "coronavirustypes.com" redirect
 local-data: "coronavirustypes.com A 0.0.0.0"
+local-zone: "coronavirusua.com" redirect
+local-data: "coronavirusua.com A 0.0.0.0"
 local-zone: "coronavirus-ua.ml" redirect
 local-data: "coronavirus-ua.ml A 0.0.0.0"
 local-zone: "coronavirus.uem.mz" redirect
@@ -11460,6 +11464,8 @@ local-zone: "covid19.c4dhi.org" redirect
 local-data: "covid19.c4dhi.org A 0.0.0.0"
 local-zone: "covid-19.caas.oneweb.mercedes-benz.io" redirect
 local-data: "covid-19.caas.oneweb.mercedes-benz.io A 0.0.0.0"
+local-zone: "covid19-caas-test.health.wolterskluwer.io" redirect
+local-data: "covid19-caas-test.health.wolterskluwer.io A 0.0.0.0"
 local-zone: "covid19ca.com" redirect
 local-data: "covid19ca.com A 0.0.0.0"
 local-zone: "covid19.cafebookkeepers.com.au" redirect
@@ -11800,6 +11806,8 @@ local-zone: "covid-19.clinicalrules.eu" redirect
 local-data: "covid-19.clinicalrules.eu A 0.0.0.0"
 local-zone: "covid19clinicaltest.com" redirect
 local-data: "covid19clinicaltest.com A 0.0.0.0"
+local-zone: "covid-19clinicaltrial.jrmadvertising.com" redirect
+local-data: "covid-19clinicaltrial.jrmadvertising.com A 0.0.0.0"
 local-zone: "covid-19.clinicbarruet.com" redirect
 local-data: "covid-19.clinicbarruet.com A 0.0.0.0"
 local-zone: "covid-19clinic.com" redirect
@@ -15180,6 +15188,8 @@ local-zone: "covid19-normal.com" redirect
 local-data: "covid19-normal.com A 0.0.0.0"
 local-zone: "covid-19-normalcy.com" redirect
 local-data: "covid-19-normalcy.com A 0.0.0.0"
+local-zone: "covid19normalidad.com" redirect
+local-data: "covid19normalidad.com A 0.0.0.0"
 local-zone: "covid-19normality.com" redirect
 local-data: "covid-19normality.com A 0.0.0.0"
 local-zone: "covid19-norwegian.com" redirect
@@ -15768,6 +15778,8 @@ local-zone: "covid-19.providence.edu" redirect
 local-data: "covid-19.providence.edu A 0.0.0.0"
 local-zone: "covid19.proxus.dk" redirect
 local-data: "covid19.proxus.dk A 0.0.0.0"
+local-zone: "covid19.ptexgroup.com" redirect
+local-data: "covid19.ptexgroup.com A 0.0.0.0"
 local-zone: "covid19ptforum.com" redirect
 local-data: "covid19ptforum.com A 0.0.0.0"
 local-zone: "covid19.ptik.bppt.go.id" redirect
@@ -16004,6 +16016,8 @@ local-zone: "covid-19research.co" redirect
 local-data: "covid-19research.co A 0.0.0.0"
 local-zone: "covid-19research.org" redirect
 local-data: "covid-19research.org A 0.0.0.0"
+local-zone: "covid19.researchstudies.us" redirect
+local-data: "covid19.researchstudies.us A 0.0.0.0"
 local-zone: "covid19.research.ubc.ca" redirect
 local-data: "covid19.research.ubc.ca A 0.0.0.0"
 local-zone: "covid19.reserve-civique.gouv.fr" redirect
@@ -16548,8 +16562,6 @@ local-zone: "covid-19.smartify-it.de" redirect
 local-data: "covid-19.smartify-it.de A 0.0.0.0"
 local-zone: "covid19smartshield.ca" redirect
 local-data: "covid19smartshield.ca A 0.0.0.0"
-local-zone: "covid-19.smashdelta.com" redirect
-local-data: "covid-19.smashdelta.com A 0.0.0.0"
 local-zone: "covid19.smcle.org" redirect
 local-data: "covid19.smcle.org A 0.0.0.0"
 local-zone: "covid19.smilecdr.com" redirect
@@ -23280,6 +23292,8 @@ local-zone: "productsforcoronavirus.com" redirect
 local-data: "productsforcoronavirus.com A 0.0.0.0"
 local-zone: "productstopreventcoronavirus.com" redirect
 local-data: "productstopreventcoronavirus.com A 0.0.0.0"
+local-zone: "produtoscoronavirus.com.br" redirect
+local-data: "produtoscoronavirus.com.br A 0.0.0.0"
 local-zone: "proformula-coronavirus-be-fr.com" redirect
 local-data: "proformula-coronavirus-be-fr.com A 0.0.0.0"
 local-zone: "proformula-coronavirus-be-nl.com" redirect
@@ -24832,6 +24846,8 @@ local-zone: "thecoronavirusmap.com" redirect
 local-data: "thecoronavirusmap.com A 0.0.0.0"
 local-zone: "thecoronavirusmaps.com" redirect
 local-data: "thecoronavirusmaps.com A 0.0.0.0"
+local-zone: "thecoronavirusnaughtystep.com" redirect
+local-data: "thecoronavirusnaughtystep.com A 0.0.0.0"
 local-zone: "thecoronavirusnow.com" redirect
 local-data: "thecoronavirusnow.com A 0.0.0.0"
 local-zone: "thecoronavirusof2020andwhatiate.com" redirect
@@ -26404,6 +26420,8 @@ local-zone: "www.coronavirus.ketcode.in" redirect
 local-data: "www.coronavirus.ketcode.in A 0.0.0.0"
 local-zone: "www.coronaviruskills.com" redirect
 local-data: "www.coronaviruskills.com A 0.0.0.0"
+local-zone: "www.coronaviruskillspray.com" redirect
+local-data: "www.coronaviruskillspray.com A 0.0.0.0"
 local-zone: "www.coronaviruskits.site" redirect
 local-data: "www.coronaviruskits.site A 0.0.0.0"
 local-zone: "www.coronaviruskit.uk" redirect
