@@ -3785,6 +3785,7 @@ local-zone: "coronavirusmiami.com" static
 local-zone: "coronavirusmiamiflorida.com" static
 local-zone: "coronavirusmichigan.com" static
 local-zone: "coronavirusmi.com" static
+local-zone: "coronavirusmillionaire.com" static
 local-zone: "coronavirus.mil.sv" static
 local-zone: "coronavirusmilwaukee.com" static
 local-zone: "coronavirusminerals.com" static
@@ -5366,6 +5367,7 @@ local-zone: "covid19.altagas.ca" static
 local-zone: "covid19.altercites.fr" static
 local-zone: "covid19.amanahfoundation.org" static
 local-zone: "covid19.amorri.org" static
+local-zone: "covid19.amphora.ai" static
 local-zone: "covid19.amyfaithho.com" static
 local-zone: "covid-19.anac.bj" static
 local-zone: "covid19ana.com" static
@@ -5549,6 +5551,7 @@ local-zone: "covid-19bb.com" static
 local-zone: "covid19bbs.com" static
 local-zone: "covid19bc.com" static
 local-zone: "covid19.bcnnv.ac.th" static
+local-zone: "covid19.bd24time.com" static
 local-zone: "covid19bd.com" static
 local-zone: "covid19bd.info" static
 local-zone: "covid19bdtrack.com" static
@@ -5630,6 +5633,7 @@ local-zone: "covid19.bourbaki.space" static
 local-zone: "covid19.bouyssou-negoce.fr" static
 local-zone: "covid19bpco.fr" static
 local-zone: "covid19.bpfclinic.com" static
+local-zone: "covid19.bprbalongan.co.id" static
 local-zone: "covid19.braiser.id" static
 local-zone: "covid19-brasil.com" static
 local-zone: "covid19brasil.info" static
@@ -5733,6 +5737,7 @@ local-zone: "covid19.cdmx.gob.mx" static
 local-zone: "covid-19.cd.swiftglobalservice-rdc.com" static
 local-zone: "covid19.cefada.com" static
 local-zone: "covid19-cemp.fr" static
+local-zone: "covid19center.online" static
 local-zone: "covid19centers.com" static
 local-zone: "covid19central.com" static
 local-zone: "covid19.centreesanteinspci.org" static
@@ -7895,6 +7900,7 @@ local-zone: "covid19resourcelocator.org" static
 local-zone: "covid19resourcemap.com" static
 local-zone: "covid-19resources.com" static
 local-zone: "covid19resources.info" static
+local-zone: "covid-19resources.net" static
 local-zone: "covid19responder.com" static
 local-zone: "covid19-response.americamakes.us" static
 local-zone: "covid19-response.com" static
@@ -8101,6 +8107,7 @@ local-zone: "covid-19.shamed.uk" static
 local-zone: "covid-19.shapelab.ee" static
 local-zone: "covid19.shapeways.com" static
 local-zone: "covid19sharing.com" static
+local-zone: "covid19.sharke.tech" static
 local-zone: "covid-19.shdisny.com" static
 local-zone: "covid19.sheepfish.gr" static
 local-zone: "covid19.shekinahchurch.org" static
@@ -8506,7 +8513,6 @@ local-zone: "covid19.theavtar.com" static
 local-zone: "covid19theband.com" static
 local-zone: "covid-19.theblackdot.com.au" static
 local-zone: "covid19.thecenterformissingandexploitedsystems.com" static
-local-zone: "covid19.thecirqle.com" static
 local-zone: "covid19.theclaussengroup.com" static
 local-zone: "covid19.thedacareosp.org" static
 local-zone: "covid-19thefilm.com" static
@@ -8882,6 +8888,7 @@ local-zone: "covid19.wi360.net" static
 local-zone: "covid19wi.com" static
 local-zone: "covid-19.wideolekarz.pl" static
 local-zone: "covid19.widget.web.id" static
+local-zone: "covid-19.widuricomputercommunity.com" static
 local-zone: "covid-19.widya-analytic.com" static
 local-zone: "covid19.widya-analytic.com" static
 local-zone: "covid19wiki.nl" static
@@ -10053,7 +10060,6 @@ local-zone: "helpcovid19.altervista.org" static
 local-zone: "help-covid19.com" static
 local-zone: "helpcovid-19.org" static
 local-zone: "help.covid19ph.net" static
-local-zone: "help-covid19.ru" static
 local-zone: "helpcovid19survivors.com" static
 local-zone: "help.covid-19team.com" static
 local-zone: "helpdesk.soscoronavirus.info" static
@@ -12380,6 +12386,7 @@ local-zone: "treatmentcorona.com" static
 local-zone: "treatmentcovid-19.com" static
 local-zone: "treatmentforcovid-19.com" static
 local-zone: "treatmentforcovid19.com" static
+local-zone: "tressol-chabrier-covid19.com" static
 local-zone: "tressolchabrierinfocovid19.com" static
 local-zone: "tristatecovid19.org" static
 local-zone: "truecoronasymptoms.com" static

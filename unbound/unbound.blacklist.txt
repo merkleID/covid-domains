@@ -7572,6 +7572,8 @@ local-zone: "coronavirusmichigan.com" redirect
 local-data: "coronavirusmichigan.com A 0.0.0.0"
 local-zone: "coronavirusmi.com" redirect
 local-data: "coronavirusmi.com A 0.0.0.0"
+local-zone: "coronavirusmillionaire.com" redirect
+local-data: "coronavirusmillionaire.com A 0.0.0.0"
 local-zone: "coronavirus.mil.sv" redirect
 local-data: "coronavirus.mil.sv A 0.0.0.0"
 local-zone: "coronavirusmilwaukee.com" redirect
@@ -10734,6 +10736,8 @@ local-zone: "covid19.amanahfoundation.org" redirect
 local-data: "covid19.amanahfoundation.org A 0.0.0.0"
 local-zone: "covid19.amorri.org" redirect
 local-data: "covid19.amorri.org A 0.0.0.0"
+local-zone: "covid19.amphora.ai" redirect
+local-data: "covid19.amphora.ai A 0.0.0.0"
 local-zone: "covid19.amyfaithho.com" redirect
 local-data: "covid19.amyfaithho.com A 0.0.0.0"
 local-zone: "covid-19.anac.bj" redirect
@@ -11100,6 +11104,8 @@ local-zone: "covid19bc.com" redirect
 local-data: "covid19bc.com A 0.0.0.0"
 local-zone: "covid19.bcnnv.ac.th" redirect
 local-data: "covid19.bcnnv.ac.th A 0.0.0.0"
+local-zone: "covid19.bd24time.com" redirect
+local-data: "covid19.bd24time.com A 0.0.0.0"
 local-zone: "covid19bd.com" redirect
 local-data: "covid19bd.com A 0.0.0.0"
 local-zone: "covid19bd.info" redirect
@@ -11262,6 +11268,8 @@ local-zone: "covid19bpco.fr" redirect
 local-data: "covid19bpco.fr A 0.0.0.0"
 local-zone: "covid19.bpfclinic.com" redirect
 local-data: "covid19.bpfclinic.com A 0.0.0.0"
+local-zone: "covid19.bprbalongan.co.id" redirect
+local-data: "covid19.bprbalongan.co.id A 0.0.0.0"
 local-zone: "covid19.braiser.id" redirect
 local-data: "covid19.braiser.id A 0.0.0.0"
 local-zone: "covid19-brasil.com" redirect
@@ -11468,6 +11476,8 @@ local-zone: "covid19.cefada.com" redirect
 local-data: "covid19.cefada.com A 0.0.0.0"
 local-zone: "covid19-cemp.fr" redirect
 local-data: "covid19-cemp.fr A 0.0.0.0"
+local-zone: "covid19center.online" redirect
+local-data: "covid19center.online A 0.0.0.0"
 local-zone: "covid19centers.com" redirect
 local-data: "covid19centers.com A 0.0.0.0"
 local-zone: "covid19central.com" redirect
@@ -15792,6 +15802,8 @@ local-zone: "covid-19resources.com" redirect
 local-data: "covid-19resources.com A 0.0.0.0"
 local-zone: "covid19resources.info" redirect
 local-data: "covid19resources.info A 0.0.0.0"
+local-zone: "covid-19resources.net" redirect
+local-data: "covid-19resources.net A 0.0.0.0"
 local-zone: "covid19responder.com" redirect
 local-data: "covid19responder.com A 0.0.0.0"
 local-zone: "covid19-response.americamakes.us" redirect
@@ -16204,6 +16216,8 @@ local-zone: "covid19.shapeways.com" redirect
 local-data: "covid19.shapeways.com A 0.0.0.0"
 local-zone: "covid19sharing.com" redirect
 local-data: "covid19sharing.com A 0.0.0.0"
+local-zone: "covid19.sharke.tech" redirect
+local-data: "covid19.sharke.tech A 0.0.0.0"
 local-zone: "covid-19.shdisny.com" redirect
 local-data: "covid-19.shdisny.com A 0.0.0.0"
 local-zone: "covid19.sheepfish.gr" redirect
@@ -17014,8 +17028,6 @@ local-zone: "covid-19.theblackdot.com.au" redirect
 local-data: "covid-19.theblackdot.com.au A 0.0.0.0"
 local-zone: "covid19.thecenterformissingandexploitedsystems.com" redirect
 local-data: "covid19.thecenterformissingandexploitedsystems.com A 0.0.0.0"
-local-zone: "covid19.thecirqle.com" redirect
-local-data: "covid19.thecirqle.com A 0.0.0.0"
 local-zone: "covid19.theclaussengroup.com" redirect
 local-data: "covid19.theclaussengroup.com A 0.0.0.0"
 local-zone: "covid19.thedacareosp.org" redirect
@@ -17766,6 +17778,8 @@ local-zone: "covid-19.wideolekarz.pl" redirect
 local-data: "covid-19.wideolekarz.pl A 0.0.0.0"
 local-zone: "covid19.widget.web.id" redirect
 local-data: "covid19.widget.web.id A 0.0.0.0"
+local-zone: "covid-19.widuricomputercommunity.com" redirect
+local-data: "covid-19.widuricomputercommunity.com A 0.0.0.0"
 local-zone: "covid-19.widya-analytic.com" redirect
 local-data: "covid-19.widya-analytic.com A 0.0.0.0"
 local-zone: "covid19.widya-analytic.com" redirect
@@ -20108,8 +20122,6 @@ local-zone: "helpcovid-19.org" redirect
 local-data: "helpcovid-19.org A 0.0.0.0"
 local-zone: "help.covid19ph.net" redirect
 local-data: "help.covid19ph.net A 0.0.0.0"
-local-zone: "help-covid19.ru" redirect
-local-data: "help-covid19.ru A 0.0.0.0"
 local-zone: "helpcovid19survivors.com" redirect
 local-data: "helpcovid19survivors.com A 0.0.0.0"
 local-zone: "help.covid-19team.com" redirect
@@ -24762,6 +24774,8 @@ local-zone: "treatmentforcovid-19.com" redirect
 local-data: "treatmentforcovid-19.com A 0.0.0.0"
 local-zone: "treatmentforcovid19.com" redirect
 local-data: "treatmentforcovid19.com A 0.0.0.0"
+local-zone: "tressol-chabrier-covid19.com" redirect
+local-data: "tressol-chabrier-covid19.com A 0.0.0.0"
 local-zone: "tressolchabrierinfocovid19.com" redirect
 local-data: "tressolchabrierinfocovid19.com A 0.0.0.0"
 local-zone: "tristatecovid19.org" redirect
