@@ -260,6 +260,8 @@ admin.covid19-uk.co.uk CNAME .
 *.admin.covid19-uk.co.uk CNAME .
 admin.luftambulanse-covid19.no CNAME .
 *.admin.luftambulanse-covid19.no CNAME .
+admin-staff.khaosancovid19.com CNAME .
+*.admin-staff.khaosancovid19.com CNAME .
 adms.covid19.tanahlautkab.go.id CNAME .
 *.adms.covid19.tanahlautkab.go.id CNAME .
 advancedstudentscovid19.pages.ontraport.net CNAME .
@@ -1346,6 +1348,8 @@ cacoronavirus.com CNAME .
 *.cacoronavirus.com CNAME .
 cacoronavirustest.com CNAME .
 *.cacoronavirustest.com CNAME .
+ca.covid19disease.net CNAME .
+*.ca.covid19disease.net CNAME .
 cadastro.juntoscontracovid19.com.br CNAME .
 *.cadastro.juntoscontracovid19.com.br CNAME .
 cadastropromocaocovid-19.ml CNAME .
@@ -4828,6 +4832,8 @@ coronavirus.casa CNAME .
 *.coronavirus.casa CNAME .
 coronaviruscase.com CNAME .
 *.coronaviruscase.com CNAME .
+coronaviruscase.net CNAME .
+*.coronaviruscase.net CNAME .
 coronaviruscases.live CNAME .
 *.coronaviruscases.live CNAME .
 coronavirus-cases.net CNAME .
@@ -6246,6 +6252,8 @@ coronavirusgde.ru CNAME .
 *.coronavirusgde.ru CNAME .
 coronavirus.gdn CNAME .
 *.coronavirus.gdn CNAME .
+coronavirusgear19.com CNAME .
+*.coronavirusgear19.com CNAME .
 coronavirusgeek.com CNAME .
 *.coronavirusgeek.com CNAME .
 coronavirus-gefahr.de CNAME .
@@ -7486,8 +7494,6 @@ coronavirus-mask-n95.com CNAME .
 *.coronavirus-mask-n95.com CNAME .
 coronavirus-maskn95.com CNAME .
 *.coronavirus-maskn95.com CNAME .
-corona-virus-mask.net CNAME .
-*.corona-virus-mask.net CNAME .
 coronavirusmasknow.com CNAME .
 *.coronavirusmasknow.com CNAME .
 coronavirusmaskoffer.com CNAME .
@@ -8268,6 +8274,8 @@ coronaviruspandemicmap.com CNAME .
 *.coronaviruspandemicmap.com CNAME .
 coronaviruspandemicmarketing.com CNAME .
 *.coronaviruspandemicmarketing.com CNAME .
+coronavirus-pandemic.net CNAME .
+*.coronavirus-pandemic.net CNAME .
 coronaviruspandemicnews.com CNAME .
 *.coronaviruspandemicnews.com CNAME .
 coronaviruspandemic.world CNAME .
@@ -8648,8 +8656,6 @@ coronavirusprotectionsecrets.com CNAME .
 *.coronavirusprotectionsecrets.com CNAME .
 corona-virus-protection.shop CNAME .
 *.corona-virus-protection.shop CNAME .
-coronavirusprotections.net CNAME .
-*.coronavirusprotections.net CNAME .
 coronavirusprotective.com CNAME .
 *.coronavirusprotective.com CNAME .
 coronavirusprotectiveequipment.com CNAME .
@@ -9096,8 +9102,6 @@ coronavirus.scvo.org.uk CNAME .
 *.coronavirus.scvo.org.uk CNAME .
 coronavirussd.com CNAME .
 *.coronavirussd.com CNAME .
-corona-virus.se CNAME .
-*.corona-virus.se CNAME .
 coronavirusseattle.com CNAME .
 *.coronavirusseattle.com CNAME .
 coronavirussebachao.cf CNAME .
@@ -14490,6 +14494,8 @@ covid-19line.com CNAME .
 *.covid-19line.com CNAME .
 covid19.linkgroup.com CNAME .
 *.covid19.linkgroup.com CNAME .
+covid19.linxwork.net CNAME .
+*.covid19.linxwork.net CNAME .
 covid19list.com CNAME .
 *.covid19list.com CNAME .
 covid19.literesults.net CNAME .
@@ -16920,8 +16926,6 @@ covid19.store01.de CNAME .
 *.covid19.store01.de CNAME .
 covid19stories.com CNAME .
 *.covid19stories.com CNAME .
-covid19stories.net CNAME .
-*.covid19stories.net CNAME .
 covid19storm.com CNAME .
 *.covid19storm.com CNAME .
 covid19story.com CNAME .
@@ -20024,8 +20028,6 @@ feat-covid-19.staging.teamup.net CNAME .
 *.feat-covid-19.staging.teamup.net CNAME .
 feature-covid-19-text.praxis-hecker-thome.stage.km2.io CNAME .
 *.feature-covid-19-text.praxis-hecker-thome.stage.km2.io CNAME .
-febris-covid-19-simulations.ddns.net CNAME .
-*.febris-covid-19-simulations.ddns.net CNAME .
 feckcorona.com CNAME .
 *.feckcorona.com CNAME .
 feminicidiosvscorona.com CNAME .
@@ -21912,8 +21914,6 @@ mbox.covid-19war.com CNAME .
 *.mbox.covid-19war.com CNAME .
 mccovid19.com CNAME .
 *.mccovid19.com CNAME .
-m-coronavirus.de CNAME .
-*.m-coronavirus.de CNAME .
 m.coronavirushospitaldelmar.cat CNAME .
 *.m.coronavirushospitaldelmar.cat CNAME .
 m.covid19.rnbo.gov.ua CNAME .
@@ -22746,6 +22746,8 @@ odskodneni-coronavirus.cz CNAME .
 *.odskodneni-coronavirus.cz CNAME .
 oer4covid19.oeru.org CNAME .
 *.oer4covid19.oeru.org CNAME .
+oferta-especial1.coronavirus-help.shop CNAME .
+*.oferta-especial1.coronavirus-help.shop CNAME .
 ofertascoronavirus.com CNAME .
 *.ofertascoronavirus.com CNAME .
 offcoronavirus.com CNAME .
@@ -24280,12 +24282,16 @@ spain-covid19.ru CNAME .
 *.spain-covid19.ru CNAME .
 spcontraocoronavirus.org CNAME .
 *.spcontraocoronavirus.org CNAME .
+special-offer1.coronavirus-help.shop CNAME .
+*.special-offer1.coronavirus-help.shop CNAME .
 special-offer.coronavirus-help.shop CNAME .
 *.special-offer.coronavirus-help.shop CNAME .
 spedcovid19.esc13.net CNAME .
 *.spedcovid19.esc13.net CNAME .
 spesacorona.com CNAME .
 *.spesacorona.com CNAME .
+spezialangebot.coronavirus-help.shop CNAME .
+*.spezialangebot.coronavirus-help.shop CNAME .
 spike.covid-19.apps.allenai.org CNAME .
 *.spike.covid-19.apps.allenai.org CNAME .
 spotcoronavirus.com CNAME .
@@ -26550,6 +26556,8 @@ www.coronavirusforecast.org CNAME .
 *.www.coronavirusforecast.org CNAME .
 www.corona-virus.fyi CNAME .
 *.www.corona-virus.fyi CNAME .
+www.coronavirusgear19.com CNAME .
+*.www.coronavirusgear19.com CNAME .
 www.coronavirusgearnow.com CNAME .
 *.www.coronavirusgearnow.com CNAME .
 www.coronavirus-glavnoe.ru CNAME .
@@ -27296,6 +27304,8 @@ www.covid19.gunet.com.br CNAME .
 *.www.covid19.gunet.com.br CNAME .
 www.covid19handgel.com CNAME .
 *.www.covid19handgel.com CNAME .
+www.covid19-hasan.net CNAME .
+*.www.covid19-hasan.net CNAME .
 www.covid19hdf.fr CNAME .
 *.www.covid19hdf.fr CNAME .
 www.covid19helpdesk.in CNAME .
@@ -27334,6 +27344,8 @@ www.covid-19housingsolutions.com CNAME .
 *.www.covid-19housingsolutions.com CNAME .
 www.covid19i-ch4ase.com CNAME .
 *.www.covid19i-ch4ase.com CNAME .
+www.covid19-icu.net CNAME .
+*.www.covid19-icu.net CNAME .
 www.covid19.idealsolutions.pk CNAME .
 *.www.covid19.idealsolutions.pk CNAME .
 www.covid19-id.org CNAME .
@@ -27844,6 +27856,8 @@ www.covid19vaxdev.org CNAME .
 *.www.covid19vaxdev.org CNAME .
 www.covid19vax.news CNAME .
 *.www.covid19vax.news CNAME .
+www.covid19ve.pionerastudios.com CNAME .
+*.www.covid19ve.pionerastudios.com CNAME .
 www.covid-19-vfp-apsi-wiki.ch CNAME .
 *.www.covid-19-vfp-apsi-wiki.ch CNAME .
 www.covid19virush.tk CNAME .
