@@ -25,4 +25,4 @@ The bash-script parses the files and then outputs to respective dns-daemons zone
 
 Crontab updates every 30 mins.
 
-Current number of domains: 14603
+Current number of domains: 14611
