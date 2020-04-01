@@ -184,6 +184,8 @@ local-zone: "aapicovid19.org" redirect
 local-data: "aapicovid19.org A 0.0.0.0"
 local-zone: "abc-coronavirus.planethoster.world" redirect
 local-data: "abc-coronavirus.planethoster.world A 0.0.0.0"
+local-zone: "abcsofcoronavirus.com" redirect
+local-data: "abcsofcoronavirus.com A 0.0.0.0"
 local-zone: "abnsecurecovid-19.web5293.cweb04.gamingweb.de" redirect
 local-data: "abnsecurecovid-19.web5293.cweb04.gamingweb.de A 0.0.0.0"
 local-zone: "abogadacoronavirus.es" redirect
@@ -14376,6 +14378,8 @@ local-zone: "covid19ks.com" redirect
 local-data: "covid19ks.com A 0.0.0.0"
 local-zone: "covid19ky.com" redirect
 local-data: "covid19ky.com A 0.0.0.0"
+local-zone: "covid19.kzn.ru" redirect
+local-data: "covid19.kzn.ru A 0.0.0.0"
 local-zone: "covid19labcheck.com" redirect
 local-data: "covid19labcheck.com A 0.0.0.0"
 local-zone: "covid-19lab.com" redirect
@@ -15436,6 +15440,8 @@ local-zone: "covid19off.com" redirect
 local-data: "covid19off.com A 0.0.0.0"
 local-zone: "covid19offense.com" redirect
 local-data: "covid19offense.com A 0.0.0.0"
+local-zone: "covid19offer.250businessbooks.com" redirect
+local-data: "covid19offer.250businessbooks.com A 0.0.0.0"
 local-zone: "covid-19-offerings.bcgdv.io" redirect
 local-data: "covid-19-offerings.bcgdv.io A 0.0.0.0"
 local-zone: "covid19officecleaningservices.com" redirect
@@ -15582,6 +15588,8 @@ local-zone: "covid-19.oxygentech.my.id" redirect
 local-data: "covid-19.oxygentech.my.id A 0.0.0.0"
 local-zone: "covid19.p5.pt" redirect
 local-data: "covid19.p5.pt A 0.0.0.0"
+local-zone: "covid19.pabrikstartup.com" redirect
+local-data: "covid19.pabrikstartup.com A 0.0.0.0"
 local-zone: "covid19.pacitankab.go.id" redirect
 local-data: "covid19.pacitankab.go.id A 0.0.0.0"
 local-zone: "covid19pa.com" redirect
@@ -15790,6 +15798,8 @@ local-zone: "covid19.pl.ua" redirect
 local-data: "covid19.pl.ua A 0.0.0.0"
 local-zone: "covid-19.plyk.io" redirect
 local-data: "covid-19.plyk.io A 0.0.0.0"
+local-zone: "covid19.pmr.vn" redirect
+local-data: "covid19.pmr.vn A 0.0.0.0"
 local-zone: "covid19-poker.com" redirect
 local-data: "covid19-poker.com A 0.0.0.0"
 local-zone: "covid19police.capulustech.com" redirect
@@ -16566,6 +16576,8 @@ local-zone: "covid-19.scvo.org.uk" redirect
 local-data: "covid-19.scvo.org.uk A 0.0.0.0"
 local-zone: "covid-19.se" redirect
 local-data: "covid-19.se A 0.0.0.0"
+local-zone: "covid19.se" redirect
+local-data: "covid19.se A 0.0.0.0"
 local-zone: "covid19.seanllc.com" redirect
 local-data: "covid19.seanllc.com A 0.0.0.0"
 local-zone: "covid19search.com" redirect
@@ -16670,8 +16682,6 @@ local-zone: "covid19shelters.com" redirect
 local-data: "covid19shelters.com A 0.0.0.0"
 local-zone: "covid-19shield.com" redirect
 local-data: "covid-19shield.com A 0.0.0.0"
-local-zone: "covid19shipping.com" redirect
-local-data: "covid19shipping.com A 0.0.0.0"
 local-zone: "covid19shirts.ca" redirect
 local-data: "covid19shirts.ca A 0.0.0.0"
 local-zone: "covid19shirts.one" redirect
@@ -17560,6 +17570,8 @@ local-zone: "covid19.thevisiontomorrow.com" redirect
 local-data: "covid19.thevisiontomorrow.com A 0.0.0.0"
 local-zone: "covid-19.th.fendtube.com" redirect
 local-data: "covid-19.th.fendtube.com A 0.0.0.0"
+local-zone: "covid-19.think-labs.io" redirect
+local-data: "covid-19.think-labs.io A 0.0.0.0"
 local-zone: "covid19.thinkmd.tech" redirect
 local-data: "covid19.thinkmd.tech A 0.0.0.0"
 local-zone: "covid19.thirdrivermarketing.com" redirect
@@ -18254,6 +18266,8 @@ local-zone: "covid-19.weolive.com" redirect
 local-data: "covid-19.weolive.com A 0.0.0.0"
 local-zone: "covid19west.ca" redirect
 local-data: "covid19west.ca A 0.0.0.0"
+local-zone: "covid19-westpfalz.de" redirect
+local-data: "covid19-westpfalz.de A 0.0.0.0"
 local-zone: "covid19whatnow.com" redirect
 local-data: "covid19whatnow.com A 0.0.0.0"
 local-zone: "covid19whatworks.com" redirect
@@ -23334,6 +23348,8 @@ local-zone: "persona-covid-19.ga" redirect
 local-data: "persona-covid-19.ga A 0.0.0.0"
 local-zone: "perucoronavirus.com" redirect
 local-data: "perucoronavirus.com A 0.0.0.0"
+local-zone: "peru-covid-19.now.sh" redirect
+local-data: "peru-covid-19.now.sh A 0.0.0.0"
 local-zone: "peruvoluntariadocovid19.cluster.pe" redirect
 local-data: "peruvoluntariadocovid19.cluster.pe A 0.0.0.0"
 local-zone: "petasebaran.covid19.blitarkota.go.id" redirect
@@ -26270,8 +26286,6 @@ local-zone: "ww1.covid19kitz.com" redirect
 local-data: "ww1.covid19kitz.com A 0.0.0.0"
 local-zone: "ww.emergencia.covid19.gob.com" redirect
 local-data: "ww.emergencia.covid19.gob.com A 0.0.0.0"
-local-zone: "www.19covidmask.com" redirect
-local-data: "www.19covidmask.com A 0.0.0.0"
 local-zone: "www.19-ncov.org" redirect
 local-data: "www.19-ncov.org A 0.0.0.0"
 local-zone: "www.2020coronavirusprevention.com" redirect
@@ -26814,6 +26828,8 @@ local-zone: "www.coronavirusmaskandgear.com" redirect
 local-data: "www.coronavirusmaskandgear.com A 0.0.0.0"
 local-zone: "www.coronavirusmask.love" redirect
 local-data: "www.coronavirusmask.love A 0.0.0.0"
+local-zone: "www.coronavirusmask.ltd" redirect
+local-data: "www.coronavirusmask.ltd A 0.0.0.0"
 local-zone: "www.coronavirusmaskn95.com" redirect
 local-data: "www.coronavirusmaskn95.com A 0.0.0.0"
 local-zone: "www.coronavirusmaskonline.com" redirect
