@@ -7290,6 +7290,8 @@ local-zone: "coronavirusliving.com" redirect
 local-data: "coronavirusliving.com A 0.0.0.0"
 local-zone: "coronavirusllc.com" redirect
 local-data: "coronavirusllc.com A 0.0.0.0"
+local-zone: "coronavirusloan.co" redirect
+local-data: "coronavirusloan.co A 0.0.0.0"
 local-zone: "coronavirusloan.com" redirect
 local-data: "coronavirusloan.com A 0.0.0.0"
 local-zone: "coronavirus.loans" redirect
@@ -9394,6 +9396,8 @@ local-zone: "coronavirus-stop.online" redirect
 local-data: "coronavirus-stop.online A 0.0.0.0"
 local-zone: "coronavirusstopper.org" redirect
 local-data: "coronavirusstopper.org A 0.0.0.0"
+local-zone: "coronavirusstopsnow.com" redirect
+local-data: "coronavirusstopsnow.com A 0.0.0.0"
 local-zone: "coronavirusstorage.com" redirect
 local-data: "coronavirusstorage.com A 0.0.0.0"
 local-zone: "corona-virus.store" redirect
@@ -12616,8 +12620,6 @@ local-zone: "covid19.dongkelan.com" redirect
 local-data: "covid19.dongkelan.com A 0.0.0.0"
 local-zone: "covid19don.org" redirect
 local-data: "covid19don.org A 0.0.0.0"
-local-zone: "covid19.dosandco.com" redirect
-local-data: "covid19.dosandco.com A 0.0.0.0"
 local-zone: "covid-19dotace.com" redirect
 local-data: "covid-19dotace.com A 0.0.0.0"
 local-zone: "covid19dotace.com" redirect
@@ -14974,8 +14976,6 @@ local-zone: "covid19mk.sytes.net" redirect
 local-data: "covid19mk.sytes.net A 0.0.0.0"
 local-zone: "covid-19.mm09com.xyz" redirect
 local-data: "covid-19.mm09com.xyz A 0.0.0.0"
-local-zone: "covid19mm.info" redirect
-local-data: "covid19mm.info A 0.0.0.0"
 local-zone: "covid19.mmspace.com.au" redirect
 local-data: "covid19.mmspace.com.au A 0.0.0.0"
 local-zone: "covid19mn.com" redirect
@@ -16656,6 +16656,8 @@ local-zone: "covid19-siss.onrender.com" redirect
 local-data: "covid19-siss.onrender.com A 0.0.0.0"
 local-zone: "covid19.sitas.pt" redirect
 local-data: "covid19.sitas.pt A 0.0.0.0"
+local-zone: "covid19.siteassembly.com" redirect
+local-data: "covid19.siteassembly.com A 0.0.0.0"
 local-zone: "covid19-siteaware.co.uk" redirect
 local-data: "covid19-siteaware.co.uk A 0.0.0.0"
 local-zone: "covid19.siteproxi.fr" redirect
@@ -17588,6 +17590,8 @@ local-zone: "covid19trackerapp.com" redirect
 local-data: "covid19trackerapp.com A 0.0.0.0"
 local-zone: "covid19tracker.artyboy.dev" redirect
 local-data: "covid19tracker.artyboy.dev A 0.0.0.0"
+local-zone: "covid19-tracker-ca.org" redirect
+local-data: "covid19-tracker-ca.org A 0.0.0.0"
 local-zone: "covid-19tracker.com" redirect
 local-data: "covid-19tracker.com A 0.0.0.0"
 local-zone: "covid19-tracker.com" redirect
@@ -17690,6 +17694,8 @@ local-zone: "covid19.treelineinteractive.com" redirect
 local-data: "covid19.treelineinteractive.com A 0.0.0.0"
 local-zone: "covid19tree.net" redirect
 local-data: "covid19tree.net A 0.0.0.0"
+local-zone: "covid19trend.it" redirect
+local-data: "covid19trend.it A 0.0.0.0"
 local-zone: "covid19trends.info" redirect
 local-data: "covid19trends.info A 0.0.0.0"
 local-zone: "covid19.trevthe.dev" redirect
@@ -21704,6 +21710,8 @@ local-zone: "malaysiacoronavirus.com" redirect
 local-data: "malaysiacoronavirus.com A 0.0.0.0"
 local-zone: "malicoronavirus.com" redirect
 local-data: "malicoronavirus.com A 0.0.0.0"
+local-zone: "mamparacoronavirus.es" redirect
+local-data: "mamparacoronavirus.es A 0.0.0.0"
 local-zone: "mamparasanticovid19.com" redirect
 local-data: "mamparasanticovid19.com A 0.0.0.0"
 local-zone: "mamparascoronavirus.es" redirect
@@ -26870,6 +26878,8 @@ local-zone: "www.coronaviruss.tk" redirect
 local-data: "www.coronaviruss.tk A 0.0.0.0"
 local-zone: "www.coronavirus-stop.com" redirect
 local-data: "www.coronavirus-stop.com A 0.0.0.0"
+local-zone: "www.coronavirusstopsnow.com" redirect
+local-data: "www.coronavirusstopsnow.com A 0.0.0.0"
 local-zone: "www.coronavirus-strana.ru" redirect
 local-data: "www.coronavirus-strana.ru A 0.0.0.0"
 local-zone: "www.coronavirussuisse.ch" redirect
@@ -27802,6 +27812,8 @@ local-zone: "www.covid19tools.org" redirect
 local-data: "www.covid19tools.org A 0.0.0.0"
 local-zone: "www.covid19toronto.ca" redirect
 local-data: "www.covid19toronto.ca A 0.0.0.0"
+local-zone: "www.covid19-tracker-ca.org" redirect
+local-data: "www.covid19-tracker-ca.org A 0.0.0.0"
 local-zone: "www.covid19-tracker.io" redirect
 local-data: "www.covid19-tracker.io A 0.0.0.0"
 local-zone: "www.covid19tracker.org" redirect
