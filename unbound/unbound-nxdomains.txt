@@ -121,6 +121,7 @@ local-zone: "actioncovid19.servitechenergie.com" static
 local-zone: "actioncovid19.simoneausterling.com" static
 local-zone: "activa-covid19.com" static
 local-zone: "actoncovid19.zendesk.com" static
+local-zone: "actus-coronavirus.fr" static
 local-zone: "adioscorona.com" static
 local-zone: "adioscoronavirus.es" static
 local-zone: "admin-api.coronavirus-monitor.com" static
@@ -2748,6 +2749,7 @@ local-zone: "coronavirusdeals.com" static
 local-zone: "coronavirusdeathcalculator.com" static
 local-zone: "coronavirusdeaths.zoekenvind.be" static
 local-zone: "coronavirusdeathtracker.com" static
+local-zone: "coronavirusdeath.zoekenvind.be" static
 local-zone: "coronavirusdebate.com" static
 local-zone: "coronavirus-debt-advice.co.uk" static
 local-zone: "coronavirusdebt.com" static
@@ -6045,6 +6047,7 @@ local-zone: "covid19.codingnewxcode.site" static
 local-zone: "covid19.cofmc.com" static
 local-zone: "covid19cohesion.com" static
 local-zone: "covid19coin.xyz" static
+local-zone: "covid19.co.it" static
 local-zone: "covid19.colegiodemedicos.es" static
 local-zone: "covid19.colis.co.id" static
 local-zone: "covid19collaborations.org" static
@@ -6278,7 +6281,6 @@ local-zone: "covid19-demo.indiscale.com" static
 local-zone: "covid19-de.ndo.dev" static
 local-zone: "covid19.denimnation.net" static
 local-zone: "covid19.denpasarkota.go.id" static
-local-zone: "covid19-depistage.fr" static
 local-zone: "covid19.depisthta.net" static
 local-zone: "covid19.derrickconnellphotography.com" static
 local-zone: "covid19.desapaokmotong.id" static
@@ -8227,6 +8229,7 @@ local-zone: "covid19.riddlesgroup.com" static
 local-zone: "covid19riding.cl" static
 local-zone: "covid19.ridwan.us" static
 local-zone: "covid19.rinookta.com" static
+local-zone: "covid19rio.duckdns.org" static
 local-zone: "covid19.rip" static
 local-zone: "covid19risarcimenti.it" static
 local-zone: "covid19risk.ai" static
@@ -8412,6 +8415,7 @@ local-zone: "covid19.servcure.com" static
 local-zone: "covid19.servdev.co.ke" static
 local-zone: "covid19.serveirc.com" static
 local-zone: "covid-19.service.innovationtechja.com" static
+local-zone: "covid19services.uptodate.com" static
 local-zone: "covid19.servio.ph" static
 local-zone: "covid19sessions.com" static
 local-zone: "covid19settlement.com" static
@@ -8484,7 +8488,6 @@ local-zone: "covid19sn.com" static
 local-zone: "covid-19.snis-sante.net" static
 local-zone: "covid19s.nl" static
 local-zone: "covid19sn.org" static
-local-zone: "covid-19.snuipp.fr" static
 local-zone: "covid19soap.com" static
 local-zone: "covid19soapkit.com" static
 local-zone: "covid19soapkit.nyc" static
@@ -8693,6 +8696,7 @@ local-zone: "covid19.sxindustries.com" static
 local-zone: "covid19-sxm.com" static
 local-zone: "covid19-s.xminds.com" static
 local-zone: "covid19.syberpublications.site" static
+local-zone: "covid19sydney.com" static
 local-zone: "covid19.symansys.com" static
 local-zone: "covid-19.symphonyrm.com" static
 local-zone: "covid-19symptom.com" static
@@ -10961,7 +10965,6 @@ local-zone: "localfoodcovid19.co.uk" static
 local-zone: "lockcoronavirus.com" static
 local-zone: "lockdowncovid19.com.br" static
 local-zone: "logistica.coronavirusmakers.org" static
-local-zone: "logistica.sos3dcovid19.com.br" static
 local-zone: "logosunhotelwuhan.com" static
 local-zone: "lojacoronavirus.com" static
 local-zone: "lol-covid19.com" static
@@ -11974,7 +11977,6 @@ local-zone: "protection-covid-19.fr" static
 local-zone: "protectioncovid.com" static
 local-zone: "protections-coronavirus.com" static
 local-zone: "protectionscoronavirus.com" static
-local-zone: "protections-coronavirus.fr" static
 local-zone: "protectmaskcorona.com" static
 local-zone: "protectorcovid-19.com" static
 local-zone: "protectworldcovid19.com" static
@@ -12349,7 +12351,6 @@ local-zone: "southcarolinacoronavirus.com" static
 local-zone: "southcoronavirus.com" static
 local-zone: "southdakotacoronavirus.com" static
 local-zone: "south-korea-covid19.ru" static
-local-zone: "soutiencoronavirus.fr" static
 local-zone: "soutien-covid19.fr" static
 local-zone: "soutien-deuil-covid19.org" static
 local-zone: "spaincoronavirus.com" static
@@ -12866,7 +12867,6 @@ local-zone: "trackcoronavirus.online" static
 local-zone: "trackcovid19.app" static
 local-zone: "trackcovid-19.com" static
 local-zone: "trackcovid19.info" static
-local-zone: "trackcovid19linebot.com" static
 local-zone: "trackcovid-19.live" static
 local-zone: "trackcovid19.now.sh" static
 local-zone: "track.covid-19.rowles.ch" static
@@ -12890,7 +12890,6 @@ local-zone: "treatcoronavirusdisease.com" static
 local-zone: "treatcoronavirusnow.com" static
 local-zone: "treatcoronavirus.org" static
 local-zone: "treat-covid19.com" static
-local-zone: "treatingcoronavirus.com" static
 local-zone: "treatingcovid19.com" static
 local-zone: "treatmentcorona.com" static
 local-zone: "treatmentcovid-19.com" static
@@ -13338,7 +13337,6 @@ local-zone: "www.alliance-covid19.fr" static
 local-zone: "www.alliance-covid-19.org" static
 local-zone: "www.alliancecovid19.org" static
 local-zone: "www.alliancepro-covid19.fr" static
-local-zone: "www.alliancepro-covid19.org" static
 local-zone: "www.amandaricovid19.com" static
 local-zone: "www.anticoronavirus-19.com" static
 local-zone: "www.anticoronavirus2020.com" static
@@ -13956,7 +13954,6 @@ local-zone: "www.covid19india.xyz" static
 local-zone: "www.covid19-info.app" static
 local-zone: "www.covid19info.co" static
 local-zone: "www.covid19-info-co-uk.wrinkle-reduction.com" static
-local-zone: "www.covid-19-info.fr" static
 local-zone: "www.covid19.infonanggroe.com" static
 local-zone: "www.covid19-in.ml" static
 local-zone: "www.covid19innovations.org" static
@@ -14636,7 +14633,6 @@ local-zone: "www.udcovid19smellstudy.com" static
 local-zone: "www.uk-coronavirus.phillyourboots.com" static
 local-zone: "www.ukcovid19.co.uk" static
 local-zone: "www.ultimahoracoronavirus.net" static
-local-zone: "www.unitedcovid-19database.com" static
 local-zone: "www.updatecovid19.com" static
 local-zone: "www.v-covid-19.site" static
 local-zone: "www.vegascoronavirus.com" static
