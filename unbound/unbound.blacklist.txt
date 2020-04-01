@@ -4452,6 +4452,8 @@ local-zone: "coronavirusaware.xyz" redirect
 local-data: "coronavirusaware.xyz A 0.0.0.0"
 local-zone: "coronavirus.awesomeag.tk" redirect
 local-data: "coronavirus.awesomeag.tk A 0.0.0.0"
+local-zone: "coronavirus.aylien.tech" redirect
+local-data: "coronavirus.aylien.tech A 0.0.0.0"
 local-zone: "coronavirusayurvedictreatment.com" redirect
 local-data: "coronavirusayurvedictreatment.com A 0.0.0.0"
 local-zone: "coronavirusazerbaijan.com" redirect
@@ -7140,6 +7142,8 @@ local-zone: "coronavirus-lab.com" redirect
 local-data: "coronavirus-lab.com A 0.0.0.0"
 local-zone: "coronaviruslabscan.com" redirect
 local-data: "coronaviruslabscan.com A 0.0.0.0"
+local-zone: "coronavirus-labtest.com" redirect
+local-data: "coronavirus-labtest.com A 0.0.0.0"
 local-zone: "coronaviruslabtests.com" redirect
 local-data: "coronaviruslabtests.com A 0.0.0.0"
 local-zone: "coronavirus-la.com" redirect
@@ -9570,6 +9574,8 @@ local-zone: "coronavirus-symptoms.com.au" redirect
 local-data: "coronavirus-symptoms.com.au A 0.0.0.0"
 local-zone: "coronavirus-symptoms.info" redirect
 local-data: "coronavirus-symptoms.info A 0.0.0.0"
+local-zone: "coronavirus-symptoms.latestmehndidesign.in" redirect
+local-data: "coronavirus-symptoms.latestmehndidesign.in A 0.0.0.0"
 local-zone: "coronavirussymptomtest.com" redirect
 local-data: "coronavirussymptomtest.com A 0.0.0.0"
 local-zone: "coronavirussymtoms.com" redirect
@@ -11036,6 +11042,8 @@ local-zone: "covid19-api.landofhere.com" redirect
 local-data: "covid19-api.landofhere.com A 0.0.0.0"
 local-zone: "covid19api.mantanz.com" redirect
 local-data: "covid19api.mantanz.com A 0.0.0.0"
+local-zone: "covid19api.myserviceagent.net" redirect
+local-data: "covid19api.myserviceagent.net A 0.0.0.0"
 local-zone: "covid19api.mystudybro.com" redirect
 local-data: "covid19api.mystudybro.com A 0.0.0.0"
 local-zone: "covid19api.now.sh" redirect
@@ -13722,6 +13730,8 @@ local-zone: "covid19.hsmltuge.com.ng" redirect
 local-data: "covid19.hsmltuge.com.ng A 0.0.0.0"
 local-zone: "covid-19hubadmin.govops.ca.gov" redirect
 local-data: "covid-19hubadmin.govops.ca.gov A 0.0.0.0"
+local-zone: "covid19-hub.com" redirect
+local-data: "covid19-hub.com A 0.0.0.0"
 local-zone: "covid-19.humanitarian.digital" redirect
 local-data: "covid-19.humanitarian.digital A 0.0.0.0"
 local-zone: "covid19.humanityfirst.org" redirect
@@ -15190,6 +15200,8 @@ local-zone: "covid19.netaqsoft.com" redirect
 local-data: "covid19.netaqsoft.com A 0.0.0.0"
 local-zone: "covid-19.net.in" redirect
 local-data: "covid-19.net.in A 0.0.0.0"
+local-zone: "covid19.netmusk.com" redirect
+local-data: "covid19.netmusk.com A 0.0.0.0"
 local-zone: "covid-19.net.pl" redirect
 local-data: "covid-19.net.pl A 0.0.0.0"
 local-zone: "covid-19.netsons.org" redirect
@@ -17636,6 +17648,8 @@ local-zone: "covid19tracker.online" redirect
 local-data: "covid19tracker.online A 0.0.0.0"
 local-zone: "covid-19.tracker.rowles.ch" redirect
 local-data: "covid-19.tracker.rowles.ch A 0.0.0.0"
+local-zone: "covid19-trackers.com" redirect
+local-data: "covid19-trackers.com A 0.0.0.0"
 local-zone: "covid19-trackers.com.perfectinteriors.info" redirect
 local-data: "covid19-trackers.com.perfectinteriors.info A 0.0.0.0"
 local-zone: "covid19tracker.tk" redirect
@@ -17866,6 +17880,8 @@ local-zone: "covid-19-uptogether.zendesk.com" redirect
 local-data: "covid-19-uptogether.zendesk.com A 0.0.0.0"
 local-zone: "covid-19urgentcare.com" redirect
 local-data: "covid-19urgentcare.com A 0.0.0.0"
+local-zone: "covid19urgentcare.com" redirect
+local-data: "covid19urgentcare.com A 0.0.0.0"
 local-zone: "covid19.usal.es" redirect
 local-data: "covid19.usal.es A 0.0.0.0"
 local-zone: "covid19-usa.onehealthmed.com" redirect
@@ -20802,6 +20818,8 @@ local-zone: "hygienecoronavirus.com" redirect
 local-data: "hygienecoronavirus.com A 0.0.0.0"
 local-zone: "hygisoftanticorona.com" redirect
 local-data: "hygisoftanticorona.com A 0.0.0.0"
+local-zone: "hypnose-corona-virus.de" redirect
+local-data: "hypnose-corona-virus.de A 0.0.0.0"
 local-zone: "hypnose-coronavirus.de" redirect
 local-data: "hypnose-coronavirus.de A 0.0.0.0"
 local-zone: "hypochlorousacidcoronavirus.com" redirect
@@ -22506,6 +22524,8 @@ local-zone: "nextepidemic.com" redirect
 local-data: "nextepidemic.com A 0.0.0.0"
 local-zone: "ngcoronavirus.info" redirect
 local-data: "ngcoronavirus.info A 0.0.0.0"
+local-zone: "ngtest-covid19-info.com" redirect
+local-data: "ngtest-covid19-info.com A 0.0.0.0"
 local-zone: "nhcoronavirus.com" redirect
 local-data: "nhcoronavirus.com A 0.0.0.0"
 local-zone: "nhscoronavirus.com" redirect
@@ -25234,6 +25254,8 @@ local-zone: "thermometer-coronavirus.com" redirect
 local-data: "thermometer-coronavirus.com A 0.0.0.0"
 local-zone: "thermometercoronavirus.com" redirect
 local-data: "thermometercoronavirus.com A 0.0.0.0"
+local-zone: "thetole-covid19-online-herbs.treatmentherbscentre.com" redirect
+local-data: "thetole-covid19-online-herbs.treatmentherbscentre.com A 0.0.0.0"
 local-zone: "thetruthaboutcorona.com" redirect
 local-data: "thetruthaboutcorona.com A 0.0.0.0"
 local-zone: "thewuhanshake.com" redirect
@@ -26404,6 +26426,8 @@ local-zone: "www.claimback-covid-19.com" redirect
 local-data: "www.claimback-covid-19.com A 0.0.0.0"
 local-zone: "www.claimcoronavirus.co.uk" redirect
 local-data: "www.claimcoronavirus.co.uk A 0.0.0.0"
+local-zone: "www.clickcoronavirus.com" redirect
+local-data: "www.clickcoronavirus.com A 0.0.0.0"
 local-zone: "www.collegeinthetimeofcoronavirus.com" redirect
 local-data: "www.collegeinthetimeofcoronavirus.com A 0.0.0.0"
 local-zone: "www.continuingthroughcoronavirus.com" redirect
@@ -27812,6 +27836,8 @@ local-zone: "www.covid19symptomscensus.com" redirect
 local-data: "www.covid19symptomscensus.com A 0.0.0.0"
 local-zone: "www.covid19-testing.churchofthehighlands.com" redirect
 local-data: "www.covid19-testing.churchofthehighlands.com A 0.0.0.0"
+local-zone: "www.covid19-test.international" redirect
+local-data: "www.covid19-test.international A 0.0.0.0"
 local-zone: "www.covid19testit.com" redirect
 local-data: "www.covid19testit.com A 0.0.0.0"
 local-zone: "www.covid19testkit.ca" redirect
