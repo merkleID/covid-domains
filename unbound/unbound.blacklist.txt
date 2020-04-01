@@ -1462,6 +1462,8 @@ local-zone: "caxiascontracovid19.com.br" redirect
 local-data: "caxiascontracovid19.com.br A 0.0.0.0"
 local-zone: "cbac.covid19govt.xyz" redirect
 local-data: "cbac.covid19govt.xyz A 0.0.0.0"
+local-zone: "cbccovid19canada.com" redirect
+local-data: "cbccovid19canada.com A 0.0.0.0"
 local-zone: "cbdkillscoronavirus.com" redirect
 local-data: "cbdkillscoronavirus.com A 0.0.0.0"
 local-zone: "cbsa-asfc-covid-19-info.ca" redirect
@@ -1534,6 +1536,8 @@ local-zone: "cger-covid-19.com" redirect
 local-data: "cger-covid-19.com A 0.0.0.0"
 local-zone: "chadcoronavirus.com" redirect
 local-data: "chadcoronavirus.com A 0.0.0.0"
+local-zone: "chamber.covid19.stechoq.com" redirect
+local-data: "chamber.covid19.stechoq.com A 0.0.0.0"
 local-zone: "chance-of-dying-to-covid-19.flightdude737.repl.run" redirect
 local-data: "chance-of-dying-to-covid-19.flightdude737.repl.run A 0.0.0.0"
 local-zone: "chance-of-dying-to-covid-19.kellerworthen.repl.run" redirect
@@ -13712,8 +13716,6 @@ local-zone: "covid19i-ch4ase.com" redirect
 local-data: "covid19i-ch4ase.com A 0.0.0.0"
 local-zone: "covid-19.icis.bg" redirect
 local-data: "covid-19.icis.bg A 0.0.0.0"
-local-zone: "covid19.iclinicdata.com" redirect
-local-data: "covid19.iclinicdata.com A 0.0.0.0"
 local-zone: "covid19.icognitus.com" redirect
 local-data: "covid19.icognitus.com A 0.0.0.0"
 local-zone: "covid19.iconstrategiesbpo.com" redirect
@@ -13868,6 +13870,8 @@ local-zone: "covid19info.center" redirect
 local-data: "covid19info.center A 0.0.0.0"
 local-zone: "covid-19info.co" redirect
 local-data: "covid-19info.co A 0.0.0.0"
+local-zone: "covid19info.com.ng" redirect
+local-data: "covid19info.com.ng A 0.0.0.0"
 local-zone: "covid19.infoconferences.com" redirect
 local-data: "covid19.infoconferences.com A 0.0.0.0"
 local-zone: "covid-19-info.eu" redirect
@@ -14850,6 +14854,8 @@ local-zone: "covid19.memphistn.gov" redirect
 local-data: "covid19.memphistn.gov A 0.0.0.0"
 local-zone: "covid-19.men" redirect
 local-data: "covid-19.men A 0.0.0.0"
+local-zone: "covid19-mentalhealth.no1.io" redirect
+local-data: "covid19-mentalhealth.no1.io A 0.0.0.0"
 local-zone: "covid19.merakiinnotech.com" redirect
 local-data: "covid19.merakiinnotech.com A 0.0.0.0"
 local-zone: "covid-19.mercaei.com.mx" redirect
@@ -16772,12 +16778,16 @@ local-zone: "covid19.stage.digital" redirect
 local-data: "covid19.stage.digital A 0.0.0.0"
 local-zone: "covid19-stag-gl.dev-box.tech" redirect
 local-data: "covid19-stag-gl.dev-box.tech A 0.0.0.0"
+local-zone: "covid19-stag-global.dev-box.tech" redirect
+local-data: "covid19-stag-global.dev-box.tech A 0.0.0.0"
 local-zone: "covid19.staging.atws.ca" redirect
 local-data: "covid19.staging.atws.ca A 0.0.0.0"
 local-zone: "covid-19-staging.dnastack.com" redirect
 local-data: "covid-19-staging.dnastack.com A 0.0.0.0"
 local-zone: "covid19.staging.guardian.ng" redirect
 local-data: "covid19.staging.guardian.ng A 0.0.0.0"
+local-zone: "covid-19-staging.readcube.com" redirect
+local-data: "covid-19-staging.readcube.com A 0.0.0.0"
 local-zone: "covid-19-staging.tacc.utexas.edu" redirect
 local-data: "covid-19-staging.tacc.utexas.edu A 0.0.0.0"
 local-zone: "covid-19.staproko.com" redirect
@@ -17528,6 +17538,8 @@ local-zone: "covid19.tourneyboss.app" redirect
 local-data: "covid19.tourneyboss.app A 0.0.0.0"
 local-zone: "covid19.town" redirect
 local-data: "covid19.town A 0.0.0.0"
+local-zone: "covid19.toxshop.my.id" redirect
+local-data: "covid19.toxshop.my.id A 0.0.0.0"
 local-zone: "covid19tp.com" redirect
 local-data: "covid19tp.com A 0.0.0.0"
 local-zone: "covid19trac.com" redirect
@@ -25048,6 +25060,8 @@ local-zone: "thecovid19prevention.com" redirect
 local-data: "thecovid19prevention.com A 0.0.0.0"
 local-zone: "thecovid19stopper.com" redirect
 local-data: "thecovid19stopper.com A 0.0.0.0"
+local-zone: "thecovid19summit.respond.ontraport.net" redirect
+local-data: "thecovid19summit.respond.ontraport.net A 0.0.0.0"
 local-zone: "thecovid19support.com" redirect
 local-data: "thecovid19support.com A 0.0.0.0"
 local-zone: "thecovid19survivors.com" redirect
@@ -25658,6 +25672,8 @@ local-zone: "vseocoronavirus.ru" redirect
 local-data: "vseocoronavirus.ru A 0.0.0.0"
 local-zone: "vtcoronavirus.com" redirect
 local-data: "vtcoronavirus.com A 0.0.0.0"
+local-zone: "vtcovid19.com.br" redirect
+local-data: "vtcovid19.com.br A 0.0.0.0"
 local-zone: "w32fhbwoenmjjt29c.covid-19tv.gov.au" redirect
 local-data: "w32fhbwoenmjjt29c.covid-19tv.gov.au A 0.0.0.0"
 local-zone: "w3coronavirus.com" redirect
