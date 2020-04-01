@@ -260,6 +260,8 @@ local-zone: "adms.covid19.tanahlautkab.go.id" redirect
 local-data: "adms.covid19.tanahlautkab.go.id A 0.0.0.0"
 local-zone: "advancedstudentscovid19.pages.ontraport.net" redirect
 local-data: "advancedstudentscovid19.pages.ontraport.net A 0.0.0.0"
+local-zone: "afectados-covid-19.es" redirect
+local-data: "afectados-covid-19.es A 0.0.0.0"
 local-zone: "afectadoscovid19.es" redirect
 local-data: "afectadoscovid19.es A 0.0.0.0"
 local-zone: "afectadoscovid19.org" redirect
@@ -1454,6 +1456,8 @@ local-zone: "catchcovid.life" redirect
 local-data: "catchcovid.life A 0.0.0.0"
 local-zone: "catchcovid.net" redirect
 local-data: "catchcovid.net A 0.0.0.0"
+local-zone: "cats-coronavirus.com" redirect
+local-data: "cats-coronavirus.com A 0.0.0.0"
 local-zone: "caxiascontracovid19.com.br" redirect
 local-data: "caxiascontracovid19.com.br A 0.0.0.0"
 local-zone: "cbac.covid19govt.xyz" redirect
@@ -5790,6 +5794,8 @@ local-zone: "coronavirusemergencyplans.com" redirect
 local-data: "coronavirusemergencyplans.com A 0.0.0.0"
 local-zone: "coronavirusemergencyresponseplan.com" redirect
 local-data: "coronavirusemergencyresponseplan.com A 0.0.0.0"
+local-zone: "coronavirus.emin.es" redirect
+local-data: "coronavirus.emin.es A 0.0.0.0"
 local-zone: "coronavirusemployeetestkits.com" redirect
 local-data: "coronavirusemployeetestkits.com A 0.0.0.0"
 local-zone: "coronavirusemploymentlaw.com" redirect
@@ -5872,8 +5878,6 @@ local-zone: "coronaviruses.life" redirect
 local-data: "coronaviruses.life A 0.0.0.0"
 local-zone: "coronavirus-espana.es" redirect
 local-data: "coronavirus-espana.es A 0.0.0.0"
-local-zone: "coronavirusespana.eu" redirect
-local-data: "coronavirusespana.eu A 0.0.0.0"
 local-zone: "coronavirusespandemic.com" redirect
 local-data: "coronavirusespandemic.com A 0.0.0.0"
 local-zone: "coronavirus.espm.br" redirect
@@ -12582,6 +12586,8 @@ local-zone: "covid19.donateisrael.net" redirect
 local-data: "covid19.donateisrael.net A 0.0.0.0"
 local-zone: "covid19.dongkelan.com" redirect
 local-data: "covid19.dongkelan.com A 0.0.0.0"
+local-zone: "covid19don.org" redirect
+local-data: "covid19don.org A 0.0.0.0"
 local-zone: "covid19.dosandco.com" redirect
 local-data: "covid19.dosandco.com A 0.0.0.0"
 local-zone: "covid-19dotace.com" redirect
@@ -15036,8 +15042,6 @@ local-zone: "covid19.mydata.org" redirect
 local-data: "covid19.mydata.org A 0.0.0.0"
 local-zone: "covid19.myfbf.com" redirect
 local-data: "covid19.myfbf.com A 0.0.0.0"
-local-zone: "covid19.myhealthwatcher.es" redirect
-local-data: "covid19.myhealthwatcher.es A 0.0.0.0"
 local-zone: "covid19.myiln.co" redirect
 local-data: "covid19.myiln.co A 0.0.0.0"
 local-zone: "covid19-my.info" redirect
@@ -17532,6 +17536,8 @@ local-zone: "covid19tracker.co.za" redirect
 local-data: "covid19tracker.co.za A 0.0.0.0"
 local-zone: "covid19tracker.interesante.com" redirect
 local-data: "covid19tracker.interesante.com A 0.0.0.0"
+local-zone: "covid19tracker.io" redirect
+local-data: "covid19tracker.io A 0.0.0.0"
 local-zone: "covid-19-tracker.iotsolutionz.com" redirect
 local-data: "covid-19-tracker.iotsolutionz.com A 0.0.0.0"
 local-zone: "covid-19-tracker.kevinthomas5.repl.run" redirect
@@ -21162,6 +21168,8 @@ local-zone: "keystone.covid19.cynder.io" redirect
 local-data: "keystone.covid19.cynder.io A 0.0.0.0"
 local-zone: "kharkivcovid-19.kharkivoda.gov.ua" redirect
 local-data: "kharkivcovid-19.kharkivoda.gov.ua A 0.0.0.0"
+local-zone: "khutrungcovid-19.com" redirect
+local-data: "khutrungcovid-19.com A 0.0.0.0"
 local-zone: "kick-corona.com" redirect
 local-data: "kick-corona.com A 0.0.0.0"
 local-zone: "kickcoronavirus.com" redirect
@@ -21558,6 +21566,8 @@ local-zone: "mail.coronavirusofficial.online" redirect
 local-data: "mail.coronavirusofficial.online A 0.0.0.0"
 local-zone: "mail.coronavirusstatistics.co.za" redirect
 local-data: "mail.coronavirusstatistics.co.za A 0.0.0.0"
+local-zone: "mail.coronavirusturkiye.info" redirect
+local-data: "mail.coronavirusturkiye.info A 0.0.0.0"
 local-zone: "mail.coronavirusworldwide.live" redirect
 local-data: "mail.coronavirusworldwide.live A 0.0.0.0"
 local-zone: "mail.covid-19countdown.com" redirect
