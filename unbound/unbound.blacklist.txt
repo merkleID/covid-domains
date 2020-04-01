@@ -13612,6 +13612,8 @@ local-zone: "covid19hazmatsuit.com" redirect
 local-data: "covid19hazmatsuit.com A 0.0.0.0"
 local-zone: "covid-19.hbcse.tifr.res.in" redirect
 local-data: "covid-19.hbcse.tifr.res.in A 0.0.0.0"
+local-zone: "covid19.h-bots.com" redirect
+local-data: "covid19.h-bots.com A 0.0.0.0"
 local-zone: "covid19hdf.fr" redirect
 local-data: "covid19hdf.fr A 0.0.0.0"
 local-zone: "covid19headlines.com" redirect
@@ -17148,6 +17150,8 @@ local-zone: "covid19stimulus.org" redirect
 local-data: "covid19stimulus.org A 0.0.0.0"
 local-zone: "covid19.stm.info" redirect
 local-data: "covid19.stm.info A 0.0.0.0"
+local-zone: "covid-19stock.co.za" redirect
+local-data: "covid-19stock.co.za A 0.0.0.0"
 local-zone: "covid19stocks.com" redirect
 local-data: "covid19stocks.com A 0.0.0.0"
 local-zone: "covid-19stop.com" redirect
@@ -26694,6 +26698,8 @@ local-zone: "www.blackhawkcovid19.com" redirect
 local-data: "www.blackhawkcovid19.com A 0.0.0.0"
 local-zone: "www.blogoltreilcoronavirus.com" redirect
 local-data: "www.blogoltreilcoronavirus.com A 0.0.0.0"
+local-zone: "www.borba-coronavirusom.ru" redirect
+local-data: "www.borba-coronavirusom.ru A 0.0.0.0"
 local-zone: "www.boutique-coronavirus.fr" redirect
 local-data: "www.boutique-coronavirus.fr A 0.0.0.0"
 local-zone: "www.breakcovid19.com" redirect
