@@ -7878,7 +7878,6 @@ local-zone: "covid19paidleavecalculator.com" static
 local-zone: "covid19pa.info" static
 local-zone: "covid-19.paisx.net" static
 local-zone: "covid-19pakistan.com" static
-local-zone: "covid19.palashsharma.com" static
 local-zone: "covid19.palatable.app" static
 local-zone: "covid19.paliativnimedicina.cz" static
 local-zone: "covid19.pallarssobira.cat" static
@@ -13260,6 +13259,10 @@ local-zone: "wuhantoetap.com" static
 local-zone: "wuhantoutiao.com" static
 local-zone: "wuhanviral.com" static
 local-zone: "wuhanvirus19.com" static
+local-zone: "wuhanvirus2020.com" static
+local-zone: "wuhanvirus2020.info" static
+local-zone: "wuhanvirus2020.net" static
+local-zone: "wuhanvirus2020.org" static
 local-zone: "wuhanvirus.biz" static
 local-zone: "wuhanvirus.ch" static
 local-zone: "wuhanvirus.cn" static

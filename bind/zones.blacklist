@@ -7878,7 +7878,6 @@ zone "covid19paidleavecalculator.com" { type master; notify no; file null.zone.f
 zone "covid19pa.info" { type master; notify no; file null.zone.file; };
 zone "covid-19.paisx.net" { type master; notify no; file null.zone.file; };
 zone "covid-19pakistan.com" { type master; notify no; file null.zone.file; };
-zone "covid19.palashsharma.com" { type master; notify no; file null.zone.file; };
 zone "covid19.palatable.app" { type master; notify no; file null.zone.file; };
 zone "covid19.paliativnimedicina.cz" { type master; notify no; file null.zone.file; };
 zone "covid19.pallarssobira.cat" { type master; notify no; file null.zone.file; };
@@ -13260,6 +13259,10 @@ zone "wuhantoetap.com" { type master; notify no; file null.zone.file; };
 zone "wuhantoutiao.com" { type master; notify no; file null.zone.file; };
 zone "wuhanviral.com" { type master; notify no; file null.zone.file; };
 zone "wuhanvirus19.com" { type master; notify no; file null.zone.file; };
+zone "wuhanvirus2020.com" { type master; notify no; file null.zone.file; };
+zone "wuhanvirus2020.info" { type master; notify no; file null.zone.file; };
+zone "wuhanvirus2020.net" { type master; notify no; file null.zone.file; };
+zone "wuhanvirus2020.org" { type master; notify no; file null.zone.file; };
 zone "wuhanvirus.biz" { type master; notify no; file null.zone.file; };
 zone "wuhanvirus.ch" { type master; notify no; file null.zone.file; };
 zone "wuhanvirus.cn" { type master; notify no; file null.zone.file; };

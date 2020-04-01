@@ -15758,8 +15758,6 @@ local-zone: "covid-19.paisx.net" redirect
 local-data: "covid-19.paisx.net A 0.0.0.0"
 local-zone: "covid-19pakistan.com" redirect
 local-data: "covid-19pakistan.com A 0.0.0.0"
-local-zone: "covid19.palashsharma.com" redirect
-local-data: "covid19.palashsharma.com A 0.0.0.0"
 local-zone: "covid19.palatable.app" redirect
 local-data: "covid19.palatable.app A 0.0.0.0"
 local-zone: "covid19.paliativnimedicina.cz" redirect
@@ -26522,6 +26520,14 @@ local-zone: "wuhanviral.com" redirect
 local-data: "wuhanviral.com A 0.0.0.0"
 local-zone: "wuhanvirus19.com" redirect
 local-data: "wuhanvirus19.com A 0.0.0.0"
+local-zone: "wuhanvirus2020.com" redirect
+local-data: "wuhanvirus2020.com A 0.0.0.0"
+local-zone: "wuhanvirus2020.info" redirect
+local-data: "wuhanvirus2020.info A 0.0.0.0"
+local-zone: "wuhanvirus2020.net" redirect
+local-data: "wuhanvirus2020.net A 0.0.0.0"
+local-zone: "wuhanvirus2020.org" redirect
+local-data: "wuhanvirus2020.org A 0.0.0.0"
 local-zone: "wuhanvirus.biz" redirect
 local-data: "wuhanvirus.biz A 0.0.0.0"
 local-zone: "wuhanvirus.ch" redirect

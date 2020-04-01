@@ -15762,8 +15762,6 @@ covid-19.paisx.net CNAME .
 *.covid-19.paisx.net CNAME .
 covid-19pakistan.com CNAME .
 *.covid-19pakistan.com CNAME .
-covid19.palashsharma.com CNAME .
-*.covid19.palashsharma.com CNAME .
 covid19.palatable.app CNAME .
 *.covid19.palatable.app CNAME .
 covid19.paliativnimedicina.cz CNAME .
@@ -26526,6 +26524,14 @@ wuhanviral.com CNAME .
 *.wuhanviral.com CNAME .
 wuhanvirus19.com CNAME .
 *.wuhanvirus19.com CNAME .
+wuhanvirus2020.com CNAME .
+*.wuhanvirus2020.com CNAME .
+wuhanvirus2020.info CNAME .
+*.wuhanvirus2020.info CNAME .
+wuhanvirus2020.net CNAME .
+*.wuhanvirus2020.net CNAME .
+wuhanvirus2020.org CNAME .
+*.wuhanvirus2020.org CNAME .
 wuhanvirus.biz CNAME .
 *.wuhanvirus.biz CNAME .
 wuhanvirus.ch CNAME .
