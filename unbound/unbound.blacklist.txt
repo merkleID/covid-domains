@@ -9660,6 +9660,8 @@ local-zone: "corona-virustest.com" redirect
 local-data: "corona-virustest.com A 0.0.0.0"
 local-zone: "coronavirustest.com.ua" redirect
 local-data: "coronavirustest.com.ua A 0.0.0.0"
+local-zone: "coronavirustest.co.nz" redirect
+local-data: "coronavirustest.co.nz A 0.0.0.0"
 local-zone: "coronavirustestct.com" redirect
 local-data: "coronavirustestct.com A 0.0.0.0"
 local-zone: "coronavirustesten.dk" redirect
@@ -11530,6 +11532,8 @@ local-zone: "covid19-caas-test.health.wolterskluwer.io" redirect
 local-data: "covid19-caas-test.health.wolterskluwer.io A 0.0.0.0"
 local-zone: "covid19ca.com" redirect
 local-data: "covid19ca.com A 0.0.0.0"
+local-zone: "covid19.cac.queensu.ca" redirect
+local-data: "covid19.cac.queensu.ca A 0.0.0.0"
 local-zone: "covid19.cafebookkeepers.com.au" redirect
 local-data: "covid19.cafebookkeepers.com.au A 0.0.0.0"
 local-zone: "covid19.cagibig.com" redirect
@@ -14354,6 +14358,8 @@ local-zone: "covid19lasvegas.com" redirect
 local-data: "covid19lasvegas.com A 0.0.0.0"
 local-zone: "covid19latest.com" redirect
 local-data: "covid19latest.com A 0.0.0.0"
+local-zone: "covid19latinoamerica.com" redirect
+local-data: "covid19latinoamerica.com A 0.0.0.0"
 local-zone: "covid19latrinidad.igorotechitsolutions.com" redirect
 local-data: "covid19latrinidad.igorotechitsolutions.com A 0.0.0.0"
 local-zone: "covid19.lauzhack.com" redirect
@@ -16578,6 +16584,8 @@ local-zone: "covid19shipping.com" redirect
 local-data: "covid19shipping.com A 0.0.0.0"
 local-zone: "covid19shirts.ca" redirect
 local-data: "covid19shirts.ca A 0.0.0.0"
+local-zone: "covid19shirts.one" redirect
+local-data: "covid19shirts.one A 0.0.0.0"
 local-zone: "covid19.shopify-ns1.com" redirect
 local-data: "covid19.shopify-ns1.com A 0.0.0.0"
 local-zone: "covid19shop.net" redirect
@@ -18080,6 +18088,8 @@ local-zone: "covid19watch.info" redirect
 local-data: "covid19watch.info A 0.0.0.0"
 local-zone: "covid19watch.net" redirect
 local-data: "covid19watch.net A 0.0.0.0"
+local-zone: "covid19.wavewish.com" redirect
+local-data: "covid19.wavewish.com A 0.0.0.0"
 local-zone: "covid-19-waxdesign.lesriverains-waxdesign.ca" redirect
 local-data: "covid-19-waxdesign.lesriverains-waxdesign.ca A 0.0.0.0"
 local-zone: "covid19.waykanankab.go.id" redirect
@@ -25476,6 +25486,8 @@ local-zone: "usacoronavirus.com" redirect
 local-data: "usacoronavirus.com A 0.0.0.0"
 local-zone: "usacoronavirusoutbreak.com" redirect
 local-data: "usacoronavirusoutbreak.com A 0.0.0.0"
+local-zone: "uscoronaviruscases.org" redirect
+local-data: "uscoronaviruscases.org A 0.0.0.0"
 local-zone: "us-coronavirus-cases-state-by-state.afyfr.com" redirect
 local-data: "us-coronavirus-cases-state-by-state.afyfr.com A 0.0.0.0"
 local-zone: "us-coronavirus-cases-state-by-state.pantiesandlace.com" redirect
@@ -25674,8 +25686,6 @@ local-zone: "voiceofcovid19.com" redirect
 local-data: "voiceofcovid19.com A 0.0.0.0"
 local-zone: "volonter-coronavirus.ru" redirect
 local-data: "volonter-coronavirus.ru A 0.0.0.0"
-local-zone: "voluntarioscovid19segovia.org" redirect
-local-data: "voluntarioscovid19segovia.org A 0.0.0.0"
 local-zone: "volunteer-coronavirus.online" redirect
 local-data: "volunteer-coronavirus.online A 0.0.0.0"
 local-zone: "volunteer-coronavirus.ru" redirect
@@ -25762,8 +25772,6 @@ local-zone: "webcoronavirus.com" redirect
 local-data: "webcoronavirus.com A 0.0.0.0"
 local-zone: "webcovid19.habber.com" redirect
 local-data: "webcovid19.habber.com A 0.0.0.0"
-local-zone: "webcovid-19.life" redirect
-local-data: "webcovid-19.life A 0.0.0.0"
 local-zone: "webcovid-19.live" redirect
 local-data: "webcovid-19.live A 0.0.0.0"
 local-zone: "webdisk.coronaviruscare.org" redirect
