@@ -764,6 +764,8 @@ api.covid19.ziphio.com CNAME .
 *.api.covid19.ziphio.com CNAME .
 api.dev.covid19.adn.be CNAME .
 *.api.dev.covid19.adn.be CNAME .
+api-dev.covid19homehealth.com CNAME .
+*.api-dev.covid19homehealth.com CNAME .
 api.development.testcovid19.be CNAME .
 *.api.development.testcovid19.be CNAME .
 api.dps-dev.test.covid-19.forms.digital.nhs.uk CNAME .
@@ -12544,6 +12546,8 @@ covid19-deliveries.com CNAME .
 *.covid19-deliveries.com CNAME .
 covid19delivery.org CNAME .
 *.covid19delivery.org CNAME .
+covid19-delta-burnaby-response.ca CNAME .
+*.covid19-delta-burnaby-response.ca CNAME .
 covid19.demary.ma CNAME .
 *.covid19.demary.ma CNAME .
 covid19demo.aidiq.com CNAME .
@@ -14152,6 +14156,8 @@ covid19initiatives.org CNAME .
 *.covid19initiatives.org CNAME .
 covid19injamaica.com CNAME .
 *.covid19injamaica.com CNAME .
+covid-19.injurynet.com.au CNAME .
+*.covid-19.injurynet.com.au CNAME .
 covid19ink.club CNAME .
 *.covid19ink.club CNAME .
 covid-19ink.com CNAME .
@@ -19566,6 +19572,8 @@ daniellencorona.com CNAME .
 *.daniellencorona.com CNAME .
 dannicoronavirus.com CNAME .
 *.dannicoronavirus.com CNAME .
+dannidacoronavirus.it CNAME .
+*.dannidacoronavirus.it CNAME .
 dascoronavirus.de CNAME .
 *.dascoronavirus.de CNAME .
 dashboard-covid19.com CNAME .
@@ -20944,6 +20952,8 @@ helpfightcorona.com CNAME .
 *.helpfightcorona.com CNAME .
 helpfightcoronavirus.com CNAME .
 *.helpfightcoronavirus.com CNAME .
+helpforcoronavirus.eu CNAME .
+*.helpforcoronavirus.eu CNAME .
 helpforcovid19.es CNAME .
 *.helpforcovid19.es CNAME .
 helpfromcoronavirus.com CNAME .
@@ -23666,8 +23676,6 @@ plantacaraalcovid19.adcc.es CNAME .
 *.plantacaraalcovid19.adcc.es CNAME .
 plataformaafectadoscoronavirus.com CNAME .
 *.plataformaafectadoscoronavirus.com CNAME .
-plataformavictimascovid19.es CNAME .
-*.plataformavictimascovid19.es CNAME .
 plataformavictimascovid19.org CNAME .
 *.plataformavictimascovid19.org CNAME .
 platform.covid19crc.org CNAME .
@@ -24686,6 +24694,8 @@ soscovid-19.org CNAME .
 *.soscovid-19.org CNAME .
 soscovid.com CNAME .
 *.soscovid.com CNAME .
+soslegalcovid19.es CNAME .
+*.soslegalcovid19.es CNAME .
 southcarolinacoronavirus.com CNAME .
 *.southcarolinacoronavirus.com CNAME .
 southcoronavirus.com CNAME .
@@ -24944,6 +24954,8 @@ stop-covid19-hyogo.org CNAME .
 *.stop-covid19-hyogo.org CNAME .
 stopcovid19japan.com CNAME .
 *.stopcovid19japan.com CNAME .
+stopcovid19.nahsolutions.in CNAME .
+*.stopcovid19.nahsolutions.in CNAME .
 stopcovid19now.de CNAME .
 *.stopcovid19now.de CNAME .
 stop-covid19.online CNAME .
@@ -25030,8 +25042,6 @@ suppliescoronavirus.com CNAME .
 *.suppliescoronavirus.com CNAME .
 supplies.coronavirus.com.au CNAME .
 *.supplies.coronavirus.com.au CNAME .
-supplycovid-19.com CNAME .
-*.supplycovid-19.com CNAME .
 supportbusinesscovid19.com CNAME .
 *.supportbusinesscovid19.com CNAME .
 supportcoronavirus.com CNAME .
@@ -25192,6 +25202,8 @@ terminatecorona.com CNAME .
 *.terminatecorona.com CNAME .
 terminate-coronavirus.com CNAME .
 *.terminate-coronavirus.com CNAME .
+test1.covid-19.swdemos.net CNAME .
+*.test1.covid-19.swdemos.net CNAME .
 test4corona.com CNAME .
 *.test4corona.com CNAME .
 test4coronavirus.ru CNAME .
@@ -27328,6 +27340,8 @@ www.coronavirussafeproducts.com CNAME .
 *.www.coronavirussafeproducts.com CNAME .
 www.coronavirussafetyitems.com CNAME .
 *.www.coronavirussafetyitems.com CNAME .
+www.coronaviruss.co.in CNAME .
+*.www.coronaviruss.co.in CNAME .
 www.coronavirusscreeningtest.com CNAME .
 *.www.coronavirusscreeningtest.com CNAME .
 www.coronavirusselftests.com CNAME .
@@ -29226,8 +29240,6 @@ www.thecovid19mask.co.za CNAME .
 *.www.thecovid19mask.co.za CNAME .
 www.thecovid19store.com CNAME .
 *.www.thecovid19store.com CNAME .
-www.thecovid19support.com CNAME .
-*.www.thecovid19support.com CNAME .
 www.thecovid19toolkit.com CNAME .
 *.www.thecovid19toolkit.com CNAME .
 www.thedailycoronavirus.com CNAME .
@@ -29284,6 +29296,8 @@ www.volunteersforcoronavirus.com CNAME .
 *.www.volunteersforcoronavirus.com CNAME .
 www.vsyo-o-coronaviruse.online CNAME .
 *.www.vsyo-o-coronaviruse.online CNAME .
+www.vsyo-o-coronaviruse.ru CNAME .
+*.www.vsyo-o-coronaviruse.ru CNAME .
 www.wacovid19therapists.com CNAME .
 *.www.wacovid19therapists.com CNAME .
 www.waroncovid-19.com CNAME .

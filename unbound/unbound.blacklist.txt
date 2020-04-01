@@ -760,6 +760,8 @@ local-zone: "api.covid19.ziphio.com" redirect
 local-data: "api.covid19.ziphio.com A 0.0.0.0"
 local-zone: "api.dev.covid19.adn.be" redirect
 local-data: "api.dev.covid19.adn.be A 0.0.0.0"
+local-zone: "api-dev.covid19homehealth.com" redirect
+local-data: "api-dev.covid19homehealth.com A 0.0.0.0"
 local-zone: "api.development.testcovid19.be" redirect
 local-data: "api.development.testcovid19.be A 0.0.0.0"
 local-zone: "api.dps-dev.test.covid-19.forms.digital.nhs.uk" redirect
@@ -12540,6 +12542,8 @@ local-zone: "covid19-deliveries.com" redirect
 local-data: "covid19-deliveries.com A 0.0.0.0"
 local-zone: "covid19delivery.org" redirect
 local-data: "covid19delivery.org A 0.0.0.0"
+local-zone: "covid19-delta-burnaby-response.ca" redirect
+local-data: "covid19-delta-burnaby-response.ca A 0.0.0.0"
 local-zone: "covid19.demary.ma" redirect
 local-data: "covid19.demary.ma A 0.0.0.0"
 local-zone: "covid19demo.aidiq.com" redirect
@@ -14148,6 +14152,8 @@ local-zone: "covid19initiatives.org" redirect
 local-data: "covid19initiatives.org A 0.0.0.0"
 local-zone: "covid19injamaica.com" redirect
 local-data: "covid19injamaica.com A 0.0.0.0"
+local-zone: "covid-19.injurynet.com.au" redirect
+local-data: "covid-19.injurynet.com.au A 0.0.0.0"
 local-zone: "covid19ink.club" redirect
 local-data: "covid19ink.club A 0.0.0.0"
 local-zone: "covid-19ink.com" redirect
@@ -19562,6 +19568,8 @@ local-zone: "daniellencorona.com" redirect
 local-data: "daniellencorona.com A 0.0.0.0"
 local-zone: "dannicoronavirus.com" redirect
 local-data: "dannicoronavirus.com A 0.0.0.0"
+local-zone: "dannidacoronavirus.it" redirect
+local-data: "dannidacoronavirus.it A 0.0.0.0"
 local-zone: "dascoronavirus.de" redirect
 local-data: "dascoronavirus.de A 0.0.0.0"
 local-zone: "dashboard-covid19.com" redirect
@@ -20940,6 +20948,8 @@ local-zone: "helpfightcorona.com" redirect
 local-data: "helpfightcorona.com A 0.0.0.0"
 local-zone: "helpfightcoronavirus.com" redirect
 local-data: "helpfightcoronavirus.com A 0.0.0.0"
+local-zone: "helpforcoronavirus.eu" redirect
+local-data: "helpforcoronavirus.eu A 0.0.0.0"
 local-zone: "helpforcovid19.es" redirect
 local-data: "helpforcovid19.es A 0.0.0.0"
 local-zone: "helpfromcoronavirus.com" redirect
@@ -23662,8 +23672,6 @@ local-zone: "plantacaraalcovid19.adcc.es" redirect
 local-data: "plantacaraalcovid19.adcc.es A 0.0.0.0"
 local-zone: "plataformaafectadoscoronavirus.com" redirect
 local-data: "plataformaafectadoscoronavirus.com A 0.0.0.0"
-local-zone: "plataformavictimascovid19.es" redirect
-local-data: "plataformavictimascovid19.es A 0.0.0.0"
 local-zone: "plataformavictimascovid19.org" redirect
 local-data: "plataformavictimascovid19.org A 0.0.0.0"
 local-zone: "platform.covid19crc.org" redirect
@@ -24682,6 +24690,8 @@ local-zone: "soscovid-19.org" redirect
 local-data: "soscovid-19.org A 0.0.0.0"
 local-zone: "soscovid.com" redirect
 local-data: "soscovid.com A 0.0.0.0"
+local-zone: "soslegalcovid19.es" redirect
+local-data: "soslegalcovid19.es A 0.0.0.0"
 local-zone: "southcarolinacoronavirus.com" redirect
 local-data: "southcarolinacoronavirus.com A 0.0.0.0"
 local-zone: "southcoronavirus.com" redirect
@@ -24940,6 +24950,8 @@ local-zone: "stop-covid19-hyogo.org" redirect
 local-data: "stop-covid19-hyogo.org A 0.0.0.0"
 local-zone: "stopcovid19japan.com" redirect
 local-data: "stopcovid19japan.com A 0.0.0.0"
+local-zone: "stopcovid19.nahsolutions.in" redirect
+local-data: "stopcovid19.nahsolutions.in A 0.0.0.0"
 local-zone: "stopcovid19now.de" redirect
 local-data: "stopcovid19now.de A 0.0.0.0"
 local-zone: "stop-covid19.online" redirect
@@ -25026,8 +25038,6 @@ local-zone: "suppliescoronavirus.com" redirect
 local-data: "suppliescoronavirus.com A 0.0.0.0"
 local-zone: "supplies.coronavirus.com.au" redirect
 local-data: "supplies.coronavirus.com.au A 0.0.0.0"
-local-zone: "supplycovid-19.com" redirect
-local-data: "supplycovid-19.com A 0.0.0.0"
 local-zone: "supportbusinesscovid19.com" redirect
 local-data: "supportbusinesscovid19.com A 0.0.0.0"
 local-zone: "supportcoronavirus.com" redirect
@@ -25188,6 +25198,8 @@ local-zone: "terminatecorona.com" redirect
 local-data: "terminatecorona.com A 0.0.0.0"
 local-zone: "terminate-coronavirus.com" redirect
 local-data: "terminate-coronavirus.com A 0.0.0.0"
+local-zone: "test1.covid-19.swdemos.net" redirect
+local-data: "test1.covid-19.swdemos.net A 0.0.0.0"
 local-zone: "test4corona.com" redirect
 local-data: "test4corona.com A 0.0.0.0"
 local-zone: "test4coronavirus.ru" redirect
@@ -27324,6 +27336,8 @@ local-zone: "www.coronavirussafeproducts.com" redirect
 local-data: "www.coronavirussafeproducts.com A 0.0.0.0"
 local-zone: "www.coronavirussafetyitems.com" redirect
 local-data: "www.coronavirussafetyitems.com A 0.0.0.0"
+local-zone: "www.coronaviruss.co.in" redirect
+local-data: "www.coronaviruss.co.in A 0.0.0.0"
 local-zone: "www.coronavirusscreeningtest.com" redirect
 local-data: "www.coronavirusscreeningtest.com A 0.0.0.0"
 local-zone: "www.coronavirusselftests.com" redirect
@@ -29222,8 +29236,6 @@ local-zone: "www.thecovid19mask.co.za" redirect
 local-data: "www.thecovid19mask.co.za A 0.0.0.0"
 local-zone: "www.thecovid19store.com" redirect
 local-data: "www.thecovid19store.com A 0.0.0.0"
-local-zone: "www.thecovid19support.com" redirect
-local-data: "www.thecovid19support.com A 0.0.0.0"
 local-zone: "www.thecovid19toolkit.com" redirect
 local-data: "www.thecovid19toolkit.com A 0.0.0.0"
 local-zone: "www.thedailycoronavirus.com" redirect
@@ -29280,6 +29292,8 @@ local-zone: "www.volunteersforcoronavirus.com" redirect
 local-data: "www.volunteersforcoronavirus.com A 0.0.0.0"
 local-zone: "www.vsyo-o-coronaviruse.online" redirect
 local-data: "www.vsyo-o-coronaviruse.online A 0.0.0.0"
+local-zone: "www.vsyo-o-coronaviruse.ru" redirect
+local-data: "www.vsyo-o-coronaviruse.ru A 0.0.0.0"
 local-zone: "www.wacovid19therapists.com" redirect
 local-data: "www.wacovid19therapists.com A 0.0.0.0"
 local-zone: "www.waroncovid-19.com" redirect

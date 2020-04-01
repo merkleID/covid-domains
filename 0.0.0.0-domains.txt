@@ -379,6 +379,7 @@
 0.0.0.0 api.covid19uk.live
 0.0.0.0 api.covid19.ziphio.com
 0.0.0.0 api.dev.covid19.adn.be
+0.0.0.0 api-dev.covid19homehealth.com
 0.0.0.0 api.development.testcovid19.be
 0.0.0.0 api.dps-dev.test.covid-19.forms.digital.nhs.uk
 0.0.0.0 api.dps-poc.dev.covid-19.forms.digital.nhs.uk
@@ -6269,6 +6270,7 @@
 0.0.0.0 covid-19deli.com
 0.0.0.0 covid19-deliveries.com
 0.0.0.0 covid19delivery.org
+0.0.0.0 covid19-delta-burnaby-response.ca
 0.0.0.0 covid19.demary.ma
 0.0.0.0 covid19demo.aidiq.com
 0.0.0.0 covid19.demographicscience.ox.ac.uk
@@ -7073,6 +7075,7 @@
 0.0.0.0 covid19initiative.com
 0.0.0.0 covid19initiatives.org
 0.0.0.0 covid19injamaica.com
+0.0.0.0 covid-19.injurynet.com.au
 0.0.0.0 covid19ink.club
 0.0.0.0 covid-19ink.com
 0.0.0.0 covid19ink.com
@@ -9780,6 +9783,7 @@
 0.0.0.0 daiyunwuhan.com
 0.0.0.0 daniellencorona.com
 0.0.0.0 dannicoronavirus.com
+0.0.0.0 dannidacoronavirus.it
 0.0.0.0 dascoronavirus.de
 0.0.0.0 dashboard-covid19.com
 0.0.0.0 dashboard.covid19.data.gouv.fr
@@ -10469,6 +10473,7 @@
 0.0.0.0 helpdesk.soscoronavirus.info
 0.0.0.0 helpfightcorona.com
 0.0.0.0 helpfightcoronavirus.com
+0.0.0.0 helpforcoronavirus.eu
 0.0.0.0 helpforcovid19.es
 0.0.0.0 helpfromcoronavirus.com
 0.0.0.0 helpfromcovid-19.com
@@ -11830,7 +11835,6 @@
 0.0.0.0 planetcoronavirus.com
 0.0.0.0 plantacaraalcovid19.adcc.es
 0.0.0.0 plataformaafectadoscoronavirus.com
-0.0.0.0 plataformavictimascovid19.es
 0.0.0.0 plataformavictimascovid19.org
 0.0.0.0 platform.covid19crc.org
 0.0.0.0 playcorona.com
@@ -12340,6 +12344,7 @@
 0.0.0.0 sos-covid19.org
 0.0.0.0 soscovid-19.org
 0.0.0.0 soscovid.com
+0.0.0.0 soslegalcovid19.es
 0.0.0.0 southcarolinacoronavirus.com
 0.0.0.0 southcoronavirus.com
 0.0.0.0 southdakotacoronavirus.com
@@ -12469,6 +12474,7 @@
 0.0.0.0 stop-covid-19.hristovandpartners.com
 0.0.0.0 stop-covid19-hyogo.org
 0.0.0.0 stopcovid19japan.com
+0.0.0.0 stopcovid19.nahsolutions.in
 0.0.0.0 stopcovid19now.de
 0.0.0.0 stop-covid19.online
 0.0.0.0 stop-covid19.org
@@ -12512,7 +12518,6 @@
 0.0.0.0 supplementsforcoronavirus.com
 0.0.0.0 suppliescoronavirus.com
 0.0.0.0 supplies.coronavirus.com.au
-0.0.0.0 supplycovid-19.com
 0.0.0.0 supportbusinesscovid19.com
 0.0.0.0 supportcoronavirus.com
 0.0.0.0 support.coronavirusms.com
@@ -12593,6 +12598,7 @@
 0.0.0.0 terapicovid19.com
 0.0.0.0 terminatecorona.com
 0.0.0.0 terminate-coronavirus.com
+0.0.0.0 test1.covid-19.swdemos.net
 0.0.0.0 test4corona.com
 0.0.0.0 test4coronavirus.ru
 0.0.0.0 testalabamacovid-19.com
@@ -13661,6 +13667,7 @@
 0.0.0.0 www.coronavirussafemask.site
 0.0.0.0 www.coronavirussafeproducts.com
 0.0.0.0 www.coronavirussafetyitems.com
+0.0.0.0 www.coronaviruss.co.in
 0.0.0.0 www.coronavirusscreeningtest.com
 0.0.0.0 www.coronavirusselftests.com
 0.0.0.0 www.coronavirus.shop
@@ -14610,7 +14617,6 @@
 0.0.0.0 www.thecovid19essentials.com
 0.0.0.0 www.thecovid19mask.co.za
 0.0.0.0 www.thecovid19store.com
-0.0.0.0 www.thecovid19support.com
 0.0.0.0 www.thecovid19toolkit.com
 0.0.0.0 www.thedailycoronavirus.com
 0.0.0.0 www.theeaglecoronavirusproject.com
@@ -14639,6 +14645,7 @@
 0.0.0.0 www.voluntarioscovid19.com
 0.0.0.0 www.volunteersforcoronavirus.com
 0.0.0.0 www.vsyo-o-coronaviruse.online
+0.0.0.0 www.vsyo-o-coronaviruse.ru
 0.0.0.0 www.wacovid19therapists.com
 0.0.0.0 www.waroncovid-19.com
 0.0.0.0 www.wearecoronavirussurvivors.com
