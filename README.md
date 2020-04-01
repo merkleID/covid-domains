@@ -23,6 +23,11 @@ https://www.malwarepatrol.net/wp-content/uploads/2020/03/covid-19-domains.txt
 A simple bash-script rework based on the above two covid-related spam-domains list.
 The bash-script parses the files and then outputs to respective dns-daemons zone-file formats.
 
+01-apr-2020: ADDED EXCLUSION LIST
+If you feel your domain/s shouldn't be included in this list, just drop me a line to
+luca AT merkle DOT id 
+
 Crontab updates every 30 mins.
 
 Current number of domains: 14714
+
