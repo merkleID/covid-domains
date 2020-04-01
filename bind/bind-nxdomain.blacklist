@@ -21840,8 +21840,6 @@ letsbeatcoronavirus.co.uk CNAME .
 *.letsbeatcoronavirus.co.uk CNAME .
 letsbeatcoronavirus.org CNAME .
 *.letsbeatcoronavirus.org CNAME .
-letsbeatcovid19.net CNAME .
-*.letsbeatcovid19.net CNAME .
 letsdefeatcoronavirus.com CNAME .
 *.letsdefeatcoronavirus.com CNAME .
 letsdieofcoronatogether.com CNAME .
@@ -22712,6 +22710,8 @@ ncov19.me CNAME .
 *.ncov19.me CNAME .
 ncov-19.net CNAME .
 *.ncov-19.net CNAME .
+ncov-19.online CNAME .
+*.ncov-19.online CNAME .
 ncov19.org CNAME .
 *.ncov19.org CNAME .
 ncov19ppe.com CNAME .
@@ -27474,6 +27474,8 @@ www.coronavirusworldmap.com CNAME .
 *.www.coronavirusworldmap.com CNAME .
 www.coronavirus-zabolevshie.ru CNAME .
 *.www.coronavirus-zabolevshie.ru CNAME .
+www.coronavirus-zarazhennye.ru CNAME .
+*.www.coronavirus-zarazhennye.ru CNAME .
 www.coronavirus-zone.com CNAME .
 *.www.coronavirus-zone.com CNAME .
 www.coronavirus-zuerich-infos.ch CNAME .

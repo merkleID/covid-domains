@@ -10917,7 +10917,6 @@ local-zone: "letsavoidthecovid19.com" static
 local-zone: "letsbeatcoronavirus.com" static
 local-zone: "letsbeatcoronavirus.co.uk" static
 local-zone: "letsbeatcoronavirus.org" static
-local-zone: "letsbeatcovid19.net" static
 local-zone: "letsdefeatcoronavirus.com" static
 local-zone: "letsdieofcoronatogether.com" static
 local-zone: "letsendcovid19.org" static
@@ -11353,6 +11352,7 @@ local-zone: "ncov19.life" static
 local-zone: "ncov19live.com" static
 local-zone: "ncov19.me" static
 local-zone: "ncov-19.net" static
+local-zone: "ncov-19.online" static
 local-zone: "ncov19.org" static
 local-zone: "ncov19ppe.com" static
 local-zone: "ncov19.ro" static
@@ -13734,6 +13734,7 @@ local-zone: "www.coronavirus-worlddata.org" static
 local-zone: "www.coronavirus-world.info" static
 local-zone: "www.coronavirusworldmap.com" static
 local-zone: "www.coronavirus-zabolevshie.ru" static
+local-zone: "www.coronavirus-zarazhennye.ru" static
 local-zone: "www.coronavirus-zone.com" static
 local-zone: "www.coronavirus-zuerich-infos.ch" static
 local-zone: "www.coslada-coronavirus.es" static

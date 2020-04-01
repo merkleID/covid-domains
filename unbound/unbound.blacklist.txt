@@ -21836,8 +21836,6 @@ local-zone: "letsbeatcoronavirus.co.uk" redirect
 local-data: "letsbeatcoronavirus.co.uk A 0.0.0.0"
 local-zone: "letsbeatcoronavirus.org" redirect
 local-data: "letsbeatcoronavirus.org A 0.0.0.0"
-local-zone: "letsbeatcovid19.net" redirect
-local-data: "letsbeatcovid19.net A 0.0.0.0"
 local-zone: "letsdefeatcoronavirus.com" redirect
 local-data: "letsdefeatcoronavirus.com A 0.0.0.0"
 local-zone: "letsdieofcoronatogether.com" redirect
@@ -22708,6 +22706,8 @@ local-zone: "ncov19.me" redirect
 local-data: "ncov19.me A 0.0.0.0"
 local-zone: "ncov-19.net" redirect
 local-data: "ncov-19.net A 0.0.0.0"
+local-zone: "ncov-19.online" redirect
+local-data: "ncov-19.online A 0.0.0.0"
 local-zone: "ncov19.org" redirect
 local-data: "ncov19.org A 0.0.0.0"
 local-zone: "ncov19ppe.com" redirect
@@ -27470,6 +27470,8 @@ local-zone: "www.coronavirusworldmap.com" redirect
 local-data: "www.coronavirusworldmap.com A 0.0.0.0"
 local-zone: "www.coronavirus-zabolevshie.ru" redirect
 local-data: "www.coronavirus-zabolevshie.ru A 0.0.0.0"
+local-zone: "www.coronavirus-zarazhennye.ru" redirect
+local-data: "www.coronavirus-zarazhennye.ru A 0.0.0.0"
 local-zone: "www.coronavirus-zone.com" redirect
 local-data: "www.coronavirus-zone.com A 0.0.0.0"
 local-zone: "www.coronavirus-zuerich-infos.ch" redirect
