@@ -7248,6 +7248,8 @@ local-zone: "coronavirus-liveticker.de" redirect
 local-data: "coronavirus-liveticker.de A 0.0.0.0"
 local-zone: "coronavirus-live-update.com" redirect
 local-data: "coronavirus-live-update.com A 0.0.0.0"
+local-zone: "coronavirusliveupdate.info" redirect
+local-data: "coronavirusliveupdate.info A 0.0.0.0"
 local-zone: "coronavirusliveupdate.now.sh" redirect
 local-data: "coronavirusliveupdate.now.sh A 0.0.0.0"
 local-zone: "coronavirus-liveupdates.com" redirect
@@ -12068,6 +12070,8 @@ local-zone: "covid-19.corsica" redirect
 local-data: "covid-19.corsica A 0.0.0.0"
 local-zone: "covid-19.corsoventures.com" redirect
 local-data: "covid-19.corsoventures.com A 0.0.0.0"
+local-zone: "covid19.cosemspa.org.br" redirect
+local-data: "covid19.cosemspa.org.br A 0.0.0.0"
 local-zone: "covid-19-cos.org" redirect
 local-data: "covid-19-cos.org A 0.0.0.0"
 local-zone: "covid19.costamednetwork.net" redirect
@@ -16024,8 +16028,6 @@ local-zone: "covid-19-relief.com" redirect
 local-data: "covid-19-relief.com A 0.0.0.0"
 local-zone: "covid-19relief.com" redirect
 local-data: "covid-19relief.com A 0.0.0.0"
-local-zone: "covid19relief.sba.gov" redirect
-local-data: "covid19relief.sba.gov A 0.0.0.0"
 local-zone: "covid19.rembangkab.go.id" redirect
 local-data: "covid19.rembangkab.go.id A 0.0.0.0"
 local-zone: "covid19remboursement.eu" redirect
@@ -16108,6 +16110,8 @@ local-zone: "covid19response.s29.me" redirect
 local-data: "covid19response.s29.me A 0.0.0.0"
 local-zone: "covid19-response-tracker.live" redirect
 local-data: "covid19-response-tracker.live A 0.0.0.0"
+local-zone: "covid19response.xyz" redirect
+local-data: "covid19response.xyz A 0.0.0.0"
 local-zone: "covid19response.yourhealthpro.net" redirect
 local-data: "covid19response.yourhealthpro.net A 0.0.0.0"
 local-zone: "covid19responsfund.com" redirect
@@ -16250,6 +16254,8 @@ local-zone: "covid19.salmonchile.cl" redirect
 local-data: "covid19.salmonchile.cl A 0.0.0.0"
 local-zone: "covid-19.sandes.uk" redirect
 local-data: "covid-19.sandes.uk A 0.0.0.0"
+local-zone: "covid19.sangpati-tech.com" redirect
+local-data: "covid19.sangpati-tech.com A 0.0.0.0"
 local-zone: "covid19sanitarysupplies.com" redirect
 local-data: "covid19sanitarysupplies.com A 0.0.0.0"
 local-zone: "covid19sanitize.com" redirect
@@ -16874,6 +16880,8 @@ local-zone: "covid-19stuff.com" redirect
 local-data: "covid-19stuff.com A 0.0.0.0"
 local-zone: "covid19stuff.com" redirect
 local-data: "covid19stuff.com A 0.0.0.0"
+local-zone: "covid19stuff.trustedtransactionservice.com" redirect
+local-data: "covid19stuff.trustedtransactionservice.com A 0.0.0.0"
 local-zone: "covid-19.subangxploits.xyz" redirect
 local-data: "covid-19.subangxploits.xyz A 0.0.0.0"
 local-zone: "covid19.subulussalamkota.go.id" redirect
@@ -24436,6 +24444,8 @@ local-zone: "stopthecoronaviruses.com" redirect
 local-data: "stopthecoronaviruses.com A 0.0.0.0"
 local-zone: "stopthecoronavirusnyc.com" redirect
 local-data: "stopthecoronavirusnyc.com A 0.0.0.0"
+local-zone: "stopthespreadofcovid-19.com" redirect
+local-data: "stopthespreadofcovid-19.com A 0.0.0.0"
 local-zone: "stopviruscovid-19.com" redirect
 local-data: "stopviruscovid-19.com A 0.0.0.0"
 local-zone: "storageboss.covid19.qwkcheckout.com" redirect
@@ -27040,6 +27050,8 @@ local-zone: "www.covid19.direct" redirect
 local-data: "www.covid19.direct A 0.0.0.0"
 local-zone: "www.covid-19dishes.com" redirect
 local-data: "www.covid-19dishes.com A 0.0.0.0"
+local-zone: "www.covid-19-donations.org" redirect
+local-data: "www.covid-19-donations.org A 0.0.0.0"
 local-zone: "www.covid19-donations.org" redirect
 local-data: "www.covid19-donations.org A 0.0.0.0"
 local-zone: "www.covid19-druginteractions.org" redirect
