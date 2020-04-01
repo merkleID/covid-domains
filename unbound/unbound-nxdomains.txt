@@ -5757,6 +5757,7 @@ local-zone: "covid-19-black.now.sh" static
 local-zone: "covid-19blog.com" static
 local-zone: "covid19blog.it" static
 local-zone: "covid19blog.org" static
+local-zone: "covid19blog.questu.ca" static
 local-zone: "covid19bloodtest.com" static
 local-zone: "covid19.blueforcefleet.com" static
 local-zone: "covid-19-board.com" static
@@ -13403,6 +13404,7 @@ local-zone: "www.coronavirusadieu.com" static
 local-zone: "www.coronavirusass.com" static
 local-zone: "www.coronavirusbaby.net" static
 local-zone: "www.coronavirus.band" static
+local-zone: "www.coronavirusbankruptcyattorney.com" static
 local-zone: "www.coronavirus-baseball.com" static
 local-zone: "www.coronavirusbd.com" static
 local-zone: "www.coronavirusblog.org" static
@@ -13512,6 +13514,7 @@ local-zone: "www.coronavirus.industries" static
 local-zone: "www.coronavirusinf.com" static
 local-zone: "www.corona-virus-infection.ru" static
 local-zone: "www.coronavirus-info24.ru" static
+local-zone: "www.coronavirusinfo-online.ru" static
 local-zone: "www.coronavirusinformator.ru" static
 local-zone: "www.coronavirus-infos.app" static
 local-zone: "www.corona-virus-infos.com" static

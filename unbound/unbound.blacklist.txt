@@ -11516,6 +11516,8 @@ local-zone: "covid19blog.it" redirect
 local-data: "covid19blog.it A 0.0.0.0"
 local-zone: "covid19blog.org" redirect
 local-data: "covid19blog.org A 0.0.0.0"
+local-zone: "covid19blog.questu.ca" redirect
+local-data: "covid19blog.questu.ca A 0.0.0.0"
 local-zone: "covid19bloodtest.com" redirect
 local-data: "covid19bloodtest.com A 0.0.0.0"
 local-zone: "covid19.blueforcefleet.com" redirect
@@ -26808,6 +26810,8 @@ local-zone: "www.coronavirusbaby.net" redirect
 local-data: "www.coronavirusbaby.net A 0.0.0.0"
 local-zone: "www.coronavirus.band" redirect
 local-data: "www.coronavirus.band A 0.0.0.0"
+local-zone: "www.coronavirusbankruptcyattorney.com" redirect
+local-data: "www.coronavirusbankruptcyattorney.com A 0.0.0.0"
 local-zone: "www.coronavirus-baseball.com" redirect
 local-data: "www.coronavirus-baseball.com A 0.0.0.0"
 local-zone: "www.coronavirusbd.com" redirect
@@ -27026,6 +27030,8 @@ local-zone: "www.corona-virus-infection.ru" redirect
 local-data: "www.corona-virus-infection.ru A 0.0.0.0"
 local-zone: "www.coronavirus-info24.ru" redirect
 local-data: "www.coronavirus-info24.ru A 0.0.0.0"
+local-zone: "www.coronavirusinfo-online.ru" redirect
+local-data: "www.coronavirusinfo-online.ru A 0.0.0.0"
 local-zone: "www.coronavirusinformator.ru" redirect
 local-data: "www.coronavirusinformator.ru A 0.0.0.0"
 local-zone: "www.coronavirus-infos.app" redirect
