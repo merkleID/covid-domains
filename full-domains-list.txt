@@ -15,6 +15,7 @@
 115-use-pigz-for-tile-server-d.covid19vis.lingvis.io
 115-use-pigz-for-tile-server-dockerization.covid19vis.lingvis.io
 116-frontend-does-not-work-in.api.covid19vis.lingvis.io
+118-beautify-impressum-and-abo.api.covid19vis.lingvis.io
 123corona.com
 123coronavirus.com
 145-covid-19.exactsciences.net
@@ -332,6 +333,7 @@ api.88003c15.test.covid-19.forms.digital.nhs.uk
 api.89703ccc.test.covid-19.forms.digital.nhs.uk
 api.8f8d8a02.test.covid-19.forms.digital.nhs.uk
 api.aa970a93.test.covid-19.forms.digital.nhs.uk
+api.alianzacovid19.es
 api.appcoronavirus.cl
 api.attestation-sortie-covid19.fr
 api-autocovid19.vietseatravel.net
@@ -3570,6 +3572,8 @@ coronavirusknoxville.com
 coronaviruskong.com
 coronaviruskorea.com
 coronavirus.kosmostudio.com.br
+coronavirus-krasnodar.ru
+coronavirus-krym.ru
 coronavirusks.com
 coronaviruskudlow.com
 coronavirusky.org
@@ -5008,6 +5012,7 @@ coronavirustunisia.com
 coronavirustutor.com
 coronavirustutors.com
 coronavirus.tv
+coronavirus-tver.ru
 coronavirustwittermap.ics.uci.edu
 coronavirus.twooceansdigital.com
 coronavirustx.net
@@ -5259,6 +5264,7 @@ coronavirusyemen.com
 coronavirusykt.ru
 coronavirusyley.com
 coronavirusy.net
+coronavirusy.online
 coronavirus.york.ac.uk
 coronavirus.your-own-self.com
 coronavirus.yttomp3.xyz
@@ -6131,6 +6137,7 @@ covid19cvm.com
 covid19.cwerner.ai
 covid19.cyber-dev.ru
 covid19.cybernyon.com
+covid19.cyberteam.us
 covid19cycling.com
 covid19cz-btt-wa-dev.westeurope.cloudapp.azure.com
 covid19cz.com
@@ -6463,6 +6470,7 @@ covid19events.com
 covid19everett.com
 covid19everything.com
 covid19evolution.com
+covid19.ewb-swe.org
 covid19.exaltconclave.com
 covid19exhibition.org
 covid19experience.com
@@ -6714,6 +6722,7 @@ covid-19.gsooka.com
 covid-19-gt.cf
 covid19gt.com
 covid19.guardian.ng
+covid19guide.gcproductions.in
 covid19guidelines.com
 covid19guidelines.online
 covid19guide.me
@@ -7279,6 +7288,7 @@ covid19liveinfo.rubymega.com
 covid-19.liveinfotime.com
 covid19-live.io
 covid19live.kz
+covid19.live.lk
 covid19livemap.club
 covid19-live.ml
 covid19live.now.sh
@@ -7476,6 +7486,7 @@ covid-19.me.uk
 covid19-mexico.com
 covid19mexico.com
 covid19.mfischer.dev
+covid19-mgen.psya.fr
 covid19.mgm.pictures
 covid19mgmt.com
 covid19.mhbproject.com
@@ -8865,6 +8876,7 @@ covid19travelinfo.com
 covid19travelscreening.ou.edu
 covid-19-travel-update.pages.ontraport.net
 covid19travelupdates.com
+covid19.trbot.ca
 covid-19treatment.co.za.bambam.co.za
 covid19treatmentguidelines.nih.gov
 covid-19treatment.org
@@ -9060,6 +9072,7 @@ covid-19.vspventures.com
 covid19.vspventures.com
 covid19vt.com
 covid-19-vucap.org
+covid19vuk.org
 covid19wa.com
 covid19.wadhwaniai.org
 covid19-wallofshame.com
@@ -12281,7 +12294,6 @@ stopcoronavirus.world
 stop-covid19.amuvh.in.ua
 stopcovid19app.com
 stopcovid-19.at
-stopcovid19.bg
 stop-covid-19.biospot.by
 stopcovid19bot.com
 stopcovid19bot.org
@@ -13362,6 +13374,7 @@ www.coronavirus-infos.app
 www.corona-virus-infos.com
 www.coronavirus.institute
 www.coronavirusinusnearme.com
+www.coronavirusjaca.es
 www.coronavirusjournel.com
 www.coronavirusjourney.com
 www.coronavirusjournos.org
@@ -13654,7 +13667,6 @@ www.covid19enlatam.com
 www.covid19-entreprises90.fr
 www.covid-19-en-tu-casa.ml
 www.covid19.envisioncircle.com
-www.covid19.epicclearning.ca
 www.covid19.eql.ai
 www.covid-19-equipment.com
 www.covid19equipment.com

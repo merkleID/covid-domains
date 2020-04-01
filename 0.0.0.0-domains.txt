@@ -15,6 +15,7 @@
 0.0.0.0 115-use-pigz-for-tile-server-d.covid19vis.lingvis.io
 0.0.0.0 115-use-pigz-for-tile-server-dockerization.covid19vis.lingvis.io
 0.0.0.0 116-frontend-does-not-work-in.api.covid19vis.lingvis.io
+0.0.0.0 118-beautify-impressum-and-abo.api.covid19vis.lingvis.io
 0.0.0.0 123corona.com
 0.0.0.0 123coronavirus.com
 0.0.0.0 145-covid-19.exactsciences.net
@@ -332,6 +333,7 @@
 0.0.0.0 api.89703ccc.test.covid-19.forms.digital.nhs.uk
 0.0.0.0 api.8f8d8a02.test.covid-19.forms.digital.nhs.uk
 0.0.0.0 api.aa970a93.test.covid-19.forms.digital.nhs.uk
+0.0.0.0 api.alianzacovid19.es
 0.0.0.0 api.appcoronavirus.cl
 0.0.0.0 api.attestation-sortie-covid19.fr
 0.0.0.0 api-autocovid19.vietseatravel.net
@@ -3570,6 +3572,8 @@
 0.0.0.0 coronaviruskong.com
 0.0.0.0 coronaviruskorea.com
 0.0.0.0 coronavirus.kosmostudio.com.br
+0.0.0.0 coronavirus-krasnodar.ru
+0.0.0.0 coronavirus-krym.ru
 0.0.0.0 coronavirusks.com
 0.0.0.0 coronaviruskudlow.com
 0.0.0.0 coronavirusky.org
@@ -5008,6 +5012,7 @@
 0.0.0.0 coronavirustutor.com
 0.0.0.0 coronavirustutors.com
 0.0.0.0 coronavirus.tv
+0.0.0.0 coronavirus-tver.ru
 0.0.0.0 coronavirustwittermap.ics.uci.edu
 0.0.0.0 coronavirus.twooceansdigital.com
 0.0.0.0 coronavirustx.net
@@ -5259,6 +5264,7 @@
 0.0.0.0 coronavirusykt.ru
 0.0.0.0 coronavirusyley.com
 0.0.0.0 coronavirusy.net
+0.0.0.0 coronavirusy.online
 0.0.0.0 coronavirus.york.ac.uk
 0.0.0.0 coronavirus.your-own-self.com
 0.0.0.0 coronavirus.yttomp3.xyz
@@ -6131,6 +6137,7 @@
 0.0.0.0 covid19.cwerner.ai
 0.0.0.0 covid19.cyber-dev.ru
 0.0.0.0 covid19.cybernyon.com
+0.0.0.0 covid19.cyberteam.us
 0.0.0.0 covid19cycling.com
 0.0.0.0 covid19cz-btt-wa-dev.westeurope.cloudapp.azure.com
 0.0.0.0 covid19cz.com
@@ -6463,6 +6470,7 @@
 0.0.0.0 covid19everett.com
 0.0.0.0 covid19everything.com
 0.0.0.0 covid19evolution.com
+0.0.0.0 covid19.ewb-swe.org
 0.0.0.0 covid19.exaltconclave.com
 0.0.0.0 covid19exhibition.org
 0.0.0.0 covid19experience.com
@@ -6714,6 +6722,7 @@
 0.0.0.0 covid-19-gt.cf
 0.0.0.0 covid19gt.com
 0.0.0.0 covid19.guardian.ng
+0.0.0.0 covid19guide.gcproductions.in
 0.0.0.0 covid19guidelines.com
 0.0.0.0 covid19guidelines.online
 0.0.0.0 covid19guide.me
@@ -7279,6 +7288,7 @@
 0.0.0.0 covid-19.liveinfotime.com
 0.0.0.0 covid19-live.io
 0.0.0.0 covid19live.kz
+0.0.0.0 covid19.live.lk
 0.0.0.0 covid19livemap.club
 0.0.0.0 covid19-live.ml
 0.0.0.0 covid19live.now.sh
@@ -7476,6 +7486,7 @@
 0.0.0.0 covid19-mexico.com
 0.0.0.0 covid19mexico.com
 0.0.0.0 covid19.mfischer.dev
+0.0.0.0 covid19-mgen.psya.fr
 0.0.0.0 covid19.mgm.pictures
 0.0.0.0 covid19mgmt.com
 0.0.0.0 covid19.mhbproject.com
@@ -8865,6 +8876,7 @@
 0.0.0.0 covid19travelscreening.ou.edu
 0.0.0.0 covid-19-travel-update.pages.ontraport.net
 0.0.0.0 covid19travelupdates.com
+0.0.0.0 covid19.trbot.ca
 0.0.0.0 covid-19treatment.co.za.bambam.co.za
 0.0.0.0 covid19treatmentguidelines.nih.gov
 0.0.0.0 covid-19treatment.org
@@ -9060,6 +9072,7 @@
 0.0.0.0 covid19.vspventures.com
 0.0.0.0 covid19vt.com
 0.0.0.0 covid-19-vucap.org
+0.0.0.0 covid19vuk.org
 0.0.0.0 covid19wa.com
 0.0.0.0 covid19.wadhwaniai.org
 0.0.0.0 covid19-wallofshame.com
@@ -12281,7 +12294,6 @@
 0.0.0.0 stop-covid19.amuvh.in.ua
 0.0.0.0 stopcovid19app.com
 0.0.0.0 stopcovid-19.at
-0.0.0.0 stopcovid19.bg
 0.0.0.0 stop-covid-19.biospot.by
 0.0.0.0 stopcovid19bot.com
 0.0.0.0 stopcovid19bot.org
@@ -13362,6 +13374,7 @@
 0.0.0.0 www.corona-virus-infos.com
 0.0.0.0 www.coronavirus.institute
 0.0.0.0 www.coronavirusinusnearme.com
+0.0.0.0 www.coronavirusjaca.es
 0.0.0.0 www.coronavirusjournel.com
 0.0.0.0 www.coronavirusjourney.com
 0.0.0.0 www.coronavirusjournos.org
@@ -13654,7 +13667,6 @@
 0.0.0.0 www.covid19-entreprises90.fr
 0.0.0.0 www.covid-19-en-tu-casa.ml
 0.0.0.0 www.covid19.envisioncircle.com
-0.0.0.0 www.covid19.epicclearning.ca
 0.0.0.0 www.covid19.eql.ai
 0.0.0.0 www.covid-19-equipment.com
 0.0.0.0 www.covid19equipment.com
