@@ -9790,6 +9790,7 @@ zone "decoronavirus.com" { type master; notify no; file null.zone.file; };
 zone "de.coronavirusde.online" { type master; notify no; file null.zone.file; };
 zone "decoronavirus.es" { type master; notify no; file null.zone.file; };
 zone "de-coronavirus.net" { type master; notify no; file null.zone.file; };
+zone "de.covid-19-prognose.ch" { type master; notify no; file null.zone.file; };
 zone "de.covid19tester.eu" { type master; notify no; file null.zone.file; };
 zone "decretocovid19.ws" { type master; notify no; file null.zone.file; };
 zone "deepclean-coronavirus.co.uk" { type master; notify no; file null.zone.file; };

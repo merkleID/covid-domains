@@ -19582,6 +19582,8 @@ local-zone: "decoronavirus.es" redirect
 local-data: "decoronavirus.es A 0.0.0.0"
 local-zone: "de-coronavirus.net" redirect
 local-data: "de-coronavirus.net A 0.0.0.0"
+local-zone: "de.covid-19-prognose.ch" redirect
+local-data: "de.covid-19-prognose.ch A 0.0.0.0"
 local-zone: "de.covid19tester.eu" redirect
 local-data: "de.covid19tester.eu A 0.0.0.0"
 local-zone: "decretocovid19.ws" redirect
