@@ -1500,8 +1500,6 @@ local-zone: "cats-coronavirus.com" redirect
 local-data: "cats-coronavirus.com A 0.0.0.0"
 local-zone: "caxiascontracovid19.com.br" redirect
 local-data: "caxiascontracovid19.com.br A 0.0.0.0"
-local-zone: "cazacoronavirus.es" redirect
-local-data: "cazacoronavirus.es A 0.0.0.0"
 local-zone: "cbac.covid19govt.xyz" redirect
 local-data: "cbac.covid19govt.xyz A 0.0.0.0"
 local-zone: "cbccovid19canada.com" redirect
@@ -8172,8 +8170,6 @@ local-zone: "coronavirus-novosti.com" redirect
 local-data: "coronavirus-novosti.com A 0.0.0.0"
 local-zone: "coronavirus.novostink.ru" redirect
 local-data: "coronavirus.novostink.ru A 0.0.0.0"
-local-zone: "coronavirusnovosti.ru" redirect
-local-data: "coronavirusnovosti.ru A 0.0.0.0"
 local-zone: "coronavirus-novosty.ru" redirect
 local-data: "coronavirus-novosty.ru A 0.0.0.0"
 local-zone: "coronavirus-now.com" redirect
@@ -11056,8 +11052,6 @@ local-zone: "covid19.amorri.org" redirect
 local-data: "covid19.amorri.org A 0.0.0.0"
 local-zone: "covid19.amphora.ai" redirect
 local-data: "covid19.amphora.ai A 0.0.0.0"
-local-zone: "covid19.amya.ca" redirect
-local-data: "covid19.amya.ca A 0.0.0.0"
 local-zone: "covid19.amyfaithho.com" redirect
 local-data: "covid19.amyfaithho.com A 0.0.0.0"
 local-zone: "covid-19.anac.bj" redirect
@@ -11166,8 +11160,6 @@ local-zone: "covid-19-api.dholmes.co.uk" redirect
 local-data: "covid-19-api.dholmes.co.uk A 0.0.0.0"
 local-zone: "covid19-api.digitaltech.id" redirect
 local-data: "covid19-api.digitaltech.id A 0.0.0.0"
-local-zone: "covid19-api.eipm-research.org" redirect
-local-data: "covid19-api.eipm-research.org A 0.0.0.0"
 local-zone: "covid-19-api.goldtomproducti.repl.run" redirect
 local-data: "covid-19-api.goldtomproducti.repl.run A 0.0.0.0"
 local-zone: "covid19-api.gowell.solutions" redirect
@@ -11832,6 +11824,8 @@ local-zone: "covid19.cciwa.com" redirect
 local-data: "covid19.cciwa.com A 0.0.0.0"
 local-zone: "covid19ccr.org" redirect
 local-data: "covid19ccr.org A 0.0.0.0"
+local-zone: "covid19.cdacchn.in" redirect
+local-data: "covid19.cdacchn.in A 0.0.0.0"
 local-zone: "covid-19cdc.com" redirect
 local-data: "covid-19cdc.com A 0.0.0.0"
 local-zone: "covid19.cdmx.gob.mx" redirect
@@ -14510,6 +14504,8 @@ local-zone: "covid-19.keruji.com" redirect
 local-data: "covid-19.keruji.com A 0.0.0.0"
 local-zone: "covid19khabar.com" redirect
 local-data: "covid19khabar.com A 0.0.0.0"
+local-zone: "covid19.khuddam.ca" redirect
+local-data: "covid19.khuddam.ca A 0.0.0.0"
 local-zone: "covid-19killer.com" redirect
 local-data: "covid-19killer.com A 0.0.0.0"
 local-zone: "covid19killer.com" redirect
@@ -16780,6 +16776,8 @@ local-zone: "covid-19.schwermer.no" redirect
 local-data: "covid-19.schwermer.no A 0.0.0.0"
 local-zone: "covid-19s.com" redirect
 local-data: "covid-19s.com A 0.0.0.0"
+local-zone: "covid-19.sco.mx" redirect
+local-data: "covid-19.sco.mx A 0.0.0.0"
 local-zone: "covid19scoop.com" redirect
 local-data: "covid19scoop.com A 0.0.0.0"
 local-zone: "covid19.scops.ai" redirect
@@ -25772,6 +25770,8 @@ local-zone: "thepandemicreport.com" redirect
 local-data: "thepandemicreport.com A 0.0.0.0"
 local-zone: "thepandemicreports.com" redirect
 local-data: "thepandemicreports.com A 0.0.0.0"
+local-zone: "therapycovid19.com" redirect
+local-data: "therapycovid19.com A 0.0.0.0"
 local-zone: "therealcoronakiller.com" redirect
 local-data: "therealcoronakiller.com A 0.0.0.0"
 local-zone: "therealcovid19.net" redirect
@@ -27844,6 +27844,8 @@ local-zone: "www.covid19-desinfectantes.com" redirect
 local-data: "www.covid19-desinfectantes.com A 0.0.0.0"
 local-zone: "www.covid19-diaries.com" redirect
 local-data: "www.covid19-diaries.com A 0.0.0.0"
+local-zone: "www.covid19.dieq41.com" redirect
+local-data: "www.covid19.dieq41.com A 0.0.0.0"
 local-zone: "www.covid19digital.tips" redirect
 local-data: "www.covid19digital.tips A 0.0.0.0"
 local-zone: "www.covid19diploma.com" redirect
