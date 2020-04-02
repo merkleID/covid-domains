@@ -4054,6 +4054,8 @@ local-zone: "coronavirussafetybook.com" redirect
 local-data: "coronavirussafetybook.com A 0.0.0.0"
 local-zone: "coronavirus-safety.cf" redirect
 local-data: "coronavirus-safety.cf A 0.0.0.0"
+local-zone: "coronavirussafetyglasses.com" redirect
+local-data: "coronavirussafetyglasses.com A 0.0.0.0"
 local-zone: "coronavirussafetypack.com" redirect
 local-data: "coronavirussafetypack.com A 0.0.0.0"
 local-zone: "coronavirussafety.pforpic.com" redirect
@@ -8126,6 +8128,8 @@ local-zone: "covid19.jeffmandel.org" redirect
 local-data: "covid19.jeffmandel.org A 0.0.0.0"
 local-zone: "covid19.jemasih.com" redirect
 local-data: "covid19.jemasih.com A 0.0.0.0"
+local-zone: "covid19.jenepontokab.go.id" redirect
+local-data: "covid19.jenepontokab.go.id A 0.0.0.0"
 local-zone: "covid-19j.gq" redirect
 local-data: "covid-19j.gq A 0.0.0.0"
 local-zone: "covid19.jipraks.com" redirect
@@ -11192,6 +11196,8 @@ local-zone: "covid19.theclaussengroup.com" redirect
 local-data: "covid19.theclaussengroup.com A 0.0.0.0"
 local-zone: "covid19.thedacareosp.org" redirect
 local-data: "covid19.thedacareosp.org A 0.0.0.0"
+local-zone: "covid19.thefederal.com" redirect
+local-data: "covid19.thefederal.com A 0.0.0.0"
 local-zone: "covid-19thefilm.com" redirect
 local-data: "covid-19thefilm.com A 0.0.0.0"
 local-zone: "covid19.thegreens.co.uk" redirect
@@ -12764,6 +12770,8 @@ local-zone: "fhjpcovid19.org" redirect
 local-data: "fhjpcovid19.org A 0.0.0.0"
 local-zone: "fifa-covid19.com" redirect
 local-data: "fifa-covid19.com A 0.0.0.0"
+local-zone: "fightbackcoronavirus.com" redirect
+local-data: "fightbackcoronavirus.com A 0.0.0.0"
 local-zone: "fightcoronavirus.club" redirect
 local-data: "fightcoronavirus.club A 0.0.0.0"
 local-zone: "fightcoronavirus.com" redirect
@@ -13734,6 +13742,8 @@ local-zone: "lux-covid19.lu" redirect
 local-data: "lux-covid19.lu A 0.0.0.0"
 local-zone: "ma-api.ncov-19.net" redirect
 local-data: "ma-api.ncov-19.net A 0.0.0.0"
+local-zone: "macovid19relieffund.org" redirect
+local-data: "macovid19relieffund.org A 0.0.0.0"
 local-zone: "madeinchinacovid19.com" redirect
 local-data: "madeinchinacovid19.com A 0.0.0.0"
 local-zone: "maharashtracovid19helpline.infinycorp.com" redirect
@@ -15862,8 +15872,6 @@ local-zone: "thecoronavirus2020.com" redirect
 local-data: "thecoronavirus2020.com A 0.0.0.0"
 local-zone: "thecoronavirus.agency" redirect
 local-data: "thecoronavirus.agency A 0.0.0.0"
-local-zone: "thecoronavirusanxiety.com" redirect
-local-data: "thecoronavirusanxiety.com A 0.0.0.0"
 local-zone: "thecoronaviruscharity.com" redirect
 local-data: "thecoronaviruscharity.com A 0.0.0.0"
 local-zone: "thecoronavirusclassactionlawsuit.com" redirect
@@ -16170,6 +16178,8 @@ local-zone: "us.covid19signs.info" redirect
 local-data: "us.covid19signs.info A 0.0.0.0"
 local-zone: "uscovid19virus.com" redirect
 local-data: "uscovid19virus.com A 0.0.0.0"
+local-zone: "us.fightcovid19donate.site" redirect
+local-data: "us.fightcovid19donate.site A 0.0.0.0"
 local-zone: "ushahidi.covid-19.ke" redirect
 local-data: "ushahidi.covid-19.ke A 0.0.0.0"
 local-zone: "usvscoronavirus.com" redirect
@@ -18074,6 +18084,8 @@ local-zone: "www.covid-19-oe.org" redirect
 local-data: "www.covid-19-oe.org A 0.0.0.0"
 local-zone: "www.covid19ontario.ca" redirect
 local-data: "www.covid19ontario.ca A 0.0.0.0"
+local-zone: "www.covid19-ostani-doma.sm-art-design.com" redirect
+local-data: "www.covid19-ostani-doma.sm-art-design.com A 0.0.0.0"
 local-zone: "www.covid19outbreak.info" redirect
 local-data: "www.covid19outbreak.info A 0.0.0.0"
 local-zone: "www.covid-19panama.com" redirect
@@ -18208,6 +18220,10 @@ local-zone: "www.covid19sacramento.info" redirect
 local-data: "www.covid19sacramento.info A 0.0.0.0"
 local-zone: "www.covid19safety.care" redirect
 local-data: "www.covid19safety.care A 0.0.0.0"
+local-zone: "www.covid19safetygear.com" redirect
+local-data: "www.covid19safetygear.com A 0.0.0.0"
+local-zone: "www.covid19safetyglasses.com" redirect
+local-data: "www.covid19safetyglasses.com A 0.0.0.0"
 local-zone: "www.covid19safety.shop" redirect
 local-data: "www.covid19safety.shop A 0.0.0.0"
 local-zone: "www.covid19.sayawp.com" redirect
@@ -18576,6 +18592,8 @@ local-zone: "www.fbafricacovid19.com" redirect
 local-data: "www.fbafricacovid19.com A 0.0.0.0"
 local-zone: "www.fcovid-19.com" redirect
 local-data: "www.fcovid-19.com A 0.0.0.0"
+local-zone: "www.fightbackcoronavirus.com" redirect
+local-data: "www.fightbackcoronavirus.com A 0.0.0.0"
 local-zone: "www.fightcovid19.naijaupdates.com.ng" redirect
 local-data: "www.fightcovid19.naijaupdates.com.ng A 0.0.0.0"
 local-zone: "www.fight-covid19virus.com" redirect
@@ -19012,6 +19030,8 @@ local-zone: "www.penncovid19hub.org" redirect
 local-data: "www.penncovid19hub.org A 0.0.0.0"
 local-zone: "www.persona-covid-19.gq" redirect
 local-data: "www.persona-covid-19.gq A 0.0.0.0"
+local-zone: "www.perspektive-contra-covid19-krise.de" redirect
+local-data: "www.perspektive-contra-covid19-krise.de A 0.0.0.0"
 local-zone: "www.pittsburgcovid19.com" redirect
 local-data: "www.pittsburgcovid19.com A 0.0.0.0"
 local-zone: "www.portal-covid-19.ml" redirect
@@ -19168,6 +19188,8 @@ local-zone: "www.stopcoronavirus-19.com" redirect
 local-data: "www.stopcoronavirus-19.com A 0.0.0.0"
 local-zone: "www.stopcoronavirus.com.sg" redirect
 local-data: "www.stopcoronavirus.com.sg A 0.0.0.0"
+local-zone: "www.stopcoronavirus.cz" redirect
+local-data: "www.stopcoronavirus.cz A 0.0.0.0"
 local-zone: "www.stopcoronavirushop.com" redirect
 local-data: "www.stopcoronavirushop.com A 0.0.0.0"
 local-zone: "www.stopcoronavirus.nl" redirect
