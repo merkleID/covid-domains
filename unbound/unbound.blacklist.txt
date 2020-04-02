@@ -448,8 +448,6 @@ local-zone: "amoreaitempidelcovid19.altervista.org" redirect
 local-data: "amoreaitempidelcovid19.altervista.org A 0.0.0.0"
 local-zone: "analytics-covid-19.accregistries.com" redirect
 local-data: "analytics-covid-19.accregistries.com A 0.0.0.0"
-local-zone: "analytics.covid19.oracle.com" redirect
-local-data: "analytics.covid19.oracle.com A 0.0.0.0"
 local-zone: "angolacoronavirus.com" redirect
 local-data: "angolacoronavirus.com A 0.0.0.0"
 local-zone: "annuaire-covid19.ch" redirect

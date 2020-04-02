@@ -223,7 +223,6 @@ zone "am-i-infected-with-corona.com" { type master; notify no; file null.zone.fi
 zone "amiinfectedwithcorona.com" { type master; notify no; file null.zone.file; };
 zone "amoreaitempidelcovid19.altervista.org" { type master; notify no; file null.zone.file; };
 zone "analytics-covid-19.accregistries.com" { type master; notify no; file null.zone.file; };
-zone "analytics.covid19.oracle.com" { type master; notify no; file null.zone.file; };
 zone "angolacoronavirus.com" { type master; notify no; file null.zone.file; };
 zone "annuaire-covid19.ch" { type master; notify no; file null.zone.file; };
 zone "anothercovid19plot.altervista.org" { type master; notify no; file null.zone.file; };

@@ -223,7 +223,6 @@ local-zone: "am-i-infected-with-corona.com" static
 local-zone: "amiinfectedwithcorona.com" static
 local-zone: "amoreaitempidelcovid19.altervista.org" static
 local-zone: "analytics-covid-19.accregistries.com" static
-local-zone: "analytics.covid19.oracle.com" static
 local-zone: "angolacoronavirus.com" static
 local-zone: "annuaire-covid19.ch" static
 local-zone: "anothercovid19plot.altervista.org" static
