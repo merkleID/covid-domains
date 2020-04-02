@@ -349,6 +349,7 @@ local-zone: "api-autocovid19.vietseatravel.net" static
 local-zone: "api.b9e1e7b7.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "api.be7d3ab5.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "api.c88c60b8.test.covid-19.forms.digital.nhs.uk" static
+local-zone: "api.coronacovid19tracker.in" static
 local-zone: "api.coronavirus-baseball.com" static
 local-zone: "api.coronavirus-detector.com" static
 local-zone: "api.coronavirusliveupdate.org" static
@@ -6412,6 +6413,7 @@ local-zone: "covid19dotace.eu" static
 local-zone: "covid19.douby.cz" static
 local-zone: "covid19down.com" static
 local-zone: "covid19.downtownwaterfront.ca" static
+local-zone: "covid19.draftsbook.com" static
 local-zone: "covid19.drcberry.com" static
 local-zone: "covid-19dr.com" static
 local-zone: "covid19drc.uptodatedevelopers.com" static
@@ -6793,6 +6795,7 @@ local-zone: "covid-19.greatpetoria.ga" static
 local-zone: "covid19-greece.com" static
 local-zone: "covid19greencard.com" static
 local-zone: "covid19.greencloudsolution.com" static
+local-zone: "covid19.greenpacket.com" static
 local-zone: "covid19-grocery.com" static
 local-zone: "covid19groupaction.co.uk" static
 local-zone: "covid19.groupe.schmidt" static
@@ -7044,6 +7047,7 @@ local-zone: "covid19india-cluster.now.sh" static
 local-zone: "covid19.indiagreatsale.ml" static
 local-zone: "covid19-indialive.easocare.com" static
 local-zone: "covid19indianapolis.com" static
+local-zone: "covid19.indians.k12.pa.us" static
 local-zone: "covid19india.org.in" static
 local-zone: "covid19india-react-shuklaayush.now.sh" static
 local-zone: "covid19india.shalksoftech.com" static
@@ -8290,6 +8294,7 @@ local-zone: "covid19.roashunter.com" static
 local-zone: "covid19rochester.com" static
 local-zone: "covid-19.rocket-lab.net" static
 local-zone: "covid19.roinspace.com" static
+local-zone: "covid19rois.com" static
 local-zone: "covid19rostering.gtntechdev.net" static
 local-zone: "covid-19.royalbanknotification.com" static
 local-zone: "covid19.royalbeats.in" static
@@ -8673,6 +8678,7 @@ local-zone: "covid19.sumbawabaratkab.go.id" static
 local-zone: "covid19sunnyvale.com" static
 local-zone: "covid19.supercazzole.it" static
 local-zone: "covid19supersupplies.com" static
+local-zone: "covid19-supplies.co.uk" static
 local-zone: "covid-19supplies.co.za" static
 local-zone: "covid19suppliesdirect.com" static
 local-zone: "covid19supplieshub.org" static
@@ -8876,6 +8882,7 @@ local-zone: "covid19testlab.com" static
 local-zone: "covid19test.live" static
 local-zone: "covid19-test.me" static
 local-zone: "covid19testme.com" static
+local-zone: "covid19-test.msf.hk" static
 local-zone: "covid19-test.org" static
 local-zone: "covid19testsandmasks.com" static
 local-zone: "covid19tests.de" static
@@ -10269,6 +10276,7 @@ local-zone: "fightcovid19.ch" static
 local-zone: "fightcovid19.com" static
 local-zone: "fightcovid19donate.us" static
 local-zone: "fightcovid19mask.com" static
+local-zone: "fightcovid19.northnfe.ac.th" static
 local-zone: "fight-covid-19.org" static
 local-zone: "fightcovid19.powerzoneservices.com" static
 local-zone: "fightcovid19.rumahawan.id" static
@@ -13764,7 +13772,6 @@ local-zone: "www.coronavirustaxcredits.com" static
 local-zone: "www.coronavirus.taxibia.com" static
 local-zone: "www.coronavirustelehealthrelief.com" static
 local-zone: "www.coronavirustelehealth.us" static
-local-zone: "www.coronavirustestingkit.uk" static
 local-zone: "www.coronavirustest.io" static
 local-zone: "www.coronavirustestkit.com" static
 local-zone: "www.coronavirustestkit.info" static
@@ -14427,6 +14434,7 @@ local-zone: "www.kitcoronavirus.eu" static
 local-zone: "www.knowcovid19.ng" static
 local-zone: "www.koronaviruscovid19.ru" static
 local-zone: "www.labgeotcovid19.uns.edu.ar" static
+local-zone: "www.lancasterdistrictcovid19.org.uk" static
 local-zone: "www.latestcoronavirusupdates.info" static
 local-zone: "www.letsbeatcoronavirus.co.uk" static
 local-zone: "www.letsendcovid19.org" static

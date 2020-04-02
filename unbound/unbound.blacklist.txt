@@ -700,6 +700,8 @@ local-zone: "api.be7d3ab5.test.covid-19.forms.digital.nhs.uk" redirect
 local-data: "api.be7d3ab5.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
 local-zone: "api.c88c60b8.test.covid-19.forms.digital.nhs.uk" redirect
 local-data: "api.c88c60b8.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "api.coronacovid19tracker.in" redirect
+local-data: "api.coronacovid19tracker.in A 0.0.0.0"
 local-zone: "api.coronavirus-baseball.com" redirect
 local-data: "api.coronavirus-baseball.com A 0.0.0.0"
 local-zone: "api.coronavirus-detector.com" redirect
@@ -12826,6 +12828,8 @@ local-zone: "covid19down.com" redirect
 local-data: "covid19down.com A 0.0.0.0"
 local-zone: "covid19.downtownwaterfront.ca" redirect
 local-data: "covid19.downtownwaterfront.ca A 0.0.0.0"
+local-zone: "covid19.draftsbook.com" redirect
+local-data: "covid19.draftsbook.com A 0.0.0.0"
 local-zone: "covid19.drcberry.com" redirect
 local-data: "covid19.drcberry.com A 0.0.0.0"
 local-zone: "covid-19dr.com" redirect
@@ -13588,6 +13592,8 @@ local-zone: "covid19greencard.com" redirect
 local-data: "covid19greencard.com A 0.0.0.0"
 local-zone: "covid19.greencloudsolution.com" redirect
 local-data: "covid19.greencloudsolution.com A 0.0.0.0"
+local-zone: "covid19.greenpacket.com" redirect
+local-data: "covid19.greenpacket.com A 0.0.0.0"
 local-zone: "covid19-grocery.com" redirect
 local-data: "covid19-grocery.com A 0.0.0.0"
 local-zone: "covid19groupaction.co.uk" redirect
@@ -14090,6 +14096,8 @@ local-zone: "covid19-indialive.easocare.com" redirect
 local-data: "covid19-indialive.easocare.com A 0.0.0.0"
 local-zone: "covid19indianapolis.com" redirect
 local-data: "covid19indianapolis.com A 0.0.0.0"
+local-zone: "covid19.indians.k12.pa.us" redirect
+local-data: "covid19.indians.k12.pa.us A 0.0.0.0"
 local-zone: "covid19india.org.in" redirect
 local-data: "covid19india.org.in A 0.0.0.0"
 local-zone: "covid19india-react-shuklaayush.now.sh" redirect
@@ -16582,6 +16590,8 @@ local-zone: "covid-19.rocket-lab.net" redirect
 local-data: "covid-19.rocket-lab.net A 0.0.0.0"
 local-zone: "covid19.roinspace.com" redirect
 local-data: "covid19.roinspace.com A 0.0.0.0"
+local-zone: "covid19rois.com" redirect
+local-data: "covid19rois.com A 0.0.0.0"
 local-zone: "covid19rostering.gtntechdev.net" redirect
 local-data: "covid19rostering.gtntechdev.net A 0.0.0.0"
 local-zone: "covid-19.royalbanknotification.com" redirect
@@ -17348,6 +17358,8 @@ local-zone: "covid19.supercazzole.it" redirect
 local-data: "covid19.supercazzole.it A 0.0.0.0"
 local-zone: "covid19supersupplies.com" redirect
 local-data: "covid19supersupplies.com A 0.0.0.0"
+local-zone: "covid19-supplies.co.uk" redirect
+local-data: "covid19-supplies.co.uk A 0.0.0.0"
 local-zone: "covid-19supplies.co.za" redirect
 local-data: "covid-19supplies.co.za A 0.0.0.0"
 local-zone: "covid19suppliesdirect.com" redirect
@@ -17754,6 +17766,8 @@ local-zone: "covid19-test.me" redirect
 local-data: "covid19-test.me A 0.0.0.0"
 local-zone: "covid19testme.com" redirect
 local-data: "covid19testme.com A 0.0.0.0"
+local-zone: "covid19-test.msf.hk" redirect
+local-data: "covid19-test.msf.hk A 0.0.0.0"
 local-zone: "covid19-test.org" redirect
 local-data: "covid19-test.org A 0.0.0.0"
 local-zone: "covid19testsandmasks.com" redirect
@@ -20540,6 +20554,8 @@ local-zone: "fightcovid19donate.us" redirect
 local-data: "fightcovid19donate.us A 0.0.0.0"
 local-zone: "fightcovid19mask.com" redirect
 local-data: "fightcovid19mask.com A 0.0.0.0"
+local-zone: "fightcovid19.northnfe.ac.th" redirect
+local-data: "fightcovid19.northnfe.ac.th A 0.0.0.0"
 local-zone: "fight-covid-19.org" redirect
 local-data: "fight-covid-19.org A 0.0.0.0"
 local-zone: "fightcovid19.powerzoneservices.com" redirect
@@ -27530,8 +27546,6 @@ local-zone: "www.coronavirustelehealthrelief.com" redirect
 local-data: "www.coronavirustelehealthrelief.com A 0.0.0.0"
 local-zone: "www.coronavirustelehealth.us" redirect
 local-data: "www.coronavirustelehealth.us A 0.0.0.0"
-local-zone: "www.coronavirustestingkit.uk" redirect
-local-data: "www.coronavirustestingkit.uk A 0.0.0.0"
 local-zone: "www.coronavirustest.io" redirect
 local-data: "www.coronavirustest.io A 0.0.0.0"
 local-zone: "www.coronavirustestkit.com" redirect
@@ -28856,6 +28870,8 @@ local-zone: "www.koronaviruscovid19.ru" redirect
 local-data: "www.koronaviruscovid19.ru A 0.0.0.0"
 local-zone: "www.labgeotcovid19.uns.edu.ar" redirect
 local-data: "www.labgeotcovid19.uns.edu.ar A 0.0.0.0"
+local-zone: "www.lancasterdistrictcovid19.org.uk" redirect
+local-data: "www.lancasterdistrictcovid19.org.uk A 0.0.0.0"
 local-zone: "www.latestcoronavirusupdates.info" redirect
 local-data: "www.latestcoronavirusupdates.info A 0.0.0.0"
 local-zone: "www.letsbeatcoronavirus.co.uk" redirect

@@ -704,6 +704,8 @@ api.be7d3ab5.test.covid-19.forms.digital.nhs.uk CNAME .
 *.api.be7d3ab5.test.covid-19.forms.digital.nhs.uk CNAME .
 api.c88c60b8.test.covid-19.forms.digital.nhs.uk CNAME .
 *.api.c88c60b8.test.covid-19.forms.digital.nhs.uk CNAME .
+api.coronacovid19tracker.in CNAME .
+*.api.coronacovid19tracker.in CNAME .
 api.coronavirus-baseball.com CNAME .
 *.api.coronavirus-baseball.com CNAME .
 api.coronavirus-detector.com CNAME .
@@ -12830,6 +12832,8 @@ covid19down.com CNAME .
 *.covid19down.com CNAME .
 covid19.downtownwaterfront.ca CNAME .
 *.covid19.downtownwaterfront.ca CNAME .
+covid19.draftsbook.com CNAME .
+*.covid19.draftsbook.com CNAME .
 covid19.drcberry.com CNAME .
 *.covid19.drcberry.com CNAME .
 covid-19dr.com CNAME .
@@ -13592,6 +13596,8 @@ covid19greencard.com CNAME .
 *.covid19greencard.com CNAME .
 covid19.greencloudsolution.com CNAME .
 *.covid19.greencloudsolution.com CNAME .
+covid19.greenpacket.com CNAME .
+*.covid19.greenpacket.com CNAME .
 covid19-grocery.com CNAME .
 *.covid19-grocery.com CNAME .
 covid19groupaction.co.uk CNAME .
@@ -14094,6 +14100,8 @@ covid19-indialive.easocare.com CNAME .
 *.covid19-indialive.easocare.com CNAME .
 covid19indianapolis.com CNAME .
 *.covid19indianapolis.com CNAME .
+covid19.indians.k12.pa.us CNAME .
+*.covid19.indians.k12.pa.us CNAME .
 covid19india.org.in CNAME .
 *.covid19india.org.in CNAME .
 covid19india-react-shuklaayush.now.sh CNAME .
@@ -16586,6 +16594,8 @@ covid-19.rocket-lab.net CNAME .
 *.covid-19.rocket-lab.net CNAME .
 covid19.roinspace.com CNAME .
 *.covid19.roinspace.com CNAME .
+covid19rois.com CNAME .
+*.covid19rois.com CNAME .
 covid19rostering.gtntechdev.net CNAME .
 *.covid19rostering.gtntechdev.net CNAME .
 covid-19.royalbanknotification.com CNAME .
@@ -17352,6 +17362,8 @@ covid19.supercazzole.it CNAME .
 *.covid19.supercazzole.it CNAME .
 covid19supersupplies.com CNAME .
 *.covid19supersupplies.com CNAME .
+covid19-supplies.co.uk CNAME .
+*.covid19-supplies.co.uk CNAME .
 covid-19supplies.co.za CNAME .
 *.covid-19supplies.co.za CNAME .
 covid19suppliesdirect.com CNAME .
@@ -17758,6 +17770,8 @@ covid19-test.me CNAME .
 *.covid19-test.me CNAME .
 covid19testme.com CNAME .
 *.covid19testme.com CNAME .
+covid19-test.msf.hk CNAME .
+*.covid19-test.msf.hk CNAME .
 covid19-test.org CNAME .
 *.covid19-test.org CNAME .
 covid19testsandmasks.com CNAME .
@@ -20544,6 +20558,8 @@ fightcovid19donate.us CNAME .
 *.fightcovid19donate.us CNAME .
 fightcovid19mask.com CNAME .
 *.fightcovid19mask.com CNAME .
+fightcovid19.northnfe.ac.th CNAME .
+*.fightcovid19.northnfe.ac.th CNAME .
 fight-covid-19.org CNAME .
 *.fight-covid-19.org CNAME .
 fightcovid19.powerzoneservices.com CNAME .
@@ -27534,8 +27550,6 @@ www.coronavirustelehealthrelief.com CNAME .
 *.www.coronavirustelehealthrelief.com CNAME .
 www.coronavirustelehealth.us CNAME .
 *.www.coronavirustelehealth.us CNAME .
-www.coronavirustestingkit.uk CNAME .
-*.www.coronavirustestingkit.uk CNAME .
 www.coronavirustest.io CNAME .
 *.www.coronavirustest.io CNAME .
 www.coronavirustestkit.com CNAME .
@@ -28860,6 +28874,8 @@ www.koronaviruscovid19.ru CNAME .
 *.www.koronaviruscovid19.ru CNAME .
 www.labgeotcovid19.uns.edu.ar CNAME .
 *.www.labgeotcovid19.uns.edu.ar CNAME .
+www.lancasterdistrictcovid19.org.uk CNAME .
+*.www.lancasterdistrictcovid19.org.uk CNAME .
 www.latestcoronavirusupdates.info CNAME .
 *.www.latestcoronavirusupdates.info CNAME .
 www.letsbeatcoronavirus.co.uk CNAME .
