@@ -454,8 +454,6 @@ analytics-covid-19.accregistries.com CNAME .
 *.analytics-covid-19.accregistries.com CNAME .
 analytics.covid19.oracle.com CNAME .
 *.analytics.covid19.oracle.com CNAME .
-android.coronavirus-world.info CNAME .
-*.android.coronavirus-world.info CNAME .
 angolacoronavirus.com CNAME .
 *.angolacoronavirus.com CNAME .
 annuaire-covid19.ch CNAME .
@@ -754,6 +752,8 @@ apicovid-19.irsjam.id CNAME .
 *.apicovid-19.irsjam.id CNAME .
 api.covid19.ketapangkab.go.id CNAME .
 *.api.covid19.ketapangkab.go.id CNAME .
+api-covid19.lulaloop.co.za CNAME .
+*.api-covid19.lulaloop.co.za CNAME .
 api.covid19.lunarwings.dev CNAME .
 *.api.covid19.lunarwings.dev CNAME .
 api.covid19mx.acsyt.com CNAME .
@@ -1778,6 +1778,8 @@ comecurareilcoronavirus.it CNAME .
 *.comecurareilcoronavirus.it CNAME .
 commerces.covid19.city-desk.fr CNAME .
 *.commerces.covid19.city-desk.fr CNAME .
+commerces.covid19.pbeu.eu CNAME .
+*.commerces.covid19.pbeu.eu CNAME .
 commonsenseandcoronavirus.com CNAME .
 *.commonsenseandcoronavirus.com CNAME .
 comoprevenirelcoronavirus.com CNAME .
@@ -14128,6 +14130,8 @@ covid19india-cluster.now.sh CNAME .
 *.covid19india-cluster.now.sh CNAME .
 covid19.indiagreatsale.ml CNAME .
 *.covid19.indiagreatsale.ml CNAME .
+covid-19india.live CNAME .
+*.covid-19india.live CNAME .
 covid19-indialive.easocare.com CNAME .
 *.covid19-indialive.easocare.com CNAME .
 covid19indianapolis.com CNAME .
@@ -17306,6 +17310,8 @@ covid19stayathome.eu CNAME .
 *.covid19stayathome.eu CNAME .
 covid-19staysafe.com CNAME .
 *.covid-19staysafe.com CNAME .
+covid19staysafe.co.uk CNAME .
+*.covid19staysafe.co.uk CNAME .
 covid19-stay-safe.online CNAME .
 *.covid19-stay-safe.online CNAME .
 covid19stays.co.uk CNAME .
@@ -20168,6 +20174,8 @@ ecuadorcoronavirus.com CNAME .
 *.ecuadorcoronavirus.com CNAME .
 edo-covid19.eclathealthcare.com CNAME .
 *.edo-covid19.eclathealthcare.com CNAME .
+educacaoecoronavirus.com.br CNAME .
+*.educacaoecoronavirus.com.br CNAME .
 educationandcoronavirus.co.uk CNAME .
 *.educationandcoronavirus.co.uk CNAME .
 educationcovid19.com CNAME .
@@ -23478,6 +23486,8 @@ ourcovid19test.com CNAME .
 *.ourcovid19test.com CNAME .
 outbreakcorona.com CNAME .
 *.outbreakcorona.com CNAME .
+outilscoronavirus.fr CNAME .
+*.outilscoronavirus.fr CNAME .
 outlastcovid19.com CNAME .
 *.outlastcovid19.com CNAME .
 ozone4covid19.com CNAME .
@@ -24108,6 +24118,8 @@ projectcorona.com CNAME .
 *.projectcorona.com CNAME .
 projectcoronavirus.com CNAME .
 *.projectcoronavirus.com CNAME .
+project-covid-19.com CNAME .
+*.project-covid-19.com CNAME .
 project.covid19.fyi CNAME .
 *.project.covid19.fyi CNAME .
 projects.covid19dz.com CNAME .
