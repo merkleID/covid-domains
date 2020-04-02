@@ -25,7 +25,7 @@ The bash-script parses the files and then outputs to respective dns-daemons zone
 
 01-apr-2020 (no April Fool): ADDED EXCLUSION LIST
 
-If you feel your domain/s shouldn't be included in this list, just drop me a line to:
+If you feel your domain/s shouldn't be included in this list, just open an issue here or drop me a line to:
 
 
 luca AT merkle DOT id 
