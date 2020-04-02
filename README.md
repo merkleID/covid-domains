@@ -7,7 +7,11 @@ It's up to the dns-admin to properly install those lists and configure his own d
 File 0.0.0.0-domains.txt is for general purpose, usually Unbound.
 
 File full-domains-list.txt can be used with Pi-Hole just by adding
+
+
 https://raw.githubusercontent.com/merkleID/covid-domains/master/full-domains-list.txt
+
+
 to /etc/pihole/adlist.list
 
 
