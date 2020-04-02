@@ -4222,6 +4222,7 @@ local-zone: "coronaviruspensacola.com" static
 local-zone: "coronaviruspersonalinjury.com" static
 local-zone: "coronaviruspersonalservices.com" static
 local-zone: "coronavirusperu.com" static
+local-zone: "coronavirus-peru.now.sh" static
 local-zone: "coronavirus.pet" static
 local-zone: "coronaviruspetition.com" static
 local-zone: "coronavirus.petitsfreresdespauvres.fr" static
@@ -5528,7 +5529,6 @@ local-zone: "covid19analys.com" static
 local-zone: "covid-19-analysis.onrender.com" static
 local-zone: "covid19analysis.org" static
 local-zone: "covid19.analytixa.com" static
-local-zone: "covid19.anambaskab.go.id" static
 local-zone: "covid19.andaman7.com" static
 local-zone: "covid19.andel.es" static
 local-zone: "covid19-and.org" static
@@ -5788,6 +5788,7 @@ local-zone: "covid-19.boomfa.co.nz" static
 local-zone: "covid19.boomit.com.br" static
 local-zone: "covid19.borbolla.com.br" static
 local-zone: "covid19.borismtax.com" static
+local-zone: "covid19bo.site" static
 local-zone: "covid19-bot.ai4bharat.org" static
 local-zone: "covid19-bot.fly.dev" static
 local-zone: "covid19bot.freelancecuernavaca.com" static
@@ -5819,6 +5820,7 @@ local-zone: "covid19bulgaria.com" static
 local-zone: "covid19.bullray.eu" static
 local-zone: "covid19.bungokab.go.id" static
 local-zone: "covid19burkina.org" static
+local-zone: "covid19burma.org" static
 local-zone: "covid19.burzumvarg.com" static
 local-zone: "covid19businessguide.com.au" static
 local-zone: "covid19businesskickstart.com" static
@@ -6184,6 +6186,7 @@ local-zone: "covid19.cruzrojasantander.org" static
 local-zone: "covid19.cs12.net" static
 local-zone: "covid19.csultimates.com" static
 local-zone: "covid19ctileague.packetsense.net" static
+local-zone: "covid19ctr.com" static
 local-zone: "covid19.cu.ac.bd" static
 local-zone: "covid19-cuba.sacavix.com" static
 local-zone: "covid19cubatao.xyz" static
@@ -7250,7 +7253,6 @@ local-zone: "covid19kit.nyc" static
 local-zone: "covid19kitsonline.com" static
 local-zone: "covid-19.kiwidatascience.com" static
 local-zone: "covid19klinikvetenskap.se" static
-local-zone: "covid19.klungkungkab.go.id" static
 local-zone: "covid19.kmoser.com" static
 local-zone: "covid19.kmpdc.go.ke" static
 local-zone: "covid19knowmore.com" static
@@ -7754,6 +7756,7 @@ local-zone: "covid-19-nextjs-develop.now.sh" static
 local-zone: "covid-19-nextjs.now.sh" static
 local-zone: "covid-19-next.now.sh" static
 local-zone: "covid19.ngadakab.go.id" static
+local-zone: "covid19-nganjuk.now.sh" static
 local-zone: "covid19ng.dataport.com.ng" static
 local-zone: "covid19ng.ndicsurveynw2020.com" static
 local-zone: "covid19ng.now.sh" static
@@ -7775,6 +7778,7 @@ local-zone: "covid19.nilay.cc" static
 local-zone: "covid19.nirmatacreative.com" static
 local-zone: "covid19nj.com" static
 local-zone: "covid19.nlc.org" static
+local-zone: "covid19nobrasil.olimite.com" static
 local-zone: "covid19-no.com" static
 local-zone: "covid19.noi.testingmachine.eu" static
 local-zone: "covid19.nokensoft.com" static
@@ -8026,6 +8030,7 @@ local-zone: "covid19.powerandharmony.be" static
 local-zone: "covid-19ppe.com" static
 local-zone: "covid-19ppes.com" static
 local-zone: "covid19-ppe.xyz" static
+local-zone: "covid19.ppi.id" static
 local-zone: "covid19.ppni-inna.org" static
 local-zone: "covid19.pramukh.ca" static
 local-zone: "covid-19prayer.com" static
@@ -8870,7 +8875,6 @@ local-zone: "covid-19testsolutions.com" static
 local-zone: "covid19teststrip.com" static
 local-zone: "covid19testsupply.com" static
 local-zone: "covid19testuk.com" static
-local-zone: "covid19teszt.hu" static
 local-zone: "covid19.texashealthinstitute.org" static
 local-zone: "covid19texasscreen.com" static
 local-zone: "covid19textbot.com" static
@@ -9224,7 +9228,6 @@ local-zone: "covid19.vspventures.com" static
 local-zone: "covid19vt.com" static
 local-zone: "covid19vuk.org" static
 local-zone: "covid19wa.com" static
-local-zone: "covid19.wadhwaniai.org" static
 local-zone: "covid19-wallofshame.com" static
 local-zone: "covid19wall.online" static
 local-zone: "covid19.wandercom.id" static
