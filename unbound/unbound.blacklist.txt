@@ -1296,6 +1296,8 @@ local-zone: "bookmycovid19testkit.com" redirect
 local-data: "bookmycovid19testkit.com A 0.0.0.0"
 local-zone: "boostimmunesystemforcoronavirus.com" redirect
 local-data: "boostimmunesystemforcoronavirus.com A 0.0.0.0"
+local-zone: "borba-coronavirusom.ru" redirect
+local-data: "borba-coronavirusom.ru A 0.0.0.0"
 local-zone: "bostoncoronavirus.com" redirect
 local-data: "bostoncoronavirus.com A 0.0.0.0"
 local-zone: "bouncebackcovid-19.com" redirect
@@ -4496,6 +4498,8 @@ local-zone: "coronavirus-awareness.com" redirect
 local-data: "coronavirus-awareness.com A 0.0.0.0"
 local-zone: "coronavirusawarenesss.com" redirect
 local-data: "coronavirusawarenesss.com A 0.0.0.0"
+local-zone: "coronavirus-awareness.zealengineering.org" redirect
+local-data: "coronavirus-awareness.zealengineering.org A 0.0.0.0"
 local-zone: "coronavirusaware.xyz" redirect
 local-data: "coronavirusaware.xyz A 0.0.0.0"
 local-zone: "coronavirus.awesomeag.tk" redirect
@@ -4514,6 +4518,8 @@ local-zone: "coronavirusbaby.net" redirect
 local-data: "coronavirusbaby.net A 0.0.0.0"
 local-zone: "coronavirusbaires.juanmateo.com.ar" redirect
 local-data: "coronavirusbaires.juanmateo.com.ar A 0.0.0.0"
+local-zone: "coronavirus.baiyap.com" redirect
+local-data: "coronavirus.baiyap.com A 0.0.0.0"
 local-zone: "coronavirus.ballague.com" redirect
 local-data: "coronavirus.ballague.com A 0.0.0.0"
 local-zone: "coronavirusball.com" redirect
@@ -11074,6 +11080,8 @@ local-zone: "covid19-and.org" redirect
 local-data: "covid19-and.org A 0.0.0.0"
 local-zone: "covid-19-and-ras.ch" redirect
 local-data: "covid-19-and-ras.ch A 0.0.0.0"
+local-zone: "covid19.andreacrescentini.com" redirect
+local-data: "covid19.andreacrescentini.com A 0.0.0.0"
 local-zone: "covid19.andreas-dette.de" redirect
 local-data: "covid19.andreas-dette.de A 0.0.0.0"
 local-zone: "covid19andus.com" redirect
@@ -19714,6 +19722,8 @@ local-zone: "datacovid19.org" redirect
 local-data: "datacovid19.org A 0.0.0.0"
 local-zone: "dataforcoronavirus.com" redirect
 local-data: "dataforcoronavirus.com A 0.0.0.0"
+local-zone: "date-covid19.ro" redirect
+local-data: "date-covid19.ro A 0.0.0.0"
 local-zone: "dbcovid19.lactapp.es" redirect
 local-data: "dbcovid19.lactapp.es A 0.0.0.0"
 local-zone: "db.covid-19.monster" redirect
@@ -21062,6 +21072,8 @@ local-zone: "helpcovid19.altervista.org" redirect
 local-data: "helpcovid19.altervista.org A 0.0.0.0"
 local-zone: "help-covid19.com" redirect
 local-data: "help-covid19.com A 0.0.0.0"
+local-zone: "help.covid19-dataexchange.org" redirect
+local-data: "help.covid19-dataexchange.org A 0.0.0.0"
 local-zone: "helpcovid-19.org" redirect
 local-data: "helpcovid-19.org A 0.0.0.0"
 local-zone: "help.covid19ph.net" redirect
@@ -21942,6 +21954,8 @@ local-zone: "lawebdelcoronavirus.es" redirect
 local-data: "lawebdelcoronavirus.es A 0.0.0.0"
 local-zone: "lawyerforcoronavirus.com" redirect
 local-data: "lawyerforcoronavirus.com A 0.0.0.0"
+local-zone: "lawyers4covid19.majorkash.com" redirect
+local-data: "lawyers4covid19.majorkash.com A 0.0.0.0"
 local-zone: "lawyerscoronavirus.com" redirect
 local-data: "lawyerscoronavirus.com A 0.0.0.0"
 local-zone: "lb.covid-19.husseinsaleh.me" redirect
@@ -27838,6 +27852,8 @@ local-zone: "www.covid19deli.com" redirect
 local-data: "www.covid19deli.com A 0.0.0.0"
 local-zone: "www.covid-19dentalupdate.com" redirect
 local-data: "www.covid-19dentalupdate.com A 0.0.0.0"
+local-zone: "www.covid19-depistage.org" redirect
+local-data: "www.covid19-depistage.org A 0.0.0.0"
 local-zone: "www.covid19desdelatrinxera.com" redirect
 local-data: "www.covid19desdelatrinxera.com A 0.0.0.0"
 local-zone: "www.covid19-desinfectantes.com" redirect
@@ -28460,6 +28476,8 @@ local-zone: "www.covid19sv.info" redirect
 local-data: "www.covid19sv.info A 0.0.0.0"
 local-zone: "www.covid19symptomscensus.com" redirect
 local-data: "www.covid19symptomscensus.com A 0.0.0.0"
+local-zone: "www.covid19test.ie" redirect
+local-data: "www.covid19test.ie A 0.0.0.0"
 local-zone: "www.covid19-testing.churchofthehighlands.com" redirect
 local-data: "www.covid19-testing.churchofthehighlands.com A 0.0.0.0"
 local-zone: "www.covid19-test.international" redirect
