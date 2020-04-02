@@ -4410,8 +4410,6 @@ local-zone: "coronavirusapi.iycchan.repl.run" redirect
 local-data: "coronavirusapi.iycchan.repl.run A 0.0.0.0"
 local-zone: "coronavirus-api.net" redirect
 local-data: "coronavirus-api.net A 0.0.0.0"
-local-zone: "coronavirusapi.sushipython.repl.run" redirect
-local-data: "coronavirusapi.sushipython.repl.run A 0.0.0.0"
 local-zone: "coronavirusapi.webaty.com" redirect
 local-data: "coronavirusapi.webaty.com A 0.0.0.0"
 local-zone: "coronavirus.app" redirect
@@ -11022,6 +11020,8 @@ local-zone: "covid19af.com" redirect
 local-data: "covid19af.com A 0.0.0.0"
 local-zone: "covid19-affected.com" redirect
 local-data: "covid19-affected.com A 0.0.0.0"
+local-zone: "covid-19.affirmativeact.org" redirect
+local-data: "covid-19.affirmativeact.org A 0.0.0.0"
 local-zone: "covid19.affordhealth.org" redirect
 local-data: "covid19.affordhealth.org A 0.0.0.0"
 local-zone: "covid19affordhealth.org" redirect
@@ -12100,6 +12100,8 @@ local-zone: "covid19claims.com" redirect
 local-data: "covid19claims.com A 0.0.0.0"
 local-zone: "covid19-claims.uk" redirect
 local-data: "covid19-claims.uk A 0.0.0.0"
+local-zone: "covid-19claim.uk" redirect
+local-data: "covid-19claim.uk A 0.0.0.0"
 local-zone: "covid19.clarylent.com.ar" redirect
 local-data: "covid19.clarylent.com.ar A 0.0.0.0"
 local-zone: "covid19classaction.com" redirect
@@ -12874,8 +12876,6 @@ local-zone: "covid19.dkbtest.com" redirect
 local-data: "covid19.dkbtest.com A 0.0.0.0"
 local-zone: "covid19-dk.com" redirect
 local-data: "covid19-dk.com A 0.0.0.0"
-local-zone: "covid-19.dkkmaju.com" redirect
-local-data: "covid-19.dkkmaju.com A 0.0.0.0"
 local-zone: "covid19.dkolves.com.br" redirect
 local-data: "covid19.dkolves.com.br A 0.0.0.0"
 local-zone: "covid-19.dnastack.com" redirect
@@ -16698,6 +16698,8 @@ local-zone: "covid19restroomssigns.com" redirect
 local-data: "covid19restroomssigns.com A 0.0.0.0"
 local-zone: "covid19.rethinkmyhealthcare.com" redirect
 local-data: "covid19.rethinkmyhealthcare.com A 0.0.0.0"
+local-zone: "covid19revalidatieconcepten.nl" redirect
+local-data: "covid19revalidatieconcepten.nl A 0.0.0.0"
 local-zone: "covid19review.org" redirect
 local-data: "covid19review.org A 0.0.0.0"
 local-zone: "covid19.revision.show" redirect
@@ -20302,6 +20304,8 @@ local-zone: "durgsforcoronavirus.com" redirect
 local-data: "durgsforcoronavirus.com A 0.0.0.0"
 local-zone: "duvidascoronavirus.com" redirect
 local-data: "duvidascoronavirus.com A 0.0.0.0"
+local-zone: "dz-covid19.com" redirect
+local-data: "dz-covid19.com A 0.0.0.0"
 local-zone: "e18a5112.test.covid-19.forms.digital.nhs.uk" redirect
 local-data: "e18a5112.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
 local-zone: "e2d377f6.test.covid-19.forms.digital.nhs.uk" redirect
@@ -20364,6 +20368,8 @@ local-zone: "egyptcoronavirus.com" redirect
 local-data: "egyptcoronavirus.com A 0.0.0.0"
 local-zone: "ehime-covid19.com" redirect
 local-data: "ehime-covid19.com A 0.0.0.0"
+local-zone: "ekiti-covid19.eclathealthcare.com" redirect
+local-data: "ekiti-covid19.eclathealthcare.com A 0.0.0.0"
 local-zone: "elcoronavirus.cc" redirect
 local-data: "elcoronavirus.cc A 0.0.0.0"
 local-zone: "elcoronavirus.mx" redirect
@@ -23672,6 +23678,8 @@ local-zone: "outilscoronavirus.fr" redirect
 local-data: "outilscoronavirus.fr A 0.0.0.0"
 local-zone: "outlastcovid19.com" redirect
 local-data: "outlastcovid19.com A 0.0.0.0"
+local-zone: "oyo-covid19.eclathealthcare.com" redirect
+local-data: "oyo-covid19.eclathealthcare.com A 0.0.0.0"
 local-zone: "ozone4covid19.com" redirect
 local-data: "ozone4covid19.com A 0.0.0.0"
 local-zone: "p12zjqpttx2m.covid-19training.gov.au" redirect
@@ -24292,6 +24300,8 @@ local-zone: "proformula-coronavirus-be-fr.com" redirect
 local-data: "proformula-coronavirus-be-fr.com A 0.0.0.0"
 local-zone: "proformula-coronavirus-be-nl.com" redirect
 local-data: "proformula-coronavirus-be-nl.com A 0.0.0.0"
+local-zone: "proformula-coronavirus-dk.com" redirect
+local-data: "proformula-coronavirus-dk.com A 0.0.0.0"
 local-zone: "proformula-coronavirus-es.com" redirect
 local-data: "proformula-coronavirus-es.com A 0.0.0.0"
 local-zone: "proformula-coronavirus.eu" redirect
@@ -28142,8 +28152,6 @@ local-zone: "www.covid19-diaries.com" redirect
 local-data: "www.covid19-diaries.com A 0.0.0.0"
 local-zone: "www.covid19.dieq41.com" redirect
 local-data: "www.covid19.dieq41.com A 0.0.0.0"
-local-zone: "www.covid-19digest.com" redirect
-local-data: "www.covid-19digest.com A 0.0.0.0"
 local-zone: "www.covid19digital.tips" redirect
 local-data: "www.covid19digital.tips A 0.0.0.0"
 local-zone: "www.covid19diploma.com" redirect
@@ -28246,6 +28254,8 @@ local-zone: "www.covid-19forums.org" redirect
 local-data: "www.covid-19forums.org A 0.0.0.0"
 local-zone: "www.covid19funding.org" redirect
 local-data: "www.covid19funding.org A 0.0.0.0"
+local-zone: "www.covid19.garandtech.com" redirect
+local-data: "www.covid19.garandtech.com A 0.0.0.0"
 local-zone: "www.covid19gear.com" redirect
 local-data: "www.covid19gear.com A 0.0.0.0"
 local-zone: "www.covid19gear.co.uk" redirect
@@ -28378,6 +28388,8 @@ local-zone: "www.covid19instatest.com" redirect
 local-data: "www.covid19instatest.com A 0.0.0.0"
 local-zone: "www.covid19intervention.com" redirect
 local-data: "www.covid19intervention.com A 0.0.0.0"
+local-zone: "www.covid19intervinents.cat" redirect
+local-data: "www.covid19intervinents.cat A 0.0.0.0"
 local-zone: "www.covid19intexas.com" redirect
 local-data: "www.covid19intexas.com A 0.0.0.0"
 local-zone: "www.covid19-inworld.com" redirect
