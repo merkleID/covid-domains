@@ -4522,8 +4522,6 @@ local-zone: "coronavirusautotest.com" redirect
 local-data: "coronavirusautotest.com A 0.0.0.0"
 local-zone: "coronavirus.avanzasegur.com" redirect
 local-data: "coronavirus.avanzasegur.com A 0.0.0.0"
-local-zone: "coronavirusavoid.com" redirect
-local-data: "coronavirusavoid.com A 0.0.0.0"
 local-zone: "coronavirusawards.com" redirect
 local-data: "coronavirusawards.com A 0.0.0.0"
 local-zone: "coronavirus-awareness.com" redirect
@@ -7220,6 +7218,8 @@ local-zone: "coronavirus.kateunderwoodhr.co.uk" redirect
 local-data: "coronavirus.kateunderwoodhr.co.uk A 0.0.0.0"
 local-zone: "coronaviruskazakhstan.com" redirect
 local-data: "coronaviruskazakhstan.com A 0.0.0.0"
+local-zone: "coronavirus-kazakhstan.online" redirect
+local-data: "coronavirus-kazakhstan.online A 0.0.0.0"
 local-zone: "coronavirus-kazakhstan.ru" redirect
 local-data: "coronavirus-kazakhstan.ru A 0.0.0.0"
 local-zone: "coronaviruskentucky.com" redirect
@@ -8558,6 +8558,8 @@ local-zone: "coronavirusphysician.com" redirect
 local-data: "coronavirusphysician.com A 0.0.0.0"
 local-zone: "coronavirusphysicians.com" redirect
 local-data: "coronavirusphysicians.com A 0.0.0.0"
+local-zone: "coronaviruspi.com" redirect
+local-data: "coronaviruspi.com A 0.0.0.0"
 local-zone: "coronavirus-pictures.smartminds.co" redirect
 local-data: "coronavirus-pictures.smartminds.co A 0.0.0.0"
 local-zone: "coronavirus-pill.com" redirect
@@ -11676,8 +11678,6 @@ local-zone: "covid19.bonabroad.com" redirect
 local-data: "covid19.bonabroad.com A 0.0.0.0"
 local-zone: "covid19.boneolam.co.il" redirect
 local-data: "covid19.boneolam.co.il A 0.0.0.0"
-local-zone: "covid19booking.com" redirect
-local-data: "covid19booking.com A 0.0.0.0"
 local-zone: "covid-19.boomfa.co.nz" redirect
 local-data: "covid-19.boomfa.co.nz A 0.0.0.0"
 local-zone: "covid19.boomit.com.br" redirect
@@ -11686,8 +11686,6 @@ local-zone: "covid19.borbolla.com.br" redirect
 local-data: "covid19.borbolla.com.br A 0.0.0.0"
 local-zone: "covid19.borismtax.com" redirect
 local-data: "covid19.borismtax.com A 0.0.0.0"
-local-zone: "covid19bo.site" redirect
-local-data: "covid19bo.site A 0.0.0.0"
 local-zone: "covid19-bot.ai4bharat.org" redirect
 local-data: "covid19-bot.ai4bharat.org A 0.0.0.0"
 local-zone: "covid19-bot.fly.dev" redirect
@@ -12806,6 +12804,8 @@ local-zone: "covid19diet.com" redirect
 local-data: "covid19diet.com A 0.0.0.0"
 local-zone: "covid19.diffamr.me" redirect
 local-data: "covid19.diffamr.me A 0.0.0.0"
+local-zone: "covid-19digest.com" redirect
+local-data: "covid-19digest.com A 0.0.0.0"
 local-zone: "covid19.digi4.ma" redirect
 local-data: "covid19.digi4.ma A 0.0.0.0"
 local-zone: "covid19.digiguyz.com" redirect
@@ -13514,6 +13514,8 @@ local-zone: "covid-19.gayolueskab.go.id" redirect
 local-data: "covid-19.gayolueskab.go.id A 0.0.0.0"
 local-zone: "covid19.gccstat.org" redirect
 local-data: "covid19.gccstat.org A 0.0.0.0"
+local-zone: "covid19-gcrmc.org" redirect
+local-data: "covid19-gcrmc.org A 0.0.0.0"
 local-zone: "covid19.gdanforth.com" redirect
 local-data: "covid19.gdanforth.com A 0.0.0.0"
 local-zone: "covid-19.gdemoi.ru" redirect
@@ -14632,6 +14634,8 @@ local-zone: "covid19kenya.ml" redirect
 local-data: "covid19kenya.ml A 0.0.0.0"
 local-zone: "covid19.kerala.gov.in" redirect
 local-data: "covid19.kerala.gov.in A 0.0.0.0"
+local-zone: "covid19kerobokan.com" redirect
+local-data: "covid19kerobokan.com A 0.0.0.0"
 local-zone: "covid-19.keruji.com" redirect
 local-data: "covid-19.keruji.com A 0.0.0.0"
 local-zone: "covid19khabar.com" redirect
@@ -15028,6 +15032,8 @@ local-zone: "covid19lr.com" redirect
 local-data: "covid19lr.com A 0.0.0.0"
 local-zone: "covid-19.luasoftware.com" redirect
 local-data: "covid-19.luasoftware.com A 0.0.0.0"
+local-zone: "covid19.lucazonarelli.com" redirect
+local-data: "covid19.lucazonarelli.com A 0.0.0.0"
 local-zone: "covid19.lukos.org" redirect
 local-data: "covid19.lukos.org A 0.0.0.0"
 local-zone: "covid19.lulaloop.co.za" redirect
@@ -15998,6 +16004,8 @@ local-zone: "covid19.padanglawasutarakab.go.id" redirect
 local-data: "covid19.padanglawasutarakab.go.id A 0.0.0.0"
 local-zone: "covid19.padangpariamankab.go.id" redirect
 local-data: "covid19.padangpariamankab.go.id A 0.0.0.0"
+local-zone: "covid19pademic.justdied.com" redirect
+local-data: "covid19pademic.justdied.com A 0.0.0.0"
 local-zone: "covid19padova.it" redirect
 local-data: "covid19padova.it A 0.0.0.0"
 local-zone: "covid19page-hayakun.tk" redirect
@@ -18142,6 +18150,8 @@ local-zone: "covid19.tldev.io" redirect
 local-data: "covid19.tldev.io A 0.0.0.0"
 local-zone: "covid19.tlfcomputers.com" redirect
 local-data: "covid19.tlfcomputers.com A 0.0.0.0"
+local-zone: "covid19.tmcf.in" redirect
+local-data: "covid19.tmcf.in A 0.0.0.0"
 local-zone: "covid19.tmnmonetization.com" redirect
 local-data: "covid19.tmnmonetization.com A 0.0.0.0"
 local-zone: "covid19tn.com" redirect
@@ -19016,6 +19026,8 @@ local-zone: "covid19.zendesk.com" redirect
 local-data: "covid19.zendesk.com A 0.0.0.0"
 local-zone: "covid19.zeus.vision" redirect
 local-data: "covid19.zeus.vision A 0.0.0.0"
+local-zone: "covid19.zhuanhuanengli.com" redirect
+local-data: "covid19.zhuanhuanengli.com A 0.0.0.0"
 local-zone: "covid19.zinergo.com" redirect
 local-data: "covid19.zinergo.com A 0.0.0.0"
 local-zone: "covid19.zinly.pk" redirect
@@ -21704,6 +21716,8 @@ local-zone: "information-covid-19.com" redirect
 local-data: "information-covid-19.com A 0.0.0.0"
 local-zone: "information-covid19.com" redirect
 local-data: "information-covid19.com A 0.0.0.0"
+local-zone: "informecovid19.com" redirect
+local-data: "informecovid19.com A 0.0.0.0"
 local-zone: "infos-coronavirus.be" redirect
 local-data: "infos-coronavirus.be A 0.0.0.0"
 local-zone: "infos-coronavirus.usocome.fr" redirect
@@ -25220,6 +25234,8 @@ local-zone: "stampoutcovid19.org" redirect
 local-data: "stampoutcovid19.org A 0.0.0.0"
 local-zone: "standagainstcorona.com" redirect
 local-data: "standagainstcorona.com A 0.0.0.0"
+local-zone: "standupagainstcovid19.team" redirect
+local-data: "standupagainstcovid19.team A 0.0.0.0"
 local-zone: "stanmore.response.covid-19.sandybeachit.co.uk" redirect
 local-data: "stanmore.response.covid-19.sandybeachit.co.uk A 0.0.0.0"
 local-zone: "starcoronavirusappeal.org" redirect
@@ -25442,8 +25458,6 @@ local-zone: "storiesofcovid-19.com" redirect
 local-data: "storiesofcovid-19.com A 0.0.0.0"
 local-zone: "stpeterscovid19dev.g7development.co.uk" redirect
 local-data: "stpeterscovid19dev.g7development.co.uk A 0.0.0.0"
-local-zone: "stratasys-covid19.it" redirect
-local-data: "stratasys-covid19.it A 0.0.0.0"
 local-zone: "stream.urgencecoronavirus.com" redirect
 local-data: "stream.urgencecoronavirus.com A 0.0.0.0"
 local-zone: "streetsmartcovid19.com" redirect
@@ -28112,6 +28126,8 @@ local-zone: "www.covid19.clc.my.id" redirect
 local-data: "www.covid19.clc.my.id A 0.0.0.0"
 local-zone: "www.covid19clothing.co.uk" redirect
 local-data: "www.covid19clothing.co.uk A 0.0.0.0"
+local-zone: "www.covid19cmrcet.ml" redirect
+local-data: "www.covid19cmrcet.ml A 0.0.0.0"
 local-zone: "www.covid19coalition.org" redirect
 local-data: "www.covid19coalition.org A 0.0.0.0"
 local-zone: "www.covid19.codeonec.co" redirect
@@ -29508,8 +29524,6 @@ local-zone: "www.preventcovid19australia.com" redirect
 local-data: "www.preventcovid19australia.com A 0.0.0.0"
 local-zone: "www.previnacoronavirus.com.br" redirect
 local-data: "www.previnacoronavirus.com.br A 0.0.0.0"
-local-zone: "www.prikaz-o-coronaviruse.ru" redirect
-local-data: "www.prikaz-o-coronaviruse.ru A 0.0.0.0"
 local-zone: "www.primacovid19.com" redirect
 local-data: "www.primacovid19.com A 0.0.0.0"
 local-zone: "www.procoronavirus.site" redirect
@@ -29890,8 +29904,6 @@ local-zone: "www.yousurvivedthecoronavirus.com" redirect
 local-data: "www.yousurvivedthecoronavirus.com A 0.0.0.0"
 local-zone: "www.zerocoronavirus.com" redirect
 local-data: "www.zerocoronavirus.com A 0.0.0.0"
-local-zone: "www.zhertvy-coronavirusa.ru" redirect
-local-data: "www.zhertvy-coronavirusa.ru A 0.0.0.0"
 local-zone: "wycoronavirus.com" redirect
 local-data: "wycoronavirus.com A 0.0.0.0"
 local-zone: "wyocovid19.org" redirect
