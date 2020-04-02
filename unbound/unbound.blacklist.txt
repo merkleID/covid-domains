@@ -11992,6 +11992,8 @@ local-zone: "covid19.civlr.com" redirect
 local-data: "covid19.civlr.com A 0.0.0.0"
 local-zone: "covid19.ckm.ma" redirect
 local-data: "covid19.ckm.ma A 0.0.0.0"
+local-zone: "covid19.cl" redirect
+local-data: "covid19.cl A 0.0.0.0"
 local-zone: "covid19claim.com" redirect
 local-data: "covid19claim.com A 0.0.0.0"
 local-zone: "covid19.claims" redirect
@@ -14082,6 +14084,8 @@ local-zone: "covid19indiacases.com" redirect
 local-data: "covid19indiacases.com A 0.0.0.0"
 local-zone: "covid19india-cluster.now.sh" redirect
 local-data: "covid19india-cluster.now.sh A 0.0.0.0"
+local-zone: "covid19.indiagreatsale.ml" redirect
+local-data: "covid19.indiagreatsale.ml A 0.0.0.0"
 local-zone: "covid19-indialive.easocare.com" redirect
 local-data: "covid19-indialive.easocare.com A 0.0.0.0"
 local-zone: "covid19indianapolis.com" redirect
@@ -16714,6 +16718,8 @@ local-zone: "covid-19sbarelief.com" redirect
 local-data: "covid-19sbarelief.com A 0.0.0.0"
 local-zone: "covid19sb.com" redirect
 local-data: "covid19sb.com A 0.0.0.0"
+local-zone: "covid19.sbdeveloper.in" redirect
+local-data: "covid19.sbdeveloper.in A 0.0.0.0"
 local-zone: "covid-19.sbkua.com" redirect
 local-data: "covid-19.sbkua.com A 0.0.0.0"
 local-zone: "covid19sbloans.com" redirect
@@ -20956,8 +20962,6 @@ local-zone: "habichdencoronavirus.com" redirect
 local-data: "habichdencoronavirus.com A 0.0.0.0"
 local-zone: "hablacoronavirus.com" redirect
 local-data: "hablacoronavirus.com A 0.0.0.0"
-local-zone: "hack4covid-19.tn" redirect
-local-data: "hack4covid-19.tn A 0.0.0.0"
 local-zone: "hackagainstcovid-19.org" redirect
 local-data: "hackagainstcovid-19.org A 0.0.0.0"
 local-zone: "hackcorona.com" redirect
@@ -22484,6 +22488,8 @@ local-zone: "mercedcounty-covid19.com" redirect
 local-data: "mercedcounty-covid19.com A 0.0.0.0"
 local-zone: "mesacoronavirus.com" redirect
 local-data: "mesacoronavirus.com A 0.0.0.0"
+local-zone: "mesasocialcovid19.cl" redirect
+local-data: "mesasocialcovid19.cl A 0.0.0.0"
 local-zone: "metacrilatocoronavirus.com" redirect
 local-data: "metacrilatocoronavirus.com A 0.0.0.0"
 local-zone: "mexicocoronavirus.com" redirect
@@ -23388,6 +23394,8 @@ local-zone: "ourcorona.com" redirect
 local-data: "ourcorona.com A 0.0.0.0"
 local-zone: "ourcoronavirus.com" redirect
 local-data: "ourcoronavirus.com A 0.0.0.0"
+local-zone: "ourcovid19test.com" redirect
+local-data: "ourcovid19test.com A 0.0.0.0"
 local-zone: "outbreakcorona.com" redirect
 local-data: "outbreakcorona.com A 0.0.0.0"
 local-zone: "outlastcovid19.com" redirect
@@ -26756,8 +26764,6 @@ local-zone: "www.aapicovid19.org" redirect
 local-data: "www.aapicovid19.org A 0.0.0.0"
 local-zone: "www.abqfightcovid19.com" redirect
 local-data: "www.abqfightcovid19.com A 0.0.0.0"
-local-zone: "www.acoronavirus.co.uk" redirect
-local-data: "www.acoronavirus.co.uk A 0.0.0.0"
 local-zone: "www.adcoronavirus.com" redirect
 local-data: "www.adcoronavirus.com A 0.0.0.0"
 local-zone: "www.adioscoronavirus.com" redirect
@@ -28460,6 +28466,8 @@ local-zone: "www.covid-19-threat-list.domaintools.com" redirect
 local-data: "www.covid-19-threat-list.domaintools.com A 0.0.0.0"
 local-zone: "www.covid19timeline.net" redirect
 local-data: "www.covid19timeline.net A 0.0.0.0"
+local-zone: "www.covid19-times.com" redirect
+local-data: "www.covid19-times.com A 0.0.0.0"
 local-zone: "www.covid19tips.info" redirect
 local-data: "www.covid19tips.info A 0.0.0.0"
 local-zone: "www.covid-19.tokyo" redirect
