@@ -90,6 +90,8 @@ dns-zone-blacklist. IN NS localhost.
 *.3dprintforcovid19.azores.net CNAME .
 3f2feb80.test.covid-19.forms.digital.nhs.uk CNAME .
 *.3f2feb80.test.covid-19.forms.digital.nhs.uk CNAME .
+403.somalilandcoronavirus.com CNAME .
+*.403.somalilandcoronavirus.com CNAME .
 4735a7c5.test.covid-19.forms.digital.nhs.uk CNAME .
 *.4735a7c5.test.covid-19.forms.digital.nhs.uk CNAME .
 4859-update-content-of-coronavirus-pop-up.stage.douleutaras.com CNAME .
@@ -5860,6 +5862,8 @@ covid19.catalpa.build CNAME .
 *.covid19.catalpa.build CNAME .
 covid-19.catataniman.com CNAME .
 *.covid-19.catataniman.com CNAME .
+covid-19.catatonic.cotse.net CNAME .
+*.covid-19.catatonic.cotse.net CNAME .
 covid-19.caupo.net CNAME .
 *.covid-19.caupo.net CNAME .
 covid-19.cb.laura-br.com CNAME .
@@ -6768,6 +6772,8 @@ covid-19.ebscomedical.com CNAME .
 *.covid-19.ebscomedical.com CNAME .
 covid19ec.brian-molina.net CNAME .
 *.covid19ec.brian-molina.net CNAME .
+covid19ec.info CNAME .
+*.covid19ec.info CNAME .
 covid19.eclathealthcare.com CNAME .
 *.covid19.eclathealthcare.com CNAME .
 covid19-ecomm.widenweb.com CNAME .
@@ -9284,6 +9290,8 @@ covid-19.od.ua CNAME .
 *.covid-19.od.ua CNAME .
 covid-19.oec-paris.fr CNAME .
 *.covid-19.oec-paris.fr CNAME .
+covid-19-oe.org CNAME .
+*.covid-19-oe.org CNAME .
 covid19off.com CNAME .
 *.covid19off.com CNAME .
 covid19offense.com CNAME .
@@ -10554,8 +10562,6 @@ covid19.social CNAME .
 *.covid19.social CNAME .
 covid19.socialcloud.co.th CNAME .
 *.covid19.socialcloud.co.th CNAME .
-covid19.soficoop.com CNAME .
-*.covid19.soficoop.com CNAME .
 covid19.softbutterfly.io CNAME .
 *.covid19.softbutterfly.io CNAME .
 covid19.sokolovic.net CNAME .
@@ -11864,8 +11870,6 @@ covid19.wellfoundation.org.nz CNAME .
 *.covid19.wellfoundation.org.nz CNAME .
 covid19wellness.com CNAME .
 *.covid19wellness.com CNAME .
-covid19wellnesshub.com CNAME .
-*.covid19wellnesshub.com CNAME .
 covid19.wellvis.org CNAME .
 *.covid19.wellvis.org CNAME .
 covid-19.weolive.com CNAME .
@@ -12724,8 +12728,6 @@ evolutioncovid19.cauxseine.fr CNAME .
 *.evolutioncovid19.cauxseine.fr CNAME .
 examecoronavirusrs.laboratorioantonello.com.br CNAME .
 *.examecoronavirusrs.laboratorioantonello.com.br CNAME .
-examencoronavirus.mx CNAME .
-*.examencoronavirus.mx CNAME .
 f6bfd464.test.covid-19.forms.digital.nhs.uk CNAME .
 *.f6bfd464.test.covid-19.forms.digital.nhs.uk CNAME .
 faceofcoronavirus.com CNAME .
@@ -15142,6 +15144,8 @@ safe-covid19.ch CNAME .
 *.safe-covid19.ch CNAME .
 safefromcovid-19.com CNAME .
 *.safefromcovid-19.com CNAME .
+safetyproductscovid19.com CNAME .
+*.safetyproductscovid19.com CNAME .
 safeworldcovid19.kinsuhub.com CNAME .
 *.safeworldcovid19.kinsuhub.com CNAME .
 salirdecasacoronavirus.es CNAME .
@@ -18070,6 +18074,8 @@ www.covid19.nyc CNAME .
 *.www.covid19.nyc CNAME .
 www.covid19nyc.org CNAME .
 *.www.covid19nyc.org CNAME .
+www.covid-19-oe.org CNAME .
+*.www.covid-19-oe.org CNAME .
 www.covid19ontario.ca CNAME .
 *.www.covid19ontario.ca CNAME .
 www.covid19outbreak.info CNAME .

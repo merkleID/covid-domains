@@ -86,6 +86,8 @@ local-zone: "3dprintforcovid19.azores.net" redirect
 local-data: "3dprintforcovid19.azores.net A 0.0.0.0"
 local-zone: "3f2feb80.test.covid-19.forms.digital.nhs.uk" redirect
 local-data: "3f2feb80.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
+local-zone: "403.somalilandcoronavirus.com" redirect
+local-data: "403.somalilandcoronavirus.com A 0.0.0.0"
 local-zone: "4735a7c5.test.covid-19.forms.digital.nhs.uk" redirect
 local-data: "4735a7c5.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
 local-zone: "4859-update-content-of-coronavirus-pop-up.stage.douleutaras.com" redirect
@@ -5856,6 +5858,8 @@ local-zone: "covid19.catalpa.build" redirect
 local-data: "covid19.catalpa.build A 0.0.0.0"
 local-zone: "covid-19.catataniman.com" redirect
 local-data: "covid-19.catataniman.com A 0.0.0.0"
+local-zone: "covid-19.catatonic.cotse.net" redirect
+local-data: "covid-19.catatonic.cotse.net A 0.0.0.0"
 local-zone: "covid-19.caupo.net" redirect
 local-data: "covid-19.caupo.net A 0.0.0.0"
 local-zone: "covid-19.cb.laura-br.com" redirect
@@ -6764,6 +6768,8 @@ local-zone: "covid-19.ebscomedical.com" redirect
 local-data: "covid-19.ebscomedical.com A 0.0.0.0"
 local-zone: "covid19ec.brian-molina.net" redirect
 local-data: "covid19ec.brian-molina.net A 0.0.0.0"
+local-zone: "covid19ec.info" redirect
+local-data: "covid19ec.info A 0.0.0.0"
 local-zone: "covid19.eclathealthcare.com" redirect
 local-data: "covid19.eclathealthcare.com A 0.0.0.0"
 local-zone: "covid19-ecomm.widenweb.com" redirect
@@ -9280,6 +9286,8 @@ local-zone: "covid-19.od.ua" redirect
 local-data: "covid-19.od.ua A 0.0.0.0"
 local-zone: "covid-19.oec-paris.fr" redirect
 local-data: "covid-19.oec-paris.fr A 0.0.0.0"
+local-zone: "covid-19-oe.org" redirect
+local-data: "covid-19-oe.org A 0.0.0.0"
 local-zone: "covid19off.com" redirect
 local-data: "covid19off.com A 0.0.0.0"
 local-zone: "covid19offense.com" redirect
@@ -10550,8 +10558,6 @@ local-zone: "covid19.social" redirect
 local-data: "covid19.social A 0.0.0.0"
 local-zone: "covid19.socialcloud.co.th" redirect
 local-data: "covid19.socialcloud.co.th A 0.0.0.0"
-local-zone: "covid19.soficoop.com" redirect
-local-data: "covid19.soficoop.com A 0.0.0.0"
 local-zone: "covid19.softbutterfly.io" redirect
 local-data: "covid19.softbutterfly.io A 0.0.0.0"
 local-zone: "covid19.sokolovic.net" redirect
@@ -11860,8 +11866,6 @@ local-zone: "covid19.wellfoundation.org.nz" redirect
 local-data: "covid19.wellfoundation.org.nz A 0.0.0.0"
 local-zone: "covid19wellness.com" redirect
 local-data: "covid19wellness.com A 0.0.0.0"
-local-zone: "covid19wellnesshub.com" redirect
-local-data: "covid19wellnesshub.com A 0.0.0.0"
 local-zone: "covid19.wellvis.org" redirect
 local-data: "covid19.wellvis.org A 0.0.0.0"
 local-zone: "covid-19.weolive.com" redirect
@@ -12720,8 +12724,6 @@ local-zone: "evolutioncovid19.cauxseine.fr" redirect
 local-data: "evolutioncovid19.cauxseine.fr A 0.0.0.0"
 local-zone: "examecoronavirusrs.laboratorioantonello.com.br" redirect
 local-data: "examecoronavirusrs.laboratorioantonello.com.br A 0.0.0.0"
-local-zone: "examencoronavirus.mx" redirect
-local-data: "examencoronavirus.mx A 0.0.0.0"
 local-zone: "f6bfd464.test.covid-19.forms.digital.nhs.uk" redirect
 local-data: "f6bfd464.test.covid-19.forms.digital.nhs.uk A 0.0.0.0"
 local-zone: "faceofcoronavirus.com" redirect
@@ -15138,6 +15140,8 @@ local-zone: "safe-covid19.ch" redirect
 local-data: "safe-covid19.ch A 0.0.0.0"
 local-zone: "safefromcovid-19.com" redirect
 local-data: "safefromcovid-19.com A 0.0.0.0"
+local-zone: "safetyproductscovid19.com" redirect
+local-data: "safetyproductscovid19.com A 0.0.0.0"
 local-zone: "safeworldcovid19.kinsuhub.com" redirect
 local-data: "safeworldcovid19.kinsuhub.com A 0.0.0.0"
 local-zone: "salirdecasacoronavirus.es" redirect
@@ -18066,6 +18070,8 @@ local-zone: "www.covid19.nyc" redirect
 local-data: "www.covid19.nyc A 0.0.0.0"
 local-zone: "www.covid19nyc.org" redirect
 local-data: "www.covid19nyc.org A 0.0.0.0"
+local-zone: "www.covid-19-oe.org" redirect
+local-data: "www.covid-19-oe.org A 0.0.0.0"
 local-zone: "www.covid19ontario.ca" redirect
 local-data: "www.covid19ontario.ca A 0.0.0.0"
 local-zone: "www.covid19outbreak.info" redirect
