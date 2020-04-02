@@ -1494,6 +1494,8 @@ local-zone: "cats-coronavirus.com" redirect
 local-data: "cats-coronavirus.com A 0.0.0.0"
 local-zone: "caxiascontracovid19.com.br" redirect
 local-data: "caxiascontracovid19.com.br A 0.0.0.0"
+local-zone: "cazacoronavirus.es" redirect
+local-data: "cazacoronavirus.es A 0.0.0.0"
 local-zone: "cbac.covid19govt.xyz" redirect
 local-data: "cbac.covid19govt.xyz A 0.0.0.0"
 local-zone: "cbccovid19canada.com" redirect
@@ -4362,6 +4364,8 @@ local-zone: "coronavirusapi.iycchan.repl.run" redirect
 local-data: "coronavirusapi.iycchan.repl.run A 0.0.0.0"
 local-zone: "coronavirus-api.net" redirect
 local-data: "coronavirus-api.net A 0.0.0.0"
+local-zone: "coronavirusapi.sushipython.repl.run" redirect
+local-data: "coronavirusapi.sushipython.repl.run A 0.0.0.0"
 local-zone: "coronavirus.apk2mod.xyz" redirect
 local-data: "coronavirus.apk2mod.xyz A 0.0.0.0"
 local-zone: "coronavirus.app" redirect
@@ -9102,6 +9106,8 @@ local-zone: "coronavirussaftey.com" redirect
 local-data: "coronavirussaftey.com A 0.0.0.0"
 local-zone: "coronavirussaga.com" redirect
 local-data: "coronavirussaga.com A 0.0.0.0"
+local-zone: "coronavirus.sa.gov.au" redirect
+local-data: "coronavirus.sa.gov.au A 0.0.0.0"
 local-zone: "coronavirussale.com" redirect
 local-data: "coronavirussale.com A 0.0.0.0"
 local-zone: "coronavirussalem.com" redirect
@@ -11020,8 +11026,6 @@ local-zone: "covid19allert.com" redirect
 local-data: "covid19allert.com A 0.0.0.0"
 local-zone: "covid19allhandsondeck.com" redirect
 local-data: "covid19allhandsondeck.com A 0.0.0.0"
-local-zone: "covid19alliance.net" redirect
-local-data: "covid19alliance.net A 0.0.0.0"
 local-zone: "covid19.allmastersolutions.com" redirect
 local-data: "covid19.allmastersolutions.com A 0.0.0.0"
 local-zone: "covid19.altagas.ca" redirect
@@ -16374,6 +16378,8 @@ local-zone: "covid-19-relief.com" redirect
 local-data: "covid-19-relief.com A 0.0.0.0"
 local-zone: "covid-19relief.com" redirect
 local-data: "covid-19relief.com A 0.0.0.0"
+local-zone: "covid19reliefinitiative.org" redirect
+local-data: "covid19reliefinitiative.org A 0.0.0.0"
 local-zone: "covid19.rembangkab.go.id" redirect
 local-data: "covid19.rembangkab.go.id A 0.0.0.0"
 local-zone: "covid19remboursement.eu" redirect
@@ -16610,6 +16616,8 @@ local-zone: "covid19safezones.com" redirect
 local-data: "covid19safezones.com A 0.0.0.0"
 local-zone: "covid19-sa.freespacersa.co.za" redirect
 local-data: "covid19-sa.freespacersa.co.za A 0.0.0.0"
+local-zone: "covid-19.sa.gov.au" redirect
+local-data: "covid-19.sa.gov.au A 0.0.0.0"
 local-zone: "covid19.sahajah.com" redirect
 local-data: "covid19.sahajah.com A 0.0.0.0"
 local-zone: "covid19.sahealthdata.co.za" redirect
@@ -16826,8 +16834,6 @@ local-zone: "covid19selfreport.com" redirect
 local-data: "covid19selfreport.com A 0.0.0.0"
 local-zone: "covid19selfreport.live" redirect
 local-data: "covid19selfreport.live A 0.0.0.0"
-local-zone: "covid19selfreport.net" redirect
-local-data: "covid19selfreport.net A 0.0.0.0"
 local-zone: "covid19selfreport.news" redirect
 local-data: "covid19selfreport.news A 0.0.0.0"
 local-zone: "covid19selfreport.org" redirect
@@ -17788,8 +17794,6 @@ local-zone: "covid19-therapy.com" redirect
 local-data: "covid19-therapy.com A 0.0.0.0"
 local-zone: "covid19therapy.com" redirect
 local-data: "covid19therapy.com A 0.0.0.0"
-local-zone: "covid-19therapy.net" redirect
-local-data: "covid-19therapy.net A 0.0.0.0"
 local-zone: "covid-19therapy.org" redirect
 local-data: "covid-19therapy.org A 0.0.0.0"
 local-zone: "covid19-thermometers.com" redirect
@@ -21756,6 +21760,8 @@ local-zone: "kitparacoronavirus.com" redirect
 local-data: "kitparacoronavirus.com A 0.0.0.0"
 local-zone: "kitprotection-covid19.com" redirect
 local-data: "kitprotection-covid19.com A 0.0.0.0"
+local-zone: "kitsapcovid19response.org" redirect
+local-data: "kitsapcovid19response.org A 0.0.0.0"
 local-zone: "kn95coronavirus.com" redirect
 local-data: "kn95coronavirus.com A 0.0.0.0"
 local-zone: "knowaboutcorona.com" redirect
@@ -22828,8 +22834,6 @@ local-zone: "nepalcoronavirus.com" redirect
 local-data: "nepalcoronavirus.com A 0.0.0.0"
 local-zone: "neplusavoirpeurducoronavirus.com" redirect
 local-data: "neplusavoirpeurducoronavirus.com A 0.0.0.0"
-local-zone: "neptune-covid19.com" redirect
-local-data: "neptune-covid19.com A 0.0.0.0"
 local-zone: "netflixcovid19s.com" redirect
 local-data: "netflixcovid19s.com A 0.0.0.0"
 local-zone: "nethealthcovid19.org" redirect
@@ -26912,6 +26916,8 @@ local-zone: "www.corona-covid19.co.uk" redirect
 local-data: "www.corona-covid19.co.uk A 0.0.0.0"
 local-zone: "www.corona-covid19-forum.com" redirect
 local-data: "www.corona-covid19-forum.com A 0.0.0.0"
+local-zone: "www.corona-covid19.net" redirect
+local-data: "www.corona-covid19.net A 0.0.0.0"
 local-zone: "www.coronavirus-112.ru" redirect
 local-data: "www.coronavirus-112.ru A 0.0.0.0"
 local-zone: "www.coronavirus19.net" redirect
@@ -26944,8 +26950,6 @@ local-zone: "www.coronavirusadieu.com" redirect
 local-data: "www.coronavirusadieu.com A 0.0.0.0"
 local-zone: "www.coronavirusass.com" redirect
 local-data: "www.coronavirusass.com A 0.0.0.0"
-local-zone: "www.coronavirusbaby.net" redirect
-local-data: "www.coronavirusbaby.net A 0.0.0.0"
 local-zone: "www.coronavirus.band" redirect
 local-data: "www.coronavirus.band A 0.0.0.0"
 local-zone: "www.coronavirusbankruptcyattorney.com" redirect
@@ -27220,6 +27224,8 @@ local-zone: "www.coronaviruslive.ml" redirect
 local-data: "www.coronaviruslive.ml A 0.0.0.0"
 local-zone: "www.coronavirusliveupdates.org" redirect
 local-data: "www.coronavirusliveupdates.org A 0.0.0.0"
+local-zone: "www.coronaviruslocation.org" redirect
+local-data: "www.coronaviruslocation.org A 0.0.0.0"
 local-zone: "www.coronavirus.lu" redirect
 local-data: "www.coronavirus.lu A 0.0.0.0"
 local-zone: "www.coronavirusmakers-raspeig.es" redirect
@@ -27940,8 +27946,6 @@ local-zone: "www.covid-19housingsolutions.com" redirect
 local-data: "www.covid-19housingsolutions.com A 0.0.0.0"
 local-zone: "www.covid19i-ch4ase.com" redirect
 local-data: "www.covid19i-ch4ase.com A 0.0.0.0"
-local-zone: "www.covid19-icu.net" redirect
-local-data: "www.covid19-icu.net A 0.0.0.0"
 local-zone: "www.covid19-icu.org" redirect
 local-data: "www.covid19-icu.org A 0.0.0.0"
 local-zone: "www.covid19.idealsolutions.pk" redirect
@@ -28256,6 +28260,8 @@ local-zone: "www.covid19.rest" redirect
 local-data: "www.covid19.rest A 0.0.0.0"
 local-zone: "www.covid19review.com" redirect
 local-data: "www.covid19review.com A 0.0.0.0"
+local-zone: "www.covid19review.org" redirect
+local-data: "www.covid19review.org A 0.0.0.0"
 local-zone: "www.covid19-rx.org" redirect
 local-data: "www.covid19-rx.org A 0.0.0.0"
 local-zone: "www.covid19sacramento.info" redirect
