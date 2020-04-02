@@ -156,6 +156,8 @@ local-zone: "aboutthecoronavirus.com" redirect
 local-data: "aboutthecoronavirus.com A 0.0.0.0"
 local-zone: "abruzzostopcoronavirus.it" redirect
 local-data: "abruzzostopcoronavirus.it A 0.0.0.0"
+local-zone: "absamohcovid-19initiative.tsavopay.com" redirect
+local-data: "absamohcovid-19initiative.tsavopay.com A 0.0.0.0"
 local-zone: "account.covid-19.stage.wikium.tech" redirect
 local-data: "account.covid-19.stage.wikium.tech A 0.0.0.0"
 local-zone: "ac.covid19-mobilisation.org" redirect
@@ -1938,6 +1940,8 @@ local-zone: "coronaviruschemicals.com" redirect
 local-data: "coronaviruschemicals.com A 0.0.0.0"
 local-zone: "coronaviruschemicalsolutions.com" redirect
 local-data: "coronaviruschemicalsolutions.com A 0.0.0.0"
+local-zone: "coronaviruschildrensbook.com" redirect
+local-data: "coronaviruschildrensbook.com A 0.0.0.0"
 local-zone: "coronaviruschile.com" redirect
 local-data: "coronaviruschile.com A 0.0.0.0"
 local-zone: "coronaviruschile.online" redirect
@@ -3460,6 +3464,8 @@ local-zone: "coronavirusnewsindia.site" redirect
 local-data: "coronavirusnewsindia.site A 0.0.0.0"
 local-zone: "coronavirusnewslist.com" redirect
 local-data: "coronavirusnewslist.com A 0.0.0.0"
+local-zone: "coronavirus-news.net" redirect
+local-data: "coronavirus-news.net A 0.0.0.0"
 local-zone: "coronavirusnews.network" redirect
 local-data: "coronavirusnews.network A 0.0.0.0"
 local-zone: "coronavirusnewsnow.co" redirect
@@ -5068,8 +5074,6 @@ local-zone: "covid19.ahuson.com" redirect
 local-data: "covid19.ahuson.com A 0.0.0.0"
 local-zone: "covid19.ahyoxsoft.com" redirect
 local-data: "covid19.ahyoxsoft.com A 0.0.0.0"
-local-zone: "covid19.aibharata.com" redirect
-local-data: "covid19.aibharata.com A 0.0.0.0"
 local-zone: "covid19-aid.de" redirect
 local-data: "covid19-aid.de A 0.0.0.0"
 local-zone: "covid19aid.in" redirect
@@ -5498,6 +5502,10 @@ local-zone: "covid19bd.info" redirect
 local-data: "covid19bd.info A 0.0.0.0"
 local-zone: "covid-19.bearos.repl.run" redirect
 local-data: "covid-19.bearos.repl.run A 0.0.0.0"
+local-zone: "covid-19beatdown.com" redirect
+local-data: "covid-19beatdown.com A 0.0.0.0"
+local-zone: "covid19beatdown.com" redirect
+local-data: "covid19beatdown.com A 0.0.0.0"
 local-zone: "covid-19beer.com" redirect
 local-data: "covid-19beer.com A 0.0.0.0"
 local-zone: "covid19beer.com" redirect
@@ -5674,6 +5682,8 @@ local-zone: "covid19-br.com" redirect
 local-data: "covid19-br.com A 0.0.0.0"
 local-zone: "covid19.brdshw.net" redirect
 local-data: "covid19.brdshw.net A 0.0.0.0"
+local-zone: "covid19breakdown.com" redirect
+local-data: "covid19breakdown.com A 0.0.0.0"
 local-zone: "covid19.brennfleck.de" redirect
 local-data: "covid19.brennfleck.de A 0.0.0.0"
 local-zone: "covid19-br.gilbertofarias.repl.run" redirect
@@ -9794,6 +9804,8 @@ local-zone: "covid19queen.com" redirect
 local-data: "covid19queen.com A 0.0.0.0"
 local-zone: "covid19.quickalgorithm.com" redirect
 local-data: "covid19.quickalgorithm.com A 0.0.0.0"
+local-zone: "covid19quick-test.com" redirect
+local-data: "covid19quick-test.com A 0.0.0.0"
 local-zone: "covid19race.com" redirect
 local-data: "covid19race.com A 0.0.0.0"
 local-zone: "covid19.radenpedia.xyz" redirect
@@ -10098,8 +10110,6 @@ local-zone: "covid19.saama.com" redirect
 local-data: "covid19.saama.com A 0.0.0.0"
 local-zone: "covid19.sabda.org" redirect
 local-data: "covid19.sabda.org A 0.0.0.0"
-local-zone: "covid19.sachinellcock.com" redirect
-local-data: "covid19.sachinellcock.com A 0.0.0.0"
 local-zone: "covid19sacramento.info" redirect
 local-data: "covid19sacramento.info A 0.0.0.0"
 local-zone: "covid19-safe.com" redirect
@@ -11626,6 +11636,8 @@ local-zone: "covid19veneto.alephsrl.com" redirect
 local-data: "covid19veneto.alephsrl.com A 0.0.0.0"
 local-zone: "covid19vent.net" redirect
 local-data: "covid19vent.net A 0.0.0.0"
+local-zone: "covid19.venturafamilymed.org" redirect
+local-data: "covid19.venturafamilymed.org A 0.0.0.0"
 local-zone: "covid19vermont.com" redirect
 local-data: "covid19vermont.com A 0.0.0.0"
 local-zone: "covid19.vervesuper.com.au" redirect
@@ -14030,6 +14042,8 @@ local-zone: "m-sdc.com.coronavirus-clinic.com" redirect
 local-data: "m-sdc.com.coronavirus-clinic.com A 0.0.0.0"
 local-zone: "msk-coronavirus.ru" redirect
 local-data: "msk-coronavirus.ru A 0.0.0.0"
+local-zone: "mssql.rei-covid19.ca" redirect
+local-data: "mssql.rei-covid19.ca A 0.0.0.0"
 local-zone: "m.stopcoronavirus.km" redirect
 local-data: "m.stopcoronavirus.km A 0.0.0.0"
 local-zone: "multepagamenticoronavirus.it" redirect
@@ -14446,6 +14460,8 @@ local-zone: "officialcovid19testkit.com" redirect
 local-data: "officialcovid19testkit.com A 0.0.0.0"
 local-zone: "offmls-covid19.org" redirect
 local-data: "offmls-covid19.org A 0.0.0.0"
+local-zone: "ogun-covid19.eclathealthcare.com" redirect
+local-data: "ogun-covid19.eclathealthcare.com A 0.0.0.0"
 local-zone: "oguncovid19.ng" redirect
 local-data: "oguncovid19.ng A 0.0.0.0"
 local-zone: "okayama.stopcovid19.jp" redirect
@@ -14934,8 +14950,12 @@ local-zone: "receiver.haveigotcoronavirus.info" redirect
 local-data: "receiver.haveigotcoronavirus.info A 0.0.0.0"
 local-zone: "recherche-covid-19.com" redirect
 local-data: "recherche-covid-19.com A 0.0.0.0"
+local-zone: "recidiviz-covid19-dashboard-2.now.sh" redirect
+local-data: "recidiviz-covid19-dashboard-2.now.sh A 0.0.0.0"
 local-zone: "recidiviz-covid-19-dashboard.now.sh" redirect
 local-data: "recidiviz-covid-19-dashboard.now.sh A 0.0.0.0"
+local-zone: "recidiviz-covid19-dashboard.now.sh" redirect
+local-data: "recidiviz-covid19-dashboard.now.sh A 0.0.0.0"
 local-zone: "reclamacionescoronavirus.es" redirect
 local-data: "reclamacionescoronavirus.es A 0.0.0.0"
 local-zone: "reconversie-coronavirus.ro" redirect
@@ -16016,6 +16036,8 @@ local-zone: "uk-coronavirus.xyz" redirect
 local-data: "uk-coronavirus.xyz A 0.0.0.0"
 local-zone: "uk.covid19bank.com" redirect
 local-data: "uk.covid19bank.com A 0.0.0.0"
+local-zone: "ukcovid19stories.com" redirect
+local-data: "ukcovid19stories.com A 0.0.0.0"
 local-zone: "uk-covid19.webredirect.org" redirect
 local-data: "uk-covid19.webredirect.org A 0.0.0.0"
 local-zone: "uks-covid19-tellushow-prod-ase.p.azurewebsites.net" redirect
