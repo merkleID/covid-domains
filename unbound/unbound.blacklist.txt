@@ -2504,6 +2504,10 @@ local-zone: "coronavirus.fivewalls.com.ua" redirect
 local-data: "coronavirus.fivewalls.com.ua A 0.0.0.0"
 local-zone: "coronavirus-flash.ru" redirect
 local-data: "coronavirus-flash.ru A 0.0.0.0"
+local-zone: "coronavirusfloormarking.com" redirect
+local-data: "coronavirusfloormarking.com A 0.0.0.0"
+local-zone: "coronavirusfloorsigns.com" redirect
+local-data: "coronavirusfloorsigns.com A 0.0.0.0"
 local-zone: "coronavirus-florida.co" redirect
 local-data: "coronavirus-florida.co A 0.0.0.0"
 local-zone: "coronavirusflu.castleepisodes.com" redirect
@@ -3574,6 +3578,8 @@ local-zone: "coronavirusnya.ru" redirect
 local-data: "coronavirusnya.ru A 0.0.0.0"
 local-zone: "coronavirusny.blog" redirect
 local-data: "coronavirusny.blog A 0.0.0.0"
+local-zone: "coronavirus-nyc-3-31.jiminkim.org" redirect
+local-data: "coronavirus-nyc-3-31.jiminkim.org A 0.0.0.0"
 local-zone: "coronavirusnyc.com" redirect
 local-data: "coronavirusnyc.com A 0.0.0.0"
 local-zone: "coronavirusnz.net" redirect
@@ -7060,6 +7066,12 @@ local-zone: "covid19-flashsale.xulamexicancoffee.com" redirect
 local-data: "covid19-flashsale.xulamexicancoffee.com A 0.0.0.0"
 local-zone: "covid19-flights.ericjiang.dev" redirect
 local-data: "covid19-flights.ericjiang.dev A 0.0.0.0"
+local-zone: "covid-19floormarking.com" redirect
+local-data: "covid-19floormarking.com A 0.0.0.0"
+local-zone: "covid-19floorsigns.com" redirect
+local-data: "covid-19floorsigns.com A 0.0.0.0"
+local-zone: "covid19floorsigns.com" redirect
+local-data: "covid19floorsigns.com A 0.0.0.0"
 local-zone: "covid-19floortape.com" redirect
 local-data: "covid-19floortape.com A 0.0.0.0"
 local-zone: "covid-19floridacleaning.com" redirect
@@ -11538,6 +11550,8 @@ local-zone: "covid19-update.rohitnaik.in" redirect
 local-data: "covid19-update.rohitnaik.in A 0.0.0.0"
 local-zone: "covid19update.royalstrides.com" redirect
 local-data: "covid19update.royalstrides.com A 0.0.0.0"
+local-zone: "covid-19updates2020.com" redirect
+local-data: "covid-19updates2020.com A 0.0.0.0"
 local-zone: "covid-19-updates.acreageholdings.com" redirect
 local-data: "covid-19-updates.acreageholdings.com A 0.0.0.0"
 local-zone: "covid-19-update.sherwin-williams.com" redirect
@@ -13334,6 +13348,8 @@ local-zone: "insidecoronavirus.com" redirect
 local-data: "insidecoronavirus.com A 0.0.0.0"
 local-zone: "insidecovid19.com" redirect
 local-data: "insidecovid19.com A 0.0.0.0"
+local-zone: "insiemecontrocoronavirus.it" redirect
+local-data: "insiemecontrocoronavirus.it A 0.0.0.0"
 local-zone: "insomed-covid19.com" redirect
 local-data: "insomed-covid19.com A 0.0.0.0"
 local-zone: "instantscreencovid-19.com" redirect
@@ -14822,8 +14838,6 @@ local-zone: "projets-coronavirus.fondation-vinci.com" redirect
 local-data: "projets-coronavirus.fondation-vinci.com A 0.0.0.0"
 local-zone: "promocaoaocovid-19.ml" redirect
 local-data: "promocaoaocovid-19.ml A 0.0.0.0"
-local-zone: "promocion-netflix-covid19.com" redirect
-local-data: "promocion-netflix-covid19.com A 0.0.0.0"
 local-zone: "promo-covid19-neftlix.ml" redirect
 local-data: "promo-covid19-neftlix.ml A 0.0.0.0"
 local-zone: "protecaocovid19.com.br" redirect
@@ -16414,6 +16428,8 @@ local-zone: "wiki-covid19.trentinonetwork.it" redirect
 local-data: "wiki-covid19.trentinonetwork.it A 0.0.0.0"
 local-zone: "willigetcovid19.com" redirect
 local-data: "willigetcovid19.com A 0.0.0.0"
+local-zone: "winvscoronavirus.com" redirect
+local-data: "winvscoronavirus.com A 0.0.0.0"
 local-zone: "wirvscovid19.de" redirect
 local-data: "wirvscovid19.de A 0.0.0.0"
 local-zone: "withcoronavirus.com" redirect
@@ -18362,6 +18378,8 @@ local-zone: "www.covid19-updated.com" redirect
 local-data: "www.covid19-updated.com A 0.0.0.0"
 local-zone: "www.covid-19.update.jevezo.com" redirect
 local-data: "www.covid-19.update.jevezo.com A 0.0.0.0"
+local-zone: "www.covid-19updates2020.com" redirect
+local-data: "www.covid-19updates2020.com A 0.0.0.0"
 local-zone: "www.covid-19-updates.acreageholdings.com" redirect
 local-data: "www.covid-19-updates.acreageholdings.com A 0.0.0.0"
 local-zone: "www.covid19-updates.cf" redirect
@@ -18952,6 +18970,8 @@ local-zone: "www.ourcovid19.life" redirect
 local-data: "www.ourcovid19.life A 0.0.0.0"
 local-zone: "www.ourcovid19test.com" redirect
 local-data: "www.ourcovid19test.com A 0.0.0.0"
+local-zone: "www.outilscoronavirus.fr" redirect
+local-data: "www.outilscoronavirus.fr A 0.0.0.0"
 local-zone: "www.overcovid19.nl" redirect
 local-data: "www.overcovid19.nl A 0.0.0.0"
 local-zone: "www.packanticontagiocoronavirus.com" redirect
