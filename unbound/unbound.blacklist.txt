@@ -796,8 +796,6 @@ local-zone: "autonomoscoronavirus.es" redirect
 local-data: "autonomoscoronavirus.es A 0.0.0.0"
 local-zone: "autotest-covid-19.fr" redirect
 local-data: "autotest-covid-19.fr A 0.0.0.0"
-local-zone: "auxiliotaxicovid19.com.br" redirect
-local-data: "auxiliotaxicovid19.com.br A 0.0.0.0"
 local-zone: "avertcoronavirus.com" redirect
 local-data: "avertcoronavirus.com A 0.0.0.0"
 local-zone: "aviationcoronavirusnews.com" redirect
@@ -838,6 +836,8 @@ local-zone: "babyinthetimeofcoronavirus.com" redirect
 local-data: "babyinthetimeofcoronavirus.com A 0.0.0.0"
 local-zone: "backup.tiles.covid19vis.lingvis.io" redirect
 local-data: "backup.tiles.covid19vis.lingvis.io A 0.0.0.0"
+local-zone: "badcoronavirus.com" redirect
+local-data: "badcoronavirus.com A 0.0.0.0"
 local-zone: "badge1.covid19quiz.com" redirect
 local-data: "badge1.covid19quiz.com A 0.0.0.0"
 local-zone: "bangkok-covid-19-update.com" redirect
@@ -2394,8 +2394,6 @@ local-zone: "coronavirus-epidemic.com" redirect
 local-data: "coronavirus-epidemic.com A 0.0.0.0"
 local-zone: "coronavirusepidemic.net" redirect
 local-data: "coronavirusepidemic.net A 0.0.0.0"
-local-zone: "coronavirusepidemie.fr" redirect
-local-data: "coronavirusepidemie.fr A 0.0.0.0"
 local-zone: "coronavirus-epidemiya.online" redirect
 local-data: "coronavirus-epidemiya.online A 0.0.0.0"
 local-zone: "coronavirus-equipment.com" redirect
@@ -3734,8 +3732,6 @@ local-zone: "coronavirus-peru.now.sh" redirect
 local-data: "coronavirus-peru.now.sh A 0.0.0.0"
 local-zone: "coronavirus.pet" redirect
 local-data: "coronavirus.pet A 0.0.0.0"
-local-zone: "coronavirus.petitsfreresdespauvres.fr" redirect
-local-data: "coronavirus.petitsfreresdespauvres.fr A 0.0.0.0"
 local-zone: "coronaviruspgcounty.com" redirect
 local-data: "coronaviruspgcounty.com A 0.0.0.0"
 local-zone: "coronavirus-ph-api.now.sh" redirect
@@ -4276,6 +4272,8 @@ local-zone: "coronavirus.stream.danielmagical.stream" redirect
 local-data: "coronavirus.stream.danielmagical.stream A 0.0.0.0"
 local-zone: "coronavirusstrong.ca" redirect
 local-data: "coronavirusstrong.ca A 0.0.0.0"
+local-zone: "coronavirus.studypreparation.xyz" redirect
+local-data: "coronavirus.studypreparation.xyz A 0.0.0.0"
 local-zone: "coronavirus.suara.coop" redirect
 local-data: "coronavirus.suara.coop A 0.0.0.0"
 local-zone: "coronavirussuisse.ch" redirect
@@ -6212,6 +6210,8 @@ local-zone: "covid-19consciousliving.com" redirect
 local-data: "covid-19consciousliving.com A 0.0.0.0"
 local-zone: "covid19consciousliving.com" redirect
 local-data: "covid19consciousliving.com A 0.0.0.0"
+local-zone: "covid19.conselldeivissa.es" redirect
+local-data: "covid19.conselldeivissa.es A 0.0.0.0"
 local-zone: "covid-19.constellium.com" redirect
 local-data: "covid-19.constellium.com A 0.0.0.0"
 local-zone: "covid19consultation.live" redirect
@@ -6420,6 +6420,8 @@ local-zone: "covid19.dashiell.w2odst.com" redirect
 local-data: "covid19.dashiell.w2odst.com A 0.0.0.0"
 local-zone: "covid19.dashiell.w2ostag.com" redirect
 local-data: "covid19.dashiell.w2ostag.com A 0.0.0.0"
+local-zone: "covid19.dasycloud.com" redirect
+local-data: "covid19.dasycloud.com A 0.0.0.0"
 local-zone: "covid19data.bungokab.go.id" redirect
 local-data: "covid19data.bungokab.go.id A 0.0.0.0"
 local-zone: "covid19.dataclue.bi" redirect
@@ -8534,6 +8536,8 @@ local-zone: "covid19.localfresh.com" redirect
 local-data: "covid19.localfresh.com A 0.0.0.0"
 local-zone: "covid19.localhostsc.my.id" redirect
 local-data: "covid19.localhostsc.my.id A 0.0.0.0"
+local-zone: "covid19.locator.am" redirect
+local-data: "covid19.locator.am A 0.0.0.0"
 local-zone: "covid19lockdown.co.za" redirect
 local-data: "covid19lockdown.co.za A 0.0.0.0"
 local-zone: "covid19lockdown.live" redirect
@@ -12092,6 +12096,8 @@ local-zone: "cpanel.testcovid19ec.com" redirect
 local-data: "cpanel.testcovid19ec.com A 0.0.0.0"
 local-zone: "cpcalendars.coronavirustestingkits.co.uk" redirect
 local-data: "cpcalendars.coronavirustestingkits.co.uk A 0.0.0.0"
+local-zone: "cpcalendars.covid19a.info" redirect
+local-data: "cpcalendars.covid19a.info A 0.0.0.0"
 local-zone: "cpcalendars.covid19.unfm.org" redirect
 local-data: "cpcalendars.covid19.unfm.org A 0.0.0.0"
 local-zone: "cpcalendars.indemnizacionescoronavirus.gal" redirect
@@ -16000,6 +16006,8 @@ local-zone: "topcoronavirus.com" redirect
 local-data: "topcoronavirus.com A 0.0.0.0"
 local-zone: "tpforcoronavirus.com" redirect
 local-data: "tpforcoronavirus.com A 0.0.0.0"
+local-zone: "trabajobienestarsocialcovid19clm.com" redirect
+local-data: "trabajobienestarsocialcovid19clm.com A 0.0.0.0"
 local-zone: "trackcoronavirus.info" redirect
 local-data: "trackcoronavirus.info A 0.0.0.0"
 local-zone: "trackcoronavirus.live" redirect
@@ -16722,6 +16730,8 @@ local-zone: "www.ayudas-covid-19.gq" redirect
 local-data: "www.ayudas-covid-19.gq A 0.0.0.0"
 local-zone: "www.ayudaspymescoronavirus.es" redirect
 local-data: "www.ayudaspymescoronavirus.es A 0.0.0.0"
+local-zone: "www.badcoronavirus.com" redirect
+local-data: "www.badcoronavirus.com A 0.0.0.0"
 local-zone: "www.bangkokcovid19.com" redirect
 local-data: "www.bangkokcovid19.com A 0.0.0.0"
 local-zone: "www.baohiemcovid19pvi.com" redirect
@@ -16770,6 +16780,8 @@ local-zone: "www.califcoronavirus.com" redirect
 local-data: "www.califcoronavirus.com A 0.0.0.0"
 local-zone: "www.californiabusinesscoronavirus.com" redirect
 local-data: "www.californiabusinesscoronavirus.com A 0.0.0.0"
+local-zone: "www.camisetascovid19.es" redirect
+local-data: "www.camisetascovid19.es A 0.0.0.0"
 local-zone: "www.canada-alert-covid19.com" redirect
 local-data: "www.canada-alert-covid19.com A 0.0.0.0"
 local-zone: "www.canada-covid19.info" redirect
