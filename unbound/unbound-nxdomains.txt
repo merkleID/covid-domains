@@ -2974,6 +2974,7 @@ local-zone: "covid19check.online" static
 local-zone: "covid-19check.ru" static
 local-zone: "covid19-checkup.com" static
 local-zone: "covid19checkup.net" static
+local-zone: "covid19.cheme.cornell.edu" static
 local-zone: "covid19.chennaipolice.citizenservices.com" static
 local-zone: "covid19.cherepovetscity.ru" static
 local-zone: "covid19chhattisgarh.com" static
@@ -4342,6 +4343,7 @@ local-zone: "covid19mask.com.au" static
 local-zone: "covid19mask.co.za" static
 local-zone: "covid19mask.it" static
 local-zone: "covid19maskmakers.com" static
+local-zone: "covid19masksale.com" static
 local-zone: "covid19-masksanitizers.com" static
 local-zone: "covid19masks.co" static
 local-zone: "covid-19masks.com.co" static
@@ -4766,6 +4768,7 @@ local-zone: "covid-19.paytech.tech" static
 local-zone: "covid19.pbeu.eu" static
 local-zone: "covid19.pcvdev.com" static
 local-zone: "covid19pdhelp.com" static
+local-zone: "covid19.pensa.org.mz" static
 local-zone: "covid19percentage.com" static
 local-zone: "covid-19.perfecttechreviews.com" static
 local-zone: "covid19.perkonigg.at" static
@@ -5224,7 +5227,6 @@ local-zone: "covid-19-shop.online" static
 local-zone: "covid-19shop.online" static
 local-zone: "covid19.shopping" static
 local-zone: "covid19shop.ru" static
-local-zone: "covid-19.sibssystems.com" static
 local-zone: "covid19.sicnova3d.com" static
 local-zone: "covid19signage.com" static
 local-zone: "covid19signs.com.au" static
@@ -5834,6 +5836,7 @@ local-zone: "covid19vaxdev.org" static
 local-zone: "covid19.vbionic.com" static
 local-zone: "covid-19.vc" static
 local-zone: "covid19.vecdis.es" static
+local-zone: "covid19vehiclepass.asianhostingserver.website" static
 local-zone: "covid19-veiligheid.omgevingkeuze.web5282.cweb04.gamingweb.de" static
 local-zone: "covid19.veltecnetworks.com" static
 local-zone: "covid19veneto.alephsrl.com" static
@@ -6385,6 +6388,7 @@ local-zone: "fight-covid-191.erawhizict.com.my" static
 local-zone: "fight-covid19.autobestinfo.com" static
 local-zone: "fightcovid19.ch" static
 local-zone: "fightcovid19.com" static
+local-zone: "fightcovid19donate.site" static
 local-zone: "fightcovid19donate.us" static
 local-zone: "fightcovid19jobs.com" static
 local-zone: "fightcovid19mask.com" static
@@ -7375,6 +7379,7 @@ local-zone: "precautionfromcoronavirus.com" static
 local-zone: "pre.coronavirus.secuoyas.com" static
 local-zone: "pre.covid19-test.org" static
 local-zone: "predictions.coronavirus.industries" static
+local-zone: "preferredcovid19-com.ntc7-p2stl.ezhostingserver.com" static
 local-zone: "prepared-for-coronavirus.com" static
 local-zone: "prepareforcoronavirus.com" static
 local-zone: "prepareforcoronavirus.today" static
@@ -8222,6 +8227,7 @@ local-zone: "worldagainstcovid19.com" static
 local-zone: "worldagainstcovid19.org" static
 local-zone: "world-coronavirus.com" static
 local-zone: "worldcoronavirusresistance.com" static
+local-zone: "worldcovid19maps.com" static
 local-zone: "worldcovid19.ml" static
 local-zone: "worldhelpcovid-19.com" static
 local-zone: "worldmapcovid19.info" static
@@ -8948,6 +8954,7 @@ local-zone: "www.covid19intexas.com" static
 local-zone: "www.covid19-inworld.com" static
 local-zone: "www.covid-19-italia.it" static
 local-zone: "www.covid19-it.com" static
+local-zone: "www.covid19ja.com" static
 local-zone: "www.covid19.joboffer.com.ng" static
 local-zone: "www.covid19jombang.gatsubro.id" static
 local-zone: "www.covid-19journey.com" static
@@ -8983,7 +8990,6 @@ local-zone: "www.covid-19mask.org" static
 local-zone: "www.covid19maskrelief.com" static
 local-zone: "www.covid19masks.co" static
 local-zone: "www.covid19-masks.co.uk" static
-local-zone: "www.covid19masksforsale.com" static
 local-zone: "www.covid19maskssale.com" static
 local-zone: "www.covid19masks.us" static
 local-zone: "www.covid19masque.com" static
@@ -9034,6 +9040,7 @@ local-zone: "www.covid-19-pandemic.ru" static
 local-zone: "www.covid19parenting.family.blog" static
 local-zone: "www.covid19partners.com" static
 local-zone: "www.covid19pdf.info" static
+local-zone: "www.covid19.pensa.org.mz" static
 local-zone: "www.covid19percentage.com" static
 local-zone: "www.covid19pet.com" static
 local-zone: "www.covid19petpro.com" static

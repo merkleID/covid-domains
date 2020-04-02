@@ -5950,6 +5950,8 @@ local-zone: "covid19-checkup.com" redirect
 local-data: "covid19-checkup.com A 0.0.0.0"
 local-zone: "covid19checkup.net" redirect
 local-data: "covid19checkup.net A 0.0.0.0"
+local-zone: "covid19.cheme.cornell.edu" redirect
+local-data: "covid19.cheme.cornell.edu A 0.0.0.0"
 local-zone: "covid19.chennaipolice.citizenservices.com" redirect
 local-data: "covid19.chennaipolice.citizenservices.com A 0.0.0.0"
 local-zone: "covid19.cherepovetscity.ru" redirect
@@ -8686,6 +8688,8 @@ local-zone: "covid19mask.it" redirect
 local-data: "covid19mask.it A 0.0.0.0"
 local-zone: "covid19maskmakers.com" redirect
 local-data: "covid19maskmakers.com A 0.0.0.0"
+local-zone: "covid19masksale.com" redirect
+local-data: "covid19masksale.com A 0.0.0.0"
 local-zone: "covid19-masksanitizers.com" redirect
 local-data: "covid19-masksanitizers.com A 0.0.0.0"
 local-zone: "covid19masks.co" redirect
@@ -9534,6 +9538,8 @@ local-zone: "covid19.pcvdev.com" redirect
 local-data: "covid19.pcvdev.com A 0.0.0.0"
 local-zone: "covid19pdhelp.com" redirect
 local-data: "covid19pdhelp.com A 0.0.0.0"
+local-zone: "covid19.pensa.org.mz" redirect
+local-data: "covid19.pensa.org.mz A 0.0.0.0"
 local-zone: "covid19percentage.com" redirect
 local-data: "covid19percentage.com A 0.0.0.0"
 local-zone: "covid-19.perfecttechreviews.com" redirect
@@ -10450,8 +10456,6 @@ local-zone: "covid19.shopping" redirect
 local-data: "covid19.shopping A 0.0.0.0"
 local-zone: "covid19shop.ru" redirect
 local-data: "covid19shop.ru A 0.0.0.0"
-local-zone: "covid-19.sibssystems.com" redirect
-local-data: "covid-19.sibssystems.com A 0.0.0.0"
 local-zone: "covid19.sicnova3d.com" redirect
 local-data: "covid19.sicnova3d.com A 0.0.0.0"
 local-zone: "covid19signage.com" redirect
@@ -11670,6 +11674,8 @@ local-zone: "covid-19.vc" redirect
 local-data: "covid-19.vc A 0.0.0.0"
 local-zone: "covid19.vecdis.es" redirect
 local-data: "covid19.vecdis.es A 0.0.0.0"
+local-zone: "covid19vehiclepass.asianhostingserver.website" redirect
+local-data: "covid19vehiclepass.asianhostingserver.website A 0.0.0.0"
 local-zone: "covid19-veiligheid.omgevingkeuze.web5282.cweb04.gamingweb.de" redirect
 local-data: "covid19-veiligheid.omgevingkeuze.web5282.cweb04.gamingweb.de A 0.0.0.0"
 local-zone: "covid19.veltecnetworks.com" redirect
@@ -12772,6 +12778,8 @@ local-zone: "fightcovid19.ch" redirect
 local-data: "fightcovid19.ch A 0.0.0.0"
 local-zone: "fightcovid19.com" redirect
 local-data: "fightcovid19.com A 0.0.0.0"
+local-zone: "fightcovid19donate.site" redirect
+local-data: "fightcovid19donate.site A 0.0.0.0"
 local-zone: "fightcovid19donate.us" redirect
 local-data: "fightcovid19donate.us A 0.0.0.0"
 local-zone: "fightcovid19jobs.com" redirect
@@ -14752,6 +14760,8 @@ local-zone: "pre.covid19-test.org" redirect
 local-data: "pre.covid19-test.org A 0.0.0.0"
 local-zone: "predictions.coronavirus.industries" redirect
 local-data: "predictions.coronavirus.industries A 0.0.0.0"
+local-zone: "preferredcovid19-com.ntc7-p2stl.ezhostingserver.com" redirect
+local-data: "preferredcovid19-com.ntc7-p2stl.ezhostingserver.com A 0.0.0.0"
 local-zone: "prepared-for-coronavirus.com" redirect
 local-data: "prepared-for-coronavirus.com A 0.0.0.0"
 local-zone: "prepareforcoronavirus.com" redirect
@@ -16446,6 +16456,8 @@ local-zone: "world-coronavirus.com" redirect
 local-data: "world-coronavirus.com A 0.0.0.0"
 local-zone: "worldcoronavirusresistance.com" redirect
 local-data: "worldcoronavirusresistance.com A 0.0.0.0"
+local-zone: "worldcovid19maps.com" redirect
+local-data: "worldcovid19maps.com A 0.0.0.0"
 local-zone: "worldcovid19.ml" redirect
 local-data: "worldcovid19.ml A 0.0.0.0"
 local-zone: "worldhelpcovid-19.com" redirect
@@ -17898,6 +17910,8 @@ local-zone: "www.covid-19-italia.it" redirect
 local-data: "www.covid-19-italia.it A 0.0.0.0"
 local-zone: "www.covid19-it.com" redirect
 local-data: "www.covid19-it.com A 0.0.0.0"
+local-zone: "www.covid19ja.com" redirect
+local-data: "www.covid19ja.com A 0.0.0.0"
 local-zone: "www.covid19.joboffer.com.ng" redirect
 local-data: "www.covid19.joboffer.com.ng A 0.0.0.0"
 local-zone: "www.covid19jombang.gatsubro.id" redirect
@@ -17968,8 +17982,6 @@ local-zone: "www.covid19masks.co" redirect
 local-data: "www.covid19masks.co A 0.0.0.0"
 local-zone: "www.covid19-masks.co.uk" redirect
 local-data: "www.covid19-masks.co.uk A 0.0.0.0"
-local-zone: "www.covid19masksforsale.com" redirect
-local-data: "www.covid19masksforsale.com A 0.0.0.0"
 local-zone: "www.covid19maskssale.com" redirect
 local-data: "www.covid19maskssale.com A 0.0.0.0"
 local-zone: "www.covid19masks.us" redirect
@@ -18070,6 +18082,8 @@ local-zone: "www.covid19partners.com" redirect
 local-data: "www.covid19partners.com A 0.0.0.0"
 local-zone: "www.covid19pdf.info" redirect
 local-data: "www.covid19pdf.info A 0.0.0.0"
+local-zone: "www.covid19.pensa.org.mz" redirect
+local-data: "www.covid19.pensa.org.mz A 0.0.0.0"
 local-zone: "www.covid19percentage.com" redirect
 local-data: "www.covid19percentage.com A 0.0.0.0"
 local-zone: "www.covid19pet.com" redirect
