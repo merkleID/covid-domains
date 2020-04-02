@@ -3084,6 +3084,8 @@ local-zone: "coronavirusfamily.com" static
 local-zone: "coronavirusfamilykit.com" static
 local-zone: "coronavirusfamilykits.com" static
 local-zone: "coronavirusfaq.net" static
+local-zone: "coronavirus-faq.online" static
+local-zone: "coronavirus-faq.ru" static
 local-zone: "coronavirusfarce.com" static
 local-zone: "coronavirusfaso.com" static
 local-zone: "coronavirusfastclean.com" static
@@ -7961,7 +7963,6 @@ local-zone: "covid19.opendata.lk" static
 local-zone: "covid19.opendxc.com" static
 local-zone: "covid19.opentic.eu" static
 local-zone: "covid-19-operation-1-ere-urgence.fr" static
-local-zone: "covid19.oracle.com" static
 local-zone: "covid19oracle.com" static
 local-zone: "covid19.ordredemaltefrance.org" static
 local-zone: "covid19oregon.manarahdigital.com" static
@@ -11732,6 +11733,7 @@ local-zone: "nowstopcovid19.com" static
 local-zone: "nracoronavirus.net.au" static
 local-zone: "ns11.covid-19.cafe" static
 local-zone: "ns1.covid-19.cafe" static
+local-zone: "ns9.covid-19.cafe" static
 local-zone: "nu-covid19.xeus.dev" static
 local-zone: "nuevocoronavirus.es" static
 local-zone: "nuovo-coronavirus.com" static
@@ -11761,6 +11763,7 @@ local-zone: "obatcovid19.com" static
 local-zone: "obatherbalviruscorona.com" static
 local-zone: "obatviruscorona.com" static
 local-zone: "observatoriocovid19.org" static
+local-zone: "occitanie.prodcovid19.fr" static
 local-zone: "occoronavirus.com" static
 local-zone: "occovid19.ochealthinfo.com" static
 local-zone: "occupationalcorona.com" static
@@ -14747,6 +14750,7 @@ local-zone: "www.previnacoronavirus.com.br" static
 local-zone: "www.primacovid19.com" static
 local-zone: "www.procoronavirus.site" static
 local-zone: "www.procovid19.com" static
+local-zone: "www.procovid-19.ru" static
 local-zone: "www.projets-coronavirus.fondation-vinci.com" static
 local-zone: "www.protecta-coronavirus.com" static
 local-zone: "www.protectedcovid19.com" static

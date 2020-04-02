@@ -6170,6 +6170,10 @@ local-zone: "coronavirusfamilykits.com" redirect
 local-data: "coronavirusfamilykits.com A 0.0.0.0"
 local-zone: "coronavirusfaq.net" redirect
 local-data: "coronavirusfaq.net A 0.0.0.0"
+local-zone: "coronavirus-faq.online" redirect
+local-data: "coronavirus-faq.online A 0.0.0.0"
+local-zone: "coronavirus-faq.ru" redirect
+local-data: "coronavirus-faq.ru A 0.0.0.0"
 local-zone: "coronavirusfarce.com" redirect
 local-data: "coronavirusfarce.com A 0.0.0.0"
 local-zone: "coronavirusfaso.com" redirect
@@ -15924,8 +15928,6 @@ local-zone: "covid19.opentic.eu" redirect
 local-data: "covid19.opentic.eu A 0.0.0.0"
 local-zone: "covid-19-operation-1-ere-urgence.fr" redirect
 local-data: "covid-19-operation-1-ere-urgence.fr A 0.0.0.0"
-local-zone: "covid19.oracle.com" redirect
-local-data: "covid19.oracle.com A 0.0.0.0"
 local-zone: "covid19oracle.com" redirect
 local-data: "covid19oracle.com A 0.0.0.0"
 local-zone: "covid19.ordredemaltefrance.org" redirect
@@ -23466,6 +23468,8 @@ local-zone: "ns11.covid-19.cafe" redirect
 local-data: "ns11.covid-19.cafe A 0.0.0.0"
 local-zone: "ns1.covid-19.cafe" redirect
 local-data: "ns1.covid-19.cafe A 0.0.0.0"
+local-zone: "ns9.covid-19.cafe" redirect
+local-data: "ns9.covid-19.cafe A 0.0.0.0"
 local-zone: "nu-covid19.xeus.dev" redirect
 local-data: "nu-covid19.xeus.dev A 0.0.0.0"
 local-zone: "nuevocoronavirus.es" redirect
@@ -23524,6 +23528,8 @@ local-zone: "obatviruscorona.com" redirect
 local-data: "obatviruscorona.com A 0.0.0.0"
 local-zone: "observatoriocovid19.org" redirect
 local-data: "observatoriocovid19.org A 0.0.0.0"
+local-zone: "occitanie.prodcovid19.fr" redirect
+local-data: "occitanie.prodcovid19.fr A 0.0.0.0"
 local-zone: "occoronavirus.com" redirect
 local-data: "occoronavirus.com A 0.0.0.0"
 local-zone: "occovid19.ochealthinfo.com" redirect
@@ -29496,6 +29502,8 @@ local-zone: "www.procoronavirus.site" redirect
 local-data: "www.procoronavirus.site A 0.0.0.0"
 local-zone: "www.procovid19.com" redirect
 local-data: "www.procovid19.com A 0.0.0.0"
+local-zone: "www.procovid-19.ru" redirect
+local-data: "www.procovid-19.ru A 0.0.0.0"
 local-zone: "www.projets-coronavirus.fondation-vinci.com" redirect
 local-data: "www.projets-coronavirus.fondation-vinci.com A 0.0.0.0"
 local-zone: "www.protecta-coronavirus.com" redirect
