@@ -290,6 +290,8 @@ local-zone: "againstcorona.com" redirect
 local-data: "againstcorona.com A 0.0.0.0"
 local-zone: "against-coronavirus.com.pl" redirect
 local-data: "against-coronavirus.com.pl A 0.0.0.0"
+local-zone: "againstcovid19.com" redirect
+local-data: "againstcovid19.com A 0.0.0.0"
 local-zone: "againstcovid19.cuhk.edu.hk" redirect
 local-data: "againstcovid19.cuhk.edu.hk A 0.0.0.0"
 local-zone: "againstcovid19.in" redirect
@@ -340,6 +342,8 @@ local-zone: "albuquerquecoronavirus.com" redirect
 local-data: "albuquerquecoronavirus.com A 0.0.0.0"
 local-zone: "alcoronavirus.com" redirect
 local-data: "alcoronavirus.com A 0.0.0.0"
+local-zone: "alcovid19.magicandwires.com" redirect
+local-data: "alcovid19.magicandwires.com A 0.0.0.0"
 local-zone: "alertacoronavirus.info" redirect
 local-data: "alertacoronavirus.info A 0.0.0.0"
 local-zone: "alertacoronavirus.net" redirect
@@ -4376,8 +4380,6 @@ local-zone: "coronavirus-api.net" redirect
 local-data: "coronavirus-api.net A 0.0.0.0"
 local-zone: "coronavirusapi.sushipython.repl.run" redirect
 local-data: "coronavirusapi.sushipython.repl.run A 0.0.0.0"
-local-zone: "coronavirus.apk2mod.xyz" redirect
-local-data: "coronavirus.apk2mod.xyz A 0.0.0.0"
 local-zone: "coronavirus.app" redirect
 local-data: "coronavirus.app A 0.0.0.0"
 local-zone: "coronavirus.appadoo.co.uk" redirect
@@ -13718,6 +13720,8 @@ local-zone: "covid19.healtheguard.com" redirect
 local-data: "covid19.healtheguard.com A 0.0.0.0"
 local-zone: "covid19.health.gov.de" redirect
 local-data: "covid19.health.gov.de A 0.0.0.0"
+local-zone: "covid19.health.gov.gy" redirect
+local-data: "covid19.health.gov.gy A 0.0.0.0"
 local-zone: "covid-19.health.gov.lk" redirect
 local-data: "covid-19.health.gov.lk A 0.0.0.0"
 local-zone: "covid19healthkit.com" redirect
@@ -13832,6 +13836,8 @@ local-zone: "covid19homekit.com" redirect
 local-data: "covid19homekit.com A 0.0.0.0"
 local-zone: "covid19-home-office.de" redirect
 local-data: "covid19-home-office.de A 0.0.0.0"
+local-zone: "covid19.homeon.com.au" redirect
+local-data: "covid19.homeon.com.au A 0.0.0.0"
 local-zone: "covid-19homeopathic.com" redirect
 local-data: "covid-19homeopathic.com A 0.0.0.0"
 local-zone: "covid-19homeopathy.com" redirect
@@ -14382,8 +14388,6 @@ local-zone: "covid19.javieroliver.co" redirect
 local-data: "covid19.javieroliver.co A 0.0.0.0"
 local-zone: "covid19.jayapurakab.go.id" redirect
 local-data: "covid19.jayapurakab.go.id A 0.0.0.0"
-local-zone: "covid19.jaysoni.info" redirect
-local-data: "covid19.jaysoni.info A 0.0.0.0"
 local-zone: "covid-19.jean-francois-labbe.com" redirect
 local-data: "covid-19.jean-francois-labbe.com A 0.0.0.0"
 local-zone: "covid19.jeeonconnect.com" redirect
@@ -20120,6 +20124,8 @@ local-zone: "educationandcoronavirus.co.uk" redirect
 local-data: "educationandcoronavirus.co.uk A 0.0.0.0"
 local-zone: "educationcovid19.com" redirect
 local-data: "educationcovid19.com A 0.0.0.0"
+local-zone: "education.covid19.houseliver.com" redirect
+local-data: "education.covid19.houseliver.com A 0.0.0.0"
 local-zone: "educovid19.ca" redirect
 local-data: "educovid19.ca A 0.0.0.0"
 local-zone: "eduvemcovid19.eduvem.com" redirect
@@ -26454,6 +26460,8 @@ local-zone: "wehavecoronavirus.com" redirect
 local-data: "wehavecoronavirus.com A 0.0.0.0"
 local-zone: "wehavecoronavirusmasks.com" redirect
 local-data: "wehavecoronavirusmasks.com A 0.0.0.0"
+local-zone: "westcoastcovid19help.com" redirect
+local-data: "westcoastcovid19help.com A 0.0.0.0"
 local-zone: "westfieldcouncilcovid19.com" redirect
 local-data: "westfieldcouncilcovid19.com A 0.0.0.0"
 local-zone: "westopcoronavirus.com" redirect
@@ -29452,6 +29460,8 @@ local-zone: "www.webcovid-19.live" redirect
 local-data: "www.webcovid-19.live A 0.0.0.0"
 local-zone: "www.wesccovid19.net" redirect
 local-data: "www.wesccovid19.net A 0.0.0.0"
+local-zone: "www.westcoastcovid19help.com" redirect
+local-data: "www.westcoastcovid19help.com A 0.0.0.0"
 local-zone: "www.wesurvivedcoronavirus.store" redirect
 local-data: "www.wesurvivedcoronavirus.store A 0.0.0.0"
 local-zone: "www.whatiscovid-19.co.uk" redirect
