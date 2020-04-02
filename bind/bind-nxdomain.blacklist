@@ -122,6 +122,8 @@ dns-zone-blacklist. IN NS localhost.
 *.3dcovid19.org CNAME .
 3dcovid19.tech.mornings4.com CNAME .
 *.3dcovid19.tech.mornings4.com CNAME .
+3dprintforcovid19.azores.net CNAME .
+*.3dprintforcovid19.azores.net CNAME .
 3f2feb80.test.covid-19.forms.digital.nhs.uk CNAME .
 *.3f2feb80.test.covid-19.forms.digital.nhs.uk CNAME .
 411coronacash.com CNAME .
@@ -13410,6 +13412,12 @@ covid19glbr.com CNAME .
 *.covid19glbr.com CNAME .
 covid-19.global3.com.br CNAME .
 *.covid-19.global3.com.br CNAME .
+covid19globalactionplan.com CNAME .
+*.covid19globalactionplan.com CNAME .
+covid19globalactionplan.net CNAME .
+*.covid19globalactionplan.net CNAME .
+covid19globalactionplan.org CNAME .
+*.covid19globalactionplan.org CNAME .
 covid19globalemployment.com CNAME .
 *.covid19globalemployment.com CNAME .
 covid19globalemploymenttracker.com CNAME .
@@ -13538,8 +13546,6 @@ covid19greencard.com CNAME .
 *.covid19greencard.com CNAME .
 covid19.greencloudsolution.com CNAME .
 *.covid19.greencloudsolution.com CNAME .
-covid19.gripe CNAME .
-*.covid19.gripe CNAME .
 covid19-grocery.com CNAME .
 *.covid19-grocery.com CNAME .
 covid19groupaction.co.uk CNAME .
@@ -14990,6 +14996,8 @@ covid-19mask.world CNAME .
 *.covid-19mask.world CNAME .
 covid19.masykuriikhsan.com CNAME .
 *.covid19.masykuriikhsan.com CNAME .
+covid19.matchers.fr CNAME .
+*.covid19.matchers.fr CNAME .
 covid19matching.com CNAME .
 *.covid19matching.com CNAME .
 covid19.matthewgove.com CNAME .
@@ -15340,6 +15348,8 @@ covid19naija.com CNAME .
 *.covid19naija.com CNAME .
 covid-19naijaland.packagees.com CNAME .
 *.covid-19naijaland.packagees.com CNAME .
+covid19.naijamodapk.com CNAME .
+*.covid19.naijamodapk.com CNAME .
 covid19naija.oeaconsults.com CNAME .
 *.covid19naija.oeaconsults.com CNAME .
 covid19.na.infn.it CNAME .
@@ -15850,6 +15860,8 @@ covid19-patient-monitoring.com CNAME .
 *.covid19-patient-monitoring.com CNAME .
 covid19.patralogistik.com CNAME .
 *.covid19.patralogistik.com CNAME .
+covid19.patriciadev.com CNAME .
+*.covid19.patriciadev.com CNAME .
 covid19.patriothomecare.org CNAME .
 *.covid19.patriothomecare.org CNAME .
 covid19patrol.es CNAME .
@@ -16440,6 +16452,8 @@ covid19-responsible.net CNAME .
 *.covid19-responsible.net CNAME .
 covid19restroomssigns.com CNAME .
 *.covid19restroomssigns.com CNAME .
+covid19.rethinkmyhealthcare.com CNAME .
+*.covid19.rethinkmyhealthcare.com CNAME .
 covid19.revision.show CNAME .
 *.covid19.revision.show CNAME .
 covid19.revolution.ca CNAME .
@@ -17688,6 +17702,8 @@ covid19testsupply.com CNAME .
 *.covid19testsupply.com CNAME .
 covid19testuk.com CNAME .
 *.covid19testuk.com CNAME .
+covid19teszt.hu CNAME .
+*.covid19teszt.hu CNAME .
 covid19.texashealthinstitute.org CNAME .
 *.covid19.texashealthinstitute.org CNAME .
 covid19texasscreen.com CNAME .
@@ -22160,8 +22176,6 @@ maringacontraocovid19.com.br CNAME .
 *.maringacontraocovid19.com.br CNAME .
 marketcap.covid19mapper.com CNAME .
 *.marketcap.covid19mapper.com CNAME .
-marketplacecovid19.gal CNAME .
-*.marketplacecovid19.gal CNAME .
 marylandccprojectcovid19.com CNAME .
 *.marylandccprojectcovid19.com CNAME .
 marylandcoronavirus.com CNAME .
@@ -25204,8 +25218,6 @@ terminatecorona.com CNAME .
 *.terminatecorona.com CNAME .
 terminate-coronavirus.com CNAME .
 *.terminate-coronavirus.com CNAME .
-test1.covid-19.swdemos.net CNAME .
-*.test1.covid-19.swdemos.net CNAME .
 test4corona.com CNAME .
 *.test4corona.com CNAME .
 test4coronavirus.ru CNAME .
@@ -27812,6 +27824,8 @@ www.covid19getlifeinsurancenow.com CNAME .
 *.www.covid19getlifeinsurancenow.com CNAME .
 www.covid19.gitbook.io CNAME .
 *.www.covid19.gitbook.io CNAME .
+www.covid19globalactionplan.com CNAME .
+*.www.covid19globalactionplan.com CNAME .
 www.covid-19.gob.com CNAME .
 *.www.covid-19.gob.com CNAME .
 www.covid19.go.id CNAME .
@@ -29196,6 +29210,8 @@ www.teamcoronavirus.com CNAME .
 *.www.teamcoronavirus.com CNAME .
 www.test-coronavirus.com.ar CNAME .
 *.www.test-coronavirus.com.ar CNAME .
+www.testcoronavirus.gr CNAME .
+*.www.testcoronavirus.gr CNAME .
 www.testcoronavirus.today CNAME .
 *.www.testcoronavirus.today CNAME .
 www.test-for-covid19.com CNAME .
