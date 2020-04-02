@@ -411,6 +411,7 @@
 0.0.0.0 api.perf.test.covid-19.forms.digital.nhs.uk
 0.0.0.0 api.preview.test.covid-19.forms.digital.nhs.uk
 0.0.0.0 api-prod.coronavirusinfo.cl
+0.0.0.0 apiqa.ppecovid19.com
 0.0.0.0 api.rapidcovid19.rymedi.com
 0.0.0.0 api.rapidtest.relawancovid19.id
 0.0.0.0 api.reportecovid19.com
@@ -550,6 +551,7 @@
 0.0.0.0 baptisthealth-coronavirus.com
 0.0.0.0 barcovid19.org
 0.0.0.0 barrierecoronavirus.com
+0.0.0.0 bastacoronavirus.com.br
 0.0.0.0 battlecorona.com
 0.0.0.0 battlecovid19.zendesk.com
 0.0.0.0 bayer-covid19-updates.now.sh
@@ -559,7 +561,6 @@
 0.0.0.0 bb-covid-19.agenciavirtuals.com
 0.0.0.0 bbkcoronavirus.com
 0.0.0.0 bbqcoronavirus.com
-0.0.0.0 bbs.4covid19.club
 0.0.0.0 bccovid-19group.ca
 0.0.0.0 beacon-candidate.covid-19.dnastack.com
 0.0.0.0 beacon-candidate.staging.covid-19.dnastack.com
@@ -4286,6 +4287,7 @@
 0.0.0.0 coronaviruspod.com
 0.0.0.0 coronavirus.podemosburlada.info
 0.0.0.0 coronavirus.podiatrywales.co.uk
+0.0.0.0 coronaviruspoems.com
 0.0.0.0 coronaviruspoland.com
 0.0.0.0 coronavirus.polgol.com
 0.0.0.0 coronaviruspolicy.com
@@ -5569,7 +5571,6 @@
 0.0.0.0 covid19.angga.dev
 0.0.0.0 covid-19.angosocial.com
 0.0.0.0 covid19.angri.net
-0.0.0.0 covid19.angstrom.bio
 0.0.0.0 covid19.anirbandash.in
 0.0.0.0 covid19.anmedia.us
 0.0.0.0 covid19.anpass.com
@@ -6238,6 +6239,7 @@
 0.0.0.0 covid-19.cute-alien.com
 0.0.0.0 covid19cvm.com
 0.0.0.0 covid19.cwerner.ai
+0.0.0.0 covid19.cwri.net
 0.0.0.0 covid19.cyber-dev.ru
 0.0.0.0 covid19.cybernyon.com
 0.0.0.0 covid19.cyberteam.us
@@ -7578,7 +7580,6 @@
 0.0.0.0 covid19.mcmaster.ca
 0.0.0.0 covid-19.mcmc.gov.my
 0.0.0.0 covid19.mdaas.io
-0.0.0.0 covid19.mdsinsure.com.br
 0.0.0.0 covid19measures.com
 0.0.0.0 covid19me.com
 0.0.0.0 covid19.medanalises.net
@@ -7690,6 +7691,7 @@
 0.0.0.0 covid19montebello.it
 0.0.0.0 covid19.morawaka.com
 0.0.0.0 covid19.morepatientsnow.com
+0.0.0.0 covid-19.morowalikab.go.id
 0.0.0.0 covid19-moscow.ru
 0.0.0.0 covid19-moseslake.k-gangan.com
 0.0.0.0 covid19.motimate.app
@@ -8483,6 +8485,7 @@
 0.0.0.0 covid19.sebastienvezina.com
 0.0.0.0 covid19secrets.com
 0.0.0.0 covid19.seed.dev
+0.0.0.0 covid19.sefac.tv
 0.0.0.0 covid19.sehatkita.id
 0.0.0.0 covid19.seidorlatam.com
 0.0.0.0 covid-19-selfcheck.emmanuelnyachoke.com
@@ -8850,6 +8853,7 @@
 0.0.0.0 covid19.tech-advocates.com
 0.0.0.0 covid19.techiteasy.in.th
 0.0.0.0 covid19.techlift.in
+0.0.0.0 covid19.technolab32.fr
 0.0.0.0 covid19.technovere.com
 0.0.0.0 covid19tech.org
 0.0.0.0 covid19.techranco.ir
@@ -10291,6 +10295,7 @@
 0.0.0.0 factsoncovid-19.com
 0.0.0.0 factsoncovid19.com
 0.0.0.0 factsonpandemic.com
+0.0.0.0 faeccadizcovid19.com
 0.0.0.0 fakecoronavirus.com
 0.0.0.0 famososcomcoronavirus.com.br
 0.0.0.0 faq.coronavirus.gov
@@ -12335,7 +12340,6 @@
 0.0.0.0 sars-coronavirus.org
 0.0.0.0 sars-cov-2.agency
 0.0.0.0 sars-cov-2.at
-0.0.0.0 sars-cov-2.best
 0.0.0.0 sars-cov-2.center
 0.0.0.0 sars-cov-2.codes
 0.0.0.0 sars-cov-2.date
@@ -12689,6 +12693,7 @@
 0.0.0.0 survivingcoronavirusoutbreak.com
 0.0.0.0 survivingcovid19.com
 0.0.0.0 survivingcovid19.life
+0.0.0.0 survivingcovid19.nl
 0.0.0.0 survivingcovid19.org
 0.0.0.0 survivingcovid.com
 0.0.0.0 survivingthepandemic.com
@@ -12720,7 +12725,6 @@
 0.0.0.0 tech4covid19.org
 0.0.0.0 techagainstcoronavir.com
 0.0.0.0 techagainstcoronavirus.com
-0.0.0.0 teddyvscoronavirus.blog
 0.0.0.0 tedscoronavirussafetytips.com
 0.0.0.0 teebrasilcorona.com
 0.0.0.0 teepandemic.com
@@ -14533,7 +14537,6 @@
 0.0.0.0 www.lluhpicucovid19hub.com
 0.0.0.0 www.lluhpicucovid19hub.org
 0.0.0.0 www.lojacoronavirus.com
-0.0.0.0 www.loveinatimeofcoronavirus.blog
 0.0.0.0 www.loveinatimeofcoronavirus.com
 0.0.0.0 www.loveintheageofcoronaviruses.com
 0.0.0.0 www.lowereastside-covid19.com

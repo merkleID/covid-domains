@@ -828,6 +828,8 @@ api.preview.test.covid-19.forms.digital.nhs.uk CNAME .
 *.api.preview.test.covid-19.forms.digital.nhs.uk CNAME .
 api-prod.coronavirusinfo.cl CNAME .
 *.api-prod.coronavirusinfo.cl CNAME .
+apiqa.ppecovid19.com CNAME .
+*.apiqa.ppecovid19.com CNAME .
 api.rapidcovid19.rymedi.com CNAME .
 *.api.rapidcovid19.rymedi.com CNAME .
 api.rapidtest.relawancovid19.id CNAME .
@@ -1106,6 +1108,8 @@ barcovid19.org CNAME .
 *.barcovid19.org CNAME .
 barrierecoronavirus.com CNAME .
 *.barrierecoronavirus.com CNAME .
+bastacoronavirus.com.br CNAME .
+*.bastacoronavirus.com.br CNAME .
 battlecorona.com CNAME .
 *.battlecorona.com CNAME .
 battlecovid19.zendesk.com CNAME .
@@ -1124,8 +1128,6 @@ bbkcoronavirus.com CNAME .
 *.bbkcoronavirus.com CNAME .
 bbqcoronavirus.com CNAME .
 *.bbqcoronavirus.com CNAME .
-bbs.4covid19.club CNAME .
-*.bbs.4covid19.club CNAME .
 bccovid-19group.ca CNAME .
 *.bccovid-19group.ca CNAME .
 beacon-candidate.covid-19.dnastack.com CNAME .
@@ -8578,6 +8580,8 @@ coronavirus.podemosburlada.info CNAME .
 *.coronavirus.podemosburlada.info CNAME .
 coronavirus.podiatrywales.co.uk CNAME .
 *.coronavirus.podiatrywales.co.uk CNAME .
+coronaviruspoems.com CNAME .
+*.coronaviruspoems.com CNAME .
 coronaviruspoland.com CNAME .
 *.coronaviruspoland.com CNAME .
 coronavirus.polgol.com CNAME .
@@ -11144,8 +11148,6 @@ covid-19.angosocial.com CNAME .
 *.covid-19.angosocial.com CNAME .
 covid19.angri.net CNAME .
 *.covid19.angri.net CNAME .
-covid19.angstrom.bio CNAME .
-*.covid19.angstrom.bio CNAME .
 covid19.anirbandash.in CNAME .
 *.covid19.anirbandash.in CNAME .
 covid19.anmedia.us CNAME .
@@ -12482,6 +12484,8 @@ covid19cvm.com CNAME .
 *.covid19cvm.com CNAME .
 covid19.cwerner.ai CNAME .
 *.covid19.cwerner.ai CNAME .
+covid19.cwri.net CNAME .
+*.covid19.cwri.net CNAME .
 covid19.cyber-dev.ru CNAME .
 *.covid19.cyber-dev.ru CNAME .
 covid19.cybernyon.com CNAME .
@@ -15162,8 +15166,6 @@ covid-19.mcmc.gov.my CNAME .
 *.covid-19.mcmc.gov.my CNAME .
 covid19.mdaas.io CNAME .
 *.covid19.mdaas.io CNAME .
-covid19.mdsinsure.com.br CNAME .
-*.covid19.mdsinsure.com.br CNAME .
 covid19measures.com CNAME .
 *.covid19measures.com CNAME .
 covid19me.com CNAME .
@@ -15386,6 +15388,8 @@ covid19.morawaka.com CNAME .
 *.covid19.morawaka.com CNAME .
 covid19.morepatientsnow.com CNAME .
 *.covid19.morepatientsnow.com CNAME .
+covid-19.morowalikab.go.id CNAME .
+*.covid-19.morowalikab.go.id CNAME .
 covid19-moscow.ru CNAME .
 *.covid19-moscow.ru CNAME .
 covid19-moseslake.k-gangan.com CNAME .
@@ -16972,6 +16976,8 @@ covid19secrets.com CNAME .
 *.covid19secrets.com CNAME .
 covid19.seed.dev CNAME .
 *.covid19.seed.dev CNAME .
+covid19.sefac.tv CNAME .
+*.covid19.sefac.tv CNAME .
 covid19.sehatkita.id CNAME .
 *.covid19.sehatkita.id CNAME .
 covid19.seidorlatam.com CNAME .
@@ -17706,6 +17712,8 @@ covid19.techiteasy.in.th CNAME .
 *.covid19.techiteasy.in.th CNAME .
 covid19.techlift.in CNAME .
 *.covid19.techlift.in CNAME .
+covid19.technolab32.fr CNAME .
+*.covid19.technolab32.fr CNAME .
 covid19.technovere.com CNAME .
 *.covid19.technovere.com CNAME .
 covid19tech.org CNAME .
@@ -20588,6 +20596,8 @@ factsoncovid19.com CNAME .
 *.factsoncovid19.com CNAME .
 factsonpandemic.com CNAME .
 *.factsonpandemic.com CNAME .
+faeccadizcovid19.com CNAME .
+*.faeccadizcovid19.com CNAME .
 fakecoronavirus.com CNAME .
 *.fakecoronavirus.com CNAME .
 famososcomcoronavirus.com.br CNAME .
@@ -24676,8 +24686,6 @@ sars-cov-2.agency CNAME .
 *.sars-cov-2.agency CNAME .
 sars-cov-2.at CNAME .
 *.sars-cov-2.at CNAME .
-sars-cov-2.best CNAME .
-*.sars-cov-2.best CNAME .
 sars-cov-2.center CNAME .
 *.sars-cov-2.center CNAME .
 sars-cov-2.codes CNAME .
@@ -25384,6 +25392,8 @@ survivingcovid19.com CNAME .
 *.survivingcovid19.com CNAME .
 survivingcovid19.life CNAME .
 *.survivingcovid19.life CNAME .
+survivingcovid19.nl CNAME .
+*.survivingcovid19.nl CNAME .
 survivingcovid19.org CNAME .
 *.survivingcovid19.org CNAME .
 survivingcovid.com CNAME .
@@ -25446,8 +25456,6 @@ techagainstcoronavir.com CNAME .
 *.techagainstcoronavir.com CNAME .
 techagainstcoronavirus.com CNAME .
 *.techagainstcoronavirus.com CNAME .
-teddyvscoronavirus.blog CNAME .
-*.teddyvscoronavirus.blog CNAME .
 tedscoronavirussafetytips.com CNAME .
 *.tedscoronavirussafetytips.com CNAME .
 teebrasilcorona.com CNAME .
@@ -29072,8 +29080,6 @@ www.lluhpicucovid19hub.org CNAME .
 *.www.lluhpicucovid19hub.org CNAME .
 www.lojacoronavirus.com CNAME .
 *.www.lojacoronavirus.com CNAME .
-www.loveinatimeofcoronavirus.blog CNAME .
-*.www.loveinatimeofcoronavirus.blog CNAME .
 www.loveinatimeofcoronavirus.com CNAME .
 *.www.loveinatimeofcoronavirus.com CNAME .
 www.loveintheageofcoronaviruses.com CNAME .
