@@ -1218,6 +1218,8 @@ local-zone: "bestcoronasanitizer.com" redirect
 local-data: "bestcoronasanitizer.com A 0.0.0.0"
 local-zone: "bestcoronavirus.com" redirect
 local-data: "bestcoronavirus.com A 0.0.0.0"
+local-zone: "bestcoronavirusmask.com" redirect
+local-data: "bestcoronavirusmask.com A 0.0.0.0"
 local-zone: "bestcoronavirusmasksale.com" redirect
 local-data: "bestcoronavirusmasksale.com A 0.0.0.0"
 local-zone: "bestcoronavirusprotection.org" redirect
@@ -1736,6 +1738,8 @@ local-zone: "cmc542.covid19.eas.cornell.edu" redirect
 local-data: "cmc542.covid19.eas.cornell.edu A 0.0.0.0"
 local-zone: "cmccovid19.org.ly" redirect
 local-data: "cmccovid19.org.ly A 0.0.0.0"
+local-zone: "cmccovid19.yodatest.com.ly" redirect
+local-data: "cmccovid19.yodatest.com.ly A 0.0.0.0"
 local-zone: "cmcovid19.com" redirect
 local-data: "cmcovid19.com A 0.0.0.0"
 local-zone: "cms.covid19live.kz" redirect
@@ -6380,6 +6384,8 @@ local-zone: "coronavirusgen.com" redirect
 local-data: "coronavirusgen.com A 0.0.0.0"
 local-zone: "coronavirus.generaindustrial.cl" redirect
 local-data: "coronavirus.generaindustrial.cl A 0.0.0.0"
+local-zone: "coronavirus-generator.fun" redirect
+local-data: "coronavirus-generator.fun A 0.0.0.0"
 local-zone: "coronavirusgenesis.com" redirect
 local-data: "coronavirusgenesis.com A 0.0.0.0"
 local-zone: "coronavirus.gene-xpress.com.my" redirect
@@ -11460,6 +11466,8 @@ local-zone: "covid19.banglikab.go.id" redirect
 local-data: "covid19.banglikab.go.id A 0.0.0.0"
 local-zone: "covid19.bangnam.com" redirect
 local-data: "covid19.bangnam.com A 0.0.0.0"
+local-zone: "covid19.bankbangunartha.com" redirect
+local-data: "covid19.bankbangunartha.com A 0.0.0.0"
 local-zone: "covid19bank.com" redirect
 local-data: "covid19bank.com A 0.0.0.0"
 local-zone: "covid19bankruptcies.com" redirect
@@ -11570,6 +11578,8 @@ local-zone: "covid-19.bibok.ru" redirect
 local-data: "covid-19.bibok.ru A 0.0.0.0"
 local-zone: "covid19biden.com" redirect
 local-data: "covid19biden.com A 0.0.0.0"
+local-zone: "covid19.bigfatfunmachine.com" redirect
+local-data: "covid19.bigfatfunmachine.com A 0.0.0.0"
 local-zone: "covid19bilgi.com" redirect
 local-data: "covid19bilgi.com A 0.0.0.0"
 local-zone: "covid19.bilgiler.site" redirect
@@ -11596,8 +11606,6 @@ local-zone: "covid19birthdefects.com" redirect
 local-data: "covid19birthdefects.com A 0.0.0.0"
 local-zone: "covid19.bitofdata.ro" redirect
 local-data: "covid19.bitofdata.ro A 0.0.0.0"
-local-zone: "covid-19.bitsorchestra.com" redirect
-local-data: "covid-19.bitsorchestra.com A 0.0.0.0"
 local-zone: "covid19.biwyze.fr" redirect
 local-data: "covid19.biwyze.fr A 0.0.0.0"
 local-zone: "covid19bizhelp.com" redirect
@@ -13196,6 +13204,8 @@ local-zone: "covid19exposed.com" redirect
 local-data: "covid19exposed.com A 0.0.0.0"
 local-zone: "covid-19exposure.com" redirect
 local-data: "covid-19exposure.com A 0.0.0.0"
+local-zone: "covid-19.exposure-systems.com" redirect
+local-data: "covid-19.exposure-systems.com A 0.0.0.0"
 local-zone: "covid19.expressgrafica.com" redirect
 local-data: "covid19.expressgrafica.com A 0.0.0.0"
 local-zone: "covid19exterminate.com" redirect
@@ -17110,6 +17120,8 @@ local-zone: "covid19shirts.ca" redirect
 local-data: "covid19shirts.ca A 0.0.0.0"
 local-zone: "covid19shirts.one" redirect
 local-data: "covid19shirts.one A 0.0.0.0"
+local-zone: "covid19shitlist.co.uk" redirect
+local-data: "covid19shitlist.co.uk A 0.0.0.0"
 local-zone: "covid19.shopify-ns1.com" redirect
 local-data: "covid19.shopify-ns1.com A 0.0.0.0"
 local-zone: "covid19shop.net" redirect
@@ -18050,6 +18062,8 @@ local-zone: "covid-19.tillniese.com" redirect
 local-data: "covid-19.tillniese.com A 0.0.0.0"
 local-zone: "covid19.timaru.govt.nz" redirect
 local-data: "covid19.timaru.govt.nz A 0.0.0.0"
+local-zone: "covid19.timbr.ai" redirect
+local-data: "covid19.timbr.ai A 0.0.0.0"
 local-zone: "covid-19-timeline.now.sh" redirect
 local-data: "covid-19-timeline.now.sh A 0.0.0.0"
 local-zone: "covid19times.com" redirect
@@ -18700,6 +18714,8 @@ local-zone: "covid19.wealthmarketglobal.com" redirect
 local-data: "covid19.wealthmarketglobal.com A 0.0.0.0"
 local-zone: "covid19wear.com" redirect
 local-data: "covid19wear.com A 0.0.0.0"
+local-zone: "covid19.wearelegalshield.com" redirect
+local-data: "covid19.wearelegalshield.com A 0.0.0.0"
 local-zone: "covid19.webbions.com" redirect
 local-data: "covid19.webbions.com A 0.0.0.0"
 local-zone: "covid19.webdufaso.com" redirect
@@ -28222,6 +28238,8 @@ local-zone: "www.covid19helpers.app" redirect
 local-data: "www.covid19helpers.app A 0.0.0.0"
 local-zone: "www.covid19help.live" redirect
 local-data: "www.covid19help.live A 0.0.0.0"
+local-zone: "www.covid-19-help.online" redirect
+local-data: "www.covid-19-help.online A 0.0.0.0"
 local-zone: "www.covid-19helps.com" redirect
 local-data: "www.covid-19helps.com A 0.0.0.0"
 local-zone: "www.covid19help.shop" redirect
@@ -29272,6 +29290,8 @@ local-zone: "www.nmcovid19.org" redirect
 local-data: "www.nmcovid19.org A 0.0.0.0"
 local-zone: "www.no-covid19.online" redirect
 local-data: "www.no-covid19.online A 0.0.0.0"
+local-zone: "www.nocovid19symptoms.com" redirect
+local-data: "www.nocovid19symptoms.com A 0.0.0.0"
 local-zone: "www.nomorecovid-19.com" redirect
 local-data: "www.nomorecovid-19.com A 0.0.0.0"
 local-zone: "www.nonprofitcovid19.org" redirect
