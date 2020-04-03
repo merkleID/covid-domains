@@ -1152,8 +1152,6 @@ aides-urgence-covid19.iledefrance.fr CNAME .
 *.aides-urgence-covid19.iledefrance.fr CNAME .
 aidforcorona.com CNAME .
 *.aidforcorona.com CNAME .
-aidforcoronavirus.com CNAME .
-*.aidforcoronavirus.com CNAME .
 aiepidemics.com CNAME .
 *.aiepidemics.com CNAME .
 aiforcovid.com CNAME .
@@ -3262,8 +3260,6 @@ bangkok-covid-19-update.com CNAME .
 *.bangkok-covid-19-update.com CNAME .
 bangladeshcoronavirus.com CNAME .
 *.bangladeshcoronavirus.com CNAME .
-bankofamericacovid-19.com CNAME .
-*.bankofamericacovid-19.com CNAME .
 bankruptcyaftercorona.com CNAME .
 *.bankruptcyaftercorona.com CNAME .
 bankruptcycorona.com CNAME .
@@ -24090,6 +24086,8 @@ coronavirusabogado.com CNAME .
 *.coronavirusabogado.com CNAME .
 coronavirusabogados.com CNAME .
 *.coronavirusabogados.com CNAME .
+coronavirusabogados.es CNAME .
+*.coronavirusabogados.es CNAME .
 coronavirusabout.com CNAME .
 *.coronavirusabout.com CNAME .
 coronavirus-about.ru CNAME .
@@ -25110,6 +25108,8 @@ coronavirusbelgique.com CNAME .
 *.coronavirusbelgique.com CNAME .
 coronavirusbelgium.com CNAME .
 *.coronavirusbelgium.com CNAME .
+coronavirus-belgium.online CNAME .
+*.coronavirus-belgium.online CNAME .
 coronavirus.belhoussine.com CNAME .
 *.coronavirus.belhoussine.com CNAME .
 coronavirusbellcurve.com CNAME .
@@ -25378,6 +25378,8 @@ coronavirusbrasilstatus.com CNAME .
 *.coronavirusbrasilstatus.com CNAME .
 coronavirus-brazil.com CNAME .
 *.coronavirus-brazil.com CNAME .
+coronavirus-brazil.online CNAME .
+*.coronavirus-brazil.online CNAME .
 coronavirusbr.com CNAME .
 *.coronavirusbr.com CNAME .
 coronavirusbreak.com CNAME .
@@ -29424,6 +29426,8 @@ coronavirus-france.net CNAME .
 *.coronavirus-france.net CNAME .
 coronavirusfrance.net CNAME .
 *.coronavirusfrance.net CNAME .
+coronavirus-france.online CNAME .
+*.coronavirus-france.online CNAME .
 coronavirusfrance.org CNAME .
 *.coronavirusfrance.org CNAME .
 coronavirusfrance.xyz CNAME .
@@ -29908,6 +29912,8 @@ coronavirusgraphs.com CNAME .
 *.coronavirusgraphs.com CNAME .
 coronavirus.gratis CNAME .
 *.coronavirus.gratis CNAME .
+coronavirus-greatbritain.online CNAME .
+*.coronavirus-greatbritain.online CNAME .
 coronavirusgreatdepression.com CNAME .
 *.coronavirusgreatdepression.com CNAME .
 coronavirusgreatrecession.com CNAME .
@@ -31312,6 +31318,8 @@ coronavirusiqtest.com CNAME .
 *.coronavirusiqtest.com CNAME .
 coronavirusiran.com CNAME .
 *.coronavirusiran.com CNAME .
+coronavirus-iran.online CNAME .
+*.coronavirus-iran.online CNAME .
 coronavirusiraq.akrons.ca CNAME .
 *.coronavirusiraq.akrons.ca CNAME .
 coronavirusiraq.com CNAME .
@@ -31358,6 +31366,8 @@ coronavirusisrael.com CNAME .
 *.coronavirusisrael.com CNAME .
 coronavirusisrael.live CNAME .
 *.coronavirusisrael.live CNAME .
+coronavirus-israel.online CNAME .
+*.coronavirus-israel.online CNAME .
 coronavirusisreal.com CNAME .
 *.coronavirusisreal.com CNAME .
 coronavirusissue.com CNAME .
@@ -37524,6 +37534,8 @@ coronavirussweden.com CNAME .
 *.coronavirussweden.com CNAME .
 coronavirusswitzerland.com CNAME .
 *.coronavirusswitzerland.com CNAME .
+coronavirus-switzerland.online CNAME .
+*.coronavirus-switzerland.online CNAME .
 coronaviruss.world CNAME .
 *.coronaviruss.world CNAME .
 coronavirussxsw.com CNAME .
@@ -38764,6 +38776,8 @@ coronavirustunisie.com CNAME .
 *.coronavirustunisie.com CNAME .
 coronavirusturk.com CNAME .
 *.coronavirusturk.com CNAME .
+coronavirus-turkey.online CNAME .
+*.coronavirus-turkey.online CNAME .
 coronavirus-turkiye.com CNAME .
 *.coronavirus-turkiye.com CNAME .
 coronavirustutelalegale.com CNAME .
@@ -39678,6 +39692,8 @@ coronaviruswife.com CNAME .
 *.coronaviruswife.com CNAME .
 coronavirus-wiki.com CNAME .
 *.coronavirus-wiki.com CNAME .
+coronaviruswiki.live CNAME .
+*.coronaviruswiki.live CNAME .
 coronaviruswiki.ru CNAME .
 *.coronaviruswiki.ru CNAME .
 coronaviruswiki.southbeach.com.au CNAME .
@@ -45612,6 +45628,10 @@ covid19debtrelief.com CNAME .
 *.covid19debtrelief.com CNAME .
 covid19debtrelief.credit CNAME .
 *.covid19debtrelief.credit CNAME .
+covid19debtrelief.lawyer CNAME .
+*.covid19debtrelief.lawyer CNAME .
+covid19debtrelief.loans CNAME .
+*.covid19debtrelief.loans CNAME .
 covid19debtrelief.org CNAME .
 *.covid19debtrelief.org CNAME .
 covid19debts.com CNAME .
@@ -47976,6 +47996,8 @@ covid19-game.com CNAME .
 *.covid19-game.com CNAME .
 covid19game.co.uk CNAME .
 *.covid19game.co.uk CNAME .
+covid19game.fr CNAME .
+*.covid19game.fr CNAME .
 covid19game.net CNAME .
 *.covid19game.net CNAME .
 covid-19gameplan.com CNAME .
@@ -54406,6 +54428,8 @@ covid19portal.net CNAME .
 *.covid19portal.net CNAME .
 covid19portland.com CNAME .
 *.covid19portland.com CNAME .
+covid19.portoenorte.pt CNAME .
+*.covid19.portoenorte.pt CNAME .
 covid19-portugal.com CNAME .
 *.covid19-portugal.com CNAME .
 covid19portugal.com CNAME .
@@ -54482,6 +54506,8 @@ covid19pray.com CNAME .
 *.covid19pray.com CNAME .
 covid19prayer.com CNAME .
 *.covid19prayer.com CNAME .
+covid-19prayerrequests.com CNAME .
+*.covid-19prayerrequests.com CNAME .
 covid19prayers.com CNAME .
 *.covid19prayers.com CNAME .
 covid19prayerwall.com CNAME .
@@ -55480,6 +55506,8 @@ covid19relief2020.com CNAME .
 *.covid19relief2020.com CNAME .
 covid19reliefadvisor.com CNAME .
 *.covid19reliefadvisor.com CNAME .
+covid19relief.agency CNAME .
+*.covid19relief.agency CNAME .
 covid19reliefandsupport.com CNAME .
 *.covid19reliefandsupport.com CNAME .
 covid19reliefapplications.com CNAME .
@@ -55578,6 +55606,8 @@ covid19reliefs.com CNAME .
 *.covid19reliefs.com CNAME .
 covid19reliefstimulus.com CNAME .
 *.covid19reliefstimulus.com CNAME .
+covid19relief.team CNAME .
+*.covid19relief.team CNAME .
 covid19relief.today CNAME .
 *.covid19relief.today CNAME .
 covid-19relieftoday.com CNAME .
@@ -104766,6 +104796,8 @@ vscovidunited.net CNAME .
 *.vscovidunited.net CNAME .
 vseocoronavirus.ru CNAME .
 *.vseocoronavirus.ru CNAME .
+vsyo-o-coronaviruse.ru CNAME .
+*.vsyo-o-coronaviruse.ru CNAME .
 vtcoronatesting.com CNAME .
 *.vtcoronatesting.com CNAME .
 vtcoronavirus.com CNAME .
@@ -106616,8 +106648,6 @@ www.attestation-sortie-covid19.fr CNAME .
 *.www.attestation-sortie-covid19.fr CNAME .
 www.auscovid19supplies.com CNAME .
 *.www.auscovid19supplies.com CNAME .
-www.avertcoronavirus.com CNAME .
-*.www.avertcoronavirus.com CNAME .
 www.ayudas-covid-19-contingencia.ml CNAME .
 *.www.ayudas-covid-19-contingencia.ml CNAME .
 www.ayudas-covid-19.gq CNAME .
