@@ -284,6 +284,8 @@ dns-zone-blacklist. IN NS localhost.
 *.2020covidvirus.com CNAME .
 2020epidemic.net CNAME .
 *.2020epidemic.net CNAME .
+2020globalcovid-19.com CNAME .
+*.2020globalcovid-19.com CNAME .
 2020globalcovid.com CNAME .
 *.2020globalcovid.com CNAME .
 2020globalpandemic.com CNAME .
@@ -28334,6 +28336,8 @@ coronavirus-economy.com CNAME .
 *.coronavirus-economy.com CNAME .
 coronaviruseconomy.com CNAME .
 *.coronaviruseconomy.com CNAME .
+coronavirusecuador.co CNAME .
+*.coronavirusecuador.co CNAME .
 coronavirusecuador.com CNAME .
 *.coronavirusecuador.com CNAME .
 coronavirus-ecuador.ml CNAME .
@@ -41890,6 +41894,8 @@ covid19aprou.com CNAME .
 *.covid19aprou.com CNAME .
 covid19.apsugis.org CNAME .
 *.covid19.apsugis.org CNAME .
+covid19.aptelecare.com CNAME .
+*.covid19.aptelecare.com CNAME .
 covid19.aquebec.ca CNAME .
 *.covid19.aquebec.ca CNAME .
 covid19arabia.com CNAME .
@@ -46088,6 +46094,8 @@ covid-19disinfectingservice.com CNAME .
 *.covid-19disinfectingservice.com CNAME .
 covid-19disinfectingservices.com CNAME .
 *.covid-19disinfectingservices.com CNAME .
+covid19disinfection.ca CNAME .
+*.covid19disinfection.ca CNAME .
 covid-19disinfection.com CNAME .
 *.covid-19disinfection.com CNAME .
 covid19-disinfection.com CNAME .
@@ -53152,6 +53160,8 @@ covid19nl.com CNAME .
 *.covid19nl.com CNAME .
 covid19nm.com CNAME .
 *.covid19nm.com CNAME .
+covid19.nmd.go.th CNAME .
+*.covid19.nmd.go.th CNAME .
 covid19nobrasil.com CNAME .
 *.covid19nobrasil.com CNAME .
 covid19nobrasil.olimite.com CNAME .
@@ -57540,6 +57550,8 @@ covid-19-stats.si CNAME .
 *.covid-19-stats.si CNAME .
 covid19stats.site CNAME .
 *.covid19stats.site CNAME .
+covid19-stats.tk CNAME .
+*.covid19-stats.tk CNAME .
 covid-19stats.today CNAME .
 *.covid-19stats.today CNAME .
 covid19stats.today CNAME .
@@ -83206,6 +83218,8 @@ jesusabovecorona.com CNAME .
 *.jesusabovecorona.com CNAME .
 jesuscoronado.com CNAME .
 *.jesuscoronado.com CNAME .
+jeudecovid19.fr CNAME .
+*.jeudecovid19.fr CNAME .
 jewelrycorona.com CNAME .
 *.jewelrycorona.com CNAME .
 jewelrycovid19.com CNAME .
@@ -85032,6 +85046,8 @@ locoronaremos.com CNAME .
 *.locoronaremos.com CNAME .
 locovidiot.com CNAME .
 *.locovidiot.com CNAME .
+log-covid19.cdp-sanita-coll.soresa.it CNAME .
+*.log-covid19.cdp-sanita-coll.soresa.it CNAME .
 logistica.coronavirusmakers.org CNAME .
 *.logistica.coronavirusmakers.org CNAME .
 logmycorona.com CNAME .
@@ -96056,6 +96072,8 @@ salvoconductocoronavirus.com CNAME .
 *.salvoconductocoronavirus.com CNAME .
 salvoconductocovid19.com CNAME .
 *.salvoconductocovid19.com CNAME .
+sam-covid19.be CNAME .
+*.sam-covid19.be CNAME .
 samecovid.com CNAME .
 *.samecovid.com CNAME .
 samedaycorona.com CNAME .
@@ -109206,6 +109224,8 @@ www.stopcovid19now.eu CNAME .
 *.www.stopcovid19now.eu CNAME .
 www.stopcovid19virus.com CNAME .
 *.www.stopcovid19virus.com CNAME .
+www.stopthecoronavirus.eu CNAME .
+*.www.stopthecoronavirus.eu CNAME .
 www.stopviruscovid-19.com CNAME .
 *.www.stopviruscovid-19.com CNAME .
 www.studentcovid19response.wustl.edu CNAME .
