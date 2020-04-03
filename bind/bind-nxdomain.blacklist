@@ -2376,6 +2376,8 @@ api.pen.test.covid-19.forms.digital.nhs.uk CNAME .
 *.api.pen.test.covid-19.forms.digital.nhs.uk CNAME .
 api.perf.test.covid-19.forms.digital.nhs.uk CNAME .
 *.api.perf.test.covid-19.forms.digital.nhs.uk CNAME .
+api.ppecovid19.com CNAME .
+*.api.ppecovid19.com CNAME .
 api.preview.test.covid-19.forms.digital.nhs.uk CNAME .
 *.api.preview.test.covid-19.forms.digital.nhs.uk CNAME .
 api-prod.coronavirusinfo.cl CNAME .
@@ -3576,6 +3578,8 @@ bebascorona.com CNAME .
 *.bebascorona.com CNAME .
 bebascovid19.com CNAME .
 *.bebascovid19.com CNAME .
+bebascovid19.mr-indobear.club CNAME .
+*.bebascovid19.mr-indobear.club CNAME .
 bebecorona.com CNAME .
 *.bebecorona.com CNAME .
 becausecorona.com CNAME .
@@ -25482,6 +25486,8 @@ coronavirus-business.com CNAME .
 *.coronavirus-business.com CNAME .
 coronavirusbusiness.com CNAME .
 *.coronavirusbusiness.com CNAME .
+coronavirus-business-complaint.service.gov.uk CNAME .
+*.coronavirus-business-complaint.service.gov.uk CNAME .
 coronavirusbusinessconsultants.com CNAME .
 *.coronavirusbusinessconsultants.com CNAME .
 coronavirusbusinesscontinuity.com CNAME .
@@ -38766,8 +38772,6 @@ coronavirus.tv CNAME .
 *.coronavirus.tv CNAME .
 corona-virustv.com CNAME .
 *.corona-virustv.com CNAME .
-coronavirus-tver.ru CNAME .
-*.coronavirus-tver.ru CNAME .
 coronavirustwc.com CNAME .
 *.coronavirustwc.com CNAME .
 coronavirustweets.com CNAME .
@@ -49636,6 +49640,8 @@ covid19indianapolis.com CNAME .
 *.covid19indianapolis.com CNAME .
 covid19india.net CNAME .
 *.covid19india.net CNAME .
+covid-19.indianow.net CNAME .
+*.covid-19.indianow.net CNAME .
 covid19.indians.k12.pa.us CNAME .
 *.covid19.indians.k12.pa.us CNAME .
 covid19india.org.in CNAME .
@@ -50624,6 +50630,8 @@ covid19.kreatorapps.com CNAME .
 *.covid19.kreatorapps.com CNAME .
 covid19.kripthor.xyz CNAME .
 *.covid19.kripthor.xyz CNAME .
+covid19.kriptonian.com CNAME .
+*.covid19.kriptonian.com CNAME .
 covid19krise.com CNAME .
 *.covid19krise.com CNAME .
 covid19-krise.de CNAME .
@@ -51290,6 +51298,8 @@ covid19liveinfo.rubymega.com CNAME .
 *.covid19liveinfo.rubymega.com CNAME .
 covid-19.liveinfotime.com CNAME .
 *.covid-19.liveinfotime.com CNAME .
+covid19live.ismood.com CNAME .
+*.covid19live.ismood.com CNAME .
 covid19live.kz CNAME .
 *.covid19live.kz CNAME .
 covid19.live.lk CNAME .
@@ -55872,6 +55882,8 @@ covid19responseteam.com CNAME .
 *.covid19responseteam.com CNAME .
 covid19-response-tracker.live CNAME .
 *.covid19-response-tracker.live CNAME .
+covid19response.uk CNAME .
+*.covid19response.uk CNAME .
 covid19responseuk.com CNAME .
 *.covid19responseuk.com CNAME .
 covid19response.xyz CNAME .
@@ -74626,6 +74638,8 @@ demo-covid19.satelia.eu CNAME .
 *.demo-covid19.satelia.eu CNAME .
 demo.it.covid19-2.rd.cloud-r.eu CNAME .
 *.demo.it.covid19-2.rd.cloud-r.eu CNAME .
+demo.it.covid19cms.rd.cloud-r.eu CNAME .
+*.demo.it.covid19cms.rd.cloud-r.eu CNAME .
 demo.it.covid19.rd.cloud-r.eu CNAME .
 *.demo.it.covid19.rd.cloud-r.eu CNAME .
 demolishcoronavirus.com CNAME .
@@ -75248,6 +75262,8 @@ diyfacemaskscovid19.com CNAME .
 *.diyfacemaskscovid19.com CNAME .
 diytestcorona.com CNAME .
 *.diytestcorona.com CNAME .
+diyvaccinecurecoronavirus.com CNAME .
+*.diyvaccinecurecoronavirus.com CNAME .
 dj-corona.party CNAME .
 *.dj-corona.party CNAME .
 djcovid-19.com CNAME .
@@ -104914,6 +104930,8 @@ webcovid.com CNAME .
 *.webcovid.com CNAME .
 webcovidsulteng.com CNAME .
 *.webcovidsulteng.com CNAME .
+webdisk.actioncoronavirus.com CNAME .
+*.webdisk.actioncoronavirus.com CNAME .
 webdisk.consultamedicayprevencion-covid-19.online CNAME .
 *.webdisk.consultamedicayprevencion-covid-19.online CNAME .
 webdisk.coronaviruscare.org CNAME .
@@ -107638,6 +107656,8 @@ www.covid19f.com CNAME .
 *.www.covid19f.com CNAME .
 www.covid19.feghas.com CNAME .
 *.www.covid19.feghas.com CNAME .
+www.covid-19.felcloud.io CNAME .
+*.www.covid-19.felcloud.io CNAME .
 www.covid-19.fingersfun.com CNAME .
 *.www.covid-19.fingersfun.com CNAME .
 www.covid-19firstaid.com CNAME .
