@@ -675,6 +675,7 @@ local-zone: "all-about-corona.com" static
 local-zone: "allaboutcorona.com" static
 local-zone: "allaboutcovid-19.com" static
 local-zone: "allaboutcovid19.com" static
+local-zone: "allagainstcovid19.com" static
 local-zone: "allagainstcovid.com" static
 local-zone: "allanticovid.com" static
 local-zone: "allclearcoronavirus.com" static
@@ -15273,6 +15274,7 @@ local-zone: "coronavirushometestkits.co.uk" static
 local-zone: "coronavirushometestkits.net" static
 local-zone: "coronavirushometest.net" static
 local-zone: "coronavirushometests.com" static
+local-zone: "coronavirushometest.us" static
 local-zone: "coronavirushometestusa.com" static
 local-zone: "coronavirushometips.com" static
 local-zone: "coronavirushonduras.com" static
@@ -16495,6 +16497,7 @@ local-zone: "coronavirusmemo.net" static
 local-zone: "coronavirusmemorabilia.com" static
 local-zone: "coronavirusmemorial.com" static
 local-zone: "coronavirusmemorialday.com" static
+local-zone: "coronavirusmemorialgardens.com" static
 local-zone: "coronavirusmemorials.com" static
 local-zone: "coronavirusmemories.com" static
 local-zone: "coronavirusmemorybook.com" static
@@ -16520,7 +16523,6 @@ local-zone: "coronavirusmeter.net" static
 local-zone: "coronavirus.methodologic.com.ve" static
 local-zone: "coronavirus.metiscyber.com" static
 local-zone: "coronavirusmetrics.com" static
-local-zone: "coronavirus.me.uk" static
 local-zone: "coronavirusmewnow.com" static
 local-zone: "coronavirusmewsnow.com" static
 local-zone: "coronavirusmex.com" static
@@ -18477,7 +18479,6 @@ local-zone: "coronavirusspy.com" static
 local-zone: "coronavirussquawk.com" static
 local-zone: "coronavirussrbija.com" static
 local-zone: "coronavirussreening.com" static
-local-zone: "corona-viruss.ru" static
 local-zone: "corona-virusss.com" static
 local-zone: "coronavirus-ss.com" static
 local-zone: "coronavirusssolutions.com" static
@@ -19083,7 +19084,6 @@ local-zone: "coronavirustest.solutions" static
 local-zone: "coronavirustestsondemand.com" static
 local-zone: "coronavirustestsonline.com" static
 local-zone: "coronavirustests.org" static
-local-zone: "coronavirus-tests.ru" static
 local-zone: "coronavirusteststrip.com" static
 local-zone: "coronavirusteststrips.com" static
 local-zone: "coronavirus-tests-uk.com" static
@@ -25193,7 +25193,6 @@ local-zone: "covid19.kanwilsumbagut.com" static
 local-zone: "covid19.kapa7.com" static
 local-zone: "covid19karaoke.com" static
 local-zone: "covid19kar.com" static
-local-zone: "covid19karta.ru" static
 local-zone: "covid-19-karte.de" static
 local-zone: "covid-19karte.de" static
 local-zone: "covid19-karte.de" static
@@ -29014,6 +29013,7 @@ local-zone: "covid-19survey.com" static
 local-zone: "covid19survey.com" static
 local-zone: "covid19-survey.ga" static
 local-zone: "covid19surveykanpurdehat.codelances.com" static
+local-zone: "covid19surveykanpurdehat.jobbook.in" static
 local-zone: "covid-19survey.net" static
 local-zone: "covid19-survey.net" static
 local-zone: "covid19survey.net" static
@@ -36743,6 +36743,7 @@ local-zone: "cpcalendars.coronavirustestingkits.co.uk" static
 local-zone: "cpcalendars.covid19a.info" static
 local-zone: "cpcalendars.covid19.unfm.org" static
 local-zone: "cpcalendars.indemnizacionescoronavirus.gal" static
+local-zone: "cpcalendars.stopcovid-19.ro" static
 local-zone: "cpcontacts.adcovid19.com" static
 local-zone: "cpcontacts.coronavirus-pandemia.com" static
 local-zone: "cpcontacts.covid19hilfe.com" static
@@ -44030,6 +44031,7 @@ local-zone: "ncovid19.net" static
 local-zone: "ncovid19-realtime.com" static
 local-zone: "ncovid19registry.com" static
 local-zone: "ncovid19registry.net" static
+local-zone: "ncovid-19.se" static
 local-zone: "ncovid19stats.com" static
 local-zone: "ncovid19.today" static
 local-zone: "ncovid19treatment.com" static
@@ -52206,7 +52208,6 @@ local-zone: "viruscoronatest.com" static
 local-zone: "virus-corona-updates.com" static
 local-zone: "viruscoronavaccin.com" static
 local-zone: "viruscoronavaccine.com" static
-local-zone: "virus-corona-virus.ru" static
 local-zone: "viruscoronavolunteer.com" static
 local-zone: "viruscoronaworkfromhome.com" static
 local-zone: "virus-covid-19.ca" static
