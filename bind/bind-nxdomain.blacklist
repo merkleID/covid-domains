@@ -864,6 +864,8 @@ admin.covid19petpro.com CNAME .
 *.admin.covid19petpro.com CNAME .
 admin.covid19-uk.co.uk CNAME .
 *.admin.covid19-uk.co.uk CNAME .
+admin.jamcovid19.moh.gov.jm CNAME .
+*.admin.jamcovid19.moh.gov.jm CNAME .
 admin.luftambulanse-covid19.no CNAME .
 *.admin.luftambulanse-covid19.no CNAME .
 admin-staff.khaosancovid19.com CNAME .
@@ -6824,8 +6826,6 @@ commenttraitercovid19.com CNAME .
 *.commenttraitercovid19.com CNAME .
 commercecorona.com CNAME .
 *.commercecorona.com CNAME .
-commerces.covid19.city-desk.fr CNAME .
-*.commerces.covid19.city-desk.fr CNAME .
 commerces.covid19.pbeu.eu CNAME .
 *.commerces.covid19.pbeu.eu CNAME .
 commercialcoronadisinfecting.com CNAME .
@@ -34330,8 +34330,6 @@ coronavirus.news7tamilvideos.com CNAME .
 *.coronavirus.news7tamilvideos.com CNAME .
 coronavirusnewsalerts.com CNAME .
 *.coronavirusnewsalerts.com CNAME .
-coronavirusnewsamerica.com CNAME .
-*.coronavirusnewsamerica.com CNAME .
 coronavirus-news-and-updates.com CNAME .
 *.coronavirus-news-and-updates.com CNAME .
 coronavirusnewsaustralia.com CNAME .
@@ -52492,8 +52490,6 @@ covid19liveinfo.rubymega.com CNAME .
 *.covid19liveinfo.rubymega.com CNAME .
 covid-19.liveinfotime.com CNAME .
 *.covid-19.liveinfotime.com CNAME .
-covid19live.ismood.com CNAME .
-*.covid19live.ismood.com CNAME .
 covid19live.kz CNAME .
 *.covid19live.kz CNAME .
 covid19.live.lk CNAME .
@@ -53430,6 +53426,8 @@ covid19-medtreatment.com CNAME .
 *.covid19-medtreatment.com CNAME .
 covid19.meetsys.i2kn.com CNAME .
 *.covid19.meetsys.i2kn.com CNAME .
+covid-19.meissnerjacquet.com CNAME .
+*.covid-19.meissnerjacquet.com CNAME .
 covid-19meme.com CNAME .
 *.covid-19meme.com CNAME .
 covid19meme.com CNAME .
@@ -58502,6 +58500,8 @@ covid19.sionadvogados.com.br CNAME .
 *.covid19.sionadvogados.com.br CNAME .
 covid19.siponazionale.it CNAME .
 *.covid19.siponazionale.it CNAME .
+covid19.si-senior.com CNAME .
+*.covid19.si-senior.com CNAME .
 covid19-siss.onrender.com CNAME .
 *.covid19-siss.onrender.com CNAME .
 covid19.sitas.pt CNAME .
@@ -58612,8 +58612,6 @@ covid19smeloans.com CNAME .
 *.covid19smeloans.com CNAME .
 covid19smeloans.net CNAME .
 *.covid19smeloans.net CNAME .
-covid19.smilecdr.com CNAME .
-*.covid19.smilecdr.com CNAME .
 covid-19.smkn3-pariaman.sch.id CNAME .
 *.covid-19.smkn3-pariaman.sch.id CNAME .
 covid19smoke.com CNAME .
@@ -78568,6 +78566,8 @@ employeelbkcovid19.com CNAME .
 *.employeelbkcovid19.com CNAME .
 employercovid19claims.com CNAME .
 *.employercovid19claims.com CNAME .
+emprendedoresfrentealcovid19.org CNAME .
+*.emprendedoresfrentealcovid19.org CNAME .
 emprenderconcoronavirus.com CNAME .
 *.emprenderconcoronavirus.com CNAME .
 empresadesinfeccioncoronavirus.com CNAME .
@@ -81904,6 +81904,8 @@ gestionescoronavirus.com CNAME .
 *.gestionescoronavirus.com CNAME .
 gestionescoronavirus.es CNAME .
 *.gestionescoronavirus.es CNAME .
+gestordecasoscovid19.nuevaeps.com.co CNAME .
+*.gestordecasoscovid19.nuevaeps.com.co CNAME .
 gestoriaertescoronavirus.com CNAME .
 *.gestoriaertescoronavirus.com CNAME .
 gestoriaertescoronavirus.net CNAME .
@@ -82910,6 +82912,8 @@ growinamarillo-covid19.com CNAME .
 *.growinamarillo-covid19.com CNAME .
 growingcovid-19pandemicanditsimpact.cloud CNAME .
 *.growingcovid-19pandemicanditsimpact.cloud CNAME .
+grupos-covid19.sid.unam.mx CNAME .
+*.grupos-covid19.sid.unam.mx CNAME .
 gryphoncovid19.com CNAME .
 *.gryphoncovid19.com CNAME .
 gsdcovidupdates.com CNAME .
@@ -85460,6 +85464,8 @@ india-vs-corona.com CNAME .
 *.india-vs-corona.com CNAME .
 indiavscovid19.com CNAME .
 *.indiavscovid19.com CNAME .
+indivisiblebycovid19.com CNAME .
+*.indivisiblebycovid19.com CNAME .
 indizen-covid19.com CNAME .
 *.indizen-covid19.com CNAME .
 indocorona.com CNAME .
@@ -86782,8 +86788,6 @@ jaisurvecuaucoronavirus.com CNAME .
 *.jaisurvecuaucoronavirus.com CNAME .
 jamcovid19.com CNAME .
 *.jamcovid19.com CNAME .
-jamcovid19.moh.gov.jm CNAME .
-*.jamcovid19.moh.gov.jm CNAME .
 jamcovid2019.com CNAME .
 *.jamcovid2019.com CNAME .
 jamcovid.com CNAME .
@@ -89168,6 +89172,8 @@ mail.cartcoronavirus.tk CNAME .
 *.mail.cartcoronavirus.tk CNAME .
 mail.citizensagainstcoronavirus.com CNAME .
 *.mail.citizensagainstcoronavirus.com CNAME .
+mail.coronacovid19.es CNAME .
+*.mail.coronacovid19.es CNAME .
 mail.coronavirusanxieties.com CNAME .
 *.mail.coronavirusanxieties.com CNAME .
 mail.coronavirus-bg.info CNAME .
@@ -91882,6 +91888,8 @@ ncov19live.com CNAME .
 *.ncov19live.com CNAME .
 ncov19.me CNAME .
 *.ncov19.me CNAME .
+ncov19.now.sh CNAME .
+*.ncov19.now.sh CNAME .
 ncov-19.online CNAME .
 *.ncov-19.online CNAME .
 ncov19.org CNAME .
@@ -98546,6 +98554,8 @@ protectionfromcovid.com CNAME .
 *.protectionfromcovid.com CNAME .
 protectionmaskcorona.com CNAME .
 *.protectionmaskcorona.com CNAME .
+protection-plexiglass-coronavirus.fr CNAME .
+*.protection-plexiglass-coronavirus.fr CNAME .
 protectionscoronavirus.com CNAME .
 *.protectionscoronavirus.com CNAME .
 protectivegearcoronavirus.com CNAME .
@@ -99504,6 +99514,8 @@ reliefforcovid-19.com CNAME .
 *.reliefforcovid-19.com CNAME .
 relievecoronavirusstress.com CNAME .
 *.relievecoronavirusstress.com CNAME .
+remboursement.coronavirus-edf.fr CNAME .
+*.remboursement.coronavirus-edf.fr CNAME .
 remboursementcovid19.com CNAME .
 *.remboursementcovid19.com CNAME .
 remboursementcovid19.eu CNAME .
@@ -107164,6 +107176,8 @@ travelcoronavirus.com CNAME .
 *.travelcoronavirus.com CNAME .
 travel-covid-19.com CNAME .
 *.travel-covid-19.com CNAME .
+travelcovid-19.org CNAME .
+*.travelcovid-19.org CNAME .
 travelcovid.com CNAME .
 *.travelcovid.com CNAME .
 travelduringcoronavirus.com CNAME .
