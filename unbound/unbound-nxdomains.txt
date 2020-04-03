@@ -23770,6 +23770,7 @@ local-zone: "covid-19-economy.com" static
 local-zone: "covid-19economy.com" static
 local-zone: "covid19-economy.com" static
 local-zone: "covid19economy.com" static
+local-zone: "covid19.econvivial.org" static
 local-zone: "covid19.ecrl.eas.cornell.edu" static
 local-zone: "covid19ecuador.carreraestrada.com" static
 local-zone: "covid19ed.com" static
@@ -28247,6 +28248,7 @@ local-zone: "covid19rate.com" static
 local-zone: "covid19.raturi.in" static
 local-zone: "covid19rave.com" static
 local-zone: "covid19raves.com" static
+local-zone: "covid19rc.legalshieldbenefits.com" static
 local-zone: "covid19.rcmrd.org" static
 local-zone: "covid19rdc.congopedia.com" static
 local-zone: "covid19rdc.info" static
@@ -37852,6 +37854,7 @@ local-zone: "cpanel.covid19helpedinburgh.org.uk" static
 local-zone: "cpanel.covid19worldhelp.org" static
 local-zone: "cpanel.estadisticacovid19.tk" static
 local-zone: "cpanel.loveinthetimeofcovid19.com" static
+local-zone: "cpanel.mascarillacovid19.cl" static
 local-zone: "cpanel.testcovid19ec.com" static
 local-zone: "cpapforcovid.com" static
 local-zone: "cpcalendars.coronavirustestingkits.co.uk" static
@@ -44185,6 +44188,7 @@ local-zone: "lifestylecorona.com" static
 local-zone: "lifeundercovid.com" static
 local-zone: "lifewithcorona.com" static
 local-zone: "lifewithcoronavirus19.com" static
+local-zone: "lifewithcoronavirus.ca" static
 local-zone: "lifewithcoronavirus.com" static
 local-zone: "lifewithcovid-19.com" static
 local-zone: "lifewithcovid19.com" static
@@ -49214,7 +49218,6 @@ local-zone: "projectcorona.com" static
 local-zone: "projectcoronadiary.com" static
 local-zone: "projectcoronavirus.com" static
 local-zone: "project-covid-19.com" static
-local-zone: "projectcovid19.com" static
 local-zone: "project.covid19.fyi" static
 local-zone: "project-covid.com" static
 local-zone: "projectcovid.com" static
@@ -49856,6 +49859,7 @@ local-zone: "reversepandemic.com" static
 local-zone: "reversepandemic.net" static
 local-zone: "reversepandemic.world" static
 local-zone: "reviewcorona.com" static
+local-zone: "review-setup-dev-zzcsie-covid-19.dev.fabrique.social.gouv.fr" static
 local-zone: "reycorona.com" static
 local-zone: "rgvcorona.com" static
 local-zone: "rgvcovid19info.com" static
@@ -51970,6 +51974,7 @@ local-zone: "testcovid19clinica.com" static
 local-zone: "test-covid19.com" static
 local-zone: "testcovid-19.de" static
 local-zone: "testcovid19ec.com" static
+local-zone: "testcovid19.econvivial.org" static
 local-zone: "test.covid19india.org" static
 local-zone: "testcovid19.io" static
 local-zone: "testcovid19kit.com" static
