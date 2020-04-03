@@ -22,7 +22,7 @@ Original files lists:
 
 https://1984.sh/covid19-domains-feed.txt
 
-https://www.malwarepatrol.net/wp-content/uploads/2020/03/covid-19-domains.txt
+http://malwarepatrolexport-covid-19.s3-website.us-east-2.amazonaws.com/domains/domains.txt
 
 A simple bash-script rework based on the above two covid-related spam-domains lists.
 The bash-script parses the files and then outputs to respective dns-daemons zone-file formats.
