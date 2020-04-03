@@ -12612,6 +12612,7 @@ local-zone: "coronavirus.biz.ua" static
 local-zone: "coronavirusbk.com" static
 local-zone: "coronavirusbkinpa.com" static
 local-zone: "coronavirus.black" static
+local-zone: "coronavirusblackbook.com" static
 local-zone: "coronavirusblackbook.org" static
 local-zone: "coronavirus.blackbox-vision.tech" static
 local-zone: "coronavirusblackout.com" static
@@ -15639,6 +15640,7 @@ local-zone: "coronavirusinvestor.com" static
 local-zone: "coronavirusin.world" static
 local-zone: "coronavirusinworld.com" static
 local-zone: "coronavirus-in-world.ru" static
+local-zone: "coronavirusiop.com" static
 local-zone: "coronavirusiowa.com" static
 local-zone: "coronavirus.ipueiras.ce.gov.br" static
 local-zone: "coronavirus.iq" static
@@ -22952,6 +22954,7 @@ local-zone: "covid19diary.net" static
 local-zone: "covid-19-diaryofaworriedmum.com" static
 local-zone: "covid19dictionary.com" static
 local-zone: "covid19.didakta.be" static
+local-zone: "covid19die.com" static
 local-zone: "covid19.diego.earth" static
 local-zone: "covid19diet19.com" static
 local-zone: "covid19-diet.com" static
@@ -24059,6 +24062,7 @@ local-zone: "covid-19-global.com" static
 local-zone: "covid-19global.com" static
 local-zone: "covid19-global.com" static
 local-zone: "covid19globalcrisis.com" static
+local-zone: "covid-19globalcure.com" static
 local-zone: "covid19globalemployer.com" static
 local-zone: "covid19globalemployment.com" static
 local-zone: "covid19globalemploymenttracker.com" static
@@ -24073,6 +24077,7 @@ local-zone: "covid19globalsafety.com" static
 local-zone: "covid19globalstat4s.now.sh" static
 local-zone: "covid19globalstats.com" static
 local-zone: "covid19globalstats.world" static
+local-zone: "covid-19globalstop.com" static
 local-zone: "covid19globalsummit.pages.ontraport.net" static
 local-zone: "covid19globalsupplies.com" static
 local-zone: "covid19globalsupplies.net" static
@@ -25039,6 +25044,7 @@ local-zone: "covid19-in.world" static
 local-zone: "covid19inworld.com" static
 local-zone: "covid19.iocare.in" static
 local-zone: "covid-19iocero.com" static
+local-zone: "covid19iop.com" static
 local-zone: "covid19.iotskills.hu" static
 local-zone: "covid19iowa.com" static
 local-zone: "covid19.ipb.pt" static
@@ -38400,6 +38406,7 @@ local-zone: "essexcovid.com" static
 local-zone: "es.sinaicovid19.org" static
 local-zone: "estadistica-de-coronavirus.es" static
 local-zone: "esterilcovid.com" static
+local-zone: "estimate.your-covid-19-risk.com" static
 local-zone: "estrescoronavirus.com" static
 local-zone: "estudiocoronavirus.com" static
 local-zone: "es.wascoshermangilliamcovid-19.com" static
@@ -39267,6 +39274,7 @@ local-zone: "fukcovid.com" static
 local-zone: "fukucovid.com" static
 local-zone: "fukuoka.stopcovid19.jp" static
 local-zone: "fullcoronaprotection.com" static
+local-zone: "fullyprotectedcovid19.com" static
 local-zone: "fullyprotectedcovid19.org" static
 local-zone: "fumigacioncoronavirus.com" static
 local-zone: "fumigacioncovid19.com" static
@@ -49515,7 +49523,6 @@ local-zone: "survivingthecorona.com" static
 local-zone: "survivingthecoronalockdown.com" static
 local-zone: "survivingthecoronapocolypse.com" static
 local-zone: "survivingthecorona-virus.com" static
-local-zone: "survivingthecovid19economy.com" static
 local-zone: "survivingthecovid-19outbreak.com" static
 local-zone: "survivingthepandemic.com" static
 local-zone: "survivingwithcorona.com" static
@@ -52552,7 +52559,6 @@ local-zone: "wesurvivedcoronavirus2020.com" static
 local-zone: "wesurvivedcoronavirus2020.net" static
 local-zone: "wesurvivedcoronavirus.clothing" static
 local-zone: "wesurvivedcoronavirus.com" static
-local-zone: "wesurvivedcoronavirus.store" static
 local-zone: "wesurvivedcovid19.com" static
 local-zone: "wesurvivedcovid-19.life" static
 local-zone: "wesurvivedcovid-19.net" static
