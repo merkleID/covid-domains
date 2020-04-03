@@ -1659,7 +1659,6 @@ local-zone: "baskin-robbinscovid19.com" static
 local-zone: "baskinrobbinscovid-19.com" static
 local-zone: "baskinrobbinscovid19.com" static
 local-zone: "bastacoronavirus.com" static
-local-zone: "bastacoronavirus.com.br" static
 local-zone: "bastardcorona.com" static
 local-zone: "batcovid19.com" static
 local-zone: "batcovid.com" static
@@ -13492,6 +13491,7 @@ local-zone: "coronaviruscook.com" static
 local-zone: "coronavirus-cooking.com" static
 local-zone: "coronaviruscool.com" static
 local-zone: "coronaviruscopd.com" static
+local-zone: "coronaviruscoping.com" static
 local-zone: "coronaviruscoping.solutions" static
 local-zone: "coronaviruscordoba.com" static
 local-zone: "coronaviruscoronavirus.com" static
@@ -21500,6 +21500,7 @@ local-zone: "covid19.brisbanecomputersolutions.com.au" static
 local-zone: "covid19broadcast.com" static
 local-zone: "covid19brownsville.com" static
 local-zone: "covid-19browser.com" static
+local-zone: "covid19br.tborsati.com" static
 local-zone: "covid19bs.com" static
 local-zone: "covid19.bsscard.com" static
 local-zone: "covid19.bsts.com.br" static
@@ -23737,6 +23738,7 @@ local-zone: "covid19fight.club" static
 local-zone: "covid-19fight.com" static
 local-zone: "covid-19fighter.com" static
 local-zone: "covid19fighter.com" static
+local-zone: "covid-19fighters.com" static
 local-zone: "covid19-fighters.com" static
 local-zone: "covid19fighters.com" static
 local-zone: "covid19fighters.net" static
@@ -28028,7 +28030,6 @@ local-zone: "covid19response.icrinc.com" static
 local-zone: "covid19responsekit.com" static
 local-zone: "covid19responselab.com" static
 local-zone: "covid19responselogistics.com" static
-local-zone: "covid19response.myrondout.com" static
 local-zone: "covid19-response.net" static
 local-zone: "covid19response.net" static
 local-zone: "covid19response.pacerair.com" static
@@ -37225,6 +37226,7 @@ local-zone: "darbecovid-19.com" static
 local-zone: "daruratcovid19.com" static
 local-zone: "dasarcoronagoblok.com" static
 local-zone: "dascoronavirus.de" static
+local-zone: "dashboard.covid19.data.gouf.fr" static
 local-zone: "dashboard.covid19.data.gouv.fr" static
 local-zone: "dashboard.covid19.org.in" static
 local-zone: "dashboards-covid-19.bagapps.ch" static
