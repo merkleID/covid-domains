@@ -2318,8 +2318,6 @@ api.aa970a93.test.covid-19.forms.digital.nhs.uk CNAME .
 *.api.aa970a93.test.covid-19.forms.digital.nhs.uk CNAME .
 api.aivscovid19.com CNAME .
 *.api.aivscovid19.com CNAME .
-api.alianzacovid19.es CNAME .
-*.api.alianzacovid19.es CNAME .
 api.appcoronavirus.cl CNAME .
 *.api.appcoronavirus.cl CNAME .
 api.attestation-sortie-covid19.fr CNAME .
@@ -34044,6 +34042,8 @@ coronavirusmultifamily.com CNAME .
 *.coronavirusmultifamily.com CNAME .
 coronavirusmumbai.com CNAME .
 *.coronavirusmumbai.com CNAME .
+coronavirus-mundial.ga CNAME .
+*.coronavirus-mundial.ga CNAME .
 coronavirusmundo.com CNAME .
 *.coronavirusmundo.com CNAME .
 coronavirusmurcia.com CNAME .
@@ -50822,8 +50822,6 @@ covid19-indonesia.now.sh CNAME .
 *.covid19-indonesia.now.sh CNAME .
 covid19.indramayukab.go.id CNAME .
 *.covid19.indramayukab.go.id CNAME .
-covid19ind.sbistudy.com CNAME .
-*.covid19ind.sbistudy.com CNAME .
 covid-19.industries CNAME .
 *.covid-19.industries CNAME .
 covid19.industries CNAME .
@@ -57892,6 +57890,8 @@ covid19sbarelief.com CNAME .
 *.covid19sbarelief.com CNAME .
 covid19sbasupport.com CNAME .
 *.covid19sbasupport.com CNAME .
+covid19.sbborders.com CNAME .
+*.covid19.sbborders.com CNAME .
 covid19sb.com CNAME .
 *.covid19sb.com CNAME .
 covid19.sbdeveloper.in CNAME .
@@ -58446,6 +58446,8 @@ covid19signage.biz CNAME .
 *.covid19signage.biz CNAME .
 covid-19signage.com CNAME .
 *.covid-19signage.com CNAME .
+covid19signage.co.za CNAME .
+*.covid19signage.co.za CNAME .
 covid19signage.mobi CNAME .
 *.covid19signage.mobi CNAME .
 covid19signage.net CNAME .
@@ -60654,8 +60656,6 @@ covid19thai.com CNAME .
 *.covid19thai.com CNAME .
 covid19thaisupport.edmserviceth.com CNAME .
 *.covid19thaisupport.edmserviceth.com CNAME .
-covid19thaisupport.eu CNAME .
-*.covid19thaisupport.eu CNAME .
 covid19thc.com CNAME .
 *.covid19thc.com CNAME .
 covid19th.com CNAME .
@@ -76764,6 +76764,8 @@ defeat-coronavirus.com CNAME .
 *.defeat-coronavirus.com CNAME .
 defeatcovid-19.com CNAME .
 *.defeatcovid-19.com CNAME .
+defeatcovid19ga.com CNAME .
+*.defeatcovid19ga.com CNAME .
 defeatcovid19.net CNAME .
 *.defeatcovid19.net CNAME .
 defeat-covid.com CNAME .
@@ -106732,6 +106734,8 @@ tieneelcovid19yamasmuertosqueelcomunismo.es CNAME .
 *.tieneelcovid19yamasmuertosqueelcomunismo.es CNAME .
 tieqiaojianguowuhan.com CNAME .
 *.tieqiaojianguowuhan.com CNAME .
+tijdenvancoronavirus.be CNAME .
+*.tijdenvancoronavirus.be CNAME .
 tijuanasincoronavirus.com CNAME .
 *.tijuanasincoronavirus.com CNAME .
 time-after-corona.com CNAME .
@@ -109352,6 +109356,8 @@ webmail.coronavirus-tips-news.com CNAME .
 *.webmail.coronavirus-tips-news.com CNAME .
 webmail.coronavirustrack.shop CNAME .
 *.webmail.coronavirustrack.shop CNAME .
+webmail.coronavirusxray.com CNAME .
+*.webmail.coronavirusxray.com CNAME .
 webmail.covid19computerrepair.com CNAME .
 *.webmail.covid19computerrepair.com CNAME .
 webmail.covid19disinfections.com CNAME .
@@ -111854,6 +111860,8 @@ www.covid19breaking.news CNAME .
 *.www.covid19breaking.news CNAME .
 www.covid19.btouch.ch CNAME .
 *.www.covid19.btouch.ch CNAME .
+www.covid19businessinteruption.com CNAME .
+*.www.covid19businessinteruption.com CNAME .
 www.covid19businessresponse.ke CNAME .
 *.www.covid19businessresponse.ke CNAME .
 www.covid19-bw.com CNAME .
@@ -112882,6 +112890,8 @@ www.datoscoronavirus.site CNAME .
 *.www.datoscoronavirus.site CNAME .
 www.deafcovid19.info CNAME .
 *.www.deafcovid19.info CNAME .
+www.defeatcovid19ga.com CNAME .
+*.www.defeatcovid19ga.com CNAME .
 www.defeatcovid19.in CNAME .
 *.www.defeatcovid19.in CNAME .
 www.desechable.ayudacoronavirus.a2hosted.com CNAME .
@@ -113742,6 +113752,8 @@ wwwtiaacovid19.com CNAME .
 *.wwwtiaacovid19.com CNAME .
 wwwtiaacovid19.net CNAME .
 *.wwwtiaacovid19.net CNAME .
+www.tijdenvancoronavirus.be CNAME .
+*.www.tijdenvancoronavirus.be CNAME .
 www.tncovid19.in CNAME .
 *.www.tncovid19.in CNAME .
 www.today-coronavirus.online CNAME .

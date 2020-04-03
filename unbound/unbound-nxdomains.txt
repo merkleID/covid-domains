@@ -1156,7 +1156,6 @@ local-zone: "api.89703ccc.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "api.8f8d8a02.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "api.aa970a93.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "api.aivscovid19.com" static
-local-zone: "api.alianzacovid19.es" static
 local-zone: "api.appcoronavirus.cl" static
 local-zone: "api.attestation-sortie-covid19.fr" static
 local-zone: "api-autocovid19.vietseatravel.net" static
@@ -17019,6 +17018,7 @@ local-zone: "coronavirusmt.com" static
 local-zone: "coronavirus.mudahkaya.com" static
 local-zone: "coronavirusmultifamily.com" static
 local-zone: "coronavirusmumbai.com" static
+local-zone: "coronavirus-mundial.ga" static
 local-zone: "coronavirusmundo.com" static
 local-zone: "coronavirusmurcia.com" static
 local-zone: "coronavirusmusic.com" static
@@ -25408,7 +25408,6 @@ local-zone: "covid19.indigitalit.com" static
 local-zone: "covid19indonesia.com" static
 local-zone: "covid19-indonesia.now.sh" static
 local-zone: "covid19.indramayukab.go.id" static
-local-zone: "covid19ind.sbistudy.com" static
 local-zone: "covid-19.industries" static
 local-zone: "covid19.industries" static
 local-zone: "covid19ind.zendesk.com" static
@@ -28943,6 +28942,7 @@ local-zone: "covid19sbamiami.com" static
 local-zone: "covid19sba.net" static
 local-zone: "covid19sbarelief.com" static
 local-zone: "covid19sbasupport.com" static
+local-zone: "covid19.sbborders.com" static
 local-zone: "covid19sb.com" static
 local-zone: "covid19.sbdeveloper.in" static
 local-zone: "covid-19.sbkua.com" static
@@ -29220,6 +29220,7 @@ local-zone: "covid19si.com" static
 local-zone: "covid19sideeffects.com" static
 local-zone: "covid19signage.biz" static
 local-zone: "covid-19signage.com" static
+local-zone: "covid19signage.co.za" static
 local-zone: "covid19signage.mobi" static
 local-zone: "covid19signage.net" static
 local-zone: "covid19sign.com" static
@@ -30324,7 +30325,6 @@ local-zone: "covid19.thaich8.com" static
 local-zone: "covid19-thai.com" static
 local-zone: "covid19thai.com" static
 local-zone: "covid19thaisupport.edmserviceth.com" static
-local-zone: "covid19thaisupport.eu" static
 local-zone: "covid19thc.com" static
 local-zone: "covid19th.com" static
 local-zone: "covid19.theavtar.com" static
@@ -38379,6 +38379,7 @@ local-zone: "defeat-corona.com" static
 local-zone: "defeatcorona.net" static
 local-zone: "defeat-coronavirus.com" static
 local-zone: "defeatcovid-19.com" static
+local-zone: "defeatcovid19ga.com" static
 local-zone: "defeatcovid19.net" static
 local-zone: "defeat-covid.com" static
 local-zone: "defeatcovids.com" static
@@ -53363,6 +53364,7 @@ local-zone: "tiendacoronavirus.com" static
 local-zone: "tienecoronavirus.com" static
 local-zone: "tieneelcovid19yamasmuertosqueelcomunismo.es" static
 local-zone: "tieqiaojianguowuhan.com" static
+local-zone: "tijdenvancoronavirus.be" static
 local-zone: "tijuanasincoronavirus.com" static
 local-zone: "time-after-corona.com" static
 local-zone: "timecapsulecovid19.com" static
@@ -54673,6 +54675,7 @@ local-zone: "webmail.coronavirusmexico.net" static
 local-zone: "webmail.coronavirusremoval.xyz" static
 local-zone: "webmail.coronavirus-tips-news.com" static
 local-zone: "webmail.coronavirustrack.shop" static
+local-zone: "webmail.coronavirusxray.com" static
 local-zone: "webmail.covid19computerrepair.com" static
 local-zone: "webmail.covid19disinfections.com" static
 local-zone: "webmail.covid19financialrelief.org" static
@@ -55924,6 +55927,7 @@ local-zone: "www.covid19biztools.com" static
 local-zone: "www.covid19boards.com" static
 local-zone: "www.covid19breaking.news" static
 local-zone: "www.covid19.btouch.ch" static
+local-zone: "www.covid19businessinteruption.com" static
 local-zone: "www.covid19businessresponse.ke" static
 local-zone: "www.covid19-bw.com" static
 local-zone: "www.covid19bycounty.com" static
@@ -56438,6 +56442,7 @@ local-zone: "www.cutoffcovid19.net" static
 local-zone: "www.data-coronavirus.com" static
 local-zone: "www.datoscoronavirus.site" static
 local-zone: "www.deafcovid19.info" static
+local-zone: "www.defeatcovid19ga.com" static
 local-zone: "www.defeatcovid19.in" static
 local-zone: "www.desechable.ayudacoronavirus.a2hosted.com" static
 local-zone: "www.designtocombatcovid19.com" static
@@ -56868,6 +56873,7 @@ local-zone: "wwwtiaabankcovid19.com" static
 local-zone: "wwwtiaabankcovid19.net" static
 local-zone: "wwwtiaacovid19.com" static
 local-zone: "wwwtiaacovid19.net" static
+local-zone: "www.tijdenvancoronavirus.be" static
 local-zone: "www.tncovid19.in" static
 local-zone: "www.today-coronavirus.online" static
 local-zone: "www.todoscontracoronavirus.com" static
