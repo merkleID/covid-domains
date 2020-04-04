@@ -775,6 +775,7 @@ local-zone: "amendecovid.com" static
 local-zone: "amende-covid.net" static
 local-zone: "americaaftercorona.com" static
 local-zone: "americaaftercovid19.com" static
+local-zone: "americaandcovid-19.com" static
 local-zone: "americabeatcovid19.com" static
 local-zone: "americacorona.com" static
 local-zone: "americacoronavirus.com" static
@@ -12033,6 +12034,7 @@ local-zone: "coronavirus19vaxin.com" static
 local-zone: "coronavirus-19.world" static
 local-zone: "coronavirus19world.com" static
 local-zone: "coronavirus-1.com" static
+local-zone: "coronavirus1.es" static
 local-zone: "coronavirus1hrwarmcure.com" static
 local-zone: "coronavirus1.online" static
 local-zone: "coronavirus1poimt3acres.com" static
@@ -16856,6 +16858,7 @@ local-zone: "coronavirus-memes.xyz" static
 local-zone: "coronavirusmemo.com" static
 local-zone: "coronavirusmemo.net" static
 local-zone: "coronavirusmemorabilia.com" static
+local-zone: "coronavirus.memorial" static
 local-zone: "coronavirusmemorial.com" static
 local-zone: "coronavirusmemorialday.com" static
 local-zone: "coronavirusmemorialgardens.com" static
@@ -17098,7 +17101,6 @@ local-zone: "coronavirusncnoco.com" static
 local-zone: "coronavirus-ncov19.com" static
 local-zone: "coronavirus-ncov2019.com" static
 local-zone: "coronavirus-ncov.info" static
-local-zone: "coronavirus-ncov.ru" static
 local-zone: "coronavirusnd.com" static
 local-zone: "coronavirusnearby.com" static
 local-zone: "coronavirusnear.com" static
@@ -26945,6 +26947,7 @@ local-zone: "covid-19motionpicture.com" static
 local-zone: "covid19motionpicture.com" static
 local-zone: "covid19.motorama.com.au" static
 local-zone: "covid-19.mouachir.com" static
+local-zone: "covid19.mountsuaescola.com.br" static
 local-zone: "covid19mouthmask.com" static
 local-zone: "covid19mouthwash.com" static
 local-zone: "covid19movement.com" static
@@ -27694,6 +27697,7 @@ local-zone: "covid19peace.com" static
 local-zone: "covid19peacemakers.com" static
 local-zone: "covid-19pedia.com" static
 local-zone: "covid19pedia.com" static
+local-zone: "covid-19.pengadaan.id" static
 local-zone: "covid19.pensa.org.mz" static
 local-zone: "covid-19-people.com" static
 local-zone: "covid19-pep.com" static
@@ -27720,6 +27724,7 @@ local-zone: "covid19petcareguide.com" static
 local-zone: "covid19petcareresource.com" static
 local-zone: "covid19pet.com" static
 local-zone: "covid19petguide.com" static
+local-zone: "covid19pe.tk" static
 local-zone: "covid19pet.nz" static
 local-zone: "covid19petpro.com" static
 local-zone: "covid19pets.com" static
@@ -39268,6 +39273,7 @@ local-zone: "emergencyresponsecovid19.com" static
 local-zone: "emergencyvcovid-19.com" static
 local-zone: "emergenza-coronavirus.eu" static
 local-zone: "emergenzacovid19.altervista.org" static
+local-zone: "emergenzacovid19.gruppoiccrea.it" static
 local-zone: "emergenzacovid19-hypovbg.it" static
 local-zone: "emergenzacovid19.insuditalia.it" static
 local-zone: "emergenzacovid.com" static
@@ -39844,6 +39850,7 @@ local-zone: "facemaskfightscovid19.com" static
 local-zone: "facemaskforcoronavirus.com" static
 local-zone: "facemaskforcovid19.com" static
 local-zone: "facemasks-covid19.com" static
+local-zone: "facemaskscovid-19.com" static
 local-zone: "facemaskscovid.com" static
 local-zone: "facemasksforcoronavirus.net" static
 local-zone: "facemasksforcovid19.com" static
@@ -41661,6 +41668,7 @@ local-zone: "healcoronaviruses.com" static
 local-zone: "healcoronavirusfear.com" static
 local-zone: "heal-covid19.com" static
 local-zone: "healcovid19.com" static
+local-zone: "healcovid19.eu" static
 local-zone: "healcovid19.pl" static
 local-zone: "heal-covid.com" static
 local-zone: "healcovid.com" static
@@ -53940,7 +53948,6 @@ local-zone: "unitedwayeocovid19.ca" static
 local-zone: "unitedxcovid19.com" static
 local-zone: "uniticontroilcoronavirus.com" static
 local-zone: "uniticontroilcovid19.com" static
-local-zone: "uniticontroilcovid19.it" static
 local-zone: "unityduringpandemic.com" static
 local-zone: "universalcorona.com" static
 local-zone: "universalpandemic.com" static
