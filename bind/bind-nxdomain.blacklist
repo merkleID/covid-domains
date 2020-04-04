@@ -44976,6 +44976,8 @@ covid19cities.com CNAME .
 *.covid19cities.com CNAME .
 covid19.citizensfoundations.org CNAME .
 *.covid19.citizensfoundations.org CNAME .
+covid19city.com CNAME .
+*.covid19city.com CNAME .
 covid-19.city-desk.fr CNAME .
 *.covid-19.city-desk.fr CNAME .
 covid19-citylife-line.nu-dev.smith.ac CNAME .
@@ -47474,6 +47476,8 @@ covid19dz.info CNAME .
 *.covid19dz.info CNAME .
 covid19-dz.live CNAME .
 *.covid19-dz.live CNAME .
+covid19dz.net CNAME .
+*.covid19dz.net CNAME .
 covid19.e8demo.com CNAME .
 *.covid19.e8demo.com CNAME .
 covid19.ea-global-eu.elastic.dev CNAME .
@@ -102894,8 +102898,6 @@ succeedingagainstcorona.com CNAME .
 *.succeedingagainstcorona.com CNAME .
 successbeyondcorona.com CNAME .
 *.successbeyondcorona.com CNAME .
-suckitcovid19.com CNAME .
-*.suckitcovid19.com CNAME .
 suckitcovid.com CNAME .
 *.suckitcovid.com CNAME .
 sudancoronavirus.com CNAME .
@@ -106736,6 +106738,10 @@ tiarashopde.corona-virus-mask.eu CNAME .
 *.tiarashopde.corona-virus-mask.eu CNAME .
 tiarashopit.corona-virus-mask.eu CNAME .
 *.tiarashopit.corona-virus-mask.eu CNAME .
+tiarashopru.corona-virus-mask.eu CNAME .
+*.tiarashopru.corona-virus-mask.eu CNAME .
+tiarashopus.corona-virus-mask.eu CNAME .
+*.tiarashopus.corona-virus-mask.eu CNAME .
 tidforcovid.com CNAME .
 *.tidforcovid.com CNAME .
 tiendacoronavirus.com CNAME .
@@ -107940,6 +107946,8 @@ upperhandwuhan.com CNAME .
 *.upperhandwuhan.com CNAME .
 uptodate-coronavirustrackers.com CNAME .
 *.uptodate-coronavirustrackers.com CNAME .
+upworkcovid19.zendesk.com CNAME .
+*.upworkcovid19.zendesk.com CNAME .
 upyourscovid.com CNAME .
 *.upyourscovid.com CNAME .
 urbancorona.com CNAME .
@@ -113128,6 +113136,8 @@ www.iodanticovid19.ru CNAME .
 *.www.iodanticovid19.ru CNAME .
 www.iran-covid19.com CNAME .
 *.www.iran-covid19.com CNAME .
+www.irshelpcovid19.com CNAME .
+*.www.irshelpcovid19.com CNAME .
 www.istomcovid19.fr CNAME .
 *.www.istomcovid19.fr CNAME .
 www.isurvivedcoronavirusshop.com CNAME .

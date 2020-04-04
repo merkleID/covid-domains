@@ -22485,6 +22485,7 @@ local-zone: "covid-19.cirhospital.com" static
 local-zone: "covid19.citibot.io" static
 local-zone: "covid19cities.com" static
 local-zone: "covid19.citizensfoundations.org" static
+local-zone: "covid19city.com" static
 local-zone: "covid-19.city-desk.fr" static
 local-zone: "covid19-citylife-line.nu-dev.smith.ac" static
 local-zone: "covid19.cityofpiraeus.org" static
@@ -23734,6 +23735,7 @@ local-zone: "covid19-dz.com" static
 local-zone: "covid19dz.com" static
 local-zone: "covid19dz.info" static
 local-zone: "covid19-dz.live" static
+local-zone: "covid19dz.net" static
 local-zone: "covid19.e8demo.com" static
 local-zone: "covid19.ea-global-eu.elastic.dev" static
 local-zone: "covid19earlyalert.com" static
@@ -51444,7 +51446,6 @@ local-zone: "subsidiocovid19.com" static
 local-zone: "subvencionescoronavirus.com" static
 local-zone: "succeedingagainstcorona.com" static
 local-zone: "successbeyondcorona.com" static
-local-zone: "suckitcovid19.com" static
 local-zone: "suckitcovid.com" static
 local-zone: "sudancoronavirus.com" static
 local-zone: "suechinaforcoronavirus.com" static
@@ -53365,6 +53366,8 @@ local-zone: "tiaacovid.net" static
 local-zone: "tiaragalianoeu.corona-virus-mask.eu" static
 local-zone: "tiarashopde.corona-virus-mask.eu" static
 local-zone: "tiarashopit.corona-virus-mask.eu" static
+local-zone: "tiarashopru.corona-virus-mask.eu" static
+local-zone: "tiarashopus.corona-virus-mask.eu" static
 local-zone: "tidforcovid.com" static
 local-zone: "tiendacoronavirus.com" static
 local-zone: "tienecoronavirus.com" static
@@ -53967,6 +53970,7 @@ local-zone: "upliftingstoriescoronavirus.com" static
 local-zone: "upliftingstoriescovid19.com" static
 local-zone: "upperhandwuhan.com" static
 local-zone: "uptodate-coronavirustrackers.com" static
+local-zone: "upworkcovid19.zendesk.com" static
 local-zone: "upyourscovid.com" static
 local-zone: "urbancorona.com" static
 local-zone: "urbanpandemics.com" static
@@ -56561,6 +56565,7 @@ local-zone: "www.info.lillycovid19testing.com" static
 local-zone: "www.information-covid19.com" static
 local-zone: "www.iodanticovid19.ru" static
 local-zone: "www.iran-covid19.com" static
+local-zone: "www.irshelpcovid19.com" static
 local-zone: "www.istomcovid19.fr" static
 local-zone: "www.isurvivedcoronavirusshop.com" static
 local-zone: "www.i-survivedcovid-19.com" static
