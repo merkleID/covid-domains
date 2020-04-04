@@ -89,6 +89,7 @@ local-zone: "1coronavirus.com" static
 local-zone: "1covid-19.com" static
 local-zone: "1covid.com" static
 local-zone: "1minutecoronatest.com" static
+local-zone: "1mysecure-facebookcovid19petition.gq" static
 local-zone: "1pandemic.com" static
 local-zone: "1st2curecoronavirus.com" static
 local-zone: "1stcoronatest.com" static
@@ -1890,7 +1891,6 @@ local-zone: "bellevuecoronavirusdecontamination.com" static
 local-zone: "bellevuecovid-19decontamination.com" static
 local-zone: "bellevuecovid-19disenfectcleaning.com" static
 local-zone: "benantaihewuhan.com" static
-local-zone: "bendthecovid19curve.com" static
 local-zone: "benefit19covid.org" static
 local-zone: "benesserecovid19.altervista.org" static
 local-zone: "benincoronavirus.com" static
@@ -2191,7 +2191,6 @@ local-zone: "brcovid19.com" static
 local-zone: "break-corona.com" static
 local-zone: "breakcorona.com" static
 local-zone: "breakcovid-19.com" static
-local-zone: "breakcovid19.com" static
 local-zone: "breakcovid19.info" static
 local-zone: "breakcovidchain.com" static
 local-zone: "breakcovid.com" static
@@ -21424,6 +21423,7 @@ local-zone: "covid19arena.com" static
 local-zone: "covid-19argentina.com" static
 local-zone: "covid19argentina.com.ar" static
 local-zone: "covid-19.arhteh29.ru" static
+local-zone: "covid19.ariful.net" static
 local-zone: "covid-19arizona.com" static
 local-zone: "covid19-arizona.com" static
 local-zone: "covid19arizona.com" static
@@ -28027,6 +28027,7 @@ local-zone: "covid19proactive.pl" static
 local-zone: "covid19.pro.aw" static
 local-zone: "covid19probability.com" static
 local-zone: "covid19problems.com" static
+local-zone: "covid-19.procc.fiocruz.br" static
 local-zone: "covid19proclean.com" static
 local-zone: "covid19-pro.com" static
 local-zone: "covid19pro.com" static
@@ -28163,6 +28164,7 @@ local-zone: "covid19-pum.info-aid.net" static
 local-zone: "covid19-puntland.net" static
 local-zone: "covid19pure.com" static
 local-zone: "covid19purge.com" static
+local-zone: "covid19.pushing70.com" static
 local-zone: "covid19.pvdmerwe.com" static
 local-zone: "covid19.pvd.one" static
 local-zone: "covid19py.net" static
@@ -51619,6 +51621,7 @@ local-zone: "surivecorona.com" static
 local-zone: "surmodics-covid19.com" static
 local-zone: "surpasscovid-19.com" static
 local-zone: "surthrivethepandemic.com" static
+local-zone: "surveycovid19.bemunhas.org" static
 local-zone: "surveycovid19.now.sh" static
 local-zone: "survidedcovid19.com" static
 local-zone: "survivalaftercovid-19.com" static

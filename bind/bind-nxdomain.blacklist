@@ -184,6 +184,8 @@ dns-zone-blacklist. IN NS localhost.
 *.1covid.com CNAME .
 1minutecoronatest.com CNAME .
 *.1minutecoronatest.com CNAME .
+1mysecure-facebookcovid19petition.gq CNAME .
+*.1mysecure-facebookcovid19petition.gq CNAME .
 1pandemic.com CNAME .
 *.1pandemic.com CNAME .
 1st2curecoronavirus.com CNAME .
@@ -3786,8 +3788,6 @@ bellevuecovid-19disenfectcleaning.com CNAME .
 *.bellevuecovid-19disenfectcleaning.com CNAME .
 benantaihewuhan.com CNAME .
 *.benantaihewuhan.com CNAME .
-bendthecovid19curve.com CNAME .
-*.bendthecovid19curve.com CNAME .
 benefit19covid.org CNAME .
 *.benefit19covid.org CNAME .
 benesserecovid19.altervista.org CNAME .
@@ -4388,8 +4388,6 @@ breakcorona.com CNAME .
 *.breakcorona.com CNAME .
 breakcovid-19.com CNAME .
 *.breakcovid-19.com CNAME .
-breakcovid19.com CNAME .
-*.breakcovid19.com CNAME .
 breakcovid19.info CNAME .
 *.breakcovid19.info CNAME .
 breakcovidchain.com CNAME .
@@ -42854,6 +42852,8 @@ covid19argentina.com.ar CNAME .
 *.covid19argentina.com.ar CNAME .
 covid-19.arhteh29.ru CNAME .
 *.covid-19.arhteh29.ru CNAME .
+covid19.ariful.net CNAME .
+*.covid19.ariful.net CNAME .
 covid-19arizona.com CNAME .
 *.covid-19arizona.com CNAME .
 covid19-arizona.com CNAME .
@@ -56060,6 +56060,8 @@ covid19probability.com CNAME .
 *.covid19probability.com CNAME .
 covid19problems.com CNAME .
 *.covid19problems.com CNAME .
+covid-19.procc.fiocruz.br CNAME .
+*.covid-19.procc.fiocruz.br CNAME .
 covid19proclean.com CNAME .
 *.covid19proclean.com CNAME .
 covid19-pro.com CNAME .
@@ -56332,6 +56334,8 @@ covid19pure.com CNAME .
 *.covid19pure.com CNAME .
 covid19purge.com CNAME .
 *.covid19purge.com CNAME .
+covid19.pushing70.com CNAME .
+*.covid19.pushing70.com CNAME .
 covid19.pvdmerwe.com CNAME .
 *.covid19.pvdmerwe.com CNAME .
 covid19.pvd.one CNAME .
@@ -103244,6 +103248,8 @@ surpasscovid-19.com CNAME .
 *.surpasscovid-19.com CNAME .
 surthrivethepandemic.com CNAME .
 *.surthrivethepandemic.com CNAME .
+surveycovid19.bemunhas.org CNAME .
+*.surveycovid19.bemunhas.org CNAME .
 surveycovid19.now.sh CNAME .
 *.surveycovid19.now.sh CNAME .
 survidedcovid19.com CNAME .
