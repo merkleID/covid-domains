@@ -1630,6 +1630,7 @@ local-zone: "azcovidproject.com" static
 local-zone: "azecovid19.com" static
 local-zone: "azecovid19.net" static
 local-zone: "azerbaijancoronavirus.com" static
+local-zone: "azil-covid19.yj.fr" static
 local-zone: "azithromycincovid19.com" static
 local-zone: "azoncologycovid-19.com" static
 local-zone: "azpandemic.com" static
@@ -17252,6 +17253,7 @@ local-zone: "coronavirus.ngo" static
 local-zone: "coronavirusnh.com" static
 local-zone: "coronavirusnhl.com" static
 local-zone: "coronavirus-nhs.com" static
+local-zone: "coronavirus.nhsfife.org" static
 local-zone: "coronavirusnicaragua.com" static
 local-zone: "coronavirusnicaragua.net" static
 local-zone: "coronavirus.nicheautomaticsites.com" static
@@ -21742,6 +21744,7 @@ local-zone: "covid-19.bezelhost.com" static
 local-zone: "covid19.bgcarlisle.com" static
 local-zone: "covid19-bg.com" static
 local-zone: "covid19bg.com" static
+local-zone: "covid-19-bg.onrender.com" static
 local-zone: "covid19.bgsuae.com" static
 local-zone: "covid19bharat.com" static
 local-zone: "covid19bharat.info" static
@@ -25913,6 +25916,7 @@ local-zone: "covid19.kotamobagukota.go.id" static
 local-zone: "covid19kota.undanganku.id" static
 local-zone: "covid19.kowismu.or.id" static
 local-zone: "covid19kr.com" static
+local-zone: "covid19.kreateng.com" static
 local-zone: "covid19.kreatorapps.com" static
 local-zone: "covid19.kripthor.xyz" static
 local-zone: "covid19.kriptonian.com" static
@@ -30654,7 +30658,6 @@ local-zone: "covid19trial.com" static
 local-zone: "covid19trial.de" static
 local-zone: "covid-19triallawyer.com" static
 local-zone: "covid19triallawyer.com" static
-local-zone: "covid19trial.my3cx.de" static
 local-zone: "covid-19-trials.com" static
 local-zone: "covid-19trials.com" static
 local-zone: "covid19-trials.com" static
@@ -44967,6 +44970,7 @@ local-zone: "mdlivecovid19.com" static
 local-zone: "mdlivecovid-19physicians.com" static
 local-zone: "mdlivecovid19physicians.com" static
 local-zone: "me2corona.com" static
+local-zone: "meadareacovid19response.com" static
 local-zone: "meaftercovid19.com" static
 local-zone: "meandcorona.com" static
 local-zone: "me-corona-and-i.com" static
@@ -49775,7 +49779,6 @@ local-zone: "reliefforcorona.net" static
 local-zone: "reliefforcoronavid19.com" static
 local-zone: "reliefforcovid-19.com" static
 local-zone: "relievecoronavirusstress.com" static
-local-zone: "remboursement.coronavirus-edf.fr" static
 local-zone: "remboursementcovid19.com" static
 local-zone: "remboursementcovid19.eu" static
 local-zone: "remboursementcovid19.fr" static
@@ -51307,6 +51310,7 @@ local-zone: "stopcovid19now.de" static
 local-zone: "stop-covid19.online" static
 local-zone: "stop-covid19.org" static
 local-zone: "stopcovid19.pichuchen.tw" static
+local-zone: "stopcovid19-sites.site" static
 local-zone: "stop-covid19.sk" static
 local-zone: "stopcovid19test.com" static
 local-zone: "stopcovid19today.com" static
@@ -54128,6 +54132,7 @@ local-zone: "uscovid19laws.net" static
 local-zone: "uscovid-19map.com" static
 local-zone: "uscovid-19map.org" static
 local-zone: "uscovid19memorial.com" static
+local-zone: "uscovid-19memorial.xyz" static
 local-zone: "us-covid-19.now.sh" static
 local-zone: "us.covid19ps.com" static
 local-zone: "us.covid19signs.info" static
@@ -56219,7 +56224,6 @@ local-zone: "www.covid19messages.bigreddog.com.au" static
 local-zone: "www.covid19metadata.com" static
 local-zone: "www.covid19microsimulation.com" static
 local-zone: "www.covid19.midnapore.in" static
-local-zone: "www.covid19.ml" static
 local-zone: "www.covid19monitor.ru" static
 local-zone: "www.covid19mouthmask.com" static
 local-zone: "www.covid-19movement.com" static
