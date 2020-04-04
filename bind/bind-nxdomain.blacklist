@@ -30058,8 +30058,6 @@ coronavirus-france.fr CNAME .
 *.coronavirus-france.fr CNAME .
 coronavirus-france.net CNAME .
 *.coronavirus-france.net CNAME .
-coronavirusfrance.net CNAME .
-*.coronavirusfrance.net CNAME .
 coronavirus-france.online CNAME .
 *.coronavirus-france.online CNAME .
 coronavirusfrance.org CNAME .
@@ -49126,6 +49124,8 @@ covid19games.com CNAME .
 *.covid19games.com CNAME .
 covid19.gampong.net CNAME .
 *.covid19.gampong.net CNAME .
+covid-19ga.org CNAME .
+*.covid-19ga.org CNAME .
 covid19garance.cz CNAME .
 *.covid19garance.cz CNAME .
 covid19garance.eu CNAME .
@@ -62922,6 +62922,8 @@ covid-19worldnews.com CNAME .
 *.covid-19worldnews.com CNAME .
 covid19worldnews.live CNAME .
 *.covid19worldnews.live CNAME .
+covid19worldometers.com CNAME .
+*.covid19worldometers.com CNAME .
 covid-19worldpandemic.com CNAME .
 *.covid-19worldpandemic.com CNAME .
 covid19worldpandemic.com CNAME .
@@ -111624,6 +111626,8 @@ www.coronavirus-officialonline.ru CNAME .
 *.www.coronavirus-officialonline.ru CNAME .
 www.coronavirusonline.com.ua CNAME .
 *.www.coronavirusonline.com.ua CNAME .
+www.coronavirus-online.ru CNAME .
+*.www.coronavirus-online.ru CNAME .
 www.coronavirusonlineshop.com CNAME .
 *.www.coronavirusonlineshop.com CNAME .
 www.coronavirus-online-today.ru CNAME .
@@ -112952,6 +112956,8 @@ www.covid19.wapac.my.id CNAME .
 *.www.covid19.wapac.my.id CNAME .
 www.covid-19war.com CNAME .
 *.www.covid-19war.com CNAME .
+www.covid19ware.com CNAME .
+*.www.covid19ware.com CNAME .
 www.covid19warmasks.com CNAME .
 *.www.covid19warmasks.com CNAME .
 www.covid19warning.org CNAME .
@@ -113550,8 +113556,6 @@ www.oneagainstcovid19.ph CNAME .
 *.www.oneagainstcovid19.ph CNAME .
 www.onlinecovid19.info CNAME .
 *.www.onlinecovid19.info CNAME .
-www.onlinecovid19.ru CNAME .
-*.www.onlinecovid19.ru CNAME .
 www.onsite.lillycovid19testing.com CNAME .
 *.www.onsite.lillycovid19testing.com CNAME .
 www.opensourceagainstcovid19.org CNAME .

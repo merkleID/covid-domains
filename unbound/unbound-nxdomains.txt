@@ -15026,7 +15026,6 @@ local-zone: "corona-virus-france.com" static
 local-zone: "coronavirus-france.filmenfrance.fr" static
 local-zone: "coronavirus-france.fr" static
 local-zone: "coronavirus-france.net" static
-local-zone: "coronavirusfrance.net" static
 local-zone: "coronavirus-france.online" static
 local-zone: "coronavirusfrance.org" static
 local-zone: "coronavirus-france.ru" static
@@ -24560,6 +24559,7 @@ local-zone: "covid-19.gamerbadhan.xyz" static
 local-zone: "covid-19games.com" static
 local-zone: "covid19games.com" static
 local-zone: "covid19.gampong.net" static
+local-zone: "covid-19ga.org" static
 local-zone: "covid19garance.cz" static
 local-zone: "covid19garance.eu" static
 local-zone: "covid19.garantprava.com" static
@@ -31458,6 +31458,7 @@ local-zone: "covid19worldmonument.com" static
 local-zone: "covid19world.net" static
 local-zone: "covid-19worldnews.com" static
 local-zone: "covid19worldnews.live" static
+local-zone: "covid19worldometers.com" static
 local-zone: "covid-19worldpandemic.com" static
 local-zone: "covid19worldpandemic.com" static
 local-zone: "covid19worlds.com" static
@@ -55809,6 +55810,7 @@ local-zone: "www.coronavirusofficialnews.com" static
 local-zone: "www.coronavirus-officialonline.online" static
 local-zone: "www.coronavirus-officialonline.ru" static
 local-zone: "www.coronavirusonline.com.ua" static
+local-zone: "www.coronavirus-online.ru" static
 local-zone: "www.coronavirusonlineshop.com" static
 local-zone: "www.coronavirus-online-today.ru" static
 local-zone: "www.coronavirus-on.ru" static
@@ -56473,6 +56475,7 @@ local-zone: "www.covid19.vitaminax.ro" static
 local-zone: "www.covid19v.world" static
 local-zone: "www.covid19.wapac.my.id" static
 local-zone: "www.covid-19war.com" static
+local-zone: "www.covid19ware.com" static
 local-zone: "www.covid19warmasks.com" static
 local-zone: "www.covid19warning.org" static
 local-zone: "www.covid19warplan.com" static
@@ -56772,7 +56775,6 @@ local-zone: "www.officialcovid19testkit.com" static
 local-zone: "www.oldschool.runescape-covid-19.info" static
 local-zone: "www.oneagainstcovid19.ph" static
 local-zone: "www.onlinecovid19.info" static
-local-zone: "www.onlinecovid19.ru" static
 local-zone: "www.onsite.lillycovid19testing.com" static
 local-zone: "www.opensourceagainstcovid19.org" static
 local-zone: "www.orientacioncoronavirus.com" static
