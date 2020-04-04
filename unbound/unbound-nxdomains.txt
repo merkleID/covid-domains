@@ -2511,6 +2511,7 @@ local-zone: "canadacovidresponse.com" static
 local-zone: "canadasurvivedcovid19.com" static
 local-zone: "canadavscovid19.com" static
 local-zone: "canadavscovid.com" static
+local-zone: "canadianmalayaleesforcovid19.com" static
 local-zone: "canalisateurs-covid19.fr" static
 local-zone: "cancelcorona.com" static
 local-zone: "cancelcorona.net" static
@@ -17949,6 +17950,7 @@ local-zone: "coronavirusprophet.com" static
 local-zone: "coronavirus.proprietary-data.com" static
 local-zone: "coronaviruspro.shop" static
 local-zone: "coronavirusproteccion.com" static
+local-zone: "coronavirusprotect.com" static
 local-zone: "coronavirus-protected.com" static
 local-zone: "coronavirusprotected.org" static
 local-zone: "coronavirusprotection2020.com" static
@@ -21203,6 +21205,7 @@ local-zone: "covid19altmed.com" static
 local-zone: "covid19amadora.pt" static
 local-zone: "covid19.amanahfoundation.org" static
 local-zone: "covid19amazon.com" static
+local-zone: "covid19.ambyars.com" static
 local-zone: "covid19americabankpayment.com" static
 local-zone: "covid-19america.com" static
 local-zone: "covid19-america.com" static
@@ -25106,6 +25109,7 @@ local-zone: "covid19homekits.com" static
 local-zone: "covid19homelab.com" static
 local-zone: "covid19homelabtest.com" static
 local-zone: "covid19-homelife.com" static
+local-zone: "covid19home.loan" static
 local-zone: "covid19homeloan.com" static
 local-zone: "covid19homeloans.com" static
 local-zone: "covid19homemodification.com" static
@@ -31467,6 +31471,7 @@ local-zone: "covid19worldnews.live" static
 local-zone: "covid19worldometers.com" static
 local-zone: "covid-19worldpandemic.com" static
 local-zone: "covid19worldpandemic.com" static
+local-zone: "covid19worldreport.com" static
 local-zone: "covid19worlds.com" static
 local-zone: "covid-19worldstatistics.com" static
 local-zone: "covid19worldstats.now.sh" static
@@ -33131,6 +33136,7 @@ local-zone: "covid-coronavirus.com" static
 local-zone: "covid-coronavirus.fr" static
 local-zone: "covid-corona-virus.info" static
 local-zone: "covid-coronavirus.net" static
+local-zone: "covid-coronavirus.news" static
 local-zone: "covidcorp.com" static
 local-zone: "covidcorporatebailout.com" static
 local-zone: "covidcorporateresponsibility.com" static
@@ -57039,6 +57045,7 @@ local-zone: "xcoronakiller.com" static
 local-zone: "x-coronavirus.com" static
 local-zone: "xcoronavirus.com" static
 local-zone: "xcoronavirus.ru" static
+local-zone: "xcoronavirus.tk" static
 local-zone: "xcoronavirusx.com" static
 local-zone: "xcovid-19.com" static
 local-zone: "xcovid9teen.com" static
