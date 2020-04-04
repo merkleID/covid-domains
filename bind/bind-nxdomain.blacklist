@@ -1472,8 +1472,6 @@ alliance-covid-19.org CNAME .
 *.alliance-covid-19.org CNAME .
 alliancepro-covid19.fr CNAME .
 *.alliancepro-covid19.fr CNAME .
-alliancepro-covid19.org CNAME .
-*.alliancepro-covid19.org CNAME .
 allocoronavirus.org CNAME .
 *.allocoronavirus.org CNAME .
 allocovid19.com CNAME .
@@ -24076,8 +24074,6 @@ coronavirus1.es CNAME .
 *.coronavirus1.es CNAME .
 coronavirus1hrwarmcure.com CNAME .
 *.coronavirus1hrwarmcure.com CNAME .
-coronavirus1.online CNAME .
-*.coronavirus1.online CNAME .
 coronavirus1poimt3acres.com CNAME .
 *.coronavirus1poimt3acres.com CNAME .
 coronavirus1point3acres.com CNAME .
@@ -43052,6 +43048,8 @@ covid19-aus.com CNAME .
 *.covid19-aus.com CNAME .
 covid19aus.com CNAME .
 *.covid19aus.com CNAME .
+covid19-aus-mentalhealthsurvey.com CNAME .
+*.covid19-aus-mentalhealthsurvey.com CNAME .
 covid-19australia.com CNAME .
 *.covid-19australia.com CNAME .
 covid19australia.com CNAME .
@@ -46900,6 +46898,8 @@ covid-19-dev-api.berdodee.com CNAME .
 *.covid-19-dev-api.berdodee.com CNAME .
 covid19-dev.cdmx.gob.mx CNAME .
 *.covid19-dev.cdmx.gob.mx CNAME .
+covid19-dev.dannyhp.com CNAME .
+*.covid19-dev.dannyhp.com CNAME .
 covid19-dev.eipm-research.org CNAME .
 *.covid19-dev.eipm-research.org CNAME .
 covid-19.devel.wdf.cz CNAME .
@@ -47184,6 +47184,8 @@ covid19.dispatchhealth.com CNAME .
 *.covid19.dispatchhealth.com CNAME .
 covid19.disperse.io CNAME .
 *.covid19.disperse.io CNAME .
+covid19disposablemask.com CNAME .
+*.covid19disposablemask.com CNAME .
 covid19dispute.com CNAME .
 *.covid19dispute.com CNAME .
 covid-19disputeresolution.com CNAME .
@@ -48432,8 +48434,6 @@ covid19femassistance.com CNAME .
 *.covid19femassistance.com CNAME .
 covid-19.fendtube.com CNAME .
 *.covid-19.fendtube.com CNAME .
-covid19.fernandes.org CNAME .
-*.covid19.fernandes.org CNAME .
 covid19.fespugtclm.es CNAME .
 *.covid19.fespugtclm.es CNAME .
 covid19fest.com CNAME .
@@ -52624,6 +52624,8 @@ covid-19loan.guru CNAME .
 *.covid-19loan.guru CNAME .
 covid19loanhelp.com CNAME .
 *.covid19loanhelp.com CNAME .
+covid19loan.kutmb.my CNAME .
+*.covid19loan.kutmb.my CNAME .
 covid19loanmessenger.com CNAME .
 *.covid19loanmessenger.com CNAME .
 covid19loanmessengers.com CNAME .
@@ -54464,6 +54466,8 @@ covid19nj.com CNAME .
 *.covid19nj.com CNAME .
 covid19njjobs.com CNAME .
 *.covid19njjobs.com CNAME .
+covid19nj.news CNAME .
+*.covid19nj.news CNAME .
 covid19njpro.com CNAME .
 *.covid19njpro.com CNAME .
 covid19nl.com CNAME .
@@ -59450,8 +59454,6 @@ covid19-supply-chain-models.com CNAME .
 *.covid19-supply-chain-models.com CNAME .
 covid19supplychainmodels.com CNAME .
 *.covid19supplychainmodels.com CNAME .
-covid19-supply-chain-models.org CNAME .
-*.covid19-supply-chain-models.org CNAME .
 covid-19supplychain.net CNAME .
 *.covid-19supplychain.net CNAME .
 covid19supplyco.com CNAME .
@@ -62496,8 +62498,6 @@ covid-19warmline.com CNAME .
 *.covid-19warmline.com CNAME .
 covid19warmline.com CNAME .
 *.covid19warmline.com CNAME .
-covid-19warmline.org CNAME .
-*.covid-19warmline.org CNAME .
 covid-19warnings.com CNAME .
 *.covid-19warnings.com CNAME .
 covid19warnings.com CNAME .
@@ -85728,8 +85728,6 @@ innovativecorona.com CNAME .
 *.innovativecorona.com CNAME .
 innovativecovid.com CNAME .
 *.innovativecovid.com CNAME .
-inscripcio.estudicovid19.org CNAME .
-*.inscripcio.estudicovid19.org CNAME .
 insideapandemic.com CNAME .
 *.insideapandemic.com CNAME .
 inside-corona.com CNAME .
@@ -109440,8 +109438,6 @@ webmail.covid19misinfo.org CNAME .
 *.webmail.covid19misinfo.org CNAME .
 webmail.covid19-status.live CNAME .
 *.webmail.covid19-status.live CNAME .
-webmail.offizieller-coronavirus-ratgeber.de CNAME .
-*.webmail.offizieller-coronavirus-ratgeber.de CNAME .
 webmail.testcoronavirusonline.com CNAME .
 *.webmail.testcoronavirusonline.com CNAME .
 webmail.thecovid-19.info CNAME .
@@ -111924,6 +111920,8 @@ www.covid19biztools.com CNAME .
 *.www.covid19biztools.com CNAME .
 www.covid19boards.com CNAME .
 *.www.covid19boards.com CNAME .
+www.covid19box.ca CNAME .
+*.www.covid19box.ca CNAME .
 www.covid19breaking.news CNAME .
 *.www.covid19breaking.news CNAME .
 www.covid19.btouch.ch CNAME .
@@ -112056,6 +112054,8 @@ www.covid19.direct CNAME .
 *.www.covid19.direct CNAME .
 www.covid-19dishes.com CNAME .
 *.www.covid-19dishes.com CNAME .
+www.covid19disposablemask.com CNAME .
+*.www.covid19disposablemask.com CNAME .
 www.covid-19-donations.org CNAME .
 *.www.covid-19-donations.org CNAME .
 www.covid19-donations.org CNAME .
@@ -113002,6 +113002,8 @@ www.e-covid19updates.com CNAME .
 *.www.e-covid19updates.com CNAME .
 www.educationandcoronavirus.co.uk CNAME .
 *.www.educationandcoronavirus.co.uk CNAME .
+www.eeyoucovid19.org CNAME .
+*.www.eeyoucovid19.org CNAME .
 www.eeyouistcheecovid19.org CNAME .
 *.www.eeyouistcheecovid19.org CNAME .
 www.effcovid-19.com CNAME .
