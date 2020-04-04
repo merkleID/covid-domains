@@ -2812,7 +2812,6 @@ local-zone: "cflaldiacovid.com" static
 local-zone: "cflcovid.com" static
 local-zone: "cfpcovid19.com" static
 local-zone: "cger-covid-19.com" static
-local-zone: "cgfcovid19.org" static
 local-zone: "chadcoronavirus.com" static
 local-zone: "challengecovid-19.com" static
 local-zone: "challengecovid19.com" static
@@ -2976,7 +2975,6 @@ local-zone: "chinascovid19.com" static
 local-zone: "chinasfaultcovid19.com" static
 local-zone: "china-virus.com" static
 local-zone: "chinavirusdata.com" static
-local-zone: "chinaviruses.com" static
 local-zone: "chinaviruspandemic.com" static
 local-zone: "chinawuhancoronavirus.com" static
 local-zone: "chinawuhanvirus.com" static
@@ -17602,6 +17600,7 @@ local-zone: "coronavirusparodies.com" static
 local-zone: "coronavirusparody.com" static
 local-zone: "coronavirusparties.com" static
 local-zone: "coronaviruspartner.com" static
+local-zone: "coronavirus.partners" static
 local-zone: "coronaviruspartners.com" static
 local-zone: "coronavirusparttimework.com" static
 local-zone: "corona-virus.party" static
@@ -24643,7 +24642,6 @@ local-zone: "covid19gis.com" static
 local-zone: "covid19gis.gradtrunk.com" static
 local-zone: "covid-19give.com" static
 local-zone: "covid19give.com" static
-local-zone: "covid19.give.providence.org" static
 local-zone: "covid-19givingback.com" static
 local-zone: "covid19glass.com" static
 local-zone: "covid-19.global3.com.br" static
@@ -25420,6 +25418,7 @@ local-zone: "covid-19-india.com" static
 local-zone: "covid-19india.com" static
 local-zone: "covid19-india.com" static
 local-zone: "covid19india.delivery" static
+local-zone: "covid19india.fingersfun.com" static
 local-zone: "covid19.indiagreatsale.ml" static
 local-zone: "covid19india.grsknow.com" static
 local-zone: "covid19india.life" static
@@ -31083,6 +31082,7 @@ local-zone: "covid19vietnam.com" static
 local-zone: "covid19vietnam.today" static
 local-zone: "covid19.vietsoft.site" static
 local-zone: "covid19view.com" static
+local-zone: "covid19-viewer.info-aid.net" static
 local-zone: "covid19views.org" static
 local-zone: "covid19.vigilantesdeseguridad.com" static
 local-zone: "covid19.vincurekf.cz" static
@@ -43903,6 +43903,7 @@ local-zone: "kreditcorona.com" static
 local-zone: "kredit-coronavirus.de" static
 local-zone: "kreweofcorona.com" static
 local-zone: "krise-corona.com" static
+local-zone: "kronikacoronavirus.pl" static
 local-zone: "ksacoronasurvey.com" static
 local-zone: "ksbroadcasterscovid19.com" static
 local-zone: "kscoronavirus.com" static
