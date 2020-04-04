@@ -2028,8 +2028,6 @@ anticorona.zone CNAME .
 *.anticorona.zone CNAME .
 anticovid19.app CNAME .
 *.anticovid19.app CNAME .
-anti-covid19.ca CNAME .
-*.anti-covid19.ca CNAME .
 anticovid19.center CNAME .
 *.anticovid19.center CNAME .
 anticovid-19.chinestate.com CNAME .
@@ -6764,8 +6762,6 @@ combatcorona.world CNAME .
 *.combatcorona.world CNAME .
 combatcovid19.com CNAME .
 *.combatcovid19.com CNAME .
-combatcovid19ke.ml CNAME .
-*.combatcovid19ke.ml CNAME .
 combatcovid19us.com CNAME .
 *.combatcovid19us.com CNAME .
 combatcovid19.world CNAME .
@@ -48662,6 +48658,8 @@ covid19.flowme.online CNAME .
 *.covid19.flowme.online CNAME .
 covid19.flowsa.com CNAME .
 *.covid19.flowsa.com CNAME .
+covid19.flowtrac.com CNAME .
+*.covid19.flowtrac.com CNAME .
 covid-19-flu.com CNAME .
 *.covid-19-flu.com CNAME .
 covid19-flu.com CNAME .
@@ -53742,6 +53740,8 @@ covid19.mkpl.co CNAME .
 *.covid19.mkpl.co CNAME .
 covid19mk.sytes.net CNAME .
 *.covid19mk.sytes.net CNAME .
+covid19.ml CNAME .
+*.covid19.ml CNAME .
 covid-19.mm09com.xyz CNAME .
 *.covid-19.mm09com.xyz CNAME .
 covid19.mmspace.com.au CNAME .
@@ -57496,6 +57496,8 @@ covid19roundtable.com CNAME .
 *.covid19roundtable.com CNAME .
 covid19route.com CNAME .
 *.covid19route.com CNAME .
+covid-19.roxant.com CNAME .
+*.covid-19.roxant.com CNAME .
 covid-19.royalbanknotification.com CNAME .
 *.covid-19.royalbanknotification.com CNAME .
 covid19.royalbeats.in CNAME .
@@ -60822,6 +60824,8 @@ covid19thinktank.net CNAME .
 *.covid19thinktank.net CNAME .
 covid19.thirdrivermarketing.com CNAME .
 *.covid19.thirdrivermarketing.com CNAME .
+covid19th.org CNAME .
+*.covid19th.org CNAME .
 covid19thoughts.com CNAME .
 *.covid19thoughts.com CNAME .
 covid19.thowimmer.com CNAME .
@@ -89106,8 +89110,6 @@ luvinthetimeofcovid19.com CNAME .
 *.luvinthetimeofcovid19.com CNAME .
 luvinthetimeofcovid.com CNAME .
 *.luvinthetimeofcovid.com CNAME .
-lux-covid19.lu CNAME .
-*.lux-covid19.lu CNAME .
 luzcorona.com CNAME .
 *.luzcorona.com CNAME .
 lvcoronarelief.com CNAME .
@@ -110954,6 +110956,8 @@ www.anticoronavirusshop.com CNAME .
 *.www.anticoronavirusshop.com CNAME .
 www.anticoronavirus.site CNAME .
 *.www.anticoronavirus.site CNAME .
+www.anti-covid19.ca CNAME .
+*.www.anti-covid19.ca CNAME .
 www.anti-covid19.center CNAME .
 *.www.anti-covid19.center CNAME .
 www.anticovid19.ch CNAME .
@@ -112424,6 +112428,8 @@ www.covid19microsimulation.com CNAME .
 *.www.covid19microsimulation.com CNAME .
 www.covid19.midnapore.in CNAME .
 *.www.covid19.midnapore.in CNAME .
+www.covid19.ml CNAME .
+*.www.covid19.ml CNAME .
 www.covid19monitor.ru CNAME .
 *.www.covid19monitor.ru CNAME .
 www.covid19mouthmask.com CNAME .
@@ -113624,8 +113630,6 @@ www.simplecoronavirus.com CNAME .
 *.www.simplecoronavirus.com CNAME .
 www.siparadigm-covid19.com CNAME .
 *.www.siparadigm-covid19.com CNAME .
-www.situaciya-s-coronavirusom.ru CNAME .
-*.www.situaciya-s-coronavirusom.ru CNAME .
 www.sobrecoronavirus.es CNAME .
 *.www.sobrecoronavirus.es CNAME .
 www.solveforcovid19.com CNAME .
