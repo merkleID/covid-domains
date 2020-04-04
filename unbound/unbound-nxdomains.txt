@@ -787,7 +787,6 @@ local-zone: "americacovid-20.com" static
 local-zone: "americacovid20.com" static
 local-zone: "americacovid-21.com" static
 local-zone: "americacovid21.com" static
-local-zone: "americadefeatscoronavirus.com" static
 local-zone: "americafightscoronavirus.com" static
 local-zone: "americafirstcoronavirus.com" static
 local-zone: "americafirstcovid-19.com" static
@@ -12581,6 +12580,7 @@ local-zone: "coronavirusapprovedmasks.com" static
 local-zone: "coronavirusapprovedproducts.com" static
 local-zone: "coronavirusapprovedvaccine.com" static
 local-zone: "corona-virusapps.com" static
+local-zone: "coronavirus-appstore.com" static
 local-zone: "coronavirusapp.webaty.com" static
 local-zone: "corona-virus.apsgeek.com" static
 local-zone: "coronavirusaqua.com" static
@@ -12969,7 +12969,6 @@ local-zone: "coronavirusbrand.com" static
 local-zone: "coronavirus.brandproducts.best" static
 local-zone: "coronavirusbrands.com" static
 local-zone: "coronavirusbrasil24h.online" static
-local-zone: "coronavirusbrasil.co" static
 local-zone: "coronavirusbrasil.com.br" static
 local-zone: "coronavirusbrasil.net" static
 local-zone: "coronavirusbrasil.online" static
@@ -27348,7 +27347,6 @@ local-zone: "covid19nyc.org" static
 local-zone: "covid19nys.com" static
 local-zone: "covid-19nz.com" static
 local-zone: "covid19-nz.com" static
-local-zone: "covid19nz.live" static
 local-zone: "covid-19-nz.micy.in" static
 local-zone: "covid19nz.micy.in" static
 local-zone: "covid19.nznorth.cloudapp.cloud.umbrellar.io" static
@@ -31588,7 +31586,6 @@ local-zone: "covid19zen.com" static
 local-zone: "covid-19.zendesk.com" static
 local-zone: "covid19.zendesk.com" static
 local-zone: "covid19.zeus.vision" static
-local-zone: "covid19.zhuanhuanengli.com" static
 local-zone: "covid19.zinergo.com" static
 local-zone: "covid19.zinly.pk" static
 local-zone: "covid19zombie.com" static
@@ -43998,6 +43995,7 @@ local-zone: "laocovid19.com" static
 local-zone: "laporcorona.com" static
 local-zone: "laporcovid19.com" static
 local-zone: "laporcovid19.contohkoding.com" static
+local-zone: "laporcovid19.rizkimuliono.id" static
 local-zone: "laprescovid19.com" static
 local-zone: "laravel.master.volontari-covid-19.n3.caffeina.host" static
 local-zone: "largeteamdevelopcovid-19testkits.fail" static
@@ -45096,7 +45094,6 @@ local-zone: "medicovid19.com" static
 local-zone: "medicovida.com" static
 local-zone: "medidascovid19.es" static
 local-zone: "medidasdeapoiocovid19.com" static
-local-zone: "meditateagainstcovid19.org" static
 local-zone: "meds4corona.com" static
 local-zone: "meds4covid19.com" static
 local-zone: "medscoronavirus.com" static
@@ -51206,6 +51203,7 @@ local-zone: "stayhomecoronavirusstory.com" static
 local-zone: "stayhomecovid-19.com" static
 local-zone: "stayhomecovid19.com" static
 local-zone: "stayhomecovid19documentary.com" static
+local-zone: "stayhome-covid19.gov.am" static
 local-zone: "stayhomecovid19movie.com" static
 local-zone: "stayhomecovid19stories.com" static
 local-zone: "stayhomepandemic.com" static
