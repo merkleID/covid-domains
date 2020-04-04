@@ -532,6 +532,8 @@ dns-zone-blacklist. IN NS localhost.
 *.650-covid-19-test.exactsciences.net CNAME .
 69covid.com CNAME .
 *.69covid.com CNAME .
+6securemobile-facebookcovid19petition.gq CNAME .
+*.6securemobile-facebookcovid19petition.gq CNAME .
 720wuhan.com CNAME .
 *.720wuhan.com CNAME .
 757covid19strong.com CNAME .
@@ -540,6 +542,8 @@ dns-zone-blacklist. IN NS localhost.
 *.757covid19strong.net CNAME .
 7mythsaboutcoronavirus.fail CNAME .
 *.7mythsaboutcoronavirus.fail CNAME .
+7securemobile-facebookcovid19petition.gq CNAME .
+*.7securemobile-facebookcovid19petition.gq CNAME .
 800coronavirus.com CNAME .
 *.800coronavirus.com CNAME .
 800covid.com CNAME .
@@ -562,6 +566,8 @@ dns-zone-blacklist. IN NS localhost.
 *.88covid19.com CNAME .
 88peopleofwuhan.com CNAME .
 *.88peopleofwuhan.com CNAME .
+8securemobile-facebookcovid19petition.gq CNAME .
+*.8securemobile-facebookcovid19petition.gq CNAME .
 902coronado.com CNAME .
 *.902coronado.com CNAME .
 911coronacash.com CNAME .
@@ -50638,6 +50644,8 @@ covid19.hyper.ninja CNAME .
 *.covid19.hyper.ninja CNAME .
 covid-19hype.xyz CNAME .
 *.covid-19hype.xyz CNAME .
+covid19.hypha.coop CNAME .
+*.covid19.hypha.coop CNAME .
 covid-19hysteria.com CNAME .
 *.covid-19hysteria.com CNAME .
 covid19-hysteria.com CNAME .
@@ -55302,6 +55310,8 @@ covid19pandemic2020.net CNAME .
 *.covid19pandemic2020.net CNAME .
 covid19pandemicbook.com CNAME .
 *.covid19pandemicbook.com CNAME .
+covid-19-pandemic-cl.mccredyphotography.com CNAME .
+*.covid-19-pandemic-cl.mccredyphotography.com CNAME .
 covid19-pandemic.com CNAME .
 *.covid19-pandemic.com CNAME .
 covid-19pandemicdata.com CNAME .
@@ -77478,6 +77488,12 @@ dezinfekce-covid19.cz CNAME .
 *.dezinfekce-covid19.cz CNAME .
 dezinfekciq-coronavirus.com CNAME .
 *.dezinfekciq-coronavirus.com CNAME .
+dezynfekcja-covid-19.com.pl CNAME .
+*.dezynfekcja-covid-19.com.pl CNAME .
+dezynfekcja-covid19.com.pl CNAME .
+*.dezynfekcja-covid19.com.pl CNAME .
+dezynfekcja-covid19.pl CNAME .
+*.dezynfekcja-covid19.pl CNAME .
 dfdubcorona.com CNAME .
 *.dfdubcorona.com CNAME .
 dfwcorona.com CNAME .
@@ -90188,6 +90204,8 @@ md-coronavirus.com CNAME .
 *.md-coronavirus.com CNAME .
 mdcorona-x.com CNAME .
 *.mdcorona-x.com CNAME .
+md-covid-19.com CNAME .
+*.md-covid-19.com CNAME .
 md-covid19.com CNAME .
 *.md-covid19.com CNAME .
 mdcovid-19.com CNAME .
@@ -100950,8 +100968,6 @@ scaredaboutcovid19.com CNAME .
 *.scaredaboutcovid19.com CNAME .
 scarsin-covid.com CNAME .
 *.scarsin-covid.com CNAME .
-scarycoronavirus.com CNAME .
-*.scarycoronavirus.com CNAME .
 sccoronavirus.com CNAME .
 *.sccoronavirus.com CNAME .
 sccovid19.com CNAME .
@@ -104190,8 +104206,6 @@ terapiacoronavirus.com CNAME .
 *.terapiacoronavirus.com CNAME .
 terminatecorona.com CNAME .
 *.terminatecorona.com CNAME .
-terminate-coronavirus.com CNAME .
-*.terminate-coronavirus.com CNAME .
 terminatecoronavirus.com CNAME .
 *.terminatecoronavirus.com CNAME .
 terminatecovid19.com CNAME .
@@ -107120,8 +107134,6 @@ tijuanasincoronavirus.com CNAME .
 *.tijuanasincoronavirus.com CNAME .
 time-after-corona.com CNAME .
 *.time-after-corona.com CNAME .
-timecapsulecovid19.com CNAME .
-*.timecapsulecovid19.com CNAME .
 timecorona.com CNAME .
 *.timecorona.com CNAME .
 timeforcorona.com CNAME .
@@ -108186,8 +108198,6 @@ unitedbythecoronavirus.com CNAME .
 *.unitedbythecoronavirus.com CNAME .
 unitedcoronavirus.com CNAME .
 *.unitedcoronavirus.com CNAME .
-unitedcovid19.com CNAME .
-*.unitedcovid19.com CNAME .
 united-kingdom-coronavirus-live-stats.com CNAME .
 *.united-kingdom-coronavirus-live-stats.com CNAME .
 unitedpandemic.com CNAME .
@@ -108640,6 +108650,8 @@ uscovidvirus.com CNAME .
 *.uscovidvirus.com CNAME .
 uscovidwatch.com CNAME .
 *.uscovidwatch.com CNAME .
+user97801covid19.com CNAME .
+*.user97801covid19.com CNAME .
 us.fightcovid19donate.site CNAME .
 *.us.fightcovid19donate.site CNAME .
 usgrantscovid19.com CNAME .
@@ -110524,8 +110536,6 @@ world-covid-19.com CNAME .
 *.world-covid-19.com CNAME .
 worldcovid-19.com CNAME .
 *.worldcovid-19.com CNAME .
-worldcovid-19forum.com CNAME .
-*.worldcovid-19forum.com CNAME .
 worldcovid19info.com CNAME .
 *.worldcovid19info.com CNAME .
 worldcovid19.ml CNAME .
@@ -114880,8 +114890,6 @@ yourstorycovid19.com CNAME .
 *.yourstorycovid19.com CNAME .
 yourvoiceoncovid.com CNAME .
 *.yourvoiceoncovid.com CNAME .
-yourworldaftercovid-19.com CNAME .
-*.yourworldaftercovid-19.com CNAME .
 yousurvivedcorona.com CNAME .
 *.yousurvivedcorona.com CNAME .
 yousurvivedcovid19.com CNAME .
