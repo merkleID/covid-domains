@@ -2360,8 +2360,6 @@ api-covid-19-br.filipemanuel.repl.run CNAME .
 *.api-covid-19-br.filipemanuel.repl.run CNAME .
 api.covid-19.clicksandbox.com CNAME .
 *.api.covid-19.clicksandbox.com CNAME .
-apicovid19.cochabamba.bo CNAME .
-*.apicovid19.cochabamba.bo CNAME .
 api.covid19data.cloud CNAME .
 *.api.covid19data.cloud CNAME .
 api.covid19.digi4.ma CNAME .
@@ -5466,6 +5464,8 @@ cdn.covid19-app.fr CNAME .
 *.cdn.covid19-app.fr CNAME .
 cdn.covid-19-au.com CNAME .
 *.cdn.covid-19-au.com CNAME .
+cdn.covid19hardtruth.com CNAME .
+*.cdn.covid19hardtruth.com CNAME .
 cdn.covid19-pressepro.com CNAME .
 *.cdn.covid19-pressepro.com CNAME .
 ceapprovedcovidrapidtest.com CNAME .
@@ -27314,6 +27314,8 @@ coronavirus.coffee CNAME .
 *.coronavirus.coffee CNAME .
 coronaviruscoffee.com CNAME .
 *.coronaviruscoffee.com CNAME .
+coronavirus.coib.cat CNAME .
+*.coronavirus.coib.cat CNAME .
 coronaviruscoin.org CNAME .
 *.coronaviruscoin.org CNAME .
 coronavirus.co.it CNAME .
@@ -42624,6 +42626,8 @@ covid19antigentest.com CNAME .
 *.covid19antigentest.com CNAME .
 covid19antigentests.com CNAME .
 *.covid19antigentests.com CNAME .
+covid19antiseptic.ca CNAME .
+*.covid19antiseptic.ca CNAME .
 covid19antiseptic.com CNAME .
 *.covid19antiseptic.com CNAME .
 covid-19antiviral.com CNAME .
@@ -44394,6 +44398,8 @@ covid19cam.com CNAME .
 *.covid19cam.com CNAME .
 covid-19camera.com CNAME .
 *.covid-19camera.com CNAME .
+covid19cameras.ca CNAME .
+*.covid19cameras.ca CNAME .
 covid-19cameras.com CNAME .
 *.covid-19cameras.com CNAME .
 covid19cameroon.com CNAME .
@@ -53588,6 +53594,8 @@ covid19-mentions-db.com CNAME .
 *.covid19-mentions-db.com CNAME .
 covid19.merakiinnotech.com CNAME .
 *.covid19.merakiinnotech.com CNAME .
+covid19.merauke.go.id CNAME .
+*.covid19.merauke.go.id CNAME .
 covid-19.mercaei.com.mx CNAME .
 *.covid-19.mercaei.com.mx CNAME .
 covid-19merchandise.com CNAME .
@@ -54370,6 +54378,8 @@ covid-19newsletter.com CNAME .
 *.covid-19newsletter.com CNAME .
 covid19news.life CNAME .
 *.covid19news.life CNAME .
+covid19newslink.com CNAME .
+*.covid19newslink.com CNAME .
 covid19news.network CNAME .
 *.covid19news.network CNAME .
 covid19newsnow.com CNAME .
@@ -89474,6 +89484,8 @@ managecoronavirus.com CNAME .
 *.managecoronavirus.com CNAME .
 managecovid19.com CNAME .
 *.managecovid19.com CNAME .
+manage.covid19tracker.ca CNAME .
+*.manage.covid19tracker.ca CNAME .
 managecovid.com CNAME .
 *.managecovid.com CNAME .
 manageit.cmccovid19.org.ly CNAME .
@@ -102288,8 +102300,6 @@ stategrantscovid19.com CNAME .
 *.stategrantscovid19.com CNAME .
 stateofcorona.com CNAME .
 *.stateofcorona.com CNAME .
-stateofcovid19.com CNAME .
-*.stateofcovid19.com CNAME .
 stateofcovid.com CNAME .
 *.stateofcovid.com CNAME .
 statesborocovidchat.com CNAME .
@@ -107940,8 +107950,6 @@ unidoscontra-elcoronavirus.es CNAME .
 *.unidoscontra-elcoronavirus.es CNAME .
 unidoscontraocoronavirus.com CNAME .
 *.unidoscontraocoronavirus.com CNAME .
-unidoscontraocoronavirus.com.br CNAME .
-*.unidoscontraocoronavirus.com.br CNAME .
 unidoscontraocovid19.com CNAME .
 *.unidoscontraocovid19.com CNAME .
 unidosporcoronavirus.com CNAME .
@@ -109072,6 +109080,8 @@ virus-covid19.ru CNAME .
 *.virus-covid19.ru CNAME .
 viruscovid19.sk CNAME .
 *.viruscovid19.sk CNAME .
+virus-covid-2019.ru CNAME .
+*.virus-covid-2019.ru CNAME .
 viruscovidasistencianegocios.com CNAME .
 *.viruscovidasistencianegocios.com CNAME .
 viruscovidasistencianegocios.net CNAME .
@@ -111842,6 +111852,8 @@ www.coronavirusstopsnow.com CNAME .
 *.www.coronavirusstopsnow.com CNAME .
 www.coronavirus-strana.ru CNAME .
 *.www.coronavirus-strana.ru CNAME .
+www.coronavirussuck.tk CNAME .
+*.www.coronavirussuck.tk CNAME .
 www.coronavirussuisse.ch CNAME .
 *.www.coronavirussuisse.ch CNAME .
 www.coronavirussupplies.com.au CNAME .
