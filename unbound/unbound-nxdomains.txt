@@ -1414,6 +1414,7 @@ local-zone: "assistancecoronavirus.com" static
 local-zone: "assistcoronavirus.com" static
 local-zone: "assistcovid19.com" static
 local-zone: "assistenzacovid.com" static
+local-zone: "association-coronavirus.fr" static
 local-zone: "associazionecoronavirus.com" static
 local-zone: "associazioneitalianacovid.com" static
 local-zone: "associazioneitalianavittimecovid.com" static
@@ -17227,7 +17228,6 @@ local-zone: "coronavirusnewstv.com" static
 local-zone: "coronavirusnewsuk.com" static
 local-zone: "coronavirus-newsupdate.com" static
 local-zone: "coronavirusnews-update.com" static
-local-zone: "coronavirusnewsupdate.info" static
 local-zone: "coronavirus-news-updates.com" static
 local-zone: "coronavirusnewsupdates.info" static
 local-zone: "coronavirusnewsusa.com" static
@@ -30115,7 +30115,6 @@ local-zone: "covid19-test.com" static
 local-zone: "covid19test.com" static
 local-zone: "covid-19test.com.co" static
 local-zone: "covid19test.com.mx" static
-local-zone: "covid19test.com.ng" static
 local-zone: "covid19test.company" static
 local-zone: "covid-19test.co.nz" static
 local-zone: "covid19testdatabase.com" static
@@ -40418,6 +40417,7 @@ local-zone: "firstaidagainstcorona.com" static
 local-zone: "firstaidforcoronavirus.com" static
 local-zone: "firstcoronatest.com" static
 local-zone: "firstcoronaviruspatient.com" static
+local-zone: "firstcoronavirusresponseact.com" static
 local-zone: "firstcoronavirustest.com" static
 local-zone: "firstpandemickit.com" static
 local-zone: "firstresponsecovid19.com" static
@@ -53115,6 +53115,7 @@ local-zone: "theendofpandemicparty.services" static
 local-zone: "theendofpandemicparty.world" static
 local-zone: "theepidemicoffear.com" static
 local-zone: "theewfcovid19.org" static
+local-zone: "thefacesofcovid19.com" static
 local-zone: "thefactscovid19.com" static
 local-zone: "thefearepidemic.com" static
 local-zone: "thefight4covid19.com" static
@@ -55714,6 +55715,7 @@ local-zone: "www.coronavirusjaca.es" static
 local-zone: "www.coronavirusjournel.com" static
 local-zone: "www.coronavirusjourney.com" static
 local-zone: "www.coronavirusjournos.org" static
+local-zone: "www.coronaviruskarta.info" static
 local-zone: "www.coronaviruskarte.de" static
 local-zone: "www.coronavirus.ketcode.in" static
 local-zone: "www.coronaviruskills.com" static
@@ -56085,6 +56087,7 @@ local-zone: "www.covid19.gitbook.io" static
 local-zone: "www.covid19glass.com" static
 local-zone: "www.covid19globalactionplan.com" static
 local-zone: "www.covid-19.gob.com" static
+local-zone: "www.covid19go.de" static
 local-zone: "www.covid19.go.id" static
 local-zone: "www.covid19.gov.au" static
 local-zone: "www.covid19governmentclaimsgroup.com" static

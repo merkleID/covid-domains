@@ -2834,6 +2834,8 @@ assistcovid19.com CNAME .
 *.assistcovid19.com CNAME .
 assistenzacovid.com CNAME .
 *.assistenzacovid.com CNAME .
+association-coronavirus.fr CNAME .
+*.association-coronavirus.fr CNAME .
 associazionecoronavirus.com CNAME .
 *.associazionecoronavirus.com CNAME .
 associazioneitalianacovid.com CNAME .
@@ -34460,8 +34462,6 @@ coronavirus-newsupdate.com CNAME .
 *.coronavirus-newsupdate.com CNAME .
 coronavirusnews-update.com CNAME .
 *.coronavirusnews-update.com CNAME .
-coronavirusnewsupdate.info CNAME .
-*.coronavirusnewsupdate.info CNAME .
 coronavirus-news-updates.com CNAME .
 *.coronavirus-news-updates.com CNAME .
 coronavirusnewsupdates.info CNAME .
@@ -60236,8 +60236,6 @@ covid-19test.com.co CNAME .
 *.covid-19test.com.co CNAME .
 covid19test.com.mx CNAME .
 *.covid19test.com.mx CNAME .
-covid19test.com.ng CNAME .
-*.covid19test.com.ng CNAME .
 covid19test.company CNAME .
 *.covid19test.company CNAME .
 covid-19test.co.nz CNAME .
@@ -80842,6 +80840,8 @@ firstcoronatest.com CNAME .
 *.firstcoronatest.com CNAME .
 firstcoronaviruspatient.com CNAME .
 *.firstcoronaviruspatient.com CNAME .
+firstcoronavirusresponseact.com CNAME .
+*.firstcoronavirusresponseact.com CNAME .
 firstcoronavirustest.com CNAME .
 *.firstcoronavirustest.com CNAME .
 firstpandemickit.com CNAME .
@@ -106236,6 +106236,8 @@ theepidemicoffear.com CNAME .
 *.theepidemicoffear.com CNAME .
 theewfcovid19.org CNAME .
 *.theewfcovid19.org CNAME .
+thefacesofcovid19.com CNAME .
+*.thefacesofcovid19.com CNAME .
 thefactscovid19.com CNAME .
 *.thefactscovid19.com CNAME .
 thefearepidemic.com CNAME .
@@ -111434,6 +111436,8 @@ www.coronavirusjourney.com CNAME .
 *.www.coronavirusjourney.com CNAME .
 www.coronavirusjournos.org CNAME .
 *.www.coronavirusjournos.org CNAME .
+www.coronaviruskarta.info CNAME .
+*.www.coronaviruskarta.info CNAME .
 www.coronaviruskarte.de CNAME .
 *.www.coronaviruskarte.de CNAME .
 www.coronavirus.ketcode.in CNAME .
@@ -112176,6 +112180,8 @@ www.covid19globalactionplan.com CNAME .
 *.www.covid19globalactionplan.com CNAME .
 www.covid-19.gob.com CNAME .
 *.www.covid-19.gob.com CNAME .
+www.covid19go.de CNAME .
+*.www.covid19go.de CNAME .
 www.covid19.go.id CNAME .
 *.www.covid19.go.id CNAME .
 www.covid19.gov.au CNAME .
