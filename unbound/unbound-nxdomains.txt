@@ -430,6 +430,7 @@ local-zone: "adioscoronavirus.es" static
 local-zone: "adioscoronavirusparty.com" static
 local-zone: "adioscovid.com" static
 local-zone: "admin-api.coronavirus-monitor.com" static
+local-zone: "admin.covid19donors.org" static
 local-zone: "admin.covid19.immigrationdirectstaging.com" static
 local-zone: "admincovid19.kotabogor.go.id" static
 local-zone: "admin.covid19.moh.gov.et" static
@@ -13104,6 +13105,7 @@ local-zone: "coronavirusbuster.com" static
 local-zone: "corona-virusbusters.com" static
 local-zone: "coronavirus-busters.com" static
 local-zone: "coronavirusbusters.co.uk" static
+local-zone: "coronavirusbusters.it" static
 local-zone: "coronavirusbusters.org.uk" static
 local-zone: "coronavirusbustersus.com" static
 local-zone: "coronavirusbuttons.com" static
@@ -30559,6 +30561,7 @@ local-zone: "covid19.tlfcomputers.com" static
 local-zone: "covid19.tmcf.in" static
 local-zone: "covid19tmg.com" static
 local-zone: "covid19.tmnmonetization.com" static
+local-zone: "covid19.tmsoftwareinc.com" static
 local-zone: "covid19-tn.com" static
 local-zone: "covid19tn.com" static
 local-zone: "covid19toc.com" static
@@ -38712,6 +38715,7 @@ local-zone: "dev.covid19.eas.cornell.edu" static
 local-zone: "dev.covid19.engine2.prixa.ai" static
 local-zone: "dev.covid19govt.xyz" static
 local-zone: "dev.covid19-gpg.innovationlab.org.uk" static
+local-zone: "dev.covid19-samplify.seuit.astrazeneca.com" static
 local-zone: "dev.covid19.trbot.ca" static
 local-zone: "dev-covid19.yaniz.dev" static
 local-zone: "dev-covidmapportal.com" static
@@ -42169,6 +42173,7 @@ local-zone: "hopeforcovid19.com" static
 local-zone: "hopeinthefaceofcovid19.com" static
 local-zone: "hopeinthetimeofcorona.com" static
 local-zone: "hopeinthetimeofcovid.com" static
+local-zone: "hopeovercovid-19.com" static
 local-zone: "hopewhilecorona.com" static
 local-zone: "hopewithcorona.com" static
 local-zone: "hopkinscountytxcovid-19.com" static
@@ -48768,6 +48773,7 @@ local-zone: "perte-exploitation-covid19.com" static
 local-zone: "perucoronavirus.com" static
 local-zone: "perucovid19.com" static
 local-zone: "peru-covid-19.now.sh" static
+local-zone: "perucovid19.xyz" static
 local-zone: "perucovid.com" static
 local-zone: "peruvoluntariadocovid19.cluster.pe" static
 local-zone: "perventcovid-19.com" static
@@ -48976,7 +48982,6 @@ local-zone: "positivenewscovid19.com" static
 local-zone: "positivepandemicplan.com" static
 local-zone: "positivitycurescoronavirus.com" static
 local-zone: "postcardfromwuhan.com" static
-local-zone: "postcardsagainstcovid19.com" static
 local-zone: "postcardsfromthepandemic.com" static
 local-zone: "postcardsfromwuhan.com" static
 local-zone: "postcardsofthepandemic.com" static
@@ -49712,6 +49717,7 @@ local-zone: "rapid-test-corona.com" static
 local-zone: "rapidtest-corona.com" static
 local-zone: "rapidtestcorona.com" static
 local-zone: "rapid-test-corona-virus.com" static
+local-zone: "rapid-test-covid19.com" static
 local-zone: "rapidtest-covid19.com" static
 local-zone: "rapidtestcovid-19.com" static
 local-zone: "rapidtestcovid19.com" static
@@ -53045,6 +53051,7 @@ local-zone: "thecovid19survivors.com" static
 local-zone: "thecovid-19symptoms.com" static
 local-zone: "thecovid19tale.com" static
 local-zone: "thecovid-19tales.com" static
+local-zone: "thecovid-19taskforce.com" static
 local-zone: "thecovid-19test.com" static
 local-zone: "thecovid19-test.com" static
 local-zone: "thecovid19test.com" static

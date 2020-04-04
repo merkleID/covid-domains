@@ -866,6 +866,8 @@ adioscovid.com CNAME .
 *.adioscovid.com CNAME .
 admin-api.coronavirus-monitor.com CNAME .
 *.admin-api.coronavirus-monitor.com CNAME .
+admin.covid19donors.org CNAME .
+*.admin.covid19donors.org CNAME .
 admin.covid19.immigrationdirectstaging.com CNAME .
 *.admin.covid19.immigrationdirectstaging.com CNAME .
 admincovid19.kotabogor.go.id CNAME .
@@ -26214,6 +26216,8 @@ coronavirus-busters.com CNAME .
 *.coronavirus-busters.com CNAME .
 coronavirusbusters.co.uk CNAME .
 *.coronavirusbusters.co.uk CNAME .
+coronavirusbusters.it CNAME .
+*.coronavirusbusters.it CNAME .
 coronavirusbusters.org.uk CNAME .
 *.coronavirusbusters.org.uk CNAME .
 coronavirusbustersus.com CNAME .
@@ -61124,6 +61128,8 @@ covid19tmg.com CNAME .
 *.covid19tmg.com CNAME .
 covid19.tmnmonetization.com CNAME .
 *.covid19.tmnmonetization.com CNAME .
+covid19.tmsoftwareinc.com CNAME .
+*.covid19.tmsoftwareinc.com CNAME .
 covid19-tn.com CNAME .
 *.covid19-tn.com CNAME .
 covid19tn.com CNAME .
@@ -77430,6 +77436,8 @@ dev.covid19govt.xyz CNAME .
 *.dev.covid19govt.xyz CNAME .
 dev.covid19-gpg.innovationlab.org.uk CNAME .
 *.dev.covid19-gpg.innovationlab.org.uk CNAME .
+dev.covid19-samplify.seuit.astrazeneca.com CNAME .
+*.dev.covid19-samplify.seuit.astrazeneca.com CNAME .
 dev.covid19.trbot.ca CNAME .
 *.dev.covid19.trbot.ca CNAME .
 dev-covid19.yaniz.dev CNAME .
@@ -84344,6 +84352,8 @@ hopeinthetimeofcorona.com CNAME .
 *.hopeinthetimeofcorona.com CNAME .
 hopeinthetimeofcovid.com CNAME .
 *.hopeinthetimeofcovid.com CNAME .
+hopeovercovid-19.com CNAME .
+*.hopeovercovid-19.com CNAME .
 hopewhilecorona.com CNAME .
 *.hopewhilecorona.com CNAME .
 hopewithcorona.com CNAME .
@@ -97542,6 +97552,8 @@ perucovid19.com CNAME .
 *.perucovid19.com CNAME .
 peru-covid-19.now.sh CNAME .
 *.peru-covid-19.now.sh CNAME .
+perucovid19.xyz CNAME .
+*.perucovid19.xyz CNAME .
 perucovid.com CNAME .
 *.perucovid.com CNAME .
 peruvoluntariadocovid19.cluster.pe CNAME .
@@ -97958,8 +97970,6 @@ positivitycurescoronavirus.com CNAME .
 *.positivitycurescoronavirus.com CNAME .
 postcardfromwuhan.com CNAME .
 *.postcardfromwuhan.com CNAME .
-postcardsagainstcovid19.com CNAME .
-*.postcardsagainstcovid19.com CNAME .
 postcardsfromthepandemic.com CNAME .
 *.postcardsfromthepandemic.com CNAME .
 postcardsfromwuhan.com CNAME .
@@ -99430,6 +99440,8 @@ rapidtestcorona.com CNAME .
 *.rapidtestcorona.com CNAME .
 rapid-test-corona-virus.com CNAME .
 *.rapid-test-corona-virus.com CNAME .
+rapid-test-covid19.com CNAME .
+*.rapid-test-covid19.com CNAME .
 rapidtest-covid19.com CNAME .
 *.rapidtest-covid19.com CNAME .
 rapidtestcovid-19.com CNAME .
@@ -106096,6 +106108,8 @@ thecovid19tale.com CNAME .
 *.thecovid19tale.com CNAME .
 thecovid-19tales.com CNAME .
 *.thecovid-19tales.com CNAME .
+thecovid-19taskforce.com CNAME .
+*.thecovid-19taskforce.com CNAME .
 thecovid-19test.com CNAME .
 *.thecovid-19test.com CNAME .
 thecovid19-test.com CNAME .
