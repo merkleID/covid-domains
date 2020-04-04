@@ -188,6 +188,8 @@ dns-zone-blacklist. IN NS localhost.
 *.1mysecure-facebookcovid19petition.gq CNAME .
 1pandemic.com CNAME .
 *.1pandemic.com CNAME .
+1securemobile-facebookcovid19petition.gq CNAME .
+*.1securemobile-facebookcovid19petition.gq CNAME .
 1st2curecoronavirus.com CNAME .
 *.1st2curecoronavirus.com CNAME .
 1stcoronatest.com CNAME .
@@ -408,6 +410,8 @@ dns-zone-blacklist. IN NS localhost.
 *.2curecoronavirus.com CNAME .
 2o2ocovid-19.com CNAME .
 *.2o2ocovid-19.com CNAME .
+2securemobile-facebookcovid19petition.gq CNAME .
+*.2securemobile-facebookcovid19petition.gq CNAME .
 2treatcoronavirus.com CNAME .
 *.2treatcoronavirus.com CNAME .
 30minutecovidtest.com CNAME .
@@ -440,6 +444,8 @@ dns-zone-blacklist. IN NS localhost.
 *.3m-n95mask-covid19.com CNAME .
 3plycovid19masks.com CNAME .
 *.3plycovid19masks.com CNAME .
+3securemobile-facebookcovid19petition.gq CNAME .
+*.3securemobile-facebookcovid19petition.gq CNAME .
 403.somalilandcoronavirus.com CNAME .
 *.403.somalilandcoronavirus.com CNAME .
 411coronacash.com CNAME .
@@ -486,6 +492,8 @@ dns-zone-blacklist. IN NS localhost.
 *.4curingcoronavirus.com CNAME .
 4pandemic.com CNAME .
 *.4pandemic.com CNAME .
+4securemobile-facebookcovid19petition.gq CNAME .
+*.4securemobile-facebookcovid19petition.gq CNAME .
 501c3covidaid.com CNAME .
 *.501c3covidaid.com CNAME .
 503covid.com CNAME .
@@ -25134,6 +25142,8 @@ coronavirusapi.dev CNAME .
 *.coronavirusapi.dev CNAME .
 coronavirusapi.iycchan.repl.run CNAME .
 *.coronavirusapi.iycchan.repl.run CNAME .
+coronavirus-api.ru CNAME .
+*.coronavirus-api.ru CNAME .
 coronavirusapi.webaty.com CNAME .
 *.coronavirusapi.webaty.com CNAME .
 coronavirusapocalypse2020.com CNAME .
@@ -45388,6 +45398,8 @@ covid19clenz.com CNAME .
 *.covid19clenz.com CNAME .
 covid19cleveland.com CNAME .
 *.covid19cleveland.com CNAME .
+covid-19.clickreadandshare.com CNAME .
+*.covid-19.clickreadandshare.com CNAME .
 covid19clidev.now.sh CNAME .
 *.covid19clidev.now.sh CNAME .
 covid-19.climbsoill.com CNAME .
@@ -52502,6 +52514,8 @@ covid19limbe.com CNAME .
 *.covid19limbe.com CNAME .
 covid-19.limited CNAME .
 *.covid-19.limited CNAME .
+covid19-line.cacadosman.com CNAME .
+*.covid19-line.cacadosman.com CNAME .
 covid-19line.com CNAME .
 *.covid-19line.com CNAME .
 covid19line.com CNAME .
@@ -77220,8 +77234,6 @@ despidoscoronavirus.com CNAME .
 *.despidoscoronavirus.com CNAME .
 despidoscoronavirus.es CNAME .
 *.despidoscoronavirus.es CNAME .
-despidoscoronavirusmexico.com CNAME .
-*.despidoscoronavirusmexico.com CNAME .
 despidosporcoronavirus.info CNAME .
 *.despidosporcoronavirus.info CNAME .
 despre-coronavirus.ro CNAME .
@@ -87992,6 +88004,8 @@ lamourintimesofcorona.com CNAME .
 *.lamourintimesofcorona.com CNAME .
 lancasterdistrictcovid19.hotfootclients.co.uk CNAME .
 *.lancasterdistrictcovid19.hotfootclients.co.uk CNAME .
+languages.covid19responsefund.org CNAME .
+*.languages.covid19responsefund.org CNAME .
 lankacoronavirus.com CNAME .
 *.lankacoronavirus.com CNAME .
 lanzarotecovid.com CNAME .
@@ -101004,6 +101018,8 @@ secure-account-covid2020.com CNAME .
 *.secure-account-covid2020.com CNAME .
 secure-accovid.com CNAME .
 *.secure-accovid.com CNAME .
+secure.covid19reliefcenter.org CNAME .
+*.secure.covid19reliefcenter.org CNAME .
 securecovid.com CNAME .
 *.securecovid.com CNAME .
 securevaccinecoronavirus.com CNAME .
@@ -104126,6 +104142,8 @@ testcoronavirusnow.com CNAME .
 *.testcoronavirusnow.com CNAME .
 testcoronavirusonline.com CNAME .
 *.testcoronavirusonline.com CNAME .
+testcoronavirusonline.ru CNAME .
+*.testcoronavirusonline.ru CNAME .
 test-coronavirus.pro CNAME .
 *.test-coronavirus.pro CNAME .
 test-coronavirus.ru CNAME .
@@ -111338,6 +111356,8 @@ www.coronavirusadieu.com CNAME .
 *.www.coronavirusadieu.com CNAME .
 www.coronavirus-analytics.ru CNAME .
 *.www.coronavirus-analytics.ru CNAME .
+www.coronavirusapparel.org CNAME .
+*.www.coronavirusapparel.org CNAME .
 www.coronavirusass.com CNAME .
 *.www.coronavirusass.com CNAME .
 www.coronavirus-awareness.wishing4you.com CNAME .
@@ -113298,6 +113318,8 @@ www.fuckyoucoronavirus.com.ar CNAME .
 *.www.fuckyoucoronavirus.com.ar CNAME .
 www.fucovid19.net CNAME .
 *.www.fucovid19.net CNAME .
+www.fxckcovid19.com CNAME .
+*.www.fxckcovid19.com CNAME .
 www.gemeinsam-gegen-covid19.de CNAME .
 *.www.gemeinsam-gegen-covid19.de CNAME .
 www.georgiacovid19law.com CNAME .
