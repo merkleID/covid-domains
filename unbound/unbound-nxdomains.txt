@@ -15607,6 +15607,7 @@ local-zone: "coronavirus-home-test.com" static
 local-zone: "coronavirus-hometest.com" static
 local-zone: "coronavirus-hometest.eu" static
 local-zone: "coronavirushometesting.com" static
+local-zone: "coronavirus-home-testing-kit.com" static
 local-zone: "coronavirushometestingkit.com" static
 local-zone: "coronavirushometestingkits.com" static
 local-zone: "coronavirushometesting.net" static
@@ -22237,6 +22238,7 @@ local-zone: "covid19canli.com" static
 local-zone: "covid19cannabis.com" static
 local-zone: "covid-19.canningspurple.com.au" static
 local-zone: "covid19canon.com" static
+local-zone: "covid19.cantabria.rocks" static
 local-zone: "covid19cantkeepusdown.com" static
 local-zone: "covid19capital.com" static
 local-zone: "covid-19caps.com" static
@@ -24265,6 +24267,7 @@ local-zone: "covid19fighter.com" static
 local-zone: "covid-19fighters.com" static
 local-zone: "covid19-fighters.com" static
 local-zone: "covid19fighters.com" static
+local-zone: "covid-19fighters.in" static
 local-zone: "covid19fighters.net" static
 local-zone: "covid-19fight.net" static
 local-zone: "covid19-fiji.net" static
@@ -29207,6 +29210,7 @@ local-zone: "covid-19seminars.com" static
 local-zone: "covid19seniorcare.com" static
 local-zone: "covid19seniornews.com" static
 local-zone: "covid19seniorshoppers.com" static
+local-zone: "covid19.sensor.pe" static
 local-zone: "covid19sequence.com" static
 local-zone: "covid19sequencing.com" static
 local-zone: "covid19-serology.com" static
@@ -44211,7 +44215,6 @@ local-zone: "letsgetcovidfucked.com" static
 local-zone: "letskickcorona.com" static
 local-zone: "letskillcorona.com" static
 local-zone: "letsskillthecorona.com" static
-local-zone: "letsstopcovid19.com" static
 local-zone: "letstalkcoronavirus.com" static
 local-zone: "letstalkcovid-19.com" static
 local-zone: "letstalkcovid19.com" static
@@ -53243,7 +53246,6 @@ local-zone: "thegreatpandemic2020.com" static
 local-zone: "thegreatpandemic.com" static
 local-zone: "thegruppandemic.com" static
 local-zone: "thehappycorona.com" static
-local-zone: "theheroesofcovid19.com" static
 local-zone: "thehistoryofcovid19.com" static
 local-zone: "thehomecoronavirustest.com" static
 local-zone: "theincovidienttruth.com" static
@@ -56770,6 +56772,7 @@ local-zone: "www.labgeotcovid19.uns.edu.ar" static
 local-zone: "www.lancasterdistrictcovid19.org.uk" static
 local-zone: "www.latestcoronavirusupdates.info" static
 local-zone: "www.learncovid19.com" static
+local-zone: "www.lebicoronavirusmask.com" static
 local-zone: "www.letsbeatcoronavirus.co.uk" static
 local-zone: "www.letsendcovid19.org" static
 local-zone: "www.letsfightcovid-19.org" static
