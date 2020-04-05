@@ -1494,8 +1494,6 @@ allocovid19.com CNAME .
 *.allocovid19.com CNAME .
 allocovid19.fr CNAME .
 *.allocovid19.fr CNAME .
-allovercovid19.com CNAME .
-*.allovercovid19.com CNAME .
 alltestcovid19.com CNAME .
 *.alltestcovid19.com CNAME .
 allthingscoronavirus.net CNAME .
@@ -2424,6 +2422,8 @@ api-dev.covid19homehealth.com CNAME .
 *.api-dev.covid19homehealth.com CNAME .
 api.development.testcovid19.be CNAME .
 *.api.development.testcovid19.be CNAME .
+api.dev.key-worker-coronavirus-home-testing.service.gov.uk CNAME .
+*.api.dev.key-worker-coronavirus-home-testing.service.gov.uk CNAME .
 api.dps-dev.test.covid-19.forms.digital.nhs.uk CNAME .
 *.api.dps-dev.test.covid-19.forms.digital.nhs.uk CNAME .
 api.dps-poc.dev.covid-19.forms.digital.nhs.uk CNAME .
@@ -3900,6 +3900,8 @@ bestcoronavirusloans.com CNAME .
 *.bestcoronavirusloans.com CNAME .
 bestcoronavirusmask.com CNAME .
 *.bestcoronavirusmask.com CNAME .
+bestcoronavirusmasks.com CNAME .
+*.bestcoronavirusmasks.com CNAME .
 bestcoronavirusmaskss.com CNAME .
 *.bestcoronavirusmaskss.com CNAME .
 bestcoronavirusprotection.org CNAME .
@@ -4722,6 +4724,8 @@ buy-for-coronavirus.com CNAME .
 *.buy-for-coronavirus.com CNAME .
 buyforcoronavirus.com CNAME .
 *.buyforcoronavirus.com CNAME .
+buymaskcoronavirus.com CNAME .
+*.buymaskcoronavirus.com CNAME .
 buyppecovid-19virus.com CNAME .
 *.buyppecovid-19virus.com CNAME .
 buzzcorona.com CNAME .
@@ -61246,6 +61250,8 @@ covid19tips.se CNAME .
 *.covid19tips.se CNAME .
 covid19titties.com CNAME .
 *.covid19titties.com CNAME .
+covid19.tk1024.net CNAME .
+*.covid19.tk1024.net CNAME .
 covid19.tlaquepaque.gob.mx CNAME .
 *.covid19.tlaquepaque.gob.mx CNAME .
 covid19.tldev.io CNAME .
@@ -61872,6 +61878,8 @@ covid-19uk.com CNAME .
 *.covid-19uk.com CNAME .
 covid19.uk.com CNAME .
 *.covid19.uk.com CNAME .
+covid19uk.idieq.org CNAME .
+*.covid19uk.idieq.org CNAME .
 covid19uk.live CNAME .
 *.covid19uk.live CNAME .
 covid19uk.net CNAME .
@@ -89226,6 +89234,8 @@ logmycorona.com CNAME .
 *.logmycorona.com CNAME .
 logosunhotelwuhan.com CNAME .
 *.logosunhotelwuhan.com CNAME .
+logs.covid19.houseliver.com CNAME .
+*.logs.covid19.houseliver.com CNAME .
 lojacorona.com CNAME .
 *.lojacorona.com CNAME .
 lollycovid19testing.com CNAME .
@@ -91194,6 +91204,8 @@ muertecoronavirus.com CNAME .
 *.muertecoronavirus.com CNAME .
 multepagamenticoronavirus.it CNAME .
 *.multepagamenticoronavirus.it CNAME .
+multiculturalidad.amorycoronavirus.com CNAME .
+*.multiculturalidad.amorycoronavirus.com CNAME .
 mumbaicovid19.com CNAME .
 *.mumbaicovid19.com CNAME .
 mundocoronas.com CNAME .
@@ -100708,6 +100720,8 @@ sanantoniocovid19.com CNAME .
 *.sanantoniocovid19.com CNAME .
 sanantoniocovid.com CNAME .
 *.sanantoniocovid.com CNAME .
+sanarcoronavirus.com CNAME .
+*.sanarcoronavirus.com CNAME .
 sandiegocoronaclaims.com CNAME .
 *.sandiegocoronaclaims.com CNAME .
 sandiegocoronavirus.com CNAME .
@@ -109276,6 +109290,8 @@ vicorona.net CNAME .
 *.vicorona.net CNAME .
 vi.coronavirus-novaregion.org CNAME .
 *.vi.coronavirus-novaregion.org CNAME .
+vi-covid19.com CNAME .
+*.vi-covid19.com CNAME .
 vi-covid19.ru CNAME .
 *.vi-covid19.ru CNAME .
 victimacovid19.com CNAME .
@@ -111666,6 +111682,8 @@ www.buildagainstcovid19.com CNAME .
 *.www.buildagainstcovid19.com CNAME .
 www.business-facebook-covid19.com CNAME .
 *.www.business-facebook-covid19.com CNAME .
+www.buymaskcoronavirus.com CNAME .
+*.www.buymaskcoronavirus.com CNAME .
 www.byebyecoronavirus.com CNAME .
 *.www.byebyecoronavirus.com CNAME .
 www.cabusinessesaftercovid-19.com CNAME .
@@ -112874,6 +112892,8 @@ www.covid19.healthpigeon.com CNAME .
 *.www.covid19.healthpigeon.com CNAME .
 www.covid19healthsupplies.com CNAME .
 *.www.covid19healthsupplies.com CNAME .
+www.covid19.helmajs.my.id CNAME .
+*.www.covid19.helmajs.my.id CNAME .
 www.covid19help.barhillchurch.org.uk CNAME .
 *.www.covid19help.barhillchurch.org.uk CNAME .
 www.covid19helpdesk.in CNAME .
