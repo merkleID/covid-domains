@@ -1702,6 +1702,7 @@ local-zone: "barbequecovid-19.com" static
 local-zone: "barcelonacovidfest.com" static
 local-zone: "barcelonacovidfestival.com" static
 local-zone: "barcovid19.org" static
+local-zone: "barcovid19resources.org" static
 local-zone: "barrieracovid19.com" static
 local-zone: "barriercovid.com" static
 local-zone: "barrierecovid.com" static
@@ -12090,6 +12091,7 @@ local-zone: "coronavirus2020.insure" static
 local-zone: "coronavirus2020kz.ru" static
 local-zone: "coronavirus-2020.net" static
 local-zone: "coronavirus2020olympics.com" static
+local-zone: "corona-virus-2020.online" static
 local-zone: "coronavirus2020.online" static
 local-zone: "coronavirus2020-online.com" static
 local-zone: "coronavirus2020pandemic.com" static
@@ -24166,7 +24168,6 @@ local-zone: "covid19eye.net" static
 local-zone: "covid19ezeiza.dstecnologia.com.ar" static
 local-zone: "covid-19.eznglib.com" static
 local-zone: "covid19.f88.vn" static
-local-zone: "covid19.fablabreggiocalabria.org" static
 local-zone: "covid19fabricmask.com" static
 local-zone: "covid19fabricmasks.com" static
 local-zone: "covid-19faceguard.com" static
@@ -24512,6 +24513,7 @@ local-zone: "covid19free.net" static
 local-zone: "covid19freesigns.com" static
 local-zone: "covid19freesingles.com" static
 local-zone: "covid19.freespacersa.co.za" static
+local-zone: "covid19.freespecialapps.com" static
 local-zone: "covid-19freetesting.com" static
 local-zone: "covid-19freetestingsites.com" static
 local-zone: "covid19freeusa.com" static
@@ -28021,6 +28023,7 @@ local-zone: "covid-19pr.com" static
 local-zone: "covid19-pr.com" static
 local-zone: "covid19prcsupply.com" static
 local-zone: "covid-19precautions.com" static
+local-zone: "covid-19.prechina.ru" static
 local-zone: "covid-19-predator.com" static
 local-zone: "covid19pred.com" static
 local-zone: "covid19predict.com" static
@@ -28380,7 +28383,6 @@ local-zone: "covid19.raturi.in" static
 local-zone: "covid19rave.com" static
 local-zone: "covid19raves.com" static
 local-zone: "covid19rc.legalshieldbenefits.com" static
-local-zone: "covid19.rcmrd.org" static
 local-zone: "covid19rdc.congopedia.com" static
 local-zone: "covid19rdc.info" static
 local-zone: "covid19.re5q.com" static
@@ -29358,7 +29360,6 @@ local-zone: "covid19sickmap.com" static
 local-zone: "covid19sickness.com" static
 local-zone: "covid19.sicnova3d.com" static
 local-zone: "covid-19si.com" static
-local-zone: "covid19si.com" static
 local-zone: "covid19sideeffects.com" static
 local-zone: "covid19signage.biz" static
 local-zone: "covid-19signage.com" static
@@ -38211,7 +38212,6 @@ local-zone: "curatecorona.com" static
 local-zone: "curatedcoronanews.com" static
 local-zone: "curatorcorona.com" static
 local-zone: "curbcorona.com" static
-local-zone: "curbcoronavirus.org" static
 local-zone: "curbcovid-19.com" static
 local-zone: "curbcovid19.com" static
 local-zone: "curbcovid.com" static
@@ -54174,6 +54174,7 @@ local-zone: "unternehmenssanierung-corona-krise.com" static
 local-zone: "unternehmerhilfe-corona.com" static
 local-zone: "untestedcoronavirus.com" static
 local-zone: "untestedcovid19.com" static
+local-zone: "uonsabecovid19ideascompetition.org" static
 local-zone: "update-coronavirus.com" static
 local-zone: "updatecovid19.ayulaurence.co.id" static
 local-zone: "updatecovid-19.com" static
@@ -55443,6 +55444,7 @@ local-zone: "wuhancoranavirus.com" static
 local-zone: "wuhancoronacure.net" static
 local-zone: "wuhancoronavirus2020.info" static
 local-zone: "wuhancoronavirus.cn" static
+local-zone: "wuhancoronavirus.co" static
 local-zone: "wuhancoronavirus.com" static
 local-zone: "wuhancoronavirusdisease.com" static
 local-zone: "wuhancoronavirusdisease.info" static
@@ -56154,6 +56156,7 @@ local-zone: "www.covid19-ameli.com" static
 local-zone: "www.covid19analytica.com" static
 local-zone: "www.covid19antibodytesting.com" static
 local-zone: "www.covid19apparel.store" static
+local-zone: "www.covid19app.org" static
 local-zone: "www.covid19.aqlis.sch.id" static
 local-zone: "www.covid19arabia.com" static
 local-zone: "www.covid19.arkansasofficeproducts.com" static
@@ -57056,6 +57059,7 @@ local-zone: "www.quarantinecoronavirus.com" static
 local-zone: "www.quickcovid19test.com" static
 local-zone: "www.rapidcoronavirustests.com" static
 local-zone: "www.realhousewivescoronavirus.com" static
+local-zone: "www.realtorcovid-19.com" static
 local-zone: "www.recherche-covid-19.com" static
 local-zone: "www.recywood-covid19.com" static
 local-zone: "www.referenciacovid19.com.br" static
