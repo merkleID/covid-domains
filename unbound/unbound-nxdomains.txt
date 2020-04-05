@@ -1216,6 +1216,7 @@ local-zone: "anticoronax.com" static
 local-zone: "anticorona.zone" static
 local-zone: "anticovid19.app" static
 local-zone: "anticovid19araras.life" static
+local-zone: "anti-covid19.aromex.ru" static
 local-zone: "anti-covid19.ca" static
 local-zone: "anti-covid19.center" static
 local-zone: "anticovid19.center" static
@@ -1541,6 +1542,7 @@ local-zone: "app.covid19.klungkungkab.go.id" static
 local-zone: "app.covid19misinfo.org" static
 local-zone: "app-covid-19.org" static
 local-zone: "appcovid19.org" static
+local-zone: "app-covid19.vademecum.io" static
 local-zone: "appcovid.com" static
 local-zone: "appecovid19.com" static
 local-zone: "appelenrantcovid19.net.ua" static
@@ -2331,6 +2333,7 @@ local-zone: "bestcoronavirusmask.com" static
 local-zone: "bestcoronavirusmasksale.com" static
 local-zone: "bestcoronavirusmasks.com" static
 local-zone: "bestcoronavirusmaskss.com" static
+local-zone: "bestcoronavirusprotection.com" static
 local-zone: "bestcoronavirusprotection.org" static
 local-zone: "bestcoronavirusquotes.com" static
 local-zone: "bestcoronavirussafety.com" static
@@ -3239,6 +3242,7 @@ local-zone: "cdn.covid19hardtruth.com" static
 local-zone: "cdn.covid19info.ge" static
 local-zone: "cdn.covid19-news.org" static
 local-zone: "cdn.covid19-pressepro.com" static
+local-zone: "cdn-covid19.vademecum.io" static
 local-zone: "ceapprovedcovidrapidtest.com" static
 local-zone: "cecilcovid.com" static
 local-zone: "cedarcountycovid19.org" static
@@ -29792,6 +29796,7 @@ local-zone: "covid19live.co.nz" static
 local-zone: "covid-19-livedata.com" static
 local-zone: "covid19livedata.com" static
 local-zone: "covid19livedata.org" static
+local-zone: "covid19-live.de" static
 local-zone: "covid19.livedesign.org" static
 local-zone: "covid19-live.diskusicantik.com" static
 local-zone: "covid19-live.galauers.xyz" static
@@ -31786,6 +31791,7 @@ local-zone: "covid19portal.net" static
 local-zone: "covid19.portima.be" static
 local-zone: "covid19portland.com" static
 local-zone: "covid19.portoenorte.pt" static
+local-zone: "covid19.portondelvalle.com" static
 local-zone: "covid-19-portoseguro.onrender.com" static
 local-zone: "covid19-portugal.com" static
 local-zone: "covid19portugal.com" static
@@ -44485,6 +44491,8 @@ local-zone: "ecuadorcoronavirus.com" static
 local-zone: "edelmancovid-19.com" static
 local-zone: "edhcoronavirusupdates.com" static
 local-zone: "edit.covid19timecapsule.com" static
+local-zone: "editor-covid19.vademecum.io" static
+local-zone: "editor-hierarq-covid19.vademecum.io" static
 local-zone: "edo-covid19.eclathealthcare.com" static
 local-zone: "educacaoecoronavirus.com.br" static
 local-zone: "educatingthroughcovid19.com" static
@@ -60518,6 +60526,7 @@ local-zone: "tiaragalianobg.corona-virus-mask.eu" static
 local-zone: "tiaragalianocom.corona-virus-mask.eu" static
 local-zone: "tiaragalianoeu.corona-virus-mask.eu" static
 local-zone: "tiarashopde.corona-virus-mask.eu" static
+local-zone: "tiarashopes.corona-virus-mask.eu" static
 local-zone: "tiarashopit.corona-virus-mask.eu" static
 local-zone: "tiarashopru.corona-virus-mask.eu" static
 local-zone: "tiarashopus.corona-virus-mask.eu" static
@@ -63959,6 +63968,7 @@ local-zone: "www.covid19-gov.tk" static
 local-zone: "www.covid19.gov.tl" static
 local-zone: "www.covid19gp.eql.ai" static
 local-zone: "www.covid19gpscreeningform.com" static
+local-zone: "www.covid-19-guard.com" static
 local-zone: "www.covid19-guard.com" static
 local-zone: "www.covid19.guelma-news.com" static
 local-zone: "www.covid19.guide" static
