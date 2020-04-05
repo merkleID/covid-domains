@@ -23955,6 +23955,7 @@ local-zone: "covid19denver.com" static
 local-zone: "covid19.depisthta.net" static
 local-zone: "covid-19depot.com" static
 local-zone: "covid19depot.com" static
+local-zone: "covid19depot.org" static
 local-zone: "covid-19depression.com" static
 local-zone: "covid19depression.com" static
 local-zone: "covid19depression.net" static
@@ -26367,6 +26368,7 @@ local-zone: "covid19.javahost.id" static
 local-zone: "covid19.javibenitez.com" static
 local-zone: "covid19.javieroliver.co" static
 local-zone: "covid19.jayapurakab.go.id" static
+local-zone: "covid19.jbhutch.com" static
 local-zone: "covid19.jbtechinc.biz" static
 local-zone: "covid19jc.com" static
 local-zone: "covid19jd.com" static
@@ -27465,7 +27467,6 @@ local-zone: "covid19mex.com" static
 local-zone: "covid-19mexico.com" static
 local-zone: "covid19-mexico.com" static
 local-zone: "covid19mexico.com" static
-local-zone: "covid19-mexico-netflixx.com" static
 local-zone: "covid19mfg.com" static
 local-zone: "covid19.mfischer.dev" static
 local-zone: "covid19-mf-school-ka.maheshwarifoundation.com" static
@@ -31743,6 +31744,7 @@ local-zone: "covid-19ut.com" static
 local-zone: "covid19ut.com" static
 local-zone: "covid19.ut.ee" static
 local-zone: "covid19.utpsyc.org" static
+local-zone: "covid19.uumoja.com" static
 local-zone: "covid19uvchelp.com" static
 local-zone: "covid19uvc.net" static
 local-zone: "covid19uvcrelief.com" static
@@ -50784,7 +50786,6 @@ local-zone: "projectbaselinecovid19.com" static
 local-zone: "projectcorona.com" static
 local-zone: "projectcoronadiary.com" static
 local-zone: "projectcoronavirus.com" static
-local-zone: "project-covid-19.com" static
 local-zone: "project.covid19.fyi" static
 local-zone: "project-covid.com" static
 local-zone: "projectcovid.com" static
@@ -57878,6 +57879,7 @@ local-zone: "www.covid19-decontamination.com" static
 local-zone: "www.covid19-defense.es" static
 local-zone: "www.covid19deli.com" static
 local-zone: "www.covid-19dentalupdate.com" static
+local-zone: "www.covid19depot.org" static
 local-zone: "www.covid19desdelatrinxera.com" static
 local-zone: "www.covid19-desinfectantes.com" static
 local-zone: "www.covid19.devvn.us" static
@@ -57996,6 +57998,7 @@ local-zone: "www.covid19homebuyer.org" static
 local-zone: "www.covid19homebuyers.com" static
 local-zone: "www.covid19homebuyers.org" static
 local-zone: "www.covid19homefitness.com" static
+local-zone: "www.covid19home.site" static
 local-zone: "www.covid19homestore.com" static
 local-zone: "www.covid-19hometestkits.com" static
 local-zone: "www.covid19honduras.org" static
@@ -58058,6 +58061,7 @@ local-zone: "www.covid19.ldhavoice.co.uk" static
 local-zone: "www.covid19-legalaid.com" static
 local-zone: "www.covid19.lesmorsolutions.com" static
 local-zone: "www.covid19life.co.uk" static
+local-zone: "www.covid19lifehacks.com" static
 local-zone: "www.covid19.limited" static
 local-zone: "www.covid19.liquid.do" static
 local-zone: "www.covid-19list.com" static
@@ -58426,6 +58430,7 @@ local-zone: "www.fit-fuer-coronavirus.de" static
 local-zone: "www.fitnessincovid19.com" static
 local-zone: "www.fixcovid19.com" static
 local-zone: "www.flaipercovid19.net" static
+local-zone: "www.flattencovid-19.glocalorg.net" static
 local-zone: "www.flattenthecoronavirus.com" static
 local-zone: "www.floridacoronavirusattorney.com" static
 local-zone: "www.floridacoronaviruslaw.com" static
