@@ -2614,7 +2614,6 @@ local-zone: "carolinacoronaclaims.com" static
 local-zone: "carolinacovid19.com" static
 local-zone: "carolinecovid19.org" static
 local-zone: "caronacovid.com" static
-local-zone: "caronavirus-covid-19.ru" static
 local-zone: "carpinteriacorona.com" static
 local-zone: "cartasalcoronavirus.es" static
 local-zone: "cartascorona.com" static
@@ -21421,7 +21420,6 @@ local-zone: "covid-19app.com" static
 local-zone: "covid19-app.com" static
 local-zone: "covid19appeal.com" static
 local-zone: "covid19-appeal.kcl.ac.uk" static
-local-zone: "covid19app.gnstudios.dev" static
 local-zone: "covid19app.ilarahealth.com" static
 local-zone: "covid19apple.com" static
 local-zone: "covid-19.apple.com-id.site" static
@@ -25905,7 +25903,6 @@ local-zone: "covid19.kadesa.org" static
 local-zone: "covid19-kagawa.jp" static
 local-zone: "covid19.kaissa.nl" static
 local-zone: "covid19.kaltimprov.go.id" static
-local-zone: "covid19kams.org.au" static
 local-zone: "covid-19kansas.com" static
 local-zone: "covid19.kanwilsumbagut.com" static
 local-zone: "covid19.kapa7.com" static
@@ -27898,6 +27895,7 @@ local-zone: "covid19photo.com" static
 local-zone: "covid-19.photographeress.com" static
 local-zone: "covid-19.photography" static
 local-zone: "covid19photos.com" static
+local-zone: "covid19ph.spiritualfoodtoday.com" static
 local-zone: "covid19phsychologist.com" static
 local-zone: "covid19ph.tk" static
 local-zone: "covid19.phunited.org" static
@@ -29566,6 +29564,7 @@ local-zone: "covid19.sorrix.com.br" static
 local-zone: "covid19-sos.com" static
 local-zone: "covid19sos.com" static
 local-zone: "covid19.sosdados.com.br" static
+local-zone: "covid19soseconomia.altervista.org" static
 local-zone: "covid-19.sos.pl" static
 local-zone: "covid19.sos.pl" static
 local-zone: "covid-19-sos.tiendasdeabarrotes.com" static
@@ -30698,6 +30697,7 @@ local-zone: "covid19tracker.interesante.com" static
 local-zone: "covid19tracker.io" static
 local-zone: "covid-19-tracker.iotsolutionz.com" static
 local-zone: "covid-19-tracker.kevinthomas5.repl.run" static
+local-zone: "covid19tracker-laguna.mcl-ccis.net" static
 local-zone: "covid-19tracker.net" static
 local-zone: "covid19tracker.now.sh" static
 local-zone: "covid19tracker.online" static
@@ -49455,6 +49455,7 @@ local-zone: "procoronavirus.net" static
 local-zone: "procoronavirustest.com" static
 local-zone: "procovid19.com" static
 local-zone: "procovid19mask.com" static
+local-zone: "pro-covid-19.ru" static
 local-zone: "pro-covid19.ru" static
 local-zone: "pro-covid.com" static
 local-zone: "prod.cms.coronavirusresources.phe.gov.uk" static
@@ -57269,7 +57270,6 @@ local-zone: "wwwtiaabankcovid19.com" static
 local-zone: "wwwtiaabankcovid19.net" static
 local-zone: "wwwtiaacovid19.com" static
 local-zone: "wwwtiaacovid19.net" static
-local-zone: "www.tijdenvancoronavirus.be" static
 local-zone: "www.tncovid19.in" static
 local-zone: "www.today-coronavirus.online" static
 local-zone: "www.todoscontracoronavirus.com" static
