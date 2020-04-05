@@ -2899,7 +2899,6 @@ local-zone: "checkpandemic.com" static
 local-zone: "checktoncoronavirus.fr" static
 local-zone: "check.ufsp-coronavirus.ch" static
 local-zone: "checkupcorona.com" static
-local-zone: "checkupcovid19.kalbarprov.go.id" static
 local-zone: "cheerscorona.com" static
 local-zone: "cheerstocorona.com" static
 local-zone: "chekcovid19.com" static
@@ -12579,6 +12578,7 @@ local-zone: "coronavirus-api.com" static
 local-zone: "coronavirusapi.dev" static
 local-zone: "coronavirusapi.iycchan.repl.run" static
 local-zone: "coronavirus-api.ru" static
+local-zone: "coronavirus-api.shendetesia.gov.al" static
 local-zone: "coronavirusapi.webaty.com" static
 local-zone: "coronavirusapocalypse2020.com" static
 local-zone: "coronavirus-apocalypse.com" static
@@ -13840,6 +13840,7 @@ local-zone: "coronaviruscounselors.com" static
 local-zone: "coronaviruscounsels.com" static
 local-zone: "coronaviruscountdown.com" static
 local-zone: "corona-virus-counter.com" static
+local-zone: "coronaviruscounter.net" static
 local-zone: "coronaviruscount.life" static
 local-zone: "coronaviruscount.net" static
 local-zone: "coronaviruscountrybycountry.com" static
@@ -18712,6 +18713,7 @@ local-zone: "coronavirusshare.com" static
 local-zone: "coronavirusshelter.com" static
 local-zone: "coronavirusshelters.com" static
 local-zone: "coronavirusshenanigans.com" static
+local-zone: "coronavirus.shendetesia.gov.al" static
 local-zone: "coronavirus-shield-mission.com" static
 local-zone: "coronavirusship.com" static
 local-zone: "coronavirusshipt.com" static
@@ -18838,7 +18840,6 @@ local-zone: "coronavirussolicitor.net" static
 local-zone: "coronavirussolicitors.com" static
 local-zone: "coronavirussolidarityfoundation.com" static
 local-zone: "coronavirussoluations.com" static
-local-zone: "coronavirussolution.net" static
 local-zone: "coronavirussolutions.ca" static
 local-zone: "corona-virus-solutions.com" static
 local-zone: "corona-virussolutions.com" static
@@ -18912,7 +18913,6 @@ local-zone: "coronavirusstates.com" static
 local-zone: "coronavirus-statistic.com" static
 local-zone: "coronavirus-statistic.ru" static
 local-zone: "coronavirusstatisticsandinformation.com" static
-local-zone: "coronavirusstatistics.net" static
 local-zone: "coronavirusstatistics.org" static
 local-zone: "coronavirusstatistika.ru" static
 local-zone: "coronavirus-statistiques.com" static
@@ -21152,7 +21152,6 @@ local-zone: "covid19aid2020.net" static
 local-zone: "covid-19aid20.com" static
 local-zone: "covid19aid20.com" static
 local-zone: "covid19aid20.net" static
-local-zone: "covid19-aidcenterbd.net" static
 local-zone: "covid-19aid.com" static
 local-zone: "covid19-aid.com" static
 local-zone: "covid19-aid.de" static
@@ -25337,6 +25336,7 @@ local-zone: "covid19hysteria.com" static
 local-zone: "covid19ia.com" static
 local-zone: "covid19.iainsasbabel.ac.id" static
 local-zone: "covid19ians.com" static
+local-zone: "covid19.iaom.hu" static
 local-zone: "covid19.iapps365.com" static
 local-zone: "covid19.ibhaan.com" static
 local-zone: "covid19.ibighealth.com" static
@@ -30887,6 +30887,7 @@ local-zone: "covid19.ufrgs.dev" static
 local-zone: "covid-19.ufsj.tech" static
 local-zone: "covid-19ug.com" static
 local-zone: "covid19.ugm.de" static
+local-zone: "covid19.ugrend.io" static
 local-zone: "covid19.uisanet.com.br" static
 local-zone: "covid19ukaid.com" static
 local-zone: "covid-19-uk-api.dholmes.co.uk" static
