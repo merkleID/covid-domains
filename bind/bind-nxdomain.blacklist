@@ -272,8 +272,6 @@ dns-zone-blacklist. IN NS localhost.
 *.2020covid-19.com CNAME .
 2020covid19.com CNAME .
 *.2020covid19.com CNAME .
-2020covid19news.directmail4everyone.com CNAME .
-*.2020covid19news.directmail4everyone.com CNAME .
 2020covid-19pandemic.com CNAME .
 *.2020covid-19pandemic.com CNAME .
 2020covid19pandemic.com CNAME .
@@ -46344,8 +46342,12 @@ covid19crisismanagement.com CNAME .
 *.covid19crisismanagement.com CNAME .
 covid19crisismanagementplan.com CNAME .
 *.covid19crisismanagementplan.com CNAME .
+covid-19-crisis.net CNAME .
+*.covid-19-crisis.net CNAME .
 covid19crisis.net CNAME .
 *.covid19crisis.net CNAME .
+covid-19-crisis.org CNAME .
+*.covid-19-crisis.org CNAME .
 covid19crisispr.com CNAME .
 *.covid19crisispr.com CNAME .
 covid19crisisresponse.com CNAME .
@@ -49732,8 +49734,6 @@ covid-19.gsooka.com CNAME .
 *.covid-19.gsooka.com CNAME .
 covid19.gt CNAME .
 *.covid19.gt CNAME .
-covid-19-gt.cf CNAME .
-*.covid-19-gt.cf CNAME .
 covid-19gt.com CNAME .
 *.covid-19gt.com CNAME .
 covid19guanajuato.xyz CNAME .
@@ -51512,6 +51512,8 @@ covid19iqvia.com CNAME .
 *.covid19iqvia.com CNAME .
 covid19-iran.com CNAME .
 *.covid19-iran.com CNAME .
+covid19.iran.eden.bz CNAME .
+*.covid19.iran.eden.bz CNAME .
 covid19-ireland.com CNAME .
 *.covid19-ireland.com CNAME .
 covid19ireland.com CNAME .
@@ -53096,6 +53098,8 @@ covid19makervlc.zendesk.com CNAME .
 *.covid19makervlc.zendesk.com CNAME .
 covid19.makinkeren.id CNAME .
 *.covid19.makinkeren.id CNAME .
+covid19.makkah-now.com CNAME .
+*.covid19.makkah-now.com CNAME .
 covid19.m-akses.com CNAME .
 *.covid19.m-akses.com CNAME .
 covid19.malili-tekno.com CNAME .
@@ -54614,6 +54618,8 @@ covid-19news.xyz CNAME .
 *.covid-19news.xyz CNAME .
 covid19.newtondreams.com CNAME .
 *.covid19.newtondreams.com CNAME .
+covid19newupdates.com CNAME .
+*.covid19newupdates.com CNAME .
 covid19newvaccine.com CNAME .
 *.covid19newvaccine.com CNAME .
 covid19newyorkcity.com CNAME .
@@ -58976,6 +58982,8 @@ covid19snapback.com CNAME .
 *.covid19snapback.com CNAME .
 covid-19snapmd.com CNAME .
 *.covid-19snapmd.com CNAME .
+covid-19.snart.ninja CNAME .
+*.covid-19.snart.ninja CNAME .
 covid19sn.com CNAME .
 *.covid19sn.com CNAME .
 covid19-sneezeguard.com CNAME .
@@ -59242,6 +59250,8 @@ covid19srl.shoes CNAME .
 *.covid19srl.shoes CNAME .
 covid19sr.ng CNAME .
 *.covid19sr.ng CNAME .
+covid19.srs.care CNAME .
+*.covid19.srs.care CNAME .
 covid19.srv.br CNAME .
 *.covid19.srv.br CNAME .
 covid19ss.com CNAME .
@@ -63204,6 +63214,8 @@ covid-19-work-safe.com CNAME .
 *.covid-19-work-safe.com CNAME .
 covid-19workspacesolution.com CNAME .
 *.covid-19workspacesolution.com CNAME .
+covid19.work.ulwex.com CNAME .
+*.covid19.work.ulwex.com CNAME .
 covid19workwear.com CNAME .
 *.covid19workwear.com CNAME .
 covid19worldaid.org CNAME .
@@ -63416,6 +63428,8 @@ covid19yyc.com CNAME .
 *.covid19yyc.com CNAME .
 covid19-zacatecas.drcidbaez.com CNAME .
 *.covid19-zacatecas.drcidbaez.com CNAME .
+covid-19.zaimtl.ca CNAME .
+*.covid-19.zaimtl.ca CNAME .
 covid19.zakaria.tech CNAME .
 *.covid19.zakaria.tech CNAME .
 covid19.zaki.it CNAME .
@@ -63530,6 +63544,8 @@ covid-2019.mknet.biz CNAME .
 *.covid-2019.mknet.biz CNAME .
 covid2019money.com CNAME .
 *.covid2019money.com CNAME .
+covid-2019.net.ua CNAME .
+*.covid-2019.net.ua CNAME .
 covid-2019outbreak.com CNAME .
 *.covid-2019outbreak.com CNAME .
 covid2019pandemic.com CNAME .
@@ -76118,6 +76134,8 @@ cpapforcovid.com CNAME .
 *.cpapforcovid.com CNAME .
 cpcalendars.coronavirusfree.site CNAME .
 *.cpcalendars.coronavirusfree.site CNAME .
+cpcalendars.coronavirusinfirmiere.com CNAME .
+*.cpcalendars.coronavirusinfirmiere.com CNAME .
 cpcalendars.coronavirustestingkits.co.uk CNAME .
 *.cpcalendars.coronavirustestingkits.co.uk CNAME .
 cpcalendars.covid19a.info CNAME .
@@ -77360,6 +77378,8 @@ depaulukcoronavirusappeal.donaco.co CNAME .
 *.depaulukcoronavirusappeal.donaco.co CNAME .
 depaulukcoronavirus.donaco.co CNAME .
 *.depaulukcoronavirus.donaco.co CNAME .
+depaulukcovid19appeal.donaco.co CNAME .
+*.depaulukcovid19appeal.donaco.co CNAME .
 depistage-corona.com CNAME .
 *.depistage-corona.com CNAME .
 depistage-coronavirus.com CNAME .
@@ -100344,6 +100364,8 @@ ripcorona.com CNAME .
 *.ripcorona.com CNAME .
 ripcoronavirus.com CNAME .
 *.ripcoronavirus.com CNAME .
+ripcovid19.ci CNAME .
+*.ripcovid19.ci CNAME .
 ripcovid19.com CNAME .
 *.ripcovid19.com CNAME .
 ripostecovid19.scoutsdusenegal.org CNAME .
@@ -112004,6 +112026,8 @@ www.coronavirus-infected.ru CNAME .
 *.www.coronavirus-infected.ru CNAME .
 www.corona-virus-infection.ru CNAME .
 *.www.corona-virus-infection.ru CNAME .
+www.coronavirusinfirmiere.com.infirmierepaimpont.eu CNAME .
+*.www.coronavirusinfirmiere.com.infirmierepaimpont.eu CNAME .
 www.coronavirus-info24.ru CNAME .
 *.www.coronavirus-info24.ru CNAME .
 www.coronavirusinformator.ru CNAME .
@@ -113376,6 +113400,8 @@ www.covid19.soy CNAME .
 *.www.covid19.soy CNAME .
 www.covid-19-spread.info CNAME .
 *.www.covid-19-spread.info CNAME .
+www.covid19srilanka.com CNAME .
+*.www.covid19srilanka.com CNAME .
 www.covid-19-starterpack.com CNAME .
 *.www.covid-19-starterpack.com CNAME .
 www.covid-19stat.ru CNAME .
@@ -113438,8 +113464,6 @@ www.covid19test.ie CNAME .
 *.www.covid19test.ie CNAME .
 www.covid19-testing.churchofthehighlands.com CNAME .
 *.www.covid19-testing.churchofthehighlands.com CNAME .
-www.covid19testingkits.org CNAME .
-*.www.covid19testingkits.org CNAME .
 www.covid19testing.network CNAME .
 *.www.covid19testing.network CNAME .
 www.covid19-testing.org CNAME .
