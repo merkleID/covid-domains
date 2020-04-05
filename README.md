@@ -37,4 +37,4 @@ luca AT merkle DOT id
 
 Crontab updates every 30 mins.
 
-Current number of domains: 59193
+Current number of domains: 59201
