@@ -5652,6 +5652,8 @@ cdn.covid-19-au.com CNAME .
 *.cdn.covid-19-au.com CNAME .
 cdn.covid19hardtruth.com CNAME .
 *.cdn.covid19hardtruth.com CNAME .
+cdn.covid19info.ge CNAME .
+*.cdn.covid19info.ge CNAME .
 cdn.covid19-pressepro.com CNAME .
 *.cdn.covid19-pressepro.com CNAME .
 ceapprovedcovidrapidtest.com CNAME .
@@ -54000,6 +54002,8 @@ covid19logistics.com CNAME .
 *.covid19logistics.com CNAME .
 covid19.loglabprojetos.com CNAME .
 *.covid19.loglabprojetos.com CNAME .
+covid-19.lol CNAME .
+*.covid-19.lol CNAME .
 covid-19-lol.now.sh CNAME .
 *.covid-19-lol.now.sh CNAME .
 covid19london.com CNAME .
@@ -56930,8 +56934,6 @@ covid19phone.com CNAME .
 *.covid19phone.com CNAME .
 covid19photo.com CNAME .
 *.covid19photo.com CNAME .
-covid-19.photographeress.com CNAME .
-*.covid-19.photographeress.com CNAME .
 covid-19.photography CNAME .
 *.covid-19.photography CNAME .
 covid19photos.com CNAME .
@@ -63174,6 +63176,8 @@ covid19.uk.com CNAME .
 *.covid19.uk.com CNAME .
 covid19uk.idieq.org CNAME .
 *.covid19uk.idieq.org CNAME .
+covid19.ukit.me CNAME .
+*.covid19.ukit.me CNAME .
 covid19uk.live CNAME .
 *.covid19uk.live CNAME .
 covid19uk.net CNAME .
@@ -88154,6 +88158,8 @@ info.covid19mu.com CNAME .
 *.info.covid19mu.com CNAME .
 infocovid19ntpromocionetflix.online CNAME .
 *.infocovid19ntpromocionetflix.online CNAME .
+infocovid19.online CNAME .
+*.infocovid19.online CNAME .
 infocovid19ponorogo.id CNAME .
 *.infocovid19ponorogo.id CNAME .
 info-covid19-qualita.com CNAME .
@@ -92258,6 +92264,8 @@ mascarillacovid19.net CNAME .
 *.mascarillacovid19.net CNAME .
 mascarillacovid.com CNAME .
 *.mascarillacovid.com CNAME .
+mascarilla-proteccion-coronavirus.com CNAME .
+*.mascarilla-proteccion-coronavirus.com CNAME .
 mascarillascoronavirus.girzen.com CNAME .
 *.mascarillascoronavirus.girzen.com CNAME .
 mascarillas-coronavirus.net CNAME .
@@ -94436,8 +94444,6 @@ n95covid19.com CNAME .
 *.n95covid19.com CNAME .
 n95covid-19mask.com CNAME .
 *.n95covid-19mask.com CNAME .
-n95covid19masks.com CNAME .
-*.n95covid19masks.com CNAME .
 n95covid-19virus.com CNAME .
 *.n95covid-19virus.com CNAME .
 n95covid-19virusmask.com CNAME .
@@ -101414,6 +101420,8 @@ preventscoronavirus.com CNAME .
 *.preventscoronavirus.com CNAME .
 preventscovid19.com CNAME .
 *.preventscovid19.com CNAME .
+prevenzione-coronavirus.it CNAME .
+*.prevenzione-coronavirus.it CNAME .
 prevenzionecovid-19.com CNAME .
 *.prevenzionecovid-19.com CNAME .
 prevenzionecovid.com CNAME .
@@ -115832,6 +115840,8 @@ www.covid19eu.pt CNAME .
 *.www.covid19eu.pt CNAME .
 www.covid19europa.com CNAME .
 *.www.covid19europa.com CNAME .
+www.covid19evictionlawyers.com CNAME .
+*.www.covid19evictionlawyers.com CNAME .
 www.covid19exhibition.org CNAME .
 *.www.covid19exhibition.org CNAME .
 www.covid19ezchart.com CNAME .
@@ -117094,6 +117104,8 @@ www.mascarascaseirascovid19.pt CNAME .
 *.www.mascarascaseirascovid19.pt CNAME .
 www.mascarillacoronavirus.cl CNAME .
 *.www.mascarillacoronavirus.cl CNAME .
+www.mascarilla-proteccion-coronavirus.com CNAME .
+*.www.mascarilla-proteccion-coronavirus.com CNAME .
 www.mascarillas-coronavirus.info CNAME .
 *.www.mascarillas-coronavirus.info CNAME .
 www.mascherinacovid19.it CNAME .
