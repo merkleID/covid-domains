@@ -784,7 +784,6 @@ local-zone: "amendecovid.com" static
 local-zone: "amende-covid.net" static
 local-zone: "americaaftercorona.com" static
 local-zone: "americaaftercovid19.com" static
-local-zone: "americaandcovid-19.com" static
 local-zone: "americabeatcovid19.com" static
 local-zone: "americacorona.com" static
 local-zone: "americacoronavirus.com" static
@@ -23305,7 +23304,6 @@ local-zone: "covid19dashboard.raghavatal.com" static
 local-zone: "covid19dashboards.com" static
 local-zone: "covid19dash.com" static
 local-zone: "covid19.dashiell.w2odst.com" static
-local-zone: "covid19.dashiell.w2ostag.com" static
 local-zone: "covid19.dasycloud.com" static
 local-zone: "covid19dataapp.com" static
 local-zone: "covid19database.com" static
@@ -26967,7 +26965,6 @@ local-zone: "covid19.minnal.dk" static
 local-zone: "covid-19minnesota.com" static
 local-zone: "covid19minnesota.com" static
 local-zone: "covid19minnnesota.com" static
-local-zone: "covid19.minsa.god.pe" static
 local-zone: "covid19-minsaude.onrender.com" static
 local-zone: "covid19.min-saude.pt" static
 local-zone: "covid19.min.saude.pt" static
@@ -28121,6 +28118,7 @@ local-zone: "covid19preventivehealing.com" static
 local-zone: "covid19preventkit.com" static
 local-zone: "covid-19-prevetion-materials.alpsstone.com" static
 local-zone: "covid19-prewencja.pl" static
+local-zone: "covid19.pribii.com" static
 local-zone: "covid-19.primacyempire.co.za" static
 local-zone: "covid19primarycare.com" static
 local-zone: "covid19primarycare.org" static
@@ -40453,6 +40451,7 @@ local-zone: "fightcorona.zone" static
 local-zone: "fightcovid192020.com" static
 local-zone: "fightcovid19app.com" static
 local-zone: "fight-covid19.autobestinfo.com" static
+local-zone: "fightcovid19.bigblue.my" static
 local-zone: "fightcovid19.center" static
 local-zone: "fightcovid19.ch" static
 local-zone: "fightcovid19.club" static
@@ -45072,6 +45071,7 @@ local-zone: "maskicovid19.pl" static
 local-zone: "maskitagainistcovid-19.com" static
 local-zone: "maskofcorona.com" static
 local-zone: "maskpandemic.com" static
+local-zone: "maskprotectcoronavirus.com" static
 local-zone: "masks4covid.com" static
 local-zone: "masks-against-corona.com" static
 local-zone: "masksagainstcorona.com" static
@@ -48747,6 +48747,7 @@ local-zone: "pantaucorona.com" static
 local-zone: "pantau-covid19.3-a.net" static
 local-zone: "pantaucovid-19.budiono.my.id" static
 local-zone: "pantaucovid19.com" static
+local-zone: "pantaucovid19.metrotechdigital.asia" static
 local-zone: "pantrypandemic.com" static
 local-zone: "papeleocoronavirus.com" static
 local-zone: "paperpandemic.com" static
@@ -54965,6 +54966,7 @@ local-zone: "webeatcovid.com" static
 local-zone: "webeatthecoronavirus.com" static
 local-zone: "webflow.covid-19-symptoms.co.uk" static
 local-zone: "webinar.coronavirus.fisc.ro" static
+local-zone: "webmail.coronavirusesnews.com" static
 local-zone: "webmail.coronavirushacks.com" static
 local-zone: "webmail.coronavirus.in.ua" static
 local-zone: "webmail.coronavirusmexico.net" static
@@ -56319,6 +56321,7 @@ local-zone: "www.covid19deli.com" static
 local-zone: "www.covid-19dentalupdate.com" static
 local-zone: "www.covid19desdelatrinxera.com" static
 local-zone: "www.covid19-desinfectantes.com" static
+local-zone: "www.covid19.devvn.us" static
 local-zone: "www.covid19-diaries.com" static
 local-zone: "www.covid19.dieq41.com" static
 local-zone: "www.covid19digital.tips" static
@@ -56378,6 +56381,7 @@ local-zone: "www.covid-19forpresident.com" static
 local-zone: "www.covid-19forums.org" static
 local-zone: "www.covid19funding.org" static
 local-zone: "www.covid19.futurehack.ng" static
+local-zone: "www.covid-19-fysiotherapie.nl" static
 local-zone: "www.covid19.garandtech.com" static
 local-zone: "www.covid19gear.com" static
 local-zone: "www.covid19gear.co.uk" static
@@ -56993,6 +56997,7 @@ local-zone: "www.mascherinacovid19.it" static
 local-zone: "www.maskforcoronavirus.com" static
 local-zone: "www.maskforcoronavirussale.com" static
 local-zone: "www.maskn95coronavirus.com" static
+local-zone: "www.maskprotectcoronavirus.com" static
 local-zone: "www.masks-corona-virus.com" static
 local-zone: "www.masksforcovid19.store" static
 local-zone: "www.masques-coronavirus.brussels" static
