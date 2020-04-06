@@ -18714,6 +18714,7 @@ local-zone: "coronavirusmalaga.com" static
 local-zone: "coronavirusmalaga.es" static
 local-zone: "coronavirusmalawi.com" static
 local-zone: "coronavirusmali.com" static
+local-zone: "coronavirusmali.ml" static
 local-zone: "coronavirus-malpractice.com" static
 local-zone: "coronavirusmalpractice.com" static
 local-zone: "coronavirusmalpractice.net" static
@@ -19750,6 +19751,7 @@ local-zone: "coronavirus-online-map.ru" static
 local-zone: "coronavirusonlinemap.ru" static
 local-zone: "coronavirus-online-monitor.ru" static
 local-zone: "coronavirus-online-monitor.wcg-case.ru" static
+local-zone: "coronavirus-online.moscow" static
 local-zone: "coronavirus-online.org" static
 local-zone: "coronavirusonline.org" static
 local-zone: "coronavirusonline.pl" static
@@ -33321,6 +33323,7 @@ local-zone: "covid19reliefcheck.com" static
 local-zone: "covid19reliefcoffee.com" static
 local-zone: "covid-19-relief.com" static
 local-zone: "covid-19relief.com" static
+local-zone: "covid19relief.com.my" static
 local-zone: "covid-19relief.credit" static
 local-zone: "covid19reliefdirectory.com" static
 local-zone: "covid-19reliefdrive.com" static
@@ -35114,6 +35117,7 @@ local-zone: "covid19survival.group" static
 local-zone: "covid19survival.guide" static
 local-zone: "covid-19survivalguide.com" static
 local-zone: "covid19survivalguidemn.com" static
+local-zone: "covid-19-survival-guide.pages.ontraport.net" static
 local-zone: "covid19survivalhacks.com" static
 local-zone: "covid-19.survival-helper.com" static
 local-zone: "covid-19survivalkit.com" static
@@ -47662,6 +47666,7 @@ local-zone: "fundacionayudacoronavirus.xyz" static
 local-zone: "fundacioncbgranadavscovid-19.com" static
 local-zone: "fundascoronavirus.com" static
 local-zone: "fundcorona.com" static
+local-zone: "fundcovid19vaccine.com" static
 local-zone: "fundcovid.com" static
 local-zone: "fundforcovid19.com" static
 local-zone: "fundforcovid19.xyz" static
@@ -57819,6 +57824,7 @@ local-zone: "rapidtest-covid19.com" static
 local-zone: "rapidtestcovid-19.com" static
 local-zone: "rapidtestcovid19.com" static
 local-zone: "rapid-test-covid19.fr" static
+local-zone: "rapidtestcovid19.net" static
 local-zone: "rapidtestcovid19sydney.com" static
 local-zone: "rapidtestcovid2019.com" static
 local-zone: "rapidtestcovid.com" static
@@ -62264,6 +62270,8 @@ local-zone: "tiarashopde.corona-virus-mask.eu" static
 local-zone: "tiarashopes.corona-virus-mask.eu" static
 local-zone: "tiarashopgr.corona-virus-mask.eu" static
 local-zone: "tiarashopit.corona-virus-mask.eu" static
+local-zone: "tiarashoppl.corona-virus-mask.eu" static
+local-zone: "tiarashopro.corona-virus-mask.eu" static
 local-zone: "tiarashopru.corona-virus-mask.eu" static
 local-zone: "tiarashopus.corona-virus-mask.eu" static
 local-zone: "tidforcovid.com" static
