@@ -3126,6 +3126,7 @@ local-zone: "cantpaycoronavirus.net" static
 local-zone: "cantstopcorona.com" static
 local-zone: "canvasforcorona.com" static
 local-zone: "canwestopcovidyes.com" static
+local-zone: "canyouavoidcovid19.com" static
 local-zone: "canyousuecorona.com" static
 local-zone: "canyxcovid19.org" static
 local-zone: "capcorona.com" static
@@ -6513,6 +6514,7 @@ local-zone: "coronacovid-19pill.net" static
 local-zone: "coronacovid19ppe.com" static
 local-zone: "coronacovid19pump.com" static
 local-zone: "coronacovid-19.rocks" static
+local-zone: "corona.covid-19scan.org" static
 local-zone: "corona-covid19screen.com" static
 local-zone: "coronacovid-19serum.com" static
 local-zone: "coronacovid19sex.com" static
@@ -28929,6 +28931,7 @@ local-zone: "covid19help.center" static
 local-zone: "covid-19helpcenter.com" static
 local-zone: "covid19helpcenter.com" static
 local-zone: "covid19helpcentre.com" static
+local-zone: "covid-19-help.cloud" static
 local-zone: "covid19help.club" static
 local-zone: "covid-19-help.com" static
 local-zone: "covid19-help.com" static
@@ -29599,6 +29602,7 @@ local-zone: "covid19information.center" static
 local-zone: "covid19informationcenter.com" static
 local-zone: "covid19informationcenter.net" static
 local-zone: "covid-19-information.com" static
+local-zone: "covid19informationindia.xyz" static
 local-zone: "covid19-informations.com" static
 local-zone: "covid19information.us" static
 local-zone: "covid19informed.com" static
@@ -30583,6 +30587,7 @@ local-zone: "covid19-live.ml" static
 local-zone: "covid19live.net" static
 local-zone: "covid19live.news" static
 local-zone: "covid19-live-news.com" static
+local-zone: "covid19livenewsupdate.com" static
 local-zone: "covid19live.now.sh" static
 local-zone: "covid19live.org" static
 local-zone: "covid19.livepanel.co" static
@@ -31477,6 +31482,7 @@ local-zone: "covid19movies.com" static
 local-zone: "covid19movies.net" static
 local-zone: "covid19moving.com" static
 local-zone: "covid-19.mpdashboard.com" static
+local-zone: "covid19mpl.cdp-sanita-coll.soresa.it" static
 local-zone: "covid19mpl-collaudo.cdp-sanita-coll.soresa.it" static
 local-zone: "covid19.mrktventure.com" static
 local-zone: "covid19.mrluggage.net" static
@@ -47384,6 +47390,7 @@ local-zone: "forcemajeurcorona.com" static
 local-zone: "force-majeure-coronavirus.com" static
 local-zone: "forcemajeurecoronavirus.com" static
 local-zone: "forcorona.com" static
+local-zone: "forcoronavirus.live" static
 local-zone: "forcoronavirustesting.com" static
 local-zone: "forcoronavirustestkits.com" static
 local-zone: "forcovid19.com" static
