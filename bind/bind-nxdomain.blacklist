@@ -784,6 +784,8 @@ dns-zone-blacklist. IN NS localhost.
 *.99peopleofwuhan.com CNAME .
 99xt-covid-19.tk CNAME .
 *.99xt-covid-19.tk CNAME .
+9mysecure-facebookcovid19petition.ga CNAME .
+*.9mysecure-facebookcovid19petition.ga CNAME .
 9securemy-facebookcovid19petition.gq CNAME .
 *.9securemy-facebookcovid19petition.gq CNAME .
 a1corona.com CNAME .
@@ -59262,6 +59264,8 @@ covid19info.ocgov.com CNAME .
 *.covid19info.ocgov.com CNAME .
 covid19-info.online CNAME .
 *.covid19-info.online CNAME .
+covid19infopedia.com CNAME .
+*.covid19infopedia.com CNAME .
 covid-19info.redeyeproductions.net CNAME .
 *.covid-19info.redeyeproductions.net CNAME .
 covid19.inforlabs.net CNAME .
@@ -60056,6 +60060,8 @@ covid19.joyinfotech.online CNAME .
 *.covid19.joyinfotech.online CNAME .
 covid19joyscore.com CNAME .
 *.covid19joyscore.com CNAME .
+covid19.jpadult.mixh.jp CNAME .
+*.covid19.jpadult.mixh.jp CNAME .
 covid19-jp.info CNAME .
 *.covid19-jp.info CNAME .
 covid19jp.info CNAME .
@@ -71830,6 +71836,8 @@ covid19thesecret.com CNAME .
 *.covid19thesecret.com CNAME .
 covid19thesecret.net CNAME .
 *.covid19thesecret.net CNAME .
+covid19.theshortify.com CNAME .
+*.covid19.theshortify.com CNAME .
 covid19theteachings.com CNAME .
 *.covid19theteachings.com CNAME .
 covid19thetodayshow.com CNAME .
@@ -74098,6 +74106,8 @@ covid19wear.net CNAME .
 *.covid19wear.net CNAME .
 covid19.webbions.com CNAME .
 *.covid19.webbions.com CNAME .
+covid-19webcast.com CNAME .
+*.covid-19webcast.com CNAME .
 covid19webcast.com CNAME .
 *.covid19webcast.com CNAME .
 covid19.webdufaso.com CNAME .
@@ -96626,6 +96636,8 @@ goodcoronanews.com CNAME .
 *.goodcoronanews.com CNAME .
 goodcoronavirusnews.com CNAME .
 *.goodcoronavirusnews.com CNAME .
+good-covid-19-news.com CNAME .
+*.good-covid-19-news.com CNAME .
 goodcovid19receipts.com CNAME .
 *.goodcovid19receipts.com CNAME .
 goodcovidnews.com CNAME .
@@ -100658,6 +100670,8 @@ intowuhan.com CNAME .
 *.intowuhan.com CNAME .
 investcorona.com CNAME .
 *.investcorona.com CNAME .
+investcovid19.bbs-com.sg CNAME .
+*.investcovid19.bbs-com.sg CNAME .
 investcovid19.com CNAME .
 *.investcovid19.com CNAME .
 investcovid.com CNAME .
@@ -104306,6 +104320,8 @@ mail.nocovid19.gr CNAME .
 *.mail.nocovid19.gr CNAME .
 mail.oguncovid19.ng CNAME .
 *.mail.oguncovid19.ng CNAME .
+mail.petacovid19.bintankab.go.id CNAME .
+*.mail.petacovid19.bintankab.go.id CNAME .
 mail.sars-coronavirus-2.info CNAME .
 *.mail.sars-coronavirus-2.info CNAME .
 mail.sbacoronaviruslawyer.com CNAME .
@@ -120690,6 +120706,8 @@ survivedcoronavirustshirt.com CNAME .
 *.survivedcoronavirustshirt.com CNAME .
 survivedcovid192020.com CNAME .
 *.survivedcovid192020.com CNAME .
+survivedcovid19band.com CNAME .
+*.survivedcovid19band.com CNAME .
 survived-covid19.com CNAME .
 *.survived-covid19.com CNAME .
 survivedcovid-19.com CNAME .
@@ -132124,6 +132142,8 @@ www.covid19infonow.danschaefferit.com CNAME .
 *.www.covid19infonow.danschaefferit.com CNAME .
 www.covid19inform.org CNAME .
 *.www.covid19inform.org CNAME .
+www.covid19ingreece.com CNAME .
+*.www.covid19ingreece.com CNAME .
 www.covid19-in.ml CNAME .
 *.www.covid19-in.ml CNAME .
 www.covid19innovations.org CNAME .
@@ -132242,6 +132262,8 @@ www.covid19lk.info CNAME .
 *.www.covid19lk.info CNAME .
 www.covid19lockdown.info CNAME .
 *.www.covid19lockdown.info CNAME .
+www.covid19logger.org CNAME .
+*.www.covid19logger.org CNAME .
 www.covid-19.logimetrix.info CNAME .
 *.www.covid-19.logimetrix.info CNAME .
 www.covid-19logo.com CNAME .
@@ -133578,6 +133600,8 @@ www.latestcoronavirustips.bridegroomdress.com CNAME .
 *.www.latestcoronavirustips.bridegroomdress.com CNAME .
 www.latestcoronavirusupdates.info CNAME .
 *.www.latestcoronavirusupdates.info CNAME .
+www.learncoronavirus.com CNAME .
+*.www.learncoronavirus.com CNAME .
 www.learncovid19.com CNAME .
 *.www.learncovid19.com CNAME .
 www.lebicoronavirusmask.com CNAME .
