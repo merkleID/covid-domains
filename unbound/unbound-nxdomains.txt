@@ -14460,6 +14460,7 @@ local-zone: "coronavirusbuildings.net" static
 local-zone: "coronavirusbulgaria.com" static
 local-zone: "coronavirus-bulgaria.org" static
 local-zone: "coronavirusbulkbuy.co.uk" static
+local-zone: "coronavirusbulletin.org" static
 local-zone: "coronavirusbullmarket.com" static
 local-zone: "coronavirusbunker.com" static
 local-zone: "coronavirus-burkina.com" static
@@ -24536,6 +24537,7 @@ local-zone: "covid19app.se" static
 local-zone: "covid-19-app-service-env.appserviceenvironment.net" static
 local-zone: "covid19.appsquest.org" static
 local-zone: "covid19app.uniurb.it" static
+local-zone: "covid19app.xyz" static
 local-zone: "covid19apres.com" static
 local-zone: "covid19aprou.com" static
 local-zone: "covid19.apsugis.org" static
@@ -26223,6 +26225,7 @@ local-zone: "covid19cn.com" static
 local-zone: "covid19.cnc.org.hk" static
 local-zone: "covid-19.cnfp.ru" static
 local-zone: "covid19.cnnumerique.fr" static
+local-zone: "covid19.cnscbt.ro" static
 local-zone: "covid19cnss.com" static
 local-zone: "covid19co118torino.altervista.org" static
 local-zone: "covid-19.coach" static
@@ -34830,6 +34833,7 @@ local-zone: "covid19-spain.com" static
 local-zone: "covid19spain.com" static
 local-zone: "covid19-spain.ru" static
 local-zone: "covid19.spark451.com" static
+local-zone: "covid-19.sparkfabrik.com" static
 local-zone: "covid19.spatialmate.com" static
 local-zone: "covid19.spatialworks.com.my" static
 local-zone: "covid19sp.com" static
@@ -36504,6 +36508,8 @@ local-zone: "covid-19.ufsj.tech" static
 local-zone: "covid-19ug.com" static
 local-zone: "covid19ug.com" static
 local-zone: "covid19.ugm.de" static
+local-zone: "covid19.ugpl.in" static
+local-zone: "covid19.ugpl.in.rudrawebsolutions.in" static
 local-zone: "covid19.ugrend.io" static
 local-zone: "covid19.ugr.es" static
 local-zone: "covid19.uisanet.com.br" static
@@ -45569,6 +45575,7 @@ local-zone: "dodgecoronavirus.com" static
 local-zone: "dodoca-covid19.com" static
 local-zone: "doecoronavirus.com" static
 local-zone: "doecoronavirus.com.br" static
+local-zone: "does5gcausecoronavirus.com" static
 local-zone: "doesbenstillerhavecoronavirus.com" static
 local-zone: "doesdonaldtrumphavecoronavirus.com" static
 local-zone: "doeshappymediumhavethecoronavirus.com" static
@@ -54355,6 +54362,7 @@ local-zone: "nocovid19shop.com" static
 local-zone: "nocovid19symptoms.com" static
 local-zone: "nocovid19.top" static
 local-zone: "nocovid19usa.com" static
+local-zone: "nocovid-2019.e24.su" static
 local-zone: "nocovid9tees.com" static
 local-zone: "nocovidapp.com" static
 local-zone: "no-covid.com" static
@@ -59617,6 +59625,7 @@ local-zone: "socovid.com" static
 local-zone: "sofort-hilfe-corona.com" static
 local-zone: "soforthilfe-corona-kmu-koeln.com" static
 local-zone: "soforthilfe-coronavirus.com" static
+local-zone: "soforthilfe-coronavirus.eu" static
 local-zone: "soforthilfe-corona-ziel3.com" static
 local-zone: "sofortzuschuss-corona.com" static
 local-zone: "sofortzuschuss-corona.net" static
@@ -61966,6 +61975,7 @@ local-zone: "thecovid19platform.com" static
 local-zone: "thecovid-19play.com" static
 local-zone: "thecovid19play.com" static
 local-zone: "thecovid19pledge.center" static
+local-zone: "thecovid19podcast.com" static
 local-zone: "thecovid19porn.com" static
 local-zone: "thecovid19prevention.com" static
 local-zone: "thecovid-19project.com" static

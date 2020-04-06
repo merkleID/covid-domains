@@ -38,3 +38,4 @@ luca AT merkle DOT id
 Crontab updates every 30 mins.
 
 Now protecting your browsin experience from 67921 domains
+Now protecting your browsin experience from 67931 domains
