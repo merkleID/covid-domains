@@ -20349,6 +20349,7 @@ local-zone: "coronaviruspreventiongear.com" static
 local-zone: "coronaviruspreventionguide.com" static
 local-zone: "corona-virus-prevention-kit.com" static
 local-zone: "coronavirus-prevention-kit.com" static
+local-zone: "coronaviruspreventionkit.com" static
 local-zone: "corona-virus-prevention-kits.com" static
 local-zone: "coronavirus-prevention-kits.com" static
 local-zone: "coronaviruspreventionmasks.com" static
@@ -24239,6 +24240,8 @@ local-zone: "covid19al.com" static
 local-zone: "covid-19-alert.com" static
 local-zone: "covid-19alert.com" static
 local-zone: "covid19-alert.com" static
+local-zone: "covid-19alert.co.za" static
+local-zone: "covid19alert.co.za" static
 local-zone: "covid19alerter.com" static
 local-zone: "covid19-alert.eu" static
 local-zone: "covid19alert.info" static
@@ -27571,6 +27574,7 @@ local-zone: "covid-19-economy.com" static
 local-zone: "covid-19economy.com" static
 local-zone: "covid19-economy.com" static
 local-zone: "covid19economy.com" static
+local-zone: "covid19economy.co.za" static
 local-zone: "covid19.econvivial.org" static
 local-zone: "covid19.ecrl.eas.cornell.edu" static
 local-zone: "covid19ecuador.carreraestrada.com" static
@@ -31593,6 +31597,7 @@ local-zone: "covid-19monitoring.com" static
 local-zone: "covid19monitoring.com" static
 local-zone: "covid19-monitor.net" static
 local-zone: "covid-19-monitor.nz" static
+local-zone: "covid19-monitor.pentagrama.net.br" static
 local-zone: "covid19monitor.ru" static
 local-zone: "covid-19.monster" static
 local-zone: "covid19montebello.it" static
@@ -33084,6 +33089,7 @@ local-zone: "covid19-protocol.com" static
 local-zone: "covid19protocol.com" static
 local-zone: "covid19protocols.com" static
 local-zone: "covid19proust.com" static
+local-zone: "covid-19.proveneapp.com" static
 local-zone: "covid-19.providence.edu" static
 local-zone: "covid19provider.com" static
 local-zone: "covid19providerlaw.com" static
@@ -36225,6 +36231,7 @@ local-zone: "covid-19track.com" static
 local-zone: "covid19-track.com" static
 local-zone: "covid19track.com" static
 local-zone: "covid19trackd.com" static
+local-zone: "covid19tracker.api.aibharata.com" static
 local-zone: "covid19trackerapp.com" static
 local-zone: "covid19tracker.artyboy.dev" static
 local-zone: "covid-19-tracker.buonincontri.org" static
@@ -59723,6 +59730,7 @@ local-zone: "soslegalcovid19.es" static
 local-zone: "sos-pandemic.com" static
 local-zone: "sospandemic.com" static
 local-zone: "sourcewellcovid19.com" static
+local-zone: "southafricacovid19.co.za" static
 local-zone: "southcarolinacorona.com" static
 local-zone: "southcarolinacoronavirus.com" static
 local-zone: "southcarolinacovid19.com" static
@@ -62787,6 +62795,7 @@ local-zone: "trackcovid-19.co.in" static
 local-zone: "track-covid-19.com" static
 local-zone: "track-covid19.com" static
 local-zone: "trackcovid-19.com" static
+local-zone: "trackcovid19.com.br" static
 local-zone: "trackcovid19cures.com" static
 local-zone: "trackcovid19.in" static
 local-zone: "trackcovid19.info" static
@@ -65657,6 +65666,7 @@ local-zone: "www.coronavirus.limo" static
 local-zone: "www.coronaviruslink.net" static
 local-zone: "www.coronaviruslitigators.com" static
 local-zone: "www.corona-virus-live.com" static
+local-zone: "www.coronaviruslivedailyupdates.com" static
 local-zone: "www.coronaviruslive.ml" static
 local-zone: "www.coronavirusliveupdates.org" static
 local-zone: "www.coronaviruslk.tk" static
