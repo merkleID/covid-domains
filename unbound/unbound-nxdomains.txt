@@ -18599,6 +18599,7 @@ local-zone: "coronavirusmexico.net" static
 local-zone: "coronavirusmexico.org.mx" static
 local-zone: "coronavirus.mg" static
 local-zone: "coronavirusmg2020.zendesk.com" static
+local-zone: "coronavirus-mg.com.br" static
 local-zone: "coronavirus-miami.com" static
 local-zone: "coronavirusmiami.com" static
 local-zone: "coronavirus.miami.edu" static
@@ -28454,6 +28455,7 @@ local-zone: "covid19-honduras.com" static
 local-zone: "covid19honduras.org" static
 local-zone: "covid19-honesty.com" static
 local-zone: "covid19honesty.com" static
+local-zone: "covid19.honeybeehub.io" static
 local-zone: "covid19-hope.com" static
 local-zone: "covid19hope.com" static
 local-zone: "covid19-horizon.com" static
@@ -28647,6 +28649,7 @@ local-zone: "covid19.ieliot.com" static
 local-zone: "covid19.iesalud.edu.mx" static
 local-zone: "covid19.ifnoar.com.br" static
 local-zone: "covid19ifornia.com" static
+local-zone: "covid19.igautopost.com" static
 local-zone: "covid19-ig.com" static
 local-zone: "covid19ig.com" static
 local-zone: "covid-19.iglocska.eu" static
@@ -32722,6 +32725,7 @@ local-zone: "covid19.responsedga.com" static
 local-zone: "covid-19response.finance" static
 local-zone: "covid19-response.finance" static
 local-zone: "covid19response.finance" static
+local-zone: "covid-19response.fund" static
 local-zone: "covid19response.fund" static
 local-zone: "covid19responsefund.biz" static
 local-zone: "covid19-responsefund.com" static
@@ -32897,6 +32901,7 @@ local-zone: "covid-19rt.steramed.info" static
 local-zone: "covid19ruinmysummer.xyz" static
 local-zone: "covid-19rules.com" static
 local-zone: "covid19rules.com" static
+local-zone: "covid19.rumahawan.id" static
 local-zone: "covid19rumor.com" static
 local-zone: "covid-19run.com" static
 local-zone: "covid19-run.com" static
@@ -33042,6 +33047,7 @@ local-zone: "covid-19.sandes.uk" static
 local-zone: "covid19sandiego.com" static
 local-zone: "covid-19sanfrancisco.com" static
 local-zone: "covid19sanfrancisco.com" static
+local-zone: "covid19.sanggau.go.id" static
 local-zone: "covid19.sangpati-tech.com" static
 local-zone: "covid-19sani.com" static
 local-zone: "covid19sanificazione.com" static
@@ -36347,6 +36353,7 @@ local-zone: "covid-19yourstories.com" static
 local-zone: "covid19yourstories.com" static
 local-zone: "covid19.yourws.at" static
 local-zone: "covid19.yper.fr" static
+local-zone: "covid-19.ystats.com" static
 local-zone: "covid19.yudhialfian.com" static
 local-zone: "covid19.yuge.com" static
 local-zone: "covid19-yvelines-apta78.fr" static
@@ -48410,6 +48417,7 @@ local-zone: "impactpandemic.com" static
 local-zone: "impalamusic-covid19.info" static
 local-zone: "impfstoff-corona.com" static
 local-zone: "impots-covid19.com" static
+local-zone: "imprimeurs3d-covid19-map.rudylacrete.fr" static
 local-zone: "imprimeurs3d-covid19.rudylacrete.fr" static
 local-zone: "imrcovid.com" static
 local-zone: "imstrongerthancovid-19.com" static
@@ -60536,6 +60544,7 @@ local-zone: "tiaragalianocom.corona-virus-mask.eu" static
 local-zone: "tiaragalianoeu.corona-virus-mask.eu" static
 local-zone: "tiarashopde.corona-virus-mask.eu" static
 local-zone: "tiarashopes.corona-virus-mask.eu" static
+local-zone: "tiarashopgr.corona-virus-mask.eu" static
 local-zone: "tiarashopit.corona-virus-mask.eu" static
 local-zone: "tiarashopru.corona-virus-mask.eu" static
 local-zone: "tiarashopus.corona-virus-mask.eu" static
@@ -63325,6 +63334,7 @@ local-zone: "www.coronavirusexplained.ca" static
 local-zone: "www.coronavirus-eyes.com" static
 local-zone: "www.coronavirusfacemask.co.za" static
 local-zone: "www.coronavirusfaces.com" static
+local-zone: "www.coronavirus-facts.cf" static
 local-zone: "www.corona-virus-facts.com" static
 local-zone: "www.coronavirusfightback.com" static
 local-zone: "www.coronavirusfighter.com" static
