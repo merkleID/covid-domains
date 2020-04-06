@@ -13409,6 +13409,7 @@ local-zone: "corona-virus24.de" static
 local-zone: "coronavirus24h.com" static
 local-zone: "coronavirus24horas.com" static
 local-zone: "coronavirus24hourdisinfectant.com" static
+local-zone: "coronavirus24h.pl" static
 local-zone: "coronavirus-24.life" static
 local-zone: "coronavirus-24.net" static
 local-zone: "coronavirus-24.ru" static
@@ -15183,6 +15184,7 @@ local-zone: "coronavirus-clothing.com" static
 local-zone: "coronavirusclothing.com" static
 local-zone: "coronavirusclothing.net" static
 local-zone: "coronavirusclothingzone.com" static
+local-zone: "coronavirusclothmasks.com" static
 local-zone: "coronaviruscloud.com" static
 local-zone: "coronavirus.cloudsite.builders" static
 local-zone: "coronavirusclt.com" static
@@ -25350,6 +25352,8 @@ local-zone: "covid19business.net" static
 local-zone: "covid19businessnews.com" static
 local-zone: "covid19businessplan.com" static
 local-zone: "covid19businessplans.com" static
+local-zone: "covid19businessprogram.com" static
+local-zone: "covid19businessprogram.fhmg.com" static
 local-zone: "covid-19businessrecovery.com" static
 local-zone: "covid19-businessrefocus.com" static
 local-zone: "covid-19-businessreliefassistance.claims" static
@@ -25800,6 +25804,7 @@ local-zone: "covid19checknow.com" static
 local-zone: "covid19check.online" static
 local-zone: "covid-19check.ru" static
 local-zone: "covid19checks.com" static
+local-zone: "covid19checkup.ca" static
 local-zone: "covid-19checkup.com" static
 local-zone: "covid19-checkup.com" static
 local-zone: "covid19checkup.com" static
@@ -26135,6 +26140,7 @@ local-zone: "covid19clothing.com" static
 local-zone: "covid19clothing.co.uk" static
 local-zone: "covid19clothmask.com" static
 local-zone: "covid19clothmask.net" static
+local-zone: "covid-19clothmasks.com" static
 local-zone: "covid19.cloud507.com" static
 local-zone: "covid19.cloudbeds-dev.com" static
 local-zone: "covid19.cloudbhutan.com" static
@@ -52244,6 +52250,7 @@ local-zone: "malawicoronavirus.com" static
 local-zone: "malawicovid19.com" static
 local-zone: "malaysiacoronavirus.com" static
 local-zone: "malaysiacovid-19.com" static
+local-zone: "malaysiacovid19.com" static
 local-zone: "malaysianpandemic.com" static
 local-zone: "malibucoronadelivery.com" static
 local-zone: "malibucoronahelp.com" static
@@ -54818,6 +54825,7 @@ local-zone: "onecovid.com" static
 local-zone: "oneforfreevscorona.com" static
 local-zone: "onefqjh8aqc28t9nf.covid-19tv.gov.au" static
 local-zone: "onepandemiccookbook.com" static
+local-zone: "oneprovider-covid19.datahub.egi.eu" static
 local-zone: "onestepcovid19test.com" static
 local-zone: "onestepcovid19tests.com" static
 local-zone: "onestopcorona.com" static
@@ -59284,6 +59292,7 @@ local-zone: "sing-against-corona.com" static
 local-zone: "singagainstcorona.com" static
 local-zone: "singaporecovid-19.com" static
 local-zone: "singaporecovid19.com" static
+local-zone: "singaporecovid19.onephoria.com" static
 local-zone: "singleinthetimeofcorona.com" static
 local-zone: "singlesincorona.com" static
 local-zone: "singleviewofthecoronaviruspandemic.com" static
@@ -65284,6 +65293,7 @@ local-zone: "www.coronaviruscleaningnyc.com" static
 local-zone: "www.coronaviruscleaningservice.org" static
 local-zone: "www.coronavirus-clothing.com" static
 local-zone: "www.coronavirusclothing.net" static
+local-zone: "www.coronavirusclothmasks.com" static
 local-zone: "www.coronavirus-coaching.com" static
 local-zone: "www.coronaviruscognitiveaid.com" static
 local-zone: "wwwcoronavirus.com" static
@@ -65862,6 +65872,8 @@ local-zone: "www.covid19claims.ie" static
 local-zone: "www.covid19.clc.my.id" static
 local-zone: "www.covid19clinic.com" static
 local-zone: "www.covid19clothing.co.uk" static
+local-zone: "www.covid-19clothmasks.com" static
+local-zone: "www.covid19clothmasks.com" static
 local-zone: "www.covid19cme.com" static
 local-zone: "www.covid19cmrcet.ml" static
 local-zone: "www.covid-19.coach" static
@@ -66023,6 +66035,7 @@ local-zone: "www.covid-19.gob.com" static
 local-zone: "www.covid19.gob.sv" static
 local-zone: "www.covid19go.de" static
 local-zone: "www.covid19.go.id" static
+local-zone: "www.covid19.goodnews247.gr" static
 local-zone: "www.covid-19.google" static
 local-zone: "www.covid19.gov.au" static
 local-zone: "www.covid19governmentclaimsgroup.com" static
