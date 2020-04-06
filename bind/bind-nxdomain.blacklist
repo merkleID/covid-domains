@@ -500,6 +500,8 @@ dns-zone-blacklist. IN NS localhost.
 *.247coronaviruschat.com CNAME .
 247covid.com CNAME .
 *.247covid.com CNAME .
+24coronavirus.ru CNAME .
+*.24coronavirus.ru CNAME .
 24forcovid.com CNAME .
 *.24forcovid.com CNAME .
 24x7coronavirus.com CNAME .
@@ -47866,6 +47868,8 @@ covid19.31337.it CNAME .
 *.covid19.31337.it CNAME .
 covid19-360.com CNAME .
 *.covid19-360.com CNAME .
+covid19360.net CNAME .
+*.covid19360.net CNAME .
 covid193.com CNAME .
 *.covid193.com CNAME .
 covid-19.3cx.co CNAME .
@@ -48440,6 +48444,8 @@ covid19alive.com CNAME .
 *.covid19alive.com CNAME .
 covid19.alkauthar.org CNAME .
 *.covid19.alkauthar.org CNAME .
+covid19.alkifah.com.sa CNAME .
+*.covid19.alkifah.com.sa CNAME .
 covid19allclear.com CNAME .
 *.covid19allclear.com CNAME .
 covid19all.com CNAME .
@@ -48558,6 +48564,8 @@ covid19analytics.io CNAME .
 *.covid19analytics.io CNAME .
 covid19analytics.net CNAME .
 *.covid19analytics.net CNAME .
+covid19analytics.org CNAME .
+*.covid19analytics.org CNAME .
 covid19.analytixa.com CNAME .
 *.covid19.analytixa.com CNAME .
 covid19analyzer.com CNAME .
@@ -51460,6 +51468,8 @@ covid19.cethrofurniture.lk CNAME .
 *.covid19.cethrofurniture.lk CNAME .
 covid19.ceylondiary.com CNAME .
 *.covid19.ceylondiary.com CNAME .
+covid19cgapp.numerium.net CNAME .
+*.covid19cgapp.numerium.net CNAME .
 covid19chaina.com CNAME .
 *.covid19chaina.com CNAME .
 covid-19chain.com CNAME .
@@ -67564,6 +67574,8 @@ covid19-risk.com CNAME .
 *.covid19-risk.com CNAME .
 covid19risk.com CNAME .
 *.covid19risk.com CNAME .
+covid19risk.eastus.cloudapp.azure.com CNAME .
+*.covid19risk.eastus.cloudapp.azure.com CNAME .
 covid19risk.info CNAME .
 *.covid19risk.info CNAME .
 covid-19.riskline.com CNAME .
@@ -71006,6 +71018,8 @@ covid19teens.com CNAME .
 *.covid19teens.com CNAME .
 covid19teesforacause.com CNAME .
 *.covid19teesforacause.com CNAME .
+covid19teeshirt.com CNAME .
+*.covid19teeshirt.com CNAME .
 covid19teeshirts.com CNAME .
 *.covid19teeshirts.com CNAME .
 covid19tees.net CNAME .
@@ -91160,6 +91174,8 @@ doncoronavirus.com CNAME .
 *.doncoronavirus.com CNAME .
 don-coronavirus.org CNAME .
 *.don-coronavirus.org CNAME .
+doncoronavirus.org CNAME .
+*.doncoronavirus.org CNAME .
 don-covid-19.com CNAME .
 *.don-covid-19.com CNAME .
 don-covid19.com CNAME .
@@ -117380,6 +117396,8 @@ sarsvscorona.com CNAME .
 *.sarsvscorona.com CNAME .
 sasacovid19.com CNAME .
 *.sasacovid19.com CNAME .
+satgascovid19.ansortegalkab.or.id CNAME .
+*.satgascovid19.ansortegalkab.or.id CNAME .
 satgascovid19tarowang.balang.org CNAME .
 *.satgascovid19tarowang.balang.org CNAME .
 satonaikaclinic.coronavirus-clinic.com CNAME .
@@ -130358,6 +130376,8 @@ www.canada-alert-covid19.com CNAME .
 *.www.canada-alert-covid19.com CNAME .
 www.canada-covid19.info CNAME .
 *.www.canada-covid19.info CNAME .
+www.cancelcoronavirus.com CNAME .
+*.www.cancelcoronavirus.com CNAME .
 www.canyxcovid19.org CNAME .
 *.www.canyxcovid19.org CNAME .
 www.cardsfightingcoronavirus.com CNAME .
@@ -134894,6 +134914,8 @@ xn--coronazhler-r8a.com CNAME .
 *.xn--coronazhler-r8a.com CNAME .
 xn--covid19deelmoon-9m30aa1rzs169mysbw24ewyx663hfa.com CNAME .
 *.xn--covid19deelmoon-9m30aa1rzs169mysbw24ewyx663hfa.com CNAME .
+xn--covid19espaa-khb.com CNAME .
+*.xn--covid19espaa-khb.com CNAME .
 xn--covid19-gncelsalgnvakalar-nwc35l.com CNAME .
 *.xn--covid19-gncelsalgnvakalar-nwc35l.com CNAME .
 xn--covid19-mdicament-jtb.com CNAME .
