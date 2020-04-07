@@ -1741,6 +1741,7 @@ local-zone: "artistsagainstcovid19.com" static
 local-zone: "artofcovid19.com" static
 local-zone: "artpandemic.com" static
 local-zone: "arubacovid19.com" static
+local-zone: "arubacovid-19.org" static
 local-zone: "arubacovid19.org" static
 local-zone: "arwuhan.club" static
 local-zone: "asacovid-19.com" static
@@ -1816,6 +1817,7 @@ local-zone: "astalavistacorona.com" static
 local-zone: "asthma-and-corona.com" static
 local-zone: "asucovid19test.com" static
 local-zone: "atcoronavirus.com" static
+local-zone: "atelcovid19tedbirleri.com" static
 local-zone: "atemschutzmaske-corona.com" static
 local-zone: "atemschutzmasken-corona.com" static
 local-zone: "atemschutzmasken-gegen-corona.com" static
@@ -25333,6 +25335,7 @@ local-zone: "covid19bundle.com" static
 local-zone: "covid19.bungokab.go.id" static
 local-zone: "covid19bunker.com" static
 local-zone: "covid19.buolkab.online" static
+local-zone: "covid19.buost.asia" static
 local-zone: "covid19bureau.com" static
 local-zone: "covid19burkina.org" static
 local-zone: "covid19burma.org" static
@@ -27849,6 +27852,7 @@ local-zone: "covid19.env-sv.com" static
 local-zone: "covid19eo.arnes.si" static
 local-zone: "covid19eos.com" static
 local-zone: "covid19.epaperfree.com" static
+local-zone: "covid19.ephi.gov.et" static
 local-zone: "covid19epic.com" static
 local-zone: "covid-19epicenter.com" static
 local-zone: "covid19epicenter.com" static
@@ -29177,6 +29181,7 @@ local-zone: "covid19helpline.intelimina.com" static
 local-zone: "covid19helplinemiami.com" static
 local-zone: "covid19helpline.qa.sadhan.co.in" static
 local-zone: "covid19helpline.sadhan.co.in" static
+local-zone: "covid-19helpline.site" static
 local-zone: "covid19-helpme.com" static
 local-zone: "covid19helpme.com" static
 local-zone: "covid19.help-medservice.ru" static
@@ -37363,6 +37368,7 @@ local-zone: "covid19.webista.net" static
 local-zone: "covid19weblive.com" static
 local-zone: "covid19web.net" static
 local-zone: "covid19.web-owl.co.il" static
+local-zone: "covid-19.webpigment.com" static
 local-zone: "covid-19.web-room.com.ua" static
 local-zone: "covid19webscreen.com" static
 local-zone: "covid19websitealert.com" static
@@ -45326,6 +45332,7 @@ local-zone: "depistage-corona.com" static
 local-zone: "depistage-coronavirus.com" static
 local-zone: "depistage-covid19.com" static
 local-zone: "depistagecovid19.com" static
+local-zone: "deplacement-covid-19.fedaya.net" static
 local-zone: "deplacement-covid19.fr" static
 local-zone: "depositorytrustcoronavirus.biz" static
 local-zone: "depositorytrustcoronavirus.com" static
@@ -45459,6 +45466,7 @@ local-zone: "dev.coronavirussupport.ca" static
 local-zone: "dev.covid19.adn.be" static
 local-zone: "dev.covid19app.org" static
 local-zone: "dev.covid19.back.docapost-agility.fr" static
+local-zone: "dev.covid19.carenusa.com" static
 local-zone: "dev.covid19cdn.jp" static
 local-zone: "dev.covid19.commercesignals.com" static
 local-zone: "dev-covid19directory.cuit.columbia.edu" static
@@ -50674,6 +50682,7 @@ local-zone: "invinciblecovid19.com" static
 local-zone: "invisibleenemycovid19.com" static
 local-zone: "iodanticovid19.ru" static
 local-zone: "io-duels.covid-19.stage.wikium.tech" static
+local-zone: "ios.covid19.gov.la" static
 local-zone: "iowacorona.com" static
 local-zone: "iowacoronavirus.com" static
 local-zone: "iowacovid19.com" static
@@ -50689,6 +50698,7 @@ local-zone: "ipandcovid-19.com" static
 local-zone: "ipccovid.com" static
 local-zone: "ipcr-covid19.ucm.es" static
 local-zone: "ipfs-gateway-wss.alpha-01.bootstrap.stopcoronavirus.tech" static
+local-zone: "ipfs-public.stopcoronavirus.tech" static
 local-zone: "ipfs.stopcoronavirus.tech" static
 local-zone: "ipfs-wss.stopcoronavirus.tech" static
 local-zone: "ipsostrackingcoronavirus.com" static
@@ -52141,6 +52151,7 @@ local-zone: "livingwithwuhan.com" static
 local-zone: "livoniacovid19.com" static
 local-zone: "livrocoronavirus.com" static
 local-zone: "livzon-covid19test.com" static
+local-zone: "lk.covid19resourcefinder.com" static
 local-zone: "llandeilocovid19.com" static
 local-zone: "llanrhaedrcoronasupport.com" static
 local-zone: "llanrhystudcovidaid.com" static
