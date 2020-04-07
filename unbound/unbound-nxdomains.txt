@@ -13335,6 +13335,7 @@ local-zone: "coronavirus1.coronavirus1.es" static
 local-zone: "coronavirus1.es" static
 local-zone: "coronavirus1.gq" static
 local-zone: "coronavirus1hrwarmcure.com" static
+local-zone: "coronavirus-1.janicerraga.repl.run" static
 local-zone: "coronavirus1.online" static
 local-zone: "coronavirus.1p21.io" static
 local-zone: "coronavirus1poimt3acres.com" static
@@ -29644,6 +29645,7 @@ local-zone: "covid19-i-have-it.com" static
 local-zone: "covid19.ihopu.org" static
 local-zone: "covid19.iiasa.ac.at" static
 local-zone: "covid19.ikbamansas.or.id" static
+local-zone: "covid19ilaaj.com" static
 local-zone: "covid19ilaclama.com" static
 local-zone: "covid-19.ilarahealth.com" static
 local-zone: "covid-19il.com" static
@@ -30344,6 +30346,7 @@ local-zone: "covid19kenya.ml" static
 local-zone: "covid19kerala.com" static
 local-zone: "covid19.kerala.gov.in" static
 local-zone: "covid19kerala.info" static
+local-zone: "covid19.kerincikab.go.id" static
 local-zone: "covid19kerobokan.com" static
 local-zone: "covid-19.keruji.com" static
 local-zone: "covid19.ketapangkab.go.id" static
@@ -30443,6 +30446,7 @@ local-zone: "covid19-koronawirus.pl" static
 local-zone: "covid19.kotabogor.go.id" static
 local-zone: "covid19.kotamobagukota.go.id" static
 local-zone: "covid19kota.undanganku.id" static
+local-zone: "covid-19.kowanio.xyz" static
 local-zone: "covid19.kowismu.or.id" static
 local-zone: "covid19.kozow.com" static
 local-zone: "covid19kratom.com" static
@@ -30467,6 +30471,7 @@ local-zone: "covid19.ks.ua" static
 local-zone: "covid-19.kucza.xyz" static
 local-zone: "covid19.kurganobl.ru" static
 local-zone: "covid19kw.com" static
+local-zone: "covid19kw.xyz" static
 local-zone: "covid19ky.com" static
 local-zone: "covid19.kzn.ru" static
 local-zone: "covid19labcheck.com" static
@@ -31156,6 +31161,7 @@ local-zone: "covid19-map.cdcmoh.gov.kh" static
 local-zone: "covid19map.club" static
 local-zone: "covid19map.com.au" static
 local-zone: "covid19map.co.nz" static
+local-zone: "covid19map.cyon.site" static
 local-zone: "covid19mapdash.com" static
 local-zone: "covid19map-dev.health.wolterskluwer.io" static
 local-zone: "covid19map.dukeunc.com" static
@@ -35300,6 +35306,7 @@ local-zone: "covid19strategy.com" static
 local-zone: "covid19-strategy.smartskill.it" static
 local-zone: "covid19straya.com" static
 local-zone: "covid19streaming.com" static
+local-zone: "covid19stream.net" static
 local-zone: "covid19stress.com" static
 local-zone: "covid19stressreduction.com" static
 local-zone: "covid19stressrelief.com" static
@@ -36385,6 +36392,7 @@ local-zone: "covid19tour.com" static
 local-zone: "covid19.tourism.gov.mv" static
 local-zone: "covid19.tourneyboss.app" static
 local-zone: "covid-19.tourrer.com" static
+local-zone: "covid19toutcomprendre.com" static
 local-zone: "covid-19.town" static
 local-zone: "covid19.town" static
 local-zone: "covid19town.com" static
@@ -45850,6 +45858,7 @@ local-zone: "dominatecovid.com" static
 local-zone: "dominicancoronavirus.com" static
 local-zone: "donaciocoronavirus.vallhebron.com" static
 local-zone: "donacionescoronavirus.es" static
+local-zone: "donacionescovid19.com" static
 local-zone: "donacorona.com" static
 local-zone: "donacoronavirus.com" static
 local-zone: "donacovid19.com" static
@@ -57395,6 +57404,7 @@ local-zone: "pma.covid19-worldwide.com" static
 local-zone: "pmcoronavirus.com" static
 local-zone: "pncovid.com" static
 local-zone: "pngcovid-19.live" static
+local-zone: "pobedigocovid19.mk" static
 local-zone: "poccoronavirustest.com" static
 local-zone: "pocketsketchingcorona.com" static
 local-zone: "pocketsketchingcoronavirus.com" static
@@ -68085,6 +68095,21 @@ local-zone: "youraccountisfarfromcovid-19payment013.net" static
 local-zone: "youraccountisfarfromcovid-19payment015.net" static
 local-zone: "youraccountisfarfromcovid-19payment016.net" static
 local-zone: "youraccountisfarfromcovid-19payment018.net" static
+local-zone: "youraccountisfarfromcovid-19payment021.net" static
+local-zone: "youraccountisfarfromcovid-19payment022.net" static
+local-zone: "youraccountisfarfromcovid-19payment024.net" static
+local-zone: "youraccountisfarfromcovid-19payment025.net" static
+local-zone: "youraccountisfarfromcovid-19payment027.net" static
+local-zone: "youraccountisfarfromcovid-19payment028.net" static
+local-zone: "youraccountisfarfromcovid-19payment029.net" static
+local-zone: "youraccountisfarfromcovid-19payment030.net" static
+local-zone: "youraccountisfarfromcovid-19payment032.net" static
+local-zone: "youraccountisfarfromcovid-19payment034.net" static
+local-zone: "youraccountisfarfromcovid-19payment035.net" static
+local-zone: "youraccountisfarfromcovid-19payment036.net" static
+local-zone: "youraccountisfarfromcovid-19payment037.net" static
+local-zone: "youraccountisfarfromcovid-19payment038.net" static
+local-zone: "youraccountisfarfromcovid-19payment039.net" static
 local-zone: "youranticoronamask.com" static
 local-zone: "youraustralicovid19.com" static
 local-zone: "yourcoronacentral.com" static
