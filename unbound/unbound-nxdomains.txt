@@ -1619,6 +1619,7 @@ local-zone: "app.coronavirusinfo.cl" static
 local-zone: "app.coronavirusuy.com" static
 local-zone: "app.coronavirus-world.info" static
 local-zone: "appcovid19.altervista.org" static
+local-zone: "app.covid19.ambientetransparente.com.br" static
 local-zone: "appcovid-19.com" static
 local-zone: "appcovid19.com" static
 local-zone: "appcovid19.eu" static
@@ -19485,6 +19486,7 @@ local-zone: "coronavirus.netbasequid.com" static
 local-zone: "coronavirus.net.co" static
 local-zone: "coronavirusnetflix.com" static
 local-zone: "coronavirusnetherlands.com" static
+local-zone: "coronavirusnet.it" static
 local-zone: "coronavirus-net.online" static
 local-zone: "coronavirus.net.pl" static
 local-zone: "coronavirus.net.ru" static
@@ -24939,6 +24941,7 @@ local-zone: "covid19bank.com" static
 local-zone: "covid19banking.com" static
 local-zone: "covid19bankingsupport.com" static
 local-zone: "covid19bankloan.com" static
+local-zone: "covid19.bankofthesierra.com" static
 local-zone: "covid19bankruptcies.com" static
 local-zone: "covid19bankrupt.com" static
 local-zone: "covid19bankruptcyattorneys.com" static
@@ -29291,6 +29294,7 @@ local-zone: "covid19-history.com" static
 local-zone: "covid19.hitalos.com" static
 local-zone: "covid19.hitsk.com" static
 local-zone: "covid19hits.video" static
+local-zone: "covid19.hkdrustvo.hr" static
 local-zone: "covid19hkfund.org" static
 local-zone: "covid19.hmacademy.com" static
 local-zone: "covid19hmm.es" static
@@ -67319,6 +67323,7 @@ local-zone: "www.ihdcovid19.com" static
 local-zone: "www.indiacoronavirus.in" static
 local-zone: "www.india-covid19.in" static
 local-zone: "www.indiafightscovid19.org" static
+local-zone: "www.info4corona-virus.com" static
 local-zone: "www.infocovid19ec.kradac.com" static
 local-zone: "www.infocovid-19.info" static
 local-zone: "www.infocovid19.kotamagetan.com" static
@@ -67684,6 +67689,7 @@ local-zone: "www.stopcoronavirus.com.ua" static
 local-zone: "www.stopcoronaviruscovid19.org" static
 local-zone: "www.stopcoronavirus.cz" static
 local-zone: "www.stopcoronavirus.de" static
+local-zone: "www.stopcoronavirus.fi" static
 local-zone: "www.stopcoronavirushop.com" static
 local-zone: "www.stopcorona-virus.it" static
 local-zone: "www.stopcoronavirus.nl" static
@@ -68060,6 +68066,9 @@ local-zone: "youmeandcovid.com" static
 local-zone: "youngcoronavirus.com" static
 local-zone: "youngcovid19.com" static
 local-zone: "youraccountisfarfromcovid-19.net" static
+local-zone: "youraccountisfarfromcovid-19payment001.net" static
+local-zone: "youraccountisfarfromcovid-19payment002.net" static
+local-zone: "youraccountisfarfromcovid-19payment004.net" static
 local-zone: "youranticoronamask.com" static
 local-zone: "youraustralicovid19.com" static
 local-zone: "yourcoronacentral.com" static
