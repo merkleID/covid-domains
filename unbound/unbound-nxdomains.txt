@@ -30211,6 +30211,7 @@ local-zone: "covid19.kaissa.nl" static
 local-zone: "covid19.kaltimprov.go.id" static
 local-zone: "covid19.kampoengngawi.com" static
 local-zone: "covid19kams.org.au" static
+local-zone: "covid19-kanagawa.govtech-express.com" static
 local-zone: "covid19-kanagawa.herokuapp.com" static
 local-zone: "covid19.kannadatechvillage.com" static
 local-zone: "covid-19kansas.com" static
@@ -32245,6 +32246,7 @@ local-zone: "covid-19-ohio.tech.thewrightchoice.com" static
 local-zone: "covid19-ohs.co.za" static
 local-zone: "covid-19oil.com" static
 local-zone: "covid19.oji.monster" static
+local-zone: "covid-19.okbec.ca" static
 local-zone: "covid19ok.com" static
 local-zone: "covid-19.oktafiandosilapradhana.xyz" static
 local-zone: "covid19.olakino.com.br" static
@@ -65755,10 +65757,12 @@ local-zone: "www.coronaviruslink.net" static
 local-zone: "www.coronaviruslitigators.com" static
 local-zone: "www.corona-virus-live.com" static
 local-zone: "www.coronaviruslivedailyupdates.com" static
+local-zone: "www.coronaviruslive.es" static
 local-zone: "www.coronaviruslive.ml" static
 local-zone: "www.coronavirusliveupdates.org" static
 local-zone: "www.coronaviruslk.tk" static
 local-zone: "www.coronaviruslocation.org" static
+local-zone: "www.coronavirus-locator.ru" static
 local-zone: "www.coronavirus.lu" static
 local-zone: "www.coronavirus.maison" static
 local-zone: "www.coronavirusmakers-raspeig.es" static
