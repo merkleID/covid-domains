@@ -22725,6 +22725,7 @@ local-zone: "coronavirusupdateinfo.com" static
 local-zone: "coronavirusupdateinfo.net" static
 local-zone: "coronavirus-update.life" static
 local-zone: "coronavirusupdate.life" static
+local-zone: "coronavirusupdate.link" static
 local-zone: "corona-virus-update.live" static
 local-zone: "coronavirusupdatemap.com" static
 local-zone: "corona-virus-update.net" static
@@ -31957,6 +31958,7 @@ local-zone: "covid19newsdaily.com" static
 local-zone: "covid19newsday.com" static
 local-zone: "covid-19-news.de" static
 local-zone: "covid19news.de" static
+local-zone: "covid19news.ebizmediapro.com" static
 local-zone: "covid19.newsfarma.pt" static
 local-zone: "covid-19newsfeed.com" static
 local-zone: "covid19newsfeed.com" static
@@ -54086,6 +54088,7 @@ local-zone: "ncov-2019.cn" static
 local-zone: "ncov2019.eu" static
 local-zone: "ncov-2019.fr" static
 local-zone: "ncov2019.in" static
+local-zone: "ncov2019.life" static
 local-zone: "ncov2019.pressq.net" static
 local-zone: "ncov-2019.wangbaiyuan.cn" static
 local-zone: "ncov-coronavirus.com" static
