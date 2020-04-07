@@ -36,46 +36,4 @@ luca AT merkle DOT id
 
 
 Crontab updates every 30 mins.
-
-Now protecting your browsin experience from 67921 domains
-Now protecting your browsin experience from 67931 domains
-Now protecting your browsin experience from 67939 domains
-Now protecting your browsin experience from 67948 domains
-Now protecting your browsin experience from 67958 domains
-Now protecting your browsin experience from 67966 domains
-Now protecting your browsin experience from 67976 domains
-Now protecting your browsin experience from 67993 domains
-Now protecting your browsin experience from 68005 domains
-Now protecting your browsin experience from 68016 domains
-Now protecting your browsin experience from 68025 domains
-Now protecting your browsin experience from 68044 domains
-Now protecting your browsin experience from 68055 domains
-Now protecting your browsin experience from 68064 domains
-Now protecting your browsin experience from 68068 domains
-Now protecting your browsin experience from 68077 domains
-Now protecting your browsin experience from 68090 domains
-Now protecting your browsin experience from 68100 domains
-Now protecting your browsin experience from 68103 domains
-Now protecting your browsin experience from 68109 domains
-Now protecting your browsin experience from 68117 domains
-Now protecting your browsin experience from 68120 domains
-Now protecting your browsin experience from 68124 domains
-Now protecting your browsin experience from 68128 domains
-Now protecting your browsin experience from 68136 domains
-Now protecting your browsin experience from 68144 domains
-Now protecting your browsin experience from 68152 domains
-Now protecting your browsin experience from 68158 domains
-Now protecting your browsin experience from 68169 domains
-Now protecting your browsin experience from 68179 domains
-Now protecting your browsin experience from 68189 domains
-Now protecting your browsin experience from 68202 domains
-Now protecting your browsin experience from 68212 domains
-Now protecting your browsin experience from 68229 domains
-Now protecting your browsin experience from 68240 domains
-Now protecting your browsin experience from 68244 domains
-Now protecting your browsin experience from 68255 domains
-Now protecting your browsin experience from 68264 domains
-Now protecting your browsin experience from 68280 domains
-Now protecting your browsin experience from 68305 domains
-Now protecting your browsin experience from 68323 domains
-Now protecting your browsin experience from 68338 domains
+Current number of listed domains: 68338
