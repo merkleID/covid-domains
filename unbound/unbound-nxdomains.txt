@@ -2656,6 +2656,7 @@ local-zone: "blueboxcoronasupport.com" static
 local-zone: "bnb32.covid19.eas.cornell.edu" static
 local-zone: "bnbcorona.com" static
 local-zone: "bnbcoronavirusfree.com" static
+local-zone: "bnbcoronavirusfreeitaly.com" static
 local-zone: "bnr.covid19ro.info" static
 local-zone: "boasnoticiascovid19.com.br" static
 local-zone: "bo-covid19.eoviz.com" static
@@ -14855,6 +14856,7 @@ local-zone: "coronaviruscheatsheet.life" static
 local-zone: "coronaviruscheck.co" static
 local-zone: "corona-virus-check.com" static
 local-zone: "coronavirus-check.com" static
+local-zone: "coronaviruscheck.co.za" static
 local-zone: "coronaviruschecked.com" static
 local-zone: "coronavirus-checker.com" static
 local-zone: "coronaviruschecklist.net" static
@@ -22248,6 +22250,7 @@ local-zone: "coronavirustestlocation.com" static
 local-zone: "coronavirustestlocations.com" static
 local-zone: "coronavirustestlocator.com" static
 local-zone: "coronavirustestlosangeles.com" static
+local-zone: "coronavirustestmap.us" static
 local-zone: "coronavirustestme.com" static
 local-zone: "coronavirustestmekit.com" static
 local-zone: "coronavirustestmelbourne.com" static
@@ -24278,6 +24281,7 @@ local-zone: "covid19.airraro.com" static
 local-zone: "covid19-airtraffic.com" static
 local-zone: "covid19.airtransport.com.ng" static
 local-zone: "covid19aitech.com" static
+local-zone: "covid19ai.topdatascience.com" static
 local-zone: "covid19.aitrillion.com" static
 local-zone: "covid19.ajsinovacao.com.br" static
 local-zone: "covid19ak.com" static
@@ -29418,6 +29422,7 @@ local-zone: "covid19honduras.org" static
 local-zone: "covid19-honesty.com" static
 local-zone: "covid19honesty.com" static
 local-zone: "covid19.honeybeehub.io" static
+local-zone: "covid19.honeycombfinance.com" static
 local-zone: "covid19-hope.com" static
 local-zone: "covid19hope.com" static
 local-zone: "covid19-horizon.com" static
@@ -32469,6 +32474,7 @@ local-zone: "covid-19.org.zw" static
 local-zone: "covid19.or.id" static
 local-zone: "covid19.orientassociation.org" static
 local-zone: "covid19origin.com" static
+local-zone: "covid19.orlandfire.org" static
 local-zone: "covid-19orlando.com" static
 local-zone: "covid19orlando.com" static
 local-zone: "covid19orno.com" static
@@ -35957,6 +35963,7 @@ local-zone: "covid-19testingmachine.com" static
 local-zone: "covid19testingmachine.com" static
 local-zone: "covid-19testingmachines.com" static
 local-zone: "covid19testingmachines.com" static
+local-zone: "covid19testingmap.us" static
 local-zone: "covid19testingmiami.com" static
 local-zone: "covid19testingnearme.net" static
 local-zone: "covid-19testing.net" static
@@ -44606,6 +44613,7 @@ local-zone: "cpacovid19.org" static
 local-zone: "cpanel.allaboutcovid-19.com" static
 local-zone: "cpanel.bdcovid-19.com" static
 local-zone: "cpanel.coronavirusparent.com" static
+local-zone: "cpanel.covid19adamawa.ng" static
 local-zone: "cpanel.covid19affectedfinder.com" static
 local-zone: "cpanel.covid19app.in" static
 local-zone: "cpanel.covid19.egovindia.in" static
@@ -66115,9 +66123,11 @@ local-zone: "www.coronavirus.tennis" static
 local-zone: "www.coronavirustestandscreening.com" static
 local-zone: "www.coronavirustest.clinic" static
 local-zone: "www.coronavirustestingkit.uk" static
+local-zone: "www.coronavirustestingmap.us" static
 local-zone: "www.coronavirustest.io" static
 local-zone: "www.coronavirustestkit.com" static
 local-zone: "www.coronavirustestkit.info" static
+local-zone: "www.coronavirustestmap.us" static
 local-zone: "www.coronavirustest.pw" static
 local-zone: "www.corona-virus-tests.be" static
 local-zone: "www.corona-virus-tests.com" static
@@ -66977,6 +66987,7 @@ local-zone: "www.covid19test.ie" static
 local-zone: "www.covid19testingathome.com" static
 local-zone: "www.covid19-testing.churchofthehighlands.com" static
 local-zone: "www.covid19testingkits.org" static
+local-zone: "www.covid19testingmap.us" static
 local-zone: "www.covid19testing.network" static
 local-zone: "www.covid19-testing.org" static
 local-zone: "www.covid19testing.today" static
