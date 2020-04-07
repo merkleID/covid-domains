@@ -1551,6 +1551,7 @@ local-zone: "api.eb9c602b.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "api.ec9abe38.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "api.f6bfd464.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "api.fd7c3924.test.covid-19.forms.digital.nhs.uk" static
+local-zone: "api.fightcovid19.ai" static
 local-zone: "api.fightcovid19.id" static
 local-zone: "api.gocovid19.in" static
 local-zone: "api.int.dev.covid-19.forms.digital.nhs.uk" static
@@ -20222,6 +20223,7 @@ local-zone: "coronavirusplumber.com" static
 local-zone: "coronavirusplus.com" static
 local-zone: "coronavirusplush.com" static
 local-zone: "coronavirus.pn0d.xyz" static
+local-zone: "coronavirus.poa.sp.gov.br" static
 local-zone: "coronavirus-pobedim.ru" static
 local-zone: "coronavirus-podcast.com" static
 local-zone: "coronaviruspodcasts.com" static
@@ -26702,6 +26704,7 @@ local-zone: "covid19cp.com" static
 local-zone: "covid19cpd.com" static
 local-zone: "covid19.cpd-mali.com" static
 local-zone: "covid19.cpdnakes.org" static
+local-zone: "covid-19.cpo.it" static
 local-zone: "covid19cpr.com" static
 local-zone: "covid-19.cpyp-cdmx.com" static
 local-zone: "covid19.cqt.ca" static
@@ -44577,6 +44580,7 @@ local-zone: "cpanel.mascarillacovid19.cl" static
 local-zone: "cpanel.novelcoronavirus.de" static
 local-zone: "cpanel.testcovid19ec.com" static
 local-zone: "cpapforcovid.com" static
+local-zone: "cpcalendars.coronavirus247news.org" static
 local-zone: "cpcalendars.coronavirusfree.site" static
 local-zone: "cpcalendars.coronavirusinfirmiere.com" static
 local-zone: "cpcalendars.coronaviruslatest.com" static
@@ -65654,6 +65658,7 @@ local-zone: "www.coronavirusclothing.net" static
 local-zone: "www.coronavirusclothmasks.com" static
 local-zone: "www.coronavirus-coaching.com" static
 local-zone: "www.coronaviruscognitiveaid.com" static
+local-zone: "wwwcoronaviruscolombia.com" static
 local-zone: "wwwcoronavirus.com" static
 local-zone: "www.coronaviruscommunitycarepackages.com" static
 local-zone: "www.coronavirus.com.py" static
@@ -67053,6 +67058,7 @@ local-zone: "www.dental-coronavirus-protection.co.uk" static
 local-zone: "www.desechable.ayudacoronavirus.a2hosted.com" static
 local-zone: "www.designtocombatcovid19.com" static
 local-zone: "www.dfccoronavirusupdate.com" static
+local-zone: "www.diariocovid19.com" static
 local-zone: "www.dichcovid19.com" static
 local-zone: "www.didtrumpcallcoronavirusahoax.com" static
 local-zone: "www.digitalconnectorcovid19.org" static
