@@ -371,6 +371,7 @@ local-zone: "5wipeoutcovid19.com" static
 local-zone: "6265bda5.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "650-covid-19.exactsciences.net" static
 local-zone: "650-covid-19-qa.exactsciences.net" static
+local-zone: "650-covid-19-test2.exactsciences.net" static
 local-zone: "650-covid-19-test.exactsciences.net" static
 local-zone: "69covid.com" static
 local-zone: "6securemobile-facebookcovid19petition.gq" static
@@ -19208,6 +19209,7 @@ local-zone: "coronavirus.luroi.com" static
 local-zone: "coronavirusluv.com" static
 local-zone: "coronavirus.luzia.chat" static
 local-zone: "coronaviruslv.com" static
+local-zone: "corona-virus-lviv.botplatform.xyz" static
 local-zone: "coronavirusly.com" static
 local-zone: "coronaviruslyft.com" static
 local-zone: "coronavirusmachete.com" static
@@ -29285,6 +29287,7 @@ local-zone: "covid19flight.com" static
 local-zone: "covid-19.flights" static
 local-zone: "covid19.flights" static
 local-zone: "covid19-flights.ericjiang.dev" static
+local-zone: "covid19-flights-visualization.airsense.live" static
 local-zone: "covid19flix.com" static
 local-zone: "covid-19fl.net" static
 local-zone: "covid19floordecals.com" static
@@ -30944,6 +30947,7 @@ local-zone: "covid-19-informe.life" static
 local-zone: "covid19inform.org" static
 local-zone: "covid19-infor.net" static
 local-zone: "covid-19-info.ru" static
+local-zone: "covid19.infosante.pm" static
 local-zone: "covid-19-infos.com" static
 local-zone: "covid19-infos.com" static
 local-zone: "covid19infos.com" static
@@ -32697,6 +32701,7 @@ local-zone: "covid19meditations.com" static
 local-zone: "covid19.meditel.com.co" static
 local-zone: "covid19medkits.com" static
 local-zone: "covid19medkits.s21-design.com" static
+local-zone: "covid-19-medlevensohn.com.br" static
 local-zone: "covid-19.medlon.nl" static
 local-zone: "covid19.med-lo.ru" static
 local-zone: "covid19medmarket.com" static
@@ -32798,6 +32803,7 @@ local-zone: "covid-19merch.com" static
 local-zone: "covid19-merch.com" static
 local-zone: "covid19merch.com" static
 local-zone: "covid-19-merch.nl" static
+local-zone: "covid19merch.store" static
 local-zone: "covid19-merck.com" static
 local-zone: "covid19merck.com" static
 local-zone: "covid19.mercubuana.ac.id" static
@@ -35762,6 +35768,7 @@ local-zone: "covid19-salvador.com" static
 local-zone: "covid19-samplify.seuit.astrazeneca.com" static
 local-zone: "covid19samsclub.com" static
 local-zone: "covid19sanantonio.com" static
+local-zone: "covid19.sanantonio.gov" static
 local-zone: "covid-19sanatizing.com" static
 local-zone: "covid19sanatizing.com" static
 local-zone: "covid19sancristobal.com" static
@@ -66580,6 +66587,7 @@ local-zone: "vietnamcovid19.info" static
 local-zone: "viewcorona.com" static
 local-zone: "viewcovid19.com" static
 local-zone: "vigilance-covid19.fr" static
+local-zone: "vigilant-covid19.aeler.com" static
 local-zone: "vih.covid-19.medicinadelbuenvivir.cl" static
 local-zone: "villagesafetycovid.com" static
 local-zone: "vincovid.com" static
@@ -69520,6 +69528,7 @@ local-zone: "www.covid19memorials.org" static
 local-zone: "www.covid19memorialwall.com" static
 local-zone: "www.covid19-merchandise.com" static
 local-zone: "www.covid19-merch.com" static
+local-zone: "www.covid19merch.store" static
 local-zone: "www.covid19messages.bigreddog.com.au" static
 local-zone: "www.covid19metadata.com" static
 local-zone: "www.covid19mexico.mx" static
