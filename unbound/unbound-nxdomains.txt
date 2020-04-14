@@ -1751,6 +1751,7 @@ local-zone: "app.fightcovid19.ai" static
 local-zone: "app.hsecovid19.com" static
 local-zone: "appie.com.smartid.checks.covid19.marocupdate.com" static
 local-zone: "applcovid19.com" static
+local-zone: "applecoronavirus.online" static
 local-zone: "applecovid1.com" static
 local-zone: "applecovid29.com" static
 local-zone: "appleid.apple.com.smartid.checks.covid19.vastugyaan.in" static
@@ -18106,6 +18107,7 @@ local-zone: "coronavirushoy.org" static
 local-zone: "coronavirus.hpd.com.br" static
 local-zone: "coronavirus.hpgroupe.ir" static
 local-zone: "coronavirus.hpo.ch" static
+local-zone: "coronavirus.hpu.sy" static
 local-zone: "corona-virus-hq.net" static
 local-zone: "coronavirushq.pro" static
 local-zone: "coronavirus.hr" static
@@ -25027,6 +25029,7 @@ local-zone: "covid19.amanahfoundation.org" static
 local-zone: "covid19.amazinglyworld.com" static
 local-zone: "covid19amazon.com" static
 local-zone: "covid19.ambientetransparente.com.br" static
+local-zone: "covid-19.ambon.go.id" static
 local-zone: "covid19.ambyars.com" static
 local-zone: "covid19americabankpayment.com" static
 local-zone: "covid-19america.com" static
@@ -26609,6 +26612,7 @@ local-zone: "covid19central.com" static
 local-zone: "covid19central.locktondunningbenefits.com" static
 local-zone: "covid19.centralprovincegovernor.org" static
 local-zone: "covid19centralscotland.com" static
+local-zone: "covid19.centralseattle.online" static
 local-zone: "covid19centraltexas.com" static
 local-zone: "covid19centralwales.com" static
 local-zone: "covid-19centre.com" static
@@ -27459,6 +27463,7 @@ local-zone: "covid19coronavirusdisease.com" static
 local-zone: "covid-19-coronavirus.es" static
 local-zone: "covid19.coronavirusinelpaso.com" static
 local-zone: "covid19coronaviruskits.com" static
+local-zone: "covid-19-coronavirus-lawsuits.nuruwitherspoon.com" static
 local-zone: "covid19coronaviruslivenews.com" static
 local-zone: "covid19-coronavirus-map.com" static
 local-zone: "covid19-coronavirusmitigation.com" static
@@ -35956,6 +35961,7 @@ local-zone: "covid-19-schnelltest.com" static
 local-zone: "covid-19schnelltest.com" static
 local-zone: "covid19-schnell-test.com" static
 local-zone: "covid19-schnelltest.net" static
+local-zone: "covid19.scholarshipowl.com" static
 local-zone: "covid19.school" static
 local-zone: "covid-19schoolclosings.com" static
 local-zone: "covid19schoolclosings.com" static
@@ -37129,6 +37135,7 @@ local-zone: "covid-19survey.org" static
 local-zone: "covid19-survey.org" static
 local-zone: "covid19survey.rsham.co.id" static
 local-zone: "covid19surveys.financialtipscorner.com" static
+local-zone: "covid19survey.spark451.com" static
 local-zone: "covid19survivalcalculator.com" static
 local-zone: "covid-19survival.club" static
 local-zone: "covid-19-survival.com" static
@@ -56547,6 +56554,7 @@ local-zone: "neverforgetcovid.com" static
 local-zone: "neverinfectedcovid19.com" static
 local-zone: "neverlovecovid19.com" static
 local-zone: "neversurrendercovid19.com" static
+local-zone: "newarkcovid19.com" static
 local-zone: "newbraunfelscovid-19survivalguide.com" static
 local-zone: "newcastlecovid19.com" static
 local-zone: "newcoronababy.com" static
@@ -67035,6 +67043,7 @@ local-zone: "webinar.coronavirus.fisc.ro" static
 local-zone: "webinarsalarizare-covid19.legislatiamuncii.ro" static
 local-zone: "webinarsefaccoronavirus.es" static
 local-zone: "webinarseries-covid19.novaon.vn" static
+local-zone: "webinars.howitreatcovid19.com" static
 local-zone: "webmail.blockchain4covid19.com" static
 local-zone: "webmail.capetowncovid19.co.za" static
 local-zone: "webmail.ccibusiness-covid19.fr" static
@@ -69995,6 +70004,7 @@ local-zone: "www.covid19ve.pionerastudios.com" static
 local-zone: "www.covid-19-vfp-apsi-wiki.ch" static
 local-zone: "www.covid19.viajes" static
 local-zone: "www.covid19.virtualcubetechnologies.com" static
+local-zone: "www.covid19viruscorona.com" static
 local-zone: "www.covid19virush.tk" static
 local-zone: "www.covid-19viruskiller.com" static
 local-zone: "www.covid19virusprotection.com" static
