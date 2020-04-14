@@ -3194,6 +3194,7 @@ local-zone: "cafe-corona.com" static
 local-zone: "cafe-corona.net" static
 local-zone: "cafecorona.world" static
 local-zone: "cagecovid.club" static
+local-zone: "cairn-covid19.dev.mediaworksweb.co.uk" static
 local-zone: "cairnscoronavirus.com" static
 local-zone: "calcorona.com" static
 local-zone: "calcoronalaw.com" static
@@ -4610,6 +4611,7 @@ local-zone: "coolcovidmask.com" static
 local-zone: "coolcovidmasks.com" static
 local-zone: "coolhardener-corona.com" static
 local-zone: "coolincorona.com" static
+local-zone: "cool.live-covid-19.org" static
 local-zone: "coomercialcleaningcovid19preventionservices.com" static
 local-zone: "coopcovid19.net" static
 local-zone: "cooperacovid19.org" static
@@ -26301,6 +26303,7 @@ local-zone: "covid-19.buzztema.com" static
 local-zone: "covid-19.bvrs.me" static
 local-zone: "covid19.bvsspa.es" static
 local-zone: "covid19bvsspa.info" static
+local-zone: "covid19.bwa.design" static
 local-zone: "covid19-bw.com" static
 local-zone: "covid19bycounty.com" static
 local-zone: "covid19byday.com" static
@@ -32168,6 +32171,7 @@ local-zone: "covid-19logo.com" static
 local-zone: "covid19logo.com" static
 local-zone: "covid-19logo.org" static
 local-zone: "covid19logo.org" static
+local-zone: "covid19.lokit.it" static
 local-zone: "covid-19.lol" static
 local-zone: "covid-19-lol.now.sh" static
 local-zone: "covid19london.com" static
@@ -32775,6 +32779,7 @@ local-zone: "covid19merck.com" static
 local-zone: "covid19.mercubuana.ac.id" static
 local-zone: "covid19meritbadge.com" static
 local-zone: "covid-19.merlin.com" static
+local-zone: "covid19.merlin.com" static
 local-zone: "covid-19mesa.com" static
 local-zone: "covid19mesa.com" static
 local-zone: "covid19.meshworld.dev" static
@@ -54184,6 +54189,7 @@ local-zone: "live.covid19disease.net" static
 local-zone: "livecovid19.live" static
 local-zone: "livecovid19map.com" static
 local-zone: "livecovid19.net" static
+local-zone: "live-covid-19.org" static
 local-zone: "livecovid19.org" static
 local-zone: "livecovid19.site" static
 local-zone: "live.covid-19statistics.com" static
