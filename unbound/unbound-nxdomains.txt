@@ -30006,6 +30006,7 @@ local-zone: "covid19hack.com" static
 local-zone: "covid19.hackerspace.pl" static
 local-zone: "covid19.hackerspace.sv" static
 local-zone: "covid19.hackhub.cn" static
+local-zone: "covid19.hack.org.mz" static
 local-zone: "covid19hackpack.com" static
 local-zone: "covid19.hackrussia.ru" static
 local-zone: "covid-19hacks.com" static
@@ -33686,6 +33687,7 @@ local-zone: "covid19offroad.net" static
 local-zone: "covid19offschoolideas.com" static
 local-zone: "covid19oficial.org" static
 local-zone: "covid19og.com" static
+local-zone: "covid19.oggranados.com" static
 local-zone: "covid19.ogn.app" static
 local-zone: "covid19.ogunhip.com" static
 local-zone: "covid19.ogunstate.gov.ng" static
@@ -46897,6 +46899,7 @@ local-zone: "dashboard.covid19.data.gouf.fr" static
 local-zone: "dashboard.covid19.data.gouv.fr" static
 local-zone: "dashboard.covid19.org.in" static
 local-zone: "dashboard.dddcovid19.in" static
+local-zone: "dashboard.ncov-19.net" static
 local-zone: "dashboard.opencovid19.fr" static
 local-zone: "dashboards-covid-19.bagapps.ch" static
 local-zone: "dashboard.vacovid19trends.com" static
@@ -49512,12 +49515,14 @@ local-zone: "findcoronatests.com" static
 local-zone: "findcoronatestsite.com" static
 local-zone: "findcoronatreatment.com" static
 local-zone: "findcoronaviruslawyer.com" static
+local-zone: "findcoronavirusshot.com" static
 local-zone: "findcoronavirussupplies.com" static
 local-zone: "find-coronavirus-support.service.gov.uk" static
 local-zone: "findcoronavirustest.com" static
 local-zone: "findcoronavirustesting.com" static
 local-zone: "findcoronavirustests.com" static
 local-zone: "findcoronavirustreatment.com" static
+local-zone: "findcoronavirusvaccine.com" static
 local-zone: "findcovid-19.com" static
 local-zone: "findcovid19.com" static
 local-zone: "findcovid19info.com" static
@@ -54167,6 +54172,7 @@ local-zone: "lightforcovid19.com" static
 local-zone: "lightintheageofcovid.com" static
 local-zone: "lightupcorona.com" static
 local-zone: "lightupcorona.net" static
+local-zone: "lilcovid19.com" static
 local-zone: "lillycovid18testing.com" static
 local-zone: "lillycovid19.com" static
 local-zone: "lillycovid19test.com" static
@@ -62640,6 +62646,7 @@ local-zone: "steuerberater-corona-virus.com" static
 local-zone: "steuerberatercoronavirus.com" static
 local-zone: "steuerberater-corona-virus.de" static
 local-zone: "stg.covid19grant.gopayapi.com" static
+local-zone: "stg.lillycovid19testing.com" static
 local-zone: "stg.ncis.covid19.nhsbsa.net" static
 local-zone: "stickitcorona.com" static
 local-zone: "stickitcovid.com" static
@@ -65507,6 +65514,7 @@ local-zone: "trackcoronavirus.live" static
 local-zone: "trackcoronavirus.online" static
 local-zone: "trackcoronavirus.ru" static
 local-zone: "trackcoronavirus.us" static
+local-zone: "trackcovid-19.app" static
 local-zone: "trackcovid19.app" static
 local-zone: "trackcovid-19app.com" static
 local-zone: "trackcovid19.ca" static
@@ -69112,6 +69120,7 @@ local-zone: "www.covid19coronavirusdata.com" static
 local-zone: "www.covid-19coronavirus.ru" static
 local-zone: "www.covid-19-coronavirus.site" static
 local-zone: "www.covid19-corona.work" static
+local-zone: "www.covid19.cosplayerblogs.com" static
 local-zone: "www.covid19counsel.com" static
 local-zone: "www.covid19counselingca.org" static
 local-zone: "www.covid19counseling.org" static
@@ -69866,6 +69875,7 @@ local-zone: "www.covid19test.ie" static
 local-zone: "www.covid19testingathome.com" static
 local-zone: "www.covid19-testing.churchofthehighlands.com" static
 local-zone: "www.covid-19testing.info" static
+local-zone: "www.covid-19testingkit.com" static
 local-zone: "www.covid19testingkits.org" static
 local-zone: "www.covid19testingmap.us" static
 local-zone: "www.covid19testing.network" static
@@ -70116,6 +70126,7 @@ local-zone: "www.fightcovid19.naijaupdates.com.ng" static
 local-zone: "www.fightcovid19.net" static
 local-zone: "www.fight-covid19virus.com" static
 local-zone: "www.fightcovid19with.northnfe.ac.th" static
+local-zone: "www.findcoronavirusshot.com" static
 local-zone: "www.findcovid19jobs.org" static
 local-zone: "www.findcovid19testing.org" static
 local-zone: "www.finishcovid19.com" static
