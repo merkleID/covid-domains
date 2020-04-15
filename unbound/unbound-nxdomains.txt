@@ -13589,6 +13589,7 @@ local-zone: "coronavirus19world.com" static
 local-zone: "coronavirus-1.com" static
 local-zone: "coronavirus1.coronavirus1.es" static
 local-zone: "coronavirus1.es" static
+local-zone: "coronavirus1.ga" static
 local-zone: "coronavirus1.gq" static
 local-zone: "coronavirus1hrwarmcure.com" static
 local-zone: "coronavirus-1.janicerraga.repl.run" static
@@ -25805,6 +25806,7 @@ local-zone: "covid-19benefits.com" static
 local-zone: "covid19-benefits.com" static
 local-zone: "covid19benefits.com" static
 local-zone: "covid19-benefits.dev.devsite.ca" static
+local-zone: "covid19benefitsnavigator.ca" static
 local-zone: "covid19-bengkaliskab.com" static
 local-zone: "covid-19.bengkaliskab.go.id" static
 local-zone: "covid19.bengkaliskab.go.id" static
@@ -27285,6 +27287,8 @@ local-zone: "covid-19.com.ng" static
 local-zone: "covid19companion.com" static
 local-zone: "covid19.company" static
 local-zone: "covid-19companyadministrationaustralia.com.au" static
+local-zone: "covid-19companyadministrationmelbourne.com.au" static
+local-zone: "covid-19companyadministrationperth.com.au" static
 local-zone: "covid19companycare.com" static
 local-zone: "covid19company.com" static
 local-zone: "covid19companyease.com" static
@@ -28184,6 +28188,7 @@ local-zone: "covid-19.dgtek.net" static
 local-zone: "covid-19dgx.com" static
 local-zone: "covid19dgx.com" static
 local-zone: "covid19.dhdev.org" static
+local-zone: "covid19.dhekawork.com" static
 local-zone: "covid19.dhis2nigeria.org.ng" static
 local-zone: "covid19.dhis.hisp.org" static
 local-zone: "covid19.dhis-minsante-cm.org" static
@@ -32506,6 +32511,7 @@ local-zone: "covid19maroc.neededtravel.com" static
 local-zone: "covid19maroc.org" static
 local-zone: "covid19.marrero.com.do" static
 local-zone: "covid-19marriagecounseling.com" static
+local-zone: "covid19marriagesupport.com" static
 local-zone: "covid19marsaskala.com" static
 local-zone: "covid19.mars-roofing.com" static
 local-zone: "covid19mart.com" static
@@ -55741,6 +55747,7 @@ local-zone: "movimentoscontracovid19.com" static
 local-zone: "movimientocoronavirus.es" static
 local-zone: "mozambiquecoronavirus.com" static
 local-zone: "mpi.ny-covid19-registry.org" static
+local-zone: "mqtt-covid19.vademecum.io" static
 local-zone: "mr-corona-smile.com" static
 local-zone: "mrcovid.com" static
 local-zone: "mrfinkscoronatasks.com" static
@@ -64568,6 +64575,7 @@ local-zone: "thecoronavirusmovie.com" static
 local-zone: "thecoronavirusmuseum.com" static
 local-zone: "thecoronavirusnaughtystep.com" static
 local-zone: "the-coronavirus.net" static
+local-zone: "thecoronavirus.net" static
 local-zone: "thecoronavirusnetwork.com" static
 local-zone: "thecoronavirusnew.info" static
 local-zone: "the-coronavirus-news.com" static
