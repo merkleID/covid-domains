@@ -1601,6 +1601,7 @@ local-zone: "api.covid19app.org" static
 local-zone: "api.covid19.arproject.web.id" static
 local-zone: "api.covid19.beecoop.co" static
 local-zone: "api-covid-19-br.filipemanuel.repl.run" static
+local-zone: "api.covid19-candle-hyogo.ml" static
 local-zone: "api.covid19.ck.ua" static
 local-zone: "api.covid-19.clicksandbox.com" static
 local-zone: "apicovid19.cochabamba.bo" static
@@ -25558,6 +25559,7 @@ local-zone: "covid-19.atoms4peas.middcreate.net" static
 local-zone: "covid19.atosourcing.com" static
 local-zone: "covid19atrisk.com" static
 local-zone: "covid19atrisk.net" static
+local-zone: "covid19.atscale.com" static
 local-zone: "covid-19-atsea.com" static
 local-zone: "covid-19atsea.com" static
 local-zone: "covid19atsea.com" static
@@ -50260,6 +50262,7 @@ local-zone: "freecovidupdates.com" static
 local-zone: "freecovidvaccine.com" static
 local-zone: "freecovidvaccines.com" static
 local-zone: "freecovidvaccineshot.com" static
+local-zone: "freeculturecrushcoronavirus.culturecrush.me" static
 local-zone: "freedcovid19.org" static
 local-zone: "freedomcovid19.com" static
 local-zone: "freedomfromcovid19.com" static
@@ -57995,6 +57998,7 @@ local-zone: "orangecountycovid19.com" static
 local-zone: "orbiscovid19.com" static
 local-zone: "orcalecovid-19.com" static
 local-zone: "orcalecovid19.com" static
+local-zone: "orchiddimgreyshell.matiascovid19.repl.run" static
 local-zone: "orcle-covid19.com" static
 local-zone: "orclecovid19.com" static
 local-zone: "orcoronaclaim.com" static
@@ -70569,6 +70573,7 @@ local-zone: "www.estadisticascoronavirus.com" static
 local-zone: "www.eucoronaviruscancermonitoring.com" static
 local-zone: "www.examecovid19.com" static
 local-zone: "www.excelsoinscoronavirus.com" static
+local-zone: "www.eyecovid-19.com" static
 local-zone: "www.face-mask-for-coronavirus.online" static
 local-zone: "www.facemaskscovid19.org" static
 local-zone: "www.fackcoronavirus.com" static
@@ -71426,6 +71431,7 @@ local-zone: "xcoronavirusx.com" static
 local-zone: "xcoronax.com" static
 local-zone: "x-covid19.com" static
 local-zone: "xcovid-19.com" static
+local-zone: "x-covid19.org" static
 local-zone: "xcovid19svc.xappsios.com" static
 local-zone: "xcovid19.xappsios.com" static
 local-zone: "xcovid9teen.com" static
