@@ -816,6 +816,7 @@ local-zone: "agir-covid-19.com" static
 local-zone: "agir-covid19.com" static
 local-zone: "agircovid19.com" static
 local-zone: "agirlscoutsguidetocovid19.com" static
+local-zone: "agrifoodbeatscoronavirus.com" static
 local-zone: "agro-covid19.com" static
 local-zone: "agrocovid19.com" static
 local-zone: "ahcovid.care" static
@@ -20335,6 +20336,7 @@ local-zone: "coronavirus-nyc-iii.jiminkim.org" static
 local-zone: "coronavirus-nyc-iv.jiminkim.org" static
 local-zone: "coronavirus-ny.com" static
 local-zone: "coronavirusnyc.today" static
+local-zone: "coronavirus-nyc-v.jiminkim.org" static
 local-zone: "coronavirusny.net" static
 local-zone: "coronavirusnys.com" static
 local-zone: "coronavirusnyse.com" static
@@ -25550,6 +25552,7 @@ local-zone: "covid19atrisk.net" static
 local-zone: "covid-19-atsea.com" static
 local-zone: "covid-19atsea.com" static
 local-zone: "covid19atsea.com" static
+local-zone: "covid19atsea.no" static
 local-zone: "covid19attack.com" static
 local-zone: "covid19atta.com" static
 local-zone: "covid19.attentive.ai" static
@@ -34846,6 +34849,7 @@ local-zone: "covid19protectionmask.com" static
 local-zone: "covid-19protectionmasks.com" static
 local-zone: "covid-19-protection.net" static
 local-zone: "covid19protection.net" static
+local-zone: "covid19protection.network" static
 local-zone: "covid19protectionnow.com" static
 local-zone: "covid-19protectionproduct.com" static
 local-zone: "covid19protectionproducts.com" static
@@ -34865,6 +34869,7 @@ local-zone: "covid19protectivegear.com" static
 local-zone: "covid-19protectivekit.com" static
 local-zone: "covid-19protectivekits.com" static
 local-zone: "covid19protectivemask.com" static
+local-zone: "covid19protectivesupplies.co.za" static
 local-zone: "covid19protectkit.com" static
 local-zone: "covid19protectkits.com" static
 local-zone: "covid19protectmenow.ca" static
@@ -68463,6 +68468,7 @@ local-zone: "www.agircovid19.fr" static
 local-zone: "www.agir-covid-19.org" static
 local-zone: "www.agircovid19.org" static
 local-zone: "www.agirlscoutsguidetocovid19.com" static
+local-zone: "www.agrifoodbeatscoronavirus.com" static
 local-zone: "www.ahcsaccovid19.com" static
 local-zone: "www.airambulance-covid19.info" static
 local-zone: "www.aivscovid19.com" static
@@ -68752,6 +68758,7 @@ local-zone: "www.coronavirus-care.co" static
 local-zone: "www.coronaviruscareforall.com" static
 local-zone: "www.coronaviruscare.me" static
 local-zone: "www.coronaviruscautions.com" static
+local-zone: "www.coronaviruscd.org" static
 local-zone: "www.coronaviruscharities.org" static
 local-zone: "www.coronaviruschart.info" static
 local-zone: "www.coronavirus-charts.com" static
@@ -69058,6 +69065,7 @@ local-zone: "www.coronavirus-normality.com" static
 local-zone: "www.coronavirus.normanok.gov" static
 local-zone: "www.coronavirus-novosti.info" static
 local-zone: "www.coronavirus-novosti.website" static
+local-zone: "www.coronavirus.nov.ru" static
 local-zone: "wwwcoronavirusnow.com" static
 local-zone: "www.coronavirus-obzor.ru" static
 local-zone: "www.coronavirusofficial.it" static
