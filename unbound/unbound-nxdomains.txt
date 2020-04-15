@@ -54119,6 +54119,7 @@ local-zone: "ladiasporasemobilisecovid19.fr" static
 local-zone: "lafamiliaflcovid19.lafamiliapawn.com" static
 local-zone: "lafayettecovid.com" static
 local-zone: "lagoscorona.com" static
+local-zone: "lagoscovid19dairies.org" static
 local-zone: "lagoscovid19volunteers.org" static
 local-zone: "lagoswillbeatcorona.com" static
 local-zone: "lagoswillbeatcovid19.com" static
@@ -55614,6 +55615,7 @@ local-zone: "mekhoscontracorona.com" static
 local-zone: "melawancorona.com" static
 local-zone: "melcovid19checker.com" static
 local-zone: "meldcorona.com" static
+local-zone: "mema-covid19.biggbase.com" static
 local-zone: "members.covid-19.sepinsa.com.sv" static
 local-zone: "memecoronavirus.com" static
 local-zone: "memescorona.com" static
@@ -60594,6 +60596,7 @@ local-zone: "projectcovid19usa.com" static
 local-zone: "project-covid.com" static
 local-zone: "projectcovid.com" static
 local-zone: "projectcovideo19.com" static
+local-zone: "projections.covid19.perceptionhealth.dev" static
 local-zone: "projectpandemic.com" static
 local-zone: "projectpandemic.net" static
 local-zone: "projectpsacovid.com" static
@@ -62877,6 +62880,7 @@ local-zone: "startupsagainstcorona.com" static
 local-zone: "startupsagainstcoronavirus.com" static
 local-zone: "startupsvscoronavirus.com" static
 local-zone: "startupsvscovid19.com" static
+local-zone: "startupsvscovid19com.zendesk.com" static
 local-zone: "startupsvscovid19.org" static
 local-zone: "startupsvscovid.com" static
 local-zone: "startupvscovid.com" static
@@ -66704,6 +66708,7 @@ local-zone: "utahcoronalaw.com" static
 local-zone: "utahcoronavirus.cleaning" static
 local-zone: "utahcoronaviruscleaning.com" static
 local-zone: "utahcoronaviruscleanup.com" static
+local-zone: "utahcoronavirustest.com" static
 local-zone: "utahcovid19.com" static
 local-zone: "utahcovidcleaners.com" static
 local-zone: "utahcovidtesting.com" static
