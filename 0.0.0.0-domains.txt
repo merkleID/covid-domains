@@ -604,6 +604,7 @@
 0.0.0.0 adlcovidtest.com
 0.0.0.0 adm.coronavirus.igaps.gx360.com.br
 0.0.0.0 admin-api.coronavirus-monitor.com
+0.0.0.0 admin.covid19-dataexchange.org
 0.0.0.0 admin.covid19donors.org
 0.0.0.0 admin.covid19.immigrationdirectstaging.com
 0.0.0.0 admincovid19.kotabogor.go.id
@@ -1606,6 +1607,7 @@
 0.0.0.0 api.covid19.commonhelp.it
 0.0.0.0 api.covid19data.cloud
 0.0.0.0 api.covid19datacompare.com
+0.0.0.0 api.covid19-dataexchange.org
 0.0.0.0 api-covid19-dev.digi4.ma
 0.0.0.0 api.covid19.digi4.ma
 0.0.0.0 api.covid-19.digitalie.dev
@@ -1741,6 +1743,7 @@
 0.0.0.0 app.covid19.ambientetransparente.com.br
 0.0.0.0 appcovid-19.com
 0.0.0.0 appcovid19.com
+0.0.0.0 app.covid19-dataexchange.org
 0.0.0.0 app.covid-19data.mx
 0.0.0.0 app.covid-19ers.com
 0.0.0.0 appcovid19.eu
@@ -47685,6 +47688,7 @@
 0.0.0.0 devkawalcovid19.harippe.id
 0.0.0.0 dev.key-worker-coronavirus-home-testing.service.gov.uk
 0.0.0.0 dev.persicovid19.id
+0.0.0.0 dev-projections.covid19.perceptionhealth.com
 0.0.0.0 devqrcovidpass.com
 0.0.0.0 dev-stopcovid19.code4hamamatsu.org
 0.0.0.0 dev-stopcovid19-hamamatsu.code4hamamatsu.org
@@ -56746,12 +56750,14 @@
 0.0.0.0 ncov19.ro
 0.0.0.0 ncov19.sk
 0.0.0.0 ncov19stats.com
+0.0.0.0 ncov19stats.net
 0.0.0.0 ncov19.today
 0.0.0.0 ncov19tracker.live
 0.0.0.0 ncov19.urekamedia.com
 0.0.0.0 ncov19.us
 0.0.0.0 ncov19us.com
 0.0.0.0 ncov19.wiki
+0.0.0.0 ncov19.zhengqj.cc
 0.0.0.0 ncov-2019.cn
 0.0.0.0 ncov2019.eu
 0.0.0.0 ncov-2019.fr
@@ -60003,6 +60009,7 @@
 0.0.0.0 plataformavictimascovid19.es
 0.0.0.0 plataformavictimascovid19.org
 0.0.0.0 platform.covid19crc.org
+0.0.0.0 platform.covid19-dataexchange.org
 0.0.0.0 playcorona.com
 0.0.0.0 playcoronacraft.com
 0.0.0.0 playcoronavirus.com

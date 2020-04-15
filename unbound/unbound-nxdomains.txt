@@ -604,6 +604,7 @@ local-zone: "adlcovid.com" static
 local-zone: "adlcovidtest.com" static
 local-zone: "adm.coronavirus.igaps.gx360.com.br" static
 local-zone: "admin-api.coronavirus-monitor.com" static
+local-zone: "admin.covid19-dataexchange.org" static
 local-zone: "admin.covid19donors.org" static
 local-zone: "admin.covid19.immigrationdirectstaging.com" static
 local-zone: "admincovid19.kotabogor.go.id" static
@@ -1606,6 +1607,7 @@ local-zone: "apicovid19.cochabamba.bo" static
 local-zone: "api.covid19.commonhelp.it" static
 local-zone: "api.covid19data.cloud" static
 local-zone: "api.covid19datacompare.com" static
+local-zone: "api.covid19-dataexchange.org" static
 local-zone: "api-covid19-dev.digi4.ma" static
 local-zone: "api.covid19.digi4.ma" static
 local-zone: "api.covid-19.digitalie.dev" static
@@ -1741,6 +1743,7 @@ local-zone: "appcovid19.altervista.org" static
 local-zone: "app.covid19.ambientetransparente.com.br" static
 local-zone: "appcovid-19.com" static
 local-zone: "appcovid19.com" static
+local-zone: "app.covid19-dataexchange.org" static
 local-zone: "app.covid-19data.mx" static
 local-zone: "app.covid-19ers.com" static
 local-zone: "appcovid19.eu" static
@@ -47685,6 +47688,7 @@ local-zone: "device2treatcovid19.com" static
 local-zone: "devkawalcovid19.harippe.id" static
 local-zone: "dev.key-worker-coronavirus-home-testing.service.gov.uk" static
 local-zone: "dev.persicovid19.id" static
+local-zone: "dev-projections.covid19.perceptionhealth.com" static
 local-zone: "devqrcovidpass.com" static
 local-zone: "dev-stopcovid19.code4hamamatsu.org" static
 local-zone: "dev-stopcovid19-hamamatsu.code4hamamatsu.org" static
@@ -56746,12 +56750,14 @@ local-zone: "ncov19ppe.com" static
 local-zone: "ncov19.ro" static
 local-zone: "ncov19.sk" static
 local-zone: "ncov19stats.com" static
+local-zone: "ncov19stats.net" static
 local-zone: "ncov19.today" static
 local-zone: "ncov19tracker.live" static
 local-zone: "ncov19.urekamedia.com" static
 local-zone: "ncov19.us" static
 local-zone: "ncov19us.com" static
 local-zone: "ncov19.wiki" static
+local-zone: "ncov19.zhengqj.cc" static
 local-zone: "ncov-2019.cn" static
 local-zone: "ncov2019.eu" static
 local-zone: "ncov-2019.fr" static
@@ -60003,6 +60009,7 @@ local-zone: "plataformavictimascovid19.com" static
 local-zone: "plataformavictimascovid19.es" static
 local-zone: "plataformavictimascovid19.org" static
 local-zone: "platform.covid19crc.org" static
+local-zone: "platform.covid19-dataexchange.org" static
 local-zone: "playcorona.com" static
 local-zone: "playcoronacraft.com" static
 local-zone: "playcoronavirus.com" static
