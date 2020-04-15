@@ -1640,6 +1640,7 @@ local-zone: "api.covid19uk.live" static
 local-zone: "api.covid19.unioeste-foz.br" static
 local-zone: "api-covid19.wereact.co" static
 local-zone: "api.covid19.ziphio.com" static
+local-zone: "api.covid19zones.com" static
 local-zone: "api-covid19.zxcvbnmn.com" static
 local-zone: "apicovid.com" static
 local-zone: "api.d363ac41.test.covid-19.forms.digital.nhs.uk" static
@@ -2725,6 +2726,8 @@ local-zone: "biggestpandemics.com" static
 local-zone: "biharcoronasahayata.com" static
 local-zone: "bikeracersvcovid19.com" static
 local-zone: "bikethepandemic.com" static
+local-zone: "bikmi.covid19-knowledgespace.de" static
+local-zone: "bikmi.covid19knowledgespace.de" static
 local-zone: "bilan-coronavirus.com" static
 local-zone: "bilbaocovidfestival.com" static
 local-zone: "bild-automation.mobility-covid19.teralytics.net" static
@@ -24890,6 +24893,7 @@ local-zone: "covid19-ae.info" static
 local-zone: "covid19.aelan.sb" static
 local-zone: "covid19.aelrfc-cflrsa.ca" static
 local-zone: "covid19.aepinhel.org" static
+local-zone: "covid19.aeroclub.ru" static
 local-zone: "covid19-aeu.com" static
 local-zone: "covid-19af.amolo.me" static
 local-zone: "covid19-afarafat.com" static
@@ -59776,6 +59780,7 @@ local-zone: "physiciancovidcenter.com" static
 local-zone: "physiciancovidnetwork.com" static
 local-zone: "physiciansfightcovid19.com" static
 local-zone: "physiciansfightcovid.com" static
+local-zone: "pianocoronavirus.altervista.org" static
 local-zone: "picassobarcoronado.com" static
 local-zone: "pictureofcorona.com" static
 local-zone: "picturesofcorona.com" static
@@ -68415,6 +68420,7 @@ local-zone: "www.bahamascovid19.org" static
 local-zone: "www.bangkokcovid19.com" static
 local-zone: "www.baohiemcovid19pvi.com" static
 local-zone: "www.barcovid19.org" static
+local-zone: "www.batakbersatumelawancovid19.center" static
 local-zone: "www.bbkcoronavirus.com" static
 local-zone: "www.bccovid19soundwaves.ca" static
 local-zone: "www.beatcovid19.app" static
@@ -69419,6 +69425,7 @@ local-zone: "www.covid19.djaka.id" static
 local-zone: "www.covid-19dk.live" static
 local-zone: "www.covid19dnr.cf" static
 local-zone: "www.covid19.docndoc.fr" static
+local-zone: "www.covid19.dodec.co.uk" static
 local-zone: "www.covid19donate.ca" static
 local-zone: "www.covid-19-donations.org" static
 local-zone: "www.covid19-donations.org" static
@@ -70606,6 +70613,7 @@ local-zone: "www.loveinthetimeofcoronavirus.io" static
 local-zone: "www.loveinthetimeofcovid-19.net" static
 local-zone: "www.lowereastside-covid19.com" static
 local-zone: "www.lpcovid19.digitalactive.ci" static
+local-zone: "www.lp-desinfection-covid19.fr" static
 local-zone: "www.luchandocontraelcovid19.co.uk" static
 local-zone: "www.luftambulanse-covid19.no" static
 local-zone: "www.lutte-coronavirus.com" static
