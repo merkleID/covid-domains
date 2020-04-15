@@ -650,6 +650,7 @@ local-zone: "afectadoscovid-19.com" static
 local-zone: "afectadoscovid19.com" static
 local-zone: "afectados-covid-19.es" static
 local-zone: "afectadoscovid19.es" static
+local-zone: "afectadoscovid19.info" static
 local-zone: "afectadoscovid19.net" static
 local-zone: "afectadoscovid19.org" static
 local-zone: "afectadoscovid.com" static
@@ -31448,6 +31449,7 @@ local-zone: "covid19.javatech.id" static
 local-zone: "covid19.javibenitez.com" static
 local-zone: "covid19.javieroliver.co" static
 local-zone: "covid19.jayapurakab.go.id" static
+local-zone: "covid19.jayatama.id" static
 local-zone: "covid19.jaysbasic.com" static
 local-zone: "covid19.jaysoni.info" static
 local-zone: "covid19.jbhutch.com" static
@@ -53994,6 +53996,7 @@ local-zone: "lacoronahelp.com" static
 local-zone: "lacoronalaws.com" static
 local-zone: "lacoronalawyer.com" static
 local-zone: "lacoronaviruslaw.com" static
+local-zone: "lacountycovid19api.com" static
 local-zone: "la-covid-19.com" static
 local-zone: "lacovid-19.com" static
 local-zone: "lacovid19.com" static
