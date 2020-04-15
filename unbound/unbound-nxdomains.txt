@@ -1628,6 +1628,7 @@ local-zone: "api.covid19.namduastudio.com" static
 local-zone: "api.covid19petpro.com" static
 local-zone: "api.covid19.prixa.ai" static
 local-zone: "api-covid19.prod.8layertech.io" static
+local-zone: "apicovid19.review.test.ermes.ai" static
 local-zone: "api.covid19.rnbo.gov.ua" static
 local-zone: "apicovid19.ru" static
 local-zone: "api.covid19sas.com" static
@@ -19863,6 +19864,7 @@ local-zone: "coronavirusmozambique.com" static
 local-zone: "coronavirus.mqh.com.co" static
 local-zone: "coronavirus-m.ru" static
 local-zone: "coronavirusm.ru" static
+local-zone: "coronavirus.msf.codebit.biz" static
 local-zone: "coronavirus-msk.ru" static
 local-zone: "coronavirusms.net" static
 local-zone: "coronavirus.msnoar.com.br" static
@@ -31383,6 +31385,7 @@ local-zone: "covid-19isgone.com" static
 local-zone: "covid19isgone.com" static
 local-zone: "covid19ishere.com" static
 local-zone: "covid19.islamicity.tv" static
+local-zone: "covid19.ismiart.com" static
 local-zone: "covid-19-isolation.com" static
 local-zone: "covid-19isolation.com" static
 local-zone: "covid19-isolation.eclathealthcare.com" static
@@ -34357,6 +34360,7 @@ local-zone: "covid19.petyaari.com" static
 local-zone: "covid19-pfizer.com" static
 local-zone: "covid19pfizer.com" static
 local-zone: "covid19pg.antwebstudio.com" static
+local-zone: "covid19.ph" static
 local-zone: "covid-19-ph3.yj.fr" static
 local-zone: "covid19.phapa.org" static
 local-zone: "covid19.pharaohhosting.com" static
@@ -34869,6 +34873,7 @@ local-zone: "covid19pruebas.com" static
 local-zone: "covid19psa.com" static
 local-zone: "covid19ps.com" static
 local-zone: "covid19pscs.com" static
+local-zone: "covid19-psicohelp.it" static
 local-zone: "covid-19psicosivirale.com" static
 local-zone: "covid19.pstelemed.com" static
 local-zone: "covid19psych.com" static
@@ -49953,6 +49958,7 @@ local-zone: "floridacovid-19claims.com" static
 local-zone: "floridacovid19claims.com" static
 local-zone: "floridacovid-19cleaning.com" static
 local-zone: "floridacovid-19.com" static
+local-zone: "floridacovid19disinfecting.com" static
 local-zone: "floridacovid19insuranceclaims.com" static
 local-zone: "floridacovid19law.com" static
 local-zone: "floridacovid19lawyer.com" static
@@ -50037,6 +50043,7 @@ local-zone: "foreningenforcovid-19.com" static
 local-zone: "formacioncoronavirus.com" static
 local-zone: "formacioncoronavirus.es" static
 local-zone: "formationcovid19.centreesanteinspci.org" static
+local-zone: "formation-covid19.formation-komelya.fr" static
 local-zone: "formation-distance-coronavirus-covid19.fr" static
 local-zone: "formazionecoronavirus.com" static
 local-zone: "form.coronavirus.gov.py" static
@@ -69249,6 +69256,7 @@ local-zone: "www.coronaviruswear.shop" static
 local-zone: "www.coronavirus-website.ru" static
 local-zone: "www.coronavirus.web.za" static
 local-zone: "www.coronavirus-wholesale.com" static
+local-zone: "www.coronavirus-wiki.ru" static
 local-zone: "www.coronavirus.wi.nhs.scot" static
 local-zone: "www.coronavirus.worg.org.in" static
 local-zone: "www.coronavirusworkfromhomenow.com" static
