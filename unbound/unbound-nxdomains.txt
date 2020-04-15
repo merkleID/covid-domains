@@ -28710,6 +28710,7 @@ local-zone: "covid-19.ebscomedical.com" static
 local-zone: "covid-19ecards.com" static
 local-zone: "covid19ec.brian-molina.net" static
 local-zone: "covid19ec.com" static
+local-zone: "covid-19.ece.cornell.edu" static
 local-zone: "covid19ec.info" static
 local-zone: "covid19.eclathealthcare.com" static
 local-zone: "covid19ecmo.com" static
@@ -35854,6 +35855,7 @@ local-zone: "covid19.rthand.com" static
 local-zone: "covid-19rts.com" static
 local-zone: "covid-19rts.net" static
 local-zone: "covid-19rt.steramed.info" static
+local-zone: "covid19.ru" static
 local-zone: "covid19.rueckenbach.com" static
 local-zone: "covid19ruinmysummer.xyz" static
 local-zone: "covid-19rules.com" static
@@ -38401,6 +38403,7 @@ local-zone: "covid19tracker.study" static
 local-zone: "covid19tracker.techlanda.com" static
 local-zone: "covid19tracker.tk" static
 local-zone: "covid19tracker.today" static
+local-zone: "covid19trackertoday.com" static
 local-zone: "covid-19tracker.williammejlvan1.repl.run" static
 local-zone: "covid19tracker.world" static
 local-zone: "covid-19trackerworldwide.com" static
@@ -62349,6 +62352,7 @@ local-zone: "shopcovid19.co.uk" static
 local-zone: "shopcovid19express.com" static
 local-zone: "shopcovid19gateway.com" static
 local-zone: "shop.covid19immunehelp.com" static
+local-zone: "shopcovid19masks.com" static
 local-zone: "shopcovid19.net" static
 local-zone: "shopcovidclothes.com" static
 local-zone: "shopcovidclothing.com" static
@@ -62973,6 +62977,7 @@ local-zone: "stayathomecoronavirus.com" static
 local-zone: "stayathomecovid-19.com" static
 local-zone: "stayathomecovid19.com" static
 local-zone: "stayawaycoronavirus.com" static
+local-zone: "stayawaycovid-19.com" static
 local-zone: "stayawaycovid19.com" static
 local-zone: "stayawaycovid.com" static
 local-zone: "stayawayfromcovid19.com" static
@@ -71129,6 +71134,7 @@ local-zone: "www.shopcoronavirus.co" static
 local-zone: "www.shopcoronavirus.co.uk" static
 local-zone: "www.shopcovid19.co.uk" static
 local-zone: "www.shopcovid19express.com" static
+local-zone: "www.shopcovid19masks.com" static
 local-zone: "www.shopcovid19.net" static
 local-zone: "www.shpcovid19.com" static
 local-zone: "www.sicovid19.org" static
