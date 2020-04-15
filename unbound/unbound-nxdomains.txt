@@ -25091,6 +25091,7 @@ local-zone: "covid-19-alpha.koreasouth.cloudapp.azure.com" static
 local-zone: "covid-19.alphatobeta.co.za" static
 local-zone: "covid19.alshirawi.com" static
 local-zone: "covid19.altagas.ca" static
+local-zone: "covid19.altamenterentavel.com" static
 local-zone: "covid19.altercites.fr" static
 local-zone: "covid-19alternativetreatment.com" static
 local-zone: "covid19alternativetreatment.com" static
@@ -27274,6 +27275,7 @@ local-zone: "covid19collective.com" static
 local-zone: "covid-19college.com" static
 local-zone: "covid19colombia.app" static
 local-zone: "covid-19colombia.com" static
+local-zone: "covid19-colombia.com" static
 local-zone: "covid19colombia.com" static
 local-zone: "covid19-colombia.dstudios.com.co" static
 local-zone: "covid19colony.com" static
@@ -28456,6 +28458,7 @@ local-zone: "covid19.dnews.bg" static
 local-zone: "covid19dnr.cf" static
 local-zone: "covid19.dntconsults.com" static
 local-zone: "covid19.do" static
+local-zone: "covid19.docashflow.com" static
 local-zone: "covid-19doc.com" static
 local-zone: "covid19docfilm.com" static
 local-zone: "covid19.docmava.tg" static
@@ -29485,6 +29488,7 @@ local-zone: "covid19forecast.info" static
 local-zone: "covid19forecast.it" static
 local-zone: "covid19forecast.org" static
 local-zone: "covid19forecasts.com" static
+local-zone: "covid19forecasts.org" static
 local-zone: "covid19foreclosure.com" static
 local-zone: "covid-19foreclosures.com" static
 local-zone: "covid19foreclosures.com" static
@@ -38256,6 +38260,7 @@ local-zone: "covid-19track.com" static
 local-zone: "covid19-track.com" static
 local-zone: "covid19track.com" static
 local-zone: "covid19trackd.com" static
+local-zone: "covid19tracker-1.maximokesselhau.repl.run" static
 local-zone: "covid19tracker247.live" static
 local-zone: "covid19tracker.africa" static
 local-zone: "covid19tracker.api.aibharata.com" static
@@ -47590,6 +47595,7 @@ local-zone: "devkawalcovid19.harippe.id" static
 local-zone: "dev.key-worker-coronavirus-home-testing.service.gov.uk" static
 local-zone: "dev.persicovid19.id" static
 local-zone: "devqrcovidpass.com" static
+local-zone: "dev-stopcovid19-hamamatsu.code4hamamatsu.org" static
 local-zone: "dez-covid.com" static
 local-zone: "dezinfekce-covid19.cz" static
 local-zone: "dezinfekciq-coronavirus.com" static
@@ -66586,6 +66592,7 @@ local-zone: "uspandemicmovie.com" static
 local-zone: "uspandemic.net" static
 local-zone: "uspestcoronavirus.com" static
 local-zone: "ussaftercovid19.com" static
+local-zone: "usvaccinecovid19.com" static
 local-zone: "usvscoronavirus.com" static
 local-zone: "usvscovid19.com" static
 local-zone: "uswestrss.covid19newstracker.com" static
@@ -68430,6 +68437,7 @@ local-zone: "www.ar-covid19.com" static
 local-zone: "www.arcovid19.net" static
 local-zone: "www.arkansasbroadcasterscovid19resources.com" static
 local-zone: "www.arlogistics-covid19.com" static
+local-zone: "www.armycovid19statistics.com" static
 local-zone: "www.arrmcovid19.com" static
 local-zone: "www.artinatimeofcovid19.com" static
 local-zone: "www.artinthetimeofcoronavirus.org" static
@@ -69854,6 +69862,7 @@ local-zone: "www.covid19mutualaidslc.com" static
 local-zone: "www.covid19.myamericanews.com" static
 local-zone: "www.covid19.mycareercrew.com" static
 local-zone: "www.covid19-my.info" static
+local-zone: "www.covid19.nagaland.gov.in" static
 local-zone: "www.covid19narratives.com" static
 local-zone: "www.covid19nbusiness.in" static
 local-zone: "www.covid19necessity.com" static
