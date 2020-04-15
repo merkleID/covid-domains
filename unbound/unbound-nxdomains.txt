@@ -2789,6 +2789,7 @@ local-zone: "blackswancoronavirus.net" static
 local-zone: "blamecorona.com" static
 local-zone: "blameitoncorona.com" static
 local-zone: "blamewuhan.com" static
+local-zone: "blb-covid19.com" static
 local-zone: "blessingsinthemidstofcovid19.com" static
 local-zone: "blindatecovid.com" static
 local-zone: "blitz.coronavirus.saude.salvador.ba.gov.br" static
@@ -19660,6 +19661,7 @@ local-zone: "coronavirus.mep.purdue.edu" static
 local-zone: "coronavirusmerchandise.com" static
 local-zone: "coronavirusmerchant.com" static
 local-zone: "coronavirus-merch.com" static
+local-zone: "coronavirusmerch.store" static
 local-zone: "coronavirus.mervintimothyreyes.com" static
 local-zone: "coronavirus-mery.ru" static
 local-zone: "coronavirusmesa.com" static
@@ -27221,6 +27223,7 @@ local-zone: "covid19cocktails.com" static
 local-zone: "covid-19co.com" static
 local-zone: "covid19co.com" static
 local-zone: "covid19.code4kochi.com" static
+local-zone: "covid19.code4toyama.org" static
 local-zone: "covid19.codebrowse.in" static
 local-zone: "covid19code.com" static
 local-zone: "covid19.codecombat.com" static
@@ -31590,6 +31593,7 @@ local-zone: "covid19.ke-network.com" static
 local-zone: "covid19.kensci.com" static
 local-zone: "covid-19kentucky.com" static
 local-zone: "covid19kenya.ml" static
+local-zone: "covid19kenya.org" static
 local-zone: "covid19kenya.site" static
 local-zone: "covid19.kepahiangkab.go.id" static
 local-zone: "covid19kerala.com" static
@@ -38280,6 +38284,7 @@ local-zone: "covid-19tracking.com" static
 local-zone: "covid19-tracking.com" static
 local-zone: "covid19tracking.com" static
 local-zone: "covid19tracking.fabiodemartino.com" static
+local-zone: "covid19tracking.gq" static
 local-zone: "covid19tracking.in" static
 local-zone: "covid19tracking.info" static
 local-zone: "covid19trackinglive.com" static
@@ -49695,6 +49700,7 @@ local-zone: "findcoronavirustreatment.com" static
 local-zone: "findcoronavirusvaccine.com" static
 local-zone: "findcovid-19.com" static
 local-zone: "findcovid19.com" static
+local-zone: "find.covid-19-cures.com" static
 local-zone: "findcovid19info.com" static
 local-zone: "findcovid19jobs.org" static
 local-zone: "findcovid19lawyer.com" static
@@ -59685,6 +59691,7 @@ local-zone: "pestcontrolcoronavirus.com" static
 local-zone: "pestcontrolcoronavirus.net" static
 local-zone: "pestcontrolcovid19.com" static
 local-zone: "petacorona.com" static
+local-zone: "petacovid19.kampoengngawi.com" static
 local-zone: "petasebaran.covid19.blitarkota.go.id" static
 local-zone: "petaviruscorona.com" static
 local-zone: "petcarecovid19.com" static
@@ -67237,6 +67244,7 @@ local-zone: "webeatthecoronavirus.com" static
 local-zone: "web.fightcovid19.id" static
 local-zone: "webflow.covid-19-symptoms.co.uk" static
 local-zone: "webinar.coronavirus.fisc.ro" static
+local-zone: "webinar.covid19kerala.live" static
 local-zone: "webinarsalarizare-covid19.legislatiamuncii.ro" static
 local-zone: "webinarsefaccoronavirus.es" static
 local-zone: "webinarseries-covid19.novaon.vn" static
