@@ -33129,6 +33129,7 @@ local-zone: "covid19.modospira.com" static
 local-zone: "covid19.modus-accountants.co.uk" static
 local-zone: "covid19.mohfw.gov.bd" static
 local-zone: "covid19.moh.gov.de" static
+local-zone: "covid19.moh.intranet.gov.cy" static
 local-zone: "covid19.mohp.gov.np" static
 local-zone: "covid19mohp.naxa.com.np" static
 local-zone: "covid-19-moja-vjerojatnost-izracun.com" static
@@ -69231,6 +69232,7 @@ local-zone: "www.covid19.admin.ch" static
 local-zone: "www.covid19admin.eql.ai" static
 local-zone: "www.covid19admin.gooditsolutions.ca" static
 local-zone: "www.covid19afar.com" static
+local-zone: "www.covid19-ag.ch" static
 local-zone: "www.covid19.agiletechaccounting.com" static
 local-zone: "www.covid19.ahmetcanvarisli.com" static
 local-zone: "www.covid19-aid.de" static
