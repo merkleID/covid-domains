@@ -3202,7 +3202,10 @@ local-zone: "caedes-covid.com" static
 local-zone: "caeduscovid.net" static
 local-zone: "cafe-corona.com" static
 local-zone: "cafe-corona.net" static
+local-zone: "cafecoronavirusadministration.com.au" static
+local-zone: "cafecoronavirusliquidation.com.au" static
 local-zone: "cafecorona.world" static
+local-zone: "cafescoronavirus.com.au" static
 local-zone: "cagecovid.club" static
 local-zone: "cairn-covid19.dev.mediaworksweb.co.uk" static
 local-zone: "cairnscoronavirus.com" static
@@ -3794,6 +3797,7 @@ local-zone: "chekcovid19.com" static
 local-zone: "chekcovid.com" static
 local-zone: "chekforcorona.com" static
 local-zone: "chekup-covid-19.hibridajaya.desa.id" static
+local-zone: "chemistcoronavirus.com.au" static
 local-zone: "chepstowcovid19.co.uk" static
 local-zone: "chequecorona.com" static
 local-zone: "chestercountycovid-19fund.com" static
@@ -25468,6 +25472,7 @@ local-zone: "covid-19athometestkit.com" static
 local-zone: "covid19athometestkit.com" static
 local-zone: "covid19athometests.com" static
 local-zone: "covid19athomeworkout.com" static
+local-zone: "covid19atlanta.org" static
 local-zone: "covid19atlas.com" static
 local-zone: "covid19atlas.net" static
 local-zone: "covid19atl.com" static
@@ -37039,6 +37044,7 @@ local-zone: "covid-19.style" static
 local-zone: "covid19.style" static
 local-zone: "covid19stylemask.com" static
 local-zone: "covid19stylemasks.com" static
+local-zone: "covid-19.su" static
 local-zone: "covid19.subam.in" static
 local-zone: "covid-19.subangxploits.xyz" static
 local-zone: "covid19.sube.la" static
