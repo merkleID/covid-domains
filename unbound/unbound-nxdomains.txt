@@ -3798,6 +3798,7 @@ local-zone: "chekcovid.com" static
 local-zone: "chekforcorona.com" static
 local-zone: "chekup-covid-19.hibridajaya.desa.id" static
 local-zone: "chemistcoronavirus.com.au" static
+local-zone: "chemistcoronavirusliquidation.com.au" static
 local-zone: "chepstowcovid19.co.uk" static
 local-zone: "chequecorona.com" static
 local-zone: "chestercountycovid-19fund.com" static
@@ -70142,6 +70143,7 @@ local-zone: "www.covid19.us-immigrationstaging.com" static
 local-zone: "www.covid19.usm.cl" static
 local-zone: "www.covid-19.uubo.org" static
 local-zone: "www.covid19uvpro.com" static
+local-zone: "www.covid-19vaccine.com.au" static
 local-zone: "www.covid-19vaccine.co.uk" static
 local-zone: "www.covid19vaccine.news" static
 local-zone: "www.covid-19vaccine.uk" static
