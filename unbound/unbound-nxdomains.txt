@@ -2801,6 +2801,7 @@ local-zone: "blmcovid19.com" static
 local-zone: "blmcovid19.hardover.com" static
 local-zone: "bloccacoronavirus.it" static
 local-zone: "bloccacovid-19.com" static
+local-zone: "blockchain4covid19.com" static
 local-zone: "blockchain-covid19.com" static
 local-zone: "blockchaincovid.com" static
 local-zone: "block-corona.com" static
@@ -13589,6 +13590,7 @@ local-zone: "coronavirus19testkits.com" static
 local-zone: "coronavirus19tests.com" static
 local-zone: "coronavirus19treatment.com" static
 local-zone: "coronavirus19truth.com" static
+local-zone: "coronavirus19tshirt.com" static
 local-zone: "coronavirus19update.com" static
 local-zone: "coronavirus-19updates.com" static
 local-zone: "coronavirus19updates.com" static
@@ -18620,6 +18622,7 @@ local-zone: "coronavirusjanitor.com" static
 local-zone: "coronavirusjanitorial.com" static
 local-zone: "coronavirusjanitors.com" static
 local-zone: "coronavirusjapan.com" static
+local-zone: "coronavirus-japan.jp" static
 local-zone: "coronavirus.jarochilandia.com" static
 local-zone: "coronavirus.jbalazer.com" static
 local-zone: "coronavirusjelly.com" static
@@ -21108,6 +21111,7 @@ local-zone: "coronaviruspsychology.com" static
 local-zone: "coronaviruspsychotherapy.com" static
 local-zone: "coronaviruspt.com" static
 local-zone: "coronavirusptsd.com" static
+local-zone: "coronaviruspubclosure.com.au" static
 local-zone: "coronaviruspubcrawl.com" static
 local-zone: "coronaviruspublicadjuster.com" static
 local-zone: "coronavirus.publicsquare.digital" static
@@ -31435,6 +31439,7 @@ local-zone: "covid19.jagaranmedia.org.np" static
 local-zone: "covid19jagratha.kerala.nic.in" static
 local-zone: "covid19.jajoosam.repl.run" static
 local-zone: "covid19.jakartakita.com" static
+local-zone: "covid19jakratha.kerala.nice.in" static
 local-zone: "covid19jamaica.com" static
 local-zone: "covid19.jambikota.go.id" static
 local-zone: "covid-19.jamesulip.ph" static
@@ -62239,6 +62244,7 @@ local-zone: "shouldisendacovid19.email" static
 local-zone: "shouldisentacovid19email.com" static
 local-zone: "shpcovid19.com" static
 local-zone: "shrinkinthepandemic2020.com" static
+local-zone: "shs-talks-covid-19.siemens-healthineers-events.com" static
 local-zone: "shuncoronavirus.com" static
 local-zone: "shushcovid19.com" static
 local-zone: "shutcorona.com" static
@@ -70031,6 +70037,7 @@ local-zone: "www.covid19resources.info" static
 local-zone: "www.covid19response.gr" static
 local-zone: "www.covid19response.icrinc.com" static
 local-zone: "www.covid19response.ie" static
+local-zone: "www.covid19response.rootd.io" static
 local-zone: "www.covid-19.rest" static
 local-zone: "www.covid19.rest" static
 local-zone: "www.covid-19-return-home-schedules-sharing.com" static
