@@ -16885,6 +16885,7 @@ local-zone: "coronavirus-entschaedigung.de" static
 local-zone: "coronavirus-entschaedigungen.de" static
 local-zone: "coronavirusenvironmentalcleaners.com" static
 local-zone: "coronavirusenvironmentalcleaningservices.com" static
+local-zone: "coronavirusenvivo.com" static
 local-zone: "coronavirusepicenter.com" static
 local-zone: "coronavirusepi.com" static
 local-zone: "coronavirusepidemia.com" static
@@ -31106,6 +31107,7 @@ local-zone: "covid19infohq.com" static
 local-zone: "covid-19infohub.com" static
 local-zone: "covid19infohub.org" static
 local-zone: "covid19-info.ie" static
+local-zone: "covid-19info.info" static
 local-zone: "covid19-info.in.ithinkcreatives.com" static
 local-zone: "covid19.infojateng.id" static
 local-zone: "covid19.infokidunya.com" static
@@ -33337,6 +33339,7 @@ local-zone: "covid-19mt.com" static
 local-zone: "covid19.mtecht.my.id" static
 local-zone: "covid19mtg.com" static
 local-zone: "covid19.mtslamasi.sch.id" static
+local-zone: "covid19.mtsn7kediri.sch.id" static
 local-zone: "covid19.mtsoft-bf.com" static
 local-zone: "covid19.mtu.gov.ua" static
 local-zone: "covid19.mu" static
@@ -38960,6 +38963,7 @@ local-zone: "covid-19vaccine.eu" static
 local-zone: "covid19vaccine.guru" static
 local-zone: "covid19vaccine.ie" static
 local-zone: "covid19-vaccine.imageduverrier.com" static
+local-zone: "covid-19vaccine.in" static
 local-zone: "covid19-vaccine.info" static
 local-zone: "covid-19vaccineinfo.com" static
 local-zone: "covid19vaccineinfo.com" static
@@ -46764,6 +46768,7 @@ local-zone: "cpcalendars.mamparacovid19.com" static
 local-zone: "cpcalendars.onecovid19data.com" static
 local-zone: "cpcalendars.reinventyourbusinesscovid19.com" static
 local-zone: "cpcalendars.stopcovid-19.ro" static
+local-zone: "cpcalendars.thecoronavirus.space" static
 local-zone: "cpcontacts.adcovid19.com" static
 local-zone: "cpcontacts.bollettinocoronavirus.it" static
 local-zone: "cpcontacts.coronavirusoutbreaks.com.au" static
@@ -49929,6 +49934,9 @@ local-zone: "fitduringcorona.com" static
 local-zone: "fitforcorona.com" static
 local-zone: "fit-fuer-coronavirus.de" static
 local-zone: "fitmdcovidcenter.com" static
+local-zone: "fitnesscoronavirus.com.au" static
+local-zone: "fitnesscoronavirusliquidation.com.au" static
+local-zone: "fitnesscovid-19.com.au" static
 local-zone: "fitnessincovid19.com" static
 local-zone: "fitness-vs-pandemic.com" static
 local-zone: "fiveminutecovid-19test.com" static
@@ -65837,6 +65845,7 @@ local-zone: "todoscontracovid19.com.br" static
 local-zone: "todoscontraelcoronavirus.com" static
 local-zone: "todoscontraelcoronavirus.com.ar" static
 local-zone: "todoscontraelcoronavirus.org" static
+local-zone: "todoscontraelcovid19.com" static
 local-zone: "todoscontraelcovid.com" static
 local-zone: "todoscontraocoronavirus.com" static
 local-zone: "todoscontraocovid19.slz.br" static
