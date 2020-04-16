@@ -673,6 +673,12 @@ local-zone: "affectedbycoronavirus.net" static
 local-zone: "affectedbycovid19.com" static
 local-zone: "affectedbycovid.com" static
 local-zone: "affectedcoronavirus.eu" static
+local-zone: "affichage-covid-19.fr" static
+local-zone: "affichagecovid19.fr" static
+local-zone: "affiche-covid-19.fr" static
+local-zone: "affichecovid19.fr" static
+local-zone: "affiches-covid-19.fr" static
+local-zone: "affichescovid19.fr" static
 local-zone: "affop-covid19-soignants.care" static
 local-zone: "affordablecoronavirustest.com" static
 local-zone: "afghanistancoronavirus.com" static
@@ -1697,6 +1703,7 @@ local-zone: "apirestcovid19.habber.com" static
 local-zone: "api.siagacovid19.lebakkab.go.id" static
 local-zone: "api.staging.covid19.adn.be" static
 local-zone: "api.staging.covid19.houseworksinc.co" static
+local-zone: "api.statscovid19.fr" static
 local-zone: "api.ted-covid19.com" static
 local-zone: "api.track.covid-19.rowles.ch" static
 local-zone: "api.uat.test.covid-19.forms.digital.nhs.uk" static
@@ -24808,6 +24815,7 @@ local-zone: "covid-1984.com" static
 local-zone: "covid-1984.co.uk" static
 local-zone: "covid1984.mobilewebexpert.co.uk" static
 local-zone: "covid-1984.net" static
+local-zone: "covid1984.net" static
 local-zone: "covid1984.wtf" static
 local-zone: "covid1988.altervista.org" static
 local-zone: "covid19.8k.no" static
@@ -32761,6 +32769,7 @@ local-zone: "covid19massive.com" static
 local-zone: "covid19mass.net" static
 local-zone: "covid19-masterclass.com" static
 local-zone: "covid19masterclass.com" static
+local-zone: "covid19.masyarakat.net" static
 local-zone: "covid19.masykuriikhsan.com" static
 local-zone: "covid19.match7.online" static
 local-zone: "covid19match.com" static
@@ -32956,6 +32965,7 @@ local-zone: "covid19-medtest.ru" static
 local-zone: "covid19-medtreatment.com" static
 local-zone: "covid19.meetsys.i2kn.com" static
 local-zone: "covid19.megait.in" static
+local-zone: "covid19.megastorexpress.com" static
 local-zone: "covid19.mehwishumar.com" static
 local-zone: "covid-19.meissnerjacquet.com" static
 local-zone: "covid19.melanin.ventures" static
@@ -35926,6 +35936,7 @@ local-zone: "covid-19.sabda.org" static
 local-zone: "covid19.sabda.org" static
 local-zone: "covid19sac.com" static
 local-zone: "covid19.sachinellcock.com" static
+local-zone: "covid19.sachinpaswan.com" static
 local-zone: "covid19.saclay.fr" static
 local-zone: "covid19-sa.com" static
 local-zone: "covid19sa.com" static
@@ -36122,6 +36133,7 @@ local-zone: "covid19saudia.com" static
 local-zone: "covid19-saudiarabia.com" static
 local-zone: "covid19-saudi.com" static
 local-zone: "covid19saudihackathon.com" static
+local-zone: "covid19.saud.tech" static
 local-zone: "covid-19.sauerwein.se" static
 local-zone: "covid19save.com" static
 local-zone: "covid19saved.com" static
@@ -36251,6 +36263,7 @@ local-zone: "covid19score.life" static
 local-zone: "covid-19score.net" static
 local-zone: "covid19score.net" static
 local-zone: "covid19.scorer.jp" static
+local-zone: "covid19.sc.org.lk" static
 local-zone: "covid19scotland.com" static
 local-zone: "covid19scotland.co.uk" static
 local-zone: "covid19scotland.justdaj.com" static
@@ -50201,6 +50214,7 @@ local-zone: "francovidal.com" static
 local-zone: "frankfurt-master.covid19-api.com" static
 local-zone: "fraternite-covid19.fr" static
 local-zone: "fr.bnbcoronavirusfree.com" static
+local-zone: "frcagainstcovid19.com" static
 local-zone: "fr.coronavirusbeat.com" static
 local-zone: "fr.coronavirus-novaregion.org" static
 local-zone: "fr-covid19.com" static
@@ -60242,6 +60256,7 @@ local-zone: "postcovid19jobs.com" static
 local-zone: "postcovid19.law.blog" static
 local-zone: "postcovid19.life" static
 local-zone: "postcovid19life.com" static
+local-zone: "postcovid19.lu" static
 local-zone: "postcovid19lung.com" static
 local-zone: "post-covid-19.net" static
 local-zone: "postcovid-19.net" static
@@ -62983,6 +62998,7 @@ local-zone: "stats-coronavirus.com" static
 local-zone: "statscoronavirus.com" static
 local-zone: "stats-covid19.com" static
 local-zone: "statscovid-19.com" static
+local-zone: "statscovid19.fr" static
 local-zone: "statscovid19.live" static
 local-zone: "stats-covid19.net" static
 local-zone: "statsofcorona.com" static
@@ -67734,6 +67750,7 @@ local-zone: "whatsapp-covid-19.com" static
 local-zone: "whatsapp-covid19.com" static
 local-zone: "whatsappcovid-19.com" static
 local-zone: "whatsappcovid19.com" static
+local-zone: "whatsapp.covid19.et" static
 local-zone: "whatsapp-covid-19-information.com" static
 local-zone: "whatsapp-covid-19information.com" static
 local-zone: "whatsapp-covid19-information.com" static
@@ -69419,6 +69436,7 @@ local-zone: "www.covid-19-2normality.com" static
 local-zone: "www.covid193.com" static
 local-zone: "www.covid-1969.com" static
 local-zone: "www.covid1970s.com" static
+local-zone: "www.covid1984.net" static
 local-zone: "www.covid1984.wtf" static
 local-zone: "www.covid19.abyssloo.com" static
 local-zone: "www.covid-19.acn.my.id" static
@@ -70022,6 +70040,7 @@ local-zone: "www.covid19medisupply.com" static
 local-zone: "www.covid-19-medlevensohn.com" static
 local-zone: "www.covid-19-medllevensohn.com" static
 local-zone: "www.covid19medsupplies.com" static
+local-zone: "www.covid19memorial.memorial" static
 local-zone: "www.covid19memorial.run" static
 local-zone: "www.covid19memorials.org" static
 local-zone: "www.covid19memorialwall.com" static
@@ -70477,6 +70496,7 @@ local-zone: "www.covid19virush.tk" static
 local-zone: "www.covid-19viruskiller.com" static
 local-zone: "www.covid19virusprotection.com" static
 local-zone: "www.covid19-virus.ru" static
+local-zone: "www.covid19virusupdates.news" static
 local-zone: "www.covid-19virusupdates.winall.net" static
 local-zone: "www.covid19virusupplies.com" static
 local-zone: "www.covid19.vitaminax.ro" static
@@ -70898,6 +70918,7 @@ local-zone: "www.masks-corona-virus.com" static
 local-zone: "www.masksforcovid19.store" static
 local-zone: "www.maskthecovid19.com" static
 local-zone: "www.masque-covid-19.fr" static
+local-zone: "www.masque-de-protection-coronavirus.fr" static
 local-zone: "www.masques-coronavirus.brussels" static
 local-zone: "www.masquescovid19.com" static
 local-zone: "www.masques-protection-coronavirus.com" static
