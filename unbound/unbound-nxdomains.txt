@@ -4534,6 +4534,7 @@ local-zone: "confinementcoronavirus.fr" static
 local-zone: "confinement-coronavirus.net" static
 local-zone: "confinement-coronavirus.org" static
 local-zone: "confinement-coronavirus.site" static
+local-zone: "confirmation.documentation.covid19.members-only.online" static
 local-zone: "confirmedcovid19.com" static
 local-zone: "confirmedcovid.com" static
 local-zone: "confrontcorona.com" static
@@ -14170,6 +14171,7 @@ local-zone: "coronavirusalumninetwork.com" static
 local-zone: "coronavirusal.zoekenvind.be" static
 local-zone: "coronavirusamalficoast.com" static
 local-zone: "coronavirus-amazon-report.com" static
+local-zone: "coronavirus.ambiguityarea.com" static
 local-zone: "coronavirusambulance.com" static
 local-zone: "coronavirus-ameli.fr" static
 local-zone: "coronavirusamendment.com" static
@@ -25309,6 +25311,7 @@ local-zone: "covid-19answersnow.com" static
 local-zone: "covid19answersnow.com" static
 local-zone: "covid-19.ant-automation.net" static
 local-zone: "covid-19-anthologies.com" static
+local-zone: "covid19anthology.com" static
 local-zone: "covid-19.anthonydeyvis.com.ve" static
 local-zone: "covid19.anthurian.com" static
 local-zone: "covid19-antibodies.com" static
@@ -57896,6 +57899,7 @@ local-zone: "officialcoronavirustestkit.org" static
 local-zone: "officialcoronavirusts.com" static
 local-zone: "officialcoronavirustshirt.com" static
 local-zone: "officialcovid19.com" static
+local-zone: "officialcovid19merch.com" static
 local-zone: "officialcovid-19movie.com" static
 local-zone: "officialcovid19-movie.com" static
 local-zone: "officialcovid19movie.com" static
@@ -69619,6 +69623,7 @@ local-zone: "www.covid19-ameli.com" static
 local-zone: "www.covid19-ameli.info" static
 local-zone: "www.covid19analytica.com" static
 local-zone: "www.covid19-and.org" static
+local-zone: "www.covid19anthology.com" static
 local-zone: "www.covid-19antibody.com" static
 local-zone: "www.covid19antibodytesting.com" static
 local-zone: "www.covid19apparel.store" static
