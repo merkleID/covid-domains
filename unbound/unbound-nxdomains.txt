@@ -586,6 +586,7 @@ local-zone: "acu-corona.com" static
 local-zone: "acucorona.com" static
 local-zone: "acureforcovid.com" static
 local-zone: "acureforthecoronavirus.com" static
+local-zone: "adamawa-covid19.eclathealthcare.com" static
 local-zone: "adamscountycoronavirus.com" static
 local-zone: "adamscountycovid19.com" static
 local-zone: "adamscountycovid.com" static
@@ -2920,6 +2921,7 @@ local-zone: "boredbecauseofcorona.com" static
 local-zone: "boredbycorona.com" static
 local-zone: "boredcorona.com" static
 local-zone: "boredcovid.com" static
+local-zone: "borno-covid19.eclathealthcare.com" static
 local-zone: "boscovid.com" static
 local-zone: "bossiercovidrelief.com" static
 local-zone: "bostoncorona.com" static
@@ -25047,6 +25049,7 @@ local-zone: "covid19agora.com.br" static
 local-zone: "covid19agoraphobia.com" static
 local-zone: "covid19.ag.org" static
 local-zone: "covid19agp.com" static
+local-zone: "covid19.agrare.com.br" static
 local-zone: "covid19.agriagen.fr" static
 local-zone: "covid19.ahbap.org" static
 local-zone: "covid19.ahdathrif.com" static
@@ -30619,6 +30622,7 @@ local-zone: "covid19.hkdrustvo.hr" static
 local-zone: "covid19hkfund.org" static
 local-zone: "covid19.hlg.ch" static
 local-zone: "covid19.hmacademy.com" static
+local-zone: "covid19.hmlr123.com" static
 local-zone: "covid19hmm.es" static
 local-zone: "covid19.hna.ca" static
 local-zone: "covid19hn.com" static
@@ -30934,6 +30938,7 @@ local-zone: "covid19icome.com" static
 local-zone: "covid19.iconstrategiesbpo.com" static
 local-zone: "covid19.icpa.org" static
 local-zone: "covid-19icsupdate.noez.me" static
+local-zone: "covid19-ict.com" static
 local-zone: "covid19.ictforlife.org" static
 local-zone: "covid-19.ictrad.io" static
 local-zone: "covid19-icu.com" static
@@ -31864,6 +31869,7 @@ local-zone: "covid19kit.quang.ca" static
 local-zone: "covid-19-kits.com" static
 local-zone: "covid19-kits.com" static
 local-zone: "covid19kitsonline.com" static
+local-zone: "covid19kits.org" static
 local-zone: "covid19kits.store" static
 local-zone: "covid-19kit.store" static
 local-zone: "covid19kitz.com" static
@@ -34667,6 +34673,7 @@ local-zone: "covid19plus.com" static
 local-zone: "covid19.plusnet.in" static
 local-zone: "covid19.plustravel.com.uy" static
 local-zone: "covid-19.plyk.io" static
+local-zone: "covid19.pmf.sc.gov.br" static
 local-zone: "covid-19pmoinabox.com" static
 local-zone: "covid19pmoinabox.com" static
 local-zone: "covid19.pmr.vn" static
@@ -53380,6 +53387,7 @@ local-zone: "iscoronaover.net" static
 local-zone: "iscoronaoveryet.com" static
 local-zone: "iscoronavirusahoax.com" static
 local-zone: "iscoronavirusathbs.com" static
+local-zone: "iscoronavirus.com" static
 local-zone: "iscoronaviruscrisisover.com" static
 local-zone: "iscoronaviruscured.com" static
 local-zone: "iscoronaviruscuredyet.com" static
@@ -53911,6 +53919,7 @@ local-zone: "kartacoronavirus.ru" static
 local-zone: "karunafightscorona.com" static
 local-zone: "karunafightscorona.net" static
 local-zone: "karunanotcorona.com" static
+local-zone: "katsina-covid19.eclathealthcare.com" static
 local-zone: "kauaicoronamusicvideos.com" static
 local-zone: "kauaicoronaupdate.com" static
 local-zone: "kaustcoronavirustaskforcehelp.zendesk.com" static
@@ -64138,6 +64147,7 @@ local-zone: "tapcorona.com" static
 local-zone: "tapin-covid.com" static
 local-zone: "taps.covid19.et" static
 local-zone: "taptapcorona.com" static
+local-zone: "taraba-covid19.eclathealthcare.com" static
 local-zone: "targetccoronavirus.com" static
 local-zone: "targetcorona.com" static
 local-zone: "targetcoronatest.com" static
