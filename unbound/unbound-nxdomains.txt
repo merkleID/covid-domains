@@ -1639,6 +1639,7 @@ local-zone: "api.covid19.lunarwings.dev" static
 local-zone: "api.covid19map.nz" static
 local-zone: "api.covid19mx.acsyt.com" static
 local-zone: "api.covid19.namduastudio.com" static
+local-zone: "api-covid-19.narino.gov.co" static
 local-zone: "api.covid19petpro.com" static
 local-zone: "api.covid19.prixa.ai" static
 local-zone: "api-covid19.prod.8layertech.io" static
@@ -38291,6 +38292,7 @@ local-zone: "covid19threat.com" static
 local-zone: "covid-19-threat-list.domaintools.com" static
 local-zone: "covid19thrivers.com" static
 local-zone: "covid-19throatswab.com" static
+local-zone: "covid-19-th.sixpacksumo.com" static
 local-zone: "covid19th.tondev.com" static
 local-zone: "covid19thuiskit.nl" static
 local-zone: "covid19.thunlp.org" static
@@ -57368,6 +57370,7 @@ local-zone: "nonprod.covid19.thermofisher.com" static
 local-zone: "nonprofitcovid19.com" static
 local-zone: "nonprofitcovid19.org" static
 local-zone: "nonprofittoiletrollforcoronatime.com" static
+local-zone: "noorahealthcovid19.org" static
 local-zone: "nopandemics.com" static
 local-zone: "nopanicpandemic.com" static
 local-zone: "noquierocorona.com" static
@@ -71136,6 +71139,7 @@ local-zone: "www.novelcoronavirusvaccine.com" static
 local-zone: "www.novocoronavirus.online" static
 local-zone: "www.npcovid19.org" static
 local-zone: "www.nr3petitieonline-covid19byfacebook.ga" static
+local-zone: "www.nrpetitieonline1-covid19byfacebook.ga" static
 local-zone: "www.nscoronavirusmap.com" static
 local-zone: "wwwnuveencovid19.com" static
 local-zone: "wwwnuveencovid19.net" static
