@@ -4341,6 +4341,7 @@ local-zone: "colloidalsilvercoronavirus.com" static
 local-zone: "colocorona.com" static
 local-zone: "colombiacoronavirus.com" static
 local-zone: "colombiacovid19.com" static
+local-zone: "colombia.respuestacovid19.com" static
 local-zone: "colombiavscovid19.com" static
 local-zone: "colombiavscovid19.org" static
 local-zone: "colonycovid.com" static
@@ -25532,6 +25533,7 @@ local-zone: "covid19.askgif.com" static
 local-zone: "covid19-askhr.com" static
 local-zone: "covid19.askphl.com" static
 local-zone: "covid19askthedoctor.com" static
+local-zone: "covid19.asma-rinitis.sepeap.com" static
 local-zone: "covid-19.asociacionusuariossanitas.com" static
 local-zone: "covid19.asociatiacivica.ro" static
 local-zone: "covid19asone.com" static
@@ -26196,6 +26198,7 @@ local-zone: "covid19brampton.com" static
 local-zone: "covid19brand.com" static
 local-zone: "covid19.brandmo.in" static
 local-zone: "covid19brandnavigator.com" static
+local-zone: "covid-19-brands.smartnews360.com" static
 local-zone: "covid19br.app" static
 local-zone: "covid-19brasil.com" static
 local-zone: "covid19-brasil.com" static
@@ -32827,6 +32830,7 @@ local-zone: "covid19.mayamd.ai" static
 local-zone: "covid19.mayerbrown.com" static
 local-zone: "covid19mayhem.com" static
 local-zone: "covid19.mbaileygroup.com" static
+local-zone: "covid19.mbp-japan.com" static
 local-zone: "covid19.mbsmedia.store" static
 local-zone: "covid19.mb-umfragen.de" static
 local-zone: "covid19mcadebt.com" static
@@ -37846,6 +37850,7 @@ local-zone: "covid19terminators.com" static
 local-zone: "covid-19.terraformcorp.com" static
 local-zone: "covid19.tessianmedical.com" static
 local-zone: "covid19test4u.com" static
+local-zone: "covid-19.test.ada.com" static
 local-zone: "covid-19-test-alert.com" static
 local-zone: "covid19-test-alert.com" static
 local-zone: "covid19testandcure.com" static
@@ -56717,6 +56722,7 @@ local-zone: "n95mask-covid.com" static
 local-zone: "n95maskforcovid19.com" static
 local-zone: "n95masksalecoronavirus.com" static
 local-zone: "n95masksaleforcoronavirus.com" static
+local-zone: "n95maskscovid19.org" static
 local-zone: "n95masksforcoronavirus.com" static
 local-zone: "n95-prevent-epidemics.com" static
 local-zone: "n95salecoronavirus.com" static
@@ -57574,6 +57580,12 @@ local-zone: "nr7petitieonline-covid19byfacebook.ga" static
 local-zone: "nr8petitieonline-covid19byfacebook.ga" static
 local-zone: "nracoronavirus.net.au" static
 local-zone: "nricoronahelp.com" static
+local-zone: "nrpetitieonline3-covid19byfacebook.ga" static
+local-zone: "nrpetitieonline4-covid19byfacebook.ga" static
+local-zone: "nrpetitieonline5-covid19byfacebook.ga" static
+local-zone: "nrpetitieonline6-covid19byfacebook.ga" static
+local-zone: "nrpetitieonline7-covid19byfacebook.ga" static
+local-zone: "nrpetitieonline9-covid19byfacebook.ga" static
 local-zone: "ns11.covid-19.cafe" static
 local-zone: "ns1.covid-19.cafe" static
 local-zone: "ns9.covid-19.cafe" static
@@ -71076,6 +71088,7 @@ local-zone: "www.n95coronavirusmaskuk.com" static
 local-zone: "www.n95coronavirusmaskus.com" static
 local-zone: "www.n95covid19masks.com" static
 local-zone: "www.n95maskforcovid19.com" static
+local-zone: "www.n95maskscovid19.org" static
 local-zone: "www.nancovid19.ca" static
 local-zone: "www.naturalcoronaviruscure.com" static
 local-zone: "www.naturalcoronavirusprevention.com" static
