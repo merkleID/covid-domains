@@ -926,6 +926,7 @@ local-zone: "alcovid19.magicandwires.com" static
 local-zone: "alcovid.com" static
 local-zone: "alcovid.net" static
 local-zone: "aldburycovid19.support" static
+local-zone: "aldi.covid19relief.live" static
 local-zone: "alertacorona.com" static
 local-zone: "alerta-coronavirus.com" static
 local-zone: "alertacoronavirus.info" static
@@ -25368,6 +25369,7 @@ local-zone: "covid19api.org" static
 local-zone: "covid19api.papergo.io" static
 local-zone: "covid19.apiplatform.io" static
 local-zone: "covid19api.plexusmd.com" static
+local-zone: "covid19-api.sebastienvezina.com" static
 local-zone: "covid19-api.unm4sk.me" static
 local-zone: "covid19-api.weedmark.systems" static
 local-zone: "covid19api.xapix.io" static
@@ -37848,6 +37850,7 @@ local-zone: "covid-19testhub.com" static
 local-zone: "covid19testhub.com" static
 local-zone: "covid19test.hykenow.com.ng" static
 local-zone: "covid19testi.com" static
+local-zone: "covid19test.icu" static
 local-zone: "covid19-test.id" static
 local-zone: "covid-19testil.com" static
 local-zone: "covid-19testimonials.com" static
@@ -38379,6 +38382,7 @@ local-zone: "covid19-tracker.de" static
 local-zone: "covid19tracker.gq" static
 local-zone: "covid-19tracker.in" static
 local-zone: "covid19tracker.in" static
+local-zone: "covid19tracker.india.jpp.org.in" static
 local-zone: "covid19-tracker.info" static
 local-zone: "covid19tracker.interesante.com" static
 local-zone: "covid19tracker.io" static
@@ -70325,6 +70329,7 @@ local-zone: "www.covid-19supplydonation.com" static
 local-zone: "www.covid19supplydonation.com" static
 local-zone: "www.covid-19supply.net" static
 local-zone: "www.covid-19supply.org" static
+local-zone: "www.covid19supportafrica.org" static
 local-zone: "www.covid19-support.org" static
 local-zone: "www.covid-19.surau.asia" static
 local-zone: "www.covid19surveyaz.com" static
