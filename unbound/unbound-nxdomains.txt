@@ -1635,6 +1635,7 @@ local-zone: "api.covid19.lampungprov.go.id" static
 local-zone: "api.covid19live.kz" static
 local-zone: "api-covid19.lulaloop.co.za" static
 local-zone: "api.covid19.lunarwings.dev" static
+local-zone: "api.covid19map.nz" static
 local-zone: "api.covid19mx.acsyt.com" static
 local-zone: "api.covid19.namduastudio.com" static
 local-zone: "api.covid19petpro.com" static
@@ -2577,6 +2578,7 @@ local-zone: "belgiumcoronavirus.com" static
 local-zone: "belgiumresistance-covid19.com" static
 local-zone: "bell-covid19.com" static
 local-zone: "bellcovid-19.com" static
+local-zone: "bellcovid19.com" static
 local-zone: "belleviewcovid19.com" static
 local-zone: "bellevuecoronaviruscleaning.com" static
 local-zone: "bellevuecoronavirusdecontamination.com" static
@@ -30464,6 +30466,7 @@ local-zone: "covid19-help.net" static
 local-zone: "covid-19helpnetwork.com" static
 local-zone: "covid-19helpnow.com" static
 local-zone: "covid19helpnow.com" static
+local-zone: "covid19helpnow.org" static
 local-zone: "covid19help.nyc" static
 local-zone: "covid19helpnyc.com" static
 local-zone: "covid19helpny.com" static
@@ -35259,6 +35262,7 @@ local-zone: "covid19realtalk.com" static
 local-zone: "covid-19-realtime.com" static
 local-zone: "covid19-realtime.com" static
 local-zone: "covid19realtime.info" static
+local-zone: "covid19realtime.org" static
 local-zone: "covid-19realtor.com" static
 local-zone: "covid19realtor.com" static
 local-zone: "covid19realtorhelp.com" static
@@ -49689,6 +49693,7 @@ local-zone: "ficccovid.net" static
 local-zone: "fidcovidtesting.com" static
 local-zone: "fieldguidetocoronavirus.com" static
 local-zone: "fieldnotesfromthepandemic.com" static
+local-zone: "fiestafightscovid19.org" static
 local-zone: "fifa-covid19.be" static
 local-zone: "fifa-covid19.com" static
 local-zone: "fifacovid19.com" static
@@ -50561,6 +50566,7 @@ local-zone: "galiciaxuntacovid19.gal" static
 local-zone: "galvestoncovid19.com" static
 local-zone: "gamblingcoronavirusadministration.com.au" static
 local-zone: "gamblingcoronavirusbankruptcy.com.au" static
+local-zone: "gamblingcoronavirusliquidation.com.au" static
 local-zone: "gam-covid19.org" static
 local-zone: "gamecoronavirus.com" static
 local-zone: "gamecovid.com" static
@@ -51317,7 +51323,10 @@ local-zone: "gwcfcovid19fund.net" static
 local-zone: "gwcovid19testing.com" static
 local-zone: "gwcovid19testing.net" static
 local-zone: "gwhhcovid-19.in" static
+local-zone: "gymcoronavirusadministration.com.au" static
+local-zone: "gymcoronavirus.com.au" static
 local-zone: "gymcovid19.com" static
+local-zone: "gymcovid-19.com.au" static
 local-zone: "habe-ich-corona.com" static
 local-zone: "habeichcorona.com" static
 local-zone: "habe-ich-coronavirus.de" static
@@ -69608,6 +69617,7 @@ local-zone: "www.covid19.cheap.frog16.com" static
 local-zone: "www.covid19check.net" static
 local-zone: "www.covid19check.ru" static
 local-zone: "www.covid19childhooddiabetes.com" static
+local-zone: "www.covid19chi.org" static
 local-zone: "www.covid19chl.org" static
 local-zone: "www.covid19chronicles.net" static
 local-zone: "www.covid19church.com.au" static
