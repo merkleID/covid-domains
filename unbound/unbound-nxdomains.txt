@@ -39561,6 +39561,7 @@ local-zone: "covid19wa.com" static
 local-zone: "covid19.wadhwaniai.org" static
 local-zone: "covid19wageclaims.com" static
 local-zone: "covid19wagessupport.com" static
+local-zone: "covid19.waikatoindependent.co.nz" static
 local-zone: "covid19waiversearch.pa.gov" static
 local-zone: "covid19wakeup.site" static
 local-zone: "covid19wales.com" static
@@ -48296,6 +48297,7 @@ local-zone: "donatetofightcoronavirus.com" static
 local-zone: "donate.yakimavscovid19.org" static
 local-zone: "donateyourcoronabucks.com" static
 local-zone: "donationcoronavirus.com" static
+local-zone: "donation-covid19.com" static
 local-zone: "donationcovid19.com" static
 local-zone: "donationforcovid19.com" static
 local-zone: "donationscovid19.net" static
@@ -57998,6 +58000,7 @@ local-zone: "officialcoronavirus19.com" static
 local-zone: "officialcoronavirus.com" static
 local-zone: "officialcoronaviruses.com" static
 local-zone: "officialcoronavirusinfo.com" static
+local-zone: "officialcoronavirusmerch.com" static
 local-zone: "officialcoronavirusmovie.com" static
 local-zone: "officialcoronavirusnews.com" static
 local-zone: "officialcoronavirusquicktest.com" static
@@ -67868,6 +67871,7 @@ local-zone: "wefightcoronavirus.org" static
 local-zone: "wefightcoronavirus-uae.com" static
 local-zone: "wefightcovid19.com" static
 local-zone: "wefightcovid19.online" static
+local-zone: "wefightcovid-19.org" static
 local-zone: "wefightcovid.com" static
 local-zone: "wefinishcorona.com" static
 local-zone: "wehadcorona.com" static
@@ -71368,6 +71372,7 @@ local-zone: "www.odin-covid19.com" static
 local-zone: "www.ofertascoronavirus.com" static
 local-zone: "www.offcovid19.com" static
 local-zone: "www.offertacovid19.cookiesrl.it" static
+local-zone: "www.officialcoronavirusmerch.com" static
 local-zone: "www.officialcovid19testkit.com" static
 local-zone: "www.oldschool.runescape-covid-19.info" static
 local-zone: "www.oneagainstcovid19.ph" static
@@ -71787,6 +71792,7 @@ local-zone: "www.xn--covid19-mdicaments-jwb.com" static
 local-zone: "www.xn--covid-19opplring-5ob.com" static
 local-zone: "www.xn--covid-19opplring-5ob.no" static
 local-zone: "www.xn--covid-19-test-zrich-kbc.ch" static
+local-zone: "www.xn--vruscovid-19-sfb.pt" static
 local-zone: "www.yakimavscovid19.org" static
 local-zone: "www.yoko-covid19.com" static
 local-zone: "www.yourcoronavirushandbook.com" static
