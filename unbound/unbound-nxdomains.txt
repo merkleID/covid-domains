@@ -2172,6 +2172,7 @@ local-zone: "aviruscorona.com" static
 local-zone: "aviscorona.com" static
 local-zone: "avislovescovid.com" static
 local-zone: "avocat-coronavirus.com" static
+local-zone: "avocat-coronavirus.net" static
 local-zone: "avocat-covid19.com" static
 local-zone: "avocat-covid19.net" static
 local-zone: "avocatcovid.com" static
@@ -14165,6 +14166,7 @@ local-zone: "coronavirusalerta.com" static
 local-zone: "coronavirusalertapp.com" static
 local-zone: "coronavirusalert.com" static
 local-zone: "coronavirusalerter.com" static
+local-zone: "coronavirus-alert.fr" static
 local-zone: "coronavirusalert.fr" static
 local-zone: "coronavirus-alert-has.com" static
 local-zone: "coronavirusalert.live" static
@@ -29302,6 +29304,7 @@ local-zone: "covid-19.exposure-systems.com" static
 local-zone: "covid19exposuretracker.com" static
 local-zone: "covid19express.com" static
 local-zone: "covid19.expressgrafica.com" static
+local-zone: "covid19.exterdata.com" static
 local-zone: "covid19exterminate.com" static
 local-zone: "covid19extermination.com" static
 local-zone: "covid19exterminator.com" static
@@ -33580,6 +33583,7 @@ local-zone: "covid19-my-app.now.sh" static
 local-zone: "covid19my.com" static
 local-zone: "covid19.mycwhg.com" static
 local-zone: "covid19.mydata.org" static
+local-zone: "covid19.myekiti.com" static
 local-zone: "covid19.myfbf.com" static
 local-zone: "covid19.mygenetics.ru" static
 local-zone: "covid19.myhealthwatcher.es" static
@@ -36068,6 +36072,7 @@ local-zone: "covid19.rsudlandak.id" static
 local-zone: "covid-19.rsudsawahbesar.com" static
 local-zone: "covid19.rsupwahidin.com" static
 local-zone: "covid19.rs.vavok.net" static
+local-zone: "covid19.rtbst.com" static
 local-zone: "covid19.rtc.be" static
 local-zone: "covid19rt.com" static
 local-zone: "covid19.rtfm.si" static
@@ -58395,6 +58400,7 @@ local-zone: "ormincovid19.com" static
 local-zone: "orthopediccorona.com" static
 local-zone: "orthopediccoronavirus.com" static
 local-zone: "orthopediccovid19.com" static
+local-zone: "os-covid19-465829.us-east.containers.appdomain.cloud" static
 local-zone: "oscovid19.datapar.com.py" static
 local-zone: "osea-coronavirus.org" static
 local-zone: "osgoodeproperties-covid19.com" static
@@ -62169,6 +62175,7 @@ local-zone: "sars-cov-2.me" static
 local-zone: "sars-cov-2.name" static
 local-zone: "sars-cov-2.news" static
 local-zone: "sars-cov-2-news.com" static
+local-zone: "sars-cov-2.nickmcleod.net" static
 local-zone: "sars-cov-2.nihon.link" static
 local-zone: "sars-cov-2-pandemic.com" static
 local-zone: "sarscov2-pandemic.com" static
@@ -63535,6 +63542,7 @@ local-zone: "stopcoronaviruskit.com" static
 local-zone: "stopcoronavirus.kz" static
 local-zone: "stopcoronavirus.life" static
 local-zone: "stopcoronavirusmadrid.com" static
+local-zone: "stop-coronavirus.moscow" static
 local-zone: "stop-coronavirus.net" static
 local-zone: "stopcoronavirus.network" static
 local-zone: "stopcoronavirus.nl" static
@@ -71047,6 +71055,7 @@ local-zone: "www.excelsoinscoronavirus.com" static
 local-zone: "www.eyecovid-19.com" static
 local-zone: "www.face-mask-for-coronavirus.online" static
 local-zone: "www.facemasks4coronavirus.com" static
+local-zone: "www.facemaskscoronaviruss.com" static
 local-zone: "www.facemaskscovid19.org" static
 local-zone: "www.facemasksforcoronaviruss.com" static
 local-zone: "www.fackcoronavirus.com" static
@@ -71339,6 +71348,7 @@ local-zone: "www.maskforcoronaviruss.com" static
 local-zone: "www.maskn95coronavirus.com" static
 local-zone: "www.maskprotectcoronavirus.com" static
 local-zone: "www.masks-corona-virus.com" static
+local-zone: "www.maskscoronavirusforsale.com" static
 local-zone: "www.masksforcoronavirussale.com" static
 local-zone: "www.masksforcoronaviruss.com" static
 local-zone: "www.masksforcovid19.store" static
