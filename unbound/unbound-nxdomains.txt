@@ -36301,6 +36301,7 @@ local-zone: "covid-19.sa.gov.au" static
 local-zone: "covid19.sahaedu.com" static
 local-zone: "covid19.sahajah.com" static
 local-zone: "covid19.sahealthdata.co.za" static
+local-zone: "covid19.sahidjwalk.com" static
 local-zone: "covid19.sahlhealth.com" static
 local-zone: "covid19-saitama-seibu-home-project.com" static
 local-zone: "covid19salesacademy.com" static
@@ -48094,6 +48095,7 @@ local-zone: "dgddi-covid19.fr" static
 local-zone: "dgmhup-covid19.in" static
 local-zone: "dgxcovid-19.com" static
 local-zone: "dgxcovid19.com" static
+local-zone: "dhcdcovid19.com" static
 local-zone: "dhis-covid19.fhi360.org" static
 local-zone: "dhis-covid19.icap.baosystems.com" static
 local-zone: "diabatescovid-19.com" static
@@ -63541,6 +63543,7 @@ local-zone: "stemcelltreatmentcorona.com" static
 local-zone: "stemcelltreatmentcovid19.com" static
 local-zone: "stemcelltreatmentforcorona.com" static
 local-zone: "stemcelltreatmentforcovid19.com" static
+local-zone: "stemcovid19.com" static
 local-zone: "stemvcovid19.com" static
 local-zone: "sterilizecovid19.com" static
 local-zone: "sterilizingcovid19.com" static
@@ -71503,6 +71506,7 @@ local-zone: "www.ministry.kogicovid19.com.ng" static
 local-zone: "www.mncovid19test.co" static
 local-zone: "www.mobilecovid-19testing.com" static
 local-zone: "www.mobilecovid19testing.com" static
+local-zone: "www.modcovid19.ricardomsrosa.org" static
 local-zone: "www.molitvacoronavirus.com" static
 local-zone: "www.moondancecovid19relieffund.com" static
 local-zone: "www.moscoronavirus.ru" static
