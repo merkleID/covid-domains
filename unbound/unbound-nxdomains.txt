@@ -2958,6 +2958,7 @@ local-zone: "boussignac-covid19.com" static
 local-zone: "boutique-coronavirus.fr" static
 local-zone: "boutique-covid19.com" static
 local-zone: "boycoronavirus.com" static
+local-zone: "bpcovid19chatbot.bpglobal.com" static
 local-zone: "braccialicorona.com" static
 local-zone: "bradfordcovid19.com" static
 local-zone: "brake-coronavirus.com" static
@@ -3791,6 +3792,7 @@ local-zone: "chartcovid.com" static
 local-zone: "chartingcovid.com" static
 local-zone: "chase7-covid.com" static
 local-zone: "chasecorona.com" static
+local-zone: "chasecovid19.com" static
 local-zone: "chase-covid19s.com" static
 local-zone: "chasecovid19s.com" static
 local-zone: "chasecovid19t.com" static
@@ -18796,6 +18798,7 @@ local-zone: "coronavirus-kazakhstan.online" static
 local-zone: "coronaviruskazakhstan.online" static
 local-zone: "coronavirus-kazakhstan.ru" static
 local-zone: "coronavirus-kazan.ru" static
+local-zone: "coronaviruskazan.ru" static
 local-zone: "coronaviruskd.com" static
 local-zone: "coronaviruskefalonia.com" static
 local-zone: "coronaviruskennysmith.com" static
@@ -35926,6 +35929,7 @@ local-zone: "covid19response.rootd.io" static
 local-zone: "covid19response.s29.me" static
 local-zone: "covid19response.salisburybank.info" static
 local-zone: "covid-19-responses-climate.solutions" static
+local-zone: "covid19responsesupport.org" static
 local-zone: "covid19response.team" static
 local-zone: "covid-19responseteam.com" static
 local-zone: "covid19responseteam.com" static
@@ -47673,6 +47677,7 @@ local-zone: "deconcorona.com" static
 local-zone: "deconcovid19.com" static
 local-zone: "deconcovid19miami.com" static
 local-zone: "deconcovid.com" static
+local-zone: "decontacovid19.fr" static
 local-zone: "decontaminatecoronavirus.com" static
 local-zone: "decontaminatecovid-19.com" static
 local-zone: "decontaminatecovid19.com" static
@@ -62868,6 +62873,7 @@ local-zone: "simcovid19.com" static
 local-zone: "simcovid19.org" static
 local-zone: "simcovid.com" static
 local-zone: "simcovid.net" static
+local-zone: "simlogcovid19.id" static
 local-zone: "simonassocies-covid19.com" static
 local-zone: "simplecoronatest.com" static
 local-zone: "simplecoronavirus.com" static
