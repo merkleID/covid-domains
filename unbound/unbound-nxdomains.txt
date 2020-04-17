@@ -750,6 +750,7 @@ local-zone: "after-covid19.com" static
 local-zone: "aftercovid-19.com" static
 local-zone: "aftercovid19.com" static
 local-zone: "aftercovid19.co.za" static
+local-zone: "aftercovid-19.ec-cube.shop" static
 local-zone: "aftercovid19healthcare.com" static
 local-zone: "aftercovid19healthclaims.com" static
 local-zone: "aftercovid19health.com" static
@@ -2872,6 +2873,7 @@ local-zone: "blogcovid-19.com" static
 local-zone: "blog.covid19funding.ca" static
 local-zone: "blog.covid19live.ca" static
 local-zone: "blog.covid19loans.org" static
+local-zone: "blog.crowdfightcovid19.org" static
 local-zone: "blog.endcoronavirus.org" static
 local-zone: "blogfeedbackcoronavirus.com" static
 local-zone: "bloggingthetimeofcorona.com" static
@@ -39167,6 +39169,7 @@ local-zone: "covid19-updates.cf" static
 local-zone: "covid-19-updates.com" static
 local-zone: "covid19-updates.com" static
 local-zone: "covid19updates.com" static
+local-zone: "covid19updates.co.zw" static
 local-zone: "covid19-updates.cvm4.com" static
 local-zone: "covid19updates.ga" static
 local-zone: "covid-19-update.sherwin-williams.com" static
@@ -61122,6 +61125,7 @@ local-zone: "proformula-coronavirus-hu.com" static
 local-zone: "proformula-coronavirus-it.com" static
 local-zone: "proformula-coronavirus-nl.com" static
 local-zone: "prognose-corona.com" static
+local-zone: "programa-para-detectar-coronavirus.manuelestebanes.repl.run" static
 local-zone: "proionta-prostasias-covid19.hospitalmarket.gr" static
 local-zone: "projectbaselinecovid19.com" static
 local-zone: "projectcorona.com" static
@@ -62229,6 +62233,7 @@ local-zone: "sanantoniocovid.com" static
 local-zone: "sanarcoronavirus.com" static
 local-zone: "sancionescoronavirus.es" static
 local-zone: "sancionescovid19.es" static
+local-zone: "sandbox.covid-19-infobot.org" static
 local-zone: "sandiegocoronaclaims.com" static
 local-zone: "sandiegocoronavirus.com" static
 local-zone: "sandiegocovid19.com" static
@@ -63411,6 +63416,7 @@ local-zone: "staging.covid19api.com" static
 local-zone: "staging.covid-19.beecan.org" static
 local-zone: "staging.covid19dataproject.org" static
 local-zone: "staging.covid-19.dnastack.com" static
+local-zone: "staging.covid-19-infobot.org" static
 local-zone: "staging.covid19kerala.info" static
 local-zone: "staging.covid19mm.thibi.co" static
 local-zone: "staging.covid19py.com" static
@@ -66611,6 +66617,7 @@ local-zone: "travelinthetimesofcorona.com" static
 local-zone: "travelupdatebancovid19.pages.ontraport.net" static
 local-zone: "traviscountycovid19.com" static
 local-zone: "trcorona.com" static
+local-zone: "trcoronavirus.com" static
 local-zone: "trcovid19.com" static
 local-zone: "treat-corona.com" static
 local-zone: "treatcoronanow.com" static
@@ -69220,6 +69227,7 @@ local-zone: "www.bilancoronavirus.fr" static
 local-zone: "www.bingcovid-19tracker.live" static
 local-zone: "www.biorhin-covid19.fr" static
 local-zone: "www.blackhawkcovid19.com" static
+local-zone: "www.blog.crowdfightcovid19.org" static
 local-zone: "www.blogoltreilcoronavirus.com" static
 local-zone: "www.borba-coronavirusom.ru" static
 local-zone: "www.boutique-coronavirus.fr" static
