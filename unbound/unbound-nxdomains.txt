@@ -614,6 +614,7 @@ local-zone: "admincovid19.kotabogor.go.id" static
 local-zone: "admin.covid19.moh.gov.et" static
 local-zone: "admin.covid19petpro.com" static
 local-zone: "admin.covid19pollachi.xyz" static
+local-zone: "admin.covid19rajkot.com" static
 local-zone: "admin.covid19.rnbo.gov.ua" static
 local-zone: "admin.covid19sd.info" static
 local-zone: "admin-covid19.tremend.ro" static
@@ -16277,6 +16278,7 @@ local-zone: "coronavirusdating.com" static
 local-zone: "coronavirusdatings.com" static
 local-zone: "coronavirusdatos.com" static
 local-zone: "coronavirus.davidlinden.scot" static
+local-zone: "coronavirus-day.ru" static
 local-zone: "coronavirusdays.com" static
 local-zone: "coronavirus-db.com" static
 local-zone: "coronavirusdb.com" static
@@ -32755,6 +32757,7 @@ local-zone: "covid19makervlc.zendesk.com" static
 local-zone: "covid19.makinkeren.id" static
 local-zone: "covid19.makkah-now.com" static
 local-zone: "covid19.m-akses.com" static
+local-zone: "covid19.maktay.com.ng" static
 local-zone: "covid19malang.com" static
 local-zone: "covid19mali.com" static
 local-zone: "covid19.malili-tekno.com" static
@@ -33264,6 +33267,7 @@ local-zone: "covid19meteo.com" static
 local-zone: "covid19meter.in" static
 local-zone: "covid19meter.info" static
 local-zone: "covid19meter.live" static
+local-zone: "covid19meter.online" static
 local-zone: "covid19meters.com" static
 local-zone: "covid-19methodisthospital.com" static
 local-zone: "covid19.meticuly.com" static
@@ -54724,6 +54728,7 @@ local-zone: "leipziggegencorona.com" static
 local-zone: "lekinacovid19.pl" static
 local-zone: "leknacoronavirus.cz" static
 local-zone: "leknacovid19.pl" static
+local-zone: "lemascherinecoronavirus.it" static
 local-zone: "lembatalawancovid19.com" static
 local-zone: "lendingforcovid19.com" static
 local-zone: "leominster-covid19.com" static
@@ -64469,6 +64474,7 @@ local-zone: "teigncovid19.co.uk" static
 local-zone: "tejascovido.com" static
 local-zone: "telacoronavirus.com" static
 local-zone: "telan-covid19.id" static
+local-zone: "telanganacovid19.in" static
 local-zone: "telcorona.com" static
 local-zone: "telecharger-test-covid-19.crestos.info" static
 local-zone: "telecoachcoronavirus.com" static
