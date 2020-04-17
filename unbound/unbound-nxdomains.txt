@@ -18694,6 +18694,7 @@ local-zone: "coronavirusitems.com" static
 local-zone: "coronavirusit.net" static
 local-zone: "coronavirus.itstart.ro" static
 local-zone: "coronavirusiv.com" static
+local-zone: "coronavirus.ivecofi.org" static
 local-zone: "coronavirusivyleague.com" static
 local-zone: "coronavirus-iwatch-alert.com" static
 local-zone: "coronavirusjaar.nl" static
@@ -25518,6 +25519,7 @@ local-zone: "covid-19apps.com" static
 local-zone: "covid19app.se" static
 local-zone: "covid-19-app-service-env.appserviceenvironment.net" static
 local-zone: "covid19.appsquest.org" static
+local-zone: "covid-19-app.telekom-healthcare.com" static
 local-zone: "covid19app.uniurb.it" static
 local-zone: "covid19app.xyz" static
 local-zone: "covid19apres.com" static
@@ -30964,6 +30966,7 @@ local-zone: "covid19hysteria.com" static
 local-zone: "covid19.i2.com.tr" static
 local-zone: "covid19ia.com" static
 local-zone: "covid19.iainsasbabel.ac.id" static
+local-zone: "covid19.iaissoreang.com" static
 local-zone: "covid19ians.com" static
 local-zone: "covid19.iaom.hu" static
 local-zone: "covid19.iapps365.com" static
@@ -33299,6 +33302,7 @@ local-zone: "covid19.mindroom.com.br" static
 local-zone: "covid19-mindset.com" static
 local-zone: "covid19mindset.com" static
 local-zone: "covid19.mindstronghealth.com" static
+local-zone: "covid19.ministryxr.net" static
 local-zone: "covid19.minnal.dk" static
 local-zone: "covid-19minnesota.com" static
 local-zone: "covid19minnesota.com" static
@@ -39301,6 +39305,7 @@ local-zone: "covid19.venturafamilymed.org" static
 local-zone: "covid-19.ventures" static
 local-zone: "covid19.ventures" static
 local-zone: "covid19veri.com" static
+local-zone: "covid19-verification.bruyere.org" static
 local-zone: "covid-19verified.com" static
 local-zone: "covid19-verified.com" static
 local-zone: "covid19verified.com" static
@@ -55314,6 +55319,7 @@ local-zone: "mail.coronavirussurvivalguide.com.au" static
 local-zone: "mail.coronavirusturkiye.info" static
 local-zone: "mail.coronavirusworldwide.live" static
 local-zone: "mail.coronaviruszim.org" static
+local-zone: "mail.covid19asap.com" static
 local-zone: "mail.covid-19-charts.co.za" static
 local-zone: "mail.covid19-chinacoronavirus.com" static
 local-zone: "mail.covid-19.com.ar" static
@@ -71371,6 +71377,7 @@ local-zone: "www.ncovid-19.online" static
 local-zone: "www.ncrla-covid-19.org" static
 local-zone: "www.nebraskabroadcasterscovid19resources.com" static
 local-zone: "www.nechcicovid19.cz" static
+local-zone: "www.negligenciascovid19.com" static
 local-zone: "www.newchinaflushing.com" static
 local-zone: "www.newcoronavirus2019.info" static
 local-zone: "www.newcoronavirus.co" static
