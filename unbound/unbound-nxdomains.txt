@@ -1605,6 +1605,7 @@ local-zone: "api.coronavirusstop.org" static
 local-zone: "api.coronavirus.syntac.co" static
 local-zone: "api.coronavirus.visualdatahq.com" static
 local-zone: "api.countingcovid19.com" static
+local-zone: "api.covid19access.com" static
 local-zone: "apicovid19.aditnanda.com" static
 local-zone: "api.covid19.aida.app" static
 local-zone: "api.covid-19-analytics.se" static
@@ -15294,6 +15295,7 @@ local-zone: "coronaviruschinocovid19.redfoxenglishman.com" static
 local-zone: "coronavirus.chip2423.com" static
 local-zone: "coronaviruschloroquine.com" static
 local-zone: "coronaviruschoral.com" static
+local-zone: "coronavirus.chosennews.net" static
 local-zone: "coronaviruschronicals.com" static
 local-zone: "coronaviruschronicle.com" static
 local-zone: "coronaviruschroniclesarchive.com" static
@@ -16402,6 +16404,7 @@ local-zone: "coronavirusdenver.com" static
 local-zone: "coronavirusdepistage.com" static
 local-zone: "coronavirus-deplacement.fr" static
 local-zone: "coronavirusdepression.com" static
+local-zone: "coronavirusdepression.com.au" static
 local-zone: "coronavirusderby.com" static
 local-zone: "coronavirus-derfilm.com" static
 local-zone: "coronavirus.descontoenem.com.br" static
@@ -70617,6 +70620,7 @@ local-zone: "www.covid19sci.com" static
 local-zone: "www.covid19scotland.co.uk" static
 local-zone: "www.covid19scouting.org" static
 local-zone: "www.covid19script.ml" static
+local-zone: "www.covid-19selfchecker.com" static
 local-zone: "www.covid19selfreport.com" static
 local-zone: "www.covid19selfreport.live" static
 local-zone: "www.covid19selfreport.me" static
