@@ -592,6 +592,7 @@ local-zone: "adamscountycoronavirus.com" static
 local-zone: "adamscountycovid19.com" static
 local-zone: "adamscountycovid.com" static
 local-zone: "adanacoronailaclama.com" static
+local-zone: "adapt2covid19.com" static
 local-zone: "adayinthelifeofcovid-19.com" static
 local-zone: "adcoronavirus.com" static
 local-zone: "adcovid19.com" static
@@ -19606,6 +19607,7 @@ local-zone: "coronavirus-mask.world" static
 local-zone: "coronavirusmask.world" static
 local-zone: "coronavirusmaskworld.com" static
 local-zone: "coronavirusmaskz.com" static
+local-zone: "coronavirus-masque.ch" static
 local-zone: "corona-virus-masque.com" static
 local-zone: "coronavirusmasque.com" static
 local-zone: "coronavirusmasque.fr" static
@@ -24888,6 +24890,7 @@ local-zone: "covid19411.com" static
 local-zone: "covid19420.com" static
 local-zone: "covid19.428lab.net" static
 local-zone: "covid19.45segundos.com" static
+local-zone: "covid19-474500.eu-de.containers.appdomain.cloud" static
 local-zone: "covid19.4cweb.com.br" static
 local-zone: "covid19-4.deepnlp.sparkcognition.com" static
 local-zone: "covid194dummies.com" static
@@ -61455,6 +61458,7 @@ local-zone: "rapidcovid19.rymedi.com" static
 local-zone: "rapidcovid19test.aeotec.com" static
 local-zone: "rapidcovid-19test.com" static
 local-zone: "rapidcovid19test.com" static
+local-zone: "rapidcovid-19testing.com" static
 local-zone: "rapidcovid19testing.com" static
 local-zone: "rapidcovid19testkit.com" static
 local-zone: "rapidcovid19testkits.com" static
@@ -62133,6 +62137,8 @@ local-zone: "sanantoniocorona.com" static
 local-zone: "sanantoniocovid19.com" static
 local-zone: "sanantoniocovid.com" static
 local-zone: "sanarcoronavirus.com" static
+local-zone: "sancionescoronavirus.es" static
+local-zone: "sancionescovid19.es" static
 local-zone: "sandiegocoronaclaims.com" static
 local-zone: "sandiegocoronavirus.com" static
 local-zone: "sandiegocovid19.com" static
@@ -63712,6 +63718,7 @@ local-zone: "stopcovid19sog.com" static
 local-zone: "stopcovid19.solutions" static
 local-zone: "stopcovid19spread.com" static
 local-zone: "stopcovid19-stage.worx-uk.com" static
+local-zone: "stopcovid19tcg.namikaze-server.net" static
 local-zone: "stopcovid19test.com" static
 local-zone: "stopcovid19.test.yuseiito.com" static
 local-zone: "stopcovid19.today" static
@@ -69542,6 +69549,7 @@ local-zone: "www.corona-virus-mask.org" static
 local-zone: "www.coronavirusmasksale.store" static
 local-zone: "www.corona-virus-masks-sanitizers-gloves-supplies.com" static
 local-zone: "www.coronavirusmask.world" static
+local-zone: "www.coronavirus-masque.ch" static
 local-zone: "www.coronavirusmasque.com" static
 local-zone: "www.coronavirusmatch.org" static
 local-zone: "www.coronavirus-matome.website" static
@@ -70213,6 +70221,7 @@ local-zone: "www.covid-19forpresident.com" static
 local-zone: "www.covid19forum.cz" static
 local-zone: "www.covid-19forums.org" static
 local-zone: "www.covid19-frei.de" static
+local-zone: "www.covid19frisco.com" static
 local-zone: "www.covid19fronterasur.com" static
 local-zone: "www.covid19frontline.org" static
 local-zone: "www.covid19fs.org" static
@@ -71043,6 +71052,7 @@ local-zone: "www.defeatcovid19.in" static
 local-zone: "www.defeatcovid19.org" static
 local-zone: "www.definecovid19.com" static
 local-zone: "www.dental-coronavirus-protection.co.uk" static
+local-zone: "www.depistage-coronavirus.fr" static
 local-zone: "www.desechable.ayudacoronavirus.a2hosted.com" static
 local-zone: "www.designtocombatcovid19.com" static
 local-zone: "www.desinfecting-corona-virus.ca" static
