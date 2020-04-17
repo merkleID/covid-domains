@@ -25471,6 +25471,7 @@ local-zone: "covid19api.org" static
 local-zone: "covid19api.papergo.io" static
 local-zone: "covid19.apiplatform.io" static
 local-zone: "covid19api.plexusmd.com" static
+local-zone: "covid-19-api.sante.gouv.fr" static
 local-zone: "covid19-api.sebastienvezina.com" static
 local-zone: "covid19api.smarton.dev" static
 local-zone: "covid19-api.unm4sk.me" static
@@ -25640,6 +25641,7 @@ local-zone: "covid19association.com" static
 local-zone: "covid19.astarbi.com" static
 local-zone: "covid19astrazeneca.com" static
 local-zone: "covid19asylum.com" static
+local-zone: "covid19.at5.su" static
 local-zone: "covid19ataglance.com" static
 local-zone: "covid19at.cf" static
 local-zone: "covid19at.com" static
@@ -26614,6 +26616,7 @@ local-zone: "covid19.cac.queensu.ca" static
 local-zone: "covid19cad.com" static
 local-zone: "covid19.cafebookkeepers.com.au" static
 local-zone: "covid19.cagibig.com" static
+local-zone: "covid19calabria.eu" static
 local-zone: "covid-19calc.com" static
 local-zone: "covid19-calc.com" static
 local-zone: "covid19calc.com" static
@@ -54869,6 +54872,7 @@ local-zone: "limpiezascovid19.com" static
 local-zone: "limpiezas-stopcoronavirus.com" static
 local-zone: "lin-internewshid-coronavirus.aptivate.org" static
 local-zone: "link.covid19.gov.bt" static
+local-zone: "link.covid19impactsurvey.org" static
 local-zone: "lionscontroilcoronavirus.it" static
 local-zone: "lionscovid19.com" static
 local-zone: "listenwithcorona.com" static
@@ -55657,6 +55661,7 @@ local-zone: "maskanticovid19.com" static
 local-zone: "maskanticovid.com" static
 local-zone: "maskantiviruscovid-19.com" static
 local-zone: "maskcorona2020.com" static
+local-zone: "maskcoronavirus.co.uk" static
 local-zone: "maskcoronavirus.it" static
 local-zone: "maskcoronavirus.store" static
 local-zone: "maskcovid19.club" static
