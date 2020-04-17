@@ -2314,6 +2314,7 @@ local-zone: "babycovid.com" static
 local-zone: "babyinthetimeofcoronavirus.com" static
 local-zone: "babypandemic.com" static
 local-zone: "babywuhan.com" static
+local-zone: "back.acolhimentocovid19.com.br" static
 local-zone: "backaftercovidpr.com" static
 local-zone: "backendcovid19.net" static
 local-zone: "backup.tiles.covid19vis.lingvis.io" static
@@ -27675,6 +27676,7 @@ local-zone: "covid19connect.com" static
 local-zone: "covid-19connecticut.com" static
 local-zone: "covid-19connection.com" static
 local-zone: "covid19connection.com" static
+local-zone: "covid19-connections.com" static
 local-zone: "covid19connections.com" static
 local-zone: "covid19connect.numedapp.com" static
 local-zone: "covid19conscious.com" static
@@ -55034,6 +55036,7 @@ local-zone: "link.covid19.gov.bt" static
 local-zone: "link.covid19impactsurvey.org" static
 local-zone: "lionscontroilcoronavirus.it" static
 local-zone: "lionscovid19.com" static
+local-zone: "lionscovid19.pt" static
 local-zone: "listenwithcorona.com" static
 local-zone: "listforcoronavirus.com" static
 local-zone: "litcovid.com" static
@@ -70869,6 +70872,7 @@ local-zone: "www.covid19response.gr" static
 local-zone: "www.covid19response.icrinc.com" static
 local-zone: "www.covid19response.ie" static
 local-zone: "www.covid19response.rootd.io" static
+local-zone: "www.covid-19response.saranalayamtrust.org.in" static
 local-zone: "www.covid-19.rest" static
 local-zone: "www.covid19.rest" static
 local-zone: "www.covid-19-return-home-schedules-sharing.com" static
