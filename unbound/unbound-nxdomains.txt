@@ -31781,6 +31781,7 @@ local-zone: "covid19.kapa7.com" static
 local-zone: "covid19.karadzic.info" static
 local-zone: "covid19karaoke.com" static
 local-zone: "covid19kar.com" static
+local-zone: "covid19.karimunkab.go.id" static
 local-zone: "covid19.karnataka.gov.in" static
 local-zone: "covid19.karokab.go.id" static
 local-zone: "covid19karta.ru" static
@@ -61722,6 +61723,7 @@ local-zone: "resultsofcovid19.com" static
 local-zone: "results.testingcovid19.live" static
 local-zone: "retailcorona.com" static
 local-zone: "retailcoronavirus.com" static
+local-zone: "retailcoronavirusliquidation.com.au" static
 local-zone: "retailpandemic.com" static
 local-zone: "retailvscorona.com" static
 local-zone: "retailvscorona.net" static
@@ -61772,6 +61774,9 @@ local-zone: "ridcovid.com" static
 local-zone: "ride4covid19.com" static
 local-zone: "rideforcovid19.com" static
 local-zone: "rideoutcovid19.com" static
+local-zone: "ridesharecoronavirusadministration.com.au" static
+local-zone: "ridesharecoronavirus.com.au" static
+local-zone: "ridesharecoronavirusliquidation.com.au" static
 local-zone: "ridesharecoronavirusprotection.com" static
 local-zone: "ridetoconquercovid19.com" static
 local-zone: "ridicovid19.com" static
