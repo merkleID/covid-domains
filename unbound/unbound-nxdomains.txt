@@ -1755,6 +1755,7 @@ local-zone: "appcoronavirus.cl" static
 local-zone: "appcoronavirus.com" static
 local-zone: "app.coronavirus.gov.py" static
 local-zone: "app.coronavirusinfo.cl" static
+local-zone: "app.coronavirus.my" static
 local-zone: "app.coronavirusuy.com" static
 local-zone: "app.coronavirus-world.info" static
 local-zone: "appcovid19.altervista.org" static
@@ -13708,6 +13709,7 @@ local-zone: "coronavirus-2020.com" static
 local-zone: "coronavirus2020.com.pl" static
 local-zone: "coronavirus2020.construxor.com" static
 local-zone: "coronavirus2020cure.com" static
+local-zone: "coronavirus2020.de" static
 local-zone: "coronavirus2020.doctor" static
 local-zone: "coronavirus-2020.es" static
 local-zone: "coronavirus2020facts.com" static
@@ -28415,6 +28417,7 @@ local-zone: "covid19.dhis.hisp.org" static
 local-zone: "covid19.dhis-minsante-cm.org" static
 local-zone: "covid19diabesity.com" static
 local-zone: "covid19diabetes.com" static
+local-zone: "covid-19.diabetesrelief.com" static
 local-zone: "covid19diabet.ru" static
 local-zone: "covid19diagnose.com" static
 local-zone: "covid19-diagnoser.com" static
@@ -38215,6 +38218,7 @@ local-zone: "covid19test.pro" static
 local-zone: "covid-19testpro.com" static
 local-zone: "covid19testpro.com" static
 local-zone: "covid19-test-rapid.com" static
+local-zone: "covid19testrapido.com" static
 local-zone: "covid19testregistration.com" static
 local-zone: "covid19testregistry.com" static
 local-zone: "covid-19testresult.com" static
@@ -61709,6 +61713,7 @@ local-zone: "respuesta-covid19.com" static
 local-zone: "respuestacovid19.com" static
 local-zone: "respuestasalcoronavirus.org" static
 local-zone: "ressourcescovid19.com" static
+local-zone: "restaurantcoronavirusadministration.com.au" static
 local-zone: "restaurantescorona.com" static
 local-zone: "restaurantsfightingcovid.com" static
 local-zone: "restaurantsvscoronavirus.com" static
