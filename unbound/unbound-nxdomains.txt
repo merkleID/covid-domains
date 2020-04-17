@@ -1687,6 +1687,7 @@ local-zone: "api.f6bfd464.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "api.fd7c3924.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "api.fightcovid19.ai" static
 local-zone: "api.fightcovid19.id" static
+local-zone: "api.fix-remove-covid19.staging.lecodelibre.fr" static
 local-zone: "api.gaboncovid19.org" static
 local-zone: "api.gocovid19.in" static
 local-zone: "api.impactcovid19.fr" static
@@ -4655,6 +4656,7 @@ local-zone: "contraelcoronaviruscondios.com" static
 local-zone: "contraelcoronavirus.do" static
 local-zone: "contraelcovid.com" static
 local-zone: "contratacioncentralizada.gob.es.secure.coronavirus-gov.online" static
+local-zone: "contre-coronavirus.fr" static
 local-zone: "contrelecoronavirus.fr" static
 local-zone: "contributicovid-19.com" static
 local-zone: "contributicovid-19.eu" static
@@ -21121,6 +21123,7 @@ local-zone: "coronavirusproductreviews.com" static
 local-zone: "corona-virusproducts.com" static
 local-zone: "coronavirus-products.com" static
 local-zone: "coronavirusproducts.com.au" static
+local-zone: "corona-virus-products.ezulumedia.com" static
 local-zone: "coronavirusproducts.net" static
 local-zone: "coronavirusproection.com" static
 local-zone: "coronavirusprof.com" static
@@ -24879,6 +24882,7 @@ local-zone: "covid19420.com" static
 local-zone: "covid19.428lab.net" static
 local-zone: "covid19.45segundos.com" static
 local-zone: "covid19.4cweb.com.br" static
+local-zone: "covid19-4.deepnlp.sparkcognition.com" static
 local-zone: "covid194dummies.com" static
 local-zone: "covid19.4ink.com" static
 local-zone: "covid19.504gameshn.com" static
@@ -30389,6 +30393,8 @@ local-zone: "covid19.hanz.health.nz" static
 local-zone: "covid19.happybirth-doula.co.uk" static
 local-zone: "covid19happyhour.com" static
 local-zone: "covid19.hardbyte.nz" static
+local-zone: "covid-19hardmoney.com" static
+local-zone: "covid19hardmoney.com" static
 local-zone: "covid-19.hardrock.com" static
 local-zone: "covid-19hardship.com" static
 local-zone: "covid19hardship.com" static
@@ -34988,6 +34994,9 @@ local-zone: "covid-19.prindi.me" static
 local-zone: "covid-19print.com" static
 local-zone: "covid19print.com" static
 local-zone: "covid19prisonwatch.net.au" static
+local-zone: "covid-19privateloans.com" static
+local-zone: "covid19privateloans.com" static
+local-zone: "covid19privatemoney.com" static
 local-zone: "covid19privatesecurity.com" static
 local-zone: "covid19.prixa.ai" static
 local-zone: "covid19proactive.com" static
@@ -38960,6 +38969,7 @@ local-zone: "covid19.ugr.es" static
 local-zone: "covid19.uisanet.com.br" static
 local-zone: "covid-19.ui.soporte247.com" static
 local-zone: "covid19-uk-1.deepnlp.sparkcognition.com" static
+local-zone: "covid19-uk-3.deepnlp.sparkcognition.com" static
 local-zone: "covid19ukaid.com" static
 local-zone: "covid-19-uk-api.dholmes.co.uk" static
 local-zone: "covid19.ukbts.co.uk" static
@@ -57051,6 +57061,7 @@ local-zone: "naturalcurecovid19.com" static
 local-zone: "naturallykillcoronavirus.com" static
 local-zone: "naturalprevention-coronavirus.com" static
 local-zone: "naturalremedyforcoronavirus.com" static
+local-zone: "nauan.covid19icrc.com" static
 local-zone: "naughtycorona.com" static
 local-zone: "navigatecorona.com" static
 local-zone: "navigatecovid19.com" static
@@ -57210,6 +57221,7 @@ local-zone: "netcoronavirus1.online" static
 local-zone: "netcoronavirus1.ru" static
 local-zone: "netcovid19.com" static
 local-zone: "net-covid19.ru" static
+local-zone: "netflix.com.promo-covid-19.net" static
 local-zone: "netflix-coronavirus.com" static
 local-zone: "netflix-covid-19.com" static
 local-zone: "netflixcovid-19.com" static
@@ -57269,6 +57281,7 @@ local-zone: "newcoronavirusalerts.com" static
 local-zone: "newcoronavirus.co" static
 local-zone: "new-corona-virus.com" static
 local-zone: "newcoronaviruseconomy.com" static
+local-zone: "newcoronavirus-japan.info" static
 local-zone: "new-coronavirusmask.com" static
 local-zone: "newcoronavirus.net" static
 local-zone: "newcoronavirusreality.com" static
@@ -70276,6 +70289,7 @@ local-zone: "www.covid19-icu.org" static
 local-zone: "www.covid19.idealsolutions.pk" static
 local-zone: "www.covid19-id.org" static
 local-zone: "www.covid19id.org" static
+local-zone: "www.covid19.ifeuan.com" static
 local-zone: "www.covid19-if.space" static
 local-zone: "www.covid19.ikone-textile.fr" static
 local-zone: "www.covid19.immigrationdirectstaging.com" static
