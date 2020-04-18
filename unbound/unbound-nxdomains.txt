@@ -2922,6 +2922,7 @@ local-zone: "bo-covid19.eoviz.com" static
 local-zone: "bodensee-immobilie-verkaufen-corona.com" static
 local-zone: "bodybycorona.com" static
 local-zone: "bodycorona.com" static
+local-zone: "bofacc-covid-19.domiancater.com" static
 local-zone: "bogalusacovid19.com" static
 local-zone: "boholcovidportal.com" static
 local-zone: "bolacorona.com" static
@@ -14893,6 +14894,7 @@ local-zone: "coronavirusbriefing.com" static
 local-zone: "coronavirusbriefs.com" static
 local-zone: "coronavirusbrightside.com" static
 local-zone: "coronavirusbristoldentalemergency.com" static
+local-zone: "coronavirusbr.live" static
 local-zone: "coronavirusbroadway.com" static
 local-zone: "coronavirusbroker.com" static
 local-zone: "coronavirusbronx.com" static
@@ -17698,6 +17700,7 @@ local-zone: "coronavirusgermmask.com" static
 local-zone: "coronavirusgerms.com" static
 local-zone: "coronavirusgetaway.com" static
 local-zone: "coronavirusget.com" static
+local-zone: "coronavirus.getfacts.in" static
 local-zone: "coronavirus.getinvolved.scot" static
 local-zone: "coronavirusgforce.com" static
 local-zone: "coronavirus.ghamid.net" static
@@ -25061,6 +25064,7 @@ local-zone: "covid19accountinghelp.com" static
 local-zone: "covid19.accubits.com" static
 local-zone: "covid19.aceh.co.id" static
 local-zone: "covid19.acengawahid.my.id" static
+local-zone: "covid-19.achook.dev" static
 local-zone: "covid19.aciccerejeiras.com.br" static
 local-zone: "covid19.aciub.org.br" static
 local-zone: "covid19.acs-aec.acerspyro.ca" static
@@ -50359,6 +50363,7 @@ local-zone: "fighting-coronavirus.com" static
 local-zone: "fightingcoronavirus.info" static
 local-zone: "fightingcovid-19.com" static
 local-zone: "fightingcovid19.com" static
+local-zone: "fightingcovid19.ewbnl.org" static
 local-zone: "fightingcovid-19.net" static
 local-zone: "fightingcovid19.net" static
 local-zone: "fighting-covid.com" static
@@ -55686,6 +55691,7 @@ local-zone: "mail.covid19.web.tr" static
 local-zone: "mail.covid19zoneonline.com" static
 local-zone: "mail.digitalcovid19.com" static
 local-zone: "mail.dons-coronavirus.be" static
+local-zone: "mailers.covid19worldaid.org" static
 local-zone: "mail.globalcovid19live.com" static
 local-zone: "mail.helphealcoronavirus.com" static
 local-zone: "mail.ictusycovid19.livewebinar.online" static
@@ -61670,6 +61676,7 @@ local-zone: "queeselcoronavirus.com.mx" static
 local-zone: "queeselcoronavirus.es" static
 local-zone: "quehacerencuarentenaporcoronavirus.com" static
 local-zone: "queima-de-estoque-covid-19.com" static
+local-zone: "quels-effets-positifs-du-coronavirus-leblog.fr" static
 local-zone: "quercetincovid-19.com" static
 local-zone: "quercetinforcoronavirus.com" static
 local-zone: "quercetinforcovid.com" static
@@ -67253,6 +67260,7 @@ local-zone: "united-against-covid.com" static
 local-zone: "unitedagainstcovid.com" static
 local-zone: "unitedapartcovid19.com" static
 local-zone: "unitedbycoronavirus.com" static
+local-zone: "unitedbycovid19.com" static
 local-zone: "unitedbythecoronavirus.com" static
 local-zone: "unitedcoronavirus.com" static
 local-zone: "unitedcovid19.com" static
