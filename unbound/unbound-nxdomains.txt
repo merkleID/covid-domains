@@ -18498,6 +18498,7 @@ local-zone: "corona-virusinfo.com" static
 local-zone: "coronavirusinfocom.ddns.net" static
 local-zone: "coronavirusinfo.com.pl" static
 local-zone: "coronavirus-info.co.uk" static
+local-zone: "coronavirusinfo.co.uk" static
 local-zone: "coronavirusinfo.dev" static
 local-zone: "coronavirusinfo.directory" static
 local-zone: "coronavirusinfo.expert" static
@@ -33625,6 +33626,7 @@ local-zone: "covid19.mojokertokab.go.id" static
 local-zone: "covid19.mojtermin.mk" static
 local-zone: "covid19.mokhtabary.com" static
 local-zone: "covid-19mom.com" static
+local-zone: "covid19mom.com" static
 local-zone: "covid19moments.com" static
 local-zone: "covid19moms.com" static
 local-zone: "covid19moms.org" static
@@ -38117,6 +38119,7 @@ local-zone: "covid19.tanwirulafkar.or.id" static
 local-zone: "covid19tapabocas.com" static
 local-zone: "covid19.tapselkab.go.id" static
 local-zone: "covid19.tapteng.go.id" static
+local-zone: "covid19.tarbiyahsunnah.com" static
 local-zone: "covid-19target.com" static
 local-zone: "covid19target.com" static
 local-zone: "covid19targets.com" static
@@ -55702,6 +55705,7 @@ local-zone: "mail.coronavirusbreakouts.com" static
 local-zone: "mail.coronavirus.ca" static
 local-zone: "mail.coronaviruscleaning.info" static
 local-zone: "mail.coronaviruscureuk.com" static
+local-zone: "mail.coronavirusdiaries.net" static
 local-zone: "mail.coronavirushoax.org" static
 local-zone: "mail.coronavirusnews.su" static
 local-zone: "mail.coronavirusofficial.online" static
@@ -66750,6 +66754,7 @@ local-zone: "topcovidcleaners.com" static
 local-zone: "topcovidcleaning.com" static
 local-zone: "topcovid.com" static
 local-zone: "topcovidlawyers.com" static
+local-zone: "toppenish.vscovid-19.org" static
 local-zone: "torontocoronavirustherapy.com" static
 local-zone: "torontocovid19.com" static
 local-zone: "torontointheageofcovid.com" static
@@ -72802,6 +72807,7 @@ local-zone: "youtubecoronavirus.com" static
 local-zone: "youtubecoronavirus.net" static
 local-zone: "youtubecovid19.com" static
 local-zone: "youtubecovid19.net" static
+local-zone: "you.vscovid-19.org" static
 local-zone: "yovenciacovid-19.cat" static
 local-zone: "yovenciacovid-19.com" static
 local-zone: "yovencialcoronavirus.com" static
