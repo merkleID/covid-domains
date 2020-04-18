@@ -734,6 +734,7 @@ local-zone: "aftercoronav.com" static
 local-zone: "aftercoronavirus.biz" static
 local-zone: "after-coronavirus.com" static
 local-zone: "aftercoronavirus.com" static
+local-zone: "aftercoronavirus.fr" static
 local-zone: "aftercoronavirus.life" static
 local-zone: "aftercoronavirus.net" static
 local-zone: "aftercoronavirus.org" static
@@ -752,6 +753,7 @@ local-zone: "aftercovid-19.com" static
 local-zone: "aftercovid19.com" static
 local-zone: "aftercovid19.co.za" static
 local-zone: "aftercovid-19.ec-cube.shop" static
+local-zone: "aftercovid-19.fr" static
 local-zone: "aftercovid19healthcare.com" static
 local-zone: "aftercovid19healthclaims.com" static
 local-zone: "aftercovid19health.com" static
@@ -2813,6 +2815,7 @@ local-zone: "bioresonancecoronavirus.com" static
 local-zone: "bioresonancecovid19.com" static
 local-zone: "biosecuritycoronavirus.com" static
 local-zone: "biosecuritycovid19.com" static
+local-zone: "bioseguridad-covid19.com" static
 local-zone: "biowarpandemic.com" static
 local-zone: "bip.covid19.athenarc.gr" static
 local-zone: "birencovid19.eastus.cloudapp.azure.com" static
@@ -19217,6 +19220,7 @@ local-zone: "coronavirus.limited" static
 local-zone: "coronavirus.limo" static
 local-zone: "coronaviruslimpieza.com" static
 local-zone: "coronavirusline.com" static
+local-zone: "coronavirus.link" static
 local-zone: "coronaviruslink.net" static
 local-zone: "coronavirus-links.com" static
 local-zone: "coronaviruslionelmessi.com" static
@@ -23892,6 +23896,8 @@ local-zone: "coronavirusvirtualrun.com" static
 local-zone: "coronavirusvirusnewsnow.com" static
 local-zone: "coronavirusvirusnow.com" static
 local-zone: "coronavirusvis.com" static
+local-zone: "coronavirus-visieres.com" static
+local-zone: "coronavirus-visieres.fr" static
 local-zone: "coronavirusvisit.com" static
 local-zone: "coronavirusvisualization.com" static
 local-zone: "coronavirusvisualized.com" static
@@ -25597,6 +25603,8 @@ local-zone: "covid-19-app.telekom-healthcare.com" static
 local-zone: "covid19app.uniurb.it" static
 local-zone: "covid19app.xyz" static
 local-zone: "covid19apres.com" static
+local-zone: "covid19apres.fr" static
+local-zone: "covid19apres.info" static
 local-zone: "covid19aprou.com" static
 local-zone: "covid19.apsol.ca" static
 local-zone: "covid19.apsugis.org" static
@@ -38046,6 +38054,7 @@ local-zone: "covid-19taxupdates.com" static
 local-zone: "covid19.taylorcowin.com" static
 local-zone: "covid19.taylor.edu" static
 local-zone: "covid19.tbnk.ca" static
+local-zone: "covid19tchad.com" static
 local-zone: "covid19-tchad.org" static
 local-zone: "covid-19t.com" static
 local-zone: "covid19t.com" static
@@ -39694,6 +39703,7 @@ local-zone: "covid19-virus.world" static
 local-zone: "covid19virus.world" static
 local-zone: "covid-19virusworld.com" static
 local-zone: "covid19vis.com" static
+local-zone: "covid19-visieres.fr" static
 local-zone: "covid-19.visioncomputersewa.com.np" static
 local-zone: "covid19.visionspring.org" static
 local-zone: "covid19visitor.com" static
@@ -71937,6 +71947,7 @@ local-zone: "www.stayhomeactivities-covid19.com" static
 local-zone: "www.staypreparedforcoronavirus.com" static
 local-zone: "www.staysafefromcoronavirus.com" static
 local-zone: "www.stemcovid19.com" static
+local-zone: "www.stemexpanse.covid19stand.com" static
 local-zone: "www.steuerberater-corona-virus.com" static
 local-zone: "www.steuerberatercoronavirus.com" static
 local-zone: "www.steuerberatercoronavirus.de" static
