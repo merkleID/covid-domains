@@ -33627,6 +33627,7 @@ local-zone: "covid19movies.com" static
 local-zone: "covid19movies.net" static
 local-zone: "covid19moving.com" static
 local-zone: "covid-19.mpdashboard.com" static
+local-zone: "covid-19.mpgt.co.za" static
 local-zone: "covid19.mpi-sws.org" static
 local-zone: "covid19mpl.cdp-sanita-coll.soresa.it" static
 local-zone: "covid19mpl-collaudo.cdp-sanita-coll.soresa.it" static
@@ -38216,6 +38217,7 @@ local-zone: "covid19test.cc" static
 local-zone: "covid19-test.center" static
 local-zone: "covid19test.center" static
 local-zone: "covid19testcenter.com" static
+local-zone: "covid19testcenter.rjclinical.com" static
 local-zone: "covid-19testcenters.com" static
 local-zone: "covid19testcenters.com" static
 local-zone: "covid-19testcentre.online" static
@@ -48223,6 +48225,7 @@ local-zone: "diagnosticocoronavirus.com.br" static
 local-zone: "diamondprincesscoronaclaims.com" static
 local-zone: "diamundialdelcoronavirus.com" static
 local-zone: "dianejohncovid.com" static
+local-zone: "diariesofcovid19.xyz" static
 local-zone: "diariodeconfinamienrocovid-19.com" static
 local-zone: "diariodelcoronavirusfilm.com" static
 local-zone: "diaryofapandemicapp.com" static
