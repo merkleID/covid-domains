@@ -14852,6 +14852,7 @@ local-zone: "corona-virus-bot.botplatform.xyz" static
 local-zone: "coronavirus-bot.com" static
 local-zone: "coronavirusbot.com" static
 local-zone: "coronavirus-bot.eu-1.newbot.io" static
+local-zone: "coronavirus.botplatform.xyz" static
 local-zone: "coronavirus-bot.ru" static
 local-zone: "coronavirusbots.com" static
 local-zone: "coronavirusbounceback.com" static
@@ -35752,6 +35753,7 @@ local-zone: "covid19recoverytexas.org" static
 local-zone: "covid-19recoverywashingtonstate.com" static
 local-zone: "covid19recoverywashingtonstate.com" static
 local-zone: "covid19recovery.world" static
+local-zone: "covid19.rect.online" static
 local-zone: "covid-19-rectoz667.rectoz667.repl.run" static
 local-zone: "covid-19.red" static
 local-zone: "covid19.redbird.co" static
@@ -63770,6 +63772,7 @@ local-zone: "statistique-covid19.com" static
 local-zone: "statscorona.com" static
 local-zone: "stats-coronavirus.com" static
 local-zone: "statscoronavirus.com" static
+local-zone: "stats.covid19app.ca" static
 local-zone: "stats-covid19.com" static
 local-zone: "statscovid-19.com" static
 local-zone: "statscovid19.fr" static
