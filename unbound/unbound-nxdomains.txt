@@ -37124,6 +37124,7 @@ local-zone: "covid19soapkit.com" static
 local-zone: "covid19soapkit.nyc" static
 local-zone: "covid19soap.nyc" static
 local-zone: "covid19.sobrus.com" static
+local-zone: "covid19.socan.com" static
 local-zone: "covid-19.soccer" static
 local-zone: "covid19.social" static
 local-zone: "covid19socialcare.cymru" static
