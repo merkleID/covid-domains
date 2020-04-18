@@ -26197,6 +26197,7 @@ local-zone: "covid19.biodati.com" static
 local-zone: "covid19.bioga.org" static
 local-zone: "covid19biologics.com" static
 local-zone: "covid19biome.com" static
+local-zone: "covid19.biomedinformri.com" static
 local-zone: "covid19.bioreference.com" static
 local-zone: "covid-19.biorisc.com" static
 local-zone: "covid19biosecurity.com" static
@@ -32847,6 +32848,7 @@ local-zone: "covid19.majalengkakab.go.id" static
 local-zone: "covid19.majed.xyz" static
 local-zone: "covid19.majenekab.go.id" static
 local-zone: "covid19.makaihr.com" static
+local-zone: "covid19.makbaysoft.com" static
 local-zone: "covid19.makeithoney.com" static
 local-zone: "covid19.makeitsaas.com" static
 local-zone: "covid19.makelab.nyc" static
@@ -33004,6 +33006,7 @@ local-zone: "covid19maskcompany.com" static
 local-zone: "covid19mask.co.za" static
 local-zone: "covid19-maske.at" static
 local-zone: "covid19-maske.ch" static
+local-zone: "covid-19-maske.com" static
 local-zone: "covid19-maske.com" static
 local-zone: "covid19maske.com" static
 local-zone: "covid19masken.at" static
@@ -39674,6 +39677,7 @@ local-zone: "covid19.virusnearby.com" static
 local-zone: "covid-19virusnearme.com" static
 local-zone: "covid19virusnearme.com" static
 local-zone: "covid19-virus.net" static
+local-zone: "covid-19-virusnet.com" static
 local-zone: "covid-19.virusnews.live" static
 local-zone: "covid19virusnews.us" static
 local-zone: "covid19virusnow.com" static
@@ -47249,6 +47253,7 @@ local-zone: "cpcontacts.covid19infoapp.com" static
 local-zone: "cpcontacts.covid-19live.online" static
 local-zone: "cpcontacts.covid19lockdown.blog" static
 local-zone: "cpcontacts.covid19.myriaddev.com" static
+local-zone: "cpcontacts.covid19selftracker.com" static
 local-zone: "cpcontacts.covid19stand.com" static
 local-zone: "cpcontacts.covid19testkit.life" static
 local-zone: "cpcontacts.covid19tomorrow.com" static
@@ -61394,6 +61399,7 @@ local-zone: "protocolloanticovid19.com" static
 local-zone: "protocovid.com" static
 local-zone: "proudcoronasurvivor.com" static
 local-zone: "proudtobecovidfree.com" static
+local-zone: "providencecoronavirus.be" static
 local-zone: "proyectoproteccioncoronavirus.com" static
 local-zone: "proyectoproteccioncoronavirus.net" static
 local-zone: "prtc-covid19.com" static
@@ -69742,6 +69748,7 @@ local-zone: "www.corona-virus-info.ru" static
 local-zone: "www.corona-virusinfo.ru" static
 local-zone: "www.coronavirus-infos.app" static
 local-zone: "www.corona-virus-infos.com" static
+local-zone: "www.coronavirusinsa.com" static
 local-zone: "www.coronavirus.institute" static
 local-zone: "www.coronavirusinsure.ru" static
 local-zone: "www.coronavirusinusnearme.com" static
@@ -70740,6 +70747,7 @@ local-zone: "www.covid-19maroc.com" static
 local-zone: "www.covid19maroc.tk" static
 local-zone: "www.covid-19mask.co" static
 local-zone: "www.covid19-maske.at" static
+local-zone: "www.covid-19-maske.com" static
 local-zone: "www.covid19masken.at" static
 local-zone: "www.covid-19-masker.nl" static
 local-zone: "www.covid19maskhq.com" static
