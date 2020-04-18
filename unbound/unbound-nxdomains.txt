@@ -2206,6 +2206,7 @@ local-zone: "avoidcovid19corona.club" static
 local-zone: "avoidcovid19corona.net" static
 local-zone: "avoidcovid19corona.online" static
 local-zone: "avoidcovid19corona-online.com" static
+local-zone: "avoidcovid19corona.org" static
 local-zone: "avoidcovid19corona.shop" static
 local-zone: "avoidcovid19.world" static
 local-zone: "avoidcovidvirus.com" static
@@ -28600,6 +28601,7 @@ local-zone: "covid19digitalmarketing.com" static
 local-zone: "covid19.digitalnomadphil.com" static
 local-zone: "covid19.digitalproblemsolving.com" static
 local-zone: "covid19digital.tips" static
+local-zone: "covid-19.digitalvermont.org" static
 local-zone: "covid-19.dike.gr" static
 local-zone: "covid-19.dikertas.com" static
 local-zone: "covid-19.dinaacademy.com" static
@@ -37174,6 +37176,7 @@ local-zone: "covid19solidarityresponsefund.com" static
 local-zone: "covid19solidaritytee.com" static
 local-zone: "covid19solidaritytravel.com" static
 local-zone: "covid19solidaritywall.com" static
+local-zone: "covid-19.soligorsk.info" static
 local-zone: "covid-19.solokkab.go.id" static
 local-zone: "covid19.solticrm.com" static
 local-zone: "covid19.solucionesmigura.com" static
@@ -38256,6 +38259,7 @@ local-zone: "covid19testes.com" static
 local-zone: "covid-19test.eu" static
 local-zone: "covid19test.expert" static
 local-zone: "covid19testfinder.com" static
+local-zone: "covid19testfinder.info" static
 local-zone: "covid19testflorida.com" static
 local-zone: "covid19testforyou.com" static
 local-zone: "covid19testgear.com" static
@@ -63844,6 +63848,7 @@ local-zone: "stopcovid-19.co" static
 local-zone: "stopcovid19.code4chiba.org" static
 local-zone: "stopcovid19.code4kochi.com" static
 local-zone: "stopcovid19.code4.nagoya" static
+local-zone: "stopcovid19.code4numazu.org" static
 local-zone: "stopcovid19.code4saga.org" static
 local-zone: "stopcovid19.codeforfukuoka.org" static
 local-zone: "stopcovid19.com.hk" static
@@ -72072,6 +72077,7 @@ local-zone: "www.thecoronavirustestkits.com" static
 local-zone: "www.thecovid19cure.com" static
 local-zone: "www.thecovid19dataproject.com" static
 local-zone: "www.thecovid19essentials.com" static
+local-zone: "www.thecovid-19.inetpanacea.com" static
 local-zone: "www.thecovid-19k.com" static
 local-zone: "www.thecovid19kit.com" static
 local-zone: "www.thecovid19mask.co.za" static
