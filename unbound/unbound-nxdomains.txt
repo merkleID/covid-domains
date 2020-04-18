@@ -1665,6 +1665,7 @@ local-zone: "apicovid19.ru" static
 local-zone: "api.covid19sas.com" static
 local-zone: "api.covid19.sciencelab.com.br" static
 local-zone: "api.covid19.social" static
+local-zone: "api.covid19statstrack.com" static
 local-zone: "api.covid19.therappx.com" static
 local-zone: "api.covid-19today.org" static
 local-zone: "api.covid19tracking.appliedxl.com" static
@@ -31437,6 +31438,7 @@ local-zone: "covid19.infosites.nl" static
 local-zone: "covid19.infosites.uk" static
 local-zone: "covid19infos.live" static
 local-zone: "covid19-infos.org" static
+local-zone: "covid19info.space" static
 local-zone: "covid19info.tech" static
 local-zone: "covid19info.techierattus.com" static
 local-zone: "covid19-info.tk" static
@@ -35931,6 +35933,7 @@ local-zone: "covid19.researchstudies.us" static
 local-zone: "covid19research.study" static
 local-zone: "covid19researchstudy.com" static
 local-zone: "covid19researchteam.com" static
+local-zone: "covid-19-researchtreatments.com" static
 local-zone: "covid19.research.ubc.ca" static
 local-zone: "covid19research.uclb.com" static
 local-zone: "covid19research.world" static
@@ -36315,6 +36318,7 @@ local-zone: "covid19safe.store" static
 local-zone: "covid19safetesting.com" static
 local-zone: "covid19safetravel.com" static
 local-zone: "covid19safetyapp.com" static
+local-zone: "covid19safety.ca" static
 local-zone: "covid19safety.care" static
 local-zone: "covid19safetycertification.com" static
 local-zone: "covid-19safety.com" static
@@ -56256,6 +56260,7 @@ local-zone: "messengercovidpartnerprogram.com" static
 local-zone: "messenger-covidpartnerprogram.net" static
 local-zone: "messengercovidpartnerprogram.net" static
 local-zone: "messi.faqscoronavirus.com" static
+local-zone: "metabase.bantuan.covid19.sabah.digital" static
 local-zone: "metacorona.com" static
 local-zone: "metacoronavirus.com" static
 local-zone: "metacovid19.com" static
@@ -70941,6 +70946,7 @@ local-zone: "www.covid19rus.online" static
 local-zone: "www.covid19-rx.org" static
 local-zone: "www.covid19sa.com" static
 local-zone: "www.covid19sacramento.info" static
+local-zone: "www.covid19safety.ca" static
 local-zone: "www.covid19safety.care" static
 local-zone: "www.covid19safetygear.com" static
 local-zone: "www.covid19safetyglasses.com" static
@@ -72096,6 +72102,7 @@ local-zone: "www.tracker-covid19.com" static
 local-zone: "www.trackingcovid19.ca" static
 local-zone: "www.trackingcovid19.live" static
 local-zone: "www.trajescoronavirus.com" static
+local-zone: "www.treatcovid19now.org" static
 local-zone: "www.triagecovid19.com" static
 local-zone: "www.tristatecovid19.org" static
 local-zone: "www.truecoronaviruscases.com" static
