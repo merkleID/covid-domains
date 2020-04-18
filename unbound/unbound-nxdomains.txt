@@ -19294,6 +19294,7 @@ local-zone: "coronavirus-liveticker.de" static
 local-zone: "coronavirus-livetracker.com" static
 local-zone: "coronaviruslivetracker.com" static
 local-zone: "coronavirusliveup.com" static
+local-zone: "coronavirus.live.update.aliestores.com" static
 local-zone: "corona-virus-live-update.com" static
 local-zone: "coronavirus-live-update.com" static
 local-zone: "coronavirus-liveupdate.com" static
@@ -52423,6 +52424,7 @@ local-zone: "horutcorona.com" static
 local-zone: "hospitalcoronavirus.com" static
 local-zone: "hospitalcovidfund.com" static
 local-zone: "hospitalcovidfund.net" static
+local-zone: "hospitales.covid19.cdmx.gob.mx" static
 local-zone: "hospitales-dev.covid19.cdmx.gob.mx" static
 local-zone: "hospitalitycovid.com" static
 local-zone: "hostcorona.com" static
@@ -57570,6 +57572,7 @@ local-zone: "newscoronavirus.xyz" static
 local-zone: "news-covid-19.com" static
 local-zone: "news-covid19.com" static
 local-zone: "news-covid19.de" static
+local-zone: "news-covid19.debiasio-graphiste.com" static
 local-zone: "newscovid19.eu" static
 local-zone: "news-covid19.it" static
 local-zone: "newscovid19.it" static
@@ -70319,6 +70322,7 @@ local-zone: "www.covid19crisismanagement.com" static
 local-zone: "www.covid19criticalcare.com" static
 local-zone: "www.covid19c.tk" static
 local-zone: "www.covid19-cure.net" static
+local-zone: "www.covid-19-cures.com" static
 local-zone: "www.covid19curves.nu" static
 local-zone: "www.covid19.cy" static
 local-zone: "www.covid19cz.cz" static
@@ -70342,6 +70346,7 @@ local-zone: "www.covid-19dentalupdate.com" static
 local-zone: "www.covid19.dentoncounty.gov" static
 local-zone: "www.covid19-depistage.org" static
 local-zone: "www.covid19depot.org" static
+local-zone: "www.covid19.descreates.com" static
 local-zone: "www.covid19desdelatrinxera.com" static
 local-zone: "www.covid19-desinfectantes.com" static
 local-zone: "www.covid19details.com" static
