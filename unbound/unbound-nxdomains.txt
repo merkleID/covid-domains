@@ -25338,6 +25338,7 @@ local-zone: "covid19.americaskidsbelong.org" static
 local-zone: "covid19.amo0.com" static
 local-zone: "covid19.amorri.org" static
 local-zone: "covid19.amphora.ai" static
+local-zone: "covid19.amsa-international.org" static
 local-zone: "covid-19.amsterdam" static
 local-zone: "covid19.amsterdam" static
 local-zone: "covid19.amtron.in" static
@@ -49763,6 +49764,7 @@ local-zone: "faceoffcorona.com" static
 local-zone: "faceoffcovid19.com" static
 local-zone: "faceoffcovid.com" static
 local-zone: "facesandvoicesofcovid-19.org" static
+local-zone: "facesandvoicesofcovid19.org" static
 local-zone: "facescovid19.com" static
 local-zone: "faceshieldcoronavirus.com" static
 local-zone: "faceshieldcovid19.com" static
@@ -70156,6 +70158,7 @@ local-zone: "www.covid-19alert.com" static
 local-zone: "www.covid19.aljup.com" static
 local-zone: "www.covid19.alkarizma.com" static
 local-zone: "www.covid-19.alkhidmatfoundationchitral.com" static
+local-zone: "www.covid19allocations.org" static
 local-zone: "www.covid19alovestory.com" static
 local-zone: "www.covid19.alquilarpisomadrid.es" static
 local-zone: "www.covid19-ameli.com" static
