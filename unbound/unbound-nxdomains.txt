@@ -686,6 +686,7 @@ local-zone: "affiches-covid-19.fr" static
 local-zone: "affichescovid19.fr" static
 local-zone: "affop-covid19-soignants.care" static
 local-zone: "affordablecoronavirustest.com" static
+local-zone: "afghancovid19.org" static
 local-zone: "afghanistancoronavirus.com" static
 local-zone: "africacorona.com" static
 local-zone: "africacoronavirus.com" static
@@ -26177,6 +26178,7 @@ local-zone: "covid19-bill.com" static
 local-zone: "covid19bill.com" static
 local-zone: "covid-19billing.com" static
 local-zone: "covid19.billionnews.pro" static
+local-zone: "covid19.bimalghartimagar.com.np" static
 local-zone: "covid19.binarybase.io" static
 local-zone: "covid19.binarynightowl.com" static
 local-zone: "covid19bind.com" static
@@ -33723,6 +33725,7 @@ local-zone: "covid19.mydata.org" static
 local-zone: "covid19.myekiti.com" static
 local-zone: "covid19.myfbf.com" static
 local-zone: "covid19.mygenetics.ru" static
+local-zone: "covid19.mygovauss.com" static
 local-zone: "covid19.myhealthwatcher.es" static
 local-zone: "covid19.myhealthyafrica.net" static
 local-zone: "covid19.myiln.co" static
@@ -40283,6 +40286,8 @@ local-zone: "covid19zombies.com" static
 local-zone: "covid19.zomg.no" static
 local-zone: "covid19zone.fyi" static
 local-zone: "covid19zoneonline.com" static
+local-zone: "covid-19-zones.now.sh" static
+local-zone: "covid19zones-team.now.sh" static
 local-zone: "covid19.zoomnews.in" static
 local-zone: "covid-19.zuktitech.com" static
 local-zone: "covid19.zulalturizm.com.tr" static
@@ -62267,6 +62272,7 @@ local-zone: "sa-coronavirus-updates.co.za" static
 local-zone: "sacovid19.com" static
 local-zone: "sacovid-19map.com" static
 local-zone: "sa.covid19.palashbauri.in" static
+local-zone: "sacovid19safety.co.za" static
 local-zone: "sacovid19solution.com" static
 local-zone: "sacovid.com" static
 local-zone: "sacovidtesting.com" static
