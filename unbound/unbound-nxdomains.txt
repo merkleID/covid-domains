@@ -2862,6 +2862,7 @@ local-zone: "blmcovid19.hardover.com" static
 local-zone: "bloccacoronavirus.it" static
 local-zone: "bloccacovid-19.com" static
 local-zone: "blockchain4covid19.com" static
+local-zone: "blockchain4covid19.org" static
 local-zone: "blockchain-covid19.com" static
 local-zone: "blockchaincovid.com" static
 local-zone: "block-corona.com" static
@@ -3773,6 +3774,7 @@ local-zone: "certifiedcovidfree.com" static
 local-zone: "certifiedcovidsafe.com" static
 local-zone: "certifiedfreeofcoronavirus.com" static
 local-zone: "certifiedfreeofcovid19.com" static
+local-zone: "certify.covid19.gov.np" static
 local-zone: "cesdacovid19.com" static
 local-zone: "cfdvscovid.com" static
 local-zone: "cffcovidspecial2.net" static
@@ -28854,6 +28856,7 @@ local-zone: "covid-19downsized.com" static
 local-zone: "covid19.downtownwaterfront.ca" static
 local-zone: "covid19downunder.com" static
 local-zone: "covid-19.doxaca.com" static
+local-zone: "covid19.dpedia.id" static
 local-zone: "covid19drafting.com" static
 local-zone: "covid19.draftsbook.com" static
 local-zone: "covid19drama.com" static
@@ -33745,6 +33748,7 @@ local-zone: "covid19mutualaidgroup.com" static
 local-zone: "covid19mutualaid.net" static
 local-zone: "covid19mutualaidseas.org" static
 local-zone: "covid19mutualaidslc.com" static
+local-zone: "covid19.mutualser.com" static
 local-zone: "covid19.muuz.ca" static
 local-zone: "covid19.mvltda.com" static
 local-zone: "covid19mw.com" static
@@ -34824,6 +34828,7 @@ local-zone: "covid19-pharmacy.net" static
 local-zone: "covid19pharmacystore.com" static
 local-zone: "covid-19pharm.com" static
 local-zone: "covid19pharm.com" static
+local-zone: "covid19.pharmstd.ru" static
 local-zone: "covid19ph.catalanconsulting.com" static
 local-zone: "covid19ph.cf" static
 local-zone: "covid-19ph.com" static
@@ -37443,6 +37448,7 @@ local-zone: "covid19-stat.ru" static
 local-zone: "covid19stats.805newsrelay.com" static
 local-zone: "covid19stats.805newsrelay.net" static
 local-zone: "covid19stats.app" static
+local-zone: "covid-19-stats-bot.sam1r.repl.run" static
 local-zone: "covid19stats.ca" static
 local-zone: "covid19stats.cctexas.com" static
 local-zone: "covid19stats.co.ke" static
@@ -39824,6 +39830,7 @@ local-zone: "covid19vn.live" static
 local-zone: "covid19vn.net" static
 local-zone: "covid-19.vnode.pl" static
 local-zone: "covid19voc.com" static
+local-zone: "covid-19.vodi.my.id" static
 local-zone: "covid-19vodka.com" static
 local-zone: "covid19vodka.com" static
 local-zone: "covid-19vodka.net" static
@@ -52522,6 +52529,7 @@ local-zone: "hotline-covid-19.com" static
 local-zone: "hotline-covid-19.net" static
 local-zone: "hotworkforce-covid19.com" static
 local-zone: "houseboundbycovid19.com" static
+local-zone: "household.covid19.gov.np" static
 local-zone: "housekeepingvscoronavirus.com" static
 local-zone: "houseofcorona.com" static
 local-zone: "houseofcoronavirus.com" static
@@ -71232,6 +71240,7 @@ local-zone: "www.covid-19testing.info" static
 local-zone: "www.covid-19testingkit.com" static
 local-zone: "www.covid19testingkits.org" static
 local-zone: "www.covid19testingmap.us" static
+local-zone: "www.covid19testingnearme.net" static
 local-zone: "www.covid19testing.network" static
 local-zone: "www.covid19-testing.org" static
 local-zone: "www.covid19testing.ru" static
