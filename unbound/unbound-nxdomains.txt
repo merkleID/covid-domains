@@ -26201,6 +26201,7 @@ local-zone: "covid19.bioreference.com" static
 local-zone: "covid-19.biorisc.com" static
 local-zone: "covid19biosecurity.com" static
 local-zone: "covid19.biosens.rs" static
+local-zone: "covid19.biosp.org" static
 local-zone: "covid19biotech.com" static
 local-zone: "covid19bireyseliadeler.com" static
 local-zone: "covid19birkenhead.com" static
@@ -33716,6 +33717,7 @@ local-zone: "covid19.mwu.edu.np" static
 local-zone: "covid19.mx" static
 local-zone: "covid-19mx.app" static
 local-zone: "covid-19mx.com" static
+local-zone: "covid19-mx.com" static
 local-zone: "covid19mx.com" static
 local-zone: "covid19mx.gubzi.work" static
 local-zone: "covid19mx.ml" static
@@ -68134,6 +68136,7 @@ local-zone: "webdisk.covid19n.info" static
 local-zone: "webdisk.covid-19-nm.com" static
 local-zone: "webdisk.covid19no1gearstore.com" static
 local-zone: "webdisk.covid19pro.co" static
+local-zone: "webdisk.covid19sanitizeservices.com.au" static
 local-zone: "webdisk.covid19statsza.co.za" static
 local-zone: "webdisk.covid-19-ut.com" static
 local-zone: "webdisk.covid19ve.info" static
@@ -70151,6 +70154,7 @@ local-zone: "www.covid19action.ca" static
 local-zone: "www.covid19actionguide.com" static
 local-zone: "www.covid19actionplan.com" static
 local-zone: "www.covid19actnow.co.uk" static
+local-zone: "www.covid19.adele.edu.au" static
 local-zone: "www.covid19.admin.ch" static
 local-zone: "www.covid19admin.eql.ai" static
 local-zone: "www.covid19admin.gooditsolutions.ca" static
