@@ -4420,6 +4420,7 @@ local-zone: "coldorcoronavirus.com" static
 local-zone: "coldorcovid.com" static
 local-zone: "colimacovid19.com" static
 local-zone: "collab4covid.com" static
+local-zone: "collabcovid19.com" static
 local-zone: "collabforcovid.com" static
 local-zone: "collect4corona.com" static
 local-zone: "collectif-covid19.com" static
@@ -4698,6 +4699,7 @@ local-zone: "containcovid.com" static
 local-zone: "containingcoronavirus.com" static
 local-zone: "contemplationinthetimeofcovid.com" static
 local-zone: "contentforcovid.com" static
+local-zone: "conteo-covid19.mx" static
 local-zone: "continuingthroughcoronavirus.com" static
 local-zone: "contipharma-covid19.com" static
 local-zone: "contra-coronavirus.com" static
@@ -56686,6 +56688,7 @@ local-zone: "mexicocoronavirus.com" static
 local-zone: "mexicocovid19.com" static
 local-zone: "mexicovid-19.com" static
 local-zone: "mexicovid19.com" static
+local-zone: "mexicovid19.com.mx" static
 local-zone: "mexicovid19.mx" static
 local-zone: "mexicovscovid19.fondeaproyectos.com" static
 local-zone: "mexvscovid19.com" static
