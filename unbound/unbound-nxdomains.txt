@@ -1632,6 +1632,7 @@ local-zone: "api.covid-19-analytics.se" static
 local-zone: "api.covid19app.ca" static
 local-zone: "api-covid19-app.digi4.ma" static
 local-zone: "api.covid19app.org" static
+local-zone: "api.covid19.appsesa.pr.gov.br" static
 local-zone: "api.covid19.arproject.web.id" static
 local-zone: "api.covid19.beecoop.co" static
 local-zone: "api-covid-19-br.filipemanuel.repl.run" static
@@ -32311,6 +32312,7 @@ local-zone: "covid19ks.zendesk.com" static
 local-zone: "covid19.kuansing.go.id" static
 local-zone: "covid19.kubusoftware.com" static
 local-zone: "covid-19.kucza.xyz" static
+local-zone: "covid19.kulonprogobisa.com" static
 local-zone: "covid19.kurganobl.ru" static
 local-zone: "covid19.kutacentralparkhotel.com" static
 local-zone: "covid19.kutaibaratkab.go.id" static
@@ -37046,6 +37048,7 @@ local-zone: "covid19seniornews.com" static
 local-zone: "covid19seniorshoppers.com" static
 local-zone: "covid-19.sennalabs.com" static
 local-zone: "covid19.sennoidal.com" static
+local-zone: "covid19sensibilisation.yj.fr" static
 local-zone: "covid19.sensibus.io" static
 local-zone: "covid19.sensor.pe" static
 local-zone: "covid-19.seqmayors.qld.gov.au" static
@@ -51026,6 +51029,7 @@ local-zone: "fr-covid19.com" static
 local-zone: "fr.covid19.dowit.ca" static
 local-zone: "fr.covid19lexington.org" static
 local-zone: "fr.covid-19now.info" static
+local-zone: "fr.covid19protection.eu" static
 local-zone: "fr.covid19-testimonialsinternational.com" static
 local-zone: "freakycoronamerch.com" static
 local-zone: "free1covid19.com" static
@@ -52117,6 +52121,7 @@ local-zone: "habeichcorona.com" static
 local-zone: "habe-ich-coronavirus.de" static
 local-zone: "habichdencoronavirus.com" static
 local-zone: "hablacoronavirus.com" static
+local-zone: "hablemosdecoronavirus.com" static
 local-zone: "hack4covid-19.tn" static
 local-zone: "hack4covid.com" static
 local-zone: "hackagainstcovid-19.com" static
@@ -58089,6 +58094,7 @@ local-zone: "njpandemicrelieffund.net" static
 local-zone: "njpandemicrelief.net" static
 local-zone: "nk-covid-19.nkuniversity.net" static
 local-zone: "nl.covid-19now.info" static
+local-zone: "nl.covid19protection.eu" static
 local-zone: "nl.fnacvandenborrecovid19.be" static
 local-zone: "nl.maskforcoronavirus.shop" static
 local-zone: "nlp4covid19.ez.sats.cloud" static
@@ -72565,6 +72571,7 @@ local-zone: "www.steuerberater-corona-virus.com" static
 local-zone: "www.steuerberatercoronavirus.com" static
 local-zone: "www.steuerberatercoronavirus.de" static
 local-zone: "www.stiricoronavirus.com" static
+local-zone: "www.stop24coronavirus.ru" static
 local-zone: "www.stopcoronavirus-19.com" static
 local-zone: "www.stopcoronavirus.com.sg" static
 local-zone: "www.stopcoronavirus.com.ua" static
