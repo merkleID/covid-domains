@@ -609,6 +609,7 @@ local-zone: "adlcovid.com" static
 local-zone: "adlcovidtest.com" static
 local-zone: "adm.coronavirus.igaps.gx360.com.br" static
 local-zone: "admin-api.coronavirus-monitor.com" static
+local-zone: "admin.coronavirus-schutzartikel.de" static
 local-zone: "admin.covid19-dataexchange.org" static
 local-zone: "admin.covid19donors.org" static
 local-zone: "admin.covid19.immigrationdirectstaging.com" static
@@ -26256,6 +26257,7 @@ local-zone: "covid19biosecurity.com" static
 local-zone: "covid19.biosens.rs" static
 local-zone: "covid19.biosp.org" static
 local-zone: "covid19biotech.com" static
+local-zone: "covid-19.birdnewz.com" static
 local-zone: "covid19bireyseliadeler.com" static
 local-zone: "covid19birkenhead.com" static
 local-zone: "covid19birkenhead.co.uk" static
@@ -32040,6 +32042,7 @@ local-zone: "covid19karaoke.com" static
 local-zone: "covid19kar.com" static
 local-zone: "covid19.karimunkab.go.id" static
 local-zone: "covid19.karnataka.gov.in" static
+local-zone: "covid19.karnival.tech" static
 local-zone: "covid19.karokab.go.id" static
 local-zone: "covid19karta.ru" static
 local-zone: "covid-19-karte.de" static
@@ -36766,6 +36769,7 @@ local-zone: "covid19.sc.org.lk" static
 local-zone: "covid19scotland.com" static
 local-zone: "covid19scotland.co.uk" static
 local-zone: "covid19scotland.justdaj.com" static
+local-zone: "covid-19.scottallyn.us" static
 local-zone: "covid19scout.com" static
 local-zone: "covid19scouting.org" static
 local-zone: "covid-19.scplan.net" static
@@ -48656,6 +48660,7 @@ local-zone: "doineedacovid19test.com" static
 local-zone: "doiqualifyforcoronastimulus.com" static
 local-zone: "doitforcovid19.com" static
 local-zone: "doitforcovid.com" static
+local-zone: "doken-covid19.info" static
 local-zone: "doktercovid5.com" static
 local-zone: "dollarcoronakit.com" static
 local-zone: "dollarcoronakit.net" static
