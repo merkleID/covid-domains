@@ -25708,6 +25708,7 @@ local-zone: "covid19approvedfun.com" static
 local-zone: "covid-19apps.com" static
 local-zone: "covid19app.se" static
 local-zone: "covid-19-app-service-env.appserviceenvironment.net" static
+local-zone: "covid19.appsesa.pr.gov.br" static
 local-zone: "covid19.appsquest.org" static
 local-zone: "covid-19-app.telekom-healthcare.com" static
 local-zone: "covid19app.uniurb.it" static
@@ -31748,6 +31749,7 @@ local-zone: "covid19instanttest.com" static
 local-zone: "covid19instanttestkit.com" static
 local-zone: "covid19instanttests.com" static
 local-zone: "covid19instatest.com" static
+local-zone: "covid-19.institute" static
 local-zone: "covid19insuranceadvice.com" static
 local-zone: "covid19-insurance.agency" static
 local-zone: "covid-19insuranceattorneys.com" static
@@ -49398,6 +49400,7 @@ local-zone: "en.covid19guides.com" static
 local-zone: "en.covid-19.md" static
 local-zone: "en.covid19middleeast.com" static
 local-zone: "en.covid-19now.info" static
+local-zone: "en.covid19recoverytexas.org" static
 local-zone: "en.covid19-solidarity.com" static
 local-zone: "en.covid-19-stop.com" static
 local-zone: "encovid.com" static
@@ -49727,6 +49730,7 @@ local-zone: "es.coronavirus-rife.com" static
 local-zone: "escortcorona.com" static
 local-zone: "escortcoronavirus.com" static
 local-zone: "es.covid19guides.com" static
+local-zone: "es.covid19recoverytexas.org" static
 local-zone: "es.covid19-testimonialsinternational.com" static
 local-zone: "escudocovid.com" static
 local-zone: "escudolegalcovid19.com" static
@@ -64041,6 +64045,7 @@ local-zone: "starvecovid19.com" static
 local-zone: "stashcoronavirus.com" static
 local-zone: "statamic.covid19responsefund.org" static
 local-zone: "statcorona.com" static
+local-zone: "statcoronavirus.ru" static
 local-zone: "statcovid.com" static
 local-zone: "statecovid19testing.com" static
 local-zone: "statecovid.com" static
