@@ -106,6 +106,7 @@ local-zone: "1billioncoronasafe.com" static
 local-zone: "1coronacare.com" static
 local-zone: "1coronavirus.com" static
 local-zone: "1covid-19.com" static
+local-zone: "1covid-19-d.com" static
 local-zone: "1covid.com" static
 local-zone: "1globe-covid19.com" static
 local-zone: "1minutecoronatest.com" static
@@ -33777,6 +33778,7 @@ local-zone: "covid19music.com" static
 local-zone: "covid-19musicfestival.com" static
 local-zone: "covid-19musiciansupport.com" static
 local-zone: "covid19musiciansupport.com" static
+local-zone: "covid19musicmap.com" static
 local-zone: "covid19musicmarketplace.com" static
 local-zone: "covid19musicreliefbyspotify.com" static
 local-zone: "covid-19musicrelief.com" static
@@ -39477,6 +39479,7 @@ local-zone: "covid19ussd.bitri.co.bw" static
 local-zone: "covid-19-us.site" static
 local-zone: "covid19.ussl.info" static
 local-zone: "covid19-us-testing.com" static
+local-zone: "covid19us.today" static
 local-zone: "covid19ustracker.com" static
 local-zone: "covid19.usts.fr" static
 local-zone: "covid19-us-update.com" static
@@ -61446,6 +61449,7 @@ local-zone: "propusk-covid19.ru" static
 local-zone: "proseinthepandemic.com" static
 local-zone: "protecaocovid19.com.br" static
 local-zone: "proteccioncontraelcoronavirus.com" static
+local-zone: "proteccioncontraelcoronavirus.es" static
 local-zone: "proteccion-coronavirus.com" static
 local-zone: "proteccioncoronavirus.net" static
 local-zone: "proteccion-covid-19.com" static
@@ -69415,6 +69419,7 @@ local-zone: "www.actioncovid19.org" static
 local-zone: "www.adcoronavirus.com" static
 local-zone: "www.adioscoronavirus.com" static
 local-zone: "www.affordablecoronavirustest.com" static
+local-zone: "www.africacovid19shop.com" static
 local-zone: "www.africantechcovid19response.com" static
 local-zone: "www.after-the-corona-virus.com" static
 local-zone: "www.againstcoronavirus.org" static
@@ -70992,6 +70997,7 @@ local-zone: "www.covid-19movement.com" static
 local-zone: "www.covid19movie.in" static
 local-zone: "www.covid-19musiciansupport.com" static
 local-zone: "www.covid19musiciansupport.com" static
+local-zone: "www.covid19musicmap.com" static
 local-zone: "www.covid19musicrelief.byspotify.com" static
 local-zone: "www.covid-19musicrelief.com" static
 local-zone: "www.covid19mutualaidslc.com" static
