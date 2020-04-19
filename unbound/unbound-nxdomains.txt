@@ -53378,6 +53378,7 @@ local-zone: "indiaagainstcovid.com" static
 local-zone: "indiabattlecorona.com" static
 local-zone: "indiacorona.com" static
 local-zone: "indiacoronavirus.in" static
+local-zone: "india.coronavirusmeter.in" static
 local-zone: "indiacoronavirusnews.com" static
 local-zone: "indiacoronavirusupdates.com" static
 local-zone: "indiacovid19.co.in" static
@@ -57761,6 +57762,7 @@ local-zone: "newsaboutcorona.com" static
 local-zone: "newsaboutcoronavirus.com" static
 local-zone: "news-about-covid19.com" static
 local-zone: "newsaboutcovid19.com" static
+local-zone: "newsaboutcovid19.org" static
 local-zone: "news-corona.com" static
 local-zone: "newscoronavirus.altervista.org" static
 local-zone: "newscoronavirusau.com" static
@@ -67763,6 +67765,7 @@ local-zone: "vaccinecovid19coronavirus.com" static
 local-zone: "vaccinecovid-19fundraisingforresearch.com" static
 local-zone: "vaccine-covid19.net" static
 local-zone: "vaccinecovid-19.net" static
+local-zone: "vaccinecovid19.nl" static
 local-zone: "vaccine-covid2019.com" static
 local-zone: "vaccine-covid.com" static
 local-zone: "vaccinecovid.net" static
