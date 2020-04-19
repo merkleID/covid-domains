@@ -1738,6 +1738,7 @@ local-zone: "api.staging.covid19.adn.be" static
 local-zone: "api.staging.covid19.houseworksinc.co" static
 local-zone: "api.statscovid19.fr" static
 local-zone: "api.ted-covid19.com" static
+local-zone: "api.togocovid19.org" static
 local-zone: "api.track.covid-19.rowles.ch" static
 local-zone: "api.uat.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "api.wacovid19stats.com" static
@@ -26368,6 +26369,7 @@ local-zone: "covid19bluemovie.com" static
 local-zone: "covid-19blues.com" static
 local-zone: "covid19blues.com" static
 local-zone: "covid19.blueyonder.com" static
+local-zone: "covid19.bmauri.com" static
 local-zone: "covid19.bmunyoki.com" static
 local-zone: "covid19bmx7.com.br" static
 local-zone: "covid19board.app" static
@@ -52060,6 +52062,7 @@ local-zone: "hack4covid.com" static
 local-zone: "hackagainstcovid-19.com" static
 local-zone: "hackagainstcovid-19.org" static
 local-zone: "hackagainstcovid.com" static
+local-zone: "hackathoncovid19.cat" static
 local-zone: "hackathontechagainstcoronavirus.com" static
 local-zone: "hackathontechagainstcovid19.com" static
 local-zone: "hackcorona.com" static
@@ -58663,6 +58666,7 @@ local-zone: "ohio-covid19.com" static
 local-zone: "ohiocovid-19.com" static
 local-zone: "ohiocovid19.com" static
 local-zone: "ohiocovid19debtrelief.com" static
+local-zone: "ohiocovid19.org" static
 local-zone: "ohiocovidchildcare.com" static
 local-zone: "ohiocovid.com" static
 local-zone: "ohiocovidtesting.com" static
@@ -64843,6 +64847,7 @@ local-zone: "syracusecoronavirus.com" static
 local-zone: "syriacoronavirus.com" static
 local-zone: "system.covid-19supports.ie" static
 local-zone: "system.sudancovid19.info" static
+local-zone: "szczepieniecovid-19.com" static
 local-zone: "t1dcovid19study.com" static
 local-zone: "t9coronavirus.com" static
 local-zone: "tablet4coronavirus.com" static
@@ -72620,6 +72625,7 @@ local-zone: "www.walkingwithstrengththroughcovid19.com" static
 local-zone: "www.waroncovid-19.com" static
 local-zone: "www.waroncovid19.co.uk" static
 local-zone: "www.wascoshermangilliamcovid-19.com" static
+local-zone: "www.waw-covid19.com" static
 local-zone: "www.weagainstcovid19.info" static
 local-zone: "www.wearcovid19.com" static
 local-zone: "www.wearecoronavirussurvivors.com" static
