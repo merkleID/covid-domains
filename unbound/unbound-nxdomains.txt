@@ -32885,6 +32885,7 @@ local-zone: "covid19lockdown.info" static
 local-zone: "covid19lockdown.live" static
 local-zone: "covid-19lockdown.net" static
 local-zone: "covid19lockdowns.com" static
+local-zone: "covid19.locomedya.com" static
 local-zone: "covid19locums.com" static
 local-zone: "covid19.locus-geosystems.com" static
 local-zone: "covid19-log.com" static
@@ -33436,6 +33437,7 @@ local-zone: "covid19med.now.sh" static
 local-zone: "covid19med.org" static
 local-zone: "covid19medpacks.com" static
 local-zone: "covid19medpro.com" static
+local-zone: "covid19med.ru" static
 local-zone: "covid19medrx.com" static
 local-zone: "covid19.medschl.cam.ac.uk" static
 local-zone: "covid19.medschool.duke.edu" static
@@ -36796,6 +36798,7 @@ local-zone: "covid19-scare.com" static
 local-zone: "covid19scare.com" static
 local-zone: "covid19scars.com" static
 local-zone: "covid19scarves.com" static
+local-zone: "covid19.sca.sa" static
 local-zone: "covid19.scatter.wiki" static
 local-zone: "covid19sc.com" static
 local-zone: "covid19scenarios.com" static
@@ -49379,6 +49382,7 @@ local-zone: "en.burnabycoronavirus.com" static
 local-zone: "en.cacncovid19.com" static
 local-zone: "en.coronavirus4kids.com" static
 local-zone: "en.coronavirusbeat.com" static
+local-zone: "en.coronavirusbeat.org" static
 local-zone: "en.coronaviruscaribbean.info" static
 local-zone: "en.coronavirus-face-mask.today" static
 local-zone: "en.coronavirusitaly.it" static
@@ -51009,6 +51013,7 @@ local-zone: "fraternite-covid19.fr" static
 local-zone: "fr.bnbcoronavirusfree.com" static
 local-zone: "frcagainstcovid19.com" static
 local-zone: "fr.coronavirusbeat.com" static
+local-zone: "fr.coronavirusbeat.org" static
 local-zone: "fr.coronavirus-novaregion.org" static
 local-zone: "fr-covid19.com" static
 local-zone: "fr.covid19.dowit.ca" static
@@ -56396,6 +56401,7 @@ local-zone: "mastercovidactualizacion.com" static
 local-zone: "mastercovid.com" static
 local-zone: "masterscovid19.pages.ontraport.net" static
 local-zone: "master.volontari-covid-19.n3.caffeina.host" static
+local-zone: "master-wallet-uat-covid19.env.solvecare.net" static
 local-zone: "matacovid.com" static
 local-zone: "matchcorona.com" static
 local-zone: "matchedintoapandemic.com" static
@@ -56809,6 +56815,7 @@ local-zone: "mncoronavirus.com" static
 local-zone: "mncovid19test.co" static
 local-zone: "mncovidresponse.com" static
 local-zone: "mncovidsitters.com" static
+local-zone: "mobile-app-version-uat-covid19.env.solvecare.net" static
 local-zone: "mobilecarwashcoronaca.com" static
 local-zone: "mobilecoronatest.com" static
 local-zone: "mobilecoronatesting.com" static
@@ -57729,6 +57736,7 @@ local-zone: "ncov2019.eu" static
 local-zone: "ncov-2019.fr" static
 local-zone: "ncov2019.in" static
 local-zone: "ncov2019.life" static
+local-zone: "ncov2019.live" static
 local-zone: "ncov2019live.ikiptoo.me" static
 local-zone: "ncov2019live.info" static
 local-zone: "ncov2019.pressq.net" static
@@ -67446,6 +67454,7 @@ local-zone: "uaecoronavirus.com" static
 local-zone: "uaecovid-19.com" static
 local-zone: "uaepandemic.com" static
 local-zone: "uascovid-19responce.com" static
+local-zone: "uat-covid19.env.solvecare.net" static
 local-zone: "uatcovid19.labcrunch.org" static
 local-zone: "uat.covid19relief.citi.com" static
 local-zone: "uat-covid19.sindhpolice.gov.pk" static
@@ -68286,6 +68295,7 @@ local-zone: "viruscovid19-protection.com" static
 local-zone: "viruscovid-19.ro" static
 local-zone: "viruscovid19.ro" static
 local-zone: "virus-covid19.ru" static
+local-zone: "viruscovid19.ru.com" static
 local-zone: "viruscovid19.sk" static
 local-zone: "virus-covid-2019.ru" static
 local-zone: "viruscovidasistencianegocios.com" static
