@@ -2151,6 +2151,7 @@ local-zone: "autodiscover.desinfectacoronavirus.cl" static
 local-zone: "autodiscover.dons-coronavirus.be" static
 local-zone: "autodiscover.facemasks4covid19.com" static
 local-zone: "autodiscover.prevenircoronavirus.net" static
+local-zone: "autodiscover.sanitizacioncovid19.cl" static
 local-zone: "autodiscover.testcovid19-radapira.sitew.fr" static
 local-zone: "autoevaluacioncoronavirus.com" static
 local-zone: "autoevaluacioncovid19.com" static
