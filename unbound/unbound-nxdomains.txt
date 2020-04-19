@@ -38211,6 +38211,7 @@ local-zone: "covid19.syzygy.ca" static
 local-zone: "covid19szczepionka.pl" static
 local-zone: "covid19szn.com" static
 local-zone: "covid19szn.co.uk" static
+local-zone: "covid19szolnok.info.hu" static
 local-zone: "covid19.szopus.pl" static
 local-zone: "covid19tab.com" static
 local-zone: "covid19.tabipacademy.com" static
@@ -49388,6 +49389,7 @@ local-zone: "en.arubacovid19.org" static
 local-zone: "en.bnbcoronavirusfree.com" static
 local-zone: "en.burnabycoronavirus.com" static
 local-zone: "en.cacncovid19.com" static
+local-zone: "en.carolinecovid19.org" static
 local-zone: "en.coronavirus4kids.com" static
 local-zone: "en.coronavirusbeat.com" static
 local-zone: "en.coronavirusbeat.org" static
