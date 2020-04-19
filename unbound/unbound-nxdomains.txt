@@ -20670,6 +20670,7 @@ local-zone: "coronavirusorg.net" static
 local-zone: "coronavirus.org.pe" static
 local-zone: "coronavirus.org.ua" static
 local-zone: "coronavirusorg.xyz" static
+local-zone: "coronavirus.org.za" static
 local-zone: "coronavirusorlando.com" static
 local-zone: "coronavirusorthodontics.com" static
 local-zone: "coronaviruso.ru" static
@@ -25263,6 +25264,7 @@ local-zone: "covid19aids.com" static
 local-zone: "covid19aids.troniclab.com" static
 local-zone: "covid19aidsupplies.com" static
 local-zone: "covid19aiduk.com" static
+local-zone: "covid-19-ai.integriocorp.com" static
 local-zone: "covid19ailment.com" static
 local-zone: "covid19.ailservers.com" static
 local-zone: "covid19aintshit.com" static
@@ -39246,6 +39248,7 @@ local-zone: "covid19-turkey.com" static
 local-zone: "covid19turkey.com" static
 local-zone: "covid-19turkiye.com" static
 local-zone: "covid19turkiye.com" static
+local-zone: "covid19-turkiyegovtr-aidatgeriodeme.com" static
 local-zone: "covid19turkiye.net" static
 local-zone: "covid-19turkiye.presshaber.com" static
 local-zone: "covid-19turkiye.tech" static
@@ -57575,6 +57578,7 @@ local-zone: "ncov2019live.ikiptoo.me" static
 local-zone: "ncov2019live.info" static
 local-zone: "ncov2019.pressq.net" static
 local-zone: "ncov2019-tracker.live" static
+local-zone: "ncov-2019-visualization-of-the-dead.demo.ytlink.net" static
 local-zone: "ncov-2019.wangbaiyuan.cn" static
 local-zone: "ncov-coronavirus.com" static
 local-zone: "ncovcovid19.com" static
@@ -68445,6 +68449,7 @@ local-zone: "webmail.covid19-minahasa.info" static
 local-zone: "webmail.covid19misinfo.org" static
 local-zone: "webmail.covid-19-news.net" static
 local-zone: "webmail.covid19newssite.com" static
+local-zone: "webmail.covid19newsupdate.ca" static
 local-zone: "webmail.covid19santitizeservices.com.au" static
 local-zone: "webmail.covid19-status.live" static
 local-zone: "webmail.destroy-coronavirus.com" static
