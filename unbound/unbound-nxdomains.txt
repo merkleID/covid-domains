@@ -30883,6 +30883,7 @@ local-zone: "covid19.hls.kz" static
 local-zone: "covid19.hmacademy.com" static
 local-zone: "covid19.hmlr123.com" static
 local-zone: "covid19hmm.es" static
+local-zone: "covid-19.hm-tax.refund.shaerytu.net" static
 local-zone: "covid19.hna.ca" static
 local-zone: "covid19hn.com" static
 local-zone: "covid-19.hnlconrac.com" static
@@ -39117,6 +39118,7 @@ local-zone: "covid19-trends.com" static
 local-zone: "covid19trends.com" static
 local-zone: "covid19-trends.de" static
 local-zone: "covid19trends.info" static
+local-zone: "covid19trento.it" static
 local-zone: "covid19.trevthe.dev" static
 local-zone: "covid19triage.com" static
 local-zone: "covid19triagewi.com" static
@@ -52320,6 +52322,7 @@ local-zone: "help-stop-coronavirus.net" static
 local-zone: "helpstopcoronavirus.net" static
 local-zone: "helpstopcovid-19.com" static
 local-zone: "helpstopcovid19.com" static
+local-zone: "help.stopcovid19.jp" static
 local-zone: "helpstopcovid19.life" static
 local-zone: "helpstopcovid19.net" static
 local-zone: "helpstopcovid.community" static
