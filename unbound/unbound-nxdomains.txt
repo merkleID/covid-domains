@@ -39462,6 +39462,7 @@ local-zone: "covid19usascreen.net" static
 local-zone: "covid19.usasean.org" static
 local-zone: "covid19usasettlement.com" static
 local-zone: "covid19usasupplies.com" static
+local-zone: "covid19usatoday.com" static
 local-zone: "covid19usatracker.com" static
 local-zone: "covid19usatracker.org" static
 local-zone: "covid19usaupdate.com" static
@@ -40255,6 +40256,7 @@ local-zone: "covid19worldoutbreak.com" static
 local-zone: "covid-19worldpandemic.com" static
 local-zone: "covid19worldpandemic.com" static
 local-zone: "covid19worldreport.com" static
+local-zone: "covid-19worldresults.com" static
 local-zone: "covid19-world.ru" static
 local-zone: "covid19worlds.com" static
 local-zone: "covid-19worldstatistics.com" static
@@ -61188,6 +61190,7 @@ local-zone: "prayforvisioncovid19.com" static
 local-zone: "praytoendcorona.com" static
 local-zone: "praytogetherforcoronavirus.com" static
 local-zone: "prcoronavirusmap.com" static
+local-zone: "prcovid-19.com" static
 local-zone: "precautionfromcoronavirus.com" static
 local-zone: "precisionforcovid.com" static
 local-zone: "precisionpandemics.com" static
