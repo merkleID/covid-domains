@@ -25687,6 +25687,7 @@ local-zone: "covid19-ar.com" static
 local-zone: "covid19ar.com" static
 local-zone: "covid19arc.ph" static
 local-zone: "covid-19.arditi.pt" static
+local-zone: "covid19.ardmoreareatoday.com" static
 local-zone: "covid-19.arduino.cc" static
 local-zone: "covid19area.com" static
 local-zone: "covid19arena.com" static
@@ -29630,6 +29631,7 @@ local-zone: "covid19.fayzlab.com" static
 local-zone: "covid19fc.com" static
 local-zone: "covid19.fchampalimaud.science" static
 local-zone: "covid19f.com" static
+local-zone: "covid19fc.org.au" static
 local-zone: "covid19.fcpq.coop" static
 local-zone: "covid19fdaapproved.com" static
 local-zone: "covid19fdacure.com" static
@@ -30030,6 +30032,7 @@ local-zone: "covid19fumegation.com.au" static
 local-zone: "covid-19fumigation.com" static
 local-zone: "covid19fumigation.com" static
 local-zone: "covid19fun.com" static
+local-zone: "covid19.fundaciondeamor.org" static
 local-zone: "covid19.fundacionio.com" static
 local-zone: "covid19.fundahrse.org" static
 local-zone: "covid19-fund.com" static
@@ -31902,6 +31905,7 @@ local-zone: "covid19.janjagruti.in" static
 local-zone: "covid-19japan.com" static
 local-zone: "covid19-japan.com" static
 local-zone: "covid19japan.com" static
+local-zone: "covid19-japan.health-api.online" static
 local-zone: "covid19japan.net" static
 local-zone: "covid19.jaringmas.co.id" static
 local-zone: "covid19.jarrodrose.com" static
@@ -39305,6 +39309,7 @@ local-zone: "covid-19ultrasound.net" static
 local-zone: "covid-19.ulum.dev" static
 local-zone: "covid19umbria.ict4life.com" static
 local-zone: "covid19.umhealthresearch.org" static
+local-zone: "covid19.ummetro.ac.id" static
 local-zone: "covid19uncovered.com" static
 local-zone: "covid19-under-fhir.smilecdr.com" static
 local-zone: "covid-19understand.com" static
@@ -48111,6 +48116,7 @@ local-zone: "demo.it.covid19-2.rd.cloud-r.eu" static
 local-zone: "demo.it.covid19cms.rd.cloud-r.eu" static
 local-zone: "demo.it.covid19.rd.cloud-r.eu" static
 local-zone: "demolishcoronavirus.com" static
+local-zone: "demo.makersmotcovid19.no" static
 local-zone: "de.monmasquecovid19.com" static
 local-zone: "demo.studyduringcovid-19.com" static
 local-zone: "demo.waw-covid19.com" static
@@ -58462,6 +58468,7 @@ local-zone: "oceansidecovid-19.com" static
 local-zone: "ochsnercovid.com" static
 local-zone: "ocoronavirus.com" static
 local-zone: "ocoronaviruse24.ru" static
+local-zone: "ocoronaviruse.kz" static
 local-zone: "o-coronavirus.ru" static
 local-zone: "ocovid19.com" static
 local-zone: "ocovid19.com.br" static
@@ -70453,6 +70460,7 @@ local-zone: "www.covid19businessinteruption.com" static
 local-zone: "www.covid19businesslaw.com" static
 local-zone: "www.covid19-businesspractices.com" static
 local-zone: "www.covid19businessresponse.ke" static
+local-zone: "www.covid19.businfo.lk" static
 local-zone: "www.covid-19buy.com" static
 local-zone: "www.covid19buys.com" static
 local-zone: "www.covid19-bw.com" static
