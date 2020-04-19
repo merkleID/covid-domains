@@ -838,6 +838,7 @@ local-zone: "agir-covid19.com" static
 local-zone: "agircovid19.com" static
 local-zone: "agirlscoutsguidetocovid19.com" static
 local-zone: "agrifoodbeatscoronavirus.com" static
+local-zone: "agrifoodbeatscoronavirus.es" static
 local-zone: "agro-covid19.com" static
 local-zone: "agrocovid19.com" static
 local-zone: "ahcovid.care" static
@@ -2019,6 +2020,7 @@ local-zone: "asthma-and-corona.com" static
 local-zone: "asucovid19test.com" static
 local-zone: "asymptomaticcoronavirus.org" static
 local-zone: "atcoronavirus.com" static
+local-zone: "atcovid19.com" static
 local-zone: "atelcovid19tedbirleri.com" static
 local-zone: "atemschutzmaske-corona.com" static
 local-zone: "atemschutzmasken-corona.com" static
@@ -2602,6 +2604,7 @@ local-zone: "beds4corona.com" static
 local-zone: "bedsidecovid19.com" static
 local-zone: "bedstuycovid19.com" static
 local-zone: "beforeaftercorona.com" static
+local-zone: "beforeaftercovid19.com" static
 local-zone: "beforeandaftercorona.com" static
 local-zone: "beforeandaftercoronavirus.com" static
 local-zone: "beforecorona.com" static
@@ -25342,6 +25345,7 @@ local-zone: "covid19.algarvemtb.com" static
 local-zone: "covid19-algarvept.webteer.pt" static
 local-zone: "covid19-algeria.com" static
 local-zone: "covid19algeria.com" static
+local-zone: "covid19-algerie.com" static
 local-zone: "covid19.algocrats.com" static
 local-zone: "covid19-algolia.xyz" static
 local-zone: "covid19.algolysis.com" static
@@ -28160,6 +28164,7 @@ local-zone: "covid19cura.com" static
 local-zone: "covid19.curatess.com" static
 local-zone: "covid19cure2020.com" static
 local-zone: "covid19cureafrica.com" static
+local-zone: "covid19cureall.com" static
 local-zone: "covid19cure.biz" static
 local-zone: "covid19curebook.com" static
 local-zone: "covid19cure.center" static
@@ -29414,6 +29419,7 @@ local-zone: "covid19.esw.me" static
 local-zone: "covid19.et" static
 local-zone: "covid19.e-ta.ir" static
 local-zone: "covid19.etapj.com" static
+local-zone: "covid19.etfbl.net" static
 local-zone: "covid19etf.com" static
 local-zone: "covid-19eth.afritechsolution.org" static
 local-zone: "covid19ether.com" static
@@ -29918,6 +29924,7 @@ local-zone: "covid19formation.com" static
 local-zone: "covid19form.com" static
 local-zone: "covid19.formhero.com" static
 local-zone: "covid-19.forms.digital.nhs.uk" static
+local-zone: "covid19formula.com" static
 local-zone: "covid19formulas.com" static
 local-zone: "covid19foro.com" static
 local-zone: "covid-19forpresident.com" static
@@ -54304,6 +54311,7 @@ local-zone: "janpati2020coronavirus.com" static
 local-zone: "japancorona.com" static
 local-zone: "japancovid19.net" static
 local-zone: "jarvis.covid-19colombia.com" static
+local-zone: "ja.test-coronavirus.eu" static
 local-zone: "jaypeakcovid19resources.com" static
 local-zone: "jcoronalandscaping.com" static
 local-zone: "jcovid-19.com" static
@@ -56208,6 +56216,7 @@ local-zone: "maskthecovid19.com" static
 local-zone: "masqueanticoronavirus.com" static
 local-zone: "masque-anti-coronavirus.fr" static
 local-zone: "masque-anti-covid19.com" static
+local-zone: "masqueanticovid19.com" static
 local-zone: "masque-anti-covid19.fr" static
 local-zone: "masque-corona.com" static
 local-zone: "masquecorona.com" static
@@ -58138,6 +58147,7 @@ local-zone: "notesfromapandemic.com" static
 local-zone: "notesfromthepandemic.com" static
 local-zone: "notesofcorona.com" static
 local-zone: "notesonthepandemic.com" static
+local-zone: "no.test-coronavirus.eu" static
 local-zone: "note.stopcovid19.jp" static
 local-zone: "notgetcoronavirus.com" static
 local-zone: "notgetcoronavirussteps.com" static
@@ -62645,6 +62655,7 @@ local-zone: "sanificazionecovid19.com" static
 local-zone: "sanificazionecovid.com" static
 local-zone: "sanificazionelocalicoronavirus.com" static
 local-zone: "sanificazionicoronavirus.com" static
+local-zone: "sanificazioni-covid19.it" static
 local-zone: "sanitizacovid19.cl" static
 local-zone: "sanitizationcovid19.com" static
 local-zone: "sanitizecorona.net" static
@@ -67099,6 +67110,7 @@ local-zone: "trotzcorona.com" static
 local-zone: "trotz-corona.net" static
 local-zone: "trotztcorona.com" static
 local-zone: "troussecovid19.com" static
+local-zone: "tr.test-coronavirus.eu" static
 local-zone: "trucovid19.com" static
 local-zone: "trucovid19test.com" static
 local-zone: "trucovid19tests.com" static
