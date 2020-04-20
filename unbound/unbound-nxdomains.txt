@@ -3550,6 +3550,7 @@ local-zone: "careforcovid.com" static
 local-zone: "carenotcovid.com" static
 local-zone: "carepidemic.com" static
 local-zone: "caretacovid.com" static
+local-zone: "caretascovid19.com" static
 local-zone: "caretascovid.com" static
 local-zone: "caretasparacoronavirus.net" static
 local-zone: "carethroughcorona.com" static
@@ -13751,6 +13752,7 @@ local-zone: "coronavirus19updates.com" static
 local-zone: "coronavirus19usa.com" static
 local-zone: "coronavirus-19us.com" static
 local-zone: "coronavirus19us.com" static
+local-zone: "coronavirus-19.usluga.me" static
 local-zone: "coronavirus19-vaccine.com" static
 local-zone: "coronavirus19vaccine.com" static
 local-zone: "coronavirus19vaxin.com" static
@@ -52277,6 +52279,7 @@ local-zone: "guiascovid19.com" static
 local-zone: "guidacoronavirusitalia.it" static
 local-zone: "guide.corona-virustalk.com" static
 local-zone: "guide-pratique-coronavirus.com" static
+local-zone: "guides.coronaviruscodex.com" static
 local-zone: "guidetocopingwithcovid-19.com" static
 local-zone: "guidetocovid19.com" static
 local-zone: "guidetosurvivingcoronavirus.com" static
@@ -57172,6 +57175,7 @@ local-zone: "movimientocoronavirus.es" static
 local-zone: "mozambiquecoronavirus.com" static
 local-zone: "mpi.ny-covid19-registry.org" static
 local-zone: "mposs-covid19.creatps.work" static
+local-zone: "m.protecaocovid19.emporiumacrilicos.com.br" static
 local-zone: "mqtt-covid19.vademecum.io" static
 local-zone: "mr-corona-smile.com" static
 local-zone: "mr.coronavirus-face-mask.today" static
@@ -57994,6 +57998,7 @@ local-zone: "ncovid19-supplies.com" static
 local-zone: "ncovid19.supply" static
 local-zone: "ncovid19.today" static
 local-zone: "ncovid19treatment.com" static
+local-zone: "ncovid19update.com" static
 local-zone: "ncovid19us.live" static
 local-zone: "ncovid19.world" static
 local-zone: "ncovidlive.com" static
@@ -68580,6 +68585,7 @@ local-zone: "virussenzacorona.com" static
 local-zone: "virustrackercovid19.com" static
 local-zone: "viruswuhan.net" static
 local-zone: "visamaster-covid19.com" static
+local-zone: "visiere-covid19.fr" static
 local-zone: "visieres-coronavirus.com" static
 local-zone: "visieres-coronavirus.fr" static
 local-zone: "visieres-covid19.com" static
@@ -71551,6 +71557,7 @@ local-zone: "www.covid19medisupply.com" static
 local-zone: "www.covid-19-medlevensohn.com" static
 local-zone: "www.covid-19-medllevensohn.com" static
 local-zone: "www.covid19medmonitor.ru" static
+local-zone: "www.covid19med.ru" static
 local-zone: "www.covid19medsupplies.com" static
 local-zone: "www.covid19memorial.memorial" static
 local-zone: "www.covid19memorial.run" static
@@ -73035,6 +73042,7 @@ local-zone: "www.vidacarecovid19.com.br" static
 local-zone: "www.virtualcovid19test.com" static
 local-zone: "www.viruscovid19masks.com" static
 local-zone: "www.virys-covid19.ru" static
+local-zone: "www.visiere-covid19.fr" static
 local-zone: "www.vitalcoronavirus.com" static
 local-zone: "www.vitalcovid19.com" static
 local-zone: "www.vntestkit-covid19.com" static
