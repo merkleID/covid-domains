@@ -40542,6 +40542,7 @@ local-zone: "covid19.yuge.com" static
 local-zone: "covid-19.yunusalmeida.com" static
 local-zone: "covid19-yvelines-apta78.fr" static
 local-zone: "covid19yyc.com" static
+local-zone: "covid19.zacatecanos.com.mx" static
 local-zone: "covid19-zacatecas.drcidbaez.com" static
 local-zone: "covid19zac.drcidbaez.com" static
 local-zone: "covid19-zahlen.de" static
@@ -48281,6 +48282,7 @@ local-zone: "dentalcovidresponsekit.com" static
 local-zone: "dentalhelpcoronavirus.com" static
 local-zone: "dentalpandemic.com" static
 local-zone: "dentalpandemickit.com" static
+local-zone: "dentistacovid19.it" static
 local-zone: "dentistalibredecovid19.com" static
 local-zone: "dentistasincoronavirus.com" static
 local-zone: "dentistasincovid19.com" static
@@ -49738,6 +49740,7 @@ local-zone: "es.coronavirusbeat.com" static
 local-zone: "es.coronavirusbeat.es" static
 local-zone: "es.coronavirusbeat.fr" static
 local-zone: "escoronavirus.com" static
+local-zone: "es.coronavirusespanol.com" static
 local-zone: "es.coronavirus-face-mask.today" static
 local-zone: "es.coronavirus-novaregion.org" static
 local-zone: "es.coronavirus-rife.com" static
@@ -50761,6 +50764,7 @@ local-zone: "fisiocovidlinares.com" static
 local-zone: "fismacovid19.com.br" static
 local-zone: "fitcovid.com" static
 local-zone: "fitduringcorona.com" static
+local-zone: "fi.test-coronavirus.eu" static
 local-zone: "fitforcorona.com" static
 local-zone: "fit-fuer-coronavirus.de" static
 local-zone: "fitmdcovidcenter.com" static
@@ -51168,6 +51172,7 @@ local-zone: "frontlinecovid19.life" static
 local-zone: "frontlinecovid.com" static
 local-zone: "frontlinecovidprep.com" static
 local-zone: "fr.stopcovid19now.net" static
+local-zone: "fr.test-coronavirus.eu" static
 local-zone: "fryingpandemic.com" static
 local-zone: "fthecoronavirus.com" static
 local-zone: "ftp.coronavirus.ca" static
