@@ -3699,6 +3699,7 @@ local-zone: "cdccovid19info.com" static
 local-zone: "cdccovid-19information.com" static
 local-zone: "cdccovid19information.com" static
 local-zone: "cdc-covid19.org" static
+local-zone: "cdccovid19ppe.online" static
 local-zone: "cdccovid-19treatment.com" static
 local-zone: "cdccovidclean.com" static
 local-zone: "cdccovidcleaners.com" static
@@ -26539,6 +26540,7 @@ local-zone: "covid19-brignais.croixblanche-brignais.org" static
 local-zone: "covid19.brisbanecomputersolutions.com.au" static
 local-zone: "covid-19broadcast.com" static
 local-zone: "covid19broadcast.com" static
+local-zone: "covid19-broadcast.onrender.com" static
 local-zone: "covid19broker.com" static
 local-zone: "covid19brooklynhelpers.com" static
 local-zone: "covid19broward.com" static
@@ -35177,6 +35179,7 @@ local-zone: "covid19-portal.com" static
 local-zone: "covid19portal.cz" static
 local-zone: "covid19-portal.net" static
 local-zone: "covid19portal.net" static
+local-zone: "covid19portal.org" static
 local-zone: "covid19.portal.patrocinio.mg.gov.br" static
 local-zone: "covid19.portima.be" static
 local-zone: "covid19portland.com" static
@@ -70215,6 +70218,7 @@ local-zone: "www.coronavirus-foerdeung.de" static
 local-zone: "www.coronavirusfog.com" static
 local-zone: "www.coronavirusforecast.org" static
 local-zone: "www.coronavirusfortbend.gov" static
+local-zone: "www.coronavirusfoundation.net" static
 local-zone: "www.coronavirus-france.app" static
 local-zone: "www.coronavirus.furniture" static
 local-zone: "www.corona-virus.fyi" static
@@ -71734,6 +71738,7 @@ local-zone: "www.covid19testkits.co.nz" static
 local-zone: "www.covid-19-testkits.kr" static
 local-zone: "www.covid19test.net.au" static
 local-zone: "www.covid19testnow.com" static
+local-zone: "www.covid19testrapid.com" static
 local-zone: "www.covid19-tests.com" static
 local-zone: "www.covid19tests.ie" static
 local-zone: "www.covid19-tests.net" static
