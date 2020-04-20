@@ -1050,6 +1050,7 @@ local-zone: "allovercovid19.com" static
 local-zone: "alltestcovid19.com" static
 local-zone: "allthingscoronavirus.com" static
 local-zone: "allthingscoronavirus.net" static
+local-zone: "allthingscovid19.com" static
 local-zone: "alltomcovid19.se" static
 local-zone: "all-united-vs-covid19.com" static
 local-zone: "allusacovid19.com" static
@@ -30618,6 +30619,7 @@ local-zone: "covid19gto.alexfranco.dev" static
 local-zone: "covid19gto.futurelab.mx" static
 local-zone: "covid19guanajuato.xyz" static
 local-zone: "covid19guarda.com" static
+local-zone: "covid19.guardant.ru" static
 local-zone: "covid-19-guard.com" static
 local-zone: "covid-19guard.com" static
 local-zone: "covid19-guard.com" static
@@ -37306,6 +37308,7 @@ local-zone: "covid19signs.net" static
 local-zone: "covid-19-signs.org" static
 local-zone: "covid19signs.printostat.com" static
 local-zone: "covid19signsupply.com" static
+local-zone: "covid19.siguepay.com" static
 local-zone: "covid19.siis.net" static
 local-zone: "covid-19.sijunjung.go.id" static
 local-zone: "covid19.silvercode.pl" static
@@ -50520,6 +50523,7 @@ local-zone: "fckcovid19.zendesk.com" static
 local-zone: "fck-covid.com" static
 local-zone: "fckcovid.com" static
 local-zone: "fckoffcoronavirus.com" static
+local-zone: "fckoffcovid19.com" static
 local-zone: "fckyoucorona.com" static
 local-zone: "fcoronamask.com" static
 local-zone: "f-corona.net" static
@@ -55648,6 +55652,7 @@ local-zone: "livecoronavirus.net" static
 local-zone: "livecoronavirusnews.com" static
 local-zone: "livecoronavirusupdate.com" static
 local-zone: "livecoronavirusupdates.com" static
+local-zone: "livecoronavirus.xyz" static
 local-zone: "livecovid-19chart.site" static
 local-zone: "live-covid-19.com" static
 local-zone: "live-covid19.com" static
@@ -56360,6 +56365,7 @@ local-zone: "mascarillascoronavirus.site" static
 local-zone: "mascarillas-covid-19.com" static
 local-zone: "mascarillascovid-19.com" static
 local-zone: "mascarillascovid19.com" static
+local-zone: "mascarillascovid-19.es" static
 local-zone: "mascarillascovid19.es" static
 local-zone: "mascarillas-covid.com" static
 local-zone: "mascarillasparacovid19.com" static
@@ -56499,6 +56505,7 @@ local-zone: "masque-anti-covid19.fr" static
 local-zone: "masque-corona.com" static
 local-zone: "masquecorona.com" static
 local-zone: "masque-corona-virus.com" static
+local-zone: "masque-coronavirus-design.com" static
 local-zone: "masque-coronavirus-france.com" static
 local-zone: "masque-coronavirus-france.fr" static
 local-zone: "masque-coronavirus.net" static
@@ -64789,6 +64796,7 @@ local-zone: "suckitcorona.com" static
 local-zone: "suckitcoronavirus.com" static
 local-zone: "suckitcovid19.com" static
 local-zone: "suckitcovid.com" static
+local-zone: "sucovid19paiduaykan.com" static
 local-zone: "sudancoronavirus.com" static
 local-zone: "sudancovid19.info" static
 local-zone: "suechinaforcoronavirus.com" static
@@ -72447,6 +72455,7 @@ local-zone: "www.masksforcoronavirussale.com" static
 local-zone: "www.masksforcoronaviruss.com" static
 local-zone: "www.masksforcovid19.store" static
 local-zone: "www.maskthecovid19.com" static
+local-zone: "www.masque-coronavirus-design.com" static
 local-zone: "www.masque-covid-19.fr" static
 local-zone: "www.masque-de-protection-coronavirus.fr" static
 local-zone: "www.masques-coronavirus.brussels" static
