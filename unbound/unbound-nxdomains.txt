@@ -2755,6 +2755,7 @@ local-zone: "beyondcorona.com" static
 local-zone: "beyondcoronacomeback.com" static
 local-zone: "beyondcoronavirus.com" static
 local-zone: "beyondcoronavirus.net" static
+local-zone: "beyondcoronavirus.org" static
 local-zone: "beyond-covid-19.com" static
 local-zone: "beyond-covid19.com" static
 local-zone: "beyondcovid-19.com" static
@@ -27105,6 +27106,7 @@ local-zone: "covid-19.centromedicoescalon.com" static
 local-zone: "covid19centurytree.net" static
 local-zone: "covid19ceo.com" static
 local-zone: "covid19-cerb-applicati0n.com" static
+local-zone: "covid19.cerbj.org" static
 local-zone: "covid19-cermi.com" static
 local-zone: "covid19.cernym.cz" static
 local-zone: "covid-19cert.com" static
@@ -35060,6 +35062,7 @@ local-zone: "covid-19pill.net" static
 local-zone: "covid19pinas.ml" static
 local-zone: "covid-19.pineau.pm" static
 local-zone: "covid-19.pineridgeco-op.bc.ca" static
+local-zone: "covid19ping.com" static
 local-zone: "covid19.pink" static
 local-zone: "covid-19pins.com" static
 local-zone: "covid19pins.com" static
@@ -68101,6 +68104,7 @@ local-zone: "vacunacoronavirus.net" static
 local-zone: "vacunacovid19.co" static
 local-zone: "vacunacovid19.com.co" static
 local-zone: "vacunacovid19.net" static
+local-zone: "vacunaparacoronavirus.com" static
 local-zone: "vacunascoronavirus.com" static
 local-zone: "vaffancovid.today" static
 local-zone: "vaginacoronavirus.com" static
@@ -71046,6 +71050,7 @@ local-zone: "www.covid19frisco.com" static
 local-zone: "www.covid19fronterasur.com" static
 local-zone: "www.covid19frontline.org" static
 local-zone: "www.covid19fs.org" static
+local-zone: "www.covid19fund-gov.khotenterprise.com" static
 local-zone: "www.covid19funding.org" static
 local-zone: "www.covid19.futurehack.ng" static
 local-zone: "www.covid-19-fysiotherapie.nl" static
