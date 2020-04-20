@@ -691,6 +691,7 @@ local-zone: "affichage-covid-19.fr" static
 local-zone: "affichagecovid19.fr" static
 local-zone: "affiche-covid-19.fr" static
 local-zone: "affichecovid19.fr" static
+local-zone: "affichescovid19.com" static
 local-zone: "affiches-covid-19.fr" static
 local-zone: "affichescovid19.fr" static
 local-zone: "affop-covid19-soignants.care" static
@@ -23057,6 +23058,7 @@ local-zone: "coronavirustestguidelines.com" static
 local-zone: "coronavirustest.guru" static
 local-zone: "coronavirustest.health" static
 local-zone: "coronavirustesthelp.com" static
+local-zone: "coronavirustest.hu" static
 local-zone: "coronavirustestimonies.com" static
 local-zone: "coronavirus-test.info" static
 local-zone: "coronavirustestinfo.com" static
@@ -34151,6 +34153,7 @@ local-zone: "covid-19.neroumu.xyz" static
 local-zone: "covid1-9.net" static
 local-zone: "covid19.netaqsoft.com" static
 local-zone: "covid-19.netbymatt.com" static
+local-zone: "covid19-net.clinicafoianini.com" static
 local-zone: "covid19-netflix.com" static
 local-zone: "covid19.netgas.ai" static
 local-zone: "covid19-netherlands.com" static
@@ -35164,6 +35167,7 @@ local-zone: "covid-19.planetafutbol.co" static
 local-zone: "covid19planet.com" static
 local-zone: "covid19.planetic.uk" static
 local-zone: "covid19.planhnd.org" static
+local-zone: "covid19.planjuarez.org" static
 local-zone: "covid-19planning.com" static
 local-zone: "covid19planning.net" static
 local-zone: "covid19-plano-contingencia.com" static
@@ -35443,6 +35447,7 @@ local-zone: "covid19.primesearch.io" static
 local-zone: "covid-19.prindi.me" static
 local-zone: "covid-19print.com" static
 local-zone: "covid19print.com" static
+local-zone: "covid19.prisminfoways.com" static
 local-zone: "covid19prisonwatch.net.au" static
 local-zone: "covid-19privateloans.com" static
 local-zone: "covid19privateloans.com" static
@@ -36274,6 +36279,7 @@ local-zone: "covid19researchteam.com" static
 local-zone: "covid-19-researchtreatments.com" static
 local-zone: "covid19.research.ubc.ca" static
 local-zone: "covid19research.uclb.com" static
+local-zone: "covid19research.us" static
 local-zone: "covid19research.world" static
 local-zone: "covid19.reseausantewallon.be" static
 local-zone: "covid19.reserve-civique.gouv.fr" static
@@ -39093,6 +39099,7 @@ local-zone: "covid19.tmss-ict.com" static
 local-zone: "covid-19.tn" static
 local-zone: "covid19-tn.com" static
 local-zone: "covid19tn.com" static
+local-zone: "covid19tn.live" static
 local-zone: "covid19-tn.online" static
 local-zone: "covid19toc.com" static
 local-zone: "covid19to.com" static
@@ -67717,6 +67724,7 @@ local-zone: "uk-coronavirus.xyz" static
 local-zone: "uk.covid19bank.com" static
 local-zone: "ukcovid-19.com" static
 local-zone: "ukcovid19help.com" static
+local-zone: "uk-covid19.info" static
 local-zone: "uk-covid-19-relieve.com" static
 local-zone: "ukcovid19stories.com" static
 local-zone: "ukcovid19support.com" static
@@ -71726,6 +71734,7 @@ local-zone: "www.covid-19repellent.com" static
 local-zone: "www.covid19reporting.info" static
 local-zone: "www.covid19reports.app" static
 local-zone: "www.covid19research.pitt.edu" static
+local-zone: "www.covid19research.us" static
 local-zone: "www.covid-19resiliency.com" static
 local-zone: "www.covid19resourcehub.com" static
 local-zone: "www.covid19resources.info" static
