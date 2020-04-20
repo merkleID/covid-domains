@@ -31434,6 +31434,7 @@ local-zone: "covid-19-impfung.com" static
 local-zone: "covid19-impfung.com" static
 local-zone: "covid19impfung.com" static
 local-zone: "covid19imports.com" static
+local-zone: "covid19-impots.fr" static
 local-zone: "covid19-ims.info-aid.net" static
 local-zone: "covid19.ims-sol.com" static
 local-zone: "covid19imt.garp.sandbox.jxeeno.com" static
@@ -38251,6 +38252,7 @@ local-zone: "covid19ta.com" static
 local-zone: "covid19-tagebuch.de" static
 local-zone: "covid19-tagengo.com" static
 local-zone: "covid19.taillislabs.com" static
+local-zone: "covid19taiwan.com" static
 local-zone: "covid19.tajam.news" static
 local-zone: "covid-19.takeanswer.com" static
 local-zone: "covid19-takecare.com" static
@@ -52958,6 +52960,7 @@ local-zone: "howtoplaythemarketduringcovid19.com" static
 local-zone: "howtoprepareforapandemic.com" static
 local-zone: "howtoprepareforcoronavirus.com" static
 local-zone: "howtopreventcorona.com" static
+local-zone: "howtopreventcoronavirus.eu" static
 local-zone: "howtopreventcovid-19.com" static
 local-zone: "howtopreventcovid19.com" static
 local-zone: "howtopreventthecoronavirus.com" static
@@ -54452,6 +54455,7 @@ local-zone: "jailcoronaviruslawyer.com" static
 local-zone: "jailcovid19.com" static
 local-zone: "jailfreepasscovid19.com" static
 local-zone: "jaisurvecuaucoronavirus.com" static
+local-zone: "jakicovid19.org" static
 local-zone: "jamcovid19.com" static
 local-zone: "jamcovid19.moh.gov.jm" static
 local-zone: "jamcovid2019.com" static
@@ -56220,6 +56224,7 @@ local-zone: "mascaracoronavirus.net.br" static
 local-zone: "mascaracoronavirus.pt" static
 local-zone: "mascaracovid-19.com" static
 local-zone: "mascaracovid19.com" static
+local-zone: "mascaraparacovid19.com.br" static
 local-zone: "mascarascaseirascovid19.com" static
 local-zone: "mascarascaseirascovid19.pt" static
 local-zone: "mascaras-corona-virus.com" static
@@ -72364,6 +72369,7 @@ local-zone: "www.ncov19.de" static
 local-zone: "www.ncov19.sk" static
 local-zone: "www.ncov19.tech" static
 local-zone: "www.ncov2019.co.uk" static
+local-zone: "www.ncov2019.online" static
 local-zone: "www.ncovid-19.com" static
 local-zone: "www.ncovid19.com" static
 local-zone: "www.ncovid19.in" static
