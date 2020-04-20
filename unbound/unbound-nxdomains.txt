@@ -31522,6 +31522,7 @@ local-zone: "covid19-india.online" static
 local-zone: "covid19indiaorg.com" static
 local-zone: "covid19india.org.in" static
 local-zone: "covid19india-react-shuklaayush.now.sh" static
+local-zone: "covid19indiaresult.com" static
 local-zone: "covid19-india.sapyard.com" static
 local-zone: "covid19india.shalksoftech.com" static
 local-zone: "covid19india-shuklaayush.now.sh" static
@@ -33498,6 +33499,7 @@ local-zone: "covid19medshop.com" static
 local-zone: "covid19meds.net" static
 local-zone: "covid19meds.org" static
 local-zone: "covid19.medster.se" static
+local-zone: "covid19medstore.com" static
 local-zone: "covid19medstudents.ca" static
 local-zone: "covid19-medsupplies.com" static
 local-zone: "covid19medsupplies.com" static
@@ -35220,6 +35222,7 @@ local-zone: "covid19.portima.be" static
 local-zone: "covid19portland.com" static
 local-zone: "covid19.portoenorte.pt" static
 local-zone: "covid19.portondelvalle.com" static
+local-zone: "covid19.porto.pt" static
 local-zone: "covid-19-portoseguro.onrender.com" static
 local-zone: "covid19-portugal.com" static
 local-zone: "covid19portugal.com" static
@@ -70998,6 +71001,7 @@ local-zone: "www.covid19dailyinfo.com" static
 local-zone: "www.covid-19dailynewsreport.com" static
 local-zone: "www.covid19dailyreport.com" static
 local-zone: "www.covid19dataanalytics.com" static
+local-zone: "www.covid19datacenter.com" static
 local-zone: "www.covid-19-data.com" static
 local-zone: "www.covid19-dataexchange.org" static
 local-zone: "www.covid19data.no" static
@@ -71426,6 +71430,7 @@ local-zone: "www.covid19-medicus.com" static
 local-zone: "www.covid19medisupply.com" static
 local-zone: "www.covid-19-medlevensohn.com" static
 local-zone: "www.covid-19-medllevensohn.com" static
+local-zone: "www.covid19medmonitor.ru" static
 local-zone: "www.covid19medsupplies.com" static
 local-zone: "www.covid19memorial.memorial" static
 local-zone: "www.covid19memorial.run" static
