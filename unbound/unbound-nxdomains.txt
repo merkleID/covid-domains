@@ -30812,6 +30812,7 @@ local-zone: "covid19health.world" static
 local-zone: "covid19healthy.com" static
 local-zone: "covid19.healthyplacesindex.org" static
 local-zone: "covid19healt.net" static
+local-zone: "covid19hearthealth.respond.ontraport.net" static
 local-zone: "covid19heartsofgold.org" static
 local-zone: "covid19heat.com" static
 local-zone: "covid-19-heatdeactivationbox.com" static
@@ -48516,6 +48517,7 @@ local-zone: "dev.key-worker-coronavirus-home-testing.service.gov.uk" static
 local-zone: "dev.persicovid19.id" static
 local-zone: "dev-projections.covid19.perceptionhealth.com" static
 local-zone: "devqrcovidpass.com" static
+local-zone: "dev.skelflo.ayobantucovid19.org" static
 local-zone: "dev-stopcovid19.code4hamamatsu.org" static
 local-zone: "dev-stopcovid19-hamamatsu.code4hamamatsu.org" static
 local-zone: "dev.togocovid19.org" static
@@ -58855,6 +58857,7 @@ local-zone: "oncorona.com" static
 local-zone: "on-covid19.com" static
 local-zone: "oncovid19.com" static
 local-zone: "oncovid19.myownboss.ca" static
+local-zone: "oncovid-19.org" static
 local-zone: "oncovid.com" static
 local-zone: "ondemandcovid19test.com" static
 local-zone: "ondemandcovid19testing.com" static
