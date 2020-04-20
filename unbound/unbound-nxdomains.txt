@@ -29112,6 +29112,7 @@ local-zone: "covid-19-earth.com" static
 local-zone: "covid19earth.com" static
 local-zone: "covid19.eas.cornell.edu" static
 local-zone: "covid19.easocare.com" static
+local-zone: "covid19.easternvascular.org" static
 local-zone: "covid-19.eastus.cloudapp.azure.com" static
 local-zone: "covid-19-easy-english-guide-for-today.com" static
 local-zone: "covid19.easygov.swiss" static
@@ -31188,6 +31189,7 @@ local-zone: "covid19-hotline.com" static
 local-zone: "covid19hotline.com" static
 local-zone: "covid19-hotline-management.onrender.com" static
 local-zone: "covid19-hotline-management-staging.onrender.com" static
+local-zone: "covid19-hotlines.jp" static
 local-zone: "covid19hotlineusa.com" static
 local-zone: "covid-19hotspot.com" static
 local-zone: "covid19hotspot.com" static
@@ -36291,6 +36293,7 @@ local-zone: "covid19responder.com" static
 local-zone: "covid-19responders.com" static
 local-zone: "covid19responders.com" static
 local-zone: "covid19respondfund.org" static
+local-zone: "covid19.respondfunds.org" static
 local-zone: "covid19responseact.com" static
 local-zone: "covid19responsealliance.com" static
 local-zone: "covid19-response.americamakes.us" static
@@ -49625,6 +49628,7 @@ local-zone: "epicorona.com" static
 local-zone: "epicoronavirus.com" static
 local-zone: "epicovid19.com" static
 local-zone: "epicovid19.dirislimasur.gob.pe" static
+local-zone: "epicovid19.es" static
 local-zone: "epi-covid19.lu" static
 local-zone: "epi-covid19.tn" static
 local-zone: "epicovid.com" static
@@ -56480,6 +56484,7 @@ local-zone: "masquescoronavirus.online" static
 local-zone: "masquescoronavirus.shop" static
 local-zone: "masques-coronavirus.site" static
 local-zone: "masques-coronavirus.store" static
+local-zone: "masquescovid19.co" static
 local-zone: "masques-covid-19.com" static
 local-zone: "masquescovid19.com" static
 local-zone: "masques-covid19.fr" static
@@ -56737,6 +56742,7 @@ local-zone: "mentalhealthcoaltioncovid19response.com" static
 local-zone: "mentalhealthcoronavirus.com" static
 local-zone: "mentalhealthcoronavirus.net" static
 local-zone: "mentalhealthcovid19.ca" static
+local-zone: "mentalhealth-covid19.com" static
 local-zone: "mentalhealthcovid19.com" static
 local-zone: "mentalhealthcovid19.net" static
 local-zone: "menyacoronavirus.nyerekatech.com" static
@@ -57063,6 +57069,7 @@ local-zone: "mosquitospreadcoronavirus.com" static
 local-zone: "mosquitospreadcoronavirus.net" static
 local-zone: "mosquitospreadcovid.com" static
 local-zone: "mosquitospreadcovid.net" static
+local-zone: "mosti.chasecovid19.com" static
 local-zone: "mother-covid.com" static
 local-zone: "motheringinthetimeofcorona.com" static
 local-zone: "motivecovidi.com" static
@@ -61820,6 +61827,7 @@ local-zone: "proteccioncovid19.info" static
 local-zone: "proteccioncovid19.net" static
 local-zone: "proteccioncovid.com" static
 local-zone: "protecciondelcoronavirus.com" static
+local-zone: "protecoescovid19.com.br" static
 local-zone: "protecovid.com" static
 local-zone: "protect4covid.life" static
 local-zone: "protect4covid.today" static
@@ -63439,6 +63447,7 @@ local-zone: "service-gegen-corona-immun.com" static
 local-zone: "service-impots-covid19.com" static
 local-zone: "services-covid-19.dochq.co.uk" static
 local-zone: "servicescovidsst.com" static
+local-zone: "servicio-sanacion-covid-19.iphe.es" static
 local-zone: "servicios.coronavirus.gub.uy" static
 local-zone: "servicios-covid-19-ayudas.gq" static
 local-zone: "servicios-covid-19.gq" static
