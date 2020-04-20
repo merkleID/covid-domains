@@ -1721,6 +1721,7 @@ local-zone: "api.msbfcovid19info.stenlionel.com" static
 local-zone: "api.myhelpcovid19.info" static
 local-zone: "api.ncov-19.net" static
 local-zone: "api.ncov19.us" static
+local-zone: "api.ncov2019.life" static
 local-zone: "api-orientation.covid19.etalab.gouv.fr" static
 local-zone: "api.pandemia-covid19.org" static
 local-zone: "api.pen.test.covid-19.forms.digital.nhs.uk" static
@@ -31858,6 +31859,7 @@ local-zone: "covid19inworld.com" static
 local-zone: "covid19.inzata.com" static
 local-zone: "covid19.iocare.in" static
 local-zone: "covid-19iocero.com" static
+local-zone: "covid19.iodev.ir" static
 local-zone: "covid19.ioleb.com" static
 local-zone: "covid19iop.com" static
 local-zone: "covid19iotalliance.com" static
@@ -34956,6 +34958,7 @@ local-zone: "covid19peru.ga" static
 local-zone: "covid19peru.info" static
 local-zone: "covid19peru.jrzconsultores.com" static
 local-zone: "covid19peru.macalupu.com" static
+local-zone: "covid19.pesakit.co.ke" static
 local-zone: "covid19.pesisirbaratkab.go.id" static
 local-zone: "covid19pestcontrol.com" static
 local-zone: "covid19.pesut.net" static
@@ -51406,6 +51409,7 @@ local-zone: "gegen-corona.com" static
 local-zone: "gegen-corona-immun.com" static
 local-zone: "gegencovid19.de" static
 local-zone: "gejalacorona.com" static
+local-zone: "gel-antibacterial-covid-19.com" static
 local-zone: "gelcovid19.com" static
 local-zone: "geldesinfectantecoronaviruscovid19.website" static
 local-zone: "gelhydrocovid19.com" static
@@ -69891,6 +69895,7 @@ local-zone: "www.biorhin-covid19.fr" static
 local-zone: "www.blackhawkcovid19.com" static
 local-zone: "www.blog.crowdfightcovid19.org" static
 local-zone: "www.blogoltreilcoronavirus.com" static
+local-zone: "www.bnw-covid19-assist.com.au" static
 local-zone: "www.borba-coronavirusom.ru" static
 local-zone: "www.boutique-coronavirus.fr" static
 local-zone: "www.boutique-covid19.com" static
