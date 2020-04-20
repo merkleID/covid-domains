@@ -137,6 +137,7 @@ local-zone: "2019ncov.hnauto.org" static
 local-zone: "2019ncov.jxltom.com" static
 local-zone: "2019-ncov.kenkarlo.com" static
 local-zone: "2019-ncovmask.com" static
+local-zone: "2019ncov.me" static
 local-zone: "2019ncov.misterym.top" static
 local-zone: "2019-ncov.no" static
 local-zone: "2019-ncov.odourscience.co.za" static
@@ -25374,6 +25375,7 @@ local-zone: "covid19alessandria.help" static
 local-zone: "covid19.alesvos.gr" static
 local-zone: "covid-19.alexmenlah.com" static
 local-zone: "covid19.alfaintelli.tech" static
+local-zone: "covid-19.alfaweb.ma" static
 local-zone: "covid19-alfieqashwa.now.sh" static
 local-zone: "covid-19.alfonsodominguez.es" static
 local-zone: "covid19.alfonsodominguez.es" static
@@ -38486,6 +38488,7 @@ local-zone: "covid-19testca.com" static
 local-zone: "covid19test.care" static
 local-zone: "covid19test.carolinaphoenix.net" static
 local-zone: "covid19test.cc" static
+local-zone: "covid19test.cellter.cl" static
 local-zone: "covid19-test.center" static
 local-zone: "covid19test.center" static
 local-zone: "covid19testcenter.com" static
@@ -62714,6 +62717,7 @@ local-zone: "rxcovidkill.com" static
 local-zone: "rxrcovid19relief.com" static
 local-zone: "ryazan-coronavirus.ru" static
 local-zone: "ryl2covid19.net" static
+local-zone: "s1.covid19-net.org" static
 local-zone: "s2h-coronavirus.info" static
 local-zone: "saarthi.helpingindiansduringcoronavirus.com" static
 local-zone: "saas4covid.com" static
@@ -62724,6 +62728,7 @@ local-zone: "sacoronavirus.com" static
 local-zone: "sa-coronavirus.co.za" static
 local-zone: "sacoronavirus.co.za" static
 local-zone: "sa-coronavirus-updates.co.za" static
+local-zone: "sa-covid19-action-plan.live" static
 local-zone: "sacovid19.com" static
 local-zone: "sacovid-19map.com" static
 local-zone: "sa.covid19.palashbauri.in" static
