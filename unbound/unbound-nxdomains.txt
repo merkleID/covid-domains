@@ -652,6 +652,7 @@ local-zone: "aes-test4covid-19.com" static
 local-zone: "aev-covid19.com" static
 local-zone: "afectadocoronavirus.com" static
 local-zone: "afectadocovid.com" static
+local-zone: "afectadoporcoronavirus.com" static
 local-zone: "afectadoscoronavirus.com" static
 local-zone: "afectadoscoronaviruscovid-19.com" static
 local-zone: "afectadoscoronaviruscovid19.com" static
@@ -18406,6 +18407,7 @@ local-zone: "coronavirusillinois.com" static
 local-zone: "coronavirus.illinois.gov" static
 local-zone: "coronavirusillinoislawyers.com" static
 local-zone: "coronavirus-illness.com" static
+local-zone: "coronavirusimage.com" static
 local-zone: "coronavirusimages.com" static
 local-zone: "coronavirusimaging.com" static
 local-zone: "coronavirus.i-magino.com" static
@@ -33515,6 +33517,7 @@ local-zone: "covid19.megastorexpress.com" static
 local-zone: "covid19.mehwishumar.com" static
 local-zone: "covid19me.info" static
 local-zone: "covid-19.meissnerjacquet.com" static
+local-zone: "covid19.melaniehuang.com" static
 local-zone: "covid19.melanin.ventures" static
 local-zone: "covid19-meldpunt.nl" static
 local-zone: "covid19melilla.es" static
@@ -35997,6 +36000,7 @@ local-zone: "covid-19registry.net" static
 local-zone: "covid19registry.net" static
 local-zone: "covid19registryproject.com" static
 local-zone: "covid19.reg-kursk.ru" static
+local-zone: "covid-19regularity.com" static
 local-zone: "covid-19.rehab" static
 local-zone: "covid-19rehab.club" static
 local-zone: "covid19rehab.club" static
@@ -37292,6 +37296,7 @@ local-zone: "covid-19-simulator.adhvaiththurvas.repl.run" static
 local-zone: "covid19simulator.com" static
 local-zone: "covid19-sim.vbc.ac.at" static
 local-zone: "covid19.sina.edu.pk" static
+local-zone: "covid19.sinavalsl.com" static
 local-zone: "covid19.sindhmonitoringcell.com" static
 local-zone: "covid19-singapore.com" static
 local-zone: "covid-19.singles" static
@@ -70991,6 +70996,7 @@ local-zone: "www.covid19cpd.com" static
 local-zone: "www.covid19crisismanagement.com" static
 local-zone: "www.covid19criticalcare.com" static
 local-zone: "www.covid19c.tk" static
+local-zone: "www.covid19.cuflex.net" static
 local-zone: "www.covid19-cure.net" static
 local-zone: "www.covid-19-cures.com" static
 local-zone: "www.covid19curves.nu" static
@@ -71634,6 +71640,7 @@ local-zone: "www.covid19reflections.com" static
 local-zone: "www.covid-19refund.com" static
 local-zone: "www.covid-19refunds.com" static
 local-zone: "www.covid19registry.net" static
+local-zone: "www.covid-19regularity.com" static
 local-zone: "www.covid19regularity.com" static
 local-zone: "www.covid-19rehab.club" static
 local-zone: "www.covid19rehab.club" static
@@ -72522,6 +72529,7 @@ local-zone: "wwwnuveencovid19.net" static
 local-zone: "www.nwacovid-19.com" static
 local-zone: "www.nz-coronavirus.com" static
 local-zone: "www.ocoronaviruse.site" static
+local-zone: "www.o-covid-19.ru" static
 local-zone: "www.odin-covid19.com" static
 local-zone: "www.ofertascoronavirus.com" static
 local-zone: "www.offcovid19.com" static
