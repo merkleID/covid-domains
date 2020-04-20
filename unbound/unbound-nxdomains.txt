@@ -1688,6 +1688,7 @@ local-zone: "api.covid19tracking.narrativa.com" static
 local-zone: "api.covid19uk.live" static
 local-zone: "api.covid19.unioeste-foz.br" static
 local-zone: "api.covid-19watch.org" static
+local-zone: "api.covid19wchat.com" static
 local-zone: "api-covid19.wereact.co" static
 local-zone: "api.covid19.ziphio.com" static
 local-zone: "api.covid19zones.com" static
@@ -28661,6 +28662,7 @@ local-zone: "covid-19-dev-api.berdodee.com" static
 local-zone: "covid19-dev.cdmx.gob.mx" static
 local-zone: "covid19-dev.dannyhp.com" static
 local-zone: "covid19-dev.eipm-research.org" static
+local-zone: "covid19.developers.mv" static
 local-zone: "covid-19.devel.wdf.cz" static
 local-zone: "covid19.deveshlashkari.me" static
 local-zone: "covid19.dev.hurumap.org" static
@@ -35219,6 +35221,7 @@ local-zone: "covid19positive.com" static
 local-zone: "covid19-positivenormality.com" static
 local-zone: "covid-19-positivity.com" static
 local-zone: "covid19-positivity.com" static
+local-zone: "covid19positivity.com" static
 local-zone: "covid19possibilities.com" static
 local-zone: "covid-19post.com" static
 local-zone: "covid19post.com" static
@@ -35280,6 +35283,7 @@ local-zone: "covid19prayerwall.com" static
 local-zone: "covid-19pr.com" static
 local-zone: "covid19-pr.com" static
 local-zone: "covid19prcsupply.com" static
+local-zone: "covid19prdata.org" static
 local-zone: "covid19precaution.krishnawebs.com" static
 local-zone: "covid-19precautions.com" static
 local-zone: "covid-19.prechina.ru" static
@@ -39044,6 +39048,7 @@ local-zone: "covid19token.org" static
 local-zone: "covid19.tokowebpedia.com" static
 local-zone: "covid-19.tokyo" static
 local-zone: "covid19-tokyo.com" static
+local-zone: "covid19tokyo.live" static
 local-zone: "covid19.tokyomagic.co.uk" static
 local-zone: "covid-19toledo.com" static
 local-zone: "covid19toll.com" static
@@ -58977,6 +58982,7 @@ local-zone: "onlinecremationcovid19.com" static
 local-zone: "online-karta-coronavirus.ru" static
 local-zone: "onlinepandemic.com" static
 local-zone: "onlineteacherduringcovid.com" static
+local-zone: "onlineteachingduringcovid19.com" static
 local-zone: "onlinetestcorona.com" static
 local-zone: "onlinetestcoronavirus.com" static
 local-zone: "onlinetest-covid19.com" static
@@ -62996,6 +63002,7 @@ local-zone: "satgascovid19.ansortegalkab.or.id" static
 local-zone: "satgascovid19tarowang.balang.org" static
 local-zone: "satgaslawancovid19.com" static
 local-zone: "satonaikaclinic.coronavirus-clinic.com" static
+local-zone: "saudemental.covid19.minsaude.pt" static
 local-zone: "saudicorona.com" static
 local-zone: "saudicoronavirus.com" static
 local-zone: "sauver-ma-boutique-covid19.adjemin.com" static
@@ -72496,6 +72503,7 @@ local-zone: "www.oneagainstcovid19.ph" static
 local-zone: "www.onlinecovid19.info" static
 local-zone: "www.onlinecovid19.ru" static
 local-zone: "www.onlinetaskcovid-19.4pu.com" static
+local-zone: "www.onlineteachingduringcovid19.com" static
 local-zone: "www.onsite.lillycovid19testing.com" static
 local-zone: "www.opensourceagainstcovid19.org" static
 local-zone: "www.operationcovid19.co" static
