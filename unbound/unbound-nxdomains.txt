@@ -35065,6 +35065,7 @@ local-zone: "covid19pk.com" static
 local-zone: "covid-19.pkoh-ac.com" static
 local-zone: "covid19-pk.page" static
 local-zone: "covid-19.pl" static
+local-zone: "covid19place.com" static
 local-zone: "covid-19plague.com" static
 local-zone: "covid19plaintiffs.com" static
 local-zone: "covid19plakati.com" static
@@ -61484,6 +61485,7 @@ local-zone: "preppercovid.com" static
 local-zone: "preppingforcoronavirus.com" static
 local-zone: "preprd.covid19.back.docapost-agility.fr" static
 local-zone: "preprodcasos.coronavirus.gub.uy" static
+local-zone: "preprod.cms.coronavirusresources.phe.gov.uk" static
 local-zone: "preprodservicios.coronavirus.gub.uy" static
 local-zone: "prescreencoronavirus.org" static
 local-zone: "prescreencovid19.com" static
@@ -62902,6 +62904,8 @@ local-zone: "sars-cov-2vaccines.com" static
 local-zone: "sars-covid-19.com" static
 local-zone: "sarscovid19.com" static
 local-zone: "sarscovid19mall.com" static
+local-zone: "sarscovid19medication.com" static
+local-zone: "sarscovid19meds.com" static
 local-zone: "sars-covid-19.net" static
 local-zone: "sarscovid19.net" static
 local-zone: "sarscovid19sanitizer.com" static
@@ -70320,6 +70324,7 @@ local-zone: "www.coronavirusmaskonline.com.au" static
 local-zone: "www.corona-virus-mask.org" static
 local-zone: "www.coronavirusmasksale.store" static
 local-zone: "www.corona-virus-masks-sanitizers-gloves-supplies.com" static
+local-zone: "www.coronavirusmasks.solutions" static
 local-zone: "www.coronavirusmask.world" static
 local-zone: "www.coronavirus-masque.ch" static
 local-zone: "www.coronavirusmasque.com" static
