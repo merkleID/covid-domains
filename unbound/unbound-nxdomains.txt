@@ -1670,6 +1670,7 @@ local-zone: "api.covid19map.nz" static
 local-zone: "api.covid19mx.acsyt.com" static
 local-zone: "api.covid19.namduastudio.com" static
 local-zone: "api-covid-19.narino.gov.co" static
+local-zone: "apicovid19.netic.xyz" static
 local-zone: "api.covid19petpro.com" static
 local-zone: "api.covid19.prixa.ai" static
 local-zone: "api-covid19.prod.8layertech.io" static
@@ -34541,6 +34542,7 @@ local-zone: "covid19onderzoek.nl" static
 local-zone: "covid19one.com" static
 local-zone: "covid19.one-equality.com" static
 local-zone: "covid19.onellar.com" static
+local-zone: "covid19.oneplug.in" static
 local-zone: "covid19onesteptest.com" static
 local-zone: "covid19onesteptesting.com" static
 local-zone: "covid19onestop.com" static
@@ -37309,6 +37311,7 @@ local-zone: "covid19sixfeetaway.net" static
 local-zone: "covid19.sixt9.net" static
 local-zone: "covid-19-skaa.ru" static
 local-zone: "covid19.skedsocial.com" static
+local-zone: "covid19.skeinbim.com" static
 local-zone: "covid19.skieslab.io" static
 local-zone: "covid19.skillythebot.com" static
 local-zone: "covid-19.skotial.net" static
@@ -38525,6 +38528,7 @@ local-zone: "covid19test.cellter.cl" static
 local-zone: "covid19-test.center" static
 local-zone: "covid19test.center" static
 local-zone: "covid19testcenter.com" static
+local-zone: "covid19testcenter.co.uk" static
 local-zone: "covid19testcenter.rjclinical.com" static
 local-zone: "covid-19testcenters.com" static
 local-zone: "covid19testcenters.com" static
@@ -47587,6 +47591,7 @@ local-zone: "cpcontacts.covid19lockdown.blog" static
 local-zone: "cpcontacts.covid19.myriaddev.com" static
 local-zone: "cpcontacts.covid19selftracker.com" static
 local-zone: "cpcontacts.covid19stand.com" static
+local-zone: "cpcontacts.covid19testkitkorea.com" static
 local-zone: "cpcontacts.covid19testkit.life" static
 local-zone: "cpcontacts.covid19tomorrow.com" static
 local-zone: "cpcontacts.das-coronavirus.de" static
