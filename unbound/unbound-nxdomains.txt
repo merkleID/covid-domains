@@ -1191,6 +1191,7 @@ local-zone: "anarcovid19.net" static
 local-zone: "anarcovid.net" static
 local-zone: "anascoronavirusbrunch.com" static
 local-zone: "anchoragecovid19.com" static
+local-zone: "anchorage.vscovid-19.org" static
 local-zone: "an-covid19.com" static
 local-zone: "andale-corona.com" static
 local-zone: "andalecorona.com" static
@@ -1686,6 +1687,7 @@ local-zone: "apicovid19.ru" static
 local-zone: "api.covid19sas.com" static
 local-zone: "api.covid19.sciencelab.com.br" static
 local-zone: "api.covid19.social" static
+local-zone: "api-covid19.soymejor.com" static
 local-zone: "api.covid19statstrack.com" static
 local-zone: "api.covid19.therappx.com" static
 local-zone: "api.covid-19today.org" static
@@ -34538,6 +34540,7 @@ local-zone: "covid19nz.online" static
 local-zone: "covid-19-nz.tk" static
 local-zone: "covid19.o2coaching.ca" static
 local-zone: "covid19oacle.com" static
+local-zone: "covid-19-oakland.com" static
 local-zone: "covid19oaktown.com" static
 local-zone: "covid19oasis.com" static
 local-zone: "covid19obamacare.com" static
@@ -62132,7 +62135,10 @@ local-zone: "psychologycovid19.com" static
 local-zone: "psychologyofcoronavirus.com" static
 local-zone: "psychologyofcovid19.com" static
 local-zone: "psychologypandemic.com" static
+local-zone: "psycovid-19.com" static
 local-zone: "psycovid19.com" static
+local-zone: "psycovid-19.fr" static
+local-zone: "psycovid19.fr" static
 local-zone: "psy-solidaires-covid.com" static
 local-zone: "pt.coronavirus-face-mask.today" static
 local-zone: "pt.coronavirus-novaregion.org" static
@@ -68307,6 +68313,7 @@ local-zone: "vaccinecovid-19fundraisingforresearch.com" static
 local-zone: "vaccine-covid19.net" static
 local-zone: "vaccinecovid-19.net" static
 local-zone: "vaccinecovid19.nl" static
+local-zone: "vaccinecovid-19.org" static
 local-zone: "vaccine-covid2019.com" static
 local-zone: "vaccine-covid.com" static
 local-zone: "vaccinecovid.net" static
