@@ -35045,6 +35045,7 @@ local-zone: "covid19.pasdo.org" static
 local-zone: "covid19pasms.com" static
 local-zone: "covid19pasoapaso.com" static
 local-zone: "covid-19-paspoort.nl" static
+local-zone: "covid19passchitradurga.com" static
 local-zone: "covid-19pass.com" static
 local-zone: "covid19pass.com" static
 local-zone: "covid19pass.com.pl" static
@@ -58373,6 +58374,7 @@ local-zone: "newscovid19.eu" static
 local-zone: "news-covid19.it" static
 local-zone: "newscovid19.it" static
 local-zone: "newscovid19.net" static
+local-zone: "newscovid19.org" static
 local-zone: "newscovid-19.ru" static
 local-zone: "newscovid-19.tk" static
 local-zone: "news.covid19washoe.com" static
@@ -63021,6 +63023,7 @@ local-zone: "rokecovid19.com" static
 local-zone: "rokokcovid19.com" static
 local-zone: "rolandgarros-covid19.com" static
 local-zone: "rolandgarroscovid19.com" static
+local-zone: "rollandinc.covid19-hr.com" static
 local-zone: "rollycovid19.com" static
 local-zone: "romanceandcoronavirus.com" static
 local-zone: "romanceandcovid.com" static
@@ -67915,6 +67918,7 @@ local-zone: "uatcovid19.labcrunch.org" static
 local-zone: "uat.covid19relief.citi.com" static
 local-zone: "uat-covid19.sindhpolice.gov.pk" static
 local-zone: "uat.test.covid-19.forms.digital.nhs.uk" static
+local-zone: "uat.tracing.covid19.govt.nz" static
 local-zone: "uavscovid19.com.ua" static
 local-zone: "ubercontraocovid-19.com.br" static
 local-zone: "uber-coronavirus.com" static
@@ -68214,10 +68218,12 @@ local-zone: "usacovid19map.com" static
 local-zone: "usacovid19match.com" static
 local-zone: "usacovid19.net" static
 local-zone: "usacovid19news.com" static
+local-zone: "usacovid19ppe.com" static
 local-zone: "usacovid19settlement.com" static
 local-zone: "usacovid19supplies.com" static
 local-zone: "usacovid19supply.com" static
 local-zone: "usacovid-19test.com" static
+local-zone: "usacovid19testkits.com" static
 local-zone: "usacovid19tests.com" static
 local-zone: "usacovid19updates.sytes.net" static
 local-zone: "usacovid21.com" static
@@ -71899,6 +71905,7 @@ local-zone: "www.covid19papersoap.com" static
 local-zone: "www.covid19papers.org" static
 local-zone: "www.covid19parenting.family.blog" static
 local-zone: "www.covid19partners.com" static
+local-zone: "www.covid19passchitradurga.com" static
 local-zone: "www.covid19.pdavim.com" static
 local-zone: "www.covid19pdf.info" static
 local-zone: "www.covid19.pdgcreative.com" static
