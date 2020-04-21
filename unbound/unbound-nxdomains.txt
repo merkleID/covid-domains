@@ -27672,6 +27672,7 @@ local-zone: "covid19cm.com" static
 local-zone: "covid19.cmdlt.pstelemed.com" static
 local-zone: "covid-19-cme.com" static
 local-zone: "covid19cme.com" static
+local-zone: "covid-19.cmegatherings.com" static
 local-zone: "covid19-cme.solusoft-server.com" static
 local-zone: "covid19.cmladvocates.net" static
 local-zone: "covid19.cm-oaz.pt" static
@@ -32849,6 +32850,7 @@ local-zone: "covid19litigators.com" static
 local-zone: "covid-19liveaid.com" static
 local-zone: "covid-19liveaid.org" static
 local-zone: "covid19live.app" static
+local-zone: "covid19live.bid" static
 local-zone: "covid19live.cf" static
 local-zone: "covid-19-live.com" static
 local-zone: "covid-19live.com" static
@@ -57233,6 +57235,7 @@ local-zone: "moroccovid.com" static
 local-zone: "mosaicovidal.com" static
 local-zone: "mosanticovid19.online" static
 local-zone: "mosanticovid19.ru" static
+local-zone: "moscow-coronavirus.ru" static
 local-zone: "mosquitospreadcoronavirus.com" static
 local-zone: "mosquitospreadcoronavirus.net" static
 local-zone: "mosquitospreadcovid.com" static
@@ -71361,6 +71364,7 @@ local-zone: "www.covid19frisco.com" static
 local-zone: "www.covid19fronterasur.com" static
 local-zone: "www.covid19frontline.org" static
 local-zone: "www.covid19fs.org" static
+local-zone: "www.covid19.ftalps.fr" static
 local-zone: "www.covid19fund-gov.khotenterprise.com" static
 local-zone: "www.covid19funding.org" static
 local-zone: "www.covid19.futurehack.ng" static
