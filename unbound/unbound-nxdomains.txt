@@ -1733,6 +1733,7 @@ local-zone: "api.myhelpcovid19.info" static
 local-zone: "api.ncov-19.net" static
 local-zone: "api.ncov19.us" static
 local-zone: "api.ncov2019.life" static
+local-zone: "api.ocovid19.info" static
 local-zone: "api-orientation.covid19.etalab.gouv.fr" static
 local-zone: "api.pandemia-covid19.org" static
 local-zone: "api.pen.test.covid-19.forms.digital.nhs.uk" static
@@ -26209,6 +26210,7 @@ local-zone: "covid19-bayanihanbulacan.info-aid.net" static
 local-zone: "covid19-bayanihan.info-aid.net" static
 local-zone: "covid19-bayanihanlaguna.info-aid.net" static
 local-zone: "covid19-bayanihanviscaya.info-aid.net" static
+local-zone: "covid-19-bayarea.com" static
 local-zone: "covid-19bayarea.com" static
 local-zone: "covid19bayarea.com" static
 local-zone: "covid19bayarea.support" static
@@ -30143,6 +30145,7 @@ local-zone: "covid-19freezone.com" static
 local-zone: "covid19freezone.com" static
 local-zone: "covid19freezones.com" static
 local-zone: "covid19-frei.de" static
+local-zone: "covid-19-fremont.com" static
 local-zone: "covid19frequency.com" static
 local-zone: "covid19freshair.com" static
 local-zone: "covid19.freshsince1999.com" static
@@ -30310,6 +30313,7 @@ local-zone: "covid19.gccstat.org" static
 local-zone: "covid19.gcefe.com" static
 local-zone: "covid19-gcrmc.org" static
 local-zone: "covid19.gdanforth.com" static
+local-zone: "covid19.gdc.govt.nz" static
 local-zone: "covid-19.gdemoi.ru" static
 local-zone: "covid19.gdnr.org.gh" static
 local-zone: "covid19-gear.com" static
@@ -30783,6 +30787,7 @@ local-zone: "covid-19hawaii.com" static
 local-zone: "covid19hawaii.world" static
 local-zone: "covid19.hayatgarip.com" static
 local-zone: "covid19.haycco.com" static
+local-zone: "covid-19-hayward.com" static
 local-zone: "covid19hazardousmitigation.com" static
 local-zone: "covid19hazardousremediation.com" static
 local-zone: "covid19hazardtesting.com" static
@@ -33457,6 +33462,7 @@ local-zone: "covid19medicalaid.com" static
 local-zone: "covid-19medicalbeds.com" static
 local-zone: "covid19medicalbeds.com" static
 local-zone: "covid19medicalbills.com" static
+local-zone: "covid19medicalcare.com" static
 local-zone: "covid19medicalclaim.com" static
 local-zone: "covid19medicalclaims.com" static
 local-zone: "covid19medicalclearancecertificate.com" static
@@ -36482,6 +36488,7 @@ local-zone: "covid19.richardbestlaw.com" static
 local-zone: "covid19.richardesmith.com" static
 local-zone: "covid19.richardkeep.dev" static
 local-zone: "covid-19.richjablonski.org" static
+local-zone: "covid-19-richmond.com" static
 local-zone: "covid19richmondshire.org" static
 local-zone: "covid19ri.com" static
 local-zone: "covid19.rid3220.org" static
@@ -36795,6 +36802,7 @@ local-zone: "covid-19.sandes.uk" static
 local-zone: "covid19sandiego.com" static
 local-zone: "covid-19sanfrancisco.com" static
 local-zone: "covid19sanfrancisco.com" static
+local-zone: "covid-19-sanfransisco.com" static
 local-zone: "covid19.sanggau.go.id" static
 local-zone: "covid19.sangihekab.go.id" static
 local-zone: "covid19.sangpati-tech.com" static
@@ -36826,7 +36834,10 @@ local-zone: "covid19sanitizing.com" static
 local-zone: "covid19sanitkit.com" static
 local-zone: "covid-19sanity.com" static
 local-zone: "covid19sanity.com" static
+local-zone: "covid-19-sanjose.com" static
+local-zone: "covid-19-sanleandro.com" static
 local-zone: "covid19.sanlorenzo.gob.ar" static
+local-zone: "covid-19-sanmateo.com" static
 local-zone: "covid19-sanofi.com" static
 local-zone: "covid19sanofi.com" static
 local-zone: "covid19.sanomatics.com" static
@@ -39905,6 +39916,7 @@ local-zone: "covid-19vacuna.net" static
 local-zone: "covid19.vala-media.com" static
 local-zone: "covid19.valiant-bd.com" static
 local-zone: "covid19validic.com" static
+local-zone: "covid-19-vallejo.com" static
 local-zone: "covid-19.valleywisehealth.org" static
 local-zone: "covid19value.com" static
 local-zone: "covid19valuesets.com" static
@@ -48177,6 +48189,7 @@ local-zone: "data-covid19.com" static
 local-zone: "datacovid-19.com" static
 local-zone: "datacovid19.icm.edu.pl" static
 local-zone: "data.covid19japan.com" static
+local-zone: "data.covid19maps.co" static
 local-zone: "datacovid19.org" static
 local-zone: "data.covid19.sabah.digital" static
 local-zone: "datacovid19.sulsel.net" static
