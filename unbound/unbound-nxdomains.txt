@@ -31344,6 +31344,7 @@ local-zone: "covid19-hub.com" static
 local-zone: "covid19hub.eu" static
 local-zone: "covid-19hub.govops.ca.gov" static
 local-zone: "covid19hub.it" static
+local-zone: "covid19.huck.com.ar" static
 local-zone: "covid19.hudsonregional.org" static
 local-zone: "covid19humanitarian.com" static
 local-zone: "covid-19.humanitarian.digital" static
@@ -32091,6 +32092,7 @@ local-zone: "covid19.itomates.com" static
 local-zone: "covid19-it-regional.lucabruno.net" static
 local-zone: "covid-19.itsbi.id" static
 local-zone: "covid19.itsbohara.com" static
+local-zone: "covid19.itspace13.ru" static
 local-zone: "covid19.itvanilla.com" static
 local-zone: "covid19.iurall.com" static
 local-zone: "covid19.ivare.com.br" static
@@ -36400,9 +36402,11 @@ local-zone: "covid19resources.ca" static
 local-zone: "covid-19-resources.com" static
 local-zone: "covid-19resources.com" static
 local-zone: "covid19-resources.com" static
+local-zone: "covid19resources.fsm.northwestern.edu" static
 local-zone: "covid19resources.info" static
 local-zone: "covid-19resources.net" static
 local-zone: "covid19resources.net" static
+local-zone: "covid19resources-staging.fsm.northwestern.edu" static
 local-zone: "covid19resourceteam.com" static
 local-zone: "covid19resourceteam.net" static
 local-zone: "covid19resoursecenter.com" static
@@ -37667,6 +37671,7 @@ local-zone: "covid-19solutions.org" static
 local-zone: "covid19solve.com" static
 local-zone: "covid19solved.com" static
 local-zone: "covid19-somalia.net" static
+local-zone: "covid-19.somaligirlscan.org" static
 local-zone: "covid19-somaliland.net" static
 local-zone: "covid-19song.com" static
 local-zone: "covid19song.com" static
@@ -52857,6 +52862,7 @@ local-zone: "hesobrevividoalcoronavirus.com" static
 local-zone: "hetcoronavirus.com" static
 local-zone: "hetcoronavirus.nl" static
 local-zone: "he.test-coronavirus.eu" static
+local-zone: "hetkoznapihosok-covid19.hu" static
 local-zone: "hey-corona.com" static
 local-zone: "heycorona.net" static
 local-zone: "heycorona.today" static
@@ -67363,6 +67369,7 @@ local-zone: "todayscovid.com" static
 local-zone: "toddandcue.covid19-updates.co.uk" static
 local-zone: "to-disinfect-coronavirus.com" static
 local-zone: "to-disinfect-covid-19.com" static
+local-zone: "todo-app-covid19.cloud-app.in" static
 local-zone: "todocoronavirus.com.es" static
 local-zone: "todocovid19.info" static
 local-zone: "todoparacovid.com" static
@@ -70402,6 +70409,7 @@ local-zone: "www.coronavirusadieu.com" static
 local-zone: "www.coronavirus.adozono.pt" static
 local-zone: "www.coronavirusalertapp.com" static
 local-zone: "www.coronavirus-algerie.com" static
+local-zone: "www.coronavirus.alohadigital.it" static
 local-zone: "www.coronavirus-altona-dx.com" static
 local-zone: "www.coronavirus.amnhealthcare.com" static
 local-zone: "www.coronavirus-analytics.ru" static
@@ -71729,6 +71737,7 @@ local-zone: "www.covid19memorial.memorial" static
 local-zone: "www.covid19memorial.run" static
 local-zone: "www.covid19memorials.org" static
 local-zone: "www.covid19memorialwall.com" static
+local-zone: "www.covid19.merauke.go.id" static
 local-zone: "www.covid19-merchandise.com" static
 local-zone: "www.covid19-merch.com" static
 local-zone: "www.covid19merch.store" static
