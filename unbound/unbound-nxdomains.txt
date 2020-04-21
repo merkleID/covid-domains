@@ -290,6 +290,7 @@ local-zone: "2secureaccount-facebookcovid19petition.ga" static
 local-zone: "2securemobile-facebookcovid19petition.gq" static
 local-zone: "2securemobile-facebookcovid19petition.tk" static
 local-zone: "2treatcoronavirus.com" static
+local-zone: "2.uat.tracing.covid19.govt.nz" static
 local-zone: "30minutecovidtest.com" static
 local-zone: "333covid19medicalsupplies.com" static
 local-zone: "34681a97.test.covid-19.forms.digital.nhs.uk" static
@@ -29364,6 +29365,7 @@ local-zone: "covid19emergencykit.com" static
 local-zone: "covid19emergencyloans.com" static
 local-zone: "covid19emergencyloans.net" static
 local-zone: "covid19emergencymanagement.com" static
+local-zone: "covid19emergencymasks.com" static
 local-zone: "covid19emergencymiami.com" static
 local-zone: "covid-19emergencyrelief.com" static
 local-zone: "covid19emergencyrelief.com" static
@@ -30506,6 +30508,7 @@ local-zone: "covid19.globus.az" static
 local-zone: "covid-19gloves.com" static
 local-zone: "covid19gloves.com" static
 local-zone: "covid19gmpcleaners.com" static
+local-zone: "covid19.gmpic.in" static
 local-zone: "covid19gmu.stcenter.net" static
 local-zone: "covid19.gnucoop.io" static
 local-zone: "covid-19.go123.biz" static
@@ -32847,6 +32850,7 @@ local-zone: "covid19liabilitylawyer.com" static
 local-zone: "covid19.liamcottle.com" static
 local-zone: "covid19.liberotratto.com" static
 local-zone: "covid19.liberty.co.za" static
+local-zone: "covid19.libra.it" static
 local-zone: "covid19library.com" static
 local-zone: "covid19library.mesau.net" static
 local-zone: "covid19library.org" static
@@ -36874,6 +36878,7 @@ local-zone: "covid19.sahealthdata.co.za" static
 local-zone: "covid19.sahidjwalk.com" static
 local-zone: "covid19.sahlhealth.com" static
 local-zone: "covid19-saitama-seibu-home-project.com" static
+local-zone: "covid-19.sait.kz" static
 local-zone: "covid19salesacademy.com" static
 local-zone: "covid19salesacademy.nl" static
 local-zone: "covid19sa.life" static
@@ -56315,6 +56320,7 @@ local-zone: "mail.coronavirus.ca" static
 local-zone: "mail.coronaviruscleaning.info" static
 local-zone: "mail.coronaviruscureuk.com" static
 local-zone: "mail.coronavirusdiaries.net" static
+local-zone: "mail.coronavirusfoundation.org" static
 local-zone: "mail.coronavirushoax.org" static
 local-zone: "mail.coronavirusnews.su" static
 local-zone: "mail.coronavirusofficial.online" static
