@@ -18646,6 +18646,7 @@ local-zone: "coronavirusinfo.tips" static
 local-zone: "coronavirus-info.tk" static
 local-zone: "corona-virus-info.today" static
 local-zone: "coronavirusinfotracker.it" static
+local-zone: "coronavirusinfoupdate.com" static
 local-zone: "coronavirusinfoupdate.org" static
 local-zone: "coronavirusinfousa.com" static
 local-zone: "coronavirusinfous.com" static
@@ -19087,6 +19088,7 @@ local-zone: "corona-virus-latest.com" static
 local-zone: "coronavirus-latest.com" static
 local-zone: "coronavirus-latestnews.com" static
 local-zone: "corona-virus-latest-update.com" static
+local-zone: "coronaviruslatestupdate.com" static
 local-zone: "coronaviruslatestupdates.com" static
 local-zone: "coronaviruslatinoamerica.com" static
 local-zone: "coronaviruslatkovski.com" static
@@ -28039,6 +28041,7 @@ local-zone: "covid-19coronavirusbusinessshutdown.com" static
 local-zone: "covid19-corona-virus.com" static
 local-zone: "covid19corona-virus.com" static
 local-zone: "covid19coronavirus-communityhelp.com" static
+local-zone: "covid19-coronavirus.co.uk" static
 local-zone: "covid19-coronavirus-cure.com" static
 local-zone: "covid19coronavirusdata.com" static
 local-zone: "covid-19-corona-virus.de" static
@@ -30809,6 +30812,7 @@ local-zone: "covid19.haurgeulisdev.or.id" static
 local-zone: "covid19hausa.bauchistate.gov.ng" static
 local-zone: "covid-19hawaii.com" static
 local-zone: "covid19hawaii.world" static
+local-zone: "covid19.haxorindo.id" static
 local-zone: "covid19.hayatgarip.com" static
 local-zone: "covid19.haycco.com" static
 local-zone: "covid-19-hayward.com" static
@@ -31651,6 +31655,7 @@ local-zone: "covid19-infektionsschutz.de" static
 local-zone: "covid19.infiniteuny.id" static
 local-zone: "covid19influenzacleaners.com" static
 local-zone: "covid19.infn.it" static
+local-zone: "covid19info247.com" static
 local-zone: "covid19-info.app" static
 local-zone: "covid19infoapp.com" static
 local-zone: "covid19-info.at" static
@@ -31751,6 +31756,8 @@ local-zone: "covid19-info.tk" static
 local-zone: "covid19.info.tr" static
 local-zone: "covid19infotracker.it" static
 local-zone: "covid19.infotulungagung.id" static
+local-zone: "covid19infoupdate.com" static
+local-zone: "covid19infoupdates.com" static
 local-zone: "covid19infoupdates.serveblog.net" static
 local-zone: "covid19infouptodate.info" static
 local-zone: "covid19infousa.com" static
@@ -31764,6 +31771,7 @@ local-zone: "covid19infusion.net" static
 local-zone: "covid19.ingauge.africa" static
 local-zone: "covid19.ingegneriabiomedica.org" static
 local-zone: "covid19ingreece.com" static
+local-zone: "covid19.ing.uc.cl" static
 local-zone: "covid19inhaler.com" static
 local-zone: "covid19inhometest.com" static
 local-zone: "covid19inhometestkit.com" static
@@ -37876,6 +37884,8 @@ local-zone: "covid19statstracker.com" static
 local-zone: "covid-19stats.world" static
 local-zone: "covid19stats.world" static
 local-zone: "covid19stats.xyz" static
+local-zone: "covid19statupdate.com" static
+local-zone: "covid19statupdates.com" static
 local-zone: "covid-19-status.anexia.com" static
 local-zone: "covid19status.ca" static
 local-zone: "covid-19-status.com" static
@@ -58246,6 +58256,7 @@ local-zone: "newcovid19news.com" static
 local-zone: "newcovid19stats.com" static
 local-zone: "newcovid19testkit.com" static
 local-zone: "newcovid19testkits.com" static
+local-zone: "newcovid19update.com" static
 local-zone: "newcovid19updates.com" static
 local-zone: "newcovid2020.com" static
 local-zone: "new-covid.com" static
@@ -72606,6 +72617,7 @@ local-zone: "www.ksbroadcasterscovid19.com" static
 local-zone: "www.kzcoronavirus.ru" static
 local-zone: "www.labgeotcovid19.uns.edu.ar" static
 local-zone: "www.labtestcovid19.com" static
+local-zone: "www.lacountycovid19api.com" static
 local-zone: "www.ladiasporasemobilisecovid19.fr" static
 local-zone: "www.lancasterdistrictcovid19.org.uk" static
 local-zone: "www.latestcoronavirustips.bridegroomdress.com" static
