@@ -2650,6 +2650,7 @@ local-zone: "behindthesecretofthecovid19.com" static
 local-zone: "behindthesecretofthecovid19.net" static
 local-zone: "beirholm-covid19.com" static
 local-zone: "bekercovid.com" static
+local-zone: "belagavicovid19.com" static
 local-zone: "belaruscoronavirus.com" static
 local-zone: "belgiumcoronavirus.com" static
 local-zone: "belgiumresistance-covid19.com" static
@@ -36405,6 +36406,7 @@ local-zone: "covid-19-research-group.com" static
 local-zone: "covid19research.net" static
 local-zone: "covid19research.nl" static
 local-zone: "covid-19research.org" static
+local-zone: "covid-19-research.rockefeller.edu" static
 local-zone: "covid19.researchstudies.us" static
 local-zone: "covid19research.study" static
 local-zone: "covid19researchstudy.com" static
@@ -55397,6 +55399,7 @@ local-zone: "kuwaitcovid19.com" static
 local-zone: "kwaracovid19.covidlysis.com" static
 local-zone: "kwara-covid19.eclathealthcare.com" static
 local-zone: "kwcoronachallenge.com" static
+local-zone: "kwcovid19resource.com" static
 local-zone: "kwcovid19resources.com" static
 local-zone: "kwickscreen-covid.com" static
 local-zone: "kycoronahelp.com" static
@@ -61160,6 +61163,7 @@ local-zone: "paracoronavirus.es" static
 local-zone: "paracovid.com" static
 local-zone: "paraelcoronavirus.com" static
 local-zone: "parafarmaciacoronavirus.com" static
+local-zone: "parafarmaciacovid19.com" static
 local-zone: "paranoidpandemic.com" static
 local-zone: "paremoscovid.net" static
 local-zone: "parentingaftercorona.com" static
@@ -65878,6 +65882,7 @@ local-zone: "testgearcorona.com" static
 local-zone: "testgearcovid19.com" static
 local-zone: "testi-na-coronavirus.ru" static
 local-zone: "testing1.covid-19.digitalcontrolroom.com" static
+local-zone: "testing2.covid-19.digitalcontrolroom.com" static
 local-zone: "testing4coronavirus.com" static
 local-zone: "testingathomecovid19.com" static
 local-zone: "testingcorona.com" static
