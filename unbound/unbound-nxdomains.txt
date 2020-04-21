@@ -1475,6 +1475,7 @@ local-zone: "anticovid19vaccine.com" static
 local-zone: "anti-covid19-virus.com" static
 local-zone: "anticovid-19virus.com" static
 local-zone: "anticovid19virus.com" static
+local-zone: "anti-covid-19.w365.it" static
 local-zone: "anticovid-2019.com" static
 local-zone: "anticovid2019.com" static
 local-zone: "anticovid-2019.ru" static
@@ -19270,6 +19271,7 @@ local-zone: "coronaviruslegalguide.com" static
 local-zone: "coronavirus-legalhelp.com" static
 local-zone: "coronaviruslegalhelp.com" static
 local-zone: "coronaviruslegalhelpflorida.com" static
+local-zone: "coronaviruslegalhelpline.com" static
 local-zone: "coronaviruslegalhelp.net" static
 local-zone: "coronaviruslegalinfo.com" static
 local-zone: "coronaviruslegalissues.com" static
@@ -32433,6 +32435,7 @@ local-zone: "covid19.knightnet.hu" static
 local-zone: "covid19knights.com" static
 local-zone: "covid19knowmore.com" static
 local-zone: "covid19.knsd.digital" static
+local-zone: "covid-19.kobimart.com" static
 local-zone: "covid19.kodemonk.com" static
 local-zone: "covid19.kodswift.website" static
 local-zone: "covid-19kohls.com" static
@@ -37842,6 +37845,7 @@ local-zone: "covid-19-staging.readcube.com" static
 local-zone: "covid19-staging.readcube.com" static
 local-zone: "covid-19-staging.sennalabs.com" static
 local-zone: "covid-19-staging.tacc.utexas.edu" static
+local-zone: "covid19.stampinup.com" static
 local-zone: "covid-19stamps.com" static
 local-zone: "covid19stamps.com" static
 local-zone: "covid19stamps.org" static
@@ -65847,6 +65851,7 @@ local-zone: "testforthecoronavirus.com" static
 local-zone: "testgearcorona.com" static
 local-zone: "testgearcovid19.com" static
 local-zone: "testi-na-coronavirus.ru" static
+local-zone: "testing1.covid-19.digitalcontrolroom.com" static
 local-zone: "testing4coronavirus.com" static
 local-zone: "testingathomecovid19.com" static
 local-zone: "testingcorona.com" static
