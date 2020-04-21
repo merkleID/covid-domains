@@ -14432,6 +14432,7 @@ local-zone: "coronavirus.app" static
 local-zone: "coronavirus.appadoo.co.uk" static
 local-zone: "coronavirusapparel.org" static
 local-zone: "coronavirus-app.com" static
+local-zone: "coronavirusapp.co.tz" static
 local-zone: "coronavirus-app.de" static
 local-zone: "coronavirus-appeal.com" static
 local-zone: "coronavirusappeal.com" static
@@ -36370,6 +36371,7 @@ local-zone: "covid19response.co.za" static
 local-zone: "covid19responsecrew.com" static
 local-zone: "covid19response.cryptengineer.com" static
 local-zone: "covid19.responsedga.com" static
+local-zone: "covid19response.ekitistate.gov.ng" static
 local-zone: "covid-19response.finance" static
 local-zone: "covid19-response.finance" static
 local-zone: "covid19response.finance" static
@@ -54139,6 +54141,7 @@ local-zone: "instantcoronavirushometest.com" static
 local-zone: "instantcoronavirustest.com" static
 local-zone: "instantcoronavirustester.com" static
 local-zone: "instantcoronavirustestkit.com" static
+local-zone: "instantcoronavirustests.com" static
 local-zone: "instantcovid19hometest.com" static
 local-zone: "instantcovid19rapidtest.com" static
 local-zone: "instantcovid-19test.com" static
