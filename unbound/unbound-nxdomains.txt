@@ -15229,6 +15229,7 @@ local-zone: "coronavirus.caren.app" static
 local-zone: "coronaviruscarepackage.com" static
 local-zone: "coronaviruscarepackages.com" static
 local-zone: "coronaviruscarerelief.com" static
+local-zone: "coronaviruscarers.co.uk" static
 local-zone: "coronaviruscaresact.com" static
 local-zone: "coronavirus-cares.com" static
 local-zone: "coronaviruscareservices.com" static
@@ -35117,6 +35118,8 @@ local-zone: "covid19percentage.com" static
 local-zone: "covid-19.perezcleaners.com" static
 local-zone: "covid-19.perfecttechreviews.com" static
 local-zone: "covid19.perkonigg.at" static
+local-zone: "covid19permias.com" static
+local-zone: "covid19.permiasnasional.com" static
 local-zone: "covid-19.permit.com" static
 local-zone: "covid19.perpetualmotion.space" static
 local-zone: "covid19personalassistant.com" static
@@ -36080,6 +36083,7 @@ local-zone: "covid19recoverywashingtonstate.com" static
 local-zone: "covid19recovery.world" static
 local-zone: "covid19.rect.online" static
 local-zone: "covid-19-rectoz667.rectoz667.repl.run" static
+local-zone: "covid-19recuperartd.com" static
 local-zone: "covid-19.red" static
 local-zone: "covid19.redbird.co" static
 local-zone: "covid19.redclayschools.com" static
@@ -38237,6 +38241,7 @@ local-zone: "covid-19support.net" static
 local-zone: "covid19support.net" static
 local-zone: "covid19support.network" static
 local-zone: "covid19supportnetwork.com" static
+local-zone: "covid19support.ngoafrica.org" static
 local-zone: "covid19supportng.org" static
 local-zone: "covid19-support.oracle.com" static
 local-zone: "covid-19support.org" static
@@ -64771,6 +64776,7 @@ local-zone: "stopcovid19now.de" static
 local-zone: "stop-covid19.online" static
 local-zone: "stopcovid-19.online" static
 local-zone: "stop-covid19.org" static
+local-zone: "stop-covid19.org.uk" static
 local-zone: "stopcovid19.pichuchen.tw" static
 local-zone: "stopcovid19.pl" static
 local-zone: "stopcovid-19.positive-energy.ru" static
