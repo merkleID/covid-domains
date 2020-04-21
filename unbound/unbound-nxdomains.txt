@@ -48695,6 +48695,7 @@ local-zone: "dev.fopcovid19.org" static
 local-zone: "dev.gaboncovid19.org" static
 local-zone: "device2curecovid19.com" static
 local-zone: "device2treatcovid19.com" static
+local-zone: "dev.kawaguchi-stopcovid19.jp" static
 local-zone: "devkawalcovid19.harippe.id" static
 local-zone: "dev.key-worker-coronavirus-home-testing.service.gov.uk" static
 local-zone: "dev.persicovid19.id" static
@@ -51493,6 +51494,7 @@ local-zone: "fukcorona.com" static
 local-zone: "fukcoronavirus.com" static
 local-zone: "fukcovid19.com" static
 local-zone: "fukcovid.com" static
+local-zone: "fukkcoronavirus.com" static
 local-zone: "fukucovid.com" static
 local-zone: "fukuoka.stopcovid19.jp" static
 local-zone: "fullcoronaprotection.com" static
@@ -54867,6 +54869,7 @@ local-zone: "kauaicoronaupdate.com" static
 local-zone: "kaustcoronavirustaskforcehelp.zendesk.com" static
 local-zone: "kaustcoronavirustaskforcesupport.zendesk.com" static
 local-zone: "kaustcoronavirustaskforce.zendesk.com" static
+local-zone: "kawaguchi-stopcovid19.jp" static
 local-zone: "kawalcorona.com" static
 local-zone: "kawalcovid19.com" static
 local-zone: "kawalcovid19.kepulauanbanyak.com" static
@@ -58023,6 +58026,7 @@ local-zone: "ncov2019live.ikiptoo.me" static
 local-zone: "ncov2019live.info" static
 local-zone: "ncov2019.online" static
 local-zone: "ncov2019.pressq.net" static
+local-zone: "ncov2019sg.auguried.com" static
 local-zone: "ncov2019-tracker.live" static
 local-zone: "ncov-2019-visualization-of-the-dead.demo.ytlink.net" static
 local-zone: "ncov-2019.wangbaiyuan.cn" static
@@ -70507,6 +70511,7 @@ local-zone: "www.coronavirusfoundation.net" static
 local-zone: "www.coronavirus-france.app" static
 local-zone: "www.coronavirus.furniture" static
 local-zone: "www.corona-virus.fyi" static
+local-zone: "www.coronavirus-game.site" static
 local-zone: "www.coronavirusgear19.com" static
 local-zone: "www.coronavirusgearnow.com" static
 local-zone: "www.coronavirus-germaniya.ru" static
@@ -72369,6 +72374,7 @@ local-zone: "www.fuckyoucoronavirus.com.ar" static
 local-zone: "www.fucovid-19.com" static
 local-zone: "www.fucovid19.net" static
 local-zone: "www.fukcoronavirus.com" static
+local-zone: "www.fukkcoronavirus.com" static
 local-zone: "www.fundraiserforcovid19.com" static
 local-zone: "www.fundstopcovid19.com" static
 local-zone: "www.fxckcovid19.com" static
