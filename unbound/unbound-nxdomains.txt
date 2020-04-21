@@ -83,6 +83,7 @@ local-zone: "19covid19.com" static
 local-zone: "19covid.co" static
 local-zone: "19covid.es" static
 local-zone: "19covidfieldlane.com" static
+local-zone: "19covid.ga" static
 local-zone: "19covid-gouv12.com" static
 local-zone: "19covidlawsuits.com" static
 local-zone: "19covidmask.com" static
@@ -22897,6 +22898,7 @@ local-zone: "corona-virustalk.com" static
 local-zone: "coronavirus-talk.net" static
 local-zone: "coronavirustalk.net" static
 local-zone: "coronavirustalks.com" static
+local-zone: "coronavirustally.com" static
 local-zone: "coronavirus.tamandare.pe.gov.br" static
 local-zone: "coronavirustampa.com" static
 local-zone: "coronavirus.tandil.gov.ar" static
@@ -30014,6 +30016,7 @@ local-zone: "covid19.foleygiolittocpa.com" static
 local-zone: "covid19followupcare.com" static
 local-zone: "covid19.fomrra.org" static
 local-zone: "covid-19.fondationdrjulien.org" static
+local-zone: "covid19-fondation-fit-ch.orientedhosting.com" static
 local-zone: "covid-19fond.com" static
 local-zone: "covid19fonden.dk" static
 local-zone: "covid19fondos.com" static
@@ -65571,6 +65574,7 @@ local-zone: "testcoronarisk.com" static
 local-zone: "testcoronashop.com" static
 local-zone: "testcorona.today" static
 local-zone: "testcoronavirus19.com" static
+local-zone: "test.coronavirus19.nyc" static
 local-zone: "testcoronavirusathome.com" static
 local-zone: "testcoronavirus.center" static
 local-zone: "testcoronavirus.cl" static
@@ -67444,6 +67448,7 @@ local-zone: "track-covid19.com" static
 local-zone: "trackcovid-19.com" static
 local-zone: "trackcovid19.com.br" static
 local-zone: "trackcovid19cures.com" static
+local-zone: "trackcovid19health.com" static
 local-zone: "trackcovid19.in" static
 local-zone: "trackcovid19.info" static
 local-zone: "trackcovid19linebot.com" static
@@ -73071,6 +73076,7 @@ local-zone: "www.thecoronavirustales.com" static
 local-zone: "www.thecoronavirustestkit.com" static
 local-zone: "www.thecoronavirustestkits.com" static
 local-zone: "www.thecovid19cure.com" static
+local-zone: "www.thecovid19database.com" static
 local-zone: "www.thecovid19dataproject.com" static
 local-zone: "www.thecovid19essentials.com" static
 local-zone: "www.thecovid-19.inetpanacea.com" static
@@ -73108,6 +73114,7 @@ local-zone: "www.topcovid19necessities.com" static
 local-zone: "www.tracecovid19-20.com" static
 local-zone: "www.tracecovid19.app" static
 local-zone: "www.trackcoronavirus.app" static
+local-zone: "www.trackcovid19health.com" static
 local-zone: "www.track-covid19.in" static
 local-zone: "www.trackcovid19.info" static
 local-zone: "www.trackcovid19.net" static
