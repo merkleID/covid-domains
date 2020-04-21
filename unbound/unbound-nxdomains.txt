@@ -32274,6 +32274,7 @@ local-zone: "covid19karaoke.com" static
 local-zone: "covid19kar.com" static
 local-zone: "covid19.karimunkab.go.id" static
 local-zone: "covid19.karnataka.gov.in" static
+local-zone: "covid19.karnataka.tech" static
 local-zone: "covid19.karnival.tech" static
 local-zone: "covid19.karokab.go.id" static
 local-zone: "covid19karta.ru" static
@@ -40460,6 +40461,7 @@ local-zone: "covid-19.wearlinq.com" static
 local-zone: "covid19wear.net" static
 local-zone: "covid19.webbions.com" static
 local-zone: "covid19.webbox.co.za" static
+local-zone: "covid19.webbu.com" static
 local-zone: "covid-19webcast.com" static
 local-zone: "covid19webcast.com" static
 local-zone: "covid19.webdufaso.com" static
@@ -55375,6 +55377,7 @@ local-zone: "labcorpcovid-19.com" static
 local-zone: "labcorpcovid19.com" static
 local-zone: "labcovid19.com" static
 local-zone: "lab-covid-19-kms.pl" static
+local-zone: "laborhaus-covid-19.de" static
 local-zone: "labqrcovidpass.com" static
 local-zone: "labscorona.com" static
 local-zone: "labs.coronavirus.voce.org.br" static
@@ -61478,6 +61481,7 @@ local-zone: "polcovid.com" static
 local-zone: "polen.coronavirus.cbp-sandbox.com" static
 local-zone: "politicsoftrumpcoronacurve.com" static
 local-zone: "polizzacoronavirus.com" static
+local-zone: "polizzacoronavirus.it" static
 local-zone: "pollcovid19.com" static
 local-zone: "polmonite-covid19.it" static
 local-zone: "pontelaverdecovid19.mx" static
@@ -72142,6 +72146,8 @@ local-zone: "www.covid-19supply.org" static
 local-zone: "www.covid19supply.shop" static
 local-zone: "www.covid19supportafrica.org" static
 local-zone: "www.covid19-support.com" static
+local-zone: "www.covid19supportfund.net" static
+local-zone: "www.covid19supportfund.org" static
 local-zone: "www.covid19-support.org" static
 local-zone: "www.covid-19.surau.asia" static
 local-zone: "www.covid19surveyaz.com" static
@@ -73039,6 +73045,7 @@ local-zone: "www.sequelcoronavirus.com" static
 local-zone: "www.servicios-covid-19-ayudanos.gq" static
 local-zone: "www.servicios-covid-19-portal.ga" static
 local-zone: "www.servicos.covid19eu.pt" static
+local-zone: "www.sessotempocoronavirus.site" static
 local-zone: "www.sfdvcoronavirus.family.blog" static
 local-zone: "www.sgcovid19.com" static
 local-zone: "www.sgcovid19graphics.com" static
@@ -73165,6 +73172,7 @@ local-zone: "www.testcoronavirus.gr" static
 local-zone: "www.testcoronavirus.site" static
 local-zone: "www.testcoronavirus.today" static
 local-zone: "www.test-covid19.ru" static
+local-zone: "www.test-covid19.store" static
 local-zone: "www.test-for-covid19.com" static
 local-zone: "www.testforcovid19.ru" static
 local-zone: "www.testing.covid19status.xyz" static
