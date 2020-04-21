@@ -1808,6 +1808,7 @@ local-zone: "app.covid19-bs.ch" static
 local-zone: "appcovid-19.com" static
 local-zone: "appcovid19.com" static
 local-zone: "app.covid19counselingca.org" static
+local-zone: "app.covid19data.de" static
 local-zone: "app.covid19-dataexchange.org" static
 local-zone: "app.covid-19data.mx" static
 local-zone: "app.covid-19ers.com" static
@@ -27115,6 +27116,7 @@ local-zone: "covid-19cbdoil.com" static
 local-zone: "covid19cbdoil.com" static
 local-zone: "covid19.cbe.cornell.edu" static
 local-zone: "covid-19.cb.laura-br.com" static
+local-zone: "covid-19-cbs-sterilisation.co.uk" static
 local-zone: "covid19cbt.com" static
 local-zone: "covid19cbts.com" static
 local-zone: "covid19.ccblm.ma" static
@@ -36828,6 +36830,7 @@ local-zone: "covid19saludmental.health.blog" static
 local-zone: "covid19.salutia.org" static
 local-zone: "covid19-salvador.com" static
 local-zone: "covid19-samplify.seuit.astrazeneca.com" static
+local-zone: "covid19.samscloud.io" static
 local-zone: "covid19samsclub.com" static
 local-zone: "covid19sanantonio.com" static
 local-zone: "covid19.sanantonio.gov" static
@@ -37246,6 +37249,7 @@ local-zone: "covid-19.sennalabs.com" static
 local-zone: "covid19.sennoidal.com" static
 local-zone: "covid19sensibilisation.yj.fr" static
 local-zone: "covid19.sensibus.io" static
+local-zone: "covid19.sensifai.com" static
 local-zone: "covid19.sensor.pe" static
 local-zone: "covid-19.seqmayors.qld.gov.au" static
 local-zone: "covid19sequence.com" static
@@ -37425,6 +37429,7 @@ local-zone: "covid19simulation.com" static
 local-zone: "covid-19-simulation.danielli11.repl.run" static
 local-zone: "covid-19-simulator.adhvaiththurvas.repl.run" static
 local-zone: "covid19simulator.com" static
+local-zone: "covid19simulator.dr-schillinger.de" static
 local-zone: "covid19-sim.vbc.ac.at" static
 local-zone: "covid19.sina.edu.pk" static
 local-zone: "covid-19.sinavalsl.com" static
@@ -38398,6 +38403,7 @@ local-zone: "covid-19symptoms.org" static
 local-zone: "covid19symptoms.world" static
 local-zone: "covid19symptomtracker.com" static
 local-zone: "covid19symtoms.com" static
+local-zone: "covid-19.synagri.ca" static
 local-zone: "covid19.synapsedev.net" static
 local-zone: "covid19.synapse-medicine.com" static
 local-zone: "covid19.synawebsite.com" static
@@ -39497,6 +39503,7 @@ local-zone: "covid19tribe.com" static
 local-zone: "covid-19tribute.com" static
 local-zone: "covid-19tributes.com" static
 local-zone: "covid19tributes.com" static
+local-zone: "covid19.trickswar.com" static
 local-zone: "covid19.trimblemaps.com" static
 local-zone: "covid-19.trinityteam.it" static
 local-zone: "covid19.trinityteam.it" static
@@ -55353,6 +55360,7 @@ local-zone: "lafayettecovid.com" static
 local-zone: "lagoscorona.com" static
 local-zone: "lagoscovid19dairies.org" static
 local-zone: "lagoscovid19diaries.org" static
+local-zone: "lagos-covid19.eclathealthcare.com" static
 local-zone: "lagoscovid19volunteers.org" static
 local-zone: "lagoswillbeatcorona.com" static
 local-zone: "lagoswillbeatcovid19.com" static
@@ -62127,6 +62135,7 @@ local-zone: "protezionicovid19.eu" static
 local-zone: "protezioni-covid19.it" static
 local-zone: "protezionicovid19.it" static
 local-zone: "proticovid19.sk" static
+local-zone: "protivcovid19.ru" static
 local-zone: "protocolcovid.com" static
 local-zone: "protocolloanticovid19.com" static
 local-zone: "protocovid.com" static
