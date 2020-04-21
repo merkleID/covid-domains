@@ -26928,6 +26928,7 @@ local-zone: "covid19.cac.queensu.ca" static
 local-zone: "covid19cad.com" static
 local-zone: "covid19.cafebookkeepers.com.au" static
 local-zone: "covid19.cagibig.com" static
+local-zone: "covid19.caimanbyte.com" static
 local-zone: "covid19calabria.eu" static
 local-zone: "covid-19calc.com" static
 local-zone: "covid19-calc.com" static
@@ -39396,6 +39397,7 @@ local-zone: "covid19-tracker.info" static
 local-zone: "covid19tracker.interesante.com" static
 local-zone: "covid19tracker.io" static
 local-zone: "covid-19-tracker.iotsolutionz.com" static
+local-zone: "covid19trackeritalia.altervista.org" static
 local-zone: "covid-19-tracker.kevinthomas5.repl.run" static
 local-zone: "covid19tracker-laguna.mcl-ccis.net" static
 local-zone: "covid19tracker.life" static
