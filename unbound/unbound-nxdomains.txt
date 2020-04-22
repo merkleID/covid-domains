@@ -1342,6 +1342,7 @@ local-zone: "anticoronavirus.center" static
 local-zone: "anticoronavirus.cloud" static
 local-zone: "anticoronavirus.club" static
 local-zone: "anticoronavirusclub.com" static
+local-zone: "anticoronavirusclub.mx" static
 local-zone: "anti-corona-virus.com" static
 local-zone: "anti-coronavirus.com" static
 local-zone: "anticorona-virus.com" static
@@ -2068,8 +2069,10 @@ local-zone: "athomecorona.com" static
 local-zone: "athomecoronakits.com" static
 local-zone: "athomecoronatest.com" static
 local-zone: "athomecoronatesting.com" static
+local-zone: "at-homecoronavirustest.com" static
 local-zone: "athome-coronavirustest.com" static
 local-zone: "athomecoronavirustest.com" static
+local-zone: "at-homecoronavirustesting.com" static
 local-zone: "athome-coronavirustesting.com" static
 local-zone: "athomecoronavirustesting.com" static
 local-zone: "athomecoronavirustestkit.com" static
@@ -35163,6 +35166,7 @@ local-zone: "covid19pandemonium.com" static
 local-zone: "covid-19-panel.algistix.com" static
 local-zone: "covid19panel.com" static
 local-zone: "covid19.panelkaito.com" static
+local-zone: "covid19.paneraselect.com" static
 local-zone: "covid19.pangandarankab.go.id" static
 local-zone: "covid19pangasinan.wearepixelhub.com" static
 local-zone: "covid19panic2020.com" static
@@ -37251,6 +37255,7 @@ local-zone: "covid19.schene.net" static
 local-zone: "covid-19-schnelltest.com" static
 local-zone: "covid-19schnelltest.com" static
 local-zone: "covid19-schnell-test.com" static
+local-zone: "covid19-schnelltester.de" static
 local-zone: "covid19-schnelltest.net" static
 local-zone: "covid19.scholarshipowl.com" static
 local-zone: "covid19.school" static
@@ -37419,6 +37424,7 @@ local-zone: "covid-19-security-shield.com" static
 local-zone: "covid19.seed.dev" static
 local-zone: "covid19.sefac.tv" static
 local-zone: "covid19.sefi.it" static
+local-zone: "covid-19.segobqueretaro.gob.mx" static
 local-zone: "covid19.sehatkita.id" static
 local-zone: "covid19.seidorlatam.com" static
 local-zone: "covid-19.seie-madagascar.org" static
@@ -38327,6 +38333,7 @@ local-zone: "covid19stylemask.com" static
 local-zone: "covid19stylemasks.com" static
 local-zone: "covid-19.su" static
 local-zone: "covid19.subam.in" static
+local-zone: "covid-19.subangxploits.com" static
 local-zone: "covid-19.subangxploits.xyz" static
 local-zone: "covid19.sube.la" static
 local-zone: "covid19.subhajitsaha.live" static
@@ -49688,6 +49695,7 @@ local-zone: "ebookcoronavirus.com" static
 local-zone: "ebookcoronavirus.site" static
 local-zone: "ec9abe38.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "ecccovid19.com" static
+local-zone: "ecgcovid19cardioa1.com" static
 local-zone: "echameunamanocovid19.medicosdelmundo.org" static
 local-zone: "echeloncovid19.co.uk" static
 local-zone: "ecomcovid19.com" static
@@ -56800,6 +56808,7 @@ local-zone: "markedsafecovid19.com" static
 local-zone: "marketcap.covid19mapper.com" static
 local-zone: "marketcorona.com" static
 local-zone: "marketingbeyondcorona.com" static
+local-zone: "marketingdirecto.caretacovid19.com" static
 local-zone: "marketingpandemic.com" static
 local-zone: "marketplacecovid19.com" static
 local-zone: "marketplacecovid19.gal" static
@@ -70586,6 +70595,7 @@ local-zone: "www.anticoronavirus2020.com" static
 local-zone: "www.anti-coronavirus.at" static
 local-zone: "www.anticoronavirus.biz" static
 local-zone: "www.anticoronaviruscare.com" static
+local-zone: "www.anticoronavirusclub.mx" static
 local-zone: "www.anti-coronavirus.com" static
 local-zone: "www.anticorona-virus.com" static
 local-zone: "www.anticoronaviruscovid19.com" static
@@ -71143,6 +71153,7 @@ local-zone: "www.coronavirusmasks.solutions" static
 local-zone: "www.coronavirusmask.world" static
 local-zone: "www.coronavirus-masque.ch" static
 local-zone: "www.coronavirusmasque.com" static
+local-zone: "www.coronavirusmataopresidentepor.vontadepropria.art" static
 local-zone: "www.coronavirusmatch.org" static
 local-zone: "www.coronavirus-matome.website" static
 local-zone: "www.coronavirusmedicalmasks.com" static
