@@ -4740,6 +4740,7 @@ local-zone: "contipharma-covid19.com" static
 local-zone: "contra-coronavirus.com" static
 local-zone: "contracoronavirus.com.br" static
 local-zone: "contra-coronavirus.de" static
+local-zone: "contracoronavirusonline.com" static
 local-zone: "contra-covid19.com" static
 local-zone: "contracovid19.com" static
 local-zone: "contracovid19.josefhinach.com" static
@@ -49419,6 +49420,7 @@ local-zone: "dtccwuhanvirus.net" static
 local-zone: "dubaicorona.com" static
 local-zone: "dubaicoronavirus.com" static
 local-zone: "dubistcorona.com" static
+local-zone: "duckcovid19.banuable.com" static
 local-zone: "dudascovid.com" static
 local-zone: "dudaslaboralescoronavirus.com" static
 local-zone: "dudesovercovid.com" static
@@ -68286,6 +68288,7 @@ local-zone: "usacovid19supply.com" static
 local-zone: "usacovid-19test.com" static
 local-zone: "usacovid19testkits.com" static
 local-zone: "usacovid19tests.com" static
+local-zone: "usacovid19tracker.com" static
 local-zone: "usacovid19updates.sytes.net" static
 local-zone: "usacovid21.com" static
 local-zone: "usacovidcases.com" static
