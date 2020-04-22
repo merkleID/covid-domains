@@ -30104,6 +30104,7 @@ local-zone: "covid19.foleygiolittocpa.com" static
 local-zone: "covid19followupcare.com" static
 local-zone: "covid19.fomrra.org" static
 local-zone: "covid-19.fondationdrjulien.org" static
+local-zone: "covid19.fondation-fit.ch" static
 local-zone: "covid19-fondation-fit-ch.orientedhosting.com" static
 local-zone: "covid-19fond.com" static
 local-zone: "covid19fonden.dk" static
@@ -30165,6 +30166,7 @@ local-zone: "covid19.forpurposelaw.com" static
 local-zone: "covid19.forsale" static
 local-zone: "covid19.fortel.co.uk" static
 local-zone: "covid-19.forthehealth.gr" static
+local-zone: "covid19.forthehealth.gr" static
 local-zone: "covid19fortheinjured.com" static
 local-zone: "covid19-forthepeople.com" static
 local-zone: "covid19forthepeople.com" static
@@ -36554,6 +36556,7 @@ local-zone: "covid19responseact.com" static
 local-zone: "covid19responsealliance.com" static
 local-zone: "covid19-response.americamakes.us" static
 local-zone: "covid19responsebot.com" static
+local-zone: "covid19response.buffalony.gov" static
 local-zone: "covid19-response.com" static
 local-zone: "covid19response.co.za" static
 local-zone: "covid19responsecrew.com" static
@@ -49862,6 +49865,7 @@ local-zone: "en.covid-19now.info" static
 local-zone: "en.covid19recoverytexas.org" static
 local-zone: "en.covid19-solidarity.com" static
 local-zone: "en.covid-19-stop.com" static
+local-zone: "en.covid19webshop.com" static
 local-zone: "encovid.com" static
 local-zone: "encuestacoronavirus.com" static
 local-zone: "encuestacovid19.com" static
@@ -50194,6 +50198,7 @@ local-zone: "escortcoronavirus.com" static
 local-zone: "es.covid19guides.com" static
 local-zone: "es.covid19recoverytexas.org" static
 local-zone: "es.covid19-testimonialsinternational.com" static
+local-zone: "es.covid19webshop.com" static
 local-zone: "escudocovid.com" static
 local-zone: "escudolegalcovid19.com" static
 local-zone: "eshop-covid19.com" static
@@ -64420,6 +64425,7 @@ local-zone: "solvethecoronapandemic.com" static
 local-zone: "somaliacoronavirus.com" static
 local-zone: "somanylostcovid19.com" static
 local-zone: "somapharm-covid19.com" static
+local-zone: "somcovid19.com" static
 local-zone: "somecorona.com" static
 local-zone: "somersetcovid19.com" static
 local-zone: "sondakikacorona.com" static
@@ -65925,6 +65931,7 @@ local-zone: "testcovid19.de" static
 local-zone: "testcovid19ec.com" static
 local-zone: "testcovid19.econvivial.org" static
 local-zone: "testcovid-19.eu" static
+local-zone: "test.covid19.framadrop.org" static
 local-zone: "test.covid19.gouv.qc.ca" static
 local-zone: "test-covid-19.gq" static
 local-zone: "test.covid19.hlg.ch" static
