@@ -14123,6 +14123,8 @@ local-zone: "coronavirus.abimo.org.br" static
 local-zone: "coronavirusabogado.com" static
 local-zone: "coronavirusabogados.com" static
 local-zone: "coronavirusabogados.es" static
+local-zone: "coronavirusabogados.info" static
+local-zone: "coronavirusabogados.net" static
 local-zone: "coronavirusabout.com" static
 local-zone: "coronavirus-about.ru" static
 local-zone: "coronavirusabq.com" static
@@ -26580,6 +26582,7 @@ local-zone: "covid19bot.net" static
 local-zone: "covid19bounce.com" static
 local-zone: "covid19.bourbaki.space" static
 local-zone: "covid19bournemouth.com" static
+local-zone: "covid-19boutique.com" static
 local-zone: "covid19.bouyssou-negoce.fr" static
 local-zone: "covid-19boxes.com" static
 local-zone: "covid19.boyaca.gov.co" static
@@ -48765,6 +48768,7 @@ local-zone: "designersagainstcoronavirus.com" static
 local-zone: "designtocombatcovid19.com" static
 local-zone: "desinfeccaocoronavirus.com" static
 local-zone: "desinfeccaocovid.com" static
+local-zone: "desinfeccioncoronaviruscantabria.com" static
 local-zone: "desinfeccioncoronaviruscolombia.com" static
 local-zone: "desinfeccion-coronavirus.com" static
 local-zone: "desinfeccioncoronavirus.com" static
@@ -61627,6 +61631,7 @@ local-zone: "pma.covid19.enriquetejeda.com" static
 local-zone: "pma.covid19portugal.org" static
 local-zone: "pma.covid19-worldwide.com" static
 local-zone: "pmcoronavirus.com" static
+local-zone: "pmcovid-19rapidtest.com.au" static
 local-zone: "pmfcovid19.psainfo.com.br" static
 local-zone: "pncovid.com" static
 local-zone: "pngcovid-19.live" static
@@ -70519,6 +70524,7 @@ local-zone: "www.bnw-covid19-assist.com.au" static
 local-zone: "www.borba-coronavirusom.ru" static
 local-zone: "www.boutique-coronavirus.fr" static
 local-zone: "www.boutique-covid19.com" static
+local-zone: "www.boycottchinavirus.com" static
 local-zone: "www.brcovid19.com.br" static
 local-zone: "www.breadinthetimeofcovid19.ca" static
 local-zone: "www.bread-in-the-time-ofcovid19.net" static
@@ -71455,6 +71461,7 @@ local-zone: "www.covid19check.ru" static
 local-zone: "www.covid19childhooddiabetes.com" static
 local-zone: "www.covid19chi.org" static
 local-zone: "www.covid19chl.org" static
+local-zone: "www.covid19chopan.health" static
 local-zone: "www.covid19chronicles.net" static
 local-zone: "www.covid19church.com.au" static
 local-zone: "www.covid19churchsummit.com" static
