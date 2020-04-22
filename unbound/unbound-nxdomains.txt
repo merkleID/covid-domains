@@ -14314,6 +14314,7 @@ local-zone: "coronavirusalliance.com" static
 local-zone: "coronavirusalliance.net" static
 local-zone: "coronavirus.allmentalhealth.org" static
 local-zone: "coronavirus.allnews.ie" static
+local-zone: "coronavirus.alloutbrasil.org" static
 local-zone: "coronavirusall.ru" static
 local-zone: "coronavirusalmanac.com" static
 local-zone: "coronavirusalternativecare.com" static
@@ -33862,6 +33863,7 @@ local-zone: "covid-19merch.com" static
 local-zone: "covid19-merch.com" static
 local-zone: "covid19merch.com" static
 local-zone: "covid-19-merch.nl" static
+local-zone: "covid19merchshop.com" static
 local-zone: "covid19merch.store" static
 local-zone: "covid19-merck.com" static
 local-zone: "covid19merck.com" static
@@ -41013,6 +41015,7 @@ local-zone: "covid-19yemen.com" static
 local-zone: "covid19-yemen.com" static
 local-zone: "covid-19.yes-lab.org" static
 local-zone: "covid19.yext.com" static
+local-zone: "covid19.yf1.us" static
 local-zone: "covid-19-yfgt.onrender.com" static
 local-zone: "covid19.yields.io" static
 local-zone: "covid-19.yinclinic.pro" static
@@ -67993,6 +67996,7 @@ local-zone: "travelcovid.com" static
 local-zone: "travelduringcoronavirus.com" static
 local-zone: "travelinginthecorona.com" static
 local-zone: "travelinthetimesofcorona.com" static
+local-zone: "travelnews.covid19360.net" static
 local-zone: "travelupdatebancovid19.pages.ontraport.net" static
 local-zone: "traviscountycovid19.com" static
 local-zone: "trcorona.com" static
@@ -72154,6 +72158,7 @@ local-zone: "www.covid19memorialwall.com" static
 local-zone: "www.covid19.merauke.go.id" static
 local-zone: "www.covid19-merchandise.com" static
 local-zone: "www.covid19-merch.com" static
+local-zone: "www.covid19merchshop.com" static
 local-zone: "www.covid19merch.store" static
 local-zone: "www.covid19messages.bigreddog.com.au" static
 local-zone: "www.covid-19.messinis.ca" static
