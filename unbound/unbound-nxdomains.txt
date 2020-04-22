@@ -1621,6 +1621,7 @@ local-zone: "api.aa970a93.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "api.aivscovid19.com" static
 local-zone: "api.alianzacovid19.es" static
 local-zone: "api.appcoronavirus.cl" static
+local-zone: "api.app.covid19-insights.ai" static
 local-zone: "api.attestation-sortie-covid19.fr" static
 local-zone: "api-autocovid19.vietseatravel.net" static
 local-zone: "api.b9e1e7b7.test.covid-19.forms.digital.nhs.uk" static
@@ -1821,6 +1822,7 @@ local-zone: "app.covid-19ers.com" static
 local-zone: "appcovid19.eu" static
 local-zone: "appcovid19.fr" static
 local-zone: "app.covid19govt.xyz" static
+local-zone: "app.covid19-insights.ai" static
 local-zone: "app.covid19.klungkungkab.go.id" static
 local-zone: "app.covid19misinfo.org" static
 local-zone: "app.covid19-model.com" static
@@ -26612,6 +26614,7 @@ local-zone: "covid-19boxes.com" static
 local-zone: "covid19.boyaca.gov.co" static
 local-zone: "covid19boy.com" static
 local-zone: "covid19boycott.com" static
+local-zone: "covid19.boyolali.go.id" static
 local-zone: "covid19bpco.fr" static
 local-zone: "covid19.bpfclinic.com" static
 local-zone: "covid19.bprbalongan.co.id" static
@@ -29306,6 +29309,7 @@ local-zone: "covid-19economy.com" static
 local-zone: "covid19-economy.com" static
 local-zone: "covid19economy.com" static
 local-zone: "covid19economy.co.za" static
+local-zone: "covid19econ.org" static
 local-zone: "covid19.econvivial.org" static
 local-zone: "covid19.ecphd.com" static
 local-zone: "covid19.ecrl.eas.cornell.edu" static
@@ -31031,6 +31035,7 @@ local-zone: "covid19healthsystem.com" static
 local-zone: "covid19healthtech.com" static
 local-zone: "covid19healthtest.com" static
 local-zone: "covid19.healthtian.com" static
+local-zone: "covid19healthtips.online" static
 local-zone: "covid19healthtreatment.com" static
 local-zone: "covid19health.us" static
 local-zone: "covid19.health.wolterskluwer.io" static
@@ -33565,6 +33570,7 @@ local-zone: "covid19matters.com" static
 local-zone: "covid19.matthewgove.com" static
 local-zone: "covid19.maucariapa.com" static
 local-zone: "covid19maui.com" static
+local-zone: "covid19.mauricemuthaka.co.ke" static
 local-zone: "covid19mauritius.com" static
 local-zone: "covid19.maval.com.mx" static
 local-zone: "covid19.mawdpathology.com" static
@@ -38757,6 +38763,7 @@ local-zone: "covid-19taxupdates.com" static
 local-zone: "covid19.taylorcowin.com" static
 local-zone: "covid19.taylor.edu" static
 local-zone: "covid19.tbnk.ca" static
+local-zone: "covid19-tcbasvuru-formu-doldur.com" static
 local-zone: "covid19tchad.com" static
 local-zone: "covid19-tchad.org" static
 local-zone: "covid-19t.com" static
@@ -61760,6 +61767,7 @@ local-zone: "portal3dcovid19.com.co" static
 local-zone: "portalalkescovid19.millennia-solusi.id" static
 local-zone: "portalandaluciacovid19.es" static
 local-zone: "portalapi.vietnamcovid19.info" static
+local-zone: "portal.auone.jp-verifykey.covid-191.com" static
 local-zone: "portalcorona.com" static
 local-zone: "portalcoronavirus.com" static
 local-zone: "portal-coronavirus.gba.gob.ar" static
