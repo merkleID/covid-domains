@@ -35620,6 +35620,7 @@ local-zone: "covid19privatesecurity.com" static
 local-zone: "covid19.prixa.ai" static
 local-zone: "covid19proactive.com" static
 local-zone: "covid19proactive.pl" static
+local-zone: "covid19.proadco.eu" static
 local-zone: "covid19.pro.aw" static
 local-zone: "covid19probability.com" static
 local-zone: "covid19problems.com" static
@@ -56641,6 +56642,7 @@ local-zone: "mascarascaseirascovid19.com" static
 local-zone: "mascarascaseirascovid19.pt" static
 local-zone: "mascaras-corona-virus.com" static
 local-zone: "mascarascoronavirus.com.br" static
+local-zone: "mascaras-covid19.com" static
 local-zone: "mascarascovid19.com" static
 local-zone: "mascaras-covid19.saleshotels.ch" static
 local-zone: "mascarasparacoronavirus.com" static
@@ -64350,6 +64352,7 @@ local-zone: "soscoronavirus.com" static
 local-zone: "sos-coronavirus.fr" static
 local-zone: "sos-coronavirus.net" static
 local-zone: "soscoronavirus.net" static
+local-zone: "sos-coronavirus.org" static
 local-zone: "soscoronavirus.pro" static
 local-zone: "sos-coronavirus.pt" static
 local-zone: "soscovid-19.aspbasilicata.it" static
