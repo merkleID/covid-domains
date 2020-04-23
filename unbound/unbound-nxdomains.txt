@@ -94,6 +94,7 @@ local-zone: "19covids.com" static
 local-zone: "19covid.today" static
 local-zone: "19covidvaccine.com" static
 local-zone: "19covidvac.com" static
+local-zone: "19covidvirus.com" static
 local-zone: "19covid.xyz" static
 local-zone: "19ncov.com" static
 local-zone: "19-ncov.info" static
@@ -31992,6 +31993,7 @@ local-zone: "covid19inlanguage.homeaffairs.gov.au" static
 local-zone: "covid19inlaos.com" static
 local-zone: "covid19in.life" static
 local-zone: "covid19in.linknrun.com" static
+local-zone: "covid19.inlocon.net" static
 local-zone: "covid19.inlots.com.br" static
 local-zone: "covid19.inmax.com.ua" static
 local-zone: "covid19inmemoriam.com" static
@@ -59172,6 +59174,10 @@ local-zone: "nr05petitieonline-covid19byfacebook.ga" static
 local-zone: "nr06petitieonline-covid19byfacebook.ga" static
 local-zone: "nr07petitieonline-covid19byfacebook.ga" static
 local-zone: "nr08petitieonline-covid19byfacebook.ga" static
+local-zone: "nr10petitieonline-covid19byfacebook.ga" static
+local-zone: "nr12petitieonline-covid19byfacebook.ga" static
+local-zone: "nr13petitieonline-covid19byfacebook.ga" static
+local-zone: "nr14petitieonline-covid19byfacebook.ga" static
 local-zone: "nr1petitieonline-covid19byfacebook.ga" static
 local-zone: "nr4petitieonline-covid19byfacebook.ga" static
 local-zone: "nr5petitieonline-covid19byfacebook.ga" static
@@ -69646,6 +69652,7 @@ local-zone: "welovecorona.club" static
 local-zone: "weovercovid19.com" static
 local-zone: "wereinittogethercoronavirus.com" static
 local-zone: "wereinittogethercovid19.com" static
+local-zone: "weremembercovid19.stmaryofpotchaev.com" static
 local-zone: "weremembercovid.com" static
 local-zone: "werkencorona.com" static
 local-zone: "wesccovid19.net" static
@@ -72849,6 +72856,7 @@ local-zone: "www.downwithcovid19.com" static
 local-zone: "www.dresscovid19.com" static
 local-zone: "www.dronesvscovid19.org" static
 local-zone: "www.duplessiscoronavirusupdate.com" static
+local-zone: "www.dzcoronavirus.tk" static
 local-zone: "www.dz-covid19.com" static
 local-zone: "www.e-coronavirus.com" static
 local-zone: "www.e-covid19updates.com" static
@@ -73267,6 +73275,7 @@ local-zone: "www.n95coronavirusmaskitaly.com" static
 local-zone: "www.n95coronavirusmaskuk.com" static
 local-zone: "www.n95coronavirusmaskus.com" static
 local-zone: "www.n95covid19masks.com" static
+local-zone: "www.n95covid19masksonline.com" static
 local-zone: "www.n95maskforcovid19.com" static
 local-zone: "www.n95maskscovid19.org" static
 local-zone: "www.nancovid19.ca" static
