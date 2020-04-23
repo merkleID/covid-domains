@@ -29865,6 +29865,7 @@ local-zone: "covid19facts.biz" static
 local-zone: "covid-19-facts.com" static
 local-zone: "covid-19facts.com" static
 local-zone: "covid19factsheet.net" static
+local-zone: "covid19facts.live" static
 local-zone: "covid-19facts.net" static
 local-zone: "covid19-facts.net" static
 local-zone: "covid19facts.net" static
@@ -30562,6 +30563,7 @@ local-zone: "covid19.getpy.biz" static
 local-zone: "covid19.getvolt.dk" static
 local-zone: "covid19.gg" static
 local-zone: "covid19.ggda.co.za" static
+local-zone: "covid19.ghafah.ae" static
 local-zone: "covid19ghana.com" static
 local-zone: "covid19gh.com" static
 local-zone: "covid19.ghelt.com.br" static
@@ -37841,6 +37843,7 @@ local-zone: "covid19.smkn3-pariaman.sch.id" static
 local-zone: "covid19smoke.com" static
 local-zone: "covid19sms.com" static
 local-zone: "covid19smsinfo.dsasoftware.com.ph" static
+local-zone: "covid19.smsmedical.net" static
 local-zone: "covid19.smspro.tg" static
 local-zone: "covid19sms.york.ca" static
 local-zone: "covid19.sn" static
@@ -39894,6 +39897,7 @@ local-zone: "covid-19-t.uk-koeln.de" static
 local-zone: "covid19.tulangbawangbaratkab.go.id" static
 local-zone: "covid19.tulasa.ru" static
 local-zone: "covid19tulsa.com" static
+local-zone: "covid19.tulustech.com" static
 local-zone: "covid19-tunisia.com" static
 local-zone: "covid19tunisia.com" static
 local-zone: "covid19-tunisie.com" static
