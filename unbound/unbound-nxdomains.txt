@@ -3173,6 +3173,7 @@ local-zone: "businessbattlescorona.com" static
 local-zone: "businessbeyondcorona.com" static
 local-zone: "businessbeyondcovid19.com" static
 local-zone: "businessclaimforcorona.com" static
+local-zone: "businesscoalitiononcovid19.org" static
 local-zone: "business.corona-virustalk.com" static
 local-zone: "businesscovid19claims.com" static
 local-zone: "businesscovidmoney.com" static
@@ -27263,6 +27264,7 @@ local-zone: "covid19.cens.cl" static
 local-zone: "covid19censorship.com" static
 local-zone: "covid-19census.com" static
 local-zone: "covid19census.com" static
+local-zone: "covid19.census.gov" static
 local-zone: "covid-19center.com" static
 local-zone: "covid19-center.com" static
 local-zone: "covid19centernearme.com" static
@@ -34437,6 +34439,7 @@ local-zone: "covid19nepal.com" static
 local-zone: "covid19nepal.info" static
 local-zone: "covid19.nepallearning.com" static
 local-zone: "covid19nepalnews.com" static
+local-zone: "covid19nepal.rkm.com.np" static
 local-zone: "covid19nepal.support" static
 local-zone: "covid-19.neroumu.xyz" static
 local-zone: "covid1-9.net" static
@@ -35625,6 +35628,7 @@ local-zone: "covid19ppe.org" static
 local-zone: "covid19ppeq.com" static
 local-zone: "covid19ppe.sale" static
 local-zone: "covid-19ppes.com" static
+local-zone: "covid19ppe.shop" static
 local-zone: "covid19ppeshortages.co.za" static
 local-zone: "covid19ppesourcing.com" static
 local-zone: "covid19.ppe-stop.site" static
@@ -37166,6 +37170,7 @@ local-zone: "covid-19.saovicente.pt" static
 local-zone: "covid19.sapmabrebes.or.id" static
 local-zone: "covid19saratoga.com" static
 local-zone: "covid19-saratov.ru" static
+local-zone: "covid19sardegna.heliohost.org" static
 local-zone: "covid19.sardershipon.com" static
 local-zone: "covid19.sarjsk.repl.run" static
 local-zone: "covid-19.sarl" static
@@ -66155,6 +66160,7 @@ local-zone: "testcovid-19now.com" static
 local-zone: "testcovid19now.com" static
 local-zone: "test-covid-19.online" static
 local-zone: "testcovid19online.greentips.uk" static
+local-zone: "test-covid-19.org" static
 local-zone: "testcovid-19.org" static
 local-zone: "test.covid19.quebec.ca" static
 local-zone: "testcovid19rapido.com" static
@@ -72384,6 +72390,7 @@ local-zone: "www.covid19-positivity.com" static
 local-zone: "www.covid19-ppe.com" static
 local-zone: "www.covid19ppe.info" static
 local-zone: "www.covid19ppe.org" static
+local-zone: "www.covid19ppe.shop" static
 local-zone: "www.covid19ppesupply.com" static
 local-zone: "www.covid-19.ppnitangsel.org" static
 local-zone: "www.covid19-pravo.ru" static
@@ -73373,6 +73380,7 @@ local-zone: "www.npcovid19.org" static
 local-zone: "www.nr3petitieonline-covid19byfacebook.ga" static
 local-zone: "www.nrpetitieonline1-covid19byfacebook.ga" static
 local-zone: "www.nscoronavirusmap.com" static
+local-zone: "www.nsw-covid19.cweb.com.au" static
 local-zone: "wwwnuveencovid19.com" static
 local-zone: "wwwnuveencovid19.net" static
 local-zone: "www.nwacovid-19.com" static
