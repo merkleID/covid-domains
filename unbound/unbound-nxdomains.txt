@@ -14484,6 +14484,7 @@ local-zone: "coronavirusapocalypse2020.com" static
 local-zone: "coronavirus-apocalypse.com" static
 local-zone: "coronavirus.app" static
 local-zone: "coronavirus.appadoo.co.uk" static
+local-zone: "coronavirus-apparel.com" static
 local-zone: "coronavirusapparel.org" static
 local-zone: "coronavirus-app.com" static
 local-zone: "coronavirusapp.co.tz" static
@@ -28927,6 +28928,7 @@ local-zone: "covid19-dev.topos.com" static
 local-zone: "covid19dev.trackercli.com" static
 local-zone: "covid19dezenfektan.com" static
 local-zone: "covid-19-dezinfekce.cz" static
+local-zone: "covid19.dferrandizmont.synology.me" static
 local-zone: "covid19dfwcare.com" static
 local-zone: "covid19dfw.com" static
 local-zone: "covid-19.dfynichesite.hostnety.com" static
@@ -48849,6 +48851,7 @@ local-zone: "decovid19.com" static
 local-zone: "de.covid-19-prognose.ch" static
 local-zone: "de.covid-19-stop.com" static
 local-zone: "de.covid19tester.eu" static
+local-zone: "de.covid19webshop.com" static
 local-zone: "decovid.com" static
 local-zone: "decovider.com" static
 local-zone: "decreasecovid19atwork.com" static
@@ -51771,6 +51774,7 @@ local-zone: "fr.covid19lexington.org" static
 local-zone: "fr.covid-19now.info" static
 local-zone: "fr.covid19protection.eu" static
 local-zone: "fr.covid19-testimonialsinternational.com" static
+local-zone: "fr.covid19webshop.com" static
 local-zone: "freakycoronamerch.com" static
 local-zone: "free1covid19.com" static
 local-zone: "free1covid.com" static
@@ -59527,6 +59531,7 @@ local-zone: "nzcovid19-to-geojson-dev.gke-primary.xerra.nz" static
 local-zone: "oaclecovid19.com" static
 local-zone: "oaklandcoronavirus.com" static
 local-zone: "oath-covid-19-prepare.com" static
+local-zone: "obamadiedofcoronavirus.xyz" static
 local-zone: "obatantiviruscorona.com" static
 local-zone: "obat-corona.com" static
 local-zone: "obatcorona.com" static
@@ -64145,6 +64150,7 @@ local-zone: "segundasvictimascovid19.umh.es" static
 local-zone: "segundasvitimascovid19.umh.es" static
 local-zone: "seguridadcoronavirus.com" static
 local-zone: "seguridadcovid19.com" static
+local-zone: "seguridadcovid19.es" static
 local-zone: "segurocoronavirus.com" static
 local-zone: "segurocoronavirus.es" static
 local-zone: "segurocoronavirus.net" static
@@ -67335,6 +67341,7 @@ local-zone: "thecovid19testkit.com" static
 local-zone: "thecovid19theory.com" static
 local-zone: "thecovid19times.com" static
 local-zone: "thecovid19.today" static
+local-zone: "thecovid19today.com" static
 local-zone: "thecovid19toolkit.com" static
 local-zone: "thecovid19tracker.com" static
 local-zone: "thecovid19trackers.com" static
@@ -73620,6 +73627,7 @@ local-zone: "www.produtoscontracoronavirus.com.br" static
 local-zone: "www.projectcovid19usa.com" static
 local-zone: "www.projets-coronavirus.fondation-vinci.com" static
 local-zone: "www.proteccioncovid19.info" static
+local-zone: "www.protec-covid-19.ch" static
 local-zone: "www.protecta-coronavirus.com" static
 local-zone: "www.protectedcovid19.com" static
 local-zone: "www.protectfromcoronavirus.life" static
