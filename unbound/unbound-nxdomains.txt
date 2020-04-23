@@ -1869,6 +1869,7 @@ local-zone: "approvedcovid19care.com" static
 local-zone: "approvedcovid19rapidtest.com" static
 local-zone: "approvedcovid19test.com" static
 local-zone: "approvedcovid19tests.com" static
+local-zone: "approvedcovid19tests.com.au" static
 local-zone: "approvedrefund-covid-19.com" static
 local-zone: "app.saicovid19.com.br" static
 local-zone: "app.sbacoronavirushelpusa.org" static
@@ -28906,6 +28907,7 @@ local-zone: "covid19.dhaval.dev" static
 local-zone: "covid19.dhdev.org" static
 local-zone: "covid19.dhekawork.com" static
 local-zone: "covid19.dhis2nigeria.org.ng" static
+local-zone: "covid19.dhis2.org" static
 local-zone: "covid19.dhis.hisp.org" static
 local-zone: "covid19.dhis-minsante-cm.org" static
 local-zone: "covid19diabesity.com" static
@@ -31510,6 +31512,7 @@ local-zone: "covid19hoy.com" static
 local-zone: "covid19hoyland.hartserver.site" static
 local-zone: "covid19hoy.net" static
 local-zone: "covid19hoy.org" static
+local-zone: "covid-19.hozoy.cn" static
 local-zone: "covid19-hpc-consortium.com" static
 local-zone: "covid19hpcconsortium.com" static
 local-zone: "covid19.hpi.axismaps.io" static
@@ -39724,6 +39727,7 @@ local-zone: "covid19trainer.com" static
 local-zone: "covid19trainers.com" static
 local-zone: "covid-19-training.com" static
 local-zone: "covid19-training.com" static
+local-zone: "covid19trainingcourses.app" static
 local-zone: "covid19trainingcourses.com" static
 local-zone: "covid19traininggear.com" static
 local-zone: "covid19training.in" static
@@ -63961,6 +63965,7 @@ local-zone: "schutzvorcoronavirus.com" static
 local-zone: "schutzvorcoronavirus.de" static
 local-zone: "science4covid19.pt" static
 local-zone: "sciencecovid19.com" static
+local-zone: "sciptaskforce-covid19.pt" static
 local-zone: "scotiabanks.ayudacoronavirus.a2hosted.com" static
 local-zone: "scotiacovid19.com" static
 local-zone: "scotscoopcovid.com" static
@@ -66964,6 +66969,8 @@ local-zone: "thecoronavirusplague.com" static
 local-zone: "thecoronavirusplay.com" static
 local-zone: "thecoronaviruspoems.com" static
 local-zone: "thecoronavirusprayer.com" static
+local-zone: "thecoronavirusprayer.download" static
+local-zone: "thecoronavirusprayer.email" static
 local-zone: "thecoronavirusprayer.net" static
 local-zone: "thecoronavirusquarentine.com" static
 local-zone: "thecoronavirusquiz.com" static
@@ -69368,6 +69375,7 @@ local-zone: "vpnpandemic.com" static
 local-zone: "vpnpandemic.net" static
 local-zone: "vrbocoronaviruscancellation.com" static
 local-zone: "vscoronavirus.com" static
+local-zone: "vscoronavirus.info" static
 local-zone: "vscovid19.com" static
 local-zone: "vscovid19.xunmi.de" static
 local-zone: "vscovid.com" static
@@ -72096,6 +72104,7 @@ local-zone: "www.covid19hotel.info" static
 local-zone: "www.covid19-hotlines.jp" static
 local-zone: "www.covid-19housingsolutions.com" static
 local-zone: "www.covid19hoy.net" static
+local-zone: "www.covid19.hssh.health" static
 local-zone: "www.covid19hygiene.store" static
 local-zone: "www.covid19i-ch4ase.com" static
 local-zone: "www.covid19.icorp.cm" static
