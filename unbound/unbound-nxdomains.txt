@@ -33396,6 +33396,7 @@ local-zone: "covid-19malpractice.com" static
 local-zone: "covid19malta.com" static
 local-zone: "covid19.maltaenterprise.com" static
 local-zone: "covid19.maltengkab.go.id" static
+local-zone: "covid19.mamasakab.go.id" static
 local-zone: "covid19.manadokota.go.id" static
 local-zone: "covid-19.managednet.com" static
 local-zone: "covid-19.management" static
@@ -38548,6 +38549,7 @@ local-zone: "covid-19survey.com" static
 local-zone: "covid19-survey.com" static
 local-zone: "covid19survey.com" static
 local-zone: "covid19survey.flightstar.page" static
+local-zone: "covid-19survey.fr" static
 local-zone: "covid19-survey.ga" static
 local-zone: "covid19surveykanpurdehat.codelances.com" static
 local-zone: "covid19surveykanpurdehat.jobbook.in" static
