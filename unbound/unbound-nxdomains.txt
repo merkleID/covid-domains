@@ -26238,6 +26238,7 @@ local-zone: "covid-19ball.com" static
 local-zone: "covid19ball.com" static
 local-zone: "covid19.baltimorejewishlife.com" static
 local-zone: "covid19-bamberg.de" static
+local-zone: "covid19.banana.lk" static
 local-zone: "covid-19-banchile-aumento.gq" static
 local-zone: "covid-19-banchile-aumento.tk" static
 local-zone: "covid-19-banchile.gq" static
@@ -30019,6 +30020,7 @@ local-zone: "covid-19fieldguide.com" static
 local-zone: "covid19fieldguide.com" static
 local-zone: "covid19.fieracapital.com" static
 local-zone: "covid19fight.club" static
+local-zone: "covid19fight.co.in" static
 local-zone: "covid-19fight.com" static
 local-zone: "covid-19fighter.com" static
 local-zone: "covid19fighter.com" static
@@ -50829,6 +50831,7 @@ local-zone: "familiesfirstcovid.com" static
 local-zone: "familyandfriendscovid19.com" static
 local-zone: "familyfirstcorona.com" static
 local-zone: "familyfirstcoronavirusresponseact.com" static
+local-zone: "familymealscovid19.org" static
 local-zone: "famososcomcoronavirus.com.br" static
 local-zone: "famouscorona.com" static
 local-zone: "famouscoronacom.com" static
@@ -63273,6 +63276,8 @@ local-zone: "removecorona.com" static
 local-zone: "removecoronavirus.com" static
 local-zone: "removecovid19.com" static
 local-zone: "removecovid.com" static
+local-zone: "render2.staging.covid19.robovision.ai" static
+local-zone: "render4.staging.covid19.robovision.ai" static
 local-zone: "render.staging.covid19.robovision.ai" static
 local-zone: "renfort-covid-paca.com" static
 local-zone: "renoproscovid19.com" static
