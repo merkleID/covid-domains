@@ -25790,6 +25790,7 @@ local-zone: "covid19-aomori.info" static
 local-zone: "covid-19.aomsolucoes.com.br" static
 local-zone: "covid19aovivo.com" static
 local-zone: "covid19apandemia.com.br" static
+local-zone: "covid-19.apcc-india.com" static
 local-zone: "covid19ap.com" static
 local-zone: "covid19.apdca.pt" static
 local-zone: "covid19apex.com" static
@@ -40239,6 +40240,7 @@ local-zone: "covid19vaccaine.com" static
 local-zone: "covid-19vaccinatie.nl" static
 local-zone: "covid-19vaccinatie.online" static
 local-zone: "covid-19vaccination.net" static
+local-zone: "covid19vaccination.net" static
 local-zone: "covid-19vaccination.org" static
 local-zone: "covid19vaccination.world" static
 local-zone: "covid19vaccine2020.com" static
