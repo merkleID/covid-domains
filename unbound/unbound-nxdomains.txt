@@ -941,6 +941,7 @@ local-zone: "alabamacovid19law.com" static
 local-zone: "alabamacovid19lawyer.com" static
 local-zone: "alabamacovid.com" static
 local-zone: "alabamacovidtesting.com" static
+local-zone: "alagoascontraocoronavirus.com.br" static
 local-zone: "alarmacoronavirus.com" static
 local-zone: "alarmacoronavirus.surgever.com" static
 local-zone: "alaskacorona.com" static
@@ -25592,6 +25593,7 @@ local-zone: "covid19.amadita.gbhlabs.net" static
 local-zone: "covid19amadora.pt" static
 local-zone: "covid19.amalia-ngo.org" static
 local-zone: "covid19.amanahfoundation.org" static
+local-zone: "covid19.amazingday.co.jp" static
 local-zone: "covid19.amazinglyworld.com" static
 local-zone: "covid19amazon.com" static
 local-zone: "covid19.ambientetransparente.com.br" static
@@ -29276,6 +29278,7 @@ local-zone: "covid19dubai.com" static
 local-zone: "covid19.duckgo.in" static
 local-zone: "covid19.dufferinbot.ca" static
 local-zone: "covid-19.duhocphuongdong.vn" static
+local-zone: "covid19.duikelaar.nl" static
 local-zone: "covid-19.dukehealth.org" static
 local-zone: "covid19.dumpily.ml" static
 local-zone: "covid-19.duredemos.com" static
@@ -57113,6 +57116,7 @@ local-zone: "masquescovid19.net" static
 local-zone: "masques-covid.com" static
 local-zone: "masques-pour-coronavirus.com" static
 local-zone: "masques-protection-coronavirus.com" static
+local-zone: "masque-tissus-covid19.fr" static
 local-zone: "masry-corona101.com" static
 local-zone: "masry-corona10.com" static
 local-zone: "masry-corona1.com" static
@@ -69200,6 +69204,7 @@ local-zone: "viruscovid-19.ro" static
 local-zone: "viruscovid19.ro" static
 local-zone: "virus-covid19.ru" static
 local-zone: "viruscovid19.ru.com" static
+local-zone: "viruscovid19.site" static
 local-zone: "viruscovid19.sk" static
 local-zone: "virus-covid-2019.ru" static
 local-zone: "viruscovidasistencianegocios.com" static
@@ -73264,6 +73269,7 @@ local-zone: "www.masque-de-protection-coronavirus.fr" static
 local-zone: "www.masques-coronavirus.brussels" static
 local-zone: "www.masquescovid19.com" static
 local-zone: "www.masques-protection-coronavirus.com" static
+local-zone: "www.masque-tissus-covid19.fr" static
 local-zone: "www.masscoronavirus.com" static
 local-zone: "www.mattdevcovid19.com" static
 local-zone: "www.mbakscovid19.org" static
