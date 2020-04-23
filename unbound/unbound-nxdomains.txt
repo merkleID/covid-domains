@@ -17549,6 +17549,7 @@ local-zone: "coronavirus.flu.io" static
 local-zone: "coronavirusflu.net" static
 local-zone: "coronavirusflu.org" static
 local-zone: "coronavirusflutest.com" static
+local-zone: "coronavirusflutesting.com" static
 local-zone: "coronavirusflutestkit.com" static
 local-zone: "coronavirusfluvaccine.com" static
 local-zone: "coronavirusfmla.com" static
@@ -37611,6 +37612,7 @@ local-zone: "covid19shitlist.co.uk" static
 local-zone: "covid19shitshow.com" static
 local-zone: "covid19.shli.pp.ua" static
 local-zone: "covid19shoes.com" static
+local-zone: "covid19-shokoren.info" static
 local-zone: "covid-19-shop.ch" static
 local-zone: "covid19shop.club" static
 local-zone: "covid-19-shop.com" static
@@ -41089,6 +41091,7 @@ local-zone: "covid19-yvelines-apta78.fr" static
 local-zone: "covid19yyc.com" static
 local-zone: "covid19.zacatecanos.com.mx" static
 local-zone: "covid19-zacatecas.drcidbaez.com" static
+local-zone: "covid19.zacdc.org.za" static
 local-zone: "covid19zac.drcidbaez.com" static
 local-zone: "covid19-zahlen.de" static
 local-zone: "covid-19.zaimtl.ca" static
@@ -54373,6 +54376,7 @@ local-zone: "infoscovid19.zendesk.com" static
 local-zone: "infoscovid.com" static
 local-zone: "infos-lescoronavirus.com" static
 local-zone: "infosquebec.coronavirusinfos.ca" static
+local-zone: "infosulcoronavirus.altervista.org" static
 local-zone: "infotomellosocovid19.com" static
 local-zone: "infovivocovid-19.com" static
 local-zone: "infraredthermometercoronavirus.com" static
@@ -58561,6 +58565,7 @@ local-zone: "netflixcovid-19.com" static
 local-zone: "netflixcovid19s.com" static
 local-zone: "nethealthcovid19.org" static
 local-zone: "netherlandscoronavirus.com" static
+local-zone: "nethomeflix-contracovid19.com" static
 local-zone: "netizencorona.com" static
 local-zone: "netlfix-covid19.com" static
 local-zone: "nettoyageanticorona.com" static
@@ -74085,6 +74090,7 @@ local-zone: "yourcoronavirusattorney.com" static
 local-zone: "yourcoronavirusbankruptcy.com" static
 local-zone: "yourcoronavirusbarcelona.com" static
 local-zone: "yourcoronaviruscentral.com" static
+local-zone: "yourcoronavirus.com" static
 local-zone: "yourcoronavirusexperience.com" static
 local-zone: "yourcoronavirusexpert.com" static
 local-zone: "yourcoronavirusfears.com" static
