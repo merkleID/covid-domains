@@ -991,6 +991,7 @@ local-zone: "alertecorona.net" static
 local-zone: "alertecoronavirus.com" static
 local-zone: "alerte-coronavirus.planethoster.world" static
 local-zone: "alertecovid19.info" static
+local-zone: "alerte-covid19-ne.net" static
 local-zone: "alertentraidecovid19.com" static
 local-zone: "alertscoronavirus.com" static
 local-zone: "alexanderpublications-covid-19.com" static
@@ -2817,6 +2818,7 @@ local-zone: "beyondthecoronavirus.com" static
 local-zone: "beyondthecoronavirus.net" static
 local-zone: "beyondthecullofcovid19.com" static
 local-zone: "beyondthecullofcovid19.net" static
+local-zone: "bezcovid19.ru" static
 local-zone: "bezcovid.com" static
 local-zone: "bg.coronavirus-face-mask.today" static
 local-zone: "bgrdccoronavirus.com" static
@@ -16244,6 +16246,7 @@ local-zone: "coronavirus-covid.org" static
 local-zone: "coronaviruscovidvaccine.com" static
 local-zone: "coronaviruscovit19.com" static
 local-zone: "coronaviruscov.klikohost.com" static
+local-zone: "coronaviruscov.mx" static
 local-zone: "coronaviruscpa.com" static
 local-zone: "coronaviruscpap.com" static
 local-zone: "coronavirus-cpas.com" static
@@ -28982,6 +28985,7 @@ local-zone: "covid19dialogues.com" static
 local-zone: "covid-19diaries.com" static
 local-zone: "covid19diaries.com" static
 local-zone: "covid19diaries.co.uk" static
+local-zone: "covid19diaries.thenocturnists.com" static
 local-zone: "covid-19-diary.com" static
 local-zone: "covid-19diary.com" static
 local-zone: "covid19-diary.com" static
@@ -29785,6 +29789,7 @@ local-zone: "covid19ethiopia.com" static
 local-zone: "covid19ethiopia.info" static
 local-zone: "covid19ethiopia.org" static
 local-zone: "covid19-etihad.com" static
+local-zone: "covid19.etp.city" static
 local-zone: "covid19etracker.info" static
 local-zone: "covid-19.e-transport.gov.ua" static
 local-zone: "covid19.etrilabs.com" static
@@ -35890,6 +35895,7 @@ local-zone: "covid19-pro.com" static
 local-zone: "covid19pro.com" static
 local-zone: "covid19procurement.com" static
 local-zone: "covid19.prod.8layertech.io" static
+local-zone: "covid19.prodalam.wisefollow.com" static
 local-zone: "covid19prod.com" static
 local-zone: "covid-19product.com" static
 local-zone: "covid19product.com" static
