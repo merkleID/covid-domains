@@ -1787,6 +1787,7 @@ local-zone: "api.wacovid19stats.com" static
 local-zone: "api.wa-daily-covid-19.com" static
 local-zone: "api.worldcoronavirus.org" static
 local-zone: "api.worldcovid19.live" static
+local-zone: "api.wpcovid19.com" static
 local-zone: "aplausoscovid-19.com" static
 local-zone: "aplikasi-covid19.buolkab.online" static
 local-zone: "apocalipsiscovid19.com" static
@@ -28239,6 +28240,7 @@ local-zone: "covid19.coronavirusfortbend.gov" static
 local-zone: "covid19.coronavirusinelpaso.com" static
 local-zone: "covid19coronaviruskits.com" static
 local-zone: "covid-19-coronavirus-lawsuits.nuruwitherspoon.com" static
+local-zone: "covid-19-coronavirus.live" static
 local-zone: "covid19coronaviruslivenews.com" static
 local-zone: "covid19-coronavirus-map.com" static
 local-zone: "covid19-coronavirusmitigation.com" static
@@ -30187,6 +30189,7 @@ local-zone: "covid19fits.com" static
 local-zone: "covid19fit.uk" static
 local-zone: "covid19fiveminutetest.com" static
 local-zone: "covid19fix.com" static
+local-zone: "covid19fix.co.nz" static
 local-zone: "covid19fj.com" static
 local-zone: "covid19fj.net" static
 local-zone: "covid19fla.com" static
@@ -73269,6 +73272,7 @@ local-zone: "www.globalcoronavirus.org" static
 local-zone: "www.global-corona-virus-test.com" static
 local-zone: "www.globalcovid19.org" static
 local-zone: "www.globalcovid19poll.com" static
+local-zone: "www.gnyada-covid19.com" static
 local-zone: "www.goarmybeatcovid19.com" static
 local-zone: "www.goawaycovid19.com" static
 local-zone: "www.gocilcovid19.online" static
