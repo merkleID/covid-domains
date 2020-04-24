@@ -146,6 +146,7 @@ local-zone: "2019ncov.misterym.top" static
 local-zone: "2019-ncov.no" static
 local-zone: "2019-ncov.odourscience.co.za" static
 local-zone: "2019ncov.page" static
+local-zone: "2019-ncov.pw" static
 local-zone: "2019-ncov.red" static
 local-zone: "2019-ncovs.com" static
 local-zone: "2019-ncov.site" static
@@ -27734,6 +27735,7 @@ local-zone: "covid19cleanny.com" static
 local-zone: "covid-19-clean.org" static
 local-zone: "covid19cleanpro.com" static
 local-zone: "covid19cleanpros.com" static
+local-zone: "covid19cleanpros.org" static
 local-zone: "covid19cleans.com" static
 local-zone: "covid-19cleanse.com" static
 local-zone: "covid19cleanse.com" static
@@ -27842,6 +27844,7 @@ local-zone: "covid19.cloud.forecare.com" static
 local-zone: "covid19.cloudguide.info" static
 local-zone: "covid19.cloudmex.io" static
 local-zone: "covid19.cloudmigo.com" static
+local-zone: "covid19.cloudsewa.net" static
 local-zone: "covid19.cloudsolutions.lk" static
 local-zone: "covid-19club.com" static
 local-zone: "covid19club.com" static
@@ -33249,6 +33252,7 @@ local-zone: "covid19livetracker.com" static
 local-zone: "covid19-live-tracker.now.sh" static
 local-zone: "covid19livetracker.online" static
 local-zone: "covid19livetracker.zonewaretech.com" static
+local-zone: "covid19livetracking.com" static
 local-zone: "covid19livetv.com" static
 local-zone: "covid-19liveupdate.com" static
 local-zone: "covid19-live-update.com" static
