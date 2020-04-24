@@ -937,6 +937,7 @@ local-zone: "akbroadcasterscovid19.com" static
 local-zone: "akbtotaldc.com.coronavirus-clinic.com" static
 local-zone: "akcoronavirus.com" static
 local-zone: "akcovid19.com" static
+local-zone: "akcovid19tracker.codes" static
 local-zone: "alabama19coronavirus.com" static
 local-zone: "alabamacorona.com" static
 local-zone: "alabamacoronalawyer.com" static
@@ -21363,6 +21364,7 @@ local-zone: "coronavirus-prevention-kit.com" static
 local-zone: "coronaviruspreventionkit.com" static
 local-zone: "corona-virus-prevention-kits.com" static
 local-zone: "coronavirus-prevention-kits.com" static
+local-zone: "coronaviruspreventionkits.com" static
 local-zone: "coronaviruspreventionmasks.com" static
 local-zone: "coronavirusprevention.meunegociodigital.net" static
 local-zone: "coronavirusprevention.net" static
@@ -28603,6 +28605,7 @@ local-zone: "covid19.dasd.us" static
 local-zone: "covid19dashboads.com" static
 local-zone: "covid19dashboard.aco" static
 local-zone: "covid19dashboard.astra-ai.co.uk" static
+local-zone: "covid19dashboard.be.unsw.edu.au" static
 local-zone: "covid19dashboard.cdc.gov.tw" static
 local-zone: "covid19-dashboard.chainweb.com" static
 local-zone: "covid-19-dashboard.com" static
@@ -40941,6 +40944,7 @@ local-zone: "covid19.weblogic.co.bw" static
 local-zone: "covid-19.webmddc.com" static
 local-zone: "covid19.webmddc.com" static
 local-zone: "covid19web.net" static
+local-zone: "covid19.webnext.ml" static
 local-zone: "covid19.web-owl.co.il" static
 local-zone: "covid-19.webpigment.com" static
 local-zone: "covid-19.web-room.com.ua" static
@@ -65265,6 +65269,7 @@ local-zone: "stlcorona.com" static
 local-zone: "stlcoronavirus.com" static
 local-zone: "stlcovid19.com" static
 local-zone: "stockcoronavirus.com" static
+local-zone: "stocking.covid19.gov.bt" static
 local-zone: "stockpandemic.com" static
 local-zone: "stocksandcorona.com" static
 local-zone: "stompcorona.com" static
@@ -66294,6 +66299,7 @@ local-zone: "terminatecovid19.com" static
 local-zone: "terminixcovid19.com" static
 local-zone: "termlifecoronavirus.com" static
 local-zone: "termlifecoronavirus.net" static
+local-zone: "termometroscovid19.com.ar" static
 local-zone: "terrazza-corona.net" static
 local-zone: "terrorcovid19.com" static
 local-zone: "tescorona.com" static
@@ -66374,6 +66380,7 @@ local-zone: "testcovid19.co" static
 local-zone: "test-covid19.com" static
 local-zone: "testcovid19.com.pl" static
 local-zone: "test-covid19.co.uk" static
+local-zone: "test.covid19dashboard.be.unsw.edu.au" static
 local-zone: "testcovid-19.de" static
 local-zone: "testcovid19.de" static
 local-zone: "testcovid19ec.com" static
@@ -67959,6 +67966,8 @@ local-zone: "thiswillnotpreventcoronavirus.com" static
 local-zone: "thiswillnotpreventpandemic.com" static
 local-zone: "thompsons.covid19-updates.co.uk" static
 local-zone: "thongtincovid19.jp" static
+local-zone: "thongtincovid19jp.now.sh" static
+local-zone: "thongtincovid19.now.sh" static
 local-zone: "thorstens-covid19buch.at" static
 local-zone: "thoushaltnotcovid.com" static
 local-zone: "thrivecorona.com" static
