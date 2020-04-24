@@ -25372,6 +25372,7 @@ local-zone: "coronavirus-oximeter.com" static
 local-zone: "coronavirusoximeter.com" static
 local-zone: "coronavirus-oxygen.com" static
 local-zone: "coronavirusoxygen.com" static
+local-zone: "coronavirus.oxygenss.com" static
 local-zone: "coronavirusp3loan.com" static
 local-zone: "coronaviruspac.com" static
 local-zone: "coronaviruspackage.com" static
@@ -74926,6 +74927,7 @@ local-zone: "nigercoronavirus.com" static
 local-zone: "niger-covid19.eclathealthcare.com" static
 local-zone: "nigeriacoronavirus.com" static
 local-zone: "nigeriacovid19.com" static
+local-zone: "nigeriacovid19.futurehack.ng" static
 local-zone: "nigeriahackscovid19.futurehack.ng" static
 local-zone: "night-of-the-covid.com" static
 local-zone: "nightofthecovid.com" static
@@ -82153,6 +82155,7 @@ local-zone: "searchcorona.com" static
 local-zone: "searchcoronavirus.com" static
 local-zone: "searchcoronavirus.info" static
 local-zone: "searchcovid19.com" static
+local-zone: "searchingcovid19.com" static
 local-zone: "seasonalcovid.com" static
 local-zone: "seasonsofcorona.com" static
 local-zone: "seattlecorona19.com" static
@@ -83739,6 +83742,7 @@ local-zone: "stopcovid19virus.com" static
 local-zone: "stopcovid19.wakayama.jp" static
 local-zone: "stopcovid-19.world" static
 local-zone: "stopcovid19.world" static
+local-zone: "stopcovid19world.com" static
 local-zone: "stopcovid19worldwide.com" static
 local-zone: "stopcovid19.worx-uk.com" static
 local-zone: "stopcovid19.zeeromed.com" static
@@ -87302,6 +87306,7 @@ local-zone: "trackcoronavirus.info" static
 local-zone: "trackcoronavirus.live" static
 local-zone: "trackcoronavirus.online" static
 local-zone: "trackcoronavirus.ru" static
+local-zone: "trackcoronavirus.site" static
 local-zone: "trackcoronavirus.us" static
 local-zone: "trackcorona.world" static
 local-zone: "trackcovid-19.app" static
@@ -94234,6 +94239,14 @@ local-zone: "xn--prevencincoronavirus-i8b.com" static
 local-zone: "xn--proteccincoronavirus-i8b.com" static
 local-zone: "xn--psiclogosfrentealcovid-yfc.com" static
 local-zone: "xn--quarantne-unterkunft-corona-hkc.com" static
+local-zone: "xnr01petitieonline-covid19byfacebook.ga" static
+local-zone: "xnr02petitieonline-covid19byfacebook.ga" static
+local-zone: "xnr03petitieonline-covid19byfacebook.ga" static
+local-zone: "xnr04petitieonline-covid19byfacebook.ga" static
+local-zone: "xnr05petitieonline-covid19byfacebook.ga" static
+local-zone: "xnr06petitieonline-covid19byfacebook.ga" static
+local-zone: "xnr07petitieonline-covid19byfacebook.ga" static
+local-zone: "xnr08petitieonline-covid19byfacebook.ga" static
 local-zone: "xn--sensibilisation-hygine-covid-0qc.net" static
 local-zone: "xn--sistemadesinfeccincoronavirus-c3c.com" static
 local-zone: "xn--test-covid-19--domicile-i5b.com" static
