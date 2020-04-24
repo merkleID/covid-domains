@@ -809,6 +809,8 @@ local-zone: "afterthecoronavirus.com" static
 local-zone: "afterthecoronaviruspandemic.com" static
 local-zone: "afterwuhan.com" static
 local-zone: "afthercovid19.com" static
+local-zone: "afthercovid-19.org" static
+local-zone: "afthercovid19.org" static
 local-zone: "aftkscoronavirus.com" static
 local-zone: "afuturepandemic.com" static
 local-zone: "agacovid19.com" static
@@ -2818,6 +2820,7 @@ local-zone: "beyond-covid19.com" static
 local-zone: "beyondcovid-19.com" static
 local-zone: "beyondcovid19.com" static
 local-zone: "beyondcovid19.net" static
+local-zone: "beyondcovid19.nl" static
 local-zone: "beyondcovid19podcast.com" static
 local-zone: "beyondcovid.com" static
 local-zone: "beyondcovid.net" static
@@ -21378,7 +21381,9 @@ local-zone: "coronavirusprevention.pro" static
 local-zone: "coronaviruspreventionproducts.com" static
 local-zone: "coronaviruspreventionsanantonio.com" static
 local-zone: "coronaviruspreventionservice.com" static
+local-zone: "coronaviruspreventionservice.org" static
 local-zone: "coronavirusprevention.services" static
+local-zone: "coronaviruspreventionservices.org" static
 local-zone: "coronavirus-prevention-shop.com" static
 local-zone: "corona-virus-prevention-silver.com" static
 local-zone: "coronavirusprevention.solutions" static
@@ -67331,6 +67336,7 @@ local-zone: "thecovid19chronicle.com" static
 local-zone: "thecovid19chronicles.com" static
 local-zone: "thecovid19clean.com" static
 local-zone: "thecovid19cleaner.com" static
+local-zone: "thecovid19cleaners.co.uk" static
 local-zone: "thecovid19.club" static
 local-zone: "the-covid-19.com" static
 local-zone: "the-covid19.com" static
