@@ -20532,6 +20532,7 @@ local-zone: "coronavirus-news.tk" static
 local-zone: "corona-virus-news.today" static
 local-zone: "coronavirus-news.today" static
 local-zone: "coronavirus-newstoday.com" static
+local-zone: "coronavirusnewstoday.ru" static
 local-zone: "coronavirusnews.tv" static
 local-zone: "coronavirusnewstv.com" static
 local-zone: "coronavirus-news.uk" static
@@ -26477,6 +26478,7 @@ local-zone: "covid19.bengkuluselatankab.go.id" static
 local-zone: "covid19.bengkuluutarakab.go.id" static
 local-zone: "covid-19.benjmaa.com" static
 local-zone: "covid-19.benohead.com" static
+local-zone: "covid19.beranibicara.com" static
 local-zone: "covid19beratung.com" static
 local-zone: "covid19.beraukab.go.id" static
 local-zone: "covid-19.berbagikontes.com" static
@@ -27636,6 +27638,7 @@ local-zone: "covid19claims.today" static
 local-zone: "covid19-claims.uk" static
 local-zone: "covid-19claims.us" static
 local-zone: "covid-19claim.uk" static
+local-zone: "covid19.claire-ai.org" static
 local-zone: "covid19.clarahealth.com" static
 local-zone: "covid19.claraval.xyz" static
 local-zone: "covid-19.claretianos.mx" static
@@ -38704,6 +38707,7 @@ local-zone: "covid19supportpsy.zendesk.com" static
 local-zone: "covid-19supports.com" static
 local-zone: "covid19supports.com" static
 local-zone: "covid-19supports.iee.ie" static
+local-zone: "covid-19-support-staging.sage.fr" static
 local-zone: "covid19supportsupply.com" static
 local-zone: "covid19-support.uk" static
 local-zone: "covid19support.uk" static
@@ -60185,6 +60189,7 @@ local-zone: "ozontegencoronavirus.nl" static
 local-zone: "p12zjqpttx2m.covid-19training.gov.au" static
 local-zone: "p2pcovid19.com" static
 local-zone: "p2p-covid19forum-canadiandentists.com" static
+local-zone: "paciente.iniciativacovid19.com.br" static
 local-zone: "packandcleancovid19.com" static
 local-zone: "packanticontagiocoronavirus.com" static
 local-zone: "packanticovid.com" static
@@ -65597,6 +65602,7 @@ local-zone: "stoppandemics.com" static
 local-zone: "stoppandemicsnow.com" static
 local-zone: "stopp-corona.com" static
 local-zone: "stoppcorona.com" static
+local-zone: "stopp-covid19.ch" static
 local-zone: "stopp-covid19.website" static
 local-zone: "stoppingcoronavirusnow.com" static
 local-zone: "stopping-covid19.com" static
@@ -66197,6 +66203,7 @@ local-zone: "targetcovid.com" static
 local-zone: "targetcovidtest.com" static
 local-zone: "taskforcecorona.com" static
 local-zone: "taskforcecovid19.com" static
+local-zone: "taskforcecovid19.team1support.co.uk" static
 local-zone: "tastelesscoronavirusads.com" static
 local-zone: "tavolarotondacovid19.it" static
 local-zone: "taxcreditcovid-19.com" static
@@ -73992,6 +73999,7 @@ local-zone: "www.stopcovid19now.eu" static
 local-zone: "www.stopcovid19now.fr" static
 local-zone: "www.stop-covid-19.online" static
 local-zone: "www.stopcovid19virus.com" static
+local-zone: "www.stopp-covid19.ch" static
 local-zone: "www.stopthecoronavirus.eu" static
 local-zone: "www.stopthespread-covid19.com" static
 local-zone: "www.stopviruscovid-19.com" static
