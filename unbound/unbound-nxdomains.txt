@@ -1649,6 +1649,7 @@ local-zone: "api.c88c60b8.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "api.centralcoronavirus.com.br" static
 local-zone: "api-corona.com" static
 local-zone: "api.coronacovid19tracker.in" static
+local-zone: "api.coronavirusapp.co.tz" static
 local-zone: "api.coronavirus-baseball.com" static
 local-zone: "api.coronaviruscheck.org" static
 local-zone: "api.coronavirus-detector.com" static
@@ -27229,6 +27230,7 @@ local-zone: "covid-19carpediem.email" static
 local-zone: "covid-19carpediem.net" static
 local-zone: "covid-19carpediem.solutions" static
 local-zone: "covid19.carpl.ai" static
+local-zone: "covid-19carpurifier.com" static
 local-zone: "covid19cars.com" static
 local-zone: "covid19carservice.com" static
 local-zone: "covid19-carso.com" static
@@ -41265,6 +41267,7 @@ local-zone: "covid-19.yassinekbichi.com" static
 local-zone: "covid19.yassirhna.com" static
 local-zone: "covid19.yayasanvitka.id" static
 local-zone: "covid19.yayitazale.duckdns.org" static
+local-zone: "covid-19.ydu.edu.tw" static
 local-zone: "covid19yearbook.com" static
 local-zone: "covid19yearbooks.com" static
 local-zone: "covid19yearolds.com" static
