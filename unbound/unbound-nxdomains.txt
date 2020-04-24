@@ -208,6 +208,7 @@ local-zone: "2020covid19pandemic.com" static
 local-zone: "2020covid-19relief.com" static
 local-zone: "2020covid-19survivor.com" static
 local-zone: "2020covid19survivor.com" static
+local-zone: "2020covid19-tcbasvuru-formu.com" static
 local-zone: "2020covid2019.com" static
 local-zone: "2020covidchallenge.com" static
 local-zone: "2020-covid.com" static
@@ -1719,6 +1720,7 @@ local-zone: "api.covid19.therappx.com" static
 local-zone: "api.covid-19today.org" static
 local-zone: "api.covid19tracking.appliedxl.com" static
 local-zone: "api.covid19tracking.narrativa.com" static
+local-zone: "api-covid19.treinetic.xyz" static
 local-zone: "api.covid19uk.live" static
 local-zone: "api.covid19.unioeste-foz.br" static
 local-zone: "api.covid-19watch.org" static
@@ -28878,6 +28880,7 @@ local-zone: "covid19.desapaokmotong.id" static
 local-zone: "covid19desa.saludcontigo.co" static
 local-zone: "covid19.desawukirsari.online" static
 local-zone: "covid19desdelatrinxera.com" static
+local-zone: "covid19.design" static
 local-zone: "covid19design.com" static
 local-zone: "covid-19designerfacemask.com" static
 local-zone: "covid-19designerfacemasks.com" static
@@ -30847,6 +30850,7 @@ local-zone: "covid-19grant.com" static
 local-zone: "covid19-grant.com" static
 local-zone: "covid19grant.com" static
 local-zone: "covid19grant.gopayapi.com" static
+local-zone: "covid19-grant.k-gangan.com" static
 local-zone: "covid19grant.lewisrevenuegroup.com" static
 local-zone: "covid19grantor.com" static
 local-zone: "covid-19-grants.com" static
@@ -39858,6 +39862,7 @@ local-zone: "covid19trans.com" static
 local-zone: "covid19.transferfactorbusiness.com" static
 local-zone: "covid19transition.com" static
 local-zone: "covid19transitions.com" static
+local-zone: "covid19transit.jp" static
 local-zone: "covid19-translations-nyc.info" static
 local-zone: "covid19transmission.com" static
 local-zone: "covid19transmission.info" static
@@ -41040,6 +41045,7 @@ local-zone: "covid19wisdom.com" static
 local-zone: "covid19wise.com" static
 local-zone: "covid19.wisible.io" static
 local-zone: "covid19.wisunt.com" static
+local-zone: "covid19witness.org" static
 local-zone: "covid19wiz.com" static
 local-zone: "covid19.wmlabs.site" static
 local-zone: "covid19wny.com" static
@@ -72552,6 +72558,7 @@ local-zone: "www.covid19news.digipharmapro.com" static
 local-zone: "www.covid-19newsgroup.com" static
 local-zone: "www.covid19news.it" static
 local-zone: "www.covid19-news.jp" static
+local-zone: "www.covid19newslive.com" static
 local-zone: "www.covid-19-news.net.buy-xanax-cheap-xanax-online.com" static
 local-zone: "www.covid-19news.org.uk" static
 local-zone: "www.covid19newspaper.com" static
