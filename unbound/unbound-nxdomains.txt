@@ -1498,6 +1498,7 @@ local-zone: "americacorona.com" static
 local-zone: "americacoronavirus.com" static
 local-zone: "americacoronaviruscovid-19.com" static
 local-zone: "americacoronaviruscovid19.com" static
+local-zone: "america-covid19.com" static
 local-zone: "americacovid-19.com" static
 local-zone: "americacovid19.com" static
 local-zone: "americacovid-20.com" static
@@ -92680,6 +92681,7 @@ local-zone: "www.covid-19repellent.com" static
 local-zone: "www.covid19reporting.info" static
 local-zone: "www.covid19reports.app" static
 local-zone: "www.covid19research.pitt.edu" static
+local-zone: "www.covid19research.study" static
 local-zone: "www.covid19research.us" static
 local-zone: "www.covid-19resiliency.com" static
 local-zone: "www.covid19resourcehub.com" static
