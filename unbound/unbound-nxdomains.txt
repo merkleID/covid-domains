@@ -2099,6 +2099,7 @@ local-zone: "athomecoronavirustesting.com" static
 local-zone: "athomecoronavirustestkit.com" static
 local-zone: "athomecoronavirustestkits.com" static
 local-zone: "athomecoronavirustests.com" static
+local-zone: "at-homecovid-19kit.com" static
 local-zone: "athomecovid19test.com" static
 local-zone: "athomecovid19testing.com" static
 local-zone: "athomecovidtesting.com" static
@@ -64272,6 +64273,7 @@ local-zone: "selfloveinthetimeofcorona.com" static
 local-zone: "selfquarantinecovidnineteen.com" static
 local-zone: "selfreportcorona.com" static
 local-zone: "selfreportcovid19.com" static
+local-zone: "self-screen-covid-19.com" static
 local-zone: "selfstoragecoronavirus.com" static
 local-zone: "selfswabcovid19.com" static
 local-zone: "self-test-corona.com" static
