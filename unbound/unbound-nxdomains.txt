@@ -809,6 +809,7 @@ local-zone: "afterthecoronavirus.com" static
 local-zone: "afterthecoronaviruspandemic.com" static
 local-zone: "afterwuhan.com" static
 local-zone: "afthercovid19.com" static
+local-zone: "afthercovid19.net" static
 local-zone: "afthercovid-19.org" static
 local-zone: "afthercovid19.org" static
 local-zone: "aftkscoronavirus.com" static
@@ -14235,6 +14236,7 @@ local-zone: "coronavirusadviceline.com" static
 local-zone: "coronavirusadvices.com" static
 local-zone: "coronavirusadviser.com" static
 local-zone: "coronavirusadvisories.com" static
+local-zone: "coronavirusadvisorsandconsultants.net" static
 local-zone: "corona-virusadvisors.com" static
 local-zone: "coronavirusadvisors.com" static
 local-zone: "coronavirusadvisory.com" static
@@ -16778,8 +16780,10 @@ local-zone: "coronavirusdisease.cloud" static
 local-zone: "coronavirusdiseaseco.com" static
 local-zone: "corona-virus-disease.com" static
 local-zone: "coronavirusdisease.com" static
+local-zone: "coronavirusdisease-covid19.com" static
 local-zone: "coronavirusdiseasecovid-19.com" static
 local-zone: "coronavirusdiseasecovid19.com" static
+local-zone: "coronavirusdisease-covid19.co.za" static
 local-zone: "coronavirusdiseasecovid19.net" static
 local-zone: "coronavirusdisease.co.za" static
 local-zone: "coronavirusdiseasecure.com" static
@@ -25435,6 +25439,7 @@ local-zone: "covid19advise.com" static
 local-zone: "covid19advisor.com" static
 local-zone: "covid-19advisories.com" static
 local-zone: "covid19advisorsandconsultants.com" static
+local-zone: "covid19advisorsandconsultants.net" static
 local-zone: "covid19advisors.com" static
 local-zone: "covid19advisory.com" static
 local-zone: "covid19advocacy.com" static
@@ -26907,6 +26912,7 @@ local-zone: "covid19businesscontinuityconsulting.com" static
 local-zone: "covid19businesscontinuityexperts.com" static
 local-zone: "covid19businesscontinuity.network" static
 local-zone: "covid19businesscontinuitysurvival.com" static
+local-zone: "covid-19.businessdatabasebd.com" static
 local-zone: "covid19businessdebt.com" static
 local-zone: "covid19businessdebtrelief.com" static
 local-zone: "covid19businessdebts.com" static
@@ -38691,6 +38697,7 @@ local-zone: "covid-19supplynetwork.com" static
 local-zone: "covid19supplyonline.com" static
 local-zone: "covid-19supplyorders.com" static
 local-zone: "covid19supplyorders.com" static
+local-zone: "covid19-supply.org" static
 local-zone: "covid19supply.org" static
 local-zone: "covid-19supplys.com" static
 local-zone: "covid19supplys.com" static
@@ -39667,6 +39674,7 @@ local-zone: "covid-19-thoughts.org" static
 local-zone: "covid19.thowimmer.com" static
 local-zone: "covid19threat.com" static
 local-zone: "covid-19-threat-list.domaintools.com" static
+local-zone: "covid19.threatsims.com" static
 local-zone: "covid19thrivers.com" static
 local-zone: "covid-19throatswab.com" static
 local-zone: "covid-19-th.sixpacksumo.com" static
@@ -41366,6 +41374,7 @@ local-zone: "covid19zapp.com" static
 local-zone: "covid-19zapper.com" static
 local-zone: "covid19zapper.com" static
 local-zone: "covid19zaural.ru" static
+local-zone: "covid19.zazobd.com" static
 local-zone: "covid-19.zbmed.de" static
 local-zone: "covid19.zbox7.eu" static
 local-zone: "covid19zc.com" static
@@ -49406,6 +49415,7 @@ local-zone: "diazcoronadowuilfredo.com" static
 local-zone: "dicascorona.com" static
 local-zone: "dichbenhcorona.com" static
 local-zone: "dichcovid19.com" static
+local-zone: "dicovid19.com" static
 local-zone: "did5gcausecoronavirus.com" static
 local-zone: "didcovidstop.com" static
 local-zone: "didicatchthecoronavirus.com" static
@@ -64896,6 +64906,7 @@ local-zone: "socialerasecovid.com" static
 local-zone: "socialimpactcovid19.com" static
 local-zone: "socialiolationcovid19.com" static
 local-zone: "socialisolationcovid19.com" static
+local-zone: "sociallydistant-teesforcovid19.ca" static
 local-zone: "socialmediapandemic.com" static
 local-zone: "socialvisacovid.com" static
 local-zone: "societyaftercorona.com" static
@@ -73983,6 +73994,7 @@ local-zone: "www.situaciya-s-coronavirusom.ru" static
 local-zone: "www.smacovid19.com" static
 local-zone: "www.smacovid19stories.com" static
 local-zone: "www.sobrecoronavirus.es" static
+local-zone: "www.sociallydistant-teesforcovid19.ca" static
 local-zone: "www.solidaritecoronavirus.be" static
 local-zone: "www.solveforcovid19.com" static
 local-zone: "www.soscoronavirus.abrale.org.br" static
