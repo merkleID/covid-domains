@@ -3951,6 +3951,7 @@ local-zone: "checkcovid-19.com" static
 local-zone: "check.covid-19.hscni.net" static
 local-zone: "checkcovid-19.in" static
 local-zone: "checkcovid19.in" static
+local-zone: "checkcovid19.ml" static
 local-zone: "checkcovid19symptoms.iltakecare.in" static
 local-zone: "check-covid.com" static
 local-zone: "checkcovid.com" static
@@ -25658,6 +25659,7 @@ local-zone: "covid19americanheros.com" static
 local-zone: "covid19america.org" static
 local-zone: "covid19americas.com" static
 local-zone: "covid19.americaskidsbelong.org" static
+local-zone: "covid-19.amic.org.ma" static
 local-zone: "covid19.amlegals.com" static
 local-zone: "covid19.amo0.com" static
 local-zone: "covid19.amorri.org" static
@@ -72217,6 +72219,7 @@ local-zone: "www.covid19.gov.tl" static
 local-zone: "www.covid19gp.eql.ai" static
 local-zone: "www.covid19gpscreeningform.com" static
 local-zone: "www.covid19grantassistance.com" static
+local-zone: "www.covid19grant.world" static
 local-zone: "www.covid19graphed.com" static
 local-zone: "www.covid19graphics.info" static
 local-zone: "www.covid-19-graphs.net" static
