@@ -1147,6 +1147,7 @@ local-zone: "americancorona.com" static
 local-zone: "americancoronavirus-19cases.com" static
 local-zone: "americancoronavirus19cases.com" static
 local-zone: "americancoronaviruscases.com" static
+local-zone: "americancoronavirus.com" static
 local-zone: "americancoronavirusnineteencases.com" static
 local-zone: "americancovid-19cases.com" static
 local-zone: "americancovid19cases.com" static
@@ -35128,6 +35129,7 @@ local-zone: "covid19.org" static
 local-zone: "covid19organ.com" static
 local-zone: "covid19.organic" static
 local-zone: "covid19organicremedies.com" static
+local-zone: "covid-19organics.com" static
 local-zone: "covid19organisation.com" static
 local-zone: "covid-19org.com" static
 local-zone: "covid19-org.com" static
@@ -72581,6 +72583,7 @@ local-zone: "www.covid19ontario.ca" static
 local-zone: "www.covid19.ooo" static
 local-zone: "wwwcovid-19oracle.com" static
 local-zone: "wwwcovid19oracle.com" static
+local-zone: "www.covid-19organics.com" static
 local-zone: "www.covid19-ostani-doma.sm-art-design.com" static
 local-zone: "www.covid19outbreak.info" static
 local-zone: "www.covid19outbreaks.org" static
