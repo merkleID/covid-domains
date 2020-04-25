@@ -2263,6 +2263,7 @@ local-zone: "api-covid19.soymejor.com" static
 local-zone: "api.covid19statstrack.com" static
 local-zone: "api.covid19.therappx.com" static
 local-zone: "api.covid-19today.org" static
+local-zone: "api.covid19tracker.ca" static
 local-zone: "api.covid19tracking.appliedxl.com" static
 local-zone: "api.covid19tracking.narrativa.com" static
 local-zone: "api-covid19.treinetic.xyz" static
@@ -40366,6 +40367,7 @@ local-zone: "covid19longisland.com" static
 local-zone: "covid19lookback.com" static
 local-zone: "covid19look.com" static
 local-zone: "covid19lookup.com" static
+local-zone: "covid19.looniedata.com" static
 local-zone: "covid-19-loracle.com" static
 local-zone: "covid19.lorenzecosta.com.br" static
 local-zone: "covid19.loretozac.mx" static
@@ -41731,6 +41733,7 @@ local-zone: "covid19nd.com" static
 local-zone: "covid19.ndp-studio.com" static
 local-zone: "covid19.ndri.org.np" static
 local-zone: "covid19.neakriti.gr" static
+local-zone: "covid19.nearbymii.com" static
 local-zone: "covid-19nearesttestingsites.com" static
 local-zone: "covid19nearmeapp.com" static
 local-zone: "covid-19nearme.com" static
@@ -43426,6 +43429,7 @@ local-zone: "covid19.prodalam.wisefollow.com" static
 local-zone: "covid19prod.com" static
 local-zone: "covid-19product.com" static
 local-zone: "covid19product.com" static
+local-zone: "covid-19.productions" static
 local-zone: "covid19.productions" static
 local-zone: "covid-19productions.com" static
 local-zone: "covid19productions.com" static
@@ -92042,6 +92046,7 @@ local-zone: "www.covid19-dev-api.viadata.io" static
 local-zone: "www.covid19.devvn.us" static
 local-zone: "www.covid19.dhis-minsante-cm.org" static
 local-zone: "www.covid19-diaries.com" static
+local-zone: "www.covid-19diary.com" static
 local-zone: "www.covid19.dieq41.com" static
 local-zone: "www.covid-19digest.com" static
 local-zone: "www.covid19.digicubeglobal.com" static
