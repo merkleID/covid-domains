@@ -33842,6 +33842,7 @@ local-zone: "covid19consumerdebt.com" static
 local-zone: "covid19consumerproducts.com" static
 local-zone: "covid-19contact.com" static
 local-zone: "covid19contact.com" static
+local-zone: "covid19contact.jknsarawak.moh.gov.my" static
 local-zone: "covid19contactless.com" static
 local-zone: "covid-19contacts.com" static
 local-zone: "covid19contacts.com" static
@@ -89948,6 +89949,7 @@ local-zone: "whohascovid19.com" static
 local-zone: "whohascovidcardgame.com" static
 local-zone: "whohascovid.com" static
 local-zone: "who-health-covid-19.ru" static
+local-zone: "who.int.coronavirus.covid-19.ghst-t-ar.com" static
 local-zone: "whois-corona.com" static
 local-zone: "whoiscorona.com" static
 local-zone: "whoishiringduringcoronavirus.com" static
