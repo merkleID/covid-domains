@@ -35238,6 +35238,7 @@ local-zone: "covid19.doctorevidence.com" static
 local-zone: "covid19doctorlawsuit.com" static
 local-zone: "covid-19doctor.net" static
 local-zone: "covid19doctor.net" static
+local-zone: "covid19.doctors-365.de" static
 local-zone: "covid-19-doctors.com" static
 local-zone: "covid19doctors.com" static
 local-zone: "covid19doctors.net" static
@@ -43918,6 +43919,7 @@ local-zone: "covid19.rakmana.com" static
 local-zone: "covid19raleigh.com" static
 local-zone: "covid19.rallyhealth.com" static
 local-zone: "covid19.ramglobal.com" static
+local-zone: "covid19.ranchomirageca.gov" static
 local-zone: "covid19.ranchueleros-unidos.com" static
 local-zone: "covid19rank.com" static
 local-zone: "covid19ranking.com" static
@@ -88561,6 +88563,7 @@ local-zone: "uscovid19testkits.com" static
 local-zone: "uscovid19tracker.com" static
 local-zone: "uscovid19tracker.info" static
 local-zone: "uscovid19vaccination.com" static
+local-zone: "uscovid19victims.com" static
 local-zone: "uscovid-19virus.com" static
 local-zone: "uscovid19virus.com" static
 local-zone: "uscovidassistance.com" static
