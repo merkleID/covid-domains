@@ -34265,6 +34265,7 @@ local-zone: "covid19cruiseline.com" static
 local-zone: "covid19-cruiselines.com" static
 local-zone: "covid19.cruises" static
 local-zone: "covid19cruiseship.com" static
+local-zone: "covid19-cruzroja.org" static
 local-zone: "covid19.cruzrojasantander.org" static
 local-zone: "covid19crypto.com" static
 local-zone: "covid19cryptocurrenciesdonations.com" static
@@ -61204,6 +61205,7 @@ local-zone: "cpanel.covid19stats.ga" static
 local-zone: "cpanel.covid-19tributes.com" static
 local-zone: "cpanel.covid19virusescleanup.com" static
 local-zone: "cpanel.covid19worldhelp.org" static
+local-zone: "cpanel.ct7covid1981.info" static
 local-zone: "cpanel.desinfeccionescoronavirus.es" static
 local-zone: "cpanel.desinfeccionscovid19.com" static
 local-zone: "cpanel.estadisticacovid19.tk" static
@@ -80198,6 +80200,7 @@ local-zone: "productosanticovid.com" static
 local-zone: "productos-coronavirus.com" static
 local-zone: "productoscorona-virus.com" static
 local-zone: "productoscoronavirus.com" static
+local-zone: "productoscoronavirus.es" static
 local-zone: "productoscoronavirusonline.com" static
 local-zone: "productoscovid19.com" static
 local-zone: "productoscovid19.com.mx" static
@@ -88382,6 +88385,11 @@ local-zone: "usacovid19masks.com" static
 local-zone: "usacovid19match.com" static
 local-zone: "usacovid19.net" static
 local-zone: "usacovid19news.com" static
+local-zone: "usacovid19payback.cc" static
+local-zone: "usacovid19payback.com" static
+local-zone: "usacovid19payback.me" static
+local-zone: "usacovid19payback.net" static
+local-zone: "usacovid19payback.tv" static
 local-zone: "usacovid19ppe.com" static
 local-zone: "usacovid19relief.com" static
 local-zone: "usacovid19settlement.com" static
@@ -89633,6 +89641,9 @@ local-zone: "webmail.thecoronavirus.fathost50.com" static
 local-zone: "webmail.thecoronavirushomepage.com" static
 local-zone: "webmail.thecovid-19.info" static
 local-zone: "webmail.unitycovid19.com" static
+local-zone: "webmail.usacovid19payback.cc" static
+local-zone: "webmail.usacovid19payback.me" static
+local-zone: "webmail.usacovid19payback.net" static
 local-zone: "webmail.verizonwireless-covid-19.com" static
 local-zone: "webmail.verizonwireless-covid-19.us" static
 local-zone: "webmail.worldcoronavirusnews.com" static
@@ -94216,6 +94227,12 @@ local-zone: "www.updatecovid19.com" static
 local-zone: "www.updateoncovid19.com" static
 local-zone: "www.upliftingstoriescoronavirus.com" static
 local-zone: "www.upliftingstoriescovid19.com" static
+local-zone: "www.usacovid19payback.biz" static
+local-zone: "www.usacovid19payback.cc" static
+local-zone: "www.usacovid19payback.com" static
+local-zone: "www.usacovid19payback.me" static
+local-zone: "www.usacovid19payback.net" static
+local-zone: "www.usacovid19payback.tv" static
 local-zone: "www.uvcoronavirus19.com" static
 local-zone: "www.vaccinecovid-19fundraisingforresearch.com" static
 local-zone: "www.vaccines-coronavirus.site" static
