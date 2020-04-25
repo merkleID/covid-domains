@@ -30894,6 +30894,7 @@ local-zone: "covid-19antibodytesting.com" static
 local-zone: "covid19antibodytesting.com" static
 local-zone: "covid19antibodytestingonline.com" static
 local-zone: "covid-19antibodytestkit.com" static
+local-zone: "covid19-antibody-test-kit.com" static
 local-zone: "covid19antibodytestkit.com" static
 local-zone: "covid19antibodytestkits.com" static
 local-zone: "covid19antibodytestlab.com" static
@@ -79210,6 +79211,8 @@ local-zone: "pocovid.com" static
 local-zone: "poctestforcoronavirus.com" static
 local-zone: "pocuscovid19.com" static
 local-zone: "podsavewuhan.com" static
+local-zone: "poems-covid19-2-patient.zedoc.io" static
+local-zone: "poems-covid19-patient.zedoc.io" static
 local-zone: "poemsfrompandemicisolation.com" static
 local-zone: "poetryagainstcovid19.com" static
 local-zone: "poetrypandemic.com" static
