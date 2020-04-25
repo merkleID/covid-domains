@@ -3017,6 +3017,7 @@ local-zone: "ayudacovid19.gestiondeweb.com" static
 local-zone: "ayudacovid19.legal" static
 local-zone: "ayudacovid19.lxr.mx" static
 local-zone: "ayudacovid19.net" static
+local-zone: "ayudacovid19.org" static
 local-zone: "ayudacovidco.com" static
 local-zone: "ayudacovid.com" static
 local-zone: "ayudacovidcr.com" static
@@ -3290,6 +3291,7 @@ local-zone: "bcg-covid.info" static
 local-zone: "bcnvscovid19.cat" static
 local-zone: "bcorona.com" static
 local-zone: "bcoronavirus.com" static
+local-zone: "bcovid19.com" static
 local-zone: "bcovid19free.com" static
 local-zone: "bcovid.com" static
 local-zone: "bcpcovid19.com" static
@@ -72245,6 +72247,7 @@ local-zone: "mamparascoronavirus.pro" static
 local-zone: "mamparascoronavirus.thesigned.es" static
 local-zone: "mamparascovid19.com" static
 local-zone: "mamparascovid19.es" static
+local-zone: "mamparascovid19.net" static
 local-zone: "mamparasdeproteccioncovid.com" static
 local-zone: "mamparasproteccioncoronavirus.es" static
 local-zone: "mamparasproteccioncovid.com" static
@@ -83441,6 +83444,7 @@ local-zone: "stayawaycovid19.com" static
 local-zone: "stayawaycovid.com" static
 local-zone: "stayawayfromcovid19.com" static
 local-zone: "staybackcorona.com" static
+local-zone: "stayconncovid19.com" static
 local-zone: "staycoronafree.com" static
 local-zone: "staycoronavirusfree.com" static
 local-zone: "staycoronavirussafe.com" static
@@ -90953,6 +90957,7 @@ local-zone: "www.barcovid19.org" static
 local-zone: "www.batakbersatumelawancovid19.center" static
 local-zone: "www.bbkcoronavirus.com" static
 local-zone: "www.bccovid19soundwaves.ca" static
+local-zone: "www.bcovid19.com" static
 local-zone: "www.bealertforcovid-19.ga" static
 local-zone: "www.beatcoronavirus.us" static
 local-zone: "www.beatcovid19.app" static
