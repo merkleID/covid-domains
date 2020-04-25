@@ -42757,6 +42757,7 @@ local-zone: "covid19pandemy.com" static
 local-zone: "covid-19-panel.algistix.com" static
 local-zone: "covid19panel.com" static
 local-zone: "covid19.panelkaito.com" static
+local-zone: "covid19-panel.trackme.network" static
 local-zone: "covid19.paneraselect.com" static
 local-zone: "covid19.pangandarankab.go.id" static
 local-zone: "covid19pangasinan.wearepixelhub.com" static
@@ -44322,6 +44323,7 @@ local-zone: "covid19relieffunding.com" static
 local-zone: "covid19relieffund.net" static
 local-zone: "covid19-relief-fund.ns01.us" static
 local-zone: "covid19relieffunds.com" static
+local-zone: "covid19-relieffunds.servehttp.com" static
 local-zone: "covid19reliefgrant.com" static
 local-zone: "covid19relief.guru" static
 local-zone: "covid19reliefhelp.com" static
