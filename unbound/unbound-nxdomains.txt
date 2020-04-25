@@ -1926,6 +1926,7 @@ local-zone: "anticovid19drug.com" static
 local-zone: "anticovid19drugs.com" static
 local-zone: "anticovid19ec.com" static
 local-zone: "anticovid19.ee" static
+local-zone: "anti-covid-19.fr" static
 local-zone: "anti-covid19.fr" static
 local-zone: "anticovid19.fr" static
 local-zone: "anticovid-19fund.ru" static
@@ -39591,6 +39592,7 @@ local-zone: "covid19.kutacentralparkhotel.com" static
 local-zone: "covid19.kutaibaratkab.go.id" static
 local-zone: "covid19kuwait.com" static
 local-zone: "covid19kuw.com" static
+local-zone: "covid19.kuycoding.com" static
 local-zone: "covid19kuzeykibris.com" static
 local-zone: "covid19kw.com" static
 local-zone: "covid19kw.xyz" static
@@ -40628,6 +40630,7 @@ local-zone: "covid19marketdata.com" static
 local-zone: "covid19marketeffects.com" static
 local-zone: "covid19market.es" static
 local-zone: "covid19marketimpact.com" static
+local-zone: "covid-19.marketing" static
 local-zone: "covid19.marketing" static
 local-zone: "covid-19marketing.com" static
 local-zone: "covid19marketing.com" static
@@ -86003,6 +86006,7 @@ local-zone: "the-covid19-cure.com" static
 local-zone: "thecovid-19cure.com" static
 local-zone: "thecovid19cure.net" static
 local-zone: "thecovid19cures.com" static
+local-zone: "thecovid19curve.com" static
 local-zone: "thecovid19daily.com" static
 local-zone: "thecovid19dailytimes.com" static
 local-zone: "thecovid19dailytimes.net" static
@@ -93826,6 +93830,7 @@ local-zone: "www.siparadigm-covid19.com" static
 local-zone: "www.situaciya-s-coronavirusom.ru" static
 local-zone: "www.smacovid19.com" static
 local-zone: "www.smacovid19stories.com" static
+local-zone: "www.sneezeguardcovid19.com" static
 local-zone: "www.sobrecoronavirus.es" static
 local-zone: "www.sociallydistant-teesforcovid19.ca" static
 local-zone: "www.solidaritecoronavirus.be" static
