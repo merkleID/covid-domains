@@ -2891,6 +2891,7 @@ local-zone: "autodiscover.covid19.hemato365.app" static
 local-zone: "autodiscover.covid19ppp.com" static
 local-zone: "autodiscover.covid19-vallecamonica.it" static
 local-zone: "autodiscover.desinfectacoronavirus.cl" static
+local-zone: "autodiscover.desinfectacoronavirusya.com" static
 local-zone: "autodiscover.dons-coronavirus.be" static
 local-zone: "autodiscover.facemasks4covid19.com" static
 local-zone: "autodiscover.prevenircoronavirus.net" static
@@ -82769,6 +82770,7 @@ local-zone: "sintomascoronavirus.cl" static
 local-zone: "sintomascovid19.com" static
 local-zone: "sintomasdelcoronavirus.com" static
 local-zone: "sintomas-do-coronavirus.com.br" static
+local-zone: "sintomicoronavirus.com" static
 local-zone: "sio2covid19.com" static
 local-zone: "siouxfallscoronavirus.com" static
 local-zone: "siouxfallscovid19.com" static
@@ -87404,6 +87406,7 @@ local-zone: "trackcovid-19.online" static
 local-zone: "trackcovid19.onrender.com" static
 local-zone: "trackcovid19ph.com" static
 local-zone: "track.covid-19.rowles.ch" static
+local-zone: "trackcovid19.se" static
 local-zone: "trackcovid19.services" static
 local-zone: "trackcovid19.shivanshutiwari.co" static
 local-zone: "trackcovid19.site" static
@@ -89943,6 +89946,7 @@ local-zone: "whocovid-19information.com" static
 local-zone: "whocovid19information.com" static
 local-zone: "who-covid19pandemic.com" static
 local-zone: "who-covid19relieffunds.com" static
+local-zone: "whocovid19response.org" static
 local-zone: "whocovid19test.com" static
 local-zone: "who.covid-19.updates.servercache.pw" static
 local-zone: "who-covid19.world" static
@@ -94088,6 +94092,7 @@ local-zone: "www.verizonwireless-covid-19.com" static
 local-zone: "www.verizonwireless-covid-19.net" static
 local-zone: "www.verizonwireless-covid-19.us" static
 local-zone: "www.vidacarecovid19.com.br" static
+local-zone: "www.videofourcoronavirus.info" static
 local-zone: "www.virtualcovid19test.com" static
 local-zone: "www.viruscovid19masks.com" static
 local-zone: "www.virys-covid19.ru" static
