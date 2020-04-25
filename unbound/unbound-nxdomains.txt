@@ -31895,6 +31895,7 @@ local-zone: "covid19blog.org" static
 local-zone: "covid19blog.questu.ca" static
 local-zone: "covid19blogs.com" static
 local-zone: "covid19.blogueursdubenin.org" static
+local-zone: "covid19.blokesaretesting.com" static
 local-zone: "covid19blood.com" static
 local-zone: "covid19blooddonor.com" static
 local-zone: "covid19blooddrive.com" static
@@ -43651,6 +43652,7 @@ local-zone: "covid19pub.com" static
 local-zone: "covid19pubcrawl.com" static
 local-zone: "covid19publicadjuster.com" static
 local-zone: "covid19.publica.gr" static
+local-zone: "covid19-public.com" static
 local-zone: "covid-19publichealth.com" static
 local-zone: "covid19publichealth.com" static
 local-zone: "covid19publicrelations.com" static
@@ -82124,6 +82126,7 @@ local-zone: "schoolcovid19.net" static
 local-zone: "schoolsafecoronavirus.com" static
 local-zone: "schoolscovid19.com" static
 local-zone: "schoolsoutcorona.com" static
+local-zone: "schoolvshome.covid19-zahlen.de" static
 local-zone: "schuetzen-vor-corona.com" static
 local-zone: "schulenachcorona.com" static
 local-zone: "schutz-corona.com" static
