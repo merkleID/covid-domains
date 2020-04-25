@@ -3871,6 +3871,7 @@ local-zone: "blog.novalcoronavirus.online" static
 local-zone: "blogprocoronavirus.online" static
 local-zone: "blogprocoronavirus.ru" static
 local-zone: "blog.thecoronaviruscoverup.com" static
+local-zone: "blog.thecovid19experience.com" static
 local-zone: "blog.viruscovid19.com.es" static
 local-zone: "blog.zcovid19.org" static
 local-zone: "blokkx-covid19.com" static
@@ -49219,6 +49220,7 @@ local-zone: "covid19vietnam.net" static
 local-zone: "covid19vietnam.today" static
 local-zone: "covid19.vietsoft.site" static
 local-zone: "covid19view.com" static
+local-zone: "covid19viewer.com" static
 local-zone: "covid19-viewer.info-aid.net" static
 local-zone: "covid19views.org" static
 local-zone: "covid19.viggy.in" static
