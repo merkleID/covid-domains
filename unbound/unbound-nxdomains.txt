@@ -5456,6 +5456,7 @@ local-zone: "churchcovid.com" static
 local-zone: "churchcovidresponse.com" static
 local-zone: "churchescovidaid.com" static
 local-zone: "churchofcorona.com" static
+local-zone: "churchofcovid19.org" static
 local-zone: "churchofcovid.com" static
 local-zone: "ciao-corona.com" static
 local-zone: "ciaocorona.com" static
@@ -63529,6 +63530,7 @@ local-zone: "elcoronavirus.net" static
 local-zone: "elcoronavirus.org" static
 local-zone: "elcoronaviruss.com" static
 local-zone: "elcoronavirustest.com" static
+local-zone: "elcoronavirus.website" static
 local-zone: "elcovid19.info" static
 local-zone: "elcovid19virus.com" static
 local-zone: "elcovid.com" static
@@ -84781,6 +84783,7 @@ local-zone: "taskforcecorona.com" static
 local-zone: "taskforcecovid19.com" static
 local-zone: "taskforcecovid19.team1support.co.uk" static
 local-zone: "tastelesscoronavirusads.com" static
+local-zone: "tattooingbeyondcovid19.com" static
 local-zone: "tavolarotondacovid19.it" static
 local-zone: "taxcreditcovid-19.com" static
 local-zone: "taxcreditcovid19.com" static
@@ -92249,6 +92252,7 @@ local-zone: "www.covid19.djaka.id" static
 local-zone: "www.covid-19dk.live" static
 local-zone: "www.covid19dnr.cf" static
 local-zone: "www.covid19.docndoc.fr" static
+local-zone: "www.covid19.doctor" static
 local-zone: "www.covid19doctor.in" static
 local-zone: "www.covid19.dodec.co.uk" static
 local-zone: "www.covid19donate.ca" static
