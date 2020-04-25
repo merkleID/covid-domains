@@ -3828,6 +3828,7 @@ local-zone: "blmcovid19.com" static
 local-zone: "blmcovid19.hardover.com" static
 local-zone: "bloccacoronavirus.it" static
 local-zone: "bloccacovid-19.com" static
+local-zone: "bloccacovid19.com" static
 local-zone: "blockchain4covid19.com" static
 local-zone: "blockchain4covid19.org" static
 local-zone: "blockchain-covid19.com" static
@@ -40715,6 +40716,7 @@ local-zone: "covid-19masken.de" static
 local-zone: "covid-19masker.com" static
 local-zone: "covid19masker.com" static
 local-zone: "covid-19-masker.nl" static
+local-zone: "covid19-maskers.nl" static
 local-zone: "covid19maskesonline.com" static
 local-zone: "covid19maskexpress.com" static
 local-zone: "covid19maskforce.com" static
@@ -93563,6 +93565,7 @@ local-zone: "www.masque-coronavirus-design.com" static
 local-zone: "www.masque-corona-virus.shop" static
 local-zone: "www.masque-covid-19.fr" static
 local-zone: "www.masque-de-protection-coronavirus.fr" static
+local-zone: "www.masque-protection-covid19.com" static
 local-zone: "www.masques-coronavirus.brussels" static
 local-zone: "www.masquescovid19.com" static
 local-zone: "www.masques-protection-coronavirus.com" static
