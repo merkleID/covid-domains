@@ -23037,6 +23037,7 @@ local-zone: "coronavirusinfoupdate.com" static
 local-zone: "coronavirusinfoupdate.org" static
 local-zone: "coronavirusinfousa.com" static
 local-zone: "coronavirusinfous.com" static
+local-zone: "coronavirus-info.website" static
 local-zone: "coronavirusinfo.website" static
 local-zone: "coronavirusinfo.world" static
 local-zone: "coronavirusinfusion.com" static
@@ -23512,6 +23513,7 @@ local-zone: "coronaviruslabsupplies.com" static
 local-zone: "coronavirus-labtest.com" static
 local-zone: "coronaviruslabtesting.com" static
 local-zone: "coronaviruslabtests.com" static
+local-zone: "coronaviruslab.xyz" static
 local-zone: "coronaviruslacity.com" static
 local-zone: "corona-virusla.com" static
 local-zone: "coronavirus-la.com" static
@@ -34419,6 +34421,7 @@ local-zone: "covid19cyberthreats.com" static
 local-zone: "covid19cycle.com" static
 local-zone: "covid19cycling.com" static
 local-zone: "covid19cy.com" static
+local-zone: "covid19.cygnus.com.py" static
 local-zone: "covid19.cynder.io" static
 local-zone: "covid19cyprus.com" static
 local-zone: "covid19cz-btt-wa-dev.westeurope.cloudapp.azure.com" static
