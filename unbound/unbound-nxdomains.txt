@@ -33155,6 +33155,7 @@ local-zone: "covid19-chloroquine.com" static
 local-zone: "covid19chloroquine.com" static
 local-zone: "covid19chopo.com" static
 local-zone: "covid-19.chopo.com.mx" static
+local-zone: "covid19.chowberry.com" static
 local-zone: "covid19.chrisstpeter.net" static
 local-zone: "covid19christians.com" static
 local-zone: "covid19christmas.com" static
@@ -34592,6 +34593,7 @@ local-zone: "covid-19-dataexchange.com" static
 local-zone: "covid19-dataexchange.com" static
 local-zone: "covid-19-dataexchange.org" static
 local-zone: "covid19-dataexchange.org" static
+local-zone: "covid-19-data.fidi.uz" static
 local-zone: "covid19-data.firegui.com" static
 local-zone: "covid19data.fr" static
 local-zone: "covid19.dataglass.co" static
