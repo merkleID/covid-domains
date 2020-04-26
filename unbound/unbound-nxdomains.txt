@@ -34922,6 +34922,7 @@ local-zone: "covid19.devmassive.com" static
 local-zone: "covid19dev.now.sh" static
 local-zone: "covid19-dev.saftehnika.com" static
 local-zone: "covid19.devstagesite.com" static
+local-zone: "covid19-dev.tengizchevroil.com" static
 local-zone: "covid19-dev.topos.com" static
 local-zone: "covid19dev.trackercli.com" static
 local-zone: "covid19dezenfektan.com" static
@@ -83145,6 +83146,7 @@ local-zone: "socialisminthetimeofcorona.net" static
 local-zone: "socialisolationcovid19.com" static
 local-zone: "sociallydistant-teesforcovid19.ca" static
 local-zone: "socialmediapandemic.com" static
+local-zone: "socialstationcovid19.com" static
 local-zone: "socialvisacovid.com" static
 local-zone: "societyaftercorona.com" static
 local-zone: "societyaftercovid19.com" static
@@ -94061,6 +94063,7 @@ local-zone: "www.smacovid19stories.com" static
 local-zone: "www.sneezeguardcovid19.com" static
 local-zone: "www.sobrecoronavirus.es" static
 local-zone: "www.sociallydistant-teesforcovid19.ca" static
+local-zone: "www.socialstationcovid19.com" static
 local-zone: "www.solidaritecoronavirus.be" static
 local-zone: "www.solveforcovid19.com" static
 local-zone: "www.soscoronavirus.abrale.org.br" static
