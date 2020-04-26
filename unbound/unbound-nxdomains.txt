@@ -165,6 +165,7 @@ local-zone: "2019-covidtest.com" static
 local-zone: "2019ncov.blend.gateway.asia-guangdong.api.dscitech.com" static
 local-zone: "2019ncov.cloudwisdom.tech" static
 local-zone: "2019ncov.com.au" static
+local-zone: "2019-ncov.dces.ntct.edu.tw" static
 local-zone: "2019-ncov.factube.com" static
 local-zone: "2019ncov.fr" static
 local-zone: "2019ncov.ga" static
@@ -853,6 +854,7 @@ local-zone: "admin.covid19responsefund.org" static
 local-zone: "admin.covid19.rnbo.gov.ua" static
 local-zone: "admin.covid19sd.info" static
 local-zone: "admin.covid19.stockouts.org.za" static
+local-zone: "admin.covid19today.org" static
 local-zone: "admin-covid19.tremend.ro" static
 local-zone: "admin.covid19-uk.co.uk" static
 local-zone: "adminer.stopcovid19.bj" static
@@ -2406,6 +2408,7 @@ local-zone: "app.covid19misinfo.org" static
 local-zone: "app.covid19-model.com" static
 local-zone: "app-covid-19.org" static
 local-zone: "appcovid19.org" static
+local-zone: "app.covid19today.org" static
 local-zone: "app-covid19.vademecum.io" static
 local-zone: "appcovid.com" static
 local-zone: "appcovid-zero.com" static
@@ -36635,6 +36638,7 @@ local-zone: "covid19forecast.eu" static
 local-zone: "covid19forecast.info" static
 local-zone: "covid19forecast.it" static
 local-zone: "covid19forecast.net" static
+local-zone: "covid19forecast.ohsu.edu" static
 local-zone: "covid19forecast.org" static
 local-zone: "covid19forecasts.com" static
 local-zone: "covid19forecasts.org" static
@@ -74707,6 +74711,7 @@ local-zone: "ncov19.eulc.club" static
 local-zone: "ncov19.eulc.cool" static
 local-zone: "ncov19.eulc.fun" static
 local-zone: "ncov19.eulc.ltd" static
+local-zone: "ncov-19.fr" static
 local-zone: "ncov-19.freespacersa.co.za" static
 local-zone: "ncov19help.com" static
 local-zone: "ncov19.in" static
@@ -74724,6 +74729,7 @@ local-zone: "ncov19.org" static
 local-zone: "ncov-19.pl" static
 local-zone: "ncov19ppe.com" static
 local-zone: "ncov19.ro" static
+local-zone: "ncov-19.shop" static
 local-zone: "ncov19.sk" static
 local-zone: "ncov19stats.com" static
 local-zone: "ncov19stats.net" static
