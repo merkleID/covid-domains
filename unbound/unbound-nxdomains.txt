@@ -852,6 +852,7 @@ local-zone: "admin.covid19rajkot.com" static
 local-zone: "admin.covid19responsefund.org" static
 local-zone: "admin.covid19.rnbo.gov.ua" static
 local-zone: "admin.covid19sd.info" static
+local-zone: "admin.covid19.stockouts.org.za" static
 local-zone: "admin-covid19.tremend.ro" static
 local-zone: "admin.covid19-uk.co.uk" static
 local-zone: "adminer.stopcovid19.bj" static
@@ -41253,6 +41254,7 @@ local-zone: "covid19.meshs.fr" static
 local-zone: "covid19.meshworld.dev" static
 local-zone: "covid19.meshworld.in" static
 local-zone: "covid19messageboard.com" static
+local-zone: "covid-19-message.cf" static
 local-zone: "covid19message.com" static
 local-zone: "covid19messages.com" static
 local-zone: "covid19messengers.com" static
@@ -83151,6 +83153,7 @@ local-zone: "soapvscovid19.com" static
 local-zone: "soapvscovid.com" static
 local-zone: "soberduringcorona.com" static
 local-zone: "soberinthetimeofcorona.com" static
+local-zone: "sobrecoronavirus.com" static
 local-zone: "sobrecovid19.com" static
 local-zone: "sobrecovid19.com.br" static
 local-zone: "sobrevivabemaocoronavirus.com.br" static
