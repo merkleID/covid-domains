@@ -26698,6 +26698,7 @@ local-zone: "coronavirusrpm.com" static
 local-zone: "coronavirus.rr.sapo.pt" static
 local-zone: "coronavirusrsa.co.za" static
 local-zone: "coronavirusrs.laboratorioantonello.com.br" static
+local-zone: "coronavirus.rsteam.si" static
 local-zone: "coronavirus.rubiconhealth.org" static
 local-zone: "coronavirus-ru.com" static
 local-zone: "coronavirusrudygobert.com" static
@@ -38386,6 +38387,7 @@ local-zone: "covid19.hrsbdc.org" static
 local-zone: "covid-19.hscni.net" static
 local-zone: "covid19.hsmltuge.com.ng" static
 local-zone: "covid19.hssh.health" static
+local-zone: "covid19ht.com" static
 local-zone: "covid-19hubadmin.govops.ca.gov" static
 local-zone: "covid-19hub.com" static
 local-zone: "covid19-hub.com" static
@@ -41474,6 +41476,7 @@ local-zone: "covid19missouri.com" static
 local-zone: "covid19mistakes.com" static
 local-zone: "covid19-mitarbeiter-schnelltest.de" static
 local-zone: "covid19mitarbeiterschnelltest.de" static
+local-zone: "covid19.mitashi-otha.com" static
 local-zone: "covid19mitaskforce.com" static
 local-zone: "covid19mit.com" static
 local-zone: "covid19.mit.edu" static
