@@ -405,6 +405,7 @@ local-zone: "3dprintforcovid19.azores.net" static
 local-zone: "3dprintingvscovid19.com" static
 local-zone: "3dprint-vs-pandemic.com" static
 local-zone: "3f2feb80.test.covid-19.forms.digital.nhs.uk" static
+local-zone: "3.infocovid-19.ru" static
 local-zone: "3mcoronavirus.com" static
 local-zone: "3mincovid.com" static
 local-zone: "3m-n95mask-covid19.com" static
@@ -18704,6 +18705,7 @@ local-zone: "coronavirusbets.com" static
 local-zone: "coronavirusbeverlyhills.com" static
 local-zone: "coronavirusbeware.com" static
 local-zone: "coronavirus.bex.ac" static
+local-zone: "coronavirus-bez-paniki.ru" static
 local-zone: "coronavirus.bg" static
 local-zone: "corona-virus-bg.com" static
 local-zone: "coronavirus-bg.com" static
@@ -21748,6 +21750,7 @@ local-zone: "coronavirus-fl.com" static
 local-zone: "coronavirusfl.com" static
 local-zone: "coronavirusflightinfo.com" static
 local-zone: "coronavirusflightinsurance.com" static
+local-zone: "coronavirusflightpolicy.com" static
 local-zone: "coronavirus.flights" static
 local-zone: "coronavirusflights.com" static
 local-zone: "coronavirusflip.com" static
@@ -24133,6 +24136,7 @@ local-zone: "coronavirus-mapping.xyz" static
 local-zone: "coronavirusmap.pl" static
 local-zone: "coronavirusmap.pro" static
 local-zone: "corona-virus-map.ru" static
+local-zone: "coronavirus-map.ru" static
 local-zone: "coronavirusmaps.info" static
 local-zone: "coronavirusmaps.net" static
 local-zone: "coronavirusmapsonline.com" static
@@ -46779,6 +46783,7 @@ local-zone: "covid19.stovallshotels.com" static
 local-zone: "covid-19stpaul.com" static
 local-zone: "covid19stp.com" static
 local-zone: "covid-19.stradpay.com" static
+local-zone: "covid19-strahovka.ru" static
 local-zone: "covid-19strain.com" static
 local-zone: "covid-19strains.com" static
 local-zone: "covid19strains.com" static
@@ -93189,6 +93194,7 @@ local-zone: "www.covid19-tracker.io" static
 local-zone: "www.covid19-tracker.kopigeek.com" static
 local-zone: "www.covid19tracker.net" static
 local-zone: "www.covid19tracker.org" static
+local-zone: "www.covid19trackers.tk" static
 local-zone: "www.covid19track.in" static
 local-zone: "www.covid19tracking.org" static
 local-zone: "www.covid19trackingstatus.org" static
