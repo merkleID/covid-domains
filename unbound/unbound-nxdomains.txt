@@ -30365,6 +30365,7 @@ local-zone: "covid-19-accept.elsevier.health" static
 local-zone: "covid-19.accessafya.com" static
 local-zone: "covid19access.com" static
 local-zone: "covid19.accessdiagn.gr" static
+local-zone: "covid19-accessibility.com" static
 local-zone: "covid19-access.net" static
 local-zone: "covid19accessories.com" static
 local-zone: "covid19accessory.com" static
@@ -35958,6 +35959,7 @@ local-zone: "covid19essentialservices.net" static
 local-zone: "covid19essentials.in" static
 local-zone: "covid19essentialskit.com" static
 local-zone: "covid19essentials.life" static
+local-zone: "covid19essentials.pk" static
 local-zone: "covid-19essentialsstore.com" static
 local-zone: "covid-19essentialsupplies.com" static
 local-zone: "covid19essentialworker.com" static
@@ -48463,6 +48465,7 @@ local-zone: "covid19track.life" static
 local-zone: "covid19.trackme.network" static
 local-zone: "covid19track.net" static
 local-zone: "covid-19track.online" static
+local-zone: "covid19track.online" static
 local-zone: "covid19trackor.org" static
 local-zone: "covid19trackr.com" static
 local-zone: "covid19.trackr.xyz" static
@@ -89574,6 +89577,7 @@ local-zone: "webdisk.coronavirus8.com" static
 local-zone: "webdisk.coronaviruscare.org" static
 local-zone: "webdisk.corona-virus.co.ke" static
 local-zone: "webdisk.coronavirus-covid19.page" static
+local-zone: "webdisk.coronavirusmaps.net" static
 local-zone: "webdisk.coronaviruspandemic.icu" static
 local-zone: "webdisk.cov19coronavirus.com" static
 local-zone: "webdisk.covid19help.at" static
