@@ -2745,6 +2745,7 @@ local-zone: "athomecoronavirustests.com" static
 local-zone: "athomecovid19.com" static
 local-zone: "at-homecovid-19kit.com" static
 local-zone: "athomecovid19test.com" static
+local-zone: "at-home-covid-19-testing.com" static
 local-zone: "athomecovid19testing.com" static
 local-zone: "athomecovid19tests.com" static
 local-zone: "athomecovid.com" static
@@ -20655,6 +20656,7 @@ local-zone: "coronavirusdecease.com" static
 local-zone: "coronavirusdeceasecure.com" static
 local-zone: "coronavirusdeception.com" static
 local-zone: "coronavirusdeclassified.com" static
+local-zone: "coronavirusdecoded.com" static
 local-zone: "corona-virus.de.com" static
 local-zone: "coronavirusde.com" static
 local-zone: "coronavirusdeconmiami.com" static
@@ -27490,6 +27492,7 @@ local-zone: "coronavirusstorage.com" static
 local-zone: "corona-virus.store" static
 local-zone: "coronavirus-store-anc.com" static
 local-zone: "coronavirusstoreca.com" static
+local-zone: "corona-virus-store.com" static
 local-zone: "coronavirusstore.co.uk" static
 local-zone: "coronavirus-store.de" static
 local-zone: "coronavirusstore.net" static
@@ -30364,6 +30367,7 @@ local-zone: "covid1984.net" static
 local-zone: "covid1984.wtf" static
 local-zone: "covid1988.altervista.org" static
 local-zone: "covid19.8k.no" static
+local-zone: "covid-19.8ku.tokyo" static
 local-zone: "covid19-911.com" static
 local-zone: "covid19911.com" static
 local-zone: "covid1999.com" static
@@ -66276,6 +66280,7 @@ local-zone: "fucovid-19.com" static
 local-zone: "fucovid19.com" static
 local-zone: "fucovid-19.net" static
 local-zone: "fucovid19.net" static
+local-zone: "fucovid19.org" static
 local-zone: "fucovid-2020.com" static
 local-zone: "fucovid2020.com" static
 local-zone: "fucovid.club" static
@@ -92026,6 +92031,7 @@ local-zone: "www.coronavirus-stop.online" static
 local-zone: "www.coronavirus-stop.ru" static
 local-zone: "www.coronavirusstopsnow.com" static
 local-zone: "www.coronavirus-store-anc.com" static
+local-zone: "www.corona-virus-store.com" static
 local-zone: "www.coronavirus-store.de" static
 local-zone: "www.coronavirus-strana.ru" static
 local-zone: "www.coronavirussuck.tk" static
