@@ -24313,6 +24313,7 @@ local-zone: "coronavirusmasks.biz" static
 local-zone: "coronavirus-masks.ca" static
 local-zone: "coronavirusmaskscovid19.com" static
 local-zone: "coronavirus-masks-custom.com" static
+local-zone: "coronavirusmasksdirect.com" static
 local-zone: "coronavirusmaskservices.com" static
 local-zone: "coronavirusmasksforall.com" static
 local-zone: "coronavirus-masks-for-sale.com" static
@@ -38676,6 +38677,7 @@ local-zone: "covid19inazerbaijan.info" static
 local-zone: "covid19incanada.ca" static
 local-zone: "covid-19incanada.com" static
 local-zone: "covid19incanada.com" static
+local-zone: "covid19incanada.org" static
 local-zone: "covid19incarehomes.com" static
 local-zone: "covid-19inc.com" static
 local-zone: "covid19inc.com" static
@@ -39881,6 +39883,7 @@ local-zone: "covid19lateststats.com" static
 local-zone: "covid19latestupdate.com" static
 local-zone: "covid19latestupdates.com" static
 local-zone: "covid19.latestupdatez.com" static
+local-zone: "covid19.lathasoft.com" static
 local-zone: "covid19latinoamerica.com" static
 local-zone: "covid19latino.com" static
 local-zone: "covid19latinousa.com" static
@@ -61861,6 +61864,7 @@ local-zone: "customcoronamasks.com" static
 local-zone: "customcoronavirusmask.com" static
 local-zone: "customcoronavirusmasks.com" static
 local-zone: "customcovid19everything.com" static
+local-zone: "customcovid19facemask.com" static
 local-zone: "customcovid-19facemasks.com" static
 local-zone: "customcovid19mask.com" static
 local-zone: "customcovid-19masks.com" static
@@ -68832,6 +68836,7 @@ local-zone: "idiotsforcoronavirus.com" static
 local-zone: "idonothavecoronavirus.com" static
 local-zone: "i-dont-have-corona-virus.com" static
 local-zone: "i-dont-have-covid-19.com" static
+local-zone: "idonthavethecoronavirus.ca" static
 local-zone: "idonthavethecoronavirus.com" static
 local-zone: "idotcovid.com" static
 local-zone: "idreamofcovid.com" static
@@ -72642,6 +72647,7 @@ local-zone: "mapofcorona.com" static
 local-zone: "map-of-coronavirus.com" static
 local-zone: "mapofcovid19.com" static
 local-zone: "mapofcovid-19.live" static
+local-zone: "mappacoronavirus.altervista.org" static
 local-zone: "mappa-coronavirus.com" static
 local-zone: "mappacoronavirus.eu" static
 local-zone: "mappacoronavirus.ml" static
@@ -93779,6 +93785,7 @@ local-zone: "www.icbcbeatcoronavirus.com" static
 local-zone: "www.icmanaesthesiacovid-19.org" static
 local-zone: "www.icocovid19.com" static
 local-zone: "www.idc-staff-covid-19.co.za" static
+local-zone: "www.idonthavethecoronavirus.ca" static
 local-zone: "www.idrycoronavirus.com" static
 local-zone: "www.ifcoronavirus.org" static
 local-zone: "www.igscovid19.com" static
