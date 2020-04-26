@@ -24238,6 +24238,7 @@ local-zone: "coronavirusmaskkn95direct.com" static
 local-zone: "coronavirusmaskkn95supplies.com" static
 local-zone: "coronavirusmasklawsuit.com" static
 local-zone: "coronavirusmask.life" static
+local-zone: "coronavirus-mask.live" static
 local-zone: "coronavirusmask.ltd" static
 local-zone: "coronavirusmaskmerch.com" static
 local-zone: "coronavirus-mask-n95.com" static
@@ -62240,6 +62241,7 @@ local-zone: "demo-covid19.cens.cl" static
 local-zone: "demo.covid19.gouv.qc.ca" static
 local-zone: "demo.covid19.quebec.ca" static
 local-zone: "demo-covid19.satelia.eu" static
+local-zone: "demo.depistage-coronavirus.fr" static
 local-zone: "demo.it.covid19-2.rd.cloud-r.eu" static
 local-zone: "demo.it.covid19cms.rd.cloud-r.eu" static
 local-zone: "demo.it.covid19.rd.cloud-r.eu" static
@@ -92670,6 +92672,7 @@ local-zone: "www.covid19masks.uk" static
 local-zone: "www.covid19masks.us" static
 local-zone: "www.covid19masque.com" static
 local-zone: "www.covid19masque.fr" static
+local-zone: "www.covid19masques.com" static
 local-zone: "www.covid19masr.com" static
 local-zone: "www.covid19.mat.br" static
 local-zone: "www.covid-19-matome.com" static
