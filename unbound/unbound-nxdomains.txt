@@ -2333,6 +2333,7 @@ local-zone: "api.rapidtest.relawancovid19.id" static
 local-zone: "api.rcovid19.it" static
 local-zone: "api.reportecovid19.com" static
 local-zone: "apirestcovid19.habber.com" static
+local-zone: "api.sars-cov-2-chart.com" static
 local-zone: "api.siagacovid19.lebakkab.go.id" static
 local-zone: "api.stage.key-worker-coronavirus-home-testing.service.gov.uk" static
 local-zone: "api.staging.covid19.adn.be" static
@@ -31654,6 +31655,7 @@ local-zone: "covid19banners.com" static
 local-zone: "covid19.bantulelang.com" static
 local-zone: "covid19.baoviet.com.vn" static
 local-zone: "covid19.bappedakayong.com" static
+local-zone: "covid19.baptistjax.com" static
 local-zone: "covid-19.bar" static
 local-zone: "covid19.bar" static
 local-zone: "covid19barandgrill.com" static
@@ -43121,6 +43123,7 @@ local-zone: "covid19.photolab.me" static
 local-zone: "covid-19.photos" static
 local-zone: "covid19-photos.com" static
 local-zone: "covid19photos.com" static
+local-zone: "covid19-photos.net" static
 local-zone: "covid19photostory.com" static
 local-zone: "covid19phototherapy.com" static
 local-zone: "covid19-photovideo.wolfewisecreative.com.au" static
@@ -48848,6 +48851,7 @@ local-zone: "covid19uat.navikai.com" static
 local-zone: "covid19uber.com" static
 local-zone: "covid19.ubermedia.com" static
 local-zone: "covid19.ubu.care" static
+local-zone: "covid19.ubuhle79.co.za" static
 local-zone: "covid19.ubunatic.com" static
 local-zone: "covid19ubunye.co.za" static
 local-zone: "covid-19.uclaml.org" static
@@ -83412,6 +83416,7 @@ local-zone: "soutienpitiesalpetriere-covid19.com" static
 local-zone: "soyinmunealcoronavirus.com" static
 local-zone: "soyjesuscoronado.com" static
 local-zone: "spacepandemic.com" static
+local-zone: "spa.hercovid19.com.br" static
 local-zone: "spaincoronavirus.com" static
 local-zone: "spaincoronavirus.net" static
 local-zone: "spain-covid19.ru" static
@@ -84002,6 +84007,7 @@ local-zone: "stopcovid19-ibaraki.jp" static
 local-zone: "stopcovid19.international" static
 local-zone: "stopcovid19intx.com" static
 local-zone: "stopcovid19intx.net" static
+local-zone: "stopcovid19.in.ua" static
 local-zone: "stopcovid19japan.com" static
 local-zone: "stopcovid19.jp" static
 local-zone: "stopcovid19.life" static
@@ -84409,6 +84415,7 @@ local-zone: "supportcoronavirus.com" static
 local-zone: "support.coronavirusms.com" static
 local-zone: "supportcoronavirus.org" static
 local-zone: "supportcoronaviruspodcast.com" static
+local-zone: "support-covid19.code4toyama.org" static
 local-zone: "support-covid19.com" static
 local-zone: "supportcovid-19.com" static
 local-zone: "supportcovid19.com" static
