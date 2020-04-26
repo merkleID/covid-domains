@@ -842,6 +842,7 @@ local-zone: "adlcovid.com" static
 local-zone: "adlcovidtest.com" static
 local-zone: "adm.coronavirus.igaps.gx360.com.br" static
 local-zone: "admin-api.coronavirus-monitor.com" static
+local-zone: "admin.coronavirusmaroc.info" static
 local-zone: "admin.coronavirus-schutzartikel.de" static
 local-zone: "admin.covid19-dataexchange.org" static
 local-zone: "admin.covid19donors.org" static
@@ -3810,6 +3811,7 @@ local-zone: "bizcovid19.com" static
 local-zone: "bizhelpcovid19.com" static
 local-zone: "bizhelpforcovid19.com" static
 local-zone: "bizsurvivingcoronavirus.com" static
+local-zone: "bkkfightscovid19.com" static
 local-zone: "blackboard.covid-19resource.com" static
 local-zone: "black-covid-19.com" static
 local-zone: "blackcovid-19.com" static
@@ -18573,6 +18575,7 @@ local-zone: "coronavirusball.com" static
 local-zone: "coronavirusballs.com" static
 local-zone: "coronavirusbaltimore.com" static
 local-zone: "coronavirusban.com" static
+local-zone: "coronavirus.band" static
 local-zone: "coronavirusbandaid.com" static
 local-zone: "coronavirusbandaid.net" static
 local-zone: "coronavirusband.com" static
@@ -32032,6 +32035,7 @@ local-zone: "covid19bodrum.com" static
 local-zone: "covid19bodyfit.com" static
 local-zone: "covid19.bodyinteract.com" static
 local-zone: "covid-19bogota.com" static
+local-zone: "covid19.boilerplate.in" static
 local-zone: "covid-19boise.com" static
 local-zone: "covid19boise.com" static
 local-zone: "covid19.bojonegoro.org" static
@@ -40026,6 +40030,7 @@ local-zone: "covid19learnings.com" static
 local-zone: "covid-19learn.net" static
 local-zone: "covid19learntobusness.com" static
 local-zone: "covid19lease.com" static
+local-zone: "covid19.leater-ict.com" static
 local-zone: "covid19lebanon.com" static
 local-zone: "covid19leb.com" static
 local-zone: "covid19.lebongkab.go.id" static
@@ -42987,6 +42992,7 @@ local-zone: "covid-19pbc.com" static
 local-zone: "covid19pbc.com" static
 local-zone: "covid19pb.com" static
 local-zone: "covid19.pbeu.eu" static
+local-zone: "covid19-pca.bollore.com" static
 local-zone: "covid-19pcp.com" static
 local-zone: "covid19pcp.com" static
 local-zone: "covid19pcp.info" static
@@ -48467,6 +48473,7 @@ local-zone: "covid19-tracker.com" static
 local-zone: "covid19tracker.com.ng" static
 local-zone: "covid19-tracker.co.uk" static
 local-zone: "covid19tracker.co.za" static
+local-zone: "covid19tracker.cyberdevelopment.co.za" static
 local-zone: "covid19-tracker.de" static
 local-zone: "covid19tracker.gq" static
 local-zone: "covid-19-tracker.in" static
