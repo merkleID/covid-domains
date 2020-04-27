@@ -35777,6 +35777,7 @@ local-zone: "covid19email.com" static
 local-zone: "covid19.emapx.com" static
 local-zone: "covid-19.emapx.com.br" static
 local-zone: "covid19.emapx.com.br" static
+local-zone: "covid19.embassyofficeparks.com" static
 local-zone: "covid19embryyo.com" static
 local-zone: "covid19em.com" static
 local-zone: "covid-19-emd-dev.ml" static
@@ -81579,6 +81580,7 @@ local-zone: "reportingcovid19.com" static
 local-zone: "reportingoncovid19.com" static
 local-zone: "reporting.prodcovid19.fr" static
 local-zone: "report.matrix-covid19.co.il" static
+local-zone: "reports.cleancoronavirus.co.uk" static
 local-zone: "reportscovid19.com" static
 local-zone: "reportyourcorona.com" static
 local-zone: "repository4covid19.com" static
@@ -89869,6 +89871,7 @@ local-zone: "webinarsalarizare-covid19.legislatiamuncii.ro" static
 local-zone: "webinarsefaccoronavirus.es" static
 local-zone: "webinarseries-covid19.novaon.vn" static
 local-zone: "webinars.howitreatcovid19.com" static
+local-zone: "webinar.waw-covid19.com" static
 local-zone: "webmail.anticovid-19dot.cf" static
 local-zone: "webmail.blockchain4covid19.com" static
 local-zone: "webmail.capetowncovid19.co.za" static
@@ -94463,6 +94466,7 @@ local-zone: "www.ted-covid19.com" static
 local-zone: "www.ted-covid19.it" static
 local-zone: "www.temporary-covid19.com" static
 local-zone: "www.tengoelcoronavirus.es" static
+local-zone: "www.tes.lawancov19.com" static
 local-zone: "www.test-coronavirus.com.ar" static
 local-zone: "www.testcoronavirus.com.mx" static
 local-zone: "www.testcoronavirus.ga" static
@@ -94823,6 +94827,7 @@ local-zone: "xn--mdicamentcovid19-bqb.com" static
 local-zone: "xn--mdicamentscovid19-btb.com" static
 local-zone: "xn--mdicaments-covid19-bwb.com" static
 local-zone: "xn--mein-corona-mnchen-y6b.com" static
+local-zone: "xn--memorialcoronavirusespaa-nlc.org" static
 local-zone: "xn--mxicovscoronavirus-bwb.com" static
 local-zone: "xn--mycovid19expos-okb.com" static
 local-zone: "xn--plataformaafectadoscoronavirusespaa-hmd.com" static
