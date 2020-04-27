@@ -24238,6 +24238,7 @@ local-zone: "coronavirusmartincounty.com" static
 local-zone: "coronavirusmart.net" static
 local-zone: "coronavirusmaryland.com" static
 local-zone: "coronavirus.maryland.gov" static
+local-zone: "coronavirusmascaras.com" static
 local-zone: "coronavirusmascarilla.com" static
 local-zone: "coronavirusmascarillas.net" static
 local-zone: "coronavirusmasck.com" static
@@ -30388,6 +30389,7 @@ local-zone: "covid1999.com" static
 local-zone: "covid199.altervista.org" static
 local-zone: "covid-199.com" static
 local-zone: "covid199.com" static
+local-zone: "covid199.in" static
 local-zone: "covid19a2z.com" static
 local-zone: "covid19.a7crm.ru" static
 local-zone: "covid19-aachen.com" static
@@ -47584,6 +47586,7 @@ local-zone: "covid-19taxupdates.com" static
 local-zone: "covid19.taylorcowin.com" static
 local-zone: "covid19.taylor.edu" static
 local-zone: "covid19.taylorwfletcher.com" static
+local-zone: "covid19.tblog.shop" static
 local-zone: "covid19.tbnk.ca" static
 local-zone: "covid19-tcbasvuru-formu-doldur.com" static
 local-zone: "covid19tchad.com" static
@@ -84155,6 +84158,7 @@ local-zone: "stopcovid19.pl" static
 local-zone: "stopcovid-19.positive-energy.ru" static
 local-zone: "stopcovid19.pref.gunma.jp" static
 local-zone: "stopcovid19.pref.shiga.lg.jp" static
+local-zone: "stopcovid19-preprod.mirakl.net" static
 local-zone: "stop-covid19.pro" static
 local-zone: "stopcovid19.pro" static
 local-zone: "stopcovid19sanitizing.com" static
