@@ -22615,6 +22615,7 @@ local-zone: "coronavirushoax.net" static
 local-zone: "coronavirus.hockey" static
 local-zone: "coronavirushockey.com" static
 local-zone: "coronavirushoje.com" static
+local-zone: "corona-virus-hokkaido.com" static
 local-zone: "coronavirus.holdings" static
 local-zone: "coronavirus.holiday" static
 local-zone: "coronavirusholiday.com" static
@@ -35939,6 +35940,7 @@ local-zone: "covid19england.kre.brighton.domains" static
 local-zone: "covid19.englishaunt.com" static
 local-zone: "covid19engr.com" static
 local-zone: "covid-19enimagenes.com" static
+local-zone: "covid19.enis.dev" static
 local-zone: "covid19.enkoded.com" static
 local-zone: "covid19enmaquiladoras.com" static
 local-zone: "covid19enmexico.com" static
