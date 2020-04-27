@@ -17733,6 +17733,7 @@ local-zone: "coronavirus-2.argjolan.ovh" static
 local-zone: "coronavirus2day.com" static
 local-zone: "coronavirus-2d.com" static
 local-zone: "coronavirus2k.com" static
+local-zone: "coronavirus.2kdesigners.com" static
 local-zone: "coronavirus2.online" static
 local-zone: "coronavirus2.websiteex.xyz" static
 local-zone: "coronavirus301.com" static
@@ -42487,6 +42488,7 @@ local-zone: "covid19odr.net" static
 local-zone: "covid19.ods.app" static
 local-zone: "covid19odszkodowanie.pl" static
 local-zone: "covid-19.od.ua" static
+local-zone: "covid19.oeb.today" static
 local-zone: "covid-19.oec-paris.fr" static
 local-zone: "covid-19-oe.org" static
 local-zone: "covid19of2019.com" static
@@ -49662,6 +49664,7 @@ local-zone: "covid19virusnewsupdate.com" static
 local-zone: "covid19virusnewsupdate.net" static
 local-zone: "covid19virusnews.us" static
 local-zone: "covid19virusnow.com" static
+local-zone: "covid-19virus.nu" static
 local-zone: "covid-19virusoutbreak.com" static
 local-zone: "covid19virusoutbreak.com" static
 local-zone: "covid19virus.page" static
@@ -73182,6 +73185,7 @@ local-zone: "mediacoronavirus.com" static
 local-zone: "media.coronaviruset.com" static
 local-zone: "media.coronavirussymptom.nu" static
 local-zone: "mediacovid-19.com" static
+local-zone: "media.covid-19virus.nu" static
 local-zone: "mediacovid.com" static
 local-zone: "mediadorescovid19.com" static
 local-zone: "mediapandemic.com" static
