@@ -21503,6 +21503,7 @@ local-zone: "coronavirusetests.com" static
 local-zone: "coronaviruset.eu" static
 local-zone: "coronavirusetfs.com" static
 local-zone: "coronavirusethiopia.com" static
+local-zone: "coronavirusethiopia.org" static
 local-zone: "corona-viruset.info" static
 local-zone: "coronavirus.eti.pw" static
 local-zone: "coronavirus-etiquette.com" static
@@ -28972,6 +28973,7 @@ local-zone: "coronavirusvaccinelist.com" static
 local-zone: "coronavirusvaccinelocations.com" static
 local-zone: "coronavirusvaccinenews.com" static
 local-zone: "coronavirus-vaccine.online" static
+local-zone: "corona-virus-vaccine.org" static
 local-zone: "coronavirusvaccine.org" static
 local-zone: "coronavirusvaccineprogress.com" static
 local-zone: "corona-virus-vaccines.com" static
@@ -36719,6 +36721,7 @@ local-zone: "covid19fogging.com" static
 local-zone: "covid19fogging.net" static
 local-zone: "covid19folding.com" static
 local-zone: "covid19.foleygiolittocpa.com" static
+local-zone: "covid19.foliage.fun" static
 local-zone: "covid19followupcare.com" static
 local-zone: "covid19.fomrra.org" static
 local-zone: "covid-19.fondationdrjulien.org" static
@@ -43407,6 +43410,7 @@ local-zone: "covid-19poc.com" static
 local-zone: "covid19-poc.com" static
 local-zone: "covid19poc.com" static
 local-zone: "covid19poct.com" static
+local-zone: "covid19poctest.com" static
 local-zone: "covid19pocus.com" static
 local-zone: "covid19-podaci.me" static
 local-zone: "covid-19podcast.com" static
@@ -80615,6 +80619,7 @@ local-zone: "protecciondelcoronavirus.com" static
 local-zone: "proteccionescoronavirus.com" static
 local-zone: "proteccionescovid19.com" static
 local-zone: "proteccionesparacovid19.com" static
+local-zone: "proteccionparacoronavirus.com" static
 local-zone: "proteccionparaelcoronavirus.com" static
 local-zone: "protec-covid-19.ch" static
 local-zone: "protec-covid.com" static
@@ -81774,6 +81779,7 @@ local-zone: "rgvcorona.com" static
 local-zone: "rgvcovid19cases.com" static
 local-zone: "rgvcovid19info.com" static
 local-zone: "rgvcovid.com" static
+local-zone: "rh.coronavirus.itaborai.rj.gov.br" static
 local-zone: "rheumcovid4patients.com" static
 local-zone: "rheum-covid.com" static
 local-zone: "rheumcovid.com" static
@@ -94131,6 +94137,7 @@ local-zone: "www.medicarecoronavirus.com" static
 local-zone: "www.medicarecoronavirustest.com" static
 local-zone: "www.medmaskcovid19.ru" static
 local-zone: "www.melcovid19checker.com" static
+local-zone: "www.memorialcovid19.net" static
 local-zone: "www.menjauhlahcovid19.online" static
 local-zone: "www.mensajescovid19.org" static
 local-zone: "www.mercovid19.cat" static
