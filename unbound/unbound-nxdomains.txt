@@ -26750,6 +26750,7 @@ local-zone: "coronavirusrutherfordcounty.com" static
 local-zone: "coronavirusrva.com" static
 local-zone: "coronavirusrwanda.com" static
 local-zone: "coronavirusrxpak.com" static
+local-zone: "coronavirus-ryazan.ru" static
 local-zone: "coronaviruss19.online" static
 local-zone: "coronavirus.sachsen.de" static
 local-zone: "coronavirus-sa.com" static
@@ -48377,6 +48378,7 @@ local-zone: "covid19timeline.com" static
 local-zone: "covid19timeline.net" static
 local-zone: "covid-19-timeline.now.sh" static
 local-zone: "covid19timelines.com" static
+local-zone: "covid19timeline.watch" static
 local-zone: "covid19timemachine.com" static
 local-zone: "covid19.timenews.co.in" static
 local-zone: "covid19times-2020.com" static
