@@ -3210,6 +3210,7 @@ local-zone: "barrieracovid19.com" static
 local-zone: "barriercovid.com" static
 local-zone: "barriereanticovid19.it" static
 local-zone: "barrierecoronavirus.com" static
+local-zone: "barriere-covid19-2.movidone.com" static
 local-zone: "barriere-covid19.fr" static
 local-zone: "barriere-covid19.zendesk.com" static
 local-zone: "barriere-covid.com" static
@@ -18193,7 +18194,9 @@ local-zone: "coronavirusandcreativity.com" static
 local-zone: "coronavirusanddentistry.com" static
 local-zone: "coronavirusandemotions.com" static
 local-zone: "coronavirusandfinancialsurvival.com" static
+local-zone: "coronavirusandfinancialsurvival.org" static
 local-zone: "coronavirusandfutureincome.com" static
+local-zone: "coronavirusandfutureincome.org" static
 local-zone: "coronavirusandhaiti.com" static
 local-zone: "coronavirusandhomevalues.com" static
 local-zone: "coronavirusandhousing.com" static
@@ -18219,6 +18222,7 @@ local-zone: "coronavirusandwork.com" static
 local-zone: "coronavirusandyourchurch.com" static
 local-zone: "coronavirusandyouremotions.com" static
 local-zone: "coronavirusandyourfinancialfuture.com" static
+local-zone: "coronavirusandyourfinancialfuture.org" static
 local-zone: "coronavirusandyourhomesale.com" static
 local-zone: "coronavirusandzombies.com" static
 local-zone: "coronavirus.anesth.ch" static
@@ -21735,6 +21739,7 @@ local-zone: "corona-virus.finance" static
 local-zone: "coronavirusfinance.com" static
 local-zone: "coronavirusfinancegroup.com" static
 local-zone: "coronavirusfinanceprotection.com" static
+local-zone: "coronavirusfinanceprotection.org" static
 local-zone: "coronavirusfinances.com" static
 local-zone: "coronavirus.financial" static
 local-zone: "coronavirusfinancialadvice.com" static
@@ -73481,6 +73486,7 @@ local-zone: "metacoronavirus.com" static
 local-zone: "metacovid19.com" static
 local-zone: "metacovid.com" static
 local-zone: "metacrilatocoronavirus.com" static
+local-zone: "metadata.getcovid19data.com" static
 local-zone: "metairiebusinesscovidrecovery.com" static
 local-zone: "metalagainstcoronavirus.com" static
 local-zone: "metalepidemic.com" static
@@ -81331,6 +81337,7 @@ local-zone: "real-time-bay-area-covid-19-quarantine-clock.kfchinese.repl.run" st
 local-zone: "realtime-bay-area-covid-19-quarantine-clock.kfchinese.repl.run" static
 local-zone: "realtimecorona.com" static
 local-zone: "realtimecoronagraphs.com" static
+local-zone: "realtimecoronavirus.biz" static
 local-zone: "realtimecoronavirus.cc" static
 local-zone: "realtimecoronavirus.com" static
 local-zone: "realtimecoronavirus.net" static
@@ -85330,6 +85337,7 @@ local-zone: "testcoronavirus.center" static
 local-zone: "testcoronavirus.cl" static
 local-zone: "test-corona-virus.com" static
 local-zone: "testcorona-virus.com" static
+local-zone: "testcoronavirus.com" static
 local-zone: "test-coronavirus.com.ar" static
 local-zone: "testcoronavirus.com.ar" static
 local-zone: "testcoronaviruscovid-19.com" static
