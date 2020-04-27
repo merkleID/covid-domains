@@ -23408,6 +23408,7 @@ local-zone: "coronavirus-karantin.info" static
 local-zone: "coronavirus-karantin.online" static
 local-zone: "coronavirus-karantin.ru" static
 local-zone: "coronaviruskarantin.ru" static
+local-zone: "coronavirus-karantin-russia.ru" static
 local-zone: "coronavirus-karma.com" static
 local-zone: "coronaviruskarma.com" static
 local-zone: "coronavirus-karta.com" static
@@ -28593,6 +28594,7 @@ local-zone: "coronavirustshirts.world" static
 local-zone: "coronavirus.tsogi.net" static
 local-zone: "coronavirustsunami.com" static
 local-zone: "coronavirustt.com" static
+local-zone: "coronavirustt.info" static
 local-zone: "coronavirustube.com" static
 local-zone: "coronavirustucson.com" static
 local-zone: "coronavirus-tula.ru" static
@@ -31198,6 +31200,7 @@ local-zone: "covid-19-app-service-env.appserviceenvironment.net" static
 local-zone: "covid19.appsesa.pr.gov.br" static
 local-zone: "covid19.appsquest.org" static
 local-zone: "covid-19-app.telekom-healthcare.com" static
+local-zone: "covid-19.app.unimelb.edu.au" static
 local-zone: "covid19app.uniurb.it" static
 local-zone: "covid19app.xyz" static
 local-zone: "covid19apres.com" static
@@ -42434,6 +42437,7 @@ local-zone: "covid19nyc.org" static
 local-zone: "covid19nyctaskforce.com" static
 local-zone: "covid19ny.live" static
 local-zone: "covid19nys.com" static
+local-zone: "covid19.nz" static
 local-zone: "covid-19nz.com" static
 local-zone: "covid19-nz.com" static
 local-zone: "covid19nz.com" static
@@ -83706,6 +83710,7 @@ local-zone: "staging.killcoronavirus.ca" static
 local-zone: "staging.maladiecoronavirus.fr" static
 local-zone: "staging.masksforcovid19.org" static
 local-zone: "staging.whocoronavirus.org" static
+local-zone: "staging.wincovid19.jp" static
 local-zone: "stagph.gocovid-19.org" static
 local-zone: "stairsagainstcovid19.com" static
 local-zone: "stalkingcorona.com" static
