@@ -1938,6 +1938,7 @@ local-zone: "anticovid19drug.com" static
 local-zone: "anticovid19drugs.com" static
 local-zone: "anticovid19ec.com" static
 local-zone: "anticovid19.ee" static
+local-zone: "anti-covid19.es" static
 local-zone: "anti-covid-19.fr" static
 local-zone: "anti-covid19.fr" static
 local-zone: "anticovid19.fr" static
@@ -18377,6 +18378,7 @@ local-zone: "coronavirusarena.com" static
 local-zone: "coronavirus-argentina.com" static
 local-zone: "coronavirusargentina.info" static
 local-zone: "coronavirusargentina.net" static
+local-zone: "coronavirus.argjolan.ovh" static
 local-zone: "coronavirus-arizona.com" static
 local-zone: "coronavirus-arkansas.com" static
 local-zone: "coronavirusarkansas.com" static
@@ -36813,6 +36815,7 @@ local-zone: "covid19fondy.com" static
 local-zone: "covid19.foobar12.mycpanel.rs" static
 local-zone: "covid19foodbanks.org" static
 local-zone: "covid19-food.com" static
+local-zone: "covid19foodfoodsupports.alijokin.com" static
 local-zone: "covid-19.foodindustry.asia" static
 local-zone: "covid19foodkit.com" static
 local-zone: "covid19foodresources.org" static
@@ -48863,6 +48866,7 @@ local-zone: "covid19transmission.info" static
 local-zone: "covid19transmission.org" static
 local-zone: "covid19transparency.com" static
 local-zone: "covid19.transparencymaroc.ma" static
+local-zone: "covid19-transportation.com" static
 local-zone: "covid19-transport.com" static
 local-zone: "covid19transport.com" static
 local-zone: "covid19-transport.net" static
@@ -68204,6 +68208,7 @@ local-zone: "help-stop-coronavirus.net" static
 local-zone: "helpstopcoronavirus.net" static
 local-zone: "helpstopcovid-19.com" static
 local-zone: "helpstopcovid19.com" static
+local-zone: "help-stop-covid-19.co.uk" static
 local-zone: "help.stopcovid19.jp" static
 local-zone: "helpstopcovid19.life" static
 local-zone: "helpstopcovid19.net" static
@@ -81225,6 +81230,7 @@ local-zone: "questioncovidchaos.com" static
 local-zone: "questioncovid.com" static
 local-zone: "questioningcovid.com" static
 local-zone: "questionnaire.arubacovid19.org" static
+local-zone: "questionnaires-covid19.fr" static
 local-zone: "questionsaftercorona.com" static
 local-zone: "questionscovid-19.com" static
 local-zone: "queuesafe-covid19.com" static
@@ -82802,6 +82808,7 @@ local-zone: "sciptaskforce-covid19.pt" static
 local-zone: "scorecovid19.com" static
 local-zone: "scoronavirus.com" static
 local-zone: "scotiabanks.ayudacoronavirus.a2hosted.com" static
+local-zone: "scotia-covid19.com" static
 local-zone: "scotiacovid19.com" static
 local-zone: "scotscoopcovid.com" static
 local-zone: "scovid19.com" static
@@ -83952,6 +83959,7 @@ local-zone: "staffingresponceforcovid19.com" static
 local-zone: "staffnewscovid.com" static
 local-zone: "stage-admin-covid19.tremend.ro" static
 local-zone: "stage.aivscovid19.com" static
+local-zone: "stage-covid19.aboutamazon.com" static
 local-zone: "stage.covid19healthnetwork.com" static
 local-zone: "stage.covid19screen.com.au" static
 local-zone: "stage-covid19.tremend.ro" static
