@@ -62865,6 +62865,7 @@ local-zone: "dev3.coronavirus.dk" static
 local-zone: "dev3.covid19.seie-madagascar.org" static
 local-zone: "dev4.covid19.seie-madagascar.org" static
 local-zone: "dev.anti-coronavirus.at" static
+local-zone: "dev.api.public.test-for-coronavirus.service.gov.uk" static
 local-zone: "dev.benincovid19.org" static
 local-zone: "dev.cms.coronavirusresources.phe.gov.uk" static
 local-zone: "dev.coronavirussupport.ca" static
@@ -72499,6 +72500,7 @@ local-zone: "ltccovidupdate.com" static
 local-zone: "lt.coronavirus-face-mask.today" static
 local-zone: "ltcovid19sellerplan.com" static
 local-zone: "lt.test-coronavirus.eu" static
+local-zone: "lualaba-infocovid19.com" static
 local-zone: "lubbockcovid19.com" static
 local-zone: "luchacontracoronavirus.com" static
 local-zone: "luchacoronavirus.com" static
@@ -80737,6 +80739,7 @@ local-zone: "proteccion-covid.com" static
 local-zone: "proteccioncovid.com" static
 local-zone: "protecciondelcoronavirus.com" static
 local-zone: "proteccionescoronavirus.com" static
+local-zone: "proteccionescoronavirus.net" static
 local-zone: "proteccionescovid19.com" static
 local-zone: "proteccionesparacovid19.com" static
 local-zone: "proteccionparacoronavirus.com" static
@@ -81008,6 +81011,7 @@ local-zone: "publiccorona.com" static
 local-zone: "public.covid19.api.insight.lunit.io" static
 local-zone: "publichealthcovid-19.com" static
 local-zone: "publichealthlifecovid19.com" static
+local-zone: "public.test-for-coronavirus.service.gov.uk" static
 local-zone: "publixcovidmaskclassaction.com" static
 local-zone: "pubsub.covid19.pk" static
 local-zone: "puebacovid.com" static
@@ -82903,6 +82907,7 @@ local-zone: "segurocovid19.com.mx" static
 local-zone: "segurocovid.com" static
 local-zone: "seguroparacoronavirus.com" static
 local-zone: "seguroscoronavirus.com" static
+local-zone: "seguroscoronavirus.com.mx" static
 local-zone: "seguroscovid.com" static
 local-zone: "sehatviruscorona.com" static
 local-zone: "seincovid19.com" static
@@ -90041,6 +90046,7 @@ local-zone: "webcovid.com" static
 local-zone: "webcovidsulteng.com" static
 local-zone: "webcovidtest.com" static
 local-zone: "webdisk.actioncoronavirus.com" static
+local-zone: "webdisk.alarmacoronavirus.es" static
 local-zone: "webdisk.consultamedicayprevencion-covid-19.online" static
 local-zone: "webdisk.coronacovid19news.com" static
 local-zone: "webdisk.coronavirus-2020.es" static
@@ -91748,6 +91754,7 @@ local-zone: "www.concludecovid19.org" static
 local-zone: "www.confirmedcovid19.com" static
 local-zone: "www.connectforcovid19.com" static
 local-zone: "www.conquestcovid19.com" static
+local-zone: "www.constructioncovid19response.co.uk" static
 local-zone: "www.consultoracovid19.com" static
 local-zone: "www.continuingthroughcoronavirus.com" static
 local-zone: "www.contracovid19.cf" static
