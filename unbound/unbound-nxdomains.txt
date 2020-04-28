@@ -24823,6 +24823,7 @@ local-zone: "coronavirusmrsa.com" static
 local-zone: "coronavirus-m.ru" static
 local-zone: "coronavirusm.ru" static
 local-zone: "coronavirus.msf.codebit.biz" static
+local-zone: "coronavirus.msf.org.br" static
 local-zone: "coronavirus-msk.ru" static
 local-zone: "coronavirusms.net" static
 local-zone: "coronavirus.msnoar.com.br" static
@@ -27707,6 +27708,7 @@ local-zone: "coronavirussupportpodcast.com" static
 local-zone: "coronavirussupportproject.com" static
 local-zone: "coronavirussupports.com" static
 local-zone: "coronavirussupportseries.com" static
+local-zone: "coronavirus-support-service.com" static
 local-zone: "coronavirussupportsystem.com" static
 local-zone: "coronavirussupport.uk" static
 local-zone: "coronavirussupportuk.com" static
@@ -30959,6 +30961,7 @@ local-zone: "covid-19analytics.com" static
 local-zone: "covid19-analytics.com" static
 local-zone: "covid19analytics.com" static
 local-zone: "covid19analytics.io" static
+local-zone: "covid19analytics.live" static
 local-zone: "covid19analytics.net" static
 local-zone: "covid19analytics.org" static
 local-zone: "covid-19-analytics.se" static
@@ -34226,6 +34229,7 @@ local-zone: "covid19-coronavirus.net" static
 local-zone: "covid19coronavirus.net" static
 local-zone: "covid19-coronavirusnews.com" static
 local-zone: "covid-19-coronavirus-nv.com" static
+local-zone: "covid-19-coronavirus.org" static
 local-zone: "covid19coronavirus.org" static
 local-zone: "covid-19coronaviruspandemic2020.com" static
 local-zone: "covid19coronaviruspandemic.com" static
@@ -43910,6 +43914,7 @@ local-zone: "covid19-protection.com" static
 local-zone: "covid-19-protection.co.uk" static
 local-zone: "covid19protection.co.za" static
 local-zone: "covid19protectiondevices.com" static
+local-zone: "covid19protectionequipment.co.za" static
 local-zone: "covid19protection.eu" static
 local-zone: "covid19protection.evirus19protection.com" static
 local-zone: "covid19protectionfacemask.com" static
@@ -68510,6 +68515,7 @@ local-zone: "hopeaftercovid19.com" static
 local-zone: "hopeagainstcovid.com" static
 local-zone: "hopeandcovid19.com" static
 local-zone: "hopebeyondcovid19.com" static
+local-zone: "hopecovid19.com" static
 local-zone: "hopeduringcorona.com" static
 local-zone: "hopeforcorona.com" static
 local-zone: "hopeforcovid19.com" static
@@ -73030,6 +73036,7 @@ local-zone: "mascarillasparacovid-19.com" static
 local-zone: "mascarillasparacovid19.com" static
 local-zone: "mascarillasparacovid.com" static
 local-zone: "mascarillasproteccioncoronavirus.com" static
+local-zone: "mascarillasproteccioncoronavirus.store" static
 local-zone: "mascerinacorona.com" static
 local-zone: "mascerinecoronavirus.com" static
 local-zone: "mascerinecoronavirus.it" static
