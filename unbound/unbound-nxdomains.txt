@@ -2234,6 +2234,7 @@ local-zone: "api.covid-19.clicksandbox.com" static
 local-zone: "apicovid19.cochabamba.bo" static
 local-zone: "api.covid19.commonhelp.it" static
 local-zone: "api.covid19coughtest.com" static
+local-zone: "api.covid19dashboard.net" static
 local-zone: "api.covid19data.cloud" static
 local-zone: "api.covid19datacompare.com" static
 local-zone: "api.covid19-dataexchange.org" static
@@ -35042,6 +35043,7 @@ local-zone: "covid-19depressionaustralia.com" static
 local-zone: "covid-19depression.com" static
 local-zone: "covid19depression.com" static
 local-zone: "covid19depression.net" static
+local-zone: "covid19.derinworksllc.com" static
 local-zone: "covid19.derrickconnellphotography.com" static
 local-zone: "covid19.desapaokmotong.id" static
 local-zone: "covid19desa.saludcontigo.co" static
@@ -35801,6 +35803,7 @@ local-zone: "covid19egstatus.com" static
 local-zone: "covid19-egypt.com" static
 local-zone: "covid19egypt.com" static
 local-zone: "covid19egypt.euc.com.sa" static
+local-zone: "covid19egyptradar.org" static
 local-zone: "covid19ehealth.com" static
 local-zone: "covid19.ehe.health" static
 local-zone: "covid19ehs.com" static
@@ -38200,6 +38203,7 @@ local-zone: "covid19herovictimfund.com" static
 local-zone: "covid-19.hesprodz.com" static
 local-zone: "covid19.hessen.de" static
 local-zone: "covid19.heuproject.com" static
+local-zone: "covid19.heyamigo.app" static
 local-zone: "covid19.heyirys.com" static
 local-zone: "covid19hg.com" static
 local-zone: "covid19hg.org" static
@@ -47311,6 +47315,7 @@ local-zone: "covid19supplyworld.com" static
 local-zone: "covid19supplyxl.com" static
 local-zone: "covid19support247.com" static
 local-zone: "covid19support.app" static
+local-zone: "covid-19-support.apppah.us" static
 local-zone: "covid19supportbahamas.com" static
 local-zone: "covid19supportca.com" static
 local-zone: "covid19support.center" static
@@ -66698,6 +66703,7 @@ local-zone: "ganicovid19.com" static
 local-zone: "garde-covid.net" static
 local-zone: "gardenstatecovid19.com" static
 local-zone: "gardonslecap-covid19.ch" static
+local-zone: "garyreg.coronavirusworldtimeline.com" static
 local-zone: "gastoncovid.com" static
 local-zone: "gatecovid19.com" static
 local-zone: "gate.covid19.gov.bt" static
@@ -67646,6 +67652,7 @@ local-zone: "groceriesduringcovid19.info" static
 local-zone: "grocerylistforapandemic.com" static
 local-zone: "grooveforcovid19.com" static
 local-zone: "groundtravelduringcoronavirusepidemic.com" static
+local-zone: "group50-covid19.co.za" static
 local-zone: "groupedeveillecovid.com" static
 local-zone: "groupemorneaucovid19.com" static
 local-zone: "groupepeakcovid19.com" static
@@ -92874,6 +92881,7 @@ local-zone: "www.covid19earth.live" static
 local-zone: "www.covid19easytestkit.com" static
 local-zone: "www.covid19eesti.ee" static
 local-zone: "www.covid-19effect.com" static
+local-zone: "www.covid19egyptradar.org" static
 local-zone: "www.covid19.ehe.health" static
 local-zone: "www.covid19.ehfikri.id" static
 local-zone: "www.covid19-elsalvador.club" static
