@@ -2899,6 +2899,7 @@ local-zone: "autodiscover.coronavirusbabysitters.com" static
 local-zone: "autodiscover.coronavirusconnect.com" static
 local-zone: "autodiscover.coronavirus-coupons.com" static
 local-zone: "autodiscover.corona-virus-status.co.uk" static
+local-zone: "autodiscover.coronavirusweb.site" static
 local-zone: "autodiscover.covid19aidsupplies.com" static
 local-zone: "autodiscover.covid19calc.info" static
 local-zone: "autodiscover.covid19donate.online" static
@@ -41100,6 +41101,7 @@ local-zone: "covid19.matheus.me" static
 local-zone: "covid19math.net" static
 local-zone: "covid19.matimerenterprises.com" static
 local-zone: "covid-19-matome.com" static
+local-zone: "covid19-matome.com" static
 local-zone: "covid-19.matsuzawa-kanpou.com" static
 local-zone: "covid-19.mattarg.streamstorecloud.com" static
 local-zone: "covid19matters.com" static
@@ -72560,6 +72562,7 @@ local-zone: "mail.coronaviruscureuk.com" static
 local-zone: "mail.coronavirusdiaries.net" static
 local-zone: "mail.coronavirusfoundation.org" static
 local-zone: "mail.coronavirushoax.org" static
+local-zone: "mail.coronaviruslaw.com" static
 local-zone: "mail.coronavirusnews.su" static
 local-zone: "mail.coronavirusofficial.online" static
 local-zone: "mail.coronavirusonlinetraining.com" static
@@ -83419,6 +83422,7 @@ local-zone: "smartcovid.com" static
 local-zone: "smartpandemic.com" static
 local-zone: "smartpandemicmask.com" static
 local-zone: "smartpandemicprep.com" static
+local-zone: "smartwatchcovid19.tk" static
 local-zone: "smash-corona.com" static
 local-zone: "smashcorona.com" static
 local-zone: "smashcoronavirus.com" static
@@ -94529,6 +94533,7 @@ local-zone: "www.shopcovid19express.com" static
 local-zone: "www.shopcovid19masks.com" static
 local-zone: "www.shopcovid19.net" static
 local-zone: "www.shpcovid19.com" static
+local-zone: "www.siagacovid-19.pmimuba.or.id" static
 local-zone: "www.sicovid19.org" static
 local-zone: "www.simplecoronavirus.com" static
 local-zone: "www.siparadigm-covid19.com" static
