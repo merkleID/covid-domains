@@ -72834,6 +72834,7 @@ local-zone: "map-covid19.online" static
 local-zone: "mapcovid19.org" static
 local-zone: "map-covid-19.ru" static
 local-zone: "mapcovid19.sukabumikota.go.id" static
+local-zone: "map-covid-2019.ru" static
 local-zone: "map-covid.com" static
 local-zone: "mapcovid.com" static
 local-zone: "mapearocoronavirus.insidesi.com.br" static
@@ -90027,6 +90028,7 @@ local-zone: "webdisk.covid19no1gearstore.com" static
 local-zone: "webdisk.covid19pro.co" static
 local-zone: "webdisk.covid19sanitizeservices.com.au" static
 local-zone: "webdisk.covid19statsza.co.za" static
+local-zone: "webdisk.covid19supplies.com.ng" static
 local-zone: "webdisk.covid19tradepost.com" static
 local-zone: "webdisk.covid-19-ut.com" static
 local-zone: "webdisk.covid19ve.info" static
