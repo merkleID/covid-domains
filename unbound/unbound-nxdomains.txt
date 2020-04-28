@@ -43591,6 +43591,7 @@ local-zone: "covid19ppeshortages.co.za" static
 local-zone: "covid19ppesourcing.com" static
 local-zone: "covid19.ppe-stop.site" static
 local-zone: "covid19ppesupply.com" static
+local-zone: "covid19ppesupport.com" static
 local-zone: "covid19ppetraining.careercircle.com" static
 local-zone: "covid-19-ppe-training.com" static
 local-zone: "covid19ppe.vitaform.shop" static
@@ -43862,6 +43863,7 @@ local-zone: "covid-19-protect.com" static
 local-zone: "covid19-protect.com" static
 local-zone: "covid19protect.co.nz" static
 local-zone: "covid19protected.com" static
+local-zone: "covid19-protect.eu" static
 local-zone: "covid19-protecting-screening-rehousing.com" static
 local-zone: "covid19protectio.com" static
 local-zone: "covid19protectionbox.com" static
@@ -88505,6 +88507,7 @@ local-zone: "ubuntucorona.com" static
 local-zone: "uc2-1092-covid-19.umgc-delivery.dev.central.devapp.umusic.net" static
 local-zone: "uccoronavirus.com" static
 local-zone: "uccovid19.com" static
+local-zone: "ucl-covid19research.co.uk" static
 local-zone: "ucorona.com" static
 local-zone: "ucovid19.com" static
 local-zone: "ucovid.com" static
@@ -93352,6 +93355,7 @@ local-zone: "www.covid19ppe.info" static
 local-zone: "www.covid19ppe.org" static
 local-zone: "www.covid19ppe.shop" static
 local-zone: "www.covid19ppesupply.com" static
+local-zone: "www.covid19ppesupport.com" static
 local-zone: "www.covid-19.ppnitangsel.org" static
 local-zone: "www.covid19-pravo.ru" static
 local-zone: "www.covid-19prayerrequests.com" static
