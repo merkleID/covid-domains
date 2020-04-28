@@ -2347,6 +2347,7 @@ local-zone: "api.staging.covid19.adn.be" static
 local-zone: "api.staging.covid19.houseworksinc.co" static
 local-zone: "api.statscovid19.fr" static
 local-zone: "api.ted-covid19.com" static
+local-zone: "api.test2.ted-covid19.com" static
 local-zone: "api.togocovid19.org" static
 local-zone: "api.track.covid-19.rowles.ch" static
 local-zone: "api.uat.test.covid-19.forms.digital.nhs.uk" static
@@ -38907,6 +38908,7 @@ local-zone: "covid19india.techysearch.com" static
 local-zone: "covid19india.today" static
 local-zone: "covid19indiatracker.cf" static
 local-zone: "covid19indiatracker.com" static
+local-zone: "covid19indiatracker.live.codeduniya.com" static
 local-zone: "covid19india.urpetplaza.in" static
 local-zone: "covid19india.virus.org.in" static
 local-zone: "covid19india.webwork.co.in" static
@@ -42199,6 +42201,7 @@ local-zone: "covid19newengland.com" static
 local-zone: "covid-19newfoundland.com" static
 local-zone: "covid19.newhavenct.gov" static
 local-zone: "covid19.newhelp.it" static
+local-zone: "covid19.newhomestar.com" static
 local-zone: "covid-19newjersey.com" static
 local-zone: "covid19newjersey.com" static
 local-zone: "covid-19newnormal.com" static
@@ -85531,6 +85534,7 @@ local-zone: "tesrforcovid19.com" static
 local-zone: "test1.api.ted-covid19.com" static
 local-zone: "test1.covid-19.swdemos.net" static
 local-zone: "test2coronavirus.com" static
+local-zone: "test2.ted-covid19.com" static
 local-zone: "test4corona.com" static
 local-zone: "test4coronavirus.com" static
 local-zone: "test4coronaviruses.com" static
@@ -94032,6 +94036,7 @@ local-zone: "www.essentialcovid19.com" static
 local-zone: "www.estadisticascoronavirus.com" static
 local-zone: "www.eucoronaviruscancermonitoring.com" static
 local-zone: "www.examecovid19.com" static
+local-zone: "www.examenescoronavirus.com" static
 local-zone: "www.excelsoinscoronavirus.com" static
 local-zone: "www.eyecovid-19.com" static
 local-zone: "www.facemaskcoronaviruses.com" static
