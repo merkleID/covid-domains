@@ -2330,6 +2330,7 @@ local-zone: "api.ppecovid19.com" static
 local-zone: "api.preview.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "api-prod.coronavirusinfo.cl" static
 local-zone: "api.prodcovid19.fr" static
+local-zone: "api.public.test-for-coronavirus.service.gov.uk" static
 local-zone: "apiqa.ppecovid19.com" static
 local-zone: "api.rapidcovid19.rymedi.com" static
 local-zone: "api.rapidtest.relawancovid19.id" static
@@ -41957,6 +41958,7 @@ local-zone: "covid19-mylocal.com" static
 local-zone: "covid19mymentalhealth.com" static
 local-zone: "covid19.mymim.net" static
 local-zone: "covid19mymoney.com" static
+local-zone: "covid19.myncdc.com" static
 local-zone: "covid19.mynichesites.com" static
 local-zone: "covid19myonie.com" static
 local-zone: "covid19myrestart.com" static
@@ -43464,6 +43466,7 @@ local-zone: "covid19.pl.ua" static
 local-zone: "covid-19plumber.com" static
 local-zone: "covid19plumber.com" static
 local-zone: "covid19plumberrelief.com" static
+local-zone: "covid19.plus972.com" static
 local-zone: "covid-19plus.com" static
 local-zone: "covid19-plus.com" static
 local-zone: "covid19plus.com" static
@@ -49606,6 +49609,7 @@ local-zone: "covid19-verified.com" static
 local-zone: "covid19verified.com" static
 local-zone: "covid19verify.com" static
 local-zone: "covid19verifyedrestaurants.com" static
+local-zone: "covid19.veritick.com" static
 local-zone: "covid19vermont.com" static
 local-zone: "covid19.vervesuper.com.au" static
 local-zone: "covid19vespasiano.rafaelpaes.com.br" static
@@ -63155,6 +63159,7 @@ local-zone: "distancebycorona.com" static
 local-zone: "distancecorona.com" static
 local-zone: "distilleriesfightingcovid.com" static
 local-zone: "distince-corona.com" static
+local-zone: "distribution-masques-covid-19.interieur.gouv.fr" static
 local-zone: "ditchcorona.com" static
 local-zone: "ditel-covid19-camera-systems.com" static
 local-zone: "ditl5-ro-covid19-instiintari-ordonanta-militara.byn.ir" static
@@ -79865,6 +79870,8 @@ local-zone: "positivenewscovid19.com" static
 local-zone: "positivepandemicplan.com" static
 local-zone: "positivitycurescoronavirus.com" static
 local-zone: "poskocovid19.situbondokab.go.id" static
+local-zone: "poskoise-ise.covid-19.gayolueskab.go.id" static
+local-zone: "poskotongra.covid-19.gayolueskab.go.id" static
 local-zone: "posopedulicorona.com" static
 local-zone: "postcardfromwuhan.com" static
 local-zone: "postcardsagainstcovid19.com" static
