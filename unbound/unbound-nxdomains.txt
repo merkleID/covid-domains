@@ -31744,6 +31744,7 @@ local-zone: "covid19bangalore.com" static
 local-zone: "covid19.banggaikep.go.id" static
 local-zone: "covid19.bangkabaratkab.go.id" static
 local-zone: "covid19.bangka.go.id" static
+local-zone: "covid19bangla.com" static
 local-zone: "covid19bangladesh.com" static
 local-zone: "covid19bangladeshhelp.com" static
 local-zone: "covid19.banglikab.go.id" static
@@ -33462,6 +33463,7 @@ local-zone: "covid-19.classyng.com" static
 local-zone: "covid-19.classyservers.in" static
 local-zone: "covid19cl.com" static
 local-zone: "covid19cleanair.com" static
+local-zone: "covid19cleanbusiness.com" static
 local-zone: "covid-19clean.com" static
 local-zone: "covid19-clean.com" static
 local-zone: "covid19cleaned.com" static
@@ -39757,6 +39759,7 @@ local-zone: "covid19.ketapangkab.go.id" static
 local-zone: "covid19.ketjubung.com" static
 local-zone: "covid19ke.ushahidi.com" static
 local-zone: "covid-19.kewaunee.com" static
+local-zone: "covid-19keychain.com" static
 local-zone: "covid19keychains.com" static
 local-zone: "covid19key.com" static
 local-zone: "covid19.key-frame-designs.com" static
@@ -85525,6 +85528,7 @@ local-zone: "teslacoronahoaxflatearth.com" static
 local-zone: "teslacoronavirus.com" static
 local-zone: "teslacovid19.com" static
 local-zone: "tesrforcovid19.com" static
+local-zone: "test1.api.ted-covid19.com" static
 local-zone: "test1.covid-19.swdemos.net" static
 local-zone: "test2coronavirus.com" static
 local-zone: "test4corona.com" static
