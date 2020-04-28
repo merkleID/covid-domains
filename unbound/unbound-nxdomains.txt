@@ -41507,6 +41507,7 @@ local-zone: "covid19mgmt.com" static
 local-zone: "covid19mgt.com" static
 local-zone: "covid19.mhbproject.com" static
 local-zone: "covid19mh.com" static
+local-zone: "covid19mhdata.tejeet.com" static
 local-zone: "covid19-mhi.com" static
 local-zone: "covid19mh.in" static
 local-zone: "covid19.mhmdaljefri.dev" static
@@ -83693,6 +83694,7 @@ local-zone: "soulsofcorona.com" static
 local-zone: "sounds-of-corona.com" static
 local-zone: "soundsofcorona.com" static
 local-zone: "soundsofcovid.com" static
+local-zone: "source.covid19updates.today" static
 local-zone: "sourcewellcovid19.com" static
 local-zone: "southafricacovid19.com" static
 local-zone: "southafricacovid19.co.za" static
@@ -84853,6 +84855,7 @@ local-zone: "survivedcoronavirus.club" static
 local-zone: "survivedcorona-virus.com" static
 local-zone: "survivedcoronavirus.life" static
 local-zone: "survivedcoronavirus.net" static
+local-zone: "survivedcoronavirus.org" static
 local-zone: "survivedcoronaviruspandemic.com" static
 local-zone: "survivedcoronavirustshirt.com" static
 local-zone: "survivedcovid192020.com" static
