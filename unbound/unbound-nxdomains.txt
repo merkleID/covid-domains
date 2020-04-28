@@ -30756,6 +30756,7 @@ local-zone: "covid19aidresources.com" static
 local-zone: "covid19aids.com" static
 local-zone: "covid19aids.troniclab.com" static
 local-zone: "covid19aidsupplies.com" static
+local-zone: "covid19aidtracking.com" static
 local-zone: "covid19aiduk.com" static
 local-zone: "covid-19-ai.integriocorp.com" static
 local-zone: "covid-19.ai.integriocorp.com" static
@@ -46617,6 +46618,7 @@ local-zone: "covid19-solutions-online.gfxstore.net" static
 local-zone: "covid-19solutions.org" static
 local-zone: "covid19solutions-scotland.com" static
 local-zone: "covid19solutionsscotland.com" static
+local-zone: "covid-19-solutions-tertiaire.mercijack.co" static
 local-zone: "covid19solve.com" static
 local-zone: "covid19solved.com" static
 local-zone: "covid19somalia.com" static
@@ -93793,6 +93795,7 @@ local-zone: "www.covid19watch.org.za" static
 local-zone: "www.covid19wear.com" static
 local-zone: "www.covid19webapp.com" static
 local-zone: "www.covid-19wellbeing.org" static
+local-zone: "www.covid19wellbeingtaskforce.org" static
 local-zone: "www.covid19.weltlink.co" static
 local-zone: "www.covid19wholesale.com" static
 local-zone: "www.covid19-wiki.com" static
