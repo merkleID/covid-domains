@@ -1049,6 +1049,7 @@ local-zone: "aftercovid19.life" static
 local-zone: "aftercovid19life.com" static
 local-zone: "aftercovid-19.net" static
 local-zone: "aftercovid19.net" static
+local-zone: "aftercovid19.online" static
 local-zone: "aftercovid19.org" static
 local-zone: "aftercovid19plan.com" static
 local-zone: "aftercovid19products.com" static
@@ -24864,6 +24865,7 @@ local-zone: "coronavirusn95facialmask.com" static
 local-zone: "coronavirusn95facialmasks.com" static
 local-zone: "coronavirusn95.life" static
 local-zone: "coronavirusn95-mask.com" static
+local-zone: "coronavirusn95mask.net" static
 local-zone: "coronavirus-n95-masks.com" static
 local-zone: "coronavirusn95-masks.com" static
 local-zone: "coronavirusn95masksupply.com" static
@@ -24926,6 +24928,7 @@ local-zone: "coronavirusnearby.com" static
 local-zone: "coronavirusnear.com" static
 local-zone: "coronavirusnearesttestingsites.com" static
 local-zone: "coronavirusnearme.net" static
+local-zone: "coronavirusnearyou.com" static
 local-zone: "coronavirusnebraska.com" static
 local-zone: "coronavirus.nebulova.es" static
 local-zone: "coronavirusnecessities.com" static
@@ -66699,6 +66702,7 @@ local-zone: "generation-covid-19.com" static
 local-zone: "generation-covid19.com" static
 local-zone: "generationcovid19.com" static
 local-zone: "generationcovid19.net" static
+local-zone: "generationcovid-19.org" static
 local-zone: "generationcovid20.com" static
 local-zone: "generation-covid.com" static
 local-zone: "generationcovid.com" static
@@ -92084,6 +92088,8 @@ local-zone: "www.coronavirusmatch.org" static
 local-zone: "www.coronavirus-matome.website" static
 local-zone: "www.coronavirusmedicalmasks.com" static
 local-zone: "www.coronavirus-medicalsupplies.com" static
+local-zone: "www.coronavirus-medicine.com" static
+local-zone: "www.coronavirus-medicine.org" static
 local-zone: "www.coronavirus-meds.store" static
 local-zone: "www.coronavirus-memorial.com" static
 local-zone: "www.coronavirus.menu" static
