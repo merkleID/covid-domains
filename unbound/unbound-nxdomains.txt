@@ -5720,6 +5720,8 @@ local-zone: "clevelandcovid19.com" static
 local-zone: "clevercovidwear.com" static
 local-zone: "clickagainstcorona.com" static
 local-zone: "clickaine.coronavirusaware.xyz" static
+local-zone: "click.cocovid19.co" static
+local-zone: "click.cocovid19.expert" static
 local-zone: "clickcorona.com" static
 local-zone: "clickcoronavirus.com" static
 local-zone: "clickcovid.com" static
@@ -46866,6 +46868,7 @@ local-zone: "covid19-stats-info.com" static
 local-zone: "covid19statsinfo.com" static
 local-zone: "covid19stats.life" static
 local-zone: "covid19statslive.com" static
+local-zone: "covid-19-stats.net" static
 local-zone: "covid-19stats.net" static
 local-zone: "covid19-stats.net" static
 local-zone: "covid19stats.net" static
