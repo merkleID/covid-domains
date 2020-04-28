@@ -41688,6 +41688,7 @@ local-zone: "covid19mobility.org" static
 local-zone: "covid-19.mobivision.fr" static
 local-zone: "covid19.mochit2.com" static
 local-zone: "covid19mo.com" static
+local-zone: "covid-19model.com" static
 local-zone: "covid19-model.com" static
 local-zone: "covid19model.com" static
 local-zone: "covid19modeling.com" static
@@ -50534,6 +50535,7 @@ local-zone: "covid19xit.com" static
 local-zone: "covid19xl.com" static
 local-zone: "covid19.xlg.eu" static
 local-zone: "covid19.xlung.net" static
+local-zone: "covid19.x-moc.id" static
 local-zone: "covid-19x.net" static
 local-zone: "covid19x.net" static
 local-zone: "covid19xperience.com" static
@@ -72651,6 +72653,7 @@ local-zone: "mail.coronavirussessions.org" static
 local-zone: "mail.coronavirusstatistics.co.za" static
 local-zone: "mail.coronavirussurvivalguide.com.au" static
 local-zone: "mail.coronavirusturkiye.info" static
+local-zone: "mail.coronavirusvaccine.be" static
 local-zone: "mail.coronavirus.web.id" static
 local-zone: "mail.coronavirusworldwide.live" static
 local-zone: "mail.coronaviruszim.org" static
@@ -90147,6 +90150,7 @@ local-zone: "webmail.capetowncovid19.co.za" static
 local-zone: "webmail.ccibusiness-covid19.fr" static
 local-zone: "webmail.contadorcoronavirus.online" static
 local-zone: "webmail.coronavirus19.tv" static
+local-zone: "webmail.coronavirusdeaths.info" static
 local-zone: "webmail.coronavirusesnews.com" static
 local-zone: "webmail.coronavirushacks.com" static
 local-zone: "webmail.coronavirus.in.ua" static
