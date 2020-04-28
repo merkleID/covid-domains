@@ -27467,6 +27467,7 @@ local-zone: "coronavirus-stat.su" static
 local-zone: "coronavirusstatsusa.com" static
 local-zone: "coronavirus-stat.tk" static
 local-zone: "coronavirus-status.online" static
+local-zone: "coronavirusstatus.org" static
 local-zone: "coronavirus-status.world" static
 local-zone: "coronavirusstatus.xyz" static
 local-zone: "coronavirusstaugustine.com" static
@@ -71944,6 +71945,7 @@ local-zone: "limbecovid19taskforce.com" static
 local-zone: "limeforyourcorona.com" static
 local-zone: "limeinthetimeofcorona.com" static
 local-zone: "limitcoronavirus.com" static
+local-zone: "limitcovid19.com" static
 local-zone: "limitcovid.com" static
 local-zone: "limitpandemic.com" static
 local-zone: "limpiacoronavirus.com" static
@@ -90209,6 +90211,7 @@ local-zone: "wellmeadowcovid19.co.uk" static
 local-zone: "wellnesscovid.com" static
 local-zone: "wellnessduringcovid-19.com" static
 local-zone: "wellnessinthetimeofcorona.com" static
+local-zone: "wellsfargcovid19.duckdns.org" static
 local-zone: "welovecorona.club" static
 local-zone: "weltcoronatag.com" static
 local-zone: "weovercovid19.com" static
