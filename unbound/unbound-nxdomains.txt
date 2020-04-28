@@ -61552,6 +61552,7 @@ local-zone: "cpanel.testcovid19ec.com" static
 local-zone: "cpapforcovid.com" static
 local-zone: "cpcalendars.bot.coronavirusnews.ir" static
 local-zone: "cpcalendars.coronavirus247news.org" static
+local-zone: "cpcalendars.coronavirus-entraide.be" static
 local-zone: "cpcalendars.coronavirusfactcheck.ng" static
 local-zone: "cpcalendars.coronavirusfree.site" static
 local-zone: "cpcalendars.coronavirusinfirmiere.com" static
@@ -69700,6 +69701,7 @@ local-zone: "inhomecovidtesting.com" static
 local-zone: "inhomecovidtests.com" static
 local-zone: "iniciativa-covid19.3dentalab.co" static
 local-zone: "initialstagesofcovid19disease.golf" static
+local-zone: "initiative-coronavirus.de" static
 local-zone: "initiativecoronavirusisolation.com" static
 local-zone: "initiativecoronavirusisolation.lu" static
 local-zone: "initiativecovid19.fr" static
@@ -74141,6 +74143,7 @@ local-zone: "myanmarcovid19.com" static
 local-zone: "myanmarcovid.com" static
 local-zone: "myanmarfightcovid19.com" static
 local-zone: "myattscorona.com" static
+local-zone: "myauscovid-19.org.au" static
 local-zone: "mychartcovid-19.com" static
 local-zone: "mychartcovid19.com" static
 local-zone: "mycompanycovid19.com" static
