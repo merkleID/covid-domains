@@ -19006,6 +19006,7 @@ local-zone: "coronavirusbusinessclosure.com" static
 local-zone: "coronavirusbusinessclosure.com.au" static
 local-zone: "coronavirus-business.com" static
 local-zone: "coronavirusbusiness.com" static
+local-zone: "coronavirusbusiness.com.au" static
 local-zone: "coronavirus-business-complaint.service.gov.uk" static
 local-zone: "coronavirusbusinessconsultants.com" static
 local-zone: "coronavirusbusinessconsulting.com" static
@@ -19261,6 +19262,7 @@ local-zone: "coronavirus.casa" static
 local-zone: "coronaviruscasacleaner.com" static
 local-zone: "coronavirus-case.com" static
 local-zone: "coronaviruscase.com" static
+local-zone: "coronaviruscase.in" static
 local-zone: "coronaviruscase.net" static
 local-zone: "coronaviruscases.ca" static
 local-zone: "coronaviruscases.club" static
@@ -31637,6 +31639,7 @@ local-zone: "covid19awareness.tk" static
 local-zone: "covid19awarenesstraining.com" static
 local-zone: "covid19awareness.us" static
 local-zone: "covid-19aware.online" static
+local-zone: "covid19awarness.heliohost.org" static
 local-zone: "covid-19away.com" static
 local-zone: "covid19away.com" static
 local-zone: "covid19awearness.com" static
@@ -32461,6 +32464,7 @@ local-zone: "covid19businessclosure.com" static
 local-zone: "covid-19business.com" static
 local-zone: "covid19-business.com" static
 local-zone: "covid19business.com" static
+local-zone: "covid19business.com.au" static
 local-zone: "covid19business.completebs.host" static
 local-zone: "covid19businessconsultants.com" static
 local-zone: "covid19businessconsulting.com" static
@@ -36583,6 +36587,7 @@ local-zone: "covid19fest.net" static
 local-zone: "covid19.fetch.rest" static
 local-zone: "covid-19fever.com" static
 local-zone: "covid19fever.com" static
+local-zone: "covid19feverdetector.com.au" static
 local-zone: "covid-19feverguard.com" static
 local-zone: "covid-19.feyou.com" static
 local-zone: "covid19-fg-grant.expertoptions.ltd" static
@@ -38042,8 +38047,11 @@ local-zone: "covid19hearthealth.respond.ontraport.net" static
 local-zone: "covid19heartsofgold.org" static
 local-zone: "covid19heat.com" static
 local-zone: "covid-19-heatdeactivationbox.com" static
+local-zone: "covid-19heatdetector.com.au" static
+local-zone: "covid19heatdetector.com.au" static
 local-zone: "covid19heathdata.com" static
 local-zone: "covid19heatmap.com" static
+local-zone: "covid19heatsensor.com.au" static
 local-zone: "covid-19.heigit.org" static
 local-zone: "covid19.helensdeveloper.com" static
 local-zone: "covid-19hell.com" static
@@ -61704,6 +61712,7 @@ local-zone: "cpcontacts.covid19infoapp.com" static
 local-zone: "cpcontacts.covid-19live.online" static
 local-zone: "cpcontacts.covid19lockdown.blog" static
 local-zone: "cpcontacts.covid19.myriaddev.com" static
+local-zone: "cpcontacts.covid19pandemie.planethoster.world" static
 local-zone: "cpcontacts.covid19selftracker.com" static
 local-zone: "cpcontacts.covid19stand.com" static
 local-zone: "cpcontacts.covid19testkitkorea.com" static
@@ -92747,6 +92756,7 @@ local-zone: "www.covid19.btouch.ch" static
 local-zone: "www.covid-19businessadvisorygroup.com" static
 local-zone: "www.covid19businesscenter.com" static
 local-zone: "wwwcovid19businesscenter.com" static
+local-zone: "www.covid19business.com.au" static
 local-zone: "www.covid19businessinteruption.com" static
 local-zone: "www.covid19businesslaw.com" static
 local-zone: "www.covid19-businesspractices.com" static
@@ -93006,6 +93016,7 @@ local-zone: "www.covid19.fast-smm.id" static
 local-zone: "www.covid19f.com" static
 local-zone: "www.covid19.feghas.com" static
 local-zone: "www.covid-19.felcloud.io" static
+local-zone: "www.covid19feverdetector.com.au" static
 local-zone: "www.covid19.fexcon.com.au" static
 local-zone: "www.covid-19finance.com" static
 local-zone: "www.covid-19.fingersfun.com" static
@@ -93096,6 +93107,9 @@ local-zone: "www.covid19.healthpigeon.com" static
 local-zone: "www.covid-19healthshop.com" static
 local-zone: "www.covid19healthsupplies.com" static
 local-zone: "www.covid19.healthyearth.in" static
+local-zone: "www.covid-19heatdetector.com.au" static
+local-zone: "www.covid19heatdetector.com.au" static
+local-zone: "www.covid19heatsensor.com.au" static
 local-zone: "www.covid19.helmajs.my.id" static
 local-zone: "www.covid19help.2rk.co" static
 local-zone: "www.covid19help.barhillchurch.org.uk" static
