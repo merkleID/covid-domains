@@ -24641,6 +24641,7 @@ local-zone: "coronavirusmeterindia.com" static
 local-zone: "coronavirusmeter.net" static
 local-zone: "coronavirusmeter.ru" static
 local-zone: "coronavirusmeters.com" static
+local-zone: "coronavirus-meters.ru" static
 local-zone: "coronavirus.methodologic.com.ve" static
 local-zone: "coronavirus.metiscyber.com" static
 local-zone: "coronavirusmetric.com" static
@@ -37896,6 +37897,7 @@ local-zone: "covid19hazmat.com" static
 local-zone: "covid19hazmatsuit.com" static
 local-zone: "covid19hazmatteam.com" static
 local-zone: "covid-19.hbcse.tifr.res.in" static
+local-zone: "covid19.hbgdesignlab.dev" static
 local-zone: "covid19hbot.com" static
 local-zone: "covid19.h-bots.com" static
 local-zone: "covid-19hcf.com" static
@@ -44703,6 +44705,7 @@ local-zone: "covid19-relieffunds.servehttp.com" static
 local-zone: "covid19reliefgrant.com" static
 local-zone: "covid19relief.guru" static
 local-zone: "covid19reliefhelp.com" static
+local-zone: "covid-19relief.info" static
 local-zone: "covid19reliefinitiative.org" static
 local-zone: "covid19relieflaw.com" static
 local-zone: "covid19relieflawyer.com" static
