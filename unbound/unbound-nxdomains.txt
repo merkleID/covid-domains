@@ -33373,6 +33373,7 @@ local-zone: "covid-19.city-desk.fr" static
 local-zone: "covid19.city-desk.fr" static
 local-zone: "covid19-citylife-line.nu-dev.smith.ac" static
 local-zone: "covid19.cityofpiraeus.org" static
+local-zone: "covid19.ciu10.org" static
 local-zone: "covid19-civil-rights.com" static
 local-zone: "covid19civilrights.com" static
 local-zone: "covid19-civil-rights.net" static
@@ -80564,6 +80565,7 @@ local-zone: "preprodcasos.coronavirus.gub.uy" static
 local-zone: "preprod.cms.coronavirusresources.phe.gov.uk" static
 local-zone: "preprod.downloads.coronavirusresources.phe.gov.uk" static
 local-zone: "preprodservicios.coronavirus.gub.uy" static
+local-zone: "pre-prod.upcovid19tracks.in" static
 local-zone: "pre.reference-sem-covid19.cat" static
 local-zone: "prescreencoronavirus.org" static
 local-zone: "prescreencovid19.com" static
@@ -84385,6 +84387,7 @@ local-zone: "stopcoronavirusfree.com" static
 local-zone: "stopcoronavirus.fund" static
 local-zone: "stopcoronavirusglobal.com" static
 local-zone: "stopcoronavirusglobal.org" static
+local-zone: "stop-coronavirus.gq" static
 local-zone: "stopcoronavirushop.com" static
 local-zone: "stopcoronavirusinfo.com" static
 local-zone: "stopcoronaviruskit.com" static
@@ -90193,6 +90196,7 @@ local-zone: "webdisk.covid-19-nm.com" static
 local-zone: "webdisk.covid19no1gearstore.com" static
 local-zone: "webdisk.covid19pro.co" static
 local-zone: "webdisk.covid19sanitizeservices.com.au" static
+local-zone: "webdisk.covid19sensibilisation.yj.fr" static
 local-zone: "webdisk.covid19statsza.co.za" static
 local-zone: "webdisk.covid19supplies.com.ng" static
 local-zone: "webdisk.covid19tradepost.com" static
