@@ -2913,6 +2913,7 @@ local-zone: "autodiscover.covid19calc.info" static
 local-zone: "autodiscover.covid19donate.online" static
 local-zone: "autodiscover.covid19.hemato365.app" static
 local-zone: "autodiscover.covid19ppp.com" static
+local-zone: "autodiscover.covid19survior.com" static
 local-zone: "autodiscover.covid19-vallecamonica.it" static
 local-zone: "autodiscover.desinfectacoronavirus.cl" static
 local-zone: "autodiscover.desinfectacoronavirusya.com" static
@@ -45611,6 +45612,7 @@ local-zone: "covid19safetytraining.com" static
 local-zone: "covid-19safety.voyage" static
 local-zone: "covid19safety.voyage" static
 local-zone: "covid19safetywear.com" static
+local-zone: "covid19.safetyzone.co" static
 local-zone: "covid19safeunited.flights" static
 local-zone: "covid-19safe.university" static
 local-zone: "covid19safe.university" static
@@ -92444,6 +92446,7 @@ local-zone: "www.coronavirussanitizernow.com" static
 local-zone: "www.coronavirussantaclara.com" static
 local-zone: "www.coronavirus.sarl" static
 local-zone: "www.coronavirussatan.com" static
+local-zone: "www.coronavirusscanner.com.au" static
 local-zone: "www.coronavirusschutzmaske.de" static
 local-zone: "www.coronavirusschweiz.ch" static
 local-zone: "www.coronavirusscience.net" static
