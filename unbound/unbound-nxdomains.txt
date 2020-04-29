@@ -90832,6 +90832,7 @@ local-zone: "wherecanigetcoronavirustest.com" static
 local-zone: "where-coronavirus.com" static
 local-zone: "wherecoronavirus.com" static
 local-zone: "where-coronavirus-in-usa.webmddc.com" static
+local-zone: "wherecovid19.cigi.illinois.edu" static
 local-zone: "wherecovid19.com" static
 local-zone: "wheredoigotogettestedforcoronavirus.com" static
 local-zone: "whereiscorona.com" static
@@ -92844,6 +92845,7 @@ local-zone: "www.covid19-and.org" static
 local-zone: "www.covid19anthology.com" static
 local-zone: "www.covid-19antibody.com" static
 local-zone: "www.covid19antibodytesting.com" static
+local-zone: "www.covid-19antigen.com" static
 local-zone: "www.covid19-api-staging.viadata.io" static
 local-zone: "www.covid19app.alive.com.pe" static
 local-zone: "www.covid19apparel.store" static
