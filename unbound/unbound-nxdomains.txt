@@ -30771,6 +30771,7 @@ local-zone: "covid19.ahuson.com" static
 local-zone: "covid19.ahyoxsoft.com" static
 local-zone: "covid19.ai2prod.com" static
 local-zone: "covid19.aibharata.com" static
+local-zone: "covid19aicep.pt" static
 local-zone: "covid19aichi.info" static
 local-zone: "covid19.aiclubla.com" static
 local-zone: "covid-19ai.com" static
@@ -33061,6 +33062,7 @@ local-zone: "covid19.ccblm.ma" static
 local-zone: "covid19cc.com" static
 local-zone: "covid19cccup.in" static
 local-zone: "covid-19.cchealth.org" static
+local-zone: "covid19-ccim.deeplink.ai" static
 local-zone: "covid19.cciwa.com" static
 local-zone: "covid19cc.nic.in" static
 local-zone: "covid-19c.com" static
@@ -44130,6 +44132,7 @@ local-zone: "covid19.publica.gr" static
 local-zone: "covid19-public.com" static
 local-zone: "covid-19publichealth.com" static
 local-zone: "covid19publichealth.com" static
+local-zone: "covid-19.publicon.pl" static
 local-zone: "covid19publicrelations.com" static
 local-zone: "covid19publicservice.com" static
 local-zone: "covid19.publicsquare.digital" static
@@ -93264,6 +93267,7 @@ local-zone: "www.covid19impactsurvey.com" static
 local-zone: "www.covid19inazerbaijan.info" static
 local-zone: "www.covid19incyprus.info" static
 local-zone: "www.covid19ind.com" static
+local-zone: "www.covid19india.host" static
 local-zone: "www.covid19india.ibong.tech" static
 local-zone: "www.covid-19-india.in" static
 local-zone: "www.covid-19india.live" static
@@ -93384,6 +93388,7 @@ local-zone: "www.covid-19-live.teknoltan.com" static
 local-zone: "www.covid19live.tk" static
 local-zone: "www.covid-19living.com" static
 local-zone: "www.covid19lk.info" static
+local-zone: "www.covid19.llabaru.com" static
 local-zone: "www.covid19.lldservices.co.za" static
 local-zone: "www.covid-19.lmmapping.com" static
 local-zone: "www.covid19-lockdown.com" static
