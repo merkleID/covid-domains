@@ -2228,6 +2228,7 @@ local-zone: "api.covid19app.ca" static
 local-zone: "api-covid19-app.digi4.ma" static
 local-zone: "api.covid19app.org" static
 local-zone: "api.covid19.appsesa.pr.gov.br" static
+local-zone: "api-covid19.aptnesshealth.net" static
 local-zone: "api.covid19.arproject.web.id" static
 local-zone: "api.covid19.beecoop.co" static
 local-zone: "api-covid-19-br.filipemanuel.repl.run" static
@@ -2241,6 +2242,7 @@ local-zone: "api.covid19dashboard.net" static
 local-zone: "api.covid19data.cloud" static
 local-zone: "api.covid19datacompare.com" static
 local-zone: "api.covid19-dataexchange.org" static
+local-zone: "api-covid19-dev.aptnesshealth.net" static
 local-zone: "api-covid19-dev.digi4.ma" static
 local-zone: "api.covid19.digi4.ma" static
 local-zone: "api.covid-19.digitalie.dev" static
@@ -2913,6 +2915,7 @@ local-zone: "autodiscover.covid19calc.info" static
 local-zone: "autodiscover.covid19donate.online" static
 local-zone: "autodiscover.covid19.hemato365.app" static
 local-zone: "autodiscover.covid19ppp.com" static
+local-zone: "autodiscover.covid19smallbusinessloans.com" static
 local-zone: "autodiscover.covid19survior.com" static
 local-zone: "autodiscover.covid19-vallecamonica.it" static
 local-zone: "autodiscover.desinfectacoronavirus.cl" static
@@ -48905,6 +48908,7 @@ local-zone: "covid-19-training.com" static
 local-zone: "covid19-training.com" static
 local-zone: "covid19trainingcourses.app" static
 local-zone: "covid19trainingcourses.com" static
+local-zone: "covid19trainingcourses.equinoxlab.com" static
 local-zone: "covid19traininggear.com" static
 local-zone: "covid19training.in" static
 local-zone: "covid-19training.net" static
@@ -61748,6 +61752,7 @@ local-zone: "cpcontacts.das-coronavirus.de" static
 local-zone: "cpcontacts.desinfeccionescovid19.es" static
 local-zone: "cpcontacts.lacovid19care.com" static
 local-zone: "cpcontacts.mascarascovid19.com.ar" static
+local-zone: "cpcontacts.novelcoronavirus.de" static
 local-zone: "cpcontacts.rentokil-covid19.cl" static
 local-zone: "cpepcovid19.com" static
 local-zone: "cpfcovid19.org" static
@@ -72755,6 +72760,7 @@ local-zone: "mail.coronavirusonlinetraining.com" static
 local-zone: "mail.coronavirussessions.org" static
 local-zone: "mail.coronavirusstatistics.co.za" static
 local-zone: "mail.coronavirussurvivalguide.com.au" static
+local-zone: "mail.coronavirustesting.xyz" static
 local-zone: "mail.coronavirusturkiye.info" static
 local-zone: "mail.coronavirusvaccine.be" static
 local-zone: "mail.coronavirus.web.id" static
@@ -90230,6 +90236,7 @@ local-zone: "webdisk.covid19no1gearstore.com" static
 local-zone: "webdisk.covid19pro.co" static
 local-zone: "webdisk.covid19sanitizeservices.com.au" static
 local-zone: "webdisk.covid19sensibilisation.yj.fr" static
+local-zone: "webdisk.covid-19settlements.com" static
 local-zone: "webdisk.covid19statsza.co.za" static
 local-zone: "webdisk.covid19supplies.com.ng" static
 local-zone: "webdisk.covid19tradepost.com" static
@@ -90289,6 +90296,7 @@ local-zone: "webmail.coronavirus-news24.com" static
 local-zone: "webmail.coronavirusquarantinehelp.com" static
 local-zone: "webmail.coronavirusremoval.xyz" static
 local-zone: "webmail.coronavirusromania.ro" static
+local-zone: "webmail.coronavirustestingcenters.org" static
 local-zone: "webmail.coronavirustestingonline.com" static
 local-zone: "webmail.coronavirus-tips-news.com" static
 local-zone: "webmail.coronavirus-toolkit.com" static
@@ -90326,6 +90334,7 @@ local-zone: "webmail.global-covid-19.info" static
 local-zone: "webmail.honorcovid19.com" static
 local-zone: "webmail.infos-covid19.com" static
 local-zone: "webmail.iowcoronavirus.co.uk" static
+local-zone: "webmail.kcfcacovid19.org" static
 local-zone: "webmail.mascarillas-covid19.es" static
 local-zone: "webmail.myverizonwirelesscovid19.com" static
 local-zone: "webmail.neogenestar-covid19.com" static
@@ -92142,6 +92151,7 @@ local-zone: "www.coronavirusegy.ml" static
 local-zone: "www.coronavirusemploymentlawyers.net" static
 local-zone: "www.coronavirusencolombia.com" static
 local-zone: "www.coronavirusencordoba.com" static
+local-zone: "www.coronavirus.enfancejeunesse.lu" static
 local-zone: "www.coronavirusengraficos.com" static
 local-zone: "www.coronavirus-entschaedigungen.bayern" static
 local-zone: "www.coronavirus-entschaedigungen.de" static
@@ -94783,6 +94793,7 @@ local-zone: "www.safetocovid19.com" static
 local-zone: "www.safetyforcoronavirus.tk" static
 local-zone: "www.safetyforcovid19.com" static
 local-zone: "www.safetyproductscovid19.com" static
+local-zone: "www.saludmentalpostcovid19.com" static
 local-zone: "www.sanidadcoronavirus.com" static
 local-zone: "www.sanitizer-coronavirus.com" static
 local-zone: "www.sanitizingcovid19.com" static
