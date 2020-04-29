@@ -33237,6 +33237,7 @@ local-zone: "covid19-charts.com" static
 local-zone: "covid19.charts.com" static
 local-zone: "covid19charts.grangerapps.com" static
 local-zone: "covid19charts.net" static
+local-zone: "covid-19-charts.org" static
 local-zone: "covid19charts.tripstorekrabi.com" static
 local-zone: "covid19chase.com" static
 local-zone: "covid19chaser.com" static
@@ -47055,6 +47056,7 @@ local-zone: "covid-19stats.world" static
 local-zone: "covid19-stats.world" static
 local-zone: "covid19stats.world" static
 local-zone: "covid19statsworld.com" static
+local-zone: "covid-19stats.xyz" static
 local-zone: "covid19stats.xyz" static
 local-zone: "covid19statupdate.com" static
 local-zone: "covid19statupdates.com" static
