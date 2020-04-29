@@ -28089,6 +28089,7 @@ local-zone: "coronavirus-tester.nl" static
 local-zone: "coronavirustesters.com" static
 local-zone: "coronavirustest.es" static
 local-zone: "coronavirustest.eu" static
+local-zone: "coronavirus-testeur.com" static
 local-zone: "coronavirustest.expert" static
 local-zone: "coronavirustestfacility.com" static
 local-zone: "coronavirustestfinder.com" static
@@ -45619,6 +45620,7 @@ local-zone: "covid19safetysignage.com.au" static
 local-zone: "covid-19safetysigns.brandprintaustralia.com.au" static
 local-zone: "covid19safetysigns.com" static
 local-zone: "covid-19safetysolutions.com" static
+local-zone: "covid19safetysolutions.com" static
 local-zone: "covid-19safetystickers.com" static
 local-zone: "covid19safetystickers.com" static
 local-zone: "covid-19safetystylus.com" static
@@ -68939,6 +68941,7 @@ local-zone: "humansinthetimeofcorona.com" static
 local-zone: "humansofcorona.com" static
 local-zone: "humansofcoronavirus.com" static
 local-zone: "humansofcovid19.com" static
+local-zone: "humansofcovid19.org" static
 local-zone: "humansofcovid.com" static
 local-zone: "humansvscovid.com" static
 local-zone: "humcocovid19.com" static
