@@ -2911,6 +2911,7 @@ local-zone: "autodiscover.coronavirusconnect.com" static
 local-zone: "autodiscover.coronavirus-coupons.com" static
 local-zone: "autodiscover.corona-virus-status.co.uk" static
 local-zone: "autodiscover.coronavirusweb.site" static
+local-zone: "autodiscover.covid-19abuja.org.ng" static
 local-zone: "autodiscover.covid19aidsupplies.com" static
 local-zone: "autodiscover.covid19calc.info" static
 local-zone: "autodiscover.covid19donate.online" static
@@ -42412,6 +42413,7 @@ local-zone: "covid19newyorkyankees.com" static
 local-zone: "covid19newz.com" static
 local-zone: "covid19-newzealand.com" static
 local-zone: "covid19newzealand.com" static
+local-zone: "covid19.newzpaper.in" static
 local-zone: "covid19next.com" static
 local-zone: "covid-19.nextdayblinds.com" static
 local-zone: "covid19.nextia.mx" static
@@ -94937,6 +94939,7 @@ local-zone: "www.stopcovid-19.com.ua" static
 local-zone: "www.stopcovid19.de" static
 local-zone: "www.stopcovid19.design" static
 local-zone: "www.stop-covid19.fr" static
+local-zone: "www.stopcovid19.goparity.com" static
 local-zone: "www.stop-covid-19.it" static
 local-zone: "www.stopcovid19.jp" static
 local-zone: "www.stopcovid19.kh.ua" static
