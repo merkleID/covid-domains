@@ -35760,6 +35760,7 @@ local-zone: "covid19dz.net" static
 local-zone: "covid19dzs.com" static
 local-zone: "covid19.e85.eu" static
 local-zone: "covid19.e8demo.com" static
+local-zone: "covid19.eaclinicas.pt" static
 local-zone: "covid19.eaglesmed.ca" static
 local-zone: "covid19.ea-global-eu.elastic.dev" static
 local-zone: "covid19earlyalert.com" static
@@ -47414,6 +47415,7 @@ local-zone: "covid19supply.who.int" static
 local-zone: "covid19supplyworld.com" static
 local-zone: "covid19supplyxl.com" static
 local-zone: "covid19support247.com" static
+local-zone: "covid19support.aco" static
 local-zone: "covid19support.app" static
 local-zone: "covid-19-support.apppah.us" static
 local-zone: "covid19supportbahamas.com" static
@@ -61763,6 +61765,7 @@ local-zone: "cpcontacts.bollettinocoronavirus.it" static
 local-zone: "cpcontacts.coronavirusoutbreaks.com.au" static
 local-zone: "cpcontacts.coronavirus-pandemia.com" static
 local-zone: "cpcontacts.covid19.bgsuae.com" static
+local-zone: "cpcontacts.covid19direct.care" static
 local-zone: "cpcontacts.covid19-funding.co.za" static
 local-zone: "cpcontacts.covid19hilfe.com" static
 local-zone: "cpcontacts.covid19infoapp.com" static
@@ -71313,6 +71316,7 @@ local-zone: "kingcountycoronafund.net" static
 local-zone: "kingcountycoronaresources.com" static
 local-zone: "kingcountycovidfund.com" static
 local-zone: "kingcountycovidfund.net" static
+local-zone: "kingcovid19.com" static
 local-zone: "kingcovid.com" static
 local-zone: "kingcovidxix.com" static
 local-zone: "kingdomcoronavirus.com" static
@@ -80042,6 +80046,7 @@ local-zone: "positivenewscovid19.club" static
 local-zone: "positivenewscovid19.com" static
 local-zone: "positivepandemicplan.com" static
 local-zone: "positivitycurescoronavirus.com" static
+local-zone: "poskocovid19.perhubungan.jatengprov.go.id" static
 local-zone: "poskocovid19.situbondokab.go.id" static
 local-zone: "poskoise-ise.covid-19.gayolueskab.go.id" static
 local-zone: "poskopining.covid-19.gayolueskab.go.id" static
@@ -90362,6 +90367,7 @@ local-zone: "webmail.covid19newsupdate.ca" static
 local-zone: "webmail.covid19santitizeservices.com.au" static
 local-zone: "webmail.covid19savar.com" static
 local-zone: "webmail.covid19-status.live" static
+local-zone: "webmail.covid19tally.com" static
 local-zone: "webmail.destroy-coronavirus.com" static
 local-zone: "webmail.freeverizonwirelesscovid19.com" static
 local-zone: "webmail.global-covid-19.info" static
