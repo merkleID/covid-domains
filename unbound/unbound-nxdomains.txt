@@ -1678,6 +1678,7 @@ local-zone: "anothertypeofcovidvirus.com" static
 local-zone: "anovelcoronavirus.com" static
 local-zone: "ansiadacoronavirus.com" static
 local-zone: "ansiedadcoronavirus.com" static
+local-zone: "answers.arhcovid19.com" static
 local-zone: "answers-arhcovid19.pagescdn.com" static
 local-zone: "ansyscovid19response.com" static
 local-zone: "antcorona.com" static
@@ -27242,6 +27243,7 @@ local-zone: "coronavirusshoes.com" static
 local-zone: "coronavirus.shop" static
 local-zone: "coronavirusshopau.com" static
 local-zone: "coronavirusshop.ch" static
+local-zone: "corona-virus-shop.com" static
 local-zone: "coronavirusshopinglist.com" static
 local-zone: "coronavirusshop.it" static
 local-zone: "coronavirusshop.net" static
@@ -41439,6 +41441,7 @@ local-zone: "covid19.medilogics.pt" static
 local-zone: "covid-19medinfo.com" static
 local-zone: "covid19medinfo.com" static
 local-zone: "covid19medinventory.in" static
+local-zone: "covid19-medispa.com" static
 local-zone: "covid19medisupply.com" static
 local-zone: "covid19med.it" static
 local-zone: "covid19-meditation.com" static
@@ -47733,6 +47736,7 @@ local-zone: "covid19.synology.me" static
 local-zone: "covid19.synsalus.com" static
 local-zone: "covid19-syria.com" static
 local-zone: "covid19syria.com" static
+local-zone: "covid19syringe.com" static
 local-zone: "covid19syrup.com" static
 local-zone: "covid19.sys2021.com" static
 local-zone: "covid19.sysqube.com" static
@@ -66223,6 +66227,7 @@ local-zone: "fondoscovid19.com" static
 local-zone: "fondoscovid.com" static
 local-zone: "fondscovidcali.com" static
 local-zone: "foodcoronavirus.com" static
+local-zone: "foodcourt.abogadocovid19.cl" static
 local-zone: "foodcovid19.in" static
 local-zone: "food-covid-19.org" static
 local-zone: "foodforcovid19.com" static
