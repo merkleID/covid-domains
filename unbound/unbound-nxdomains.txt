@@ -2914,6 +2914,7 @@ local-zone: "autodiscover.coronavirusbabysitters.com" static
 local-zone: "autodiscover.coronavirusconnect.com" static
 local-zone: "autodiscover.coronavirus-coupons.com" static
 local-zone: "autodiscover.corona-virus-status.co.uk" static
+local-zone: "autodiscover.coronavirustotalcases.com" static
 local-zone: "autodiscover.coronavirusweb.site" static
 local-zone: "autodiscover.covid-19abuja.org.ng" static
 local-zone: "autodiscover.covid19aidsupplies.com" static
@@ -41777,6 +41778,7 @@ local-zone: "covid19mm.info" static
 local-zone: "covid19mmnews.com" static
 local-zone: "covid19.mmspace.com.au" static
 local-zone: "covid-19.mn" static
+local-zone: "covid19.mnbc.ca" static
 local-zone: "covid-19mn.com" static
 local-zone: "covid19mn.com" static
 local-zone: "covid-19mn.org" static
@@ -48018,6 +48020,7 @@ local-zone: "covid-19telescreen.com" static
 local-zone: "covid19telescreen.com" static
 local-zone: "covid-19-telescreen.net" static
 local-zone: "covid19telescreen.net" static
+local-zone: "covid19.telesurtv.net" static
 local-zone: "covid19teletest.com" static
 local-zone: "covid19teletest.net" static
 local-zone: "covid19teletherapy.com" static
@@ -81110,6 +81113,7 @@ local-zone: "protocollocovid.com" static
 local-zone: "protocollosicurezzacovid19.com" static
 local-zone: "protocollosicurezzacovid.com" static
 local-zone: "protocolocovid19.com" static
+local-zone: "protocolocovid19.com.co" static
 local-zone: "protocoloscovid19.com" static
 local-zone: "protocovid19.com" static
 local-zone: "protocovid.com" static
