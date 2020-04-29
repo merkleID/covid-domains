@@ -154,6 +154,7 @@ local-zone: "1-stopcovid19cleaning.com" static
 local-zone: "1stopcovid.com" static
 local-zone: "1sttipcovid19.com" static
 local-zone: "1-thing-i-covid.net" static
+local-zone: "1uniteagainstcovid19.com" static
 local-zone: "1xaccountlogin-facebookcovid19petition.gq" static
 local-zone: "2000peoplemourningforcoronadeath.exposed" static
 local-zone: "2019coronavirusinfo.com" static
@@ -623,6 +624,7 @@ local-zone: "abc.ds-covid19.res.ibm.com" static
 local-zone: "abcovidsupport.com" static
 local-zone: "abcsofcoronavirus.com" static
 local-zone: "abertonocovid19.centrozero.pt" static
+local-zone: "abia-covid19.eclathealthcare.com" static
 local-zone: "abiliticbtpandemic.com" static
 local-zone: "abingdoncoronaresponse.com" static
 local-zone: "ablcovid19.com" static
@@ -22379,6 +22381,7 @@ local-zone: "coronavirusguidelines.net" static
 local-zone: "coronavirus-guidelines.online" static
 local-zone: "coronavirusguide.live" static
 local-zone: "coronavirusguideonline.com" static
+local-zone: "coronavirus.guillecahtro.repl.run" static
 local-zone: "coronavirusguilty.com" static
 local-zone: "coronavirusguinea.com" static
 local-zone: "coronavirusguinee.com" static
