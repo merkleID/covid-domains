@@ -30841,6 +30841,7 @@ local-zone: "covid19alaska.flights" static
 local-zone: "covid19.alaska.gov" static
 local-zone: "covid19-albania.com" static
 local-zone: "covid19alberta.com" static
+local-zone: "covid-19.alboreasalud.com" static
 local-zone: "covid19albufeira.pt" static
 local-zone: "covid19alcaldia.zendesk.com" static
 local-zone: "covid-19al.com" static
@@ -34355,6 +34356,7 @@ local-zone: "covid19courier.com" static
 local-zone: "covid-19course.com" static
 local-zone: "covid19-course.com" static
 local-zone: "covid19course.com" static
+local-zone: "covid-19course.orpe.org" static
 local-zone: "covid19courses.com" static
 local-zone: "covid19courses.net" static
 local-zone: "covid-19court.com" static
@@ -46932,6 +46934,7 @@ local-zone: "covid19-statistic.com" static
 local-zone: "covid19statistic.com" static
 local-zone: "covid19-statistic.ru" static
 local-zone: "covid19-statistics-cases.com" static
+local-zone: "covid19statistics.cf" static
 local-zone: "covid-19-statistics.com" static
 local-zone: "covid19-statistics.com" static
 local-zone: "covid19statistics.com" static
@@ -68152,6 +68155,7 @@ local-zone: "helpcoronavictims.com" static
 local-zone: "helpcoronavirus2020.com" static
 local-zone: "help.coronavirus2020.kz" static
 local-zone: "help-coronavirus.be" static
+local-zone: "helpcoronavirus.ca" static
 local-zone: "help.coronavirus.co" static
 local-zone: "helpcorona-virus.com" static
 local-zone: "help.coronavirus.lexipol.com" static
@@ -75185,6 +75189,7 @@ local-zone: "ncorona19.com" static
 local-zone: "ncoronavirus19.com" static
 local-zone: "ncoronaviruslive.com" static
 local-zone: "ncov19.asia" static
+local-zone: "ncov19data.live" static
 local-zone: "ncov19.eu" static
 local-zone: "ncov19.eulc.city" static
 local-zone: "ncov19.eulc.club" static
@@ -75812,6 +75817,7 @@ local-zone: "nocoronaworld.com" static
 local-zone: "nocoronazone.com" static
 local-zone: "no-covid-19.com" static
 local-zone: "nocovid19.com.dynarange.es" static
+local-zone: "nocovid19.es" static
 local-zone: "nocovid19here.com" static
 local-zone: "nocovid19.info" static
 local-zone: "no-covid-19.net" static
@@ -82413,6 +82419,7 @@ local-zone: "saltlakecityfightingcovid.com" static
 local-zone: "saludcovid19.com" static
 local-zone: "saludcovid.com" static
 local-zone: "saludmental-covid19.com" static
+local-zone: "saludmentalpostcovid19.com" static
 local-zone: "salutecovid19heros.com" static
 local-zone: "salvoconductocoronavirus.cl" static
 local-zone: "salvoconductocoronavirus.com" static
@@ -95100,6 +95107,7 @@ local-zone: "www.wolverhampton-covid-19-mutual-aid.org" static
 local-zone: "www.wolvescovid19.uk" static
 local-zone: "www.world-coronavirus.ru" static
 local-zone: "www.worldcoronavirustracker.com" static
+local-zone: "www.worldsincecovid-19.com" static
 local-zone: "www.worldwithoutcovid19.org" static
 local-zone: "www.wrenthamcovid19.com" static
 local-zone: "www.writingawrongcovid19.com" static
