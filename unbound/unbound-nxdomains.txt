@@ -62685,6 +62685,7 @@ local-zone: "demo.covid19.gouv.qc.ca" static
 local-zone: "demo.covid19.quebec.ca" static
 local-zone: "demo-covid19.satelia.eu" static
 local-zone: "demo.depistage-coronavirus.fr" static
+local-zone: "demo.doctor.coronavirusconsulta.com" static
 local-zone: "demo.it.covid19-2.rd.cloud-r.eu" static
 local-zone: "demo.it.covid19cms.rd.cloud-r.eu" static
 local-zone: "demo.it.covid19.rd.cloud-r.eu" static
@@ -83021,6 +83022,7 @@ local-zone: "seeyacoronaviruses.com" static
 local-zone: "seeyacovid.com" static
 local-zone: "seeyouaftercorona.com" static
 local-zone: "segcovid19.sispro.gov.co" static
+local-zone: "segnaletica-covid19.com" static
 local-zone: "segundasvictimascovid19.umh.es" static
 local-zone: "segundasvitimascovid19.umh.es" static
 local-zone: "seguridadcoronavirus.com" static
@@ -93949,6 +93951,7 @@ local-zone: "www.covid19.virtualcubetechnologies.com" static
 local-zone: "www.covid19viruscorona.com" static
 local-zone: "www.covid19virush.tk" static
 local-zone: "www.covid-19viruskiller.com" static
+local-zone: "www.covid-19virus.nu" static
 local-zone: "www.covid19virusprotection.com" static
 local-zone: "www.covid19-virus.ru" static
 local-zone: "www.covid19virusupdates.news" static
