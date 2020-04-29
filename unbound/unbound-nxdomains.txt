@@ -62350,6 +62350,7 @@ local-zone: "datacovid.net" static
 local-zone: "dataforcorona.com" static
 local-zone: "dataforcoronavirus.com" static
 local-zone: "dataforcovid19.com" static
+local-zone: "data.gaboncovid19.org" static
 local-zone: "data.helpstopcovid19.com" static
 local-zone: "dataoncovid19.com" static
 local-zone: "datapandemic.com" static
@@ -71500,6 +71501,7 @@ local-zone: "labcorpcorona.com" static
 local-zone: "labcorpcovid-19.com" static
 local-zone: "labcorpcovid19.com" static
 local-zone: "labcovid19.com" static
+local-zone: "lab-covid19.health.go.ke" static
 local-zone: "lab-covid-19-kms.pl" static
 local-zone: "labcovid.com" static
 local-zone: "laborcovid.com" static
@@ -73975,6 +73977,7 @@ local-zone: "mlsi-coronavirus.info" static
 local-zone: "mmccovid.com" static
 local-zone: "mm.coronavirus.de" static
 local-zone: "mmgcovid19.it" static
+local-zone: "mmio.covid19realtime.org" static
 local-zone: "mmmcovid19.com" static
 local-zone: "mmmmycorona.com" static
 local-zone: "mncoronavirus.com" static
@@ -88822,6 +88825,7 @@ local-zone: "unemploymentcorona.com" static
 local-zone: "unemploymentcoronavirus.com" static
 local-zone: "unforgettblecovid.com" static
 local-zone: "unicefla.ayudacoronavirus.a2hosted.com" static
+local-zone: "uniceflab-covid19.accelerathor.co" static
 local-zone: "unicorona.com" static
 local-zone: "unicovid.com" static
 local-zone: "unicredit-covid.com" static
