@@ -26801,6 +26801,7 @@ local-zone: "coronavirus.rr.sapo.pt" static
 local-zone: "coronavirusrsa.co.za" static
 local-zone: "coronavirusrs.laboratorioantonello.com.br" static
 local-zone: "coronavirus.rsteam.si" static
+local-zone: "corona-virus.ru" static
 local-zone: "coronavirus.rubiconhealth.org" static
 local-zone: "coronavirus-ru.com" static
 local-zone: "coronavirusrudygobert.com" static
@@ -36211,6 +36212,7 @@ local-zone: "covid-19essentials.com" static
 local-zone: "covid19-essentials.com" static
 local-zone: "covid19essentials.com" static
 local-zone: "covid19essentials.co.uk" static
+local-zone: "covid19-essentials.co.za" static
 local-zone: "covid19essentialservice.com" static
 local-zone: "covid19essentialservice.net" static
 local-zone: "covid19essentialservices.com" static
@@ -42356,6 +42358,7 @@ local-zone: "covid-19newsupdate.purehealthtips.com" static
 local-zone: "covid-19newsupdates.com" static
 local-zone: "covid19news-updates.com" static
 local-zone: "covid19newsupdates.com" static
+local-zone: "covid-19newsupdates.covid-19indianews.com" static
 local-zone: "covid-19newsupdates.net" static
 local-zone: "covid19newsusa.com" static
 local-zone: "covid19newswatch.com" static
@@ -46188,6 +46191,7 @@ local-zone: "covid-19sensor.com" static
 local-zone: "covid19.sensor.pe" static
 local-zone: "covid19seo.com" static
 local-zone: "covid19.seopaketleri.net" static
+local-zone: "covid-19.seoul.kr" static
 local-zone: "covid-19.seqmayors.qld.gov.au" static
 local-zone: "covid19sequence.com" static
 local-zone: "covid19sequencing.com" static
@@ -50095,6 +50099,7 @@ local-zone: "covid19vzla.com" static
 local-zone: "covid-19wa.com" static
 local-zone: "covid19wa.com" static
 local-zone: "covid19.wadhwaniai.org" static
+local-zone: "covid19.waewian.com" static
 local-zone: "covid19wageclaims.com" static
 local-zone: "covid-19wages.com" static
 local-zone: "covid19wages.com" static
@@ -79482,6 +79487,7 @@ local-zone: "pccovidupates.com" static
 local-zone: "pccovidupdates.com" static
 local-zone: "pccovidupdatess.com" static
 local-zone: "pcoronavirus.com" static
+local-zone: "pcovid19.acehselatankab.go.id" static
 local-zone: "pcovid.com" static
 local-zone: "pcovido.com" static
 local-zone: "pcrcoronavirus.com" static
@@ -84963,6 +84969,7 @@ local-zone: "surveycovid19.bemunhas.org" static
 local-zone: "surveycovid-19.com" static
 local-zone: "surveycovid19.now.sh" static
 local-zone: "survey-covid19.radenpedia.xyz" static
+local-zone: "surveycovid19.site-italia.org" static
 local-zone: "surveycovid.com" static
 local-zone: "survidedcovid19.com" static
 local-zone: "survivalaftercovid-19.com" static
@@ -93000,6 +93007,7 @@ local-zone: "www.covid19essential.org" static
 local-zone: "www.covid-19-essentials.com" static
 local-zone: "www.covid-19essentials.com" static
 local-zone: "www.covid19-essentials.com" static
+local-zone: "www.covid19-essentials.co.za" static
 local-zone: "www.covid19essentials.store" static
 local-zone: "www.covid-19essentialsupplies.com" static
 local-zone: "www.covid19.et" static
