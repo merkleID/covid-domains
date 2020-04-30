@@ -20359,6 +20359,7 @@ local-zone: "corona-virus-covid19.net" static
 local-zone: "coronaviruscovid19.netsons.org" static
 local-zone: "coronaviruscovid-19.news" static
 local-zone: "coronavirus-covid-19-news.com" static
+local-zone: "coronavirus-covid19-news.com" static
 local-zone: "coronavirus-covid19.nl" static
 local-zone: "coronavirus-covid19.now.sh" static
 local-zone: "coronaviruscovid-19oh.com" static
@@ -30587,6 +30588,7 @@ local-zone: "covid199.altervista.org" static
 local-zone: "covid-199.com" static
 local-zone: "covid199.com" static
 local-zone: "covid199.in" static
+local-zone: "covid19.9jaarena.com" static
 local-zone: "covid19a2z.com" static
 local-zone: "covid19.a7crm.ru" static
 local-zone: "covid19-aachen.com" static
@@ -37861,6 +37863,7 @@ local-zone: "covid-19guards.com" static
 local-zone: "covid19guards.com" static
 local-zone: "covid-19guatemala.com" static
 local-zone: "covid19guatemala.com" static
+local-zone: "covid19.guay.digital" static
 local-zone: "covid19guerrilla.com" static
 local-zone: "covid-19guidance.com" static
 local-zone: "covid19guidance.com" static
@@ -40207,6 +40210,7 @@ local-zone: "covid19.laramiecounty.com" static
 local-zone: "covid19laredo.com" static
 local-zone: "covid19.lasalle.edu.sg" static
 local-zone: "covid19lascruces.com" static
+local-zone: "covid19.laserwebmaker.com" static
 local-zone: "covid19.la-spa.fr" static
 local-zone: "covid19lasseube.com" static
 local-zone: "covid19last.com" static
@@ -95117,6 +95121,7 @@ local-zone: "www.sars-coronavirus.de" static
 local-zone: "www.sars-cov-2.care" static
 local-zone: "www.sars-cov-2-tracker.de" static
 local-zone: "www.sars-cov-2-virus.com" static
+local-zone: "www.sars-covid-19.de" static
 local-zone: "www.savecoronavirus.store" static
 local-zone: "www.savefromcovid19.tk" static
 local-zone: "www.sbacoronavirusloanassistance.com" static
