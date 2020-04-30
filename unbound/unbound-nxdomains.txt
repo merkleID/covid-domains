@@ -482,6 +482,7 @@ local-zone: "5gcoronavirus.com" static
 local-zone: "5gcovid-19.com" static
 local-zone: "5gcovid19.com" static
 local-zone: "5g-covid19.online.dairyditi.com" static
+local-zone: "5.infocovid-19.ru" static
 local-zone: "5mincovid19.com" static
 local-zone: "5mincovid19test.com" static
 local-zone: "5mincovidtest.com" static
@@ -41652,6 +41653,7 @@ local-zone: "covid-19-message.cf" static
 local-zone: "covid19message.com" static
 local-zone: "covid19messages.com" static
 local-zone: "covid19-messages.govinphotos.com" static
+local-zone: "covid19.messar.rs" static
 local-zone: "covid19messengers.com" static
 local-zone: "covid19metadata.com" static
 local-zone: "covid19.metadonors.it" static
