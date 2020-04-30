@@ -166,6 +166,7 @@ local-zone: "2019-covidtest.com" static
 local-zone: "2019ncov.blend.gateway.asia-guangdong.api.dscitech.com" static
 local-zone: "2019ncov.cloudwisdom.tech" static
 local-zone: "2019ncov.com.au" static
+local-zone: "2019-ncov-coronavirus.online" static
 local-zone: "2019-ncov.dces.ntct.edu.tw" static
 local-zone: "2019-ncov.factube.com" static
 local-zone: "2019ncov.fr" static
@@ -22827,6 +22828,7 @@ local-zone: "coronavirus.hospital.euprotegido.com.br" static
 local-zone: "coronavirushospitalitycoverage.com" static
 local-zone: "coronavirushospitalitysupport.com" static
 local-zone: "coronavirushospitalsafety.com" static
+local-zone: "coronavirus.hospitalsnearme.in" static
 local-zone: "coronavirushospitalsupplies.com" static
 local-zone: "corona-virus.host" static
 local-zone: "coronavirus.host24.space" static
@@ -32889,6 +32891,7 @@ local-zone: "covid-19-cameroon.org" static
 local-zone: "covid19-cameroun.cf" static
 local-zone: "covid19cameroun.com" static
 local-zone: "covid19.caminosdelavilla.org" static
+local-zone: "covid-19-camostat-trial.com" static
 local-zone: "covid-19campaign.com" static
 local-zone: "covid19campaign.com" static
 local-zone: "covid-19campaignmedal.com" static
@@ -33994,6 +33997,7 @@ local-zone: "covid19commons.com" static
 local-zone: "covid-19commonsense.com" static
 local-zone: "covid19commonsense.com" static
 local-zone: "covid19comms.com" static
+local-zone: "covid19.communautejuivedecreteil.fr" static
 local-zone: "covid19communicationnetwork.org" static
 local-zone: "covid19communications.ca" static
 local-zone: "covid19communications.com" static
@@ -39812,6 +39816,7 @@ local-zone: "covid19.justusedet.com" static
 local-zone: "covid19-jvion.com" static
 local-zone: "covid19.jvion.com" static
 local-zone: "covid19jvion.com" static
+local-zone: "covid19.jyskvin.dk" static
 local-zone: "covid19-jyy3.onrender.com" static
 local-zone: "covid19.jzabala.com" static
 local-zone: "covid19k-12academy.com" static
@@ -40237,6 +40242,7 @@ local-zone: "covid-19law.club" static
 local-zone: "covid-19-law.com" static
 local-zone: "covid19-law.com" static
 local-zone: "covid19law.com" static
+local-zone: "covid-19law.co.uk" static
 local-zone: "covid19lawdaily.com" static
 local-zone: "covid19law.durhamcommunitylegalclinic.ca" static
 local-zone: "covid-19lawer.com" static
@@ -61853,6 +61859,7 @@ local-zone: "cpanel.lawancov19.com" static
 local-zone: "cpanel.letscombatcovid19.com" static
 local-zone: "cpanel.loveinthetimeofcovid19.com" static
 local-zone: "cpanel.mascarillacovid19.cl" static
+local-zone: "cpanel.mdcovid19httpnowproduck05.duckdns.org" static
 local-zone: "cpanel.novelcoronavirus.de" static
 local-zone: "cpanel.testcovid19ec.com" static
 local-zone: "cpapforcovid.com" static
@@ -69665,6 +69672,7 @@ local-zone: "imagecovid.com" static
 local-zone: "imagencovid19ppesupply.com" static
 local-zone: "imaginedduringcovid19.com" static
 local-zone: "imagingcovid19ai.eu" static
+local-zone: "imagingcovid19ai.robovision.ai" static
 local-zone: "imagingcovid19.quibim.com" static
 local-zone: "imagingcovid.com" static
 local-zone: "imalivecovid19.com" static
@@ -89367,6 +89375,7 @@ local-zone: "usatrumpscovid.com" static
 local-zone: "usavscovid-19.com" static
 local-zone: "usavscovid19.com" static
 local-zone: "usavscovid.com" static
+local-zone: "usca-covid19.it" static
 local-zone: "uscensuspandemic.com" static
 local-zone: "uscorona19.com" static
 local-zone: "uscorona19virus.com" static
@@ -91910,6 +91919,7 @@ local-zone: "www.86coronavirus.com" static
 local-zone: "www.86covid19.com" static
 local-zone: "www.aapicovid19.org" static
 local-zone: "www.abcsofcoronavirus.com" static
+local-zone: "www.aberdeencovid19.org" static
 local-zone: "www.abogadoscovid19.legal" static
 local-zone: "www.about-covid19.info" static
 local-zone: "www.abqfightcovid19.com" static
@@ -93407,6 +93417,7 @@ local-zone: "www.covid19hazmat.com" static
 local-zone: "www.covid19hdf.fr" static
 local-zone: "www.covid-19-healthcare.com" static
 local-zone: "www.covid19healthcarelawyers.com" static
+local-zone: "www.covid-19health.co.za" static
 local-zone: "www.covid19.healthpigeon.com" static
 local-zone: "www.covid-19healthshop.com" static
 local-zone: "www.covid19healthstores.com" static
