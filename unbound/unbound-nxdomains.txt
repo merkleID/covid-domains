@@ -30924,6 +30924,7 @@ local-zone: "covid-19.akutvakfi.org.tr" static
 local-zone: "covid19.al7bep.com" static
 local-zone: "covid-19alabama.com" static
 local-zone: "covid19alabama.com" static
+local-zone: "covid19.alainnationalbank.com" static
 local-zone: "covid19alarm.com" static
 local-zone: "covid-19alaska.com" static
 local-zone: "covid19alaska.com" static
@@ -35652,6 +35653,7 @@ local-zone: "covid19dominicanrepublic.com" static
 local-zone: "covid19.dominicoamerican.org" static
 local-zone: "covid19.domleo.dev" static
 local-zone: "covid19.domore.co.jp" static
+local-zone: "covid-19.domra.ca" static
 local-zone: "covid-19donaciones.com" static
 local-zone: "covid19donaciones.com" static
 local-zone: "covid-19donaldtrump.com" static
@@ -36085,6 +36087,7 @@ local-zone: "covid-19emergencysupplychain.com" static
 local-zone: "covid19emergencysupply.com" static
 local-zone: "covid19emergencyusa.com" static
 local-zone: "covid19.emergerentalnetwork.com" static
+local-zone: "covid19.emethysttech.com" static
 local-zone: "covid19-emilioribas.org" static
 local-zone: "covid-19emirates.com" static
 local-zone: "covid19-emirates.com" static
@@ -38795,6 +38798,7 @@ local-zone: "covid19.iapps365.com" static
 local-zone: "covid19.ibaraki-web.net" static
 local-zone: "covid19.ibhaan.com" static
 local-zone: "covid19.ibighealth.com" static
+local-zone: "covid-19.ibycs.com" static
 local-zone: "covid19icanwork.com" static
 local-zone: "covid19icanwork.net" static
 local-zone: "covid19icaraima.cervejariawalhalla.com.br" static
@@ -50424,6 +50428,7 @@ local-zone: "covid19.wearelegalshield.com" static
 local-zone: "covid19.wearememphis.com" static
 local-zone: "covid-19.wearlinq.com" static
 local-zone: "covid19wear.net" static
+local-zone: "covid19.weavindonline.com" static
 local-zone: "covid19.webbions.com" static
 local-zone: "covid19.webbox.co.za" static
 local-zone: "covid19.webbu.com" static
@@ -82485,6 +82490,7 @@ local-zone: "rsacovid-19.novaltd.co.za" static
 local-zone: "rsecovidargentina.com" static
 local-zone: "rs.higienizacion-covid19.com" static
 local-zone: "rss.covid19-info.fr" static
+local-zone: "rss-ensemblecontrelecovid19.fr" static
 local-zone: "rstudio.covid19data.dk" static
 local-zone: "rtcovid19.com" static
 local-zone: "rtcovid.com" static
@@ -95286,6 +95292,7 @@ local-zone: "www.testcoronavirus.today" static
 local-zone: "www.test-covid19.ru" static
 local-zone: "www.test-covid19.store" static
 local-zone: "www.test-for-covid19.com" static
+local-zone: "www.testforcovid19.io" static
 local-zone: "www.testforcovid19.ru" static
 local-zone: "www.testingcovid19.co.uk" static
 local-zone: "www.testing.covid19status.xyz" static
