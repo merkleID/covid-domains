@@ -25372,6 +25372,7 @@ local-zone: "coronavirus-nyc-iii.jiminkim.org" static
 local-zone: "coronavirus-nyc-iv.jiminkim.org" static
 local-zone: "coronavirus-ny.com" static
 local-zone: "coronavirusnyc.today" static
+local-zone: "coronavirus-nyc-viii.jiminkim.org" static
 local-zone: "coronavirus-nyc-v.jiminkim.org" static
 local-zone: "coronavirusny.net" static
 local-zone: "coronavirusnys.com" static
@@ -38503,6 +38504,7 @@ local-zone: "covid19home.work" static
 local-zone: "covid19homeworkoutprogramme.com" static
 local-zone: "covid19home.xyz" static
 local-zone: "covid19homey.com" static
+local-zone: "covid19.honda.com" static
 local-zone: "covid19-honduras.com" static
 local-zone: "covid19honduras.org" static
 local-zone: "covid19-honesty.com" static
@@ -38908,6 +38910,7 @@ local-zone: "covid-19-impfung.com" static
 local-zone: "covid19-impfung.com" static
 local-zone: "covid19impfung.com" static
 local-zone: "covid19imports.com" static
+local-zone: "covid19-impot.fr" static
 local-zone: "covid19-impots.fr" static
 local-zone: "covid19-ims.info-aid.net" static
 local-zone: "covid19.ims-sol.com" static
@@ -41299,6 +41302,7 @@ local-zone: "covid-19mcadebtrelief.com" static
 local-zone: "covid19mcadebtrelief.com" static
 local-zone: "covid-19mcadebtrelief.net" static
 local-zone: "covid19mcadebtrelief.net" static
+local-zone: "covid19mccdmnc.altervista.org" static
 local-zone: "covid19mc.com" static
 local-zone: "covid-19.mch-net.info" static
 local-zone: "covid19.mcmaster.ca" static
@@ -62234,6 +62238,7 @@ local-zone: "currentepidemic.com" static
 local-zone: "cursocoronavirus.com" static
 local-zone: "cursoscoronavirus.com" static
 local-zone: "curut-covid20.com" static
+local-zone: "curvacovid-19.com" static
 local-zone: "curvacovid19.com" static
 local-zone: "curvecorona.com" static
 local-zone: "curvecoronavirus.com" static
@@ -69590,6 +69595,7 @@ local-zone: "imcovidcured.com" static
 local-zone: "imcovidfree.com" static
 local-zone: "imcovidhome.com" static
 local-zone: "imcovidimmune.com" static
+local-zone: "imfusion-renderer-777.staging.covid19.robovision.ai" static
 local-zone: "imfusion-renderer-888.staging.covid19.robovision.ai" static
 local-zone: "imighthavecovid19.com" static
 local-zone: "imighthavehadcovid19.com" static
@@ -90446,6 +90452,7 @@ local-zone: "webmail.opencoronavirus.app" static
 local-zone: "webmail.pantallacovid19.com" static
 local-zone: "webmail.preventing-coronaviruses.com" static
 local-zone: "webmail.reinventyourbusinesscovid19.com" static
+local-zone: "webmail.stopcovid19.pt" static
 local-zone: "webmail.survivecovid19.ca" static
 local-zone: "webmail.testcoronavirusonline.com" static
 local-zone: "webmail.thecoronavirus.fathost50.com" static
