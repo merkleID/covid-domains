@@ -2619,6 +2619,7 @@ local-zone: "artistsagainstcovid19.com" static
 local-zone: "artofcovid19.com" static
 local-zone: "artofcovid.com" static
 local-zone: "artpandemic.com" static
+local-zone: "artsagainstcovid19.org" static
 local-zone: "arubacovid19.com" static
 local-zone: "arubacovid-19.org" static
 local-zone: "arubacovid19.org" static
@@ -50251,6 +50252,7 @@ local-zone: "covid19wal-mart.com" static
 local-zone: "covid19walmart.com" static
 local-zone: "covid19.wandercom.id" static
 local-zone: "covid19.wangayahospital.com" static
+local-zone: "covid19.wan.gr" static
 local-zone: "covid19.wapangola.net" static
 local-zone: "covid19war.city" static
 local-zone: "covid-19-war.com" static
@@ -63149,6 +63151,7 @@ local-zone: "dev-covid19.yaniz.dev" static
 local-zone: "dev-covidmapportal.com" static
 local-zone: "dev.downloads.coronavirusresources.phe.gov.uk" static
 local-zone: "development.testcovid19.be" static
+local-zone: "dev.faq.covid19.nhs.uk" static
 local-zone: "dev.fightcovid19.ai" static
 local-zone: "dev.fopcovid19.org" static
 local-zone: "dev.gaboncovid19.org" static
@@ -65324,6 +65327,7 @@ local-zone: "faq.coronavirus.gov" static
 local-zone: "faqcoronavirus.net" static
 local-zone: "faq-coronavirus.ru" static
 local-zone: "faqcovid19.net" static
+local-zone: "faq.covid19.nhs.uk" static
 local-zone: "faqcovid.com" static
 local-zone: "faqscoronavirus.com" static
 local-zone: "faq-you-corona.com" static
@@ -93424,6 +93428,7 @@ local-zone: "www.covid19.ifeuan.com" static
 local-zone: "www.covid19-if.space" static
 local-zone: "www.covid19.ikone-textile.fr" static
 local-zone: "www.covid19.immigrationdirectstaging.com" static
+local-zone: "www.covid19immunitytaskforce.com" static
 local-zone: "www.covid19impact.marketbetter.in" static
 local-zone: "www.covid19impacto.org" static
 local-zone: "www.covid19impactsurvey.com" static
@@ -93925,6 +93930,7 @@ local-zone: "www.covid-19.sante.gouv.fr" static
 local-zone: "www.covid19.sayawp.com" static
 local-zone: "www.covid-19sbaloans.com" static
 local-zone: "www.covid-19schnelltest.com" static
+local-zone: "www.covid19.school" static
 local-zone: "www.covid19schoolfunding.com" static
 local-zone: "www.covid-19-schutzwaende.de" static
 local-zone: "www.covid19sci.com" static
@@ -93970,6 +93976,7 @@ local-zone: "www.covid19sikkim.org" static
 local-zone: "www.covid19.simalungunkab.go.id" static
 local-zone: "www.covid19situations.com" static
 local-zone: "www.covid-19-skaa.ru" static
+local-zone: "www.covid19.skuy.dev" static
 local-zone: "www.covid19sma.com" static
 local-zone: "www.covid-19smallbusinessgrants.finance-ni.gov.uk" static
 local-zone: "www.covid-19smallbusinessloans.com" static
