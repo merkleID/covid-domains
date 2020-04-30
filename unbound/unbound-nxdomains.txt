@@ -28114,6 +28114,7 @@ local-zone: "coronavirustestcase.com" static
 local-zone: "coronavirustest.center" static
 local-zone: "coronavirustestcenter.com" static
 local-zone: "coronavirustestcenters.com" static
+local-zone: "coronavirustestcenters.co.uk" static
 local-zone: "coronavirustestcentersusa.com" static
 local-zone: "coronavirustestcentre.com" static
 local-zone: "coronavirustestcentres.com" static
@@ -28882,6 +28883,7 @@ local-zone: "coronavirusupdate.dc58.org" static
 local-zone: "coronavirus-updated.com" static
 local-zone: "coronavirusupdated.com" static
 local-zone: "coronavirus-updated.co.za" static
+local-zone: "coronavirus-update.de" static
 local-zone: "coronavirusupdatednews.com" static
 local-zone: "coronavirus-update.eurogate.com" static
 local-zone: "coronavirusupdate.farukmd.com" static
@@ -35161,6 +35163,7 @@ local-zone: "covid-19depression.com" static
 local-zone: "covid19depression.com" static
 local-zone: "covid19depression.net" static
 local-zone: "covid19.derinworksllc.com" static
+local-zone: "covid19-dermatology.com" static
 local-zone: "covid19.derrickconnellphotography.com" static
 local-zone: "covid19.desapaokmotong.id" static
 local-zone: "covid19desa.saludcontigo.co" static
@@ -80785,6 +80788,7 @@ local-zone: "preppingforcoronavirus.com" static
 local-zone: "preprd.covid19.back.docapost-agility.fr" static
 local-zone: "preprodcasos.coronavirus.gub.uy" static
 local-zone: "preprod.cms.coronavirusresources.phe.gov.uk" static
+local-zone: "preprod-covid-19.localbeta.ovh" static
 local-zone: "preprod.downloads.coronavirusresources.phe.gov.uk" static
 local-zone: "preprodservicios.coronavirus.gub.uy" static
 local-zone: "pre-prod.upcovid19tracks.in" static
@@ -90691,6 +90695,7 @@ local-zone: "westboroughcovid19communityfund.com" static
 local-zone: "westcoastcovid19help.com" static
 local-zone: "westcoastcovid.com" static
 local-zone: "westcorona.com" static
+local-zone: "western-ccg-covid19.ca" static
 local-zone: "westernmillingcovid19resoures.com" static
 local-zone: "westfieldcouncilcovid19.com" static
 local-zone: "westmicovid-19prayer.org" static
