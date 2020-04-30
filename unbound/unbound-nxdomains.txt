@@ -39672,6 +39672,7 @@ local-zone: "covid19-japan.com" static
 local-zone: "covid19japan.com" static
 local-zone: "covid19-japan.health-api.online" static
 local-zone: "covid-19-japan.info" static
+local-zone: "covid19japan.jp" static
 local-zone: "covid19-japan.net" static
 local-zone: "covid19japan.net" static
 local-zone: "covid19.jaringmas.co.id" static
@@ -41880,6 +41881,7 @@ local-zone: "covid-19.modivicharmanch.org" static
 local-zone: "covid19.modospira.com" static
 local-zone: "covid-19module.com" static
 local-zone: "covid19.modus-accountants.co.uk" static
+local-zone: "covid19.mohap.gov.ae" static
 local-zone: "covid19.mohfw.gov.bd" static
 local-zone: "covid19.moh.gov.de" static
 local-zone: "covid19.moh.intranet.gov.cy" static
@@ -69674,6 +69676,7 @@ local-zone: "imcovidhome.com" static
 local-zone: "imcovidimmune.com" static
 local-zone: "imfusion-renderer-777.staging.covid19.robovision.ai" static
 local-zone: "imfusion-renderer-888.staging.covid19.robovision.ai" static
+local-zone: "imfusion-renderer-manual-13.staging.covid19.robovision.ai" static
 local-zone: "imighthavecovid19.com" static
 local-zone: "imighthavehadcovid19.com" static
 local-zone: "immigrantcovid19resources.com" static
@@ -80917,6 +80920,7 @@ local-zone: "previenecovid.com" static
 local-zone: "previeneelcoronavirus.com" static
 local-zone: "preview.test.covid-19.forms.digital.nhs.uk" static
 local-zone: "previnasecontracovid19.com" static
+local-zone: "previnecovid19.com.br" static
 local-zone: "priimo-covid19.com" static
 local-zone: "primacovid19.com" static
 local-zone: "primepandemic.com" static
@@ -95948,6 +95952,13 @@ local-zone: "zipcovid.com" static
 local-zone: "zithromaxcovid19.com" static
 local-zone: "zmancorona.com" static
 local-zone: "zm-covid-19.com" static
+local-zone: "znr01petitieonline-covid19byfacebook.ga" static
+local-zone: "znr02petitieonline-covid19byfacebook.ga" static
+local-zone: "znr03petitieonline-covid19byfacebook.ga" static
+local-zone: "znr05petitieonline-covid19byfacebook.ga" static
+local-zone: "znr06petitieonline-covid19byfacebook.ga" static
+local-zone: "znr07petitieonline-covid19byfacebook.ga" static
+local-zone: "znr09petitieonline-covid19byfacebook.ga" static
 local-zone: "zoccoliadvogados-covid19.com.br" static
 local-zone: "zodiaccovid19.com" static
 local-zone: "zombiebycovid.com" static
