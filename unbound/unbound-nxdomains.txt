@@ -48160,6 +48160,7 @@ local-zone: "covid19testdirectory.com" static
 local-zone: "covid19test.dk" static
 local-zone: "covid19testdocs.com" static
 local-zone: "covid19test-dz.com" static
+local-zone: "covid-19.testeben.it" static
 local-zone: "covid-19tested.com" static
 local-zone: "covid19tested.com" static
 local-zone: "covid19test.ee" static
@@ -71613,6 +71614,7 @@ local-zone: "kycoronainjury.com" static
 local-zone: "kycoronalawyer.com" static
 local-zone: "kycoronavirus.com" static
 local-zone: "kycoronavirus.net" static
+local-zone: "kyoto-city.wincovid19.jp" static
 local-zone: "kyoto.stopcovid19.jp" static
 local-zone: "kzcoronavirus.ru" static
 local-zone: "l2-coronavirus.club" static
