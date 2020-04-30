@@ -79932,6 +79932,7 @@ local-zone: "phcoronatracker.com" static
 local-zone: "phcoronavirus.com" static
 local-zone: "ph-covid19.com" static
 local-zone: "phcovid19.com" static
+local-zone: "phcovid-19.info" static
 local-zone: "phcovid19.info" static
 local-zone: "phcovid-19tracker.com" static
 local-zone: "phcovid.com" static
