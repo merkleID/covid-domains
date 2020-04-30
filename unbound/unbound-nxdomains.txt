@@ -2158,6 +2158,7 @@ local-zone: "apandemicoflies.com" static
 local-zone: "apandemicpodcast.com" static
 local-zone: "apandemicstory.com" static
 local-zone: "apandemictheater.com" static
+local-zone: "apcovid19.live" static
 local-zone: "apcovid.com" static
 local-zone: "apdcorona.com" static
 local-zone: "apdlawancorona.com" static
@@ -23966,6 +23967,7 @@ local-zone: "coronavirus-lierneux.be" static
 local-zone: "coronavirus-lies.com" static
 local-zone: "coronaviruslies.com" static
 local-zone: "coronaviruslifecoaching.com" static
+local-zone: "coronavirus-life.com" static
 local-zone: "coronavirus-lifeinsurance.com" static
 local-zone: "coronaviruslife-insurance.com" static
 local-zone: "coronaviruslifeinsurance.com" static
@@ -28488,6 +28490,7 @@ local-zone: "coronavirus-time.ru" static
 local-zone: "coronavirustime.ru" static
 local-zone: "coronavirus-times.com" static
 local-zone: "coronavirustimes.com" static
+local-zone: "coronavirus.timnas.soccer" static
 local-zone: "coronavirustimpactondentistry.com" static
 local-zone: "coronavirustimulus.com" static
 local-zone: "coronavirustincture.com" static
@@ -46506,6 +46509,7 @@ local-zone: "covid19signage.biz" static
 local-zone: "covid-19signage.com" static
 local-zone: "covid19signage.com" static
 local-zone: "covid19signage.co.za" static
+local-zone: "covid19.signagejohannesburg.co.za" static
 local-zone: "covid19signage.mobi" static
 local-zone: "covid19signage.net" static
 local-zone: "covid19sign.com" static
@@ -81983,6 +81987,7 @@ local-zone: "relawancovid19.bangkabaratkab.go.id" static
 local-zone: "relawancovid19.com" static
 local-zone: "relawancovid.com" static
 local-zone: "relawangugascovid19.com" static
+local-zone: "relawansabercovid19.org" static
 local-zone: "relementationcovid.com" static
 local-zone: "relief4corona.com" static
 local-zone: "relief4corona.net" static
