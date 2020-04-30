@@ -2698,6 +2698,7 @@ local-zone: "assicurazionecoronavirus.com" static
 local-zone: "assimsaudecoronavirus.com.br" static
 local-zone: "assistance4corona.com" static
 local-zone: "assistancecoronavirus.com" static
+local-zone: "assistance.covid19-entreprise.tn" static
 local-zone: "assistancecovid.com" static
 local-zone: "assistcoronavirus.com" static
 local-zone: "assistcovid19.com" static
@@ -3913,6 +3914,7 @@ local-zone: "blogcovid19.com" static
 local-zone: "blog.covid19funding.ca" static
 local-zone: "blogcovid19.gaec-africa.com" static
 local-zone: "blogcovid19.gaec-africa.org" static
+local-zone: "blog.covid19jobsupport.in" static
 local-zone: "blog.covid19live.ca" static
 local-zone: "blog.covid19loans.org" static
 local-zone: "blog.crowdfightcovid19.org" static
@@ -3974,6 +3976,7 @@ local-zone: "bollettinocoronavirus.it" static
 local-zone: "bombcorona.com" static
 local-zone: "bondowosocovid.com" static
 local-zone: "bonnetandcovid-19chronicles.com" static
+local-zone: "bonus-covid19.online" static
 local-zone: "bonuscovid.com" static
 local-zone: "boocorona.com" static
 local-zone: "bookaftercorona.com" static
@@ -4933,6 +4936,7 @@ local-zone: "ccovid-19.com" static
 local-zone: "ccovid19.com" static
 local-zone: "ccovid19masks.com" static
 local-zone: "ccovid-19socialdistancing.com" static
+local-zone: "ccovid19tracker.softsamic.com" static
 local-zone: "ccovid.com" static
 local-zone: "ccpcorona.com" static
 local-zone: "ccpcoronainfection.com" static
@@ -62526,6 +62530,7 @@ local-zone: "datoscoronavirus.com" static
 local-zone: "datos-corona-virus.es" static
 local-zone: "datoscovid19.com" static
 local-zone: "datos.covid-19.conacyt.nx.com.mx" static
+local-zone: "datoscovid19-fct.utp.ac.pa" static
 local-zone: "daumcoronavirus.com" static
 local-zone: "david-covid.mobi" static
 local-zone: "davidsonfightingcovid.com" static
@@ -95224,6 +95229,7 @@ local-zone: "www.trackcovid19.se" static
 local-zone: "www.tracker.covid19app.xyz" static
 local-zone: "www.tracker-covid19.com" static
 local-zone: "www.trackingcovid19.ca" static
+local-zone: "www.trackingcovid19.info" static
 local-zone: "www.trackingcovid19.live" static
 local-zone: "www.trajescoronavirus.com" static
 local-zone: "www.treatcovid19now.org" static
