@@ -629,6 +629,7 @@ local-zone: "abc-coronavirus.planethoster.world" static
 local-zone: "abc.ds-covid19.res.ibm.com" static
 local-zone: "abcovidsupport.com" static
 local-zone: "abcsofcoronavirus.com" static
+local-zone: "aberdeencovid19.org" static
 local-zone: "abertonocovid19.centrozero.pt" static
 local-zone: "abia-covid19.eclathealthcare.com" static
 local-zone: "abiliticbtpandemic.com" static
@@ -743,6 +744,7 @@ local-zone: "acervofncovid-19.org" static
 local-zone: "acesespinhogaiacovid19.net" static
 local-zone: "acespandemic.net" static
 local-zone: "acessoscovid19.rizer.com.br" static
+local-zone: "acewebtools.covid19infonews.com" static
 local-zone: "acgpandemicrelief.com" static
 local-zone: "acgpandemicresponse.com" static
 local-zone: "achat-masque-coronavirus.fr" static
@@ -866,6 +868,7 @@ local-zone: "admin.covid19responsefund.org" static
 local-zone: "admin.covid19.rnbo.gov.ua" static
 local-zone: "admin.covid19sd.info" static
 local-zone: "admin.covid19.stockouts.org.za" static
+local-zone: "admin-covid19-test.mhpolice.in" static
 local-zone: "admin.covid19today.org" static
 local-zone: "admin-covid19.tremend.ro" static
 local-zone: "admin.covid19-uk.co.uk" static
@@ -27078,6 +27081,7 @@ local-zone: "coronavirus-sars.com" static
 local-zone: "coronavirus-sars-cov-2.com" static
 local-zone: "coronavirus-sarscov2.com" static
 local-zone: "coronavirussarscov2.com" static
+local-zone: "coronavirus-sars-cov-2.de" static
 local-zone: "coronavirussarscov2.francecentral.cloudapp.azure.com" static
 local-zone: "coronavirus-sars-cov-2.info" static
 local-zone: "coronavirussatan.com" static
@@ -43964,6 +43968,7 @@ local-zone: "covid19-prevention-kit.com" static
 local-zone: "covid19preventionkit.com" static
 local-zone: "covid19preventionkit.net" static
 local-zone: "covid-19prevention.net" static
+local-zone: "covid19prevention.net" static
 local-zone: "covid19preventionofficecleaningnashville.com" static
 local-zone: "covid19preventionofficecleaningservicesnashville.com" static
 local-zone: "covid19prevention.org" static
@@ -67619,6 +67624,7 @@ local-zone: "gmhuniversityhousingcovid19reliefprogram.com" static
 local-zone: "gnicovideo.com" static
 local-zone: "gnvcovidmask.com" static
 local-zone: "gnvcovidmasks.com" static
+local-zone: "gnyada-covid19.com" static
 local-zone: "goa-covid-19.in" static
 local-zone: "goarmybeatcovid19.com" static
 local-zone: "goawaycorona.com" static
@@ -81112,6 +81118,7 @@ local-zone: "propusk-covid19.ru" static
 local-zone: "prosegurcoronavirus.com" static
 local-zone: "proseinthepandemic.com" static
 local-zone: "prosepandemic.com" static
+local-zone: "protecao-covid19.com" static
 local-zone: "protecaocovid19.com.br" static
 local-zone: "proteccioncontraelcoronavirus.com" static
 local-zone: "proteccioncontraelcoronavirus.es" static
@@ -82828,6 +82835,7 @@ local-zone: "sars-coronavirus-2.com" static
 local-zone: "sarscoronavirus2.com" static
 local-zone: "sars-coronavirus.com" static
 local-zone: "sars-coronavirus-covid-19.de" static
+local-zone: "sars-coronavirus.de" static
 local-zone: "sarscoronavirus.info" static
 local-zone: "sars-coronavirus-liveupdate.com" static
 local-zone: "sars-coronavirus.org" static
@@ -82870,6 +82878,7 @@ local-zone: "sars-cov-2vaccines.com" static
 local-zone: "sars-covid-19.com" static
 local-zone: "sarscovid-19.com" static
 local-zone: "sarscovid19.com" static
+local-zone: "sars-covid-19.de" static
 local-zone: "sarscovid19mall.com" static
 local-zone: "sarscovid19medication.com" static
 local-zone: "sarscovid19meds.com" static
@@ -92776,6 +92785,7 @@ local-zone: "www.corona-virus-sanitation.ca" static
 local-zone: "www.coronavirussanitizernow.com" static
 local-zone: "www.coronavirussantaclara.com" static
 local-zone: "www.coronavirus.sarl" static
+local-zone: "www.coronavirus-sars-cov-2.de" static
 local-zone: "www.coronavirussatan.com" static
 local-zone: "www.coronavirusscanner.com.au" static
 local-zone: "www.coronavirusschutzmaske.de" static
@@ -95103,6 +95113,7 @@ local-zone: "www.saludmentalpostcovid19.com" static
 local-zone: "www.sanidadcoronavirus.com" static
 local-zone: "www.sanitizer-coronavirus.com" static
 local-zone: "www.sanitizingcovid19.com" static
+local-zone: "www.sars-coronavirus.de" static
 local-zone: "www.sars-cov-2.care" static
 local-zone: "www.sars-cov-2-tracker.de" static
 local-zone: "www.sars-cov-2-virus.com" static
