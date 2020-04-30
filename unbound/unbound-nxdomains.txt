@@ -28115,6 +28115,7 @@ local-zone: "coronavirustestcenters.com" static
 local-zone: "coronavirustestcentersusa.com" static
 local-zone: "coronavirustestcentre.com" static
 local-zone: "coronavirustestcentres.com" static
+local-zone: "coronavirustestcentres.uk" static
 local-zone: "coronavirustest.cl" static
 local-zone: "coronavirustestclassaction.com" static
 local-zone: "coronavirustest.clinic" static
@@ -38041,6 +38042,7 @@ local-zone: "covid19healthcare.com" static
 local-zone: "covid-19healthcare.company" static
 local-zone: "covid19healthcarejobs.com" static
 local-zone: "covid19healthcarelawyers.com" static
+local-zone: "covid19healthcare.nl" static
 local-zone: "covid19healthcarepins.com" static
 local-zone: "covid19healthcareplans.com" static
 local-zone: "covid19healthcareprovider.com" static
@@ -38374,6 +38376,7 @@ local-zone: "covid19.hk" static
 local-zone: "covid19hk.com" static
 local-zone: "covid19.hkdrustvo.hr" static
 local-zone: "covid19hkfund.org" static
+local-zone: "covid19.hku.edu.tr" static
 local-zone: "covid19.hlg.ch" static
 local-zone: "covid19.hls.kz" static
 local-zone: "covid19.hmacademy.com" static
@@ -46979,6 +46982,7 @@ local-zone: "covid19.srshazin.com" static
 local-zone: "covid19.srv.br" static
 local-zone: "covid-19-ss34.onrender.com" static
 local-zone: "covid19ss.com" static
+local-zone: "covid19.ssct.edu.ph" static
 local-zone: "covid19.ssnc.cloud" static
 local-zone: "covid-19.ssntwk.net" static
 local-zone: "covid19sst.com" static
@@ -61859,6 +61863,7 @@ local-zone: "cpcalendars.covid19.unfm.org" static
 local-zone: "cpcalendars.desinfecter-coronavirus.com" static
 local-zone: "cpcalendars.indemnizacionescoronavirus.gal" static
 local-zone: "cpcalendars.jkcovid19tracker.com" static
+local-zone: "cpcalendars.kitsforcoronavirus.com" static
 local-zone: "cpcalendars.lawyers4covid19.com" static
 local-zone: "cpcalendars.mamparacovid19.com" static
 local-zone: "cpcalendars.onecovid19data.com" static
@@ -68282,6 +68287,8 @@ local-zone: "hellocoronavirus.com" static
 local-zone: "hellocoronaviruse.com" static
 local-zone: "hellocovid.com" static
 local-zone: "hellohub-covid19.com" static
+local-zone: "helloworld.covid19.kjellzijlemaker.nl" static
+local-zone: "helloworlds.covid19.kjellzijlemaker.nl" static
 local-zone: "help2covid-19.com" static
 local-zone: "help2covid19.com" static
 local-zone: "help4corona.com" static
@@ -94548,6 +94555,7 @@ local-zone: "www.idonthavethecoronavirus.ca" static
 local-zone: "www.idrycoronavirus.com" static
 local-zone: "www.ifcoronavirus.org" static
 local-zone: "www.igscovid19.com" static
+local-zone: "www.ihatecoronavirus.es" static
 local-zone: "www.i-hate-covid19.com" static
 local-zone: "www.ihdcovid19.com" static
 local-zone: "www.illovocovid19.com" static
