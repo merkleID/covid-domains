@@ -3769,6 +3769,7 @@ local-zone: "bigalspizzacorona.com" static
 local-zone: "bigclean-covid19.com" static
 local-zone: "bigcoronaguy.com" static
 local-zone: "bigdatacoronavirus.com" static
+local-zone: "bigdata-covid19a.icict.fiocruz.br" static
 local-zone: "bigdata-covid19.icict.fiocruz.br" static
 local-zone: "bigdata-covid19modelo.icict.fiocruz.br" static
 local-zone: "bigeasycovidclean.com" static
@@ -19341,6 +19342,7 @@ local-zone: "coronaviruscasos.org" static
 local-zone: "coronaviruscast.com" static
 local-zone: "coronavirus.castelldefels.org" static
 local-zone: "coronaviruscatalunya.com" static
+local-zone: "coronavirus.catamarcacapital.gob.ar" static
 local-zone: "coronaviruscatastrophe.com" static
 local-zone: "coronaviruscatcare.com" static
 local-zone: "coronaviruscat.com" static
@@ -41114,6 +41116,7 @@ local-zone: "covid-19-map.now.sh" static
 local-zone: "covid19-map.online" static
 local-zone: "covid19maponline.com" static
 local-zone: "covid19map.org" static
+local-zone: "covid19mapped.org" static
 local-zone: "covid19mapper.com" static
 local-zone: "covid19maps.805newsrelay.net" static
 local-zone: "covid-19-maps.com" static
