@@ -2748,6 +2748,7 @@
 0.0.0.0 api.int.dev.covid-19.forms.digital.nhs.uk
 0.0.0.0 api.kawalcovid19.id
 0.0.0.0 api.killcovid-19.org
+0.0.0.0 api-mhcovid19.awsconnect.medibank.com.au
 0.0.0.0 api.msbfcovid19info.stenlionel.com
 0.0.0.0 api.myhelpcovid19.info
 0.0.0.0 api.ncov-19.net
@@ -86729,9 +86730,11 @@
 0.0.0.0 monitor-coronavirus.online
 0.0.0.0 monitor-coronavirus.ru
 0.0.0.0 monitor.covid19api.com
+0.0.0.0 monitorcovid19.ca
 0.0.0.0 monitorcovid19.com
 0.0.0.0 monitor.covid19.houseliver.com
 0.0.0.0 monitorcovid19.info
+0.0.0.0 monitorcovid19.org
 0.0.0.0 monitor.covid19portugal.org
 0.0.0.0 monitor-covid19.ru
 0.0.0.0 monitor-covid.com
@@ -111047,6 +111050,8 @@
 0.0.0.0 www.mobile-stg.lillycovid19testing.com
 0.0.0.0 www.modcovid19.ricardomsrosa.org
 0.0.0.0 www.molitvacoronavirus.com
+0.0.0.0 www.monitorcovid19.ca
+0.0.0.0 www.monitorcovid19.org
 0.0.0.0 www.monitoreocovid19.cl
 0.0.0.0 www.moondancecovid19relieffund.com
 0.0.0.0 www.moscoronavirus.ru
