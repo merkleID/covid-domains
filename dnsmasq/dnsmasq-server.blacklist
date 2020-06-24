@@ -2969,6 +2969,7 @@ server=/api.coronavirusliveupdate.org/
 server=/api.coronavirus.loomi.ai/
 server=/api.coronavirusmap.co.uk/
 server=/api.coronavirus.pear.ws/
+server=/api.coronavirus-staging.data.gov.uk/
 server=/api.coronavirusstop.org/
 server=/api.coronavirus.syntac.co/
 server=/api.coronavirus-test.loomi.ai/
