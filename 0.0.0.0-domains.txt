@@ -5150,6 +5150,7 @@
 0.0.0.0 bigdata-covid19a.icict.fiocruz.br
 0.0.0.0 bigdata-covid19.icict.fiocruz.br
 0.0.0.0 bigdata-covid19modelo.icict.fiocruz.br
+0.0.0.0 bigdata-covid19tabaco.icict.fiocruz.br
 0.0.0.0 bigeasycovidclean.com
 0.0.0.0 biggestpandemics.com
 0.0.0.0 bigkidcovid.com
@@ -80513,6 +80514,7 @@
 0.0.0.0 dev.covid19app.org
 0.0.0.0 dev.covid19-azores.com
 0.0.0.0 dev.covid19.back.docapost-agility.fr
+0.0.0.0 dev.covid-19-bot.org
 0.0.0.0 dev.covid19.carenusa.com
 0.0.0.0 dev.covid19.cargo.ir
 0.0.0.0 dev.covid19cdn.jp
@@ -102938,6 +102940,7 @@
 0.0.0.0 procovidshields.com
 0.0.0.0 procovidtests.com
 0.0.0.0 prod.cms.coronavirusresources.phe.gov.uk
+0.0.0.0 prod.covid-19-bot.org
 0.0.0.0 prod.faq-covid19.10p.ch
 0.0.0.0 prodottianticovid19.it
 0.0.0.0 prodottianticovid.com
@@ -107194,6 +107197,7 @@
 0.0.0.0 staging.covid19.akirahealth.ca
 0.0.0.0 staging.covid19api.com
 0.0.0.0 staging.covid-19.beecan.org
+0.0.0.0 staging.covid-19-bot.org
 0.0.0.0 staging.covid19dataproject.org
 0.0.0.0 staging.covid-19.dnastack.com
 0.0.0.0 staging.covid19employeescreen.com
