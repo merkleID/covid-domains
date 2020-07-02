@@ -58752,6 +58752,7 @@
 0.0.0.0 covid19.staging.guardian.ng
 0.0.0.0 covid-19-staging.readcube.com
 0.0.0.0 covid19-staging.readcube.com
+0.0.0.0 covid-19-staging.riskline.com
 0.0.0.0 covid-19-staging.sennalabs.com
 0.0.0.0 covid-19-staging.tacc.utexas.edu
 0.0.0.0 covid19.stals.com.au
@@ -89461,6 +89462,7 @@
 0.0.0.0 imfcovid.org
 0.0.0.0 imfusion-manager-api.staging.covid19.robovision.ai
 0.0.0.0 imfusion-renderer-01.australia.imagingcovid19ai.robovision.ai
+0.0.0.0 imfusion-renderer-02.covid19demo.singapore.robovision.ai
 0.0.0.0 imfusion-renderer-777.staging.covid19.robovision.ai
 0.0.0.0 imfusion-renderer-888.staging.covid19.robovision.ai
 0.0.0.0 imfusion-renderer-form-2-6.staging.covid19.robovision.ai
