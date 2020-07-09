@@ -96,11 +96,15 @@
 0.0.0.0 15mincovid19test.com
 0.0.0.0 15mincovid.com
 0.0.0.0 15mincovidtest.com
+0.0.0.0 15mincovidtesting.com
 0.0.0.0 15mincovidtestkit.com
 0.0.0.0 15mintestcoronavirus.com
 0.0.0.0 15-minutecoronavirustest.com
 0.0.0.0 15minutecoronavirustest.com
+0.0.0.0 15minutecovid-19rapidtest.com
+0.0.0.0 15minutecovid19rapidtest.com
 0.0.0.0 15-minutecovid-19test.com
+0.0.0.0 15minutecovid-19test.com
 0.0.0.0 15minutecovid19test.com
 0.0.0.0 15minutecovidtest.com
 0.0.0.0 15minutecovidtesting.com
@@ -545,9 +549,117 @@
 0.0.0.0 3dprint-vs-pandemic.com
 0.0.0.0 3f2feb80.test.covid-19.forms.digital.nhs.uk
 0.0.0.0 3.infocovid-19.ru
+0.0.0.0 3m8210covid-19respirator.com
+0.0.0.0 3m8210covid19respirator.com
+0.0.0.0 3m8210covid-19respirators.com
+0.0.0.0 3m8210covid19respirators.com
+0.0.0.0 3m8210covidrespirator.com
+0.0.0.0 3m8210covidrespirators.com
 0.0.0.0 3mcoronavirus.com
+0.0.0.0 3mcovid-198210respirator.com
+0.0.0.0 3mcovid198210respirator.com
+0.0.0.0 3mcovid-198210respirators.com
+0.0.0.0 3mcovid198210respirators.com
 0.0.0.0 3m-covid19.center
+0.0.0.0 3mcovid-19facemask.com
+0.0.0.0 3mcovid19facemask.com
+0.0.0.0 3mcovid-19facemasks.com
+0.0.0.0 3mcovid19facemasks.com
+0.0.0.0 3mcovid-19filter.com
+0.0.0.0 3mcovid19filter.com
+0.0.0.0 3mcovid-19filters.com
+0.0.0.0 3mcovid19filters.com
+0.0.0.0 3mcovid-19mask.com
+0.0.0.0 3mcovid19mask.com
+0.0.0.0 3mcovid-19maskfilter.com
+0.0.0.0 3mcovid19maskfilter.com
+0.0.0.0 3mcovid-19maskfilters.com
+0.0.0.0 3mcovid19maskfilters.com
+0.0.0.0 3mcovid-19masks.com
+0.0.0.0 3mcovid19masks.com
+0.0.0.0 3mcovid-19medical.com
+0.0.0.0 3mcovid19medical.com
+0.0.0.0 3mcovid-19medicalmask.com
+0.0.0.0 3mcovid19medicalmask.com
+0.0.0.0 3mcovid-19medicalmasks.com
+0.0.0.0 3mcovid19medicalmasks.com
+0.0.0.0 3mcovid-19medicals.com
+0.0.0.0 3mcovid19medicals.com
+0.0.0.0 3mcovid-19n95.com
+0.0.0.0 3mcovid19n95.com
+0.0.0.0 3mcovid-19n95mask.com
+0.0.0.0 3mcovid19n95mask.com
+0.0.0.0 3mcovid-19n95masks.com
+0.0.0.0 3mcovid19n95masks.com
+0.0.0.0 3mcovid-19n95respirator.com
+0.0.0.0 3mcovid19n95respirator.com
+0.0.0.0 3mcovid-19n95respirators.com
+0.0.0.0 3mcovid19n95respirators.com
+0.0.0.0 3mcovid-19n95s.com
+0.0.0.0 3mcovid19n95s.com
+0.0.0.0 3mcovid-19protection.com
+0.0.0.0 3mcovid19protection.com
+0.0.0.0 3mcovid-19protections.com
+0.0.0.0 3mcovid19protections.com
+0.0.0.0 3mcovid-19respirator.com
+0.0.0.0 3mcovid19respirator.com
+0.0.0.0 3mcovid-19respiratorfilter.com
+0.0.0.0 3mcovid19respiratorfilter.com
+0.0.0.0 3mcovid-19respiratorfilters.com
+0.0.0.0 3mcovid19respiratorfilters.com
+0.0.0.0 3mcovid-19respiratormask.com
+0.0.0.0 3mcovid19respiratormask.com
+0.0.0.0 3mcovid-19respiratormasks.com
+0.0.0.0 3mcovid19respiratormasks.com
+0.0.0.0 3mcovid-19respirators.com
+0.0.0.0 3mcovid19respirators.com
+0.0.0.0 3mcovid8210respirator.com
+0.0.0.0 3mcovid8210respirators.com
+0.0.0.0 3mcovidfacemask.com
+0.0.0.0 3mcovidfacemasks.com
+0.0.0.0 3mcovidfilter.com
+0.0.0.0 3mcovidfilters.com
+0.0.0.0 3mcovidmask.com
+0.0.0.0 3mcovidmaskfilter.com
+0.0.0.0 3mcovidmaskfilters.com
+0.0.0.0 3mcovidmasks.com
+0.0.0.0 3mcovidmedical.com
+0.0.0.0 3mcovidmedicalmask.com
+0.0.0.0 3mcovidmedicalmasks.com
+0.0.0.0 3mcovidmedicals.com
+0.0.0.0 3mcovidn95.com
+0.0.0.0 3mcovidn95mask.com
+0.0.0.0 3mcovidn95masks.com
+0.0.0.0 3mcovidn95respirator.com
+0.0.0.0 3mcovidn95respirators.com
+0.0.0.0 3mcovidn95s.com
+0.0.0.0 3mcovidprotection.com
+0.0.0.0 3mcovidprotections.com
+0.0.0.0 3mcovidrespirator.com
+0.0.0.0 3mcovidrespiratorfilter.com
+0.0.0.0 3mcovidrespiratorfilters.com
+0.0.0.0 3mcovidrespiratormask.com
+0.0.0.0 3mcovidrespiratormasks.com
+0.0.0.0 3mcovidrespirators.com
 0.0.0.0 3mincovid.com
+0.0.0.0 3mmedicalcovid-19mask.com
+0.0.0.0 3mmedicalcovid19mask.com
+0.0.0.0 3mmedicalcovid-19masks.com
+0.0.0.0 3mmedicalcovid19masks.com
+0.0.0.0 3mmedicalcovidmask.com
+0.0.0.0 3mmedicalcovidmasks.com
+0.0.0.0 3mn95covid-19mask.com
+0.0.0.0 3mn95covid19mask.com
+0.0.0.0 3mn95covid-19masks.com
+0.0.0.0 3mn95covid19masks.com
+0.0.0.0 3mn95covid-19respirator.com
+0.0.0.0 3mn95covid19respirator.com
+0.0.0.0 3mn95covid-19respirators.com
+0.0.0.0 3mn95covid19respirators.com
+0.0.0.0 3mn95covidmask.com
+0.0.0.0 3mn95covidmasks.com
+0.0.0.0 3mn95covidrespirator.com
+0.0.0.0 3mn95covidrespirators.com
 0.0.0.0 3m-n95mask-covid19.com
 0.0.0.0 3plycovid19masks.com
 0.0.0.0 3secureaccount-facebookcovid19petition.ga
@@ -1592,6 +1704,7 @@
 0.0.0.0 agressivecovidlawyer.com
 0.0.0.0 agrifoodbeatscoronavirus.com
 0.0.0.0 agrifoodbeatscoronavirus.es
+0.0.0.0 agrobotigacovides.com
 0.0.0.0 agro-covid19.com
 0.0.0.0 agrocovid19.com
 0.0.0.0 aguardientecoronado.com
@@ -2321,6 +2434,7 @@
 0.0.0.0 anoroc-against-corona.com
 0.0.0.0 anorocagainstcorona.com
 0.0.0.0 anothercovid19plot.altervista.org
+0.0.0.0 anothercovid19report.com
 0.0.0.0 anothercovidiot.com
 0.0.0.0 anothertypeofcovidvirus.com
 0.0.0.0 anovelcoronavirus.com
@@ -3254,6 +3368,7 @@
 0.0.0.0 api.wpcovid19.com
 0.0.0.0 aplausoscovid-19.com
 0.0.0.0 aplecoronavirus.com
+0.0.0.0 aplicacionhistorialclinicocovidhonduras.com
 0.0.0.0 aplicovid.com
 0.0.0.0 aplicovid.net
 0.0.0.0 aplikasi-covid19.buolkab.online
@@ -3490,6 +3605,8 @@
 0.0.0.0 arcovidhelp.com
 0.0.0.0 arcovidoutreach.com
 0.0.0.0 arcovidtest.com
+0.0.0.0 arcovidvaccine.com
+0.0.0.0 arcovidvaccineinitiative.com
 0.0.0.0 arducovid.com
 0.0.0.0 ardwickcoronavirushelp.org
 0.0.0.0 areacovidfree.com
@@ -3538,6 +3655,8 @@
 0.0.0.0 arizonacoronavirusdeaths.com
 0.0.0.0 arizonacoronaviruslawyer.com
 0.0.0.0 arizonacoronavirusrelief.com
+0.0.0.0 arizonacovidclean.com
+0.0.0.0 arizonacovidcleaning.com
 0.0.0.0 arizonacovid.com
 0.0.0.0 arizonacovidtesting.com
 0.0.0.0 arkansaacovid.com
@@ -3554,6 +3673,8 @@
 0.0.0.0 arkansascovidlabs.com
 0.0.0.0 arkansascovidresearch.com
 0.0.0.0 arkansascovidtesting.com
+0.0.0.0 arkansascovidvaccine.com
+0.0.0.0 arkansascovidvaccineinitiative.com
 0.0.0.0 arkcovid.com
 0.0.0.0 arkofthecovid.net
 0.0.0.0 arlingtoncoronavirus.com
@@ -4303,6 +4424,7 @@
 0.0.0.0 ayudacovidcr.com
 0.0.0.0 ayudacrisiscovid19.com
 0.0.0.0 ayudadecoronavirus.com
+0.0.0.0 ayudadelvallecovid.com
 0.0.0.0 ayudaeconomicacovid19.com
 0.0.0.0 ayudaempresascoronavirus.com
 0.0.0.0 ayudaespiritualcovid.com
@@ -4354,6 +4476,8 @@
 0.0.0.0 azcoronavirushelp.com
 0.0.0.0 azcoronavirusloan.com
 0.0.0.0 azcoronavirusloans.com
+0.0.0.0 azcovid19clean.com
+0.0.0.0 azcovid19cleaning.com
 0.0.0.0 az-covid19.com
 0.0.0.0 azcovid-19.com
 0.0.0.0 azcovid19.com
@@ -4625,6 +4749,7 @@
 0.0.0.0 bayareacoronavirusrelief.com
 0.0.0.0 bayareacovid19clean.com
 0.0.0.0 bayareacovid19cleaning.com
+0.0.0.0 bayareacovid19testing.com
 0.0.0.0 bayareacovidbusinessinteruption.com
 0.0.0.0 bayareacovidcleaning.com
 0.0.0.0 bayareakindnesspandemic.com
@@ -5352,6 +5477,7 @@
 0.0.0.0 bioseguridadcovid-19.com
 0.0.0.0 bioseguridadcovid19.com
 0.0.0.0 bioseguridadcovid.com
+0.0.0.0 biosphere-pandemics.com
 0.0.0.0 biosynex-testcovid19.com
 0.0.0.0 biotechcovid19.com
 0.0.0.0 biotechcovid19limpieza.com
@@ -5591,6 +5717,7 @@
 0.0.0.0 bollettinocoronavirus.com
 0.0.0.0 bollettinocoronavirus.it
 0.0.0.0 bollywoodcorona.com
+0.0.0.0 bolsonarocoronavirus.com
 0.0.0.0 bombcorona.com
 0.0.0.0 bondowosocovid.com
 0.0.0.0 bonnetandcovid-19chronicles.com
@@ -5804,6 +5931,7 @@
 0.0.0.0 brochure.ost-covid19.com
 0.0.0.0 brokefromcorona.com
 0.0.0.0 brokefromcovid.com
+0.0.0.0 brokeoncovid.com
 0.0.0.0 brokerofdomainscovid19.com
 0.0.0.0 bronxcoronavirusattorney.com
 0.0.0.0 bronxcovid19.com
@@ -5860,6 +5988,7 @@
 0.0.0.0 bucksheraldcovidguide.com
 0.0.0.0 buckshunterdoncovidguide.com
 0.0.0.0 bucoronacleaner.com
+0.0.0.0 budesonideforcovid19.com
 0.0.0.0 buenaspracticascovid19.udc.edu.ar
 0.0.0.0 buffalocoronabusters.com
 0.0.0.0 buffalocoronavirus.com
@@ -6205,6 +6334,7 @@
 0.0.0.0 ca.coronavirusdating.com
 0.0.0.0 cacoronavirushelp.com
 0.0.0.0 cacoronavirustest.com
+0.0.0.0 cacovid19cahealthinfo.com
 0.0.0.0 cacovid-19cases.com
 0.0.0.0 cacovid19claims.com
 0.0.0.0 cacovid-19.com
@@ -6554,6 +6684,7 @@
 0.0.0.0 canigetcovid.com
 0.0.0.0 canihelpduringcovid19.com
 0.0.0.0 caninecoronavirus.com
+0.0.0.0 caninecovid.com
 0.0.0.0 caninecoviddetection.com
 0.0.0.0 caninesagainstcovid.com
 0.0.0.0 caninesforcovid.com
@@ -7435,6 +7566,7 @@
 0.0.0.0 cheerscorona.com
 0.0.0.0 cheerscovidfree.com
 0.0.0.0 cheerstocorona.com
+0.0.0.0 chefcollectiveforcovid.com
 0.0.0.0 chefsbeatcorona.com
 0.0.0.0 chefsbeatcorona.net
 0.0.0.0 chekcovid19.com
@@ -7930,6 +8062,7 @@
 0.0.0.0 clean4covid.com
 0.0.0.0 cleanaftercovid.com
 0.0.0.0 cleanaircovid19.com
+0.0.0.0 cleanarizonacovid19.com
 0.0.0.0 cleanautocovid19.biz
 0.0.0.0 cleanautocovid19.com
 0.0.0.0 cleanautocovid19.net
@@ -8006,6 +8139,7 @@
 0.0.0.0 cleanmycovid.com
 0.0.0.0 cleanofcovid.com
 0.0.0.0 cleanpandemicdata.com
+0.0.0.0 cleanphoenixcovid19.com
 0.0.0.0 cleanscorona.com
 0.0.0.0 cleansecorona.com
 0.0.0.0 cleansecovid19.com
@@ -8057,6 +8191,7 @@
 0.0.0.0 clearofcovid19.com
 0.0.0.0 clearof-covid.com
 0.0.0.0 clearofcovid.com
+0.0.0.0 clearpandemicsolutions.com
 0.0.0.0 clearreadcovidimaging.com
 0.0.0.0 clearreadcovidtracking.com
 0.0.0.0 cleartogocovid-19.com
@@ -8561,6 +8696,7 @@
 0.0.0.0 comicsforcoronavirus.com
 0.0.0.0 comicsovercorona.com
 0.0.0.0 comingbackfromcovid19.com
+0.0.0.0 comingbackfromcovid.com
 0.0.0.0 comingoutofcorona.com
 0.0.0.0 comingoutofcovid.com
 0.0.0.0 comingoutofcovidnow.com
@@ -11491,6 +11627,7 @@
 0.0.0.0 coronacleanersca.com
 0.0.0.0 coronacleanerscacom.com
 0.0.0.0 corona-cleaners.com
+0.0.0.0 coronacleanerscomplete.com
 0.0.0.0 coronacleanersct.com
 0.0.0.0 coronacleanersma.com
 0.0.0.0 coronacleaners.net
@@ -11702,6 +11839,7 @@
 0.0.0.0 coronaclubs.com
 0.0.0.0 corona-clues.com
 0.0.0.0 coronaclues.com
+0.0.0.0 corona-cluster.com
 0.0.0.0 coronacluster.com
 0.0.0.0 coronaclusters.com
 0.0.0.0 coronaclutter.com
@@ -13318,6 +13456,7 @@
 0.0.0.0 coronadoscleaning.com
 0.0.0.0 coronadosea.com
 0.0.0.0 coronadose.com
+0.0.0.0 coronadoshell1.com
 0.0.0.0 coronadoshorescompany.com
 0.0.0.0 coronado-shores-condos.com
 0.0.0.0 coronadoshores-condos.com
@@ -13897,6 +14036,7 @@
 0.0.0.0 coronafior.com
 0.0.0.0 coronafirebarrier.com
 0.0.0.0 coronafirefighter.com
+0.0.0.0 coronafirefighters.com
 0.0.0.0 coronafirewall.com
 0.0.0.0 corona-firmen-hilfe.com
 0.0.0.0 coronafirst.com
@@ -14088,6 +14228,7 @@
 0.0.0.0 coronafreecanada.com
 0.0.0.0 coronafreecaregivers.com
 0.0.0.0 coronafreecash.com
+0.0.0.0 coronafreecertificate.com
 0.0.0.0 coronafreecertification.com
 0.0.0.0 coronafreecheck.com
 0.0.0.0 coronafreechennai.com
@@ -14965,6 +15106,7 @@
 0.0.0.0 coronahilfe.net
 0.0.0.0 coronahilfen.info
 0.0.0.0 corona-hilfen.net
+0.0.0.0 coronahilfe-steuerberater.berlin
 0.0.0.0 corona-hilfe.tips
 0.0.0.0 coronahilfe.tirol
 0.0.0.0 corona-hilfe-versuch.com
@@ -15319,6 +15461,7 @@
 0.0.0.0 coronaindependence.com
 0.0.0.0 coronaindiacases.com
 0.0.0.0 corona-india.com
+0.0.0.0 coronaindiaforum.com
 0.0.0.0 coronaindiahelpline.com
 0.0.0.0 coronaindialaw.com
 0.0.0.0 coronaindia.life
@@ -15595,6 +15738,7 @@
 0.0.0.0 coronaisover.com
 0.0.0.0 coronaisoverrated.com
 0.0.0.0 corona-israel.com
+0.0.0.0 corona-israelpost.com
 0.0.0.0 coronaisreal.com
 0.0.0.0 coronaissance2020.com
 0.0.0.0 coronaissance.com
@@ -16392,6 +16536,7 @@
 0.0.0.0 coronalives.net
 0.0.0.0 coronalivesstats.info
 0.0.0.0 coronalivestatus.com
+0.0.0.0 corona-livestream.com
 0.0.0.0 coronalivestream.com
 0.0.0.0 coronalivestreamconcerts.com
 0.0.0.0 coronalivetest.com
@@ -16967,6 +17112,8 @@
 0.0.0.0 corona-meine-stadt.com
 0.0.0.0 corona-meinestadt.com
 0.0.0.0 coronamekilukecilasu.com
+0.0.0.0 coronamelder.app
+0.0.0.0 coronamelder.art
 0.0.0.0 coronamelder.com
 0.0.0.0 coronamelongtime.com
 0.0.0.0 coronamelongtime.net
@@ -17487,6 +17634,7 @@
 0.0.0.0 coronanimakenai.com
 0.0.0.0 coronanimakenai.net
 0.0.0.0 corona-ni-makeruna.com
+0.0.0.0 coronanimakeruna.com
 0.0.0.0 corona-ni-makeruna.net
 0.0.0.0 coronanime.com
 0.0.0.0 coronanineteen.com
@@ -19563,6 +19711,7 @@
 0.0.0.0 corona-serum.com
 0.0.0.0 corona-service.center
 0.0.0.0 corona-service.com
+0.0.0.0 corona-services.com
 0.0.0.0 coronaservicesfl.com
 0.0.0.0 coronaservicesgroup.com
 0.0.0.0 coronaservicesusa.com
@@ -19580,6 +19729,7 @@
 0.0.0.0 coronasexxx.com
 0.0.0.0 coronasfahion.com
 0.0.0.0 coronasfunebresguadalajara.com
+0.0.0.0 coronasfuneral.com
 0.0.0.0 coronasfunerarias.madrid
 0.0.0.0 coronasgo.com
 0.0.0.0 coronasgottalent.com
@@ -21046,6 +21196,7 @@
 0.0.0.0 coronatizing.com
 0.0.0.0 coronatko.com
 0.0.0.0 coronatlas.com
+0.0.0.0 coronatled.com
 0.0.0.0 corona-tlv.com
 0.0.0.0 coronatm.com
 0.0.0.0 coronatoast.com
@@ -21933,6 +22084,7 @@
 0.0.0.0 coronavirnews.com
 0.0.0.0 coronaviro.com
 0.0.0.0 coronavirologia.com
+0.0.0.0 coronavirologist.com
 0.0.0.0 coronavirosnow.com
 0.0.0.0 coronavirousantibodies.com
 0.0.0.0 coronavirousantibodiestest.com
@@ -21990,6 +22142,7 @@
 0.0.0.0 coronaviruesnewsnow.com
 0.0.0.0 coronavirues.world
 0.0.0.0 coronaviruhelp.com
+0.0.0.0 coronaviruhomeschooling.com
 0.0.0.0 coronaviruinusa.com
 0.0.0.0 coronaviruinus.com
 0.0.0.0 coronaviruis.com
@@ -31000,6 +31153,7 @@
 0.0.0.0 coronavirusnearme.net
 0.0.0.0 coronavirusnearyou.com
 0.0.0.0 coronavirusnebraska.com
+0.0.0.0 coronavirusnebulizer.com
 0.0.0.0 coronavirus.nebulova.es
 0.0.0.0 coronavirusnecessities.com
 0.0.0.0 coronavirusnecessity.com
@@ -37154,6 +37308,7 @@
 0.0.0.0 coronovirus-covid19.com
 0.0.0.0 corporatecovid19test.com
 0.0.0.0 corporatecovidclean.com
+0.0.0.0 corporatecovid.com
 0.0.0.0 corporatepandemicconsulting.com
 0.0.0.0 corpuschristicovid19.com
 0.0.0.0 corpus.covid19.semantiweb.com
@@ -37556,6 +37711,7 @@
 0.0.0.0 covid1984.mobilewebexpert.co.uk
 0.0.0.0 covid-1984.net
 0.0.0.0 covid1984.net
+0.0.0.0 covid1984now.com
 0.0.0.0 covid1984watch.com
 0.0.0.0 covid1984.wtf
 0.0.0.0 covid19.85supply.com
@@ -38230,6 +38386,7 @@
 0.0.0.0 covid19-analysis.rc.fas.harvard.edu
 0.0.0.0 covid19analysistest.now.sh
 0.0.0.0 covid19.analysons.com
+0.0.0.0 covid19analyst.com
 0.0.0.0 covid19analysts.com
 0.0.0.0 covid19analytica.com
 0.0.0.0 covid19analytic.com
@@ -39948,6 +40105,7 @@
 0.0.0.0 covid19book.com
 0.0.0.0 covid19booking.com
 0.0.0.0 covid19-booking.site
+0.0.0.0 covid-19-bookmarks.com
 0.0.0.0 covid-19books.com
 0.0.0.0 covid19books.com
 0.0.0.0 covid19booksource.com
@@ -40769,6 +40927,7 @@
 0.0.0.0 covid-19carepackage.com
 0.0.0.0 covid19carepackage.com
 0.0.0.0 covid19carepackages.com
+0.0.0.0 covid19carepacks.com
 0.0.0.0 covid19care.pineapplegroup.com
 0.0.0.0 covid19.carepirates.com
 0.0.0.0 covid19.carepirates.co.uk
@@ -41654,6 +41813,7 @@
 0.0.0.0 covid19cleaningalbuquerque.com
 0.0.0.0 covid19cleaningandprevention.com
 0.0.0.0 covid-19cleaningar.com
+0.0.0.0 covid19cleaningarizona.com
 0.0.0.0 covid-19cleaningarkansas.com
 0.0.0.0 covid19cleaningaustin.com
 0.0.0.0 covid19cleaningaz.com
@@ -42945,6 +43105,7 @@
 0.0.0.0 covid-19.credit
 0.0.0.0 covid19.credit
 0.0.0.0 covid19creditcase.com
+0.0.0.0 covid-19credit.com
 0.0.0.0 covid19-credit.com
 0.0.0.0 covid19creditdisputes.com
 0.0.0.0 covid19creditexpert.com
@@ -43155,6 +43316,7 @@
 0.0.0.0 covid19curevac.com
 0.0.0.0 covid19curevac.net
 0.0.0.0 covid19cure.xyz
+0.0.0.0 covid19curfew.com
 0.0.0.0 covid19.curium.jp
 0.0.0.0 covid19currentinfo.com
 0.0.0.0 covid-19.currentjobsnews.com
@@ -45000,6 +45162,8 @@
 0.0.0.0 covid19employeelawsuits.com
 0.0.0.0 covid19employeelawsuitscom.com
 0.0.0.0 covid19employeeprotection.com
+0.0.0.0 covid-19employeerapidtest.com
+0.0.0.0 covid19employeerapidtest.com
 0.0.0.0 covid-19employeereliefclassaction.com
 0.0.0.0 covid-19employeereliefclassaction.net
 0.0.0.0 covid19employeescreen.com
@@ -45737,6 +45901,7 @@
 0.0.0.0 covid-19fasttest.com
 0.0.0.0 covid19-fasttest.com
 0.0.0.0 covid19fasttest.com
+0.0.0.0 covid19fasttesting.com
 0.0.0.0 covid19fasttest.net
 0.0.0.0 covid19fasttestt.com
 0.0.0.0 covid19fastvax.com
@@ -47008,6 +47173,7 @@
 0.0.0.0 covid19.goldbaka.com
 0.0.0.0 covid19.goldentime.pk
 0.0.0.0 covid19goldrush.com
+0.0.0.0 covid19goldstarfamlies.com
 0.0.0.0 covid19.goleaddigital.com
 0.0.0.0 covid-19.golf
 0.0.0.0 covid19.golf
@@ -47472,6 +47638,7 @@
 0.0.0.0 covid19.hashstudio.ir
 0.0.0.0 covid19.hash-tech.co.uk
 0.0.0.0 covid-19.hasimajak.in
+0.0.0.0 covid19haskilledmoreamericansthan.com
 0.0.0.0 covid-19hat.com
 0.0.0.0 covid19hat.com
 0.0.0.0 covid19.haternagale.com
@@ -47801,6 +47968,7 @@
 0.0.0.0 covid19.help-medservice.ru
 0.0.0.0 covid-19.helpmedx.com
 0.0.0.0 covid19help.nashikcitypolice.gov.in
+0.0.0.0 covid19helpneeded.com
 0.0.0.0 covid-19help.net
 0.0.0.0 covid19-help.net
 0.0.0.0 covid-19helpnetwork.com
@@ -48750,6 +48918,7 @@
 0.0.0.0 covid19-ims.info-aid.net
 0.0.0.0 covid19.ims-sol.com
 0.0.0.0 covid19imt.garp.sandbox.jxeeno.com
+0.0.0.0 covid19imune.com
 0.0.0.0 covid19imunologiaclinica.com.br
 0.0.0.0 covid-19in2020.com
 0.0.0.0 covid19in2020.com
@@ -49099,6 +49268,7 @@
 0.0.0.0 covid19ingreece.com
 0.0.0.0 covid19.ing.uc.cl
 0.0.0.0 covid-19.ingushetia.ru
+0.0.0.0 covid-19inhaler.com
 0.0.0.0 covid19inhaler.com
 0.0.0.0 covid19inhibitor.com
 0.0.0.0 covid19inhibitors.com
@@ -50199,6 +50369,7 @@
 0.0.0.0 covid19.kox.kr
 0.0.0.0 covid19.kozow.com
 0.0.0.0 covid19.kpb.us
+0.0.0.0 covid19kpis.com
 0.0.0.0 covid19kpolom.com
 0.0.0.0 covid19-krasnoyarsk.ru
 0.0.0.0 covid19kratom.com
@@ -50354,6 +50525,7 @@
 0.0.0.0 covid19laredo.com
 0.0.0.0 covid19.lasalle.edu.sg
 0.0.0.0 covid19lascruces.com
+0.0.0.0 covid19laser.com
 0.0.0.0 covid19.laserwebmaker.com
 0.0.0.0 covid19.la-spa.fr
 0.0.0.0 covid19lasseube.com
@@ -53060,6 +53232,7 @@
 0.0.0.0 covid19neb.com
 0.0.0.0 covid19nebraska.com
 0.0.0.0 covid19.nebulartech.com
+0.0.0.0 covid19nebulizer.com
 0.0.0.0 covid19necessities.com
 0.0.0.0 covid19necessity.com
 0.0.0.0 covid19ne.club
@@ -55960,6 +56133,7 @@
 0.0.0.0 covid19.ramglobal.com
 0.0.0.0 covid19.ranchomirageca.gov
 0.0.0.0 covid19.ranchueleros-unidos.com
+0.0.0.0 covid-19rank.com
 0.0.0.0 covid19rank.com
 0.0.0.0 covid-19.rankfoundry.com
 0.0.0.0 covid19ranking.com
@@ -56414,6 +56588,8 @@
 0.0.0.0 covid19reimbursement.com
 0.0.0.0 covid19reinfection.com
 0.0.0.0 covid19.reisen
+0.0.0.0 covid-19related.com
+0.0.0.0 covid19related.com
 0.0.0.0 covid19relations.com
 0.0.0.0 covid19relationships.com
 0.0.0.0 covid19relationships.org
@@ -56561,6 +56737,7 @@
 0.0.0.0 covid19relief.today
 0.0.0.0 covid-19relieftoday.com
 0.0.0.0 covid19relieftoday.com
+0.0.0.0 covid-19reliefund.com
 0.0.0.0 covid19reliefunds.com
 0.0.0.0 covid19reliefus.com
 0.0.0.0 covid19reliefuvc.com
@@ -57005,6 +57182,7 @@
 0.0.0.0 covid19-results.live
 0.0.0.0 covid19results.live
 0.0.0.0 covid19resultsonline.com
+0.0.0.0 covid19resultssfl.com
 0.0.0.0 covid-19resultssl.com
 0.0.0.0 covid19resultssl.com
 0.0.0.0 covid19resultstests.com
@@ -57013,6 +57191,7 @@
 0.0.0.0 covid19resulysfl.com
 0.0.0.0 covid19resume.com
 0.0.0.0 covid19resumes.com
+0.0.0.0 covid19resutsfl.com
 0.0.0.0 covid-19retail.com
 0.0.0.0 covid19retail.com
 0.0.0.0 covid19retailcommunicatie.be
@@ -57022,6 +57201,7 @@
 0.0.0.0 covid19retailpulselive.com
 0.0.0.0 covid19retailsecurity.com
 0.0.0.0 covid19retailsignage.com
+0.0.0.0 covid19retailsigns.com
 0.0.0.0 covid19retailsurvival.com
 0.0.0.0 covid19-retaliation.com
 0.0.0.0 covid19.rethinkmyhealthcare.com
@@ -57247,6 +57427,7 @@
 0.0.0.0 covid19rome.com
 0.0.0.0 covid19ronatees.com
 0.0.0.0 covid19roofer.com
+0.0.0.0 covid-19roofers.com
 0.0.0.0 covid19roofing.com
 0.0.0.0 covid19room.com
 0.0.0.0 covid19rooms.com
@@ -57547,6 +57728,7 @@
 0.0.0.0 covid-19safelawyers.com
 0.0.0.0 covid19safelisting.com
 0.0.0.0 covid19safelistingmethod.com
+0.0.0.0 covid19safelistingmethods.com
 0.0.0.0 covid19safelistings.com
 0.0.0.0 covid19safeliving.com
 0.0.0.0 covid19safelvac.fitness
@@ -59435,9 +59617,12 @@
 0.0.0.0 covid19stamps.com
 0.0.0.0 covid-19stamps.org
 0.0.0.0 covid19stamps.org
+0.0.0.0 covid19stance.com
 0.0.0.0 covid19standard.com
 0.0.0.0 covid19standards.com
 0.0.0.0 covid19stand.com
+0.0.0.0 covid-19standing.com
+0.0.0.0 covid19standing.com
 0.0.0.0 covid-19.staproko.com
 0.0.0.0 covid19.starboxtech.com
 0.0.0.0 covid19star.com
@@ -59797,6 +59982,9 @@
 0.0.0.0 covid19strains.com
 0.0.0.0 covid19stranded.com
 0.0.0.0 covid-19.strangebugs.com
+0.0.0.0 covid-19strategicplan.com
+0.0.0.0 covid-19strategicplanning.com
+0.0.0.0 covid-19strategicplans.com
 0.0.0.0 covid19strategiesforbusiness.com
 0.0.0.0 covid-19-strategy.com
 0.0.0.0 covid-19strategy.com
@@ -63475,6 +63663,7 @@
 0.0.0.0 covid19virusupdate.net
 0.0.0.0 covid19-virusupdates.com
 0.0.0.0 covid19virusupdates.com
+0.0.0.0 covid19virusupdatesindia.com
 0.0.0.0 covid19virusupdate.world
 0.0.0.0 covid19virusupplies.com
 0.0.0.0 covid19virusus.com
@@ -64516,6 +64705,7 @@
 0.0.0.0 covid-1nine.com
 0.0.0.0 covid1nine.com
 0.0.0.0 covid1ninevaccine.com
+0.0.0.0 covid1resultsfl.com
 0.0.0.0 covid1st.com
 0.0.0.0 covid1stresponder.com
 0.0.0.0 covid1stresponders.com
@@ -64866,6 +65056,7 @@
 0.0.0.0 covid20.world
 0.0.0.0 covid20world.com
 0.0.0.0 covid-20.wtf
+0.0.0.0 covid219vacc.com
 0.0.0.0 covid21a.com
 0.0.0.0 covid21b.com
 0.0.0.0 covid21.biz
@@ -65302,6 +65493,7 @@
 0.0.0.0 covidagreement.com
 0.0.0.0 covidagreements.com
 0.0.0.0 covidaguard.com
+0.0.0.0 covidahn.com
 0.0.0.0 covidaho.com
 0.0.0.0 covidahome.com
 0.0.0.0 covidahq.com
@@ -65572,6 +65764,7 @@
 0.0.0.0 covidantibodytestingkit.com
 0.0.0.0 covidantibodytestingkits.com
 0.0.0.0 covidantibodytestinglabs.com
+0.0.0.0 covidantibodytestingnearme.com
 0.0.0.0 covidantibodytesting.net
 0.0.0.0 covidantibodytestingnow.com
 0.0.0.0 covidantibodytestingonthego.com
@@ -65584,6 +65777,7 @@
 0.0.0.0 covidantibodytestusa.com
 0.0.0.0 covidantibodytherapy.com
 0.0.0.0 covidantibodywristband.com
+0.0.0.0 covidantichrist.com
 0.0.0.0 covid-anti.com
 0.0.0.0 covidanti.com
 0.0.0.0 covidantidote.com
@@ -66058,6 +66252,7 @@
 0.0.0.0 covidbasket.com
 0.0.0.0 covidbat.com
 0.0.0.0 covidbatcrazy.com
+0.0.0.0 covidbatle.com
 0.0.0.0 covidbats.com
 0.0.0.0 covidbatshitcrazy.com
 0.0.0.0 covid-battle.com
@@ -66259,6 +66454,7 @@
 0.0.0.0 covidblocker.org
 0.0.0.0 covidblockers.com
 0.0.0.0 covidblockparty.com
+0.0.0.0 covidblockteam.com
 0.0.0.0 covidblog.club
 0.0.0.0 covid-blog.com
 0.0.0.0 covidblog.com
@@ -66370,6 +66566,7 @@
 0.0.0.0 covidbracelets.com
 0.0.0.0 covidbracelets.net
 0.0.0.0 covidbrain.com
+0.0.0.0 covidbrainhealing.com
 0.0.0.0 covidbrain.net
 0.0.0.0 covidbrainrx.com
 0.0.0.0 covidbrains.com
@@ -66704,6 +66901,7 @@
 0.0.0.0 covidcanada.com
 0.0.0.0 covidcanadaupdate.com
 0.0.0.0 covidcanarias.com
+0.0.0.0 covidcanaries.com
 0.0.0.0 covidcanary.com
 0.0.0.0 covidcancelations.com
 0.0.0.0 covidcanceled.com
@@ -66715,7 +66913,9 @@
 0.0.0.0 covidcancerguide.com
 0.0.0.0 covidcandidsatl.com
 0.0.0.0 covidcandids.com
+0.0.0.0 covidcandleco.com
 0.0.0.0 covidcandle.com
+0.0.0.0 covidcandlecompany.com
 0.0.0.0 covidcandles.com
 0.0.0.0 covidcandor.com
 0.0.0.0 covidcandy.com
@@ -66779,6 +66979,7 @@
 0.0.0.0 covidcardiologycare.com
 0.0.0.0 covidcard.net
 0.0.0.0 covidcardprogram.com
+0.0.0.0 covidcards2020.com
 0.0.0.0 covid-cards.com
 0.0.0.0 covidcards.com
 0.0.0.0 covidcards.net
@@ -67003,6 +67204,7 @@
 0.0.0.0 covidcastofcharacters.com
 0.0.0.0 covidcasts.com
 0.0.0.0 covidcasual.com
+0.0.0.0 covidcasualities.com
 0.0.0.0 covidcasuality.com
 0.0.0.0 covidcasualties.com
 0.0.0.0 covidcasualty.com
@@ -67122,6 +67324,7 @@
 0.0.0.0 covidchaplain.com
 0.0.0.0 covidchapter13.com
 0.0.0.0 covidchapter7.com
+0.0.0.0 covidcharge.com
 0.0.0.0 covid-charities.com
 0.0.0.0 covidcharities.com
 0.0.0.0 covidcharitychallenge.com
@@ -67702,6 +67905,7 @@
 0.0.0.0 covidclearamerica.com
 0.0.0.0 covidclearance.com
 0.0.0.0 covidclear.biz
+0.0.0.0 covidclearcertification.com
 0.0.0.0 covidclearchoice.com
 0.0.0.0 covidclearcleaning.com
 0.0.0.0 covid-clear.com
@@ -67784,6 +67988,7 @@
 0.0.0.0 covidclinicaltrials.com
 0.0.0.0 covidclinicalupload.net
 0.0.0.0 covidclinicjobs.com
+0.0.0.0 covidclinicmarketing.com
 0.0.0.0 covidclinic.net
 0.0.0.0 covidclinicregistration.com
 0.0.0.0 covidclinicusa.com
@@ -68057,10 +68262,12 @@
 0.0.0.0 covidcompanycare.com
 0.0.0.0 covidcompanyscore.com
 0.0.0.0 covidcompanytest.com
+0.0.0.0 covidcompanytesting.com
 0.0.0.0 covidcompare.com
 0.0.0.0 covidcompared.com
 0.0.0.0 covidcomparer.com
 0.0.0.0 covidcomparison.com
+0.0.0.0 covidcomparisons.com
 0.0.0.0 covid-compass.com
 0.0.0.0 covidcompassion2020.com
 0.0.0.0 covidcompassion2020.net
@@ -68424,6 +68631,7 @@
 0.0.0.0 covidcookoff.com
 0.0.0.0 covidcookout.com
 0.0.0.0 covidcooks.com
+0.0.0.0 covidcool.biz
 0.0.0.0 covidcooler.com
 0.0.0.0 covidcoolers.com
 0.0.0.0 covidcoolio.com
@@ -68698,6 +68906,8 @@
 0.0.0.0 covidcrazies.com
 0.0.0.0 covidcraziness.com
 0.0.0.0 covidcraziness.net
+0.0.0.0 covidcrazy19.com
+0.0.0.0 covid-crazy.com
 0.0.0.0 covidcrazy.com
 0.0.0.0 covidcrazyhairchallenge.com
 0.0.0.0 covidcrazyidea.com
@@ -69572,9 +69782,11 @@
 0.0.0.0 covidecothings.com
 0.0.0.0 covidecuador.com
 0.0.0.0 covidecure.com
+0.0.0.0 covidedc19.com
 0.0.0.0 covid-edd-ca.com
 0.0.0.0 covided.info
 0.0.0.0 covidedmonton.com
+0.0.0.0 covidedstates.com
 0.0.0.0 covid.education
 0.0.0.0 covid-education.com
 0.0.0.0 covideducation.com
@@ -69905,6 +70117,7 @@
 0.0.0.0 covidescape.com
 0.0.0.0 covidescapes.com
 0.0.0.0 covidescapes.co.uk
+0.0.0.0 covidescrow.com
 0.0.0.0 covideserve.com
 0.0.0.0 covidesinfecciones.com
 0.0.0.0 covidesinfection.com
@@ -70037,6 +70250,7 @@
 0.0.0.0 covid-exposure.com
 0.0.0.0 covidexposure.com
 0.0.0.0 covidexposures.com
+0.0.0.0 covidexposuretracker.com
 0.0.0.0 covid.express
 0.0.0.0 covid-express.com
 0.0.0.0 covidexpress.com
@@ -71154,6 +71368,7 @@
 0.0.0.0 covidgoogle.com
 0.0.0.0 covidgotme.com
 0.0.0.0 covidgotmelike.com
+0.0.0.0 covidgotyoudown.com
 0.0.0.0 covidgougers.com
 0.0.0.0 covidgovassistance.com
 0.0.0.0 covidgovbill.com
@@ -71175,6 +71390,7 @@
 0.0.0.0 covidgrade.com
 0.0.0.0 covidgrader.com
 0.0.0.0 covidgradesanitizer.com
+0.0.0.0 covidgrades.com
 0.0.0.0 covidgrads2020.com
 0.0.0.0 covidgrads2020.info
 0.0.0.0 covidgrads2020.net
@@ -71438,6 +71654,7 @@
 0.0.0.0 covid-health-solutions.com
 0.0.0.0 covidhealthsupplies.com
 0.0.0.0 covidhealthsupply.com
+0.0.0.0 covidhealthsurvey.com
 0.0.0.0 covidhealthtest.com
 0.0.0.0 covidhealthtrack.com
 0.0.0.0 covidhealthy.com
@@ -71464,6 +71681,7 @@
 0.0.0.0 covidhelp2021.com
 0.0.0.0 covidhelp4heroes.com
 0.0.0.0 covidhelp4u.com
+0.0.0.0 covidhelp4us.com
 0.0.0.0 covidhelp4you.com
 0.0.0.0 covidhelpandtest.com
 0.0.0.0 covidhelparmy.com
@@ -71562,6 +71780,7 @@
 0.0.0.0 covidhero.foundation
 0.0.0.0 covidhero.fund
 0.0.0.0 covidherofund.com
+0.0.0.0 covidherogear.com
 0.0.0.0 covidherograms.com
 0.0.0.0 covidherohelp.com
 0.0.0.0 covidheroloan.com
@@ -71688,11 +71907,14 @@
 0.0.0.0 covidhomesafety.com
 0.0.0.0 covidhomesaleoffer.com
 0.0.0.0 covidhomeschool.com
+0.0.0.0 covidhomeschoolct.com
 0.0.0.0 covidhomeschoolers.com
 0.0.0.0 covidhomeschoolers.net
 0.0.0.0 covidhomeschooling.com
 0.0.0.0 covidhomeschooling.net
 0.0.0.0 covidhomeschool.net
+0.0.0.0 covidhomeschoolnj.com
+0.0.0.0 covidhomeschoolny.com
 0.0.0.0 covidhomes.com
 0.0.0.0 covidhomescreen.com
 0.0.0.0 covidhomescreening.com
@@ -72277,6 +72499,7 @@
 0.0.0.0 covidinstanttest.com
 0.0.0.0 covidinstanttesting.com
 0.0.0.0 covidinstanttests.com
+0.0.0.0 covidinstatest.com
 0.0.0.0 covid.institute
 0.0.0.0 covidinstrata.com
 0.0.0.0 covidinstyle.com
@@ -72813,6 +73036,7 @@
 0.0.0.0 covidkillga.com
 0.0.0.0 covid-killing.com
 0.0.0.0 covidkilling.com
+0.0.0.0 covidkillinglights.com
 0.0.0.0 covidkillingmachines.com
 0.0.0.0 covidkill.net
 0.0.0.0 covidkills.com
@@ -73114,6 +73338,7 @@
 0.0.0.0 covidlease.com
 0.0.0.0 covidleaserelief.com
 0.0.0.0 covidleave.com
+0.0.0.0 covidle.com
 0.0.0.0 covidlecture.com
 0.0.0.0 covidlectures.com
 0.0.0.0 covidled.com
@@ -73296,6 +73521,7 @@
 0.0.0.0 covidliving.com
 0.0.0.0 covidlivingessentials.com
 0.0.0.0 covidliving.net
+0.0.0.0 covidliyiz.biz
 0.0.0.0 covidlk.today
 0.0.0.0 covidllc.com
 0.0.0.0 covidllofake.buzz
@@ -74163,6 +74389,7 @@
 0.0.0.0 covidneayou.com
 0.0.0.0 covidneb.com
 0.0.0.0 covidnebraska.com
+0.0.0.0 covidnebulizer.com
 0.0.0.0 covidneccessities.com
 0.0.0.0 covid-necessities.com
 0.0.0.0 covidnecessities.com
@@ -74471,6 +74698,7 @@
 0.0.0.0 covidobits.com
 0.0.0.0 covidobituaries.com
 0.0.0.0 covidobituary.com
+0.0.0.0 covidobliterator.com
 0.0.0.0 covidoblivious.com
 0.0.0.0 covidobserver.com
 0.0.0.0 covidobstructor.com
@@ -74616,6 +74844,7 @@
 0.0.0.0 covidonlinestore.website
 0.0.0.0 covidonlinetest.com
 0.0.0.0 covidonlinetherapy.com
+0.0.0.0 covidonlinetutor.com
 0.0.0.0 covidonlinewellness.com
 0.0.0.0 covidonlineyardsale.com
 0.0.0.0 covidonly.com
@@ -75270,6 +75499,7 @@
 0.0.0.0 covidpregnancyproject.com
 0.0.0.0 covidpregnancyproject.net
 0.0.0.0 covidpregnant.com
+0.0.0.0 covidpregstudy.com
 0.0.0.0 covidpreneur.com
 0.0.0.0 covidpreneurs.com
 0.0.0.0 covidprenuer.com
@@ -75374,6 +75604,7 @@
 0.0.0.0 covidproductioncompliancecourse.com
 0.0.0.0 covid.productions
 0.0.0.0 covidproductions.com
+0.0.0.0 covidproductionservices.com
 0.0.0.0 covidproductivity.com
 0.0.0.0 covidproductonline.com
 0.0.0.0 covidproducts19.com
@@ -75558,6 +75789,7 @@
 0.0.0.0 covid-protect-pro.com
 0.0.0.0 covidprotects.com
 0.0.0.0 covidprotectshop.com
+0.0.0.0 covidprotectstore.com
 0.0.0.0 covidprotectsupplies.com
 0.0.0.0 covidprotectusa.com
 0.0.0.0 covidprotectus.com
@@ -75595,6 +75827,7 @@
 0.0.0.0 covidpsy.com
 0.0.0.0 covid-psyop.com
 0.0.0.0 covidpsyop.com
+0.0.0.0 covid-psyopexposeevil.com
 0.0.0.0 covidpsyop.info
 0.0.0.0 covidpt.com
 0.0.0.0 covidptgroup.com
@@ -76333,6 +76566,7 @@
 0.0.0.0 covidresporator.com
 0.0.0.0 covidress.com
 0.0.0.0 covidrestart.com
+0.0.0.0 covidrestaurantapp.com
 0.0.0.0 covidrestaurantfunding.com
 0.0.0.0 covidrestaurantgameplan.com
 0.0.0.0 covidrestaurantguidelines.com
@@ -76363,6 +76597,7 @@
 0.0.0.0 covidresultsprohealthcare.com
 0.0.0.0 covidresultstests.com
 0.0.0.0 covidresume.com
+0.0.0.0 covidresurgence.com
 0.0.0.0 covidretail.com
 0.0.0.0 covidretailproducts.com
 0.0.0.0 covidretailsignage.com
@@ -76693,6 +76928,7 @@
 0.0.0.0 covidsafeplace.com
 0.0.0.0 covidsafeplaces.com
 0.0.0.0 covidsafeplans.com
+0.0.0.0 covidsafeplaylists.com
 0.0.0.0 covidsafeppe.com
 0.0.0.0 covidsafepractice.com
 0.0.0.0 covidsafepractice.net
@@ -77102,6 +77338,7 @@
 0.0.0.0 covidsecur.com
 0.0.0.0 covidsecure21.com
 0.0.0.0 covidsecure.app
+0.0.0.0 covidsecureapp.com
 0.0.0.0 covidsecure.biz
 0.0.0.0 covidsecurecertificate.com
 0.0.0.0 covidsecurecheck.com
@@ -77130,6 +77367,7 @@
 0.0.0.0 covid-security.com
 0.0.0.0 covidsecurity.net
 0.0.0.0 covidsecurityofficer.com
+0.0.0.0 covidsecurityops.com
 0.0.0.0 covidsecuritysolutionsillinois.com
 0.0.0.0 covidsecuritytracker.com
 0.0.0.0 covidseeindia.com
@@ -77482,6 +77720,7 @@
 0.0.0.0 covidsmart.company
 0.0.0.0 covidsmartest.com
 0.0.0.0 covid-smart.info
+0.0.0.0 covidsmartkids.com
 0.0.0.0 covidsmartmask.com
 0.0.0.0 covidsmartmasks.com
 0.0.0.0 covid-smart.net
@@ -77501,6 +77740,7 @@
 0.0.0.0 covidsmbadvisors.com
 0.0.0.0 covidsmbconsultants.com
 0.0.0.0 covidsmbhelp.com
+0.0.0.0 covidsmellcheck.com
 0.0.0.0 covidsmellstester.com
 0.0.0.0 covidsmelltestchallenge.com
 0.0.0.0 covidsmelltest.com
@@ -77516,6 +77756,7 @@
 0.0.0.0 covidsnafus.com
 0.0.0.0 covidsnaija.com
 0.0.0.0 covidsnapback.com
+0.0.0.0 covidsnapshot.com
 0.0.0.0 covidsn.com
 0.0.0.0 covidsneeze.com
 0.0.0.0 covidsneezeguard.com
@@ -77597,6 +77838,7 @@
 0.0.0.0 covidsolutionsonline.com
 0.0.0.0 covidsolutionsrx.com
 0.0.0.0 covidsolve.com
+0.0.0.0 covidsolved.com
 0.0.0.0 covidsolver.com
 0.0.0.0 covidsolving.com
 0.0.0.0 covidsom.com
@@ -77867,6 +78109,9 @@
 0.0.0.0 covidstrange.com
 0.0.0.0 covidstratagies.com
 0.0.0.0 covidstrategic.com
+0.0.0.0 covidstrategicplan.com
+0.0.0.0 covidstrategicplanning.com
+0.0.0.0 covidstrategicplans.com
 0.0.0.0 covidstrategies.com
 0.0.0.0 covidstrategy.com
 0.0.0.0 covidstrategy.org
@@ -78574,6 +78819,7 @@
 0.0.0.0 covidtestingny.com
 0.0.0.0 covidtestingoc.com
 0.0.0.0 covidtestingofoklahoma.com
+0.0.0.0 covidtestingok.com
 0.0.0.0 covidtestingonline.com
 0.0.0.0 covidtestingpanhandle.com
 0.0.0.0 covidtestingprogram.com
@@ -78638,6 +78884,7 @@
 0.0.0.0 covidtestlocator.com
 0.0.0.0 covidtestlocator.net
 0.0.0.0 covidtestlogistics.com
+0.0.0.0 covidtestmami.com
 0.0.0.0 covidtestmanager.com
 0.0.0.0 covidtestmap.com
 0.0.0.0 covidtestmate.com
@@ -79918,6 +80165,7 @@
 0.0.0.0 covidwarestore.com
 0.0.0.0 covidwarfare.com
 0.0.0.0 covidwarheroes.com
+0.0.0.0 covidwarior.com
 0.0.0.0 covidwar.net
 0.0.0.0 covidwarning.com
 0.0.0.0 covidwarnings.com
@@ -80864,6 +81112,7 @@
 0.0.0.0 creativityvscovid.com
 0.0.0.0 creatorsvscovid.com
 0.0.0.0 crecovid.com
+0.0.0.0 creditandcovid.com
 0.0.0.0 creditcoronavirus.com
 0.0.0.0 creditocovid-19.cl
 0.0.0.0 creditocovid19.com
@@ -104599,6 +104848,7 @@
 0.0.0.0 postpandemicagency.com
 0.0.0.0 postpandemicanxiety.com
 0.0.0.0 postpandemicanxietydisorder.com
+0.0.0.0 postpandemic.app
 0.0.0.0 postpandemicbabyboom.com
 0.0.0.0 postpandemicbaseball.com
 0.0.0.0 postpandemicblockparty.com
@@ -109169,6 +109419,7 @@
 0.0.0.0 solucioncovid.com
 0.0.0.0 solucionescoronavirus.com
 0.0.0.0 solucionescovid19.cl
+0.0.0.0 solucionescovid19.co
 0.0.0.0 solucionescovid-19.com
 0.0.0.0 solucionescovid19.com
 0.0.0.0 solucionescovid.com
@@ -111963,6 +112214,7 @@
 0.0.0.0 texascovid19testing.com
 0.0.0.0 texascovid-19tests.com
 0.0.0.0 texascovid19tests.com
+0.0.0.0 texascovid.app
 0.0.0.0 texascovidattorney.com
 0.0.0.0 texascovidcheck.com
 0.0.0.0 texascovidclaim.com
