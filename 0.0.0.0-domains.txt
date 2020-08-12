@@ -3598,6 +3598,7 @@
 0.0.0.0 api.int.dev.covid-19.forms.digital.nhs.uk
 0.0.0.0 api.iraqcovid19.iq
 0.0.0.0 api.issste.covid19.cdmx.gob.mx
+0.0.0.0 api.issste.covid19-dev.cdmx.gob.mx
 0.0.0.0 api.kawalcovid19.id
 0.0.0.0 api.killcovid-19.org
 0.0.0.0 api-mhcovid19.awsconnect.ha-medibank.com
@@ -86262,6 +86263,7 @@
 0.0.0.0 cpcontacts.covid19emergenciamipymes.com
 0.0.0.0 cpcontacts.covid19fallenheroes.com
 0.0.0.0 cpcontacts.covid19-funding.co.za
+0.0.0.0 cpcontacts.covid-19heroes.org
 0.0.0.0 cpcontacts.covid19hi.com
 0.0.0.0 cpcontacts.covid19hilfe.com
 0.0.0.0 cpcontacts.covid19history.org
