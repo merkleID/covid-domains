@@ -1081,6 +1081,8 @@
 0.0.0.0 abc-coronavirus.planethoster.world
 0.0.0.0 abc-covid19.online
 0.0.0.0 abccovid19.online
+0.0.0.0 abc-covid19.pl
+0.0.0.0 abccovid19.pl
 0.0.0.0 abc.ds-covid19.res.ibm.com
 0.0.0.0 abcoronavirus.com
 0.0.0.0 abcovid19.com
@@ -59302,6 +59304,7 @@
 0.0.0.0 covid19.ppi.id
 0.0.0.0 covid19ppni.id
 0.0.0.0 covid19.ppni-inna.org
+0.0.0.0 covid19.ppns.ac.id
 0.0.0.0 covid19pppabuse.com
 0.0.0.0 covid19ppp.biz
 0.0.0.0 covid-19ppp.com
@@ -61533,6 +61536,7 @@
 0.0.0.0 covid19risk.eastus.cloudapp.azure.com
 0.0.0.0 covid19risk.info
 0.0.0.0 covid-19.riskline.com
+0.0.0.0 covid19-riskline-stag.com
 0.0.0.0 covid-19riskmanagement.com
 0.0.0.0 covid19riskmanagement.com
 0.0.0.0 covid19riskmap.com
