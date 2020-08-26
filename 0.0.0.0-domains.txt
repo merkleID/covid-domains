@@ -3737,6 +3737,7 @@
 0.0.0.0 apirestcovid19.habber.com
 0.0.0.0 api.sars-cov-2-chart.com
 0.0.0.0 apis.coronavirus.pineza.eu
+0.0.0.0 api-sector.hub.tracing.covid19.govt.nz
 0.0.0.0 api.siagacovid19.lebakkab.go.id
 0.0.0.0 api.soscovid19.com.br
 0.0.0.0 api.stage.key-worker-coronavirus-home-testing.service.gov.uk
@@ -4640,6 +4641,7 @@
 0.0.0.0 authoring.covid19riskcomms.org
 0.0.0.0 auth.partners.helpstopcovid19.com
 0.0.0.0 authqa.ppecovid19.com
+0.0.0.0 auth-sector.hub.tracing.covid19.govt.nz
 0.0.0.0 auth.staging.helpstopcovid19.com
 0.0.0.0 autoankaufcorona.com
 0.0.0.0 autocadcovid.com
@@ -32865,6 +32867,7 @@
 0.0.0.0 coronavirusm.ru
 0.0.0.0 coronavirus.msf.codebit.biz
 0.0.0.0 coronavirus.msf.org.br
+0.0.0.0 coronavirusms.ir
 0.0.0.0 coronavirus-msk.ru
 0.0.0.0 coronavirusms.net
 0.0.0.0 coronavirus.msnoar.com.br
@@ -90214,6 +90217,7 @@
 0.0.0.0 docs.covid19forecast.info
 0.0.0.0 docscovidtesting.com
 0.0.0.0 docsoncoronavirus.com
+0.0.0.0 docs-sector.hub.tracing.covid19.govt.nz
 0.0.0.0 docs.stopcoronavirus.tech
 0.0.0.0 docs.thecovid19.club
 0.0.0.0 doctor-corona.com
@@ -132844,6 +132848,7 @@
 0.0.0.0 www.covid19surveyaz.com
 0.0.0.0 www.covid19survey.ford.com
 0.0.0.0 www.covid19-survey.ga
+0.0.0.0 www.covid19survey.info
 0.0.0.0 www.covid19-survey-utah.org
 0.0.0.0 www.covid19survialkit.com
 0.0.0.0 www.covid-19survivalguide.com
