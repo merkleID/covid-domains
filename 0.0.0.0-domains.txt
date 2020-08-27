@@ -3701,6 +3701,7 @@
 0.0.0.0 api.gocovid19.in
 0.0.0.0 api.hercovid19.com.br
 0.0.0.0 api-hospital-covid19.aida.app
+0.0.0.0 api.hub.tracing.covid19.govt.nz
 0.0.0.0 api.impactcovid19.flutilliant.com
 0.0.0.0 api.impactcovid19.fr
 0.0.0.0 api.infocovid19ponorogo.id
@@ -4645,11 +4646,13 @@
 0.0.0.0 auth.endcoronavirus.co.ke
 0.0.0.0 authenticcoronatips.com
 0.0.0.0 auth.helpstopcovid19.com
+0.0.0.0 auth.hub.tracing.covid19.govt.nz
 0.0.0.0 authoring.covid19riskcomms.org
 0.0.0.0 auth.partners.helpstopcovid19.com
 0.0.0.0 authqa.ppecovid19.com
 0.0.0.0 auth-sector.hub.tracing.covid19.govt.nz
 0.0.0.0 auth.staging.helpstopcovid19.com
+0.0.0.0 auth-uat.hub.tracing.covid19.govt.nz
 0.0.0.0 autoankaufcorona.com
 0.0.0.0 autocadcovid.com
 0.0.0.0 autocertificazionecorona.com
@@ -90278,6 +90281,7 @@
 0.0.0.0 docs.covid19.climb.ac.uk
 0.0.0.0 docs.covid19forecast.info
 0.0.0.0 docscovidtesting.com
+0.0.0.0 docs.hub.tracing.covid19.govt.nz
 0.0.0.0 docsoncoronavirus.com
 0.0.0.0 docs-sector.hub.tracing.covid19.govt.nz
 0.0.0.0 docs.stopcoronavirus.tech
@@ -129707,6 +129711,7 @@
 0.0.0.0 www.coronavirusfruad.com
 0.0.0.0 www.coronavirus.furniture
 0.0.0.0 www.corona-virus.fyi
+0.0.0.0 www.coronavirus-game.com
 0.0.0.0 www.coronavirus-game.site
 0.0.0.0 www.coronavirusgear19.com
 0.0.0.0 www.coronavirusgearnow.com
