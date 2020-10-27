@@ -4086,6 +4086,7 @@ api.track-covid19.in
 api.track.covid-19.rowles.ch
 api.train.sa-covid-19-travel.info
 api-uat.hub.tracing.covid19.govt.nz
+api.uat.hub.tracing.covid19.govt.nz
 api.uat.test.covid-19.forms.digital.nhs.uk
 api.ukcoronavirusstatistics.com
 api.upcovid19tracks.in
@@ -5050,6 +5051,7 @@ authqa.ppecovid19.com
 auth-sector.hub.tracing.covid19.govt.nz
 auth.staging.helpstopcovid19.com
 auth-uat.hub.tracing.covid19.govt.nz
+auth.uat.hub.tracing.covid19.govt.nz
 auth.worcestercovid19survey.com
 autoankaufcorona.com
 autocadcovid.com
