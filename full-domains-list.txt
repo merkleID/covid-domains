@@ -4057,6 +4057,7 @@ apipre.alianzacovid19.es
 api.preview.test.covid-19.forms.digital.nhs.uk
 api-prod.coronavirusinfo.cl
 api.prodcovid19.fr
+api.prod.hub.tracing.covid19.govt.nz
 api.public.test-for-coronavirus.service.gov.uk
 apiqa.ppecovid19.com
 api.rapidcovid19.rymedi.com
@@ -5053,6 +5054,7 @@ auth.helpstopcovid19.com
 auth.hub.tracing.covid19.govt.nz
 authoring.covid19riskcomms.org
 auth.partners.helpstopcovid19.com
+auth.prod.hub.tracing.covid19.govt.nz
 authqa.ppecovid19.com
 auth.sect.hub.tracing.covid19.govt.nz
 auth-sector.hub.tracing.covid19.govt.nz
@@ -94389,6 +94391,7 @@ docs.covid19.lunarwings.dev
 docscovidtesting.com
 docs.hub.tracing.covid19.govt.nz
 docsoncoronavirus.com
+docs.prod.hub.tracing.covid19.govt.nz
 docs.sect.hub.tracing.covid19.govt.nz
 docs-sector.hub.tracing.covid19.govt.nz
 docs.stopcoronavirus.tech
