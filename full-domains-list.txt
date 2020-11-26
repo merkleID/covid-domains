@@ -1648,6 +1648,7 @@ adm.coronavirus.igaps.gx360.com.br
 adm.coronavirus.romelandia.gx360.com.br
 admin-api.coronavirus-monitor.com
 admin.api.covid19.et
+admin-api.dev.log-coronavirus-test-site-results.service.gov.uk
 admin.bantuan.covid19.sabah.digital
 admin.cgcovid19.in
 admin.coronavirusmaroc.info
@@ -4167,6 +4168,7 @@ api.develop.lp-covid-19.review.buroburo.tech
 api-development.covid19-tracing.ch
 api.development.testcovid19.be
 api.dev.key-worker-coronavirus-home-testing.service.gov.uk
+api.dev.log-coronavirus-test-site-results.service.gov.uk
 apidev.services.19andme.covid19.mathematica.org
 api.dev.services.coronavirus-home-testing.service.gov.uk
 api.diycovid19mask.com
@@ -49139,6 +49141,7 @@ covid19dataset.com
 covid-19-dataset.now.sh
 covid19datasets.com
 covid-19.datasettes.com
+covid-19-data.sintef.cloud
 covid19-data-sonification.space
 covid19datasource.com
 covid19data.space
