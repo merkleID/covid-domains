@@ -1664,6 +1664,7 @@ adm.coronavirus.romelandia.gx360.com.br
 admin-api.coronavirus-monitor.com
 admin.api.covid19.et
 admin-api.dev.log-coronavirus-test-site-results.service.gov.uk
+admin-api.log-coronavirus-test-site-results.service.gov.uk
 admin-api.stg.log-coronavirus-test-site-results.service.gov.uk
 admin.bantuan.covid19.sabah.digital
 admin.cgcovid19.in
@@ -4234,6 +4235,7 @@ api.issste.covid19-dev.cdmx.gob.mx
 api.kawalcovid19.id
 api.killcovid-19.org
 api.kycovid19numbers.com
+api.log-coronavirus-test-site-results.service.gov.uk
 api.maladiecoronavirus.fr
 api-mhcovid19.awsconnect.ha-medibank.com
 api-mhcovid19.awsconnect.medibank.com.au
