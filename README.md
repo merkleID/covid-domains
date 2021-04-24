@@ -20,11 +20,9 @@ to /etc/pihole/adlist.list
 
 Original files lists:
 
-https://1984.sh/covid19-domains-feed.txt
-
 http://malwarepatrolexport-covid-19.s3-website.us-east-2.amazonaws.com/domains/domains.txt
 
-A simple bash-script rework based on the above two covid-related spam-domains lists.
+A simple bash-script that parses and create different outputs for covid-related spam-domains lists.
 The bash-script parses the files and then outputs to respective dns-daemons zone-file formats.
 
 01-apr-2020 (no April Fool): ADDED EXCLUSION LIST
